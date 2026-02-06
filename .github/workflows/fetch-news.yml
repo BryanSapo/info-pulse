@@ -1,0 +1,104 @@
+name: Fetch News and Update Site
+
+on:
+  # Run every 2 hours
+  schedule:
+    - cron: '0 */2 * * *'
+  
+  # Allow manual trigger
+  workflow_dispatch:
+    inputs:
+      skip_summarize:
+        description: 'Skip AI summarization (faster, for testing)'
+        required: false
+        default: 'false'
+        type: boolean
+
+  # Also run on push to main (for initial setup)
+  push:
+    branches:
+      - main
+    paths:
+      - 'topics.yaml'
+      - 'src/**'
+      - 'templates/**'
+
+# Permissions needed to push to repo
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  fetch-and-generate:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v4
+        with:
+          version: "latest"
+
+      - name: Set up Python
+        run: uv python install 3.12
+
+      - name: Install dependencies
+        run: uv sync
+
+      - name: Fetch news and generate site
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+        run: |
+          if [ "${{ inputs.skip_summarize }}" = "true" ]; then
+            uv run python main.py --skip-summarize
+          else
+            uv run python main.py
+          fi
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git diff --quiet docs/ || echo "changes=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add docs/
+          git commit -m "🏀 Update news feed - $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
+
+  # Deploy to GitHub Pages
+  deploy:
+    needs: fetch-and-generate
+    runs-on: ubuntu-latest
+    
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main  # Get latest changes including the commit above
+
+      - name: Pull latest changes
+        run: git pull origin main
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: 'docs'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

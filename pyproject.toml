@@ -1,0 +1,27 @@
+[project]
+name = "info-pulse"
+version = "0.1.0"
+description = "Automated Lakers & NBA news aggregator with AI summarization for GitHub Pages"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "httpx>=0.27.0",
+    "feedparser>=6.0.10",
+    "pyyaml>=6.0.1",
+    "jinja2>=3.1.3",
+    "python-dotenv>=1.0.1",
+    "openai>=1.12.0",
+]
+
+[tool.uv]
+package = true
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/info_pulse"]
+
+[project.scripts]
+info-pulse = "info_pulse.main:main"

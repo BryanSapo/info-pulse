@@ -1,0 +1,55 @@
+# Info Pulse - Topics Configuration
+# Edit this file via GitHub's web interface to add/remove topics
+# Changes will take effect on the next scheduled run (every 2 hours)
+
+# Settings
+settings:
+  max_articles_per_topic: 10
+  keep_days: 2  # Keep articles from last N days
+  
+topics:
+  - name: "Lakers News"
+    description: "Los Angeles Lakers team news, trades, and updates"
+    keywords:
+      - "Lakers"
+      - "Los Angeles Lakers"
+      - "LeBron James Lakers"
+      - "Luka Doncic Lakers"
+    rss_feeds:
+      - url: "https://www.silverscreenandroll.com/rss/current.xml"
+        name: "Silver Screen and Roll"
+      - url: "https://lakersnation.com/feed/"
+        name: "Lakers Nation"
+      - url: "https://www.reddit.com/r/lakers/.rss"
+        name: "Reddit r/lakers"
+      - url: "https://news.google.com/rss/search?q=Los+Angeles+Lakers&hl=en-US&gl=US&ceid=US:en"
+        name: "Google News - Lakers"
+
+  - name: "NBA League News"
+    description: "General NBA news, standings, and league updates"
+    keywords:
+      - "NBA"
+      - "basketball"
+      - "NBA trade"
+      - "NBA playoffs"
+    rss_feeds:
+      - url: "https://www.espn.com/espn/rss/nba/news"
+        name: "ESPN NBA"
+      - url: "https://sports.yahoo.com/nba/rss"
+        name: "Yahoo Sports NBA"
+      - url: "https://www.cbssports.com/rss/headlines/nba/"
+        name: "CBS Sports NBA"
+      - url: "https://www.reddit.com/r/nba/.rss"
+        name: "Reddit r/nba"
+
+  - name: "Lakers Players"
+    description: "News about key Lakers players"
+    keywords:
+      - "LeBron James"
+      - "Austin Reaves"
+      - "Luka Doncic"
+    rss_feeds:
+      - url: "https://news.google.com/rss/search?q=LeBron+James&hl=en-US&gl=US&ceid=US:en"
+        name: "Google News - LeBron"
+      - url: "https://news.google.com/rss/search?q=Luka+Doncic+Lakers&hl=en-US&gl=US&ceid=US:en"
+        name: "Google News - Luka"
