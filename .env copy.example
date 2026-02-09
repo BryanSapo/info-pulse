@@ -1,7 +1,0 @@
-# OpenRouter API Key for AI summarization
-# Get your key at: https://openrouter.ai/keys
-OPENROUTER_API_KEY=your_openrouter_api_key_here
-
-# NewsAPI Key (optional fallback for news fetching)
-# Get your key at: https://newsapi.org/register
-NEWS_API_KEY=your_newsapi_key_here
