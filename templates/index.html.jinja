@@ -17,8 +17,10 @@
         y = l.getElementsByTagName(r)[0];
         y.parentNode.insertBefore(t, y);
       })(window, document, "clarity", "script", "vc0v8x0fgb");
-      function handleOnclickLink(){
-        console.log("Click on link")
+      function handleOnclickLink(articleId: string){
+        if (window.clarity) {
+            window.clarity("event", "read_full_article", { articleId });
+        }
       }
     </script>
     <meta name="description" content="AI-powered Los Angeles Lakers and NBA news aggregator - Updated every 2 hours">
@@ -410,7 +412,7 @@
                         {% endfor %}
                     </ul>
                     {% endif %}
-                    <a href="{{ article.original.link }}" target="_blank" rel="noopener noreferrer" class="article-link" onclick={handleOnclickLink()}>
+                    <a href="{{ article.original.link }}" target="_blank" rel="noopener noreferrer" class="article-link" onclick={handleOnclickLink(article.original.link)}>
                         Read full article
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
                             <path fill-rule="evenodd" d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z" clip-rule="evenodd" />
