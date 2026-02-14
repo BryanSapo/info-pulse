@@ -1,10 +1,32 @@
 {
-  "generated_at": "2026-02-14T05:09:06.260151+00:00",
+  "generated_at": "2026-02-14T06:47:31.867512+00:00",
   "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
+        {
+          "id": "e432783a65a9",
+          "title": "What did maxi say that got Bronny looking like that?",
+          "original_title": "What did maxi say that got Bronny looking like that?",
+          "summary": "      &#32; submitted by &#32;  /u/Little_Papaya_2475   [link] &#32; [comments] ",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/lakers/comments/1r4dank/what_did_maxi_say_that_got_bronny_looking_like/",
+          "source": "Reddit r/lakers",
+          "published": "2026-02-14T06:23:41+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "28693479191d",
+          "title": "Nba draft",
+          "original_title": "Nba draft",
+          "summary": "      This my favorite players the lakers should target in thier 2026 pick what do you think. i really hope lakers pick better fit in the team cause lakers pick back to back in the 1st rd was horrible i hope this year we have better pick a legit player  &#32; submitted by &#32;  /u/Successful-Pair-4850   [link] &#32; [comments] ",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/lakers/comments/1r4ccni/nba_draft/",
+          "source": "Reddit r/lakers",
+          "published": "2026-02-14T05:32:32+00:00",
+          "topic": "Lakers News"
+        },
         {
           "id": "c78892afc3f1",
           "title": "Los Angeles Lakers center headlines field for 2026 NBA Slam Dunk Contest - Yahoo Sports",
@@ -92,34 +114,67 @@
           "source": "Lakers Nation",
           "published": "2026-02-13T23:40:08+00:00",
           "topic": "Lakers News"
-        },
-        {
-          "id": "57fdffb435c6",
-          "title": "Ivica Zubac Claims Lakers Legend Blocked Kareem Abdul-Jabbar Mentorship - Sports Illustrated",
-          "original_title": "Ivica Zubac Claims Lakers Legend Blocked Kareem Abdul-Jabbar Mentorship - Sports Illustrated",
-          "summary": "Ivica Zubac Claims Lakers Legend Blocked Kareem Abdul-Jabbar Mentorship&nbsp;&nbsp;Sports Illustrated",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONmFIRW14TmhhUFp0R2FmQ2xQMUxkMzdBTUFBWjFPMDR1SDVLUzg1UVZQMGJVdU4yZ2V1TTFwX0RDTldoamsyVVViVDFZQVZCNjV4MUwxZDlVbzZ6cm1zc0dqMTJjVjdvdWIwUlc0MkI2Qy16NXpXQXYwQW1ueXlIdVhfbG9BSkdTS1ZlWlA4VTZzTDhiZXVFVnN3cjZhQnZtY3lNT2NQNHliREx1WlBJQzhvOVN1bkwtN3lyVXR6TjBGUQ?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-02-13T23:19:12+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "fdc3471a1ea1",
-          "title": "Lakers Urged To \u2018Enjoy\u2019 Last LeBron Season Amid Cavs Rumors, Fleeting Title Hopes - Heavy Sports",
-          "original_title": "Lakers Urged To \u2018Enjoy\u2019 Last LeBron Season Amid Cavs Rumors, Fleeting Title Hopes - Heavy Sports",
-          "summary": "Lakers Urged To \u2018Enjoy\u2019 Last LeBron Season Amid Cavs Rumors, Fleeting Title Hopes&nbsp;&nbsp;Heavy Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT1JaLW5lSTE3Qzg0b2hTU1dueUo2WEZkbURLQ2pFUGthODMwLWoxNXprd25waS1SRGd6bHh1QWJuUm5PRnIxU2FDUHZUanB6QmhGak5OaVl3RHduN1kyaXVrUjBteG5xM2M5dXAxYXRyQUpGNWdoY1RjN2oxTzl6N1NyXzByYVVkc1pXVHFKbW9OcXY3X2M1d0pBSnIydzQ?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-02-13T23:13:17+00:00",
-          "topic": "Lakers News"
         }
       ]
     },
     {
       "name": "NBA League News",
       "articles": [
+        {
+          "id": "a3c022c3bd81",
+          "title": "NBA Power Rankings: Where all 30 teams land heading into All-Star Weekend",
+          "original_title": "NBA Power Rankings: Where all 30 teams land heading into All-Star Weekend",
+          "summary": "Where do all 30 teams stand after the trade deadline and heading into the 2026 NBA All-Star weekend?",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/47890213/nba-power-rankings-all-30-teams-all-star-break-post-trade-deadline",
+          "source": "ESPN NBA",
+          "published": "2026-02-14T05:48:30+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "4004d866f7b0",
+          "title": "NBA All-Star 2026: 76ers rookie VJ Edgecombe sets tone for the weekend with Rising Stars performance",
+          "original_title": "NBA All-Star 2026: 76ers rookie VJ Edgecombe sets tone for the weekend with Rising Stars performance",
+          "summary": "Edgecombe's performance was a timely reminder of the 20-year-old's value as a scorer in Philadelphia this season.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/nba/article/nba-all-star-2026-76ers-rookie-vj-edgecombe-sets-tone-for-the-weekend-with-rising-stars-performance-052917231.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-02-14T05:29:17+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "09e9b761541e",
+          "title": "MVP VJ Edgecombe leads Team Vince to Rising Stars win to open All-Star Weekend",
+          "original_title": "MVP VJ Edgecombe leads Team Vince to Rising Stars win to open All-Star Weekend",
+          "summary": "Let\u2019s just hope everyone on Sunday plays as hard as the rookies and sophomores did on Friday",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/mvp-vj-edgecome-leads-team-051129738.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-02-14T05:11:29+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "ca963fb854fe",
+          "title": "NBA All-Star weekend: Team Vince wins the Rising Stars Challenge",
+          "original_title": "NBA All-Star weekend: Team Vince wins the Rising Stars Challenge",
+          "summary": "Philadelphia rookie VJ Edgecombe has 17 points in the semifinals and has the tying and winning free throws in the championship game on Friday at Intuit Dome.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/nba-star-weekend-team-vince-050157048.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-02-14T05:01:57+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "28068b3bce99",
+          "title": "BYU says star wide receiver charged with felony rape is no longer a student there",
+          "original_title": "BYU says star wide receiver charged with felony rape is no longer a student there",
+          "summary": "Brigham Young University said Friday that standout wide receiver Parker Kingston is no longer a student at the Utah private school after he was arrested this week on a first-degree felony rape charge.  Kingston, 21, made his initial court appearance Friday in St. George, where prosecutors say a woman who was 20 years old at the time told officers that Kingston assaulted her at her home last February.  \u201cI found by clear and convincing evidence that Mr. Kingston was a danger to the community,\" Jud",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/byu-says-star-wide-receiver-045118394.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-02-14T04:51:18+00:00",
+          "topic": "NBA League News"
+        },
         {
           "id": "aa99e69263a9",
           "title": "No. 23 Miami (Ohio) remains lone unbeaten team in Division I after 90-74 win over Ohio",
@@ -174,61 +229,6 @@
           "source": "ESPN NBA",
           "published": "2026-02-14T04:38:31+00:00",
           "topic": "NBA League News"
-        },
-        {
-          "id": "2f37e025d7e0",
-          "title": "76ers' Edgecombe named MVP in Rising Stars win",
-          "original_title": "76ers' Edgecombe named MVP in Rising Stars win",
-          "summary": "Philadelphia rookie VJ Edgecombe led Team Vince to victory in the Rising Stars event at NBA All-Star Weekend on Friday night.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/47924940/vj-edgecombe-named-rising-stars-mvp-win-team-melo",
-          "source": "ESPN NBA",
-          "published": "2026-02-14T04:27:47+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "76823478ea4f",
-          "title": "Topic debuts for Thunder after testicular cancer",
-          "original_title": "Topic debuts for Thunder after testicular cancer",
-          "summary": "Nikola Topic, who missed all of last season because of a knee injury and had not played this season after a cancer diagnosis, made his debut Thursday.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/47914037/nikola-topic-makes-thunder-debut-testicular-cancer",
-          "source": "ESPN NBA",
-          "published": "2026-02-14T04:27:47+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "398ea2c2e14a",
-          "title": "Agent: Sochan joining Knicks after Spurs release",
-          "original_title": "Agent: Sochan joining Knicks after Spurs release",
-          "summary": "Free agent forward Jeremy Sochan, who was released by the Spurs, plans to sign with the Knicks after he clears waivers, his agent told ESPN.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/47910624/agent-jeremy-sochan-sign-knicks-clearing-waivers",
-          "source": "ESPN NBA",
-          "published": "2026-02-14T04:27:47+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "ab6dcd9ebfa1",
-          "title": "OKC to review Williams' injury after All-Star break",
-          "original_title": "OKC to review Williams' injury after All-Star break",
-          "summary": "Thunder forward Jalen Williams will be reevaluated after the All-Star break after again straining his right hamstring, a team spokesperson told ESPN.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/47910956/thunder-review-jalen-williams-injury-all-star-break",
-          "source": "ESPN NBA",
-          "published": "2026-02-14T04:27:47+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "a52926ce3f44",
-          "title": "Paul announces NBA retirement after 21 seasons",
-          "original_title": "Paul announces NBA retirement after 21 seasons",
-          "summary": "Chris Paul announced his retirement from the NBA via a social media post Friday. Paul had previously said he would retire at the end of this season, his 21st NBA campaign.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/47920879/chris-paul-announces-retirement-nba-21-seasons",
-          "source": "ESPN NBA",
-          "published": "2026-02-14T04:27:46+00:00",
-          "topic": "NBA League News"
         }
       ]
     },
@@ -236,36 +236,14 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "821df68c9646",
-          "title": "There\u2019s \u2018rampant speculation\u2019 that LeBron James could return to Cavs this summer - Yahoo Sports",
-          "original_title": "There\u2019s \u2018rampant speculation\u2019 that LeBron James could return to Cavs this summer - Yahoo Sports",
-          "summary": "There\u2019s \u2018rampant speculation\u2019 that LeBron James could return to Cavs this summer&nbsp;&nbsp;Yahoo Sports",
+          "id": "cebfba8cf303",
+          "title": "Luka Doncic Sends Confident Message About \"Very Dangerous\" Lakers - Fadeaway World",
+          "original_title": "Luka Doncic Sends Confident Message About \"Very Dangerous\" Lakers - Fadeaway World",
+          "summary": "Luka Doncic Sends Confident Message About \"Very Dangerous\" Lakers&nbsp;&nbsp;Fadeaway World",
           "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTG1KS1NGeWVCZl8wd253RzhHZFc2MjFuQ3NVTDNXeUFkMV9HMUJ0SF92YVFGZDJRcUxjZmxzOW85RmJ3aFJldXRaYTNvZzU0eTkwQ21tam0zaXZBb2k4ZTgxNVRCWUlEVGdvclVFM0h5dHBKSVdqRXNPZ2JndE9zNC11Q2lhV1lORThoRE9HeF9kZ0gtdWc?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-02-14T03:30:31+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "be4ddf4368a3",
-          "title": "Insider: Luka Doncic 'on course' to play in NBA All-Star Game - LeBron Wire",
-          "original_title": "Insider: Luka Doncic 'on course' to play in NBA All-Star Game - LeBron Wire",
-          "summary": "Insider: Luka Doncic 'on course' to play in NBA All-Star Game&nbsp;&nbsp;LeBron Wire",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX2k4THhaS0t4bE82SU9RbERxZDhYSEl6RHdaTk12dnRGNG5ZSm5OM0xvYWV5VUNURjBGR1Y2Q2dJLThWMExWbS1qa0tHVy1DTGZfOEFzMF9IU190TldEUEZsSDlEODJJQkxxMGN4X0p0UW1JMG5zRUc5LW5oOXUyY2ZfYUhzMTlHaHBsOEozVzFnckd4TjNnaTJZbENIUU9zYlZFYVUzQ3JmVi1vNmtEcGFhbTFXTVFoY255SFJPT2lDVWFleWsxV0J6OA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTlpfd0JmMTVPVElvSDFmelZJQ240ejVqSm1jaFRlYnVkRVl2dkF3SmNiSUdRRmVSQzdSNk9SbllyQzdMRUlZS3h2czlWMEh3YTRYLXhlbzctVW8wVktGM2MyTVdhQTh0QlpCaklmeERLUENZT3ZKdmdiNndweFpjNEZGWDI1b3M5bFhBMWt4OW1PcDBudHJETlRGWnhack5OLU9iMnU5d1h1VTZGLXVZYXdR?oc=5",
           "source": "Google News - Luka",
-          "published": "2026-02-14T03:04:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "6039ea380af5",
-          "title": "Chris Bosh Was Livid At LeBron James For Leaving Miami Heat - Heavy Sports",
-          "original_title": "Chris Bosh Was Livid At LeBron James For Leaving Miami Heat - Heavy Sports",
-          "summary": "Chris Bosh Was Livid At LeBron James For Leaving Miami Heat&nbsp;&nbsp;Heavy Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSUR4dUl0WFVFcjBxdk5tMFdHT0JkdUFJS3FCNnZtVU5oTWQ3Y2dmdDhjaDMzdjc5Vjd2VUtVZXRQOXF0X2ZPTnVTMkF1N3JmT1g2N2FsRGVIZ2xFQ1o4dUdqWTNQWG9DN0Rna21mUzlJTzdhV1NqbzZacVFzRzd2cA?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-02-14T01:33:00+00:00",
+          "published": "2026-02-14T06:23:48+00:00",
           "topic": "Lakers Players"
         },
         {
@@ -276,7 +254,51 @@
           "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOREdpS3k0blJ5dURzY2ZsdDYwRHhvZjVGSVVMNllxZlFfT0hnSFFBZTJHSVJfNDRheG1SOW9vOTJ3NlZfQXNJR2htM0xlRWZ2V3NiRGxZdFRYT1N1MkVINkl2eFh1V3RKS0VhYldzR3ZCSy1LUjRJaDNERzgwblg5bS1wV0wxaW5rc2FrQ3RQYmZITXNxdjU5RjU0RWlBR2NwbVNJSDdVd2poR3J5RkFuU0hzUWJsS2tjZVEwbVpLNWwtVG50SDhvcFhvMUM4d1Y2eGI4Y3VfY0RNTXh4Q0FyQktwMkRtWmdnTEZLRjA4dWxYZ1BwaWc4N0hyY1Q2ZWhva0dwVFFpQzV5TWJRbEhhMDNB?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-02-14T01:24:44+00:00",
+          "published": "2026-02-14T05:48:50+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "805283cbab1f",
+          "title": "There's speculation about LeBron James retirement tour with Cavaliers - LeBron Wire",
+          "original_title": "There's speculation about LeBron James retirement tour with Cavaliers - LeBron Wire",
+          "summary": "There's speculation about LeBron James retirement tour with Cavaliers&nbsp;&nbsp;LeBron Wire",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOM0NNNEtEdHhyWHFWLU1kb25zaWJibUg2V053STUzNS1KM2J5SEl1UFRHSGpRU3poTDc2ZGh5cklTWHhsc3ppaUhrTHhqRGJ4blgybURkMElrbjBUOVhScG9LelYxVGY3ZmF2ZGRFdnNOYlA0SDZYakNfa3FESFlZWFowSUR4UHdlZlRUQUVWYk44VnhjajNXdU9kS1dhU05EYXNjbUxWMWprT2ljMGg3TnpUcGNHMU8wenQxNWEzSDhvRHlmbFFnQmoxZ0dvc3NfZ3ExaVNpdjlaMWR0Z2NtYzVB?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-02-14T05:22:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "2b5063e60adf",
+          "title": "There\u2019s \u2018rampant speculation\u2019 that LeBron James will return to Cavs this summer - Fear The Sword",
+          "original_title": "There\u2019s \u2018rampant speculation\u2019 that LeBron James will return to Cavs this summer - Fear The Sword",
+          "summary": "There\u2019s \u2018rampant speculation\u2019 that LeBron James will return to Cavs this summer&nbsp;&nbsp;Fear The Sword",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWElHcFpEblpGYmNHTmt5RmdZZEJveHBjMXJQaXhQMmE1R2V3aUtPMERBdE8tZjhKdV8wUTFiMGtjMFpjTHl0VFY5OUFveXZPM3FLdC1zcHpmbU81UDNHZUFQZGhra1FLemdwclVzcTJqNk51eThWNkFSdzd3Vy1YRlR2eWFWQUY1Tld3NWFEWVV5R3NoX0wwTUpVZVJVZmlMaUFZV0NaUUQ4cEJWSWVqdEFIcHNLdHNkNDljOVF4OUlMaUVHN08xaHpSRXdmU1lrWHFldVl2MS0wdVVQNk1jQUVMSQ?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-02-14T03:30:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "087bef5497f7",
+          "title": "Cavaliers Modify Court After Luka Don\u010di\u0107 Injury Scare vs Lakers - lamag.com",
+          "original_title": "Cavaliers Modify Court After Luka Don\u010di\u0107 Injury Scare vs Lakers - lamag.com",
+          "summary": "Cavaliers Modify Court After Luka Don\u010di\u0107 Injury Scare vs Lakers&nbsp;&nbsp;lamag.com",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IeEJ6UnRwTUlRLTA2NGU4STFya2ZwVHBuVVdwTmhBNVMwdHdJdWxPekNWWG9DSGc0RXlBcG9ySnhzLVY4dWs0UURKMmcwbnRuSEdUYU1jeGtKSG0zZkswM182dU1ndXpMcEw5SnpLWkxNLThmdVNHeGJ5UHI4LW8?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-02-14T02:56:31+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "aa71b68c161d",
+          "title": "Warriors' Draymond Green regrets name-calling LeBron James in 2016 NBA Finals - NBC Sports Bay Area & California",
+          "original_title": "Warriors' Draymond Green regrets name-calling LeBron James in 2016 NBA Finals - NBC Sports Bay Area & California",
+          "summary": "Warriors' Draymond Green regrets name-calling LeBron James in 2016 NBA Finals&nbsp;&nbsp;NBC Sports Bay Area & California",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOE5IN1I2ckt6d0FhNlVKSXZpdnpIdmF2NjIzLWxuSWRod2hGVXZUM2REcjNMN3BMZkllcV85S3dTOFZHUk1vQW1zNVJEcTNfZGN5cUFqUlJPUlp6ZVhMSWhUcTQyZEpLWXRUMmF3WG5oSDgxQjNlVy02MWpFYTBYcGNDaG9NeFVNc1F0MmYyakIwZWJ2emxKSVpFejdWckVDRWdOTS1rbi1CUXPSAbMBQVVfeXFMTUZXWG5jZDY0UjltQnd3dlpGaGw1Q0MzVjU0Uy0xdklaVXVMQ3g3aWpJdHhpMnNNVjh4ZTRtWFA2NU5zTkZiWnp5dm45UlhhSEJBSWt5aWY0QndwbjRJZXBvOEtCclJRY09rNDA3OTE0TVQxaEZ6N2c2bjlITGJqblczMHViOUJsVHVCeUVpMllxZmg1Qm11VUxJQ3gxdXVyMWlLRzU3NVlGTkc0MEZLVkF0OVk?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-02-14T02:39:52+00:00",
           "topic": "Lakers Players"
         },
         {
@@ -288,17 +310,6 @@
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYVpDLTVBM0xxeE5TSDFzMHV0M2w2RXR1ZjdIRjVsMDhCaUxTQ0lDMlF3VWdLajJlVUxqTnpRUzZNYVNhaC16RGs3d0FRY1JtVkN5UXk1VUdFeG1RTF9CUUREZnNnZzRlMGdhTkZfLURlc3VJNGNhMllNNGdpRDhtMk5kQ1cxS3dtZEcxQnl1TTBpZHR6UktfWkpwYko?oc=5",
           "source": "Google News - Luka",
           "published": "2026-02-14T00:23:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "b912f4569b2b",
-          "title": "Lakers\u2019 Luka Doncic expected to play in All-Star Game after workout - ClutchPoints",
-          "original_title": "Lakers\u2019 Luka Doncic expected to play in All-Star Game after workout - ClutchPoints",
-          "summary": "Lakers\u2019 Luka Doncic expected to play in All-Star Game after workout&nbsp;&nbsp;ClutchPoints",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU3o5ZHBkdEl1ZGdHZHlzdEdFQ01zOXZuQlVNdG9qMWNpc3BYdmVsRFpFTUdzVmJnbm1SUXBNeWNqYTR4d2ZELW45YmQwTkc5RlJtRlZrdUhEeWc3U3J2MENJc3pFT2dVNmNhYnlFazcyOEh2d2pFd0t4UUNURERqYW05T3RObXdWUHBudlVlTFVNQnNTeGRuaWhkbV9iSkxhbDNNLW9R?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-02-13T23:08:08+00:00",
           "topic": "Lakers Players"
         },
         {
@@ -324,25 +335,14 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "b982578546ef",
-          "title": "Mystery Teams Emerge in LeBron Free Agency Rumors: 4 Likely Options, Including NY Knicks - Sportsnaut",
-          "original_title": "Mystery Teams Emerge in LeBron Free Agency Rumors: 4 Likely Options, Including NY Knicks - Sportsnaut",
-          "summary": "Mystery Teams Emerge in LeBron Free Agency Rumors: 4 Likely Options, Including NY Knicks&nbsp;&nbsp;Sportsnaut",
+          "id": "8961c7cff663",
+          "title": "Lakers Injury Report: Luka Don\u010di\u0107 \u2018on course\u2019 to play in All-Star Game - Silver Screen and Roll",
+          "original_title": "Lakers Injury Report: Luka Don\u010di\u0107 \u2018on course\u2019 to play in All-Star Game - Silver Screen and Roll",
+          "summary": "Lakers Injury Report: Luka Don\u010di\u0107 \u2018on course\u2019 to play in All-Star Game&nbsp;&nbsp;Silver Screen and RollLuka Don\u010di\u0107 All-Star Game Availability Gets Major Update&nbsp;&nbsp;Heavy SportsLuka Don\u010di\u0107 Injury Update: NBA Insider Announces Major News On Lakers Star\u2019s Status For All-Star Game&nbsp;&nbsp;PFSN",
           "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16Q2Y5eW5kcTB3WkRVYWtZNmotT2w0bWVMbWF0MWVCbDg4QU5wWkNLMlVUME9sRldCZFNCNFhnMWw5Q3BpVEVUeXd4LWdUWFc4R19YWWpwclE5ZDZzdmxCYUc1SkZ1M0ZWVG9rWkJQbTA1UVNibGJjYm9od05adw?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-02-13T21:57:58+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "6d0080cf0b66",
-          "title": "Luka Don\u010di\u0107 Launches 77X Fan Experience Pop-Up Featuring Trick Shot Arcade and Exclusive Merch - Complex",
-          "original_title": "Luka Don\u010di\u0107 Launches 77X Fan Experience Pop-Up Featuring Trick Shot Arcade and Exclusive Merch - Complex",
-          "summary": "Luka Don\u010di\u0107 Launches 77X Fan Experience Pop-Up Featuring Trick Shot Arcade and Exclusive Merch&nbsp;&nbsp;Complex",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6QnlEZ0UwTktURHQzMmZRVzlaN01rczBKMmdQTkJQREVlX2p6d1ZlcjMyUUw4WlhhMHdQSWhtd0lqTXQtQ1ZmYnpjWFpOT0Eyc1dUQ0trMlhJMjQtTXpxY09BQm9kNFdfMUpzTmpqenBFQVAzWTNkRlFnbDFYbDQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcUZ1ZWtSRGcwZnVETEtMbzhobUkxWjJpTy0wdkZDR0o5akF1RXpKWGZwX1gzOC1HbnVXZnI1bUFybW9XajVsRjZibWZnTjRKeU5DMDE2a0RxaGN6VXZtb1hPYzMwQUNZd3JJdGR4TER5eHVteXJObGhVTlFzWWpET1RWVEdRRE1VRlQ2V1pYREpBUElTbHAtS2x3NUM5QjZaWW5OSnlBWTdCclJNekhoRTNVVDB2WWJkOGFFVFhrT0x4VWVzQm1Ra3Q1blhSbXc0TmtEU3pJWWM1SzQ?oc=5",
           "source": "Google News - Luka",
-          "published": "2026-02-13T21:38:42+00:00",
+          "published": "2026-02-13T21:27:29+00:00",
           "topic": "Lakers Players"
         }
       ]
