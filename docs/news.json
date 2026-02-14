@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-14T06:47:31.867512+00:00",
+  "generated_at": "2026-02-14T08:34:57.845024+00:00",
   "total_articles": 30,
   "topics": [
     {
@@ -14,6 +14,17 @@
           "link": "https://www.reddit.com/r/lakers/comments/1r4dank/what_did_maxi_say_that_got_bronny_looking_like/",
           "source": "Reddit r/lakers",
           "published": "2026-02-14T06:23:41+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "785bb0370a54",
+          "title": "2nd rd pick",
+          "original_title": "2nd rd pick",
+          "summary": "      Currently Lakers dont have 2nd rd pick but who knows maybe they will buy one so who do you think lakers should target in 2nd rd? what do you think about joseph tugler one of the most menance defender in college im concern about he never attempt 3pt shot.   &#32; submitted by &#32;  /u/Successful-Pair-4850   [link] &#32; [comments] ",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/lakers/comments/1r4cwek/2nd_rd_pick/",
+          "source": "Reddit r/lakers",
+          "published": "2026-02-14T06:01:48+00:00",
           "topic": "Lakers News"
         },
         {
@@ -103,23 +114,45 @@
           "source": "Lakers Nation",
           "published": "2026-02-14T00:10:40+00:00",
           "topic": "Lakers News"
-        },
-        {
-          "id": "1b0cebf89b51",
-          "title": "Lakers News: LeBron James Discusses Becoming Oldest Player In NBA History To Record Triple-Double",
-          "original_title": "Lakers News: LeBron James Discusses Becoming Oldest Player In NBA History To Record Triple-Double",
-          "summary": "The Los Angeles Lakers went into the All-Star break with a bang by defeating the Dallas Mavericks 124-104. They moved to 33-21 and into fifth in the Western Conference ahead of the week off. LeBron James led the way in L.A.&#8217;s final win of the first half, dropping 28 points, 10 rebounds and 12 assists. [&#8230;]",
-          "key_points": [],
-          "link": "https://lakersnation.com/lakers-news-lebron-james-discusses-becoming-oldest-player-with-triple-double-nba-history/",
-          "source": "Lakers Nation",
-          "published": "2026-02-13T23:40:08+00:00",
-          "topic": "Lakers News"
         }
       ]
     },
     {
       "name": "NBA League News",
       "articles": [
+        {
+          "id": "c9975ac62a9e",
+          "title": "Clippers share Chris Paul thank you video after trade earlier in season",
+          "original_title": "Clippers share Chris Paul thank you video after trade earlier in season",
+          "summary": "Chris Paul and the Clippers may not have left on the best of terms, but the two maintain deep connection as Clips share thank you video.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/clippers-share-chris-paul-thank-074806480.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-02-14T07:48:06+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "17021a6f22c1",
+          "title": "NBA All-Stars take note: Rising Stars competed. You can, too",
+          "original_title": "NBA All-Stars take note: Rising Stars competed. You can, too",
+          "summary": "The NBA All-Star Game has faced intense criticism recently over a lack of competitive effort. The NBA Rising Stars provided a model for improvement.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/nba-stars-note-rising-stars-072456297.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-02-14T07:24:56+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "3558e2da383e",
+          "title": "North Carolina A&amp;T beats Hampton 71-70 on Trent Middleton Jr.'s free throw in HBCU Classic",
+          "original_title": "North Carolina A&amp;T beats Hampton 71-70 on Trent Middleton Jr.'s free throw in HBCU Classic",
+          "summary": "Trent Middleton Jr. scored on a driving layup, got fouled and made a free throw with 4.5 seconds remaining, lifting North Carolina A&amp;T over Hampton 71-70 in the HBCU Classic on Friday night as part of NBA All-Star weekend.  It was the Aggies' first lead since they scored the game's first basket.  Jalyke Gaines-Wyatt's potential tying floater just missed at the buzzer.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/north-carolina-t-beats-hampton-065623865.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-02-14T06:56:23+00:00",
+          "topic": "NBA League News"
+        },
         {
           "id": "a3c022c3bd81",
           "title": "NBA Power Rankings: Where all 30 teams land heading into All-Star Weekend",
@@ -132,6 +165,17 @@
           "topic": "NBA League News"
         },
         {
+          "id": "1b24a4651484",
+          "title": "There\u2019s No Salary Cap on basketball IQ \u2014 The Week in Green",
+          "original_title": "There\u2019s No Salary Cap on basketball IQ \u2014 The Week in Green",
+          "summary": "While this season has exceeded expectations, it\u2019s rooted in a system and front office always focused on winning.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/no-salary-cap-basketball-iq-054800511.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-02-14T05:48:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
           "id": "4004d866f7b0",
           "title": "NBA All-Star 2026: 76ers rookie VJ Edgecombe sets tone for the weekend with Rising Stars performance",
           "original_title": "NBA All-Star 2026: 76ers rookie VJ Edgecombe sets tone for the weekend with Rising Stars performance",
@@ -140,6 +184,17 @@
           "link": "https://sports.yahoo.com/nba/article/nba-all-star-2026-76ers-rookie-vj-edgecombe-sets-tone-for-the-weekend-with-rising-stars-performance-052917231.html",
           "source": "Yahoo Sports NBA",
           "published": "2026-02-14T05:29:17+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "2d9be5eef04a",
+          "title": "How does Boston\u2019s competition stack up after the trade deadline?",
+          "original_title": "How does Boston\u2019s competition stack up after the trade deadline?",
+          "summary": "The Celtics got busy at the trade deadline, but they weren\u2019t the only ones",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/does-boston-competition-stack-trade-051700011.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-02-14T05:17:00+00:00",
           "topic": "NBA League News"
         },
         {
@@ -173,61 +228,6 @@
           "link": "https://sports.yahoo.com/articles/byu-says-star-wide-receiver-045118394.html",
           "source": "Yahoo Sports NBA",
           "published": "2026-02-14T04:51:18+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "aa99e69263a9",
-          "title": "No. 23 Miami (Ohio) remains lone unbeaten team in Division I after 90-74 win over Ohio",
-          "original_title": "No. 23 Miami (Ohio) remains lone unbeaten team in Division I after 90-74 win over Ohio",
-          "summary": "Brant Byers scored 21 points, Peter Suder had 20 and 23rd-ranked Miami University beat Ohio 90-74 on Friday night to remain the lone unbeaten team in Division I.  Eian Elmer added 15 points for the RedHawks (25-0, 11-0 Mid-American Conference), who tied the single-season school record for victories set last season.  Jackson Paveletzke led Ohio (13-13, 7-6) with 22 points and Javan Simmons scored 12.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/no-23-miami-ohio-remains-044348615.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-02-14T04:43:48+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "fc33b8f5f2a4",
-          "title": "Inspired by Stephen Curry, 'GOAT' aims to be the ultimate underdog story",
-          "original_title": "Inspired by Stephen Curry, 'GOAT' aims to be the ultimate underdog story",
-          "summary": "Director Tyree Dillihay breaks down the film -- plus a guide to every NBA and WNBA player in it.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/47909237/stephen-curry-goat-movie-tyree-dilihay-kevin-love-aja-wilson-angel-reese-dwayne-wade-andre-iguodala",
-          "source": "ESPN NBA",
-          "published": "2026-02-14T04:39:08+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "a2c3fbab18c1",
-          "title": "NBA All-Star 2026: Top moments, live updates from the weekend",
-          "original_title": "NBA All-Star 2026: Top moments, live updates from the weekend",
-          "summary": "All of the live updates, top moments and results from NBA All-Star 2026 weekend in Los Angeles.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/47900664/nba-all-star-weekend-2026-live-updates-results-highlights",
-          "source": "ESPN NBA",
-          "published": "2026-02-14T04:38:49+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "5eb7670f8457",
-          "title": "Slam dunks, global games, emerging stars: What to watch on All-Star Weekend",
-          "original_title": "Slam dunks, global games, emerging stars: What to watch on All-Star Weekend",
-          "summary": "Our experts break down what to watch over the 2026 NBA All-Star Weekend and their picks for contests, competitions and more.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/47851191/nba-all-star-2026-superstar-weekend-usa-world-lebron-durant-giannis-wemby-dunk-contest-3-point",
-          "source": "ESPN NBA",
-          "published": "2026-02-14T04:38:31+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "652ae9e929e1",
-          "title": "NBA All-Star Game uniforms through the years -- from short shorts to '90s flair",
-          "original_title": "NBA All-Star Game uniforms through the years -- from short shorts to '90s flair",
-          "summary": "NBA All-Star Game jerseys have had several style changes since the game's inception in 1951.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/33323246/nba-all-star-line-uniform-designs",
-          "source": "ESPN NBA",
-          "published": "2026-02-14T04:38:31+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -280,6 +280,17 @@
           "topic": "Lakers Players"
         },
         {
+          "id": "9d76d3320e3d",
+          "title": "LeBron James Wears Exclusive \u201cOhio State\u201d LeBron 23 PE - HotNewHipHop",
+          "original_title": "LeBron James Wears Exclusive \u201cOhio State\u201d LeBron 23 PE - HotNewHipHop",
+          "summary": "LeBron James Wears Exclusive \u201cOhio State\u201d LeBron 23 PE&nbsp;&nbsp;HotNewHipHop",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNnk2dTJNU0ZzbldBbkFibDdRMkNJQ2FTQmFVVktWNEpKQmozVHBHMlBPWVRqdy1pSGxscXdHYW11MWo1UUxzUjF5aTFrRDJnRVh3Zl9sMF9ZNlhKdURBdUVCaFdOTm4zQjdSNUxvM1pkU1VkRExyYTEwZU5tSlpIcF9Zbw?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-02-14T03:21:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
           "id": "087bef5497f7",
           "title": "Cavaliers Modify Court After Luka Don\u010di\u0107 Injury Scare vs Lakers - lamag.com",
           "original_title": "Cavaliers Modify Court After Luka Don\u010di\u0107 Injury Scare vs Lakers - lamag.com",
@@ -319,7 +330,7 @@
           "summary": "Lakers Notes: LeBron, Doncic, Ayton, Bronny&nbsp;&nbsp;Hoops Rumors",
           "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV3ZTVTRoQXFmSEhWWEd0eHRwaG1xQWNaRlJIa2dzM0xnd3hLbXRDTzZKVW01Q3dxTHZnVU9DajB2by1pdi10UndJaEJkLUpzeGF1ZkZvTGU5QjVNSU5pWEFwdUJvQzhKS2VsaHZYTlJnVllwMDZ1TWYxdGJULVZ0YUVxRzJ2N3M?oc=5",
-          "source": "Google News - LeBron",
+          "source": "Google News - Luka",
           "published": "2026-02-13T23:04:41+00:00",
           "topic": "Lakers Players"
         },
@@ -332,17 +343,6 @@
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQekJnS2xzbXdpeTBqZ3ZXakYzX0NYWHQ2WFNZX0ZKYkVsNmNVOGhxY3NfYk9rS2VQRjIwa3hEbl9LX2VzekVHSGV4b3BJNm5KQWIta1RhQmVKSVlUUEpyTkZJdnlPaVYtYlFFeW5DbzdXQXRlMGtQOTlqOHZBMUdUMHhwWG1idVVrT1VpNHlUOFFQaXNKUjZtVlhoUUlocElWRmFYNkhLNV9Bb0dLWkNiOTE3aE5LOTRoc1VhS0hLeFh2QUJOTVctN1gxVmLSAdIBQVVfeXFMUHZIUnpqMkh1TzJDVDgyTGlTZmtfd3o5ODV4WFRub0k1UUs1ckhWTmtfYTlJSW1qZlNVRGl5bHRsaklXVzFyRGtCVUdnN0pseVdlZ1QzNm5HUmdGZmJZcnBDQmY0QkRVUWtpSEF3aFVORzNTVEMwQm1QV3RsX3NEb1VtWVdLWW9oNHV0R0VsM2NEVjlCNGo4dXJGRzZuRWF0T2F0VmppSXlpUy16TTdHeVVxR2dyY2RXcE91a2hsWEl6bGp6LUJpRnhka1lKUDJ4aDR3?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-02-13T22:51:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "8961c7cff663",
-          "title": "Lakers Injury Report: Luka Don\u010di\u0107 \u2018on course\u2019 to play in All-Star Game - Silver Screen and Roll",
-          "original_title": "Lakers Injury Report: Luka Don\u010di\u0107 \u2018on course\u2019 to play in All-Star Game - Silver Screen and Roll",
-          "summary": "Lakers Injury Report: Luka Don\u010di\u0107 \u2018on course\u2019 to play in All-Star Game&nbsp;&nbsp;Silver Screen and RollLuka Don\u010di\u0107 All-Star Game Availability Gets Major Update&nbsp;&nbsp;Heavy SportsLuka Don\u010di\u0107 Injury Update: NBA Insider Announces Major News On Lakers Star\u2019s Status For All-Star Game&nbsp;&nbsp;PFSN",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcUZ1ZWtSRGcwZnVETEtMbzhobUkxWjJpTy0wdkZDR0o5akF1RXpKWGZwX1gzOC1HbnVXZnI1bUFybW9XajVsRjZibWZnTjRKeU5DMDE2a0RxaGN6VXZtb1hPYzMwQUNZd3JJdGR4TER5eHVteXJObGhVTlFzWWpET1RWVEdRRE1VRlQ2V1pYREpBUElTbHAtS2x3NUM5QjZaWW5OSnlBWTdCclJNekhoRTNVVDB2WWJkOGFFVFhrT0x4VWVzQm1Ra3Q1blhSbXc0TmtEU3pJWWM1SzQ?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-02-13T21:27:29+00:00",
           "topic": "Lakers Players"
         }
       ]
