@@ -1,10 +1,21 @@
 {
-  "generated_at": "2026-02-16T07:04:56.425816+00:00",
+  "generated_at": "2026-02-16T08:51:29.682376+00:00",
   "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
+        {
+          "id": "6cc352051bcc",
+          "title": "Rare 90s Lakers T-Shirt",
+          "original_title": "Rare 90s Lakers T-Shirt",
+          "summary": "      Incredibly rare Magic Johnson x Salem Sportswear T. This Lakers Salem jersey-style T is different from your average one.  This piece features Magic Johnson\u2019s iconic #32 on the front , back, and features \u2018Johnson\u2019 on the sleeve.  Magic Johnson changed back forever. He was a 5x Champion, 3x MVP, and 12x All-Star.  &#32; submitted by &#32;  /u/d4nkmp4   [link] &#32; [comments] ",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/lakers/comments/1r63nrc/rare_90s_lakers_tshirt/",
+          "source": "Reddit r/lakers",
+          "published": "2026-02-16T07:55:39+00:00",
+          "topic": "Lakers News"
+        },
         {
           "id": "749e2f06bc50",
           "title": "Luka and Jokic \ud83d\udc40",
@@ -50,17 +61,6 @@
           "topic": "Lakers News"
         },
         {
-          "id": "fafed1df5008",
-          "title": "LeBron James Reveals 'Most Important' Thing for Lakers in Final Stretch - Sports Illustrated",
-          "original_title": "LeBron James Reveals 'Most Important' Thing for Lakers in Final Stretch - Sports Illustrated",
-          "summary": "LeBron James Reveals 'Most Important' Thing for Lakers in Final Stretch&nbsp;&nbsp;Sports Illustrated",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWnZDVlcteF9ZTzVMYV92eUNTS2trNlZLeUN1aGh0VV9OeFNmallfNTN2a2FKTDl6Mlc0WDc5aWdOczM0TWlvTDNTdy1ZaDNUd203YW5qVWF6Sl8tdW9oUUNPdTJwWGduRzJ3ck84OTM1elY4Vm1mdDlaaDBkanByOWt6bUtKakpub1lmMTlVQllTYXBRanBGQ29uVzNIeXIzendady0yLThTejFoZUU1RFc3NDVic3BxVVhuSkpDdw?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-02-16T02:22:20+00:00",
-          "topic": "Lakers News"
-        },
-        {
           "id": "e9af4433d39e",
           "title": "Kawhi Leonard and LeBron James shine at All-Star Game in L.A., but young legs prevail - Los Angeles Times",
           "original_title": "Kawhi Leonard and LeBron James shine at All-Star Game in L.A., but young legs prevail - Los Angeles Times",
@@ -83,6 +83,17 @@
           "topic": "Lakers News"
         },
         {
+          "id": "5770fba3c4c5",
+          "title": "Draymond Green steps in after Skip Bayless\u2019 vulgar shot at LeBron James - ClutchPoints",
+          "original_title": "Draymond Green steps in after Skip Bayless\u2019 vulgar shot at LeBron James - ClutchPoints",
+          "summary": "Draymond Green steps in after Skip Bayless\u2019 vulgar shot at LeBron James&nbsp;&nbsp;ClutchPoints",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUWotQmI1TXpDVE90ejNwNUZyaWF0a0t3S09xSDFPT2l1cnJnNXNld2VNRzR0MmZiSlVWNmZyMVhmekk1YmRnaklhaE1qM0hIMUZWNWhMNmVSSDdIeTFwMjV2SXBnb0w5WHJNaHVYa0tOUnpCR0dadmhFZ1ZMdy0wMkhvOUlnWkhKTUw2VzdIUDVDdzVpU2VaZmZMZnNrMmZRaEdFeVJlVjZ2Y0t0aVNZb2Zn?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-02-16T01:36:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
           "id": "d43849b8f7bc",
           "title": "2026 NBA All-Star Game: Luka Doncic Plays Limited Minutes, LeBron James & Kawhi Leonard Star For Stripes Team",
           "original_title": "2026 NBA All-Star Game: Luka Doncic Plays Limited Minutes, LeBron James & Kawhi Leonard Star For Stripes Team",
@@ -90,17 +101,6 @@
           "key_points": [],
           "link": "https://lakersnation.com/2026-nba-all-star-game-luka-doncic-plays-limited-minutes-lebron-james-kawhi-leonard-star-for-stripes-team/",
           "source": "Lakers Nation",
-          "published": "2026-02-16T01:04:24+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "140310e43000",
-          "title": "2026 NBA All-Star Game: Luka Doncic Plays Limited Minutes, LeBron James & Kawhi Leonard Star For Stripes Team - Lakers Nation",
-          "original_title": "2026 NBA All-Star Game: Luka Doncic Plays Limited Minutes, LeBron James & Kawhi Leonard Star For Stripes Team - Lakers Nation",
-          "summary": "2026 NBA All-Star Game: Luka Doncic Plays Limited Minutes, LeBron James & Kawhi Leonard Star For Stripes Team&nbsp;&nbsp;Lakers Nation",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeTRGZnk3d3czSHc5VE0tYlEza1U2aDRISEtRWnpjZnNnOWkzYUJiVDRIMHVvOE9IS29peW1iT0hhVkZ5NVhEYmpnLVdlZS1URS1ILUJCXzRoWUZLelVNenh2Q2dBM3JRM1BSd29zTzN5c1Q0NTFNQWlkZTlZV3NxajFOVHJvV1lYTEg5NEQ4YlNGUGhGWVFMemdXWVVlbDhqOWljV1I1b0hfeWttQlpjenZZekRXQjBvN0tLSkpCTHZJMVhjWDRoVFFHTdIB0AFBVV95cUxObUpqLVJ1VnRydlNKTlE2dFpwbE1WODVRZnpZWF9GcjRWem5CaE02OWg5dkNMTk40TGhuMzJKdFUyVjFBbU9MOWo3ZU5BUDRVWEpWUl83LVFRY1ZzRXF6X2l0M201T2F4OE53TGlNWWsydTlZdDVMS0lXRlloaS1ySW9uVFR0REtudFN2ZTJnQzROMXdyMzRuamRfU0RuaHJOS3QwaUx6dDd1eUJWeWFCX1NtS1ZrVEd3amp2OVphUGpTVWZ1bGtkTHh5VjZxMmo5?oc=5",
-          "source": "Google News - Lakers",
           "published": "2026-02-16T01:04:24+00:00",
           "topic": "Lakers News"
         },
@@ -121,6 +121,28 @@
       "name": "NBA League News",
       "articles": [
         {
+          "id": "03b535a0d70a",
+          "title": "Edwards named MVP in new NBA All-Star Game format",
+          "original_title": "Edwards named MVP in new NBA All-Star Game format",
+          "summary": "Anthony Edwards is named Most Valuable Player in the NBA All-Star Game as the USA Stars beat the USA Stripes 47-21.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/gave-them-show-edwards-named-081912191.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-02-16T08:31:01+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "080af0dd0d0a",
+          "title": "All-Star Recap: Anthony Edwards wins MVP honors",
+          "original_title": "All-Star Recap: Anthony Edwards wins MVP honors",
+          "summary": "The injured Curry may have got more votes than Edwards, but it\u2019s the latter who stole the show in L.A.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/star-recap-anthony-edwards-wins-060000455.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-02-16T06:00:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
           "id": "0582ef4b076c",
           "title": "Slam dunks, global games, emerging stars: The biggest takeaways from All-Star Weekend",
           "original_title": "Slam dunks, global games, emerging stars: The biggest takeaways from All-Star Weekend",
@@ -129,6 +151,28 @@
           "link": "https://www.espn.com/nba/story/_/id/47851191/nba-all-star-2026-superstar-weekend-usa-world-lebron-durant-giannis-wemby-dunk-contest-3-point",
           "source": "ESPN NBA",
           "published": "2026-02-16T05:45:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "02136646c53f",
+          "title": "Anthony Edwards Wins All-Star Game MVP",
+          "original_title": "Anthony Edwards Wins All-Star Game MVP",
+          "summary": "Anthony Edwards led Team Stars to All-Star Game glory, winning MVP along the way.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/anthony-edwards-wins-star-game-052102113.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-02-16T05:21:02+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "12ecc8e7e09f",
+          "title": "Jaylen Brown: \u201cContinue to speak out, theres a lot of stuff going on in the world beyond basketball, don\u2019t be afraid.\u201d",
+          "original_title": "Jaylen Brown: \u201cContinue to speak out, theres a lot of stuff going on in the world beyond basketball, don\u2019t be afraid.\u201d",
+          "summary": "&#32; submitted by &#32;  /u/Mission_Pay_3373   [link] &#32; [comments]",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/nba/comments/1r60dtp/jaylen_brown_continue_to_speak_out_theres_a_lot/",
+          "source": "Reddit r/nba",
+          "published": "2026-02-16T04:52:53+00:00",
           "topic": "NBA League News"
         },
         {
@@ -185,56 +229,23 @@
           "source": "Yahoo Sports NBA",
           "published": "2026-02-16T03:58:40+00:00",
           "topic": "NBA League News"
-        },
-        {
-          "id": "951c2e7b1a68",
-          "title": "Johnson scores 24 to guide Bradley to 70-60 victory over Southern Illinois",
-          "original_title": "Johnson scores 24 to guide Bradley to 70-60 victory over Southern Illinois",
-          "summary": "CARBONDALE, Ill. (AP) \u2014 Jaquan Johnson scored 24 points to lead Bradley to a 70-60 victory over Southern Illinois on Sunday.Johnson made 9 of 18 shots with two 3-pointers for the Braves (18-9, 11-5 Missouri Valley Conference), adding seven rebounds, three assists and three steals. Alex Huibregtse hit four 3-pointers and scored 14.Quel'Ron House finished with 26 points to pace the Salukis (12-15, 6-10). Davion Sykes added 12 points and five rebounds off the bench.Johnson had seven points in the f",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/johnson-scores-24-guide-bradley-035356275.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-02-16T03:53:56+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "bfcaf0ce4cd3",
-          "title": "Edwards, Wemby 'set tone' for competitive ASG",
-          "original_title": "Edwards, Wemby 'set tone' for competitive ASG",
-          "summary": "Anthony Edwards led Team Stars to a victory in the revamped NBA All-Star Game, earning MVP honors after a refreshingly competitive display by the stars involved.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/47943442/team-stars-prevail-competitive-debut-new-all-star-game",
-          "source": "ESPN NBA",
-          "published": "2026-02-16T03:43:19+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "81da6c7cfb22",
-          "title": "Brown refutes Beverly Hills' account of shutdown",
-          "original_title": "Brown refutes Beverly Hills' account of shutdown",
-          "summary": "Celtics star Jaylen Brown said the City of Beverly Hills' explanation for shutting down his brand event Saturday night was \"completely false.\"",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/47944135/jaylen-brown-beverly-hills-explanation-event-shutdown-false",
-          "source": "ESPN NBA",
-          "published": "2026-02-16T03:43:19+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "8991cff3da60",
-          "title": "Curry to make return to 3-point contest in 2027",
-          "original_title": "Curry to make return to 3-point contest in 2027",
-          "summary": "Two-time 3-point contest winner Stephen Curry will make his return to the shootout for next year's All-Star Weekend in Phoenix",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/47942171/stephen-curry-make-return-3-point-contest-2027",
-          "source": "ESPN NBA",
-          "published": "2026-02-16T03:43:19+00:00",
-          "topic": "NBA League News"
         }
       ]
     },
     {
       "name": "Lakers Players",
       "articles": [
+        {
+          "id": "912c45079e88",
+          "title": "Timberwolves\u2019 Anthony Edwards joins LeBron James club after All-Star achievement - Yahoo Sports",
+          "original_title": "Timberwolves\u2019 Anthony Edwards joins LeBron James club after All-Star achievement - Yahoo Sports",
+          "summary": "Timberwolves\u2019 Anthony Edwards joins LeBron James club after All-Star achievement&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMG5PcXEybHNTWE9iaUZURXVKUzJleEhVSkU5MXBXTFlXSUZ3Vi1WLW4zMDdCVVVkMEhZRExveG40X1lmOXJNMW9ackxMV0o0dUt6dll0TFpVOEhDOTRyaGt3dzFmbldFOW9aWUItSlNWczNDR2pveG5tVUQ2elhITlRHR3BUcWhpbEVJWHdVV0hacV90?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-02-16T06:52:53+00:00",
+          "topic": "Lakers Players"
+        },
         {
           "id": "32c048964b4f",
           "title": "Luka Doncic Discusses His Favorite Part Of All-Star Weekend - roundtable.io",
@@ -269,6 +280,39 @@
           "topic": "Lakers Players"
         },
         {
+          "id": "51a4e9a9d0ec",
+          "title": "NBC Broadcast Spots LeBron James, Stephen Curry's Awkward Moment During NBAAll-Star Games - Yahoo Sports",
+          "original_title": "NBC Broadcast Spots LeBron James, Stephen Curry's Awkward Moment During NBAAll-Star Games - Yahoo Sports",
+          "summary": "NBC Broadcast Spots LeBron James, Stephen Curry's Awkward Moment During NBAAll-Star Games&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVEp5UlA2R0k0RjlZaExsMmNtWWZ2LXgxLXZmaVhzWlBSdGJMV3ZfR0NMSjNHWk8xLU1odW1tSGJaV2VBaW1Qdm9IaXRLOEdZRExxX0x5UG52ajN0YVFjbnZzU2VreExfb1otMUNZYk81a0dENG4wWm8ycDIzWEtHeFA4REVOVHZi?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-02-16T03:13:03+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "ea015d2a9703",
+          "title": "LeBron James Discusses Past, Lakers\u2019 Present, Future - Hoops Rumors",
+          "original_title": "LeBron James Discusses Past, Lakers\u2019 Present, Future - Hoops Rumors",
+          "summary": "LeBron James Discusses Past, Lakers\u2019 Present, Future&nbsp;&nbsp;Hoops Rumors",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYnZjZ20td19ZT0E5ZGJEenFyUWROMGlpNmNtR0V2ZTF4SVhjSEFvQmpYVGljSTA3UzNBQnlvSVRSVW05TTBNRkQ1eV9aQXlFMjZ5aW1EYWJZQlduMWptRjFTeUZrUjUzUjFJT0ROU2Rfc2NGTi04alZVb1VUUFM5SkhEVGg5N2lUYzhKay1TZUVrbWEzeHVTQ2tn?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-02-16T03:00:13+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "63a2d1daf6e8",
+          "title": "Luka Doncic\u2019s hamstring holds up in return to NBA All-Star Game - New York Post",
+          "original_title": "Luka Doncic\u2019s hamstring holds up in return to NBA All-Star Game - New York Post",
+          "summary": "Luka Doncic\u2019s hamstring holds up in return to NBA All-Star Game&nbsp;&nbsp;New York Post",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZGNPTjg0ZWhaZmdzUVRlXzNkMmNqdmhKTjZQeHYwY2U3U2tybDlXeDFadnZFOTE0QUR2SmxnRk83dmJMRnNGb2tuOHMxc2UyUllVTHhjZEtLMzZYaEJHSTRvV1RkSGphN2ZYcVpzdThPZm81em1BcnBYa2YwTThiaWxxUi0zMmxJNjNsY3B2b1loMW5iZG9scFR3WE1NZEU5bVE?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-02-16T01:54:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
           "id": "06db458d03a6",
           "title": "LeBron\u2019s Team Stripes falls in final of entertaining 2026 NBA All-Star Game - Silver Screen and Roll",
           "original_title": "LeBron\u2019s Team Stripes falls in final of entertaining 2026 NBA All-Star Game - Silver Screen and Roll",
@@ -291,58 +335,14 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "6c8a31035cad",
-          "title": "LeBron James sends message to fans in Israel at All-Star Weekend - Diario AS",
-          "original_title": "LeBron James sends message to fans in Israel at All-Star Weekend - Diario AS",
-          "summary": "LeBron James sends message to fans in Israel at All-Star Weekend&nbsp;&nbsp;Diario AS",
+          "id": "7550c38ae40b",
+          "title": "Why are Nikola Joki\u0107 and Luka Don\u010di\u0107 done playing in NBA All-Star Game? - USA Today",
+          "original_title": "Why are Nikola Joki\u0107 and Luka Don\u010di\u0107 done playing in NBA All-Star Game? - USA Today",
+          "summary": "Why are Nikola Joki\u0107 and Luka Don\u010di\u0107 done playing in NBA All-Star Game?&nbsp;&nbsp;USA Today",
           "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOazNveWExbllGbFNiNzdSMzhldWVyaVVieUY3VkVnUHhUcHJYZ0J6V09vSlJqNzFPWkh1Q3RsS29zQk4xQlNGa2syMlpXS3dBY1RVN00yeDZEVDZZeE1JS0p0LUtWM0JyRDNyX21oMl9IN29hQ1hrTTdGaldJOWJEZGlpeVBqVmZfYWliclhsU2E3d3Z5ZjROUUFONUdXZ9IBsgFBVV95cUxPX2M0Y2dHUnpia1VVSVpkQUpueDFRZndRbGhWUmJlWmE2eW1UMnE4akhKZTgtdk1zRDEtdTBUdjlLZHd0THg1M3gzLW5rem9jLTloX0g1cmFjYnNzeGRZQjJpdk5CUHpJbHlsWmgzRnBOdHdkYjljV1VHSWtSblRnVzhWZTQzVERGLWVMcGNjNTVkeENkMGViNU1ya3kyYkk0RGNvMW8tQ1RmWFlDRHk1WVlB?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-02-16T00:30:59+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "87f7a83a9bc9",
-          "title": "Luka Doncic remembers his time in Dallas and shares a rare critique of the Mavericks' organization: \"They were really tight\" - MARCA",
-          "original_title": "Luka Doncic remembers his time in Dallas and shares a rare critique of the Mavericks' organization: \"They were really tight\" - MARCA",
-          "summary": "Luka Doncic remembers his time in Dallas and shares a rare critique of the Mavericks' organization: \"They were really tight\"&nbsp;&nbsp;MARCA",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc0I2U3FFOENEQVJ0alBCTFNvRWwwUHlkeGhSZGFGamV0SmFoXzc2UUx3UnplTTZOcHZhV3lWSGJvQjFZYU5peDNCeDdjTkNsZzhjT25VOEp2bzdsYXRMWFMwc3BqeE9LWHI2RWQ4SS1ENGs5Y0w3NklDN2pFUk41QnFza0RfZjZrckZqb2ppQ09FbW5wSGw3TEQ2MEdFSlFl0gGgAUFVX3lxTFBQbXFRc25OcXFoSi1ZcmNRWmxTZXM5OU5CYVdlZjBjTVNXMVVxT1dPN1lPZVhJd01hQno0R3VxOE1Kcm1zOElsM005eFZ5TUhJVUwzdW1lNWhSUU81aTh3dUU2NGh0LVZ4M0dvOWFLUjVZWUFwZVlLLU54amNCbjU1RGJPYWxvclBCZTVJV0FuajVRNVVLTlQ0a3BKbF9SbE0?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR3A0Z002ZTRxcTZQM2RseS1CM2tLT2xZU3RJQ0lFNy1ERnVpRWI3anlZRHJuZ0UwMjBveFh2VUExQ2Y5RWlCaWM4Z290QmtiazJqVFlIX2gyUnNvZm9pMHNlV3RMZWFEeHVFQ0F5RS1PZFZ5eEdrMnJDYVZ5MF9VLWJyd01xNmx6dl9jSVdpc0c3WGJpXy0tZ0xmamZFQnpaQmtwbjJYT3lMcENDMnNEUWxkWmQwTFpKcERkVmNYcUFuYWc0?oc=5",
           "source": "Google News - Luka",
-          "published": "2026-02-15T22:34:11+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "4663169daa5c",
-          "title": "LeBron James had frustrating 6-word answer to retirement question - USA Today",
-          "original_title": "LeBron James had frustrating 6-word answer to retirement question - USA Today",
-          "summary": "LeBron James had frustrating 6-word answer to retirement question&nbsp;&nbsp;USA Today",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU3VHSGZGS1UyWGtBZUhJUWZHWGI5VDNGbGNzMmswMHFoMXRYTnB1LWhacW5QRmpScUduMjBPYVNBaTA1X0dfSmJzeHFpZGNJMzRkcTN1bEttWGprTUxfMFh1X3VzX09QUFZqTy1iMVpMU3dDNDVjUHNMQTF4ZGtrTm4wb2x5cjRwMHozc2dPdmJ6cGRKcTNvQjQzeEVCTnVxcnQxbjR5XzBkQ1lzWjNuVzcyYlctRXlTNTZOWHhn?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-02-15T22:22:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "0207755e5577",
-          "title": "LeBron James praises Avdija for 'exceptional season,' says he\u2019d love to visit Israel - Ynetnews",
-          "original_title": "LeBron James praises Avdija for 'exceptional season,' says he\u2019d love to visit Israel - Ynetnews",
-          "summary": "LeBron James praises Avdija for 'exceptional season,' says he\u2019d love to visit Israel&nbsp;&nbsp;Ynetnews",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sN3JCdWNGVkRGdnlVMzlRTS1rRUctajRhY3FaU05uRUt4MUl0T3Zoenh4eWU2VFBxdGtBYVo2V3d1ZzZtSFk2NzhGeG14T25rMjdUdS1XdTJBcFJlQUFGNA?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-02-15T21:26:07+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "3128e43b34eb",
-          "title": "LeBron James addresses future: 'When I know, you guys will know' whether he'll play next season or retire - CBS Sports",
-          "original_title": "LeBron James addresses future: 'When I know, you guys will know' whether he'll play next season or retire - CBS Sports",
-          "summary": "LeBron James addresses future: 'When I know, you guys will know' whether he'll play next season or retire&nbsp;&nbsp;CBS SportsLeBron James on playing in the NBA next year: \u2018When I know, you guys will know\u2019&nbsp;&nbsp;The New York TimesLeBron James Discusses Past, Lakers\u2019 Present, Future&nbsp;&nbsp;Hoops Rumors",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOTRITWR0cXBja0NqLVFna1FHQ0wxRHVlaU42RVlENENldmJMU1VpckplbzZLMk9ISUxVZXVvbWk4b2VGaGExWGZHRU9Vaklvb0NoRkFXUnJxOGR1UkdGUWliTDRURHhYTk13RjZfZEs3emdfdGZIWmpBbjRQMGRQczRmMnJ1UQ?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-02-15T20:58:21+00:00",
+          "published": "2026-02-15T22:59:00+00:00",
           "topic": "Lakers Players"
         }
       ]
