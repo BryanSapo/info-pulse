@@ -1,10 +1,21 @@
 {
-  "generated_at": "2026-02-17T07:00:57.041757+00:00",
+  "generated_at": "2026-02-17T08:49:43.262699+00:00",
   "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
+        {
+          "id": "abc1f36499df",
+          "title": "Fellow Lakers fans, how do you feel about Iverson?",
+          "original_title": "Fellow Lakers fans, how do you feel about Iverson?",
+          "summary": "Well, he ruined our till-then perfect season in 2001. Imagine what kind of legacy we would have had the 2001 Lakers gone perfect en route to the chip. Very undstandable to hate Iverson. But that said, dude balls out every night, every game.  Definition of a superhero; carrying the Sixers on his back. The Sixers literally had a chance to win every night because of him and only because of him.  Not trying to offend anyone, but in terms of certain aspects, he was very similar to Kobe. For instance,",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/lakers/comments/1r6zb9a/fellow_lakers_fans_how_do_you_feel_about_iverson/",
+          "source": "Reddit r/lakers",
+          "published": "2026-02-17T07:08:58+00:00",
+          "topic": "Lakers News"
+        },
         {
           "id": "cb48421aa509",
           "title": "My mom and I are celebrating my first Lakers game for her birthday next month.",
@@ -103,23 +114,23 @@
           "source": "Lakers Nation",
           "published": "2026-02-17T00:30:43+00:00",
           "topic": "Lakers News"
-        },
-        {
-          "id": "73e51f1a9611",
-          "title": "Luka Doncic: Lakers Organization Is Better Than Mavericks",
-          "original_title": "Luka Doncic: Lakers Organization Is Better Than Mavericks",
-          "summary": "There is no getting around the fact that the Dallas Mavericks trading Luka Doncic to the Los Angeles Lakers was a difficult thing for the superstar to come to terms with. Doncic made no secret of the fact that he hoped to play his entire career with the Mavericks and it took some time for [&#8230;]",
-          "key_points": [],
-          "link": "https://lakersnation.com/luka-doncic-lakers-organization-is-better-than-mavericks/",
-          "source": "Lakers Nation",
-          "published": "2026-02-17T00:20:08+00:00",
-          "topic": "Lakers News"
         }
       ]
     },
     {
       "name": "NBA League News",
       "articles": [
+        {
+          "id": "d876dd2cb5a1",
+          "title": "Champions League playoffs: Benfica and Real Madrid meet again, PSG faces Monaco",
+          "original_title": "Champions League playoffs: Benfica and Real Madrid meet again, PSG faces Monaco",
+          "summary": "Real Madrid and Benfica will do it all over again on Tuesday after their epic Champions League showdown last month.  A 4-2 win for Benfica against Madrid in the last round of games in the league phase produced one of the most dramatic finishes in the competition's history.  A goal deep into added time by goalkeeper Anatoliy Trubin secured Benfica's place in the playoffs.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/champions-league-playoffs-benfica-real-082220388.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-02-17T08:22:20+00:00",
+          "topic": "NBA League News"
+        },
         {
           "id": "cb5197d9cebb",
           "title": "Wemby when asked about Deni Avdija: \u201cTakes a lot of free throws\u201d",
@@ -129,6 +140,17 @@
           "link": "https://www.reddit.com/r/nba/comments/1r6y6xd/wemby_when_asked_about_deni_avdija_takes_a_lot_of/",
           "source": "Reddit r/nba",
           "published": "2026-02-17T06:04:49+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "15158cc51fe5",
+          "title": "Open Thread: Jeremy Sochan is going to be a father",
+          "original_title": "Open Thread: Jeremy Sochan is going to be a father",
+          "summary": "The former Spurs 2022 lottery pick and his girlfriend are expecting a baby girl in May",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/open-thread-jeremy-sochan-going-060000593.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-02-17T06:00:00+00:00",
           "topic": "NBA League News"
         },
         {
@@ -207,34 +229,23 @@
           "source": "Yahoo Sports NBA",
           "published": "2026-02-17T02:36:38+00:00",
           "topic": "NBA League News"
-        },
-        {
-          "id": "cbd157243a5a",
-          "title": "No. 3 Duke routs Syracuse 101-64, shifts focus to weekend showdown versus No. 1 Michigan",
-          "original_title": "No. 3 Duke routs Syracuse 101-64, shifts focus to weekend showdown versus No. 1 Michigan",
-          "summary": "Cameron Boozer had 22 points and 12 rebounds and helped No. 3 Duke rout Syracuse 101-64 victory Monday night.  Isaiah Evans scored 21 points, Nikolas Khamenia added 14 points off the bench and Patrick Ngongba and Cayden Boozer each had 12 for the Blue Devils (24-2, 13-1 Atlantic Coast Conference), who looked primed for a weekend nonconference showdown with top-ranked Michigan.  Duke shot 62.3% from the field, including 12 for 20 from 3-point distance.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/no-3-duke-routs-syracuse-022205123.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-02-17T02:22:05+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "85034126e509",
-          "title": "Warriors sign Nate Williams to two-way contract",
-          "original_title": "Warriors sign Nate Williams to two-way contract",
-          "summary": "Williams will fill the two-way void created by the Pat Spencer signing.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/warriors-sign-nate-williams-two-015947560.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-02-17T01:59:47+00:00",
-          "topic": "NBA League News"
         }
       ]
     },
     {
       "name": "Lakers Players",
       "articles": [
+        {
+          "id": "30897321ce1a",
+          "title": "Lakers Tipped to Land $100M Rim Protector in LeBron James Trade: Report - heavy.com",
+          "original_title": "Lakers Tipped to Land $100M Rim Protector in LeBron James Trade: Report - heavy.com",
+          "summary": "Lakers Tipped to Land $100M Rim Protector in LeBron James Trade: Report&nbsp;&nbsp;heavy.com",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObDN2YUhyMHJnRDJXS3hBUGVVaUJWVDJTdF9VZmQxTXRZXzNZNHdRTHJWZHdBREtwb2ZNOTRfNHhYdlpBeDJEVlhJRUppMmZFTEZ5bHpyeGh6Wk9IcTBqb0U2dnhKYWdabGRXY2thRWN3c293bGMxUklDRGZNMmlSSEw4SzNZbTZP?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-02-17T08:24:39+00:00",
+          "topic": "Lakers Players"
+        },
         {
           "id": "76501fcd44a7",
           "title": "Stephen A. Smith on why he doesn't think LeBron James will retire - LeBron Wire",
@@ -244,6 +255,17 @@
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcE1VRTl4d3JWM3JRSEtLQjZXdm1LVF9kcm1DWm1kdW5mMnkzWVVUR0pIZkkwdjY0SzVlNGpCVkE3V2cwcVBrdFJpSmlIZTh1c1dmUUNaZE5CeGdZWjVqWXFKTndFenhWWUUza1RFRnI5OEJFVlJ2Mi1sLWRRenQ4cTlQMV8ycV9yd0RhWWZIdkRNVGhzWmlmdnhZLTkzTzU0dDZvTDdXMVB4NlVJZWo4Z1ZjM3F2U0NGUl85dFU4bWIxVmhJd0FoOG80TUMtNDBRZktpRW1udW9rOXc?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-02-17T06:36:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "e6567daafacd",
+          "title": "LeBron James Admits To Wanting To Visit China \u201cAt Some Point\u201d - Yahoo Sports",
+          "original_title": "LeBron James Admits To Wanting To Visit China \u201cAt Some Point\u201d - Yahoo Sports",
+          "summary": "LeBron James Admits To Wanting To Visit China \u201cAt Some Point\u201d&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcS04UllOM1h6YUlLMmJqOUtWakJoLTk3M3c5SHJGUlBjZUZvTWNQWVVYeDh4YzA4X1BwWld6SEcydUpOQWdPOWFkcGNERGliTXdraUllR2RabkNDOENVQlZaSkpUeXJKa0RQblFmeGJqc0t5Y1pGZ2ljZmZYZDNkRV9KNUlTZEw4bmc?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-02-17T05:46:27+00:00",
           "topic": "Lakers Players"
         },
         {
@@ -269,17 +291,6 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "3e4522711b84",
-          "title": "Lakers\u2019 LeBron James Rumors Prompt Reaction From Cavs' Donovan Mitchell - Sports Illustrated",
-          "original_title": "Lakers\u2019 LeBron James Rumors Prompt Reaction From Cavs' Donovan Mitchell - Sports Illustrated",
-          "summary": "Lakers\u2019 LeBron James Rumors Prompt Reaction From Cavs' Donovan Mitchell&nbsp;&nbsp;Sports Illustrated",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOTBwVTJQSDFISUI1U0dGc2NRajVEWWZRbnFzb29GTHhZUDRjUVR5dXpEaUlPdlFEVzJpWloydWR3emlqcmxmVGNQWV9LZEpXTllpRmRid29EaGswazFOOV9ocllTa1B5Y0duNmpBLXpud1JXWEtLZVh1SENHeUtkOVU1YWlBX1hsa3FFQ0g2WktnNmZfOGZfR3YxSTc1ckR6YWhqWmtiTURUZUJ2dHN6RHBGNDBlS2V6MVNVakF3RQ?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-02-17T03:40:32+00:00",
-          "topic": "Lakers Players"
-        },
-        {
           "id": "b292ff0f0dcd",
           "title": "Stephen A. Smith: The Dunk Contest Died On LeBron James\u2019 Watch - OutKick",
           "original_title": "Stephen A. Smith: The Dunk Contest Died On LeBron James\u2019 Watch - OutKick",
@@ -298,7 +309,7 @@
           "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSDBlams3S0xNU0ZlN0VXOXlCV3YzSjZRcXdkazlIUVVqODBkQlhTN2tRaGNKT3RJY0pKb1JxYXRyNy1nYmpyOWdVbDFkdHZRc1d2NkxUcEFGcjh2T2pTbVhaaTVqSmFvYlM3YzRsSE5RLXBLOGRHT0RjMExvaFA0eW16eWwwYVJkUFNyaFNlRmJKclhFeFA4VUpDMWlabURaLUVQMFh0ZllmbjVQcEdkM2I2aHZsazd2WE0xbkhB?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-02-17T02:34:53+00:00",
+          "published": "2026-02-17T02:35:15+00:00",
           "topic": "Lakers Players"
         },
         {
@@ -332,17 +343,6 @@
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNzN2alRXZmV1Zm5ZMWJ3SnRWX1JtOUFNRGdMQndjTm54QzE2NnpRaktBY3hiMWk0M2psT2c0Umk1Ql9kTzJWRF9LbC10TERpRzg3R1dDQkFKZFUzRFZRSUw0MmZVTU9lZDd1QUF3Si1UT3paQVJWWFpjUEpBQjRiQlduLWp4eVFndUo3OGdvQUFyNHZfVUwxNXhpcGZnR2s?oc=5",
           "source": "Google News - Luka",
           "published": "2026-02-17T00:21:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "6350893fd275",
-          "title": "Luka Doncic throws brutal gut punch at Mavericks with blunt Lakers admission - The Smoking Cuban",
-          "original_title": "Luka Doncic throws brutal gut punch at Mavericks with blunt Lakers admission - The Smoking Cuban",
-          "summary": "Luka Doncic throws brutal gut punch at Mavericks with blunt Lakers admission&nbsp;&nbsp;The Smoking Cuban",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMGRvSWdJVVVYMHNQdU9FeGNkRTlmTG5NR2h4aUhxM2x3cGk5OHNnSGNLM0E5THFlRWtSemZvdTlEZWg2TndVeWswbDJVYnlIVkoyV1Q2Y3ZBNTRDM3JZaXhiVVF5MjJtY0hiZWlVRExhYndmS1pVQlFUV2wwZ0E5UWVLbF9OZkZITTZCbk9ndlFybzBiVldXTjQ2eUN2bmlxcnRiNVFScw?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-02-16T23:10:58+00:00",
           "topic": "Lakers Players"
         }
       ]
