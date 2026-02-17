@@ -1,10 +1,21 @@
 {
-  "generated_at": "2026-02-17T08:49:43.262699+00:00",
+  "generated_at": "2026-02-17T10:47:28.154482+00:00",
   "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
+        {
+          "id": "30897321ce1a",
+          "title": "Lakers Tipped to Land $100M Rim Protector in LeBron James Trade: Report - heavy.com",
+          "original_title": "Lakers Tipped to Land $100M Rim Protector in LeBron James Trade: Report - heavy.com",
+          "summary": "Lakers Tipped to Land $100M Rim Protector in LeBron James Trade: Report&nbsp;&nbsp;heavy.com",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObDN2YUhyMHJnRDJXS3hBUGVVaUJWVDJTdF9VZmQxTXRZXzNZNHdRTHJWZHdBREtwb2ZNOTRfNHhYdlpBeDJEVlhJRUppMmZFTEZ5bHpyeGh6Wk9IcTBqb0U2dnhKYWdabGRXY2thRWN3c293bGMxUklDRGZNMmlSSEw4SzNZbTZP?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-02-17T08:24:39+00:00",
+          "topic": "Lakers News"
+        },
         {
           "id": "abc1f36499df",
           "title": "Fellow Lakers fans, how do you feel about Iverson?",
@@ -25,17 +36,6 @@
           "link": "https://www.reddit.com/r/lakers/comments/1r6z1xv/my_mom_and_i_are_celebrating_my_first_lakers_game/",
           "source": "Reddit r/lakers",
           "published": "2026-02-17T06:53:54+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "bea39e5fc209",
-          "title": "Luka Doncic Drops a Blunt Lakers Message and the Mavericks Won\u2019t Love It - heavy.com",
-          "original_title": "Luka Doncic Drops a Blunt Lakers Message and the Mavericks Won\u2019t Love It - heavy.com",
-          "summary": "Luka Doncic Drops a Blunt Lakers Message and the Mavericks Won\u2019t Love It&nbsp;&nbsp;heavy.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5abUMzRlI3ZnU1Y3JzUVBlYmo2QmJKV2dEblNyWkgxZ2w0M0JieTlSa3VxT2s4LXBNWWt3ZHFVTXlmTUU1X2R4SG03WFp5WG1PTXJEcFZXdExJcDBRVTJ4UFR4TEJKR0hnaDNSb3JnVlFfams?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-02-17T05:24:07+00:00",
           "topic": "Lakers News"
         },
         {
@@ -121,6 +121,28 @@
       "name": "NBA League News",
       "articles": [
         {
+          "id": "20622f27ee11",
+          "title": "Cup of Cavs: NBA news and links for Friday, Feb. 13",
+          "original_title": "Cup of Cavs: NBA news and links for Friday, Feb. 13",
+          "summary": "Let\u2019s talk about All-Star weekend.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/cup-cavs-nba-news-links-100000557.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-02-17T10:00:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "816c2dd43d83",
+          "title": "The hottest show in hockey, 'Heated Rivalry,' is embraced by fans and players at Winter Olympics",
+          "original_title": "The hottest show in hockey, 'Heated Rivalry,' is embraced by fans and players at Winter Olympics",
+          "summary": "Olympic hockey knows all about big hits.  The steamy connection between the characters \u2014 Canadian Shane Hollander and Russian Ilya Rozanov \u2014 has attracted fans to both the show and the sport itself, with the NHL seeing a boost in ticket sales by one estimate.  The show's impact was evident long before the Milan Cortina Olympics when co-stars Hudson Williams and Connor Storrie carried the Olympic flame.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/hottest-show-hockey-heated-rivalry-095915191.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-02-17T09:59:15+00:00",
+          "topic": "NBA League News"
+        },
+        {
           "id": "d876dd2cb5a1",
           "title": "Champions League playoffs: Benfica and Real Madrid meet again, PSG faces Monaco",
           "original_title": "Champions League playoffs: Benfica and Real Madrid meet again, PSG faces Monaco",
@@ -154,10 +176,10 @@
           "topic": "NBA League News"
         },
         {
-          "id": "8139b45c0948",
-          "title": "'Dodgy burger' rules Santner out against Canada as New Zealand targets T20 World Cup Super 8s",
-          "original_title": "'Dodgy burger' rules Santner out against Canada as New Zealand targets T20 World Cup Super 8s",
-          "summary": "Canada won the toss Tuesday and elected to bat against a New Zealand lineup targeting a spot in the Super 8s at the T20 World Cup.  Stand-in captain Daryl Mitchell said regular skipper Mitchell Santner is sick and will miss the game because he \u201chad a dodgy burger last night.\u201d  Cole McConchie replaced Santner as a like-for-like replacement in the XI.",
+          "id": "060ae4cc4c77",
+          "title": "Teenage Canadian Samra's century proves in vain as New Zealand powers into T20 World Cup Super 8s",
+          "original_title": "Teenage Canadian Samra's century proves in vain as New Zealand powers into T20 World Cup Super 8s",
+          "summary": "Canada batter Yuvraj Samra\u2019s exhilarating century proved in vain as New Zealand advanced to cricket's T20 World Cup Super 8s with an eight-wicket win on Tuesday.  New Zealand\u2019s resounding victory knocked 2024 semifinalist Afghanistan out of the tournament, with the Black Caps joining England, South Africa, West Indies, India and Sri Lanka in the next round.  On a perfect batting wicket, Glenn Phillips (76 not out) and Rachin Ravindra (59 not out) led New Zealand to 176-2 in 15.1 overs as the Bla",
           "key_points": [],
           "link": "https://sports.yahoo.com/articles/dodgy-burger-rules-santner-against-055015843.html",
           "source": "Yahoo Sports NBA",
@@ -207,28 +229,6 @@
           "source": "Reddit r/nba",
           "published": "2026-02-17T03:40:49+00:00",
           "topic": "NBA League News"
-        },
-        {
-          "id": "6dbffe3a3b22",
-          "title": "It\u2019s time to fire Adam Silver, here\u2019s how",
-          "original_title": "It\u2019s time to fire Adam Silver, here\u2019s how",
-          "summary": "Adam Silver needs to go, the NBA\u2019s fans deserve better",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/time-fire-adam-silver-031139293.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-02-17T03:11:39+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "d494cc6a2aea",
-          "title": "76ers set to add Cameron Payne, upgrade Jabari Parker to standard contract for stretch run",
-          "original_title": "76ers set to add Cameron Payne, upgrade Jabari Parker to standard contract for stretch run",
-          "summary": "Philadelphia 76ers adding depth, locking up roster for push to playoffs.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/76ers-set-add-cameron-payne-023638313.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-02-17T02:36:38+00:00",
-          "topic": "NBA League News"
         }
       ]
     },
@@ -236,14 +236,14 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "30897321ce1a",
-          "title": "Lakers Tipped to Land $100M Rim Protector in LeBron James Trade: Report - heavy.com",
-          "original_title": "Lakers Tipped to Land $100M Rim Protector in LeBron James Trade: Report - heavy.com",
-          "summary": "Lakers Tipped to Land $100M Rim Protector in LeBron James Trade: Report&nbsp;&nbsp;heavy.com",
+          "id": "af2db7b93d89",
+          "title": "$80M League Quietly Sends Warning to Adam Silver, LeBron James Before Season 9 - Yahoo Sports",
+          "original_title": "$80M League Quietly Sends Warning to Adam Silver, LeBron James Before Season 9 - Yahoo Sports",
+          "summary": "$80M League Quietly Sends Warning to Adam Silver, LeBron James Before Season 9&nbsp;&nbsp;Yahoo Sports",
           "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObDN2YUhyMHJnRDJXS3hBUGVVaUJWVDJTdF9VZmQxTXRZXzNZNHdRTHJWZHdBREtwb2ZNOTRfNHhYdlpBeDJEVlhJRUppMmZFTEZ5bHpyeGh6Wk9IcTBqb0U2dnhKYWdabGRXY2thRWN3c293bGMxUklDRGZNMmlSSEw4SzNZbTZP?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcldabGFJVVRPQzRNbVdrNXJpbFVWaC1JaVlRRkZ2ZTZNTEJFTlB2bnZ4Nk1WUVhJZHJSc0tyZ1ZnVlkzdjYwRFV4QXVmRUM0YWsyTDQ4YTkwb1lBcElHTUdvQ056Mmd4emVpejFncXJsMXJYVEV5NjdvVXNpaGlKTDFBWnlNangw?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-02-17T08:24:39+00:00",
+          "published": "2026-02-17T06:48:57+00:00",
           "topic": "Lakers Players"
         },
         {
@@ -266,39 +266,6 @@
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcS04UllOM1h6YUlLMmJqOUtWakJoLTk3M3c5SHJGUlBjZUZvTWNQWVVYeDh4YzA4X1BwWld6SEcydUpOQWdPOWFkcGNERGliTXdraUllR2RabkNDOENVQlZaSkpUeXJKa0RQblFmeGJqc0t5Y1pGZ2ljZmZYZDNkRV9KNUlTZEw4bmc?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-02-17T05:46:27+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "0cadb9c10071",
-          "title": "Luka Doncic says Lakers organization is better than Mavs organization - Yahoo Sports",
-          "original_title": "Luka Doncic says Lakers organization is better than Mavs organization - Yahoo Sports",
-          "summary": "Luka Doncic says Lakers organization is better than Mavs organization&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQlR2b1lGczljalNRclBjTm5fQWFWUlJxZm4zX1dvQVc1RlRvdF9WSTRPOEVmbGs3b01Nc2VkeklIVFdScE1BSEdiVENobnVSNVdqTWF4bE1kbnc1TndvWXRNMkdRcmxXMG5KYTJkN1RMRmxhR3NlLWhRc3lBWnRTTHNPVUZSZGRaWHBya0hR?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-02-17T04:49:41+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "9c3fba53a564",
-          "title": "Luka Doncic says Lakers organization is better than Mavs organization - LeBron Wire",
-          "original_title": "Luka Doncic says Lakers organization is better than Mavs organization - LeBron Wire",
-          "summary": "Luka Doncic says Lakers organization is better than Mavs organization&nbsp;&nbsp;LeBron Wire",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdkpBdFNhaGF6dEVwUVVKZkFjU0doR0kwbFk4SXg0RjZ4MkZSWFo4VGtUVnlsWWZDM0FVbm5jc1BLQjFLVjJFYlZKeExWc1JnTUFuLU52OUhLRDdfb1R6QzJJTFk1eVlNQ3VSVFBPYkhILUNqQlQ5bGI5dkFTQUVFUjg2VGZlQ3ZpWkNTdEYwajVFNWtOcEFiZ19HVGdpTGdtd0dTRmNFeE9xTF9fUGNTYmZ5S0ZST0l6UlZULUNMbHpSTXh1ekhzWUg5T0IzTEVZUHV5RUhGZGt1UQ?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-02-17T04:49:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "b292ff0f0dcd",
-          "title": "Stephen A. Smith: The Dunk Contest Died On LeBron James\u2019 Watch - OutKick",
-          "original_title": "Stephen A. Smith: The Dunk Contest Died On LeBron James\u2019 Watch - OutKick",
-          "summary": "Stephen A. Smith: The Dunk Contest Died On LeBron James\u2019 Watch&nbsp;&nbsp;OutKick",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVGptUVdrNE9wSTZwemhYaWVVUTByeVNBMWl3dHhJRGx3STRkTzQxOUY4NWpDamxnbU9DcEdCOHlDNUFFNEx2YzJhOXh3TGdzcExjTlMwa0lWcjg1eEhkck4tZXNmaDdxTFhBYS1Bc0dKODAzMDBUeGpCYnZaNUJheHhnWEhtemhrdzJr?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-02-17T02:58:43+00:00",
           "topic": "Lakers Players"
         },
         {
@@ -335,14 +302,47 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "78af30f93dd0",
-          "title": "Luka Don\u010di\u0107 reveals main differences between Lakers and Mavericks organizations - New York Post",
-          "original_title": "Luka Don\u010di\u0107 reveals main differences between Lakers and Mavericks organizations - New York Post",
-          "summary": "Luka Don\u010di\u0107 reveals main differences between Lakers and Mavericks organizations&nbsp;&nbsp;New York Post",
+          "id": "d4d71696f034",
+          "title": "Luka Don\u010di\u0107 reveals main differences between Lakers and Mavericks organizations - Yahoo Sports",
+          "original_title": "Luka Don\u010di\u0107 reveals main differences between Lakers and Mavericks organizations - Yahoo Sports",
+          "summary": "Luka Don\u010di\u0107 reveals main differences between Lakers and Mavericks organizations&nbsp;&nbsp;Yahoo SportsLuka Doncic Drops a Blunt Lakers Message and the Mavericks Won\u2019t Love It&nbsp;&nbsp;heavy.comLuka Doncic: Lakers Organization Is Better Than Mavericks&nbsp;&nbsp;Lakers NationLuka Doncic throws brutal gut punch at Mavericks with blunt Lakers admission&nbsp;&nbsp;The Smoking CubanLuka Doncic names better organization between Lakers and Mavericks&nbsp;&nbsp;BasketNews.comLuka Doncic says Lakers o",
           "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNzN2alRXZmV1Zm5ZMWJ3SnRWX1JtOUFNRGdMQndjTm54QzE2NnpRaktBY3hiMWk0M2psT2c0Umk1Ql9kTzJWRF9LbC10TERpRzg3R1dDQkFKZFUzRFZRSUw0MmZVTU9lZDd1QUF3Si1UT3paQVJWWFpjUEpBQjRiQlduLWp4eVFndUo3OGdvQUFyNHZfVUwxNXhpcGZnR2s?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb1JqMVNoR1BtX3RxbjVid0NvU0o3VlNuSWpZVDN6cUFTV01tM1VXVmVxbzlTc0U5Mi14WDItczQ0WGJRb1k4TFpnOU9UMERXcmZZbFV0OG1SbFI5NVZ1RUNTUDA2ZEY5UjVZSVNCdTdsMDJzNk0zMkxXb21GekM4SXdhbHVlS0IydWc?oc=5",
           "source": "Google News - Luka",
-          "published": "2026-02-17T00:21:00+00:00",
+          "published": "2026-02-17T00:21:54+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "7a0b439d54a8",
+          "title": "Who Cares What LeBron James Thinks About Israel? - OutKick",
+          "original_title": "Who Cares What LeBron James Thinks About Israel? - OutKick",
+          "summary": "Who Cares What LeBron James Thinks About Israel?&nbsp;&nbsp;OutKick",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOWlfZDFtQmc0MkNRbzkzS0J3TUZpalB4VG9nZkhLTXU5Y0JKY2pZWFBiMVlkckNNNWUtYi1yZGhjS0lSdnpzV0VONlFzN0dzR0dyVXlHcU5LNEFuVkVodGt5OVd4SzR6MnRCRURiR1l6WTUyZnY4bG53Y09PVFJsVWQ0T0ZVTEE?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-02-16T22:50:38+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "0a56b24bb549",
+          "title": "Stephen A Smith blames LeBron James for NBA Slam Dunk Contest's entertainment decline - Fox News",
+          "original_title": "Stephen A Smith blames LeBron James for NBA Slam Dunk Contest's entertainment decline - Fox News",
+          "summary": "Stephen A Smith blames LeBron James for NBA Slam Dunk Contest's entertainment decline&nbsp;&nbsp;Fox News",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdmx6MVVKVTVDbUp1amNweW5VbExlOUVHbEFsb3daY0V2ZU91dF95a2hIZ19PMlJXVWJ5R1RCXy1ZNmdoeWo1dng3Wml2MVRzcDhhbnJheUY4cUNoLV9RbVJaRjdVeWlOcTNKOFVzRVZnZ2h3SUFBblJ4RkJCZWNTTEZ3WUd2RklFeXRram5tRjRBRTlodUdxczNNa2RkeVA2OGhTaU9IZmg2ZHJSdlZ6WtIBtgFBVV95cUxPMHh3OV9fN3lsaDlPQTU5REJLejJaMExDVEpOUTNBSjdObUlqYlh3eTM4WTh3V2hJWWx2R3VkLVFqRTItSU9PRU5KeE0zcWo3cFBkeVEtU3k3WFZqamdYemNZeEUzbTRRd1ZjOVpISTNmaEM2Mlg0WnhiVldIR1hXZ2FTZkhFODB2T1E0MlZIR2E3ZEhDZTlobnJWQVhCSGM4eVRzRDVNNzI3Z094VW4tejRjSkVqUQ?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-02-16T22:47:49+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "6b0ae4f862da",
+          "title": "Lakers Get Encouraging Sign From Luka Doncic\u2014But One Big Question Remains - Sports Illustrated",
+          "original_title": "Lakers Get Encouraging Sign From Luka Doncic\u2014But One Big Question Remains - Sports Illustrated",
+          "summary": "Lakers Get Encouraging Sign From Luka Doncic\u2014But One Big Question Remains&nbsp;&nbsp;Sports Illustrated",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSG1WNkVvWTFfOUZNZjc4TGZ0QkVTNWstSm9lRWxLeHBBaVRwdDV6ZGVndkZ4MXVNMnBReko1SmJuR1JNeG9XM3RvVDdUZ05DakxzRlZmcVZhRVdGVDJqZ3Vqc3JZSE5nRTM4Y3Q0aGZYY1BRRmtmLW52NS13Q05OaXlVR0hGdWRoeXZXVG80emRNTFpLcFJaMGUweGxiV3lqX1ZvWHZLUFVZZXh0M0NoYUM5Wm52dWVRRC1RbzdnUmlLM1F5?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-02-16T21:42:58+00:00",
           "topic": "Lakers Players"
         }
       ]
