@@ -1,10 +1,21 @@
 {
-  "generated_at": "2026-03-06T18:49:47.848951+00:00",
+  "generated_at": "2026-03-06T20:33:56.670211+00:00",
   "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
+        {
+          "id": "1db84a0b827d",
+          "title": "Western Conference Standings Watch:\u00a0Can Lakers get some help?",
+          "original_title": "Western Conference Standings Watch:\u00a0Can Lakers get some help?",
+          "summary": "With the Western Conference a tight-knit race yet again this season, this series will look at the standings and games to watch across the league as the Lakers look to secure home court and move up the standings. LA had a golden opportunity to not only jump ahead of the Nuggets on Thursday, but also [&#8230;]",
+          "key_points": [],
+          "link": "https://www.silverscreenandroll.com/lakers-analysis/110006/western-conference-standings-playoff-race-lakers-nuggets-rockets-suns-wolves-thunder",
+          "source": "Silver Screen and Roll",
+          "published": "2026-03-06T19:51:15+00:00",
+          "topic": "Lakers News"
+        },
         {
           "id": "29048293ff60",
           "title": "Marcus Smart: Deandre Ayton Wants To Help Lakers",
@@ -13,7 +24,7 @@
           "key_points": [],
           "link": "https://lakersnation.com/marcus-smart-deandre-ayton-wants-to-help-lakers/",
           "source": "Lakers Nation",
-          "published": "2026-03-06T18:37:24+00:00",
+          "published": "2026-03-06T19:30:24+00:00",
           "topic": "Lakers News"
         },
         {
@@ -35,7 +46,18 @@
           "key_points": [],
           "link": "https://lakersnation.com/lakers-news-nikola-jokic-gives-legendary-lebron-james-his-flowers/",
           "source": "Lakers Nation",
-          "published": "2026-03-06T18:10:03+00:00",
+          "published": "2026-03-06T18:25:03+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "554d481b5387",
+          "title": "Lakers lose to Nuggets, Time to be concerned about Los Angeles\u2019 title hopes? | The Herd - Fox News",
+          "original_title": "Lakers lose to Nuggets, Time to be concerned about Los Angeles\u2019 title hopes? | The Herd - Fox News",
+          "summary": "Lakers lose to Nuggets, Time to be concerned about Los Angeles\u2019 title hopes? | The Herd&nbsp;&nbsp;Fox News",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04UVRJUWY2X1VWdG1peVhwVGhyUTdrUElTY1FCenhfSnNWakFDVUJHQmJVZnBvUy1XLWdOb3AwOU14emZzSVZaelFZS0pKOEVFbkd6XzBR?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-03-06T18:24:09+00:00",
           "topic": "Lakers News"
         },
         {
@@ -83,17 +105,6 @@
           "topic": "Lakers News"
         },
         {
-          "id": "1eb33ea70583",
-          "title": "New NBA Power Rankings Tout LeBron James, Lakers Rising At Perfect Time - Bleacher Report",
-          "original_title": "New NBA Power Rankings Tout LeBron James, Lakers Rising At Perfect Time - Bleacher Report",
-          "summary": "New NBA Power Rankings Tout LeBron James, Lakers Rising At Perfect Time&nbsp;&nbsp;Bleacher Report",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUTRGLTZkcE9zdmVxWWE4dGExd1dCbmtJVjQ4bmE1SXJFNXJ5bzhKYzlzUVNyTGREZlNneXlyUXRQT2dON0lMek4yRTUtTlpodFJfMGNRTWpwYUJZVXl2Y1dETGwxV24tbndGR0g5MlJ3ZkpyT1BodnU2a0ZmbndzdG1qSGhNcVVhMzMxU0pjemo4YjFmMUhqcmd6MHRzNkhWYjRTQnBlVVNkbjAtTXRTeVB3?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-03-06T17:12:40+00:00",
-          "topic": "Lakers News"
-        },
-        {
           "id": "d05e407d8612",
           "title": "Lakers News: JJ Redick Compares LeBron James To Bruce Springsteen",
           "original_title": "Lakers News: JJ Redick Compares LeBron James To Bruce Springsteen",
@@ -101,18 +112,7 @@
           "key_points": [],
           "link": "https://lakersnation.com/lakers-news-jj-redick-compares-lebron-james-to-bruce-springsteen/",
           "source": "Lakers Nation",
-          "published": "2026-03-06T17:08:48+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "c21fc26ba267",
-          "title": "Pacers vs Lakers Prediction, Picks & Odds for Tonight\u2019s NBA Game - Yahoo Sports",
-          "original_title": "Pacers vs Lakers Prediction, Picks & Odds for Tonight\u2019s NBA Game - Yahoo Sports",
-          "summary": "Pacers vs Lakers Prediction, Picks & Odds for Tonight\u2019s NBA Game&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPejhlNnNBSGpFUi1TaF90anprQlZrdXZDcHlOTEdnTklyZkxhNFZfM0NjOU5ZUDZjUVJOd3pJay0zQVJKYjJfdUMzdWFDdHBXX09qWV95VklSZ1Ewbm5tdEJOZ0FTX2JTY1NIajVaYy1VQ2oxUEw1SzlYelQ4SGFNb0xxSjJEOVo2SUE?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-03-06T17:07:00+00:00",
+          "published": "2026-03-06T17:20:48+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -121,113 +121,113 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "58f939e03ecc",
-          "title": "Why Jayson Tatum's return gives the Celtics a real chance to win the NBA title",
-          "original_title": "Why Jayson Tatum's return gives the Celtics a real chance to win the NBA title",
-          "summary": "Boston might've already been the East's most complete team, and now they add a superstar",
+          "id": "947eb26b8293",
+          "title": "Sixers' Joel Embiid will be re-evaluated again in a week with oblique injury that's already cost him 3 games",
+          "original_title": "Sixers' Joel Embiid will be re-evaluated again in a week with oblique injury that's already cost him 3 games",
+          "summary": "Embiid has appeared in just 33 games this season.",
           "key_points": [],
-          "link": "https://www.cbssports.com/nba/news/jayson-tatum-injury-celtics-nba-title/",
+          "link": "https://sports.yahoo.com/nba/article/sixers-joel-embiid-will-be-re-evaluated-again-in-a-week-with-oblique-injury-thats-already-cost-him-3-games-202805989.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-03-06T20:28:05+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "a46281296eb7",
+          "title": "North Carolina's projected top-five pick Caleb Wilson done for season following thumb surgery",
+          "original_title": "North Carolina's projected top-five pick Caleb Wilson done for season following thumb surgery",
+          "summary": "While this is bad news for the Tar Heels, Wilson is expected to be cleared for pre-draft basketball activities.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/north-carolinas-projected-top-five-202540079.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-03-06T20:25:40+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "6848f0171637",
+          "title": "Achilles healed: Celtics OK Tatum for Fri. return",
+          "original_title": "Achilles healed: Celtics OK Tatum for Fri. return",
+          "summary": "Jayson Tatum is officially available for the Celtics' Friday night home game against the Mavericks. Tatum suffered a torn right Achilles tendon in the playoffs less than 10 months ago.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/48123442/celtics-jayson-tatum-achilles-available-return-friday",
+          "source": "ESPN NBA",
+          "published": "2026-03-06T19:58:20+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "6d5197142d82",
+          "title": "Celtics star Jayson Tatum's status upgraded to available, clearing way for season debut vs. Dallas",
+          "original_title": "Celtics star Jayson Tatum's status upgraded to available, clearing way for season debut vs. Dallas",
+          "summary": "Boston Celtics star Jayson Tatum\u2019s status has been upgraded to available, clearing the way for him to make his season debut almost 10 months after having surgery to repair a ruptured right Achilles tendon.  Tatum\u2019s status was updated Friday afternoon ahead of the Celtics\u2019 home matchup with the Dallas Mavericks.  Tatum was listed as questionable for the game Thursday.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/celtics-star-jayson-tatums-status-195728593.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-03-06T19:57:28+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "fb71c5a1af81",
+          "title": "North Carolina star Caleb Wilson breaks right thumb in practice and is out for the season",
+          "original_title": "North Carolina star Caleb Wilson breaks right thumb in practice and is out for the season",
+          "summary": "Caleb Wilson appeared close to returning for No. 17 North Carolina from a fracture to his left hand, just in time for the peak of March.  The school announced Friday that Wilson will need surgery after breaking his right thumb in a non-contact drill suffered during Thursday's practice.  It was a shocking change to Wilson's trajectory as the Tar Heels' scoring and rebounding leader inched his way back from the injury suffered in a Feb. 10 loss at Miami.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/north-carolina-star-caleb-wilson-195620407.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-03-06T19:56:20+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "81181de1e778",
+          "title": "Celtics star Jayson Tatum's status upgraded to available, clearing way for season debut after Achilles tendon surgery",
+          "original_title": "Celtics star Jayson Tatum's status upgraded to available, clearing way for season debut after Achilles tendon surgery",
+          "summary": "BOSTON (AP) \u2014 Celtics star Jayson Tatum's status upgraded to available, clearing way for season debut after Achilles tendon surgery.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/celtics-star-jayson-tatums-status-195305425.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-03-06T19:53:05+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "00661f22bd33",
+          "title": "Fired Michigan football coach Sherrone Moore reaches plea deal to resolve home invasion case",
+          "original_title": "Fired Michigan football coach Sherrone Moore reaches plea deal to resolve home invasion case",
+          "summary": "Former Michigan football coach Sherrone Moore pleaded no contest Friday to two misdemeanors in a criminal case that arose immediately after he was fired for having an inappropriate relationship with his executive assistant.  The deal was struck on the same day that a judge planned to hear a challenge to Moore\u2019s arrest in December on three charges, including felony home invasion.  \u201cThings have changed,\u201d Judge J. Cedric Simpson said.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/fired-michigan-football-coach-sherrone-194820300.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-03-06T19:48:20+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "d875fccd262d",
+          "title": "Caleb Wilson injury update: North Carolina star to miss rest of season",
+          "original_title": "Caleb Wilson injury update: North Carolina star to miss rest of season",
+          "summary": "North Carolina star Caleb Wilson will miss the remainder of the season after breaking his thumb, the school announced March 6.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/caleb-wilson-injury-north-carolina-194742349.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-03-06T19:47:42+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "a593dfb3da9f",
+          "title": "Adam Silver says NBA draft lottery system changes are coming next year to address tanking",
+          "original_title": "Adam Silver says NBA draft lottery system changes are coming next year to address tanking",
+          "summary": "The league is considering all options to curb tanking",
+          "key_points": [],
+          "link": "https://www.cbssports.com/nba/news/nba-tanking-draft-lottery-adam-silver/",
           "source": "CBS Sports NBA",
-          "published": "2026-03-06T18:45:37+00:00",
+          "published": "2026-03-06T19:44:08+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "4a93db577d46",
-          "title": "Jayson Tatum's second act is here, and it comes with a chance to reframe his career narrative",
-          "original_title": "Jayson Tatum's second act is here, and it comes with a chance to reframe his career narrative",
-          "summary": "Tatum's return to the Celtics' title push will be one of the most fascinating stories for the rest of this NBA season",
+          "id": "70aa6049828f",
+          "title": "Messi has long steered clear of politics. Does his visit to Trump's White House mark a change?",
+          "original_title": "Messi has long steered clear of politics. Does his visit to Trump's White House mark a change?",
+          "summary": "Assisted by a glittering, pink soccer ball, Lionel Messi crossed yet another frontier with his visit to the White House.  Until Thursday, the global soccer superstar had been equally adept at dodging defenders on the field and political leaders, especially those in his own country of Argentina.  There were questions about whether he would even appear with the rest of Inter Miami to celebrate their MLS Cup win at the White House.",
           "key_points": [],
-          "link": "https://www.cbssports.com/nba/news/jayson-tatums-second-act-achilles-injury-return-celtics/",
-          "source": "CBS Sports NBA",
-          "published": "2026-03-06T18:44:39+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "423a6f450e22",
-          "title": "Suns forward Brooks arrested on suspected DUI",
-          "original_title": "Suns forward Brooks arrested on suspected DUI",
-          "summary": "Suns forward Dillon Brooks was arrested early Friday morning for suspicion of driving under the influence in Scottsdale, Arizona, police said.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48122500/suns-dillon-brooks-arrested-suspicion-dui-report-says",
-          "source": "ESPN NBA",
-          "published": "2026-03-06T18:41:54+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "a2ae5978055d",
-          "title": "LeBron bests Kareem for most made FG in history",
-          "original_title": "LeBron bests Kareem for most made FG in history",
-          "summary": "LeBron James made the 15,838th field goal of his career to pass Kareem Abdul-Jabbar for the most made field goals in NBA history.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48117860/lebron-james-passes-kareem-abdul-jabbar-most-made-fg-nba-history",
-          "source": "ESPN NBA",
-          "published": "2026-03-06T18:41:54+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "e95c63ceeb7f",
-          "title": "Despite rust, Young dazzles Wiz crowd in debut",
-          "original_title": "Despite rust, Young dazzles Wiz crowd in debut",
-          "summary": "In his limited time on the court, Trae Young proved in his Wizards debut that he is the type of player the team hasn't had since John Wall, thrilling the D.C. crowd and finishing with 12 points in a 122-112 loss to the Jazz.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48118303/despite-rust-trae-young-dazzles-wizards-crowd-19-minute-debut",
-          "source": "ESPN NBA",
-          "published": "2026-03-06T18:41:54+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "f486fec44be7",
-          "title": "Sources: Celtics' Tatum expected to return Friday",
-          "original_title": "Sources: Celtics' Tatum expected to return Friday",
-          "summary": "Celtics superstar Jayson Tatum is expected to make his 2025-26 NBA season debut against the Dallas Mavericks on Friday night at TD Garden, sources told ESPN.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48112945/sources-celtics-jayson-tatum-expected-return-vs-mavericks",
-          "source": "ESPN NBA",
-          "published": "2026-03-06T18:41:54+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "9fffc24480e4",
-          "title": "Flagg return from injury spoiled by late Magic rally",
-          "original_title": "Flagg return from injury spoiled by late Magic rally",
-          "summary": "Cooper Flagg returned to the Dallas Mavericks' lineup Thursday night after missing eight games because of a left midfoot sprain and had 18 points and six assists in a 115-114 loss to the Orlando Magic.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48114477/sources-mavericks-flagg-cleared-missing-8-games",
-          "source": "ESPN NBA",
-          "published": "2026-03-06T18:41:54+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "66a82c359e03",
-          "title": "Ayton injures knee; LeBron (elbow) iffy for Friday",
-          "original_title": "Ayton injures knee; LeBron (elbow) iffy for Friday",
-          "summary": "Deandre Ayton left Thursday night's loss to the Nuggets with a knee injury, while LeBron James complained of a sore elbow afterward and said he wasn't sure of his status for Friday's game against the Pacers.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48119262/lakers-ayton-exits-knee-injury-lebron-says-elbow-sore",
-          "source": "ESPN NBA",
-          "published": "2026-03-06T18:41:54+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "9b0fbc935637",
-          "title": "Dubs surprise in OT as Curry says, 'Keep going'",
-          "original_title": "Dubs surprise in OT as Curry says, 'Keep going'",
-          "summary": "In the hours leading up to the Warriors' overtime win in Houston on Thursday night, their absent superstar, Stephen Curry, sent their remaining big name, Draymond Green, a text message of encouragement.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48118899/short-handed-warriors-surprise-ot-win-rockets",
-          "source": "ESPN NBA",
-          "published": "2026-03-06T18:41:54+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "d682d00b89d8",
-          "title": "Judge rules Beasley owes $1M to former agency",
-          "original_title": "Judge rules Beasley owes $1M to former agency",
-          "summary": "A federal judge in New York issued a $1 million civil judgment against NBA free agent Malik Beasley in a contract dispute with his former agency.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48113702/free-agent-malik-beasley-ordered-pay-1-million-suitmalik-beasley-ordered-pay-1-million-suit",
-          "source": "ESPN NBA",
-          "published": "2026-03-06T18:41:54+00:00",
+          "link": "https://sports.yahoo.com/articles/messi-long-steered-clear-politics-194017704.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-03-06T19:40:17+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -258,6 +258,28 @@
           "topic": "Lakers Players"
         },
         {
+          "id": "1eb33ea70583",
+          "title": "New NBA Power Rankings Tout LeBron James, Lakers Rising At Perfect Time - Bleacher Report",
+          "original_title": "New NBA Power Rankings Tout LeBron James, Lakers Rising At Perfect Time - Bleacher Report",
+          "summary": "New NBA Power Rankings Tout LeBron James, Lakers Rising At Perfect Time&nbsp;&nbsp;Bleacher Report",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUTRGLTZkcE9zdmVxWWE4dGExd1dCbmtJVjQ4bmE1SXJFNXJ5bzhKYzlzUVNyTGREZlNneXlyUXRQT2dON0lMek4yRTUtTlpodFJfMGNRTWpwYUJZVXl2Y1dETGwxV24tbndGR0g5MlJ3ZkpyT1BodnU2a0ZmbndzdG1qSGhNcVVhMzMxU0pjemo4YjFmMUhqcmd6MHRzNkhWYjRTQnBlVVNkbjAtTXRTeVB3?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-03-06T17:12:40+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "e4a0564585d6",
+          "title": "Starting 5: LeBron James' milestone, Jayson Tatum's possible return & more - NBA",
+          "original_title": "Starting 5: LeBron James' milestone, Jayson Tatum's possible return & more - NBA",
+          "summary": "Starting 5: LeBron James' milestone, Jayson Tatum's possible return & more&nbsp;&nbsp;NBA",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1Y2o0YkRpTzJtTUVMVFhVQzV2NWhqalNKS2NhdW1SRThLdWFteUROVnpGZi1GeXNkc2ZZX0lTaXdjX2FMbkNkUGZRSldIWHp1SWdOSXNDMnV0M2JD?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-03-06T16:48:36+00:00",
+          "topic": "Lakers Players"
+        },
+        {
           "id": "4f8f6ac03a60",
           "title": "Lakers frustrated as LeBron James perplexed by non-call on Nikola Joki\u0107, Luka Don\u010di\u0107 picks up 15th technical - CBS Sports",
           "original_title": "Lakers frustrated as LeBron James perplexed by non-call on Nikola Joki\u0107, Luka Don\u010di\u0107 picks up 15th technical - CBS Sports",
@@ -277,17 +299,6 @@
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaklKbGY2ekdEYlFORmVqOTFGYkZsbF9adEdDS25lMVVDZDdUREJrM2g5OVNmVHA4bmdLX3lXZm9GMlhqaUVMd2d2WG8wZndIYkI3S0F3STlYcmtLTTFXZlV4VGhjanZJOXVUMF9QakNjY0syai1CTllRQnJILUczbVBvUWwwSl8tWWZ0ZnBvSEVqZnhDc0lXNURjNy1SaFZTNEFjbVVwYmpkRE5vMExVM0tVREIxX080MjB6bFp5b21MLUNGUFZyajl6dGFGamo1M0hwSg?oc=5",
           "source": "Google News - Luka",
           "published": "2026-03-06T14:59:09+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "9b6f9dc9f4d1",
-          "title": "Lakers Notes: LeBron, Ayton, Doncic, Smart, Marciulionis - Hoops Rumors",
-          "original_title": "Lakers Notes: LeBron, Ayton, Doncic, Smart, Marciulionis - Hoops Rumors",
-          "summary": "Lakers Notes: LeBron, Ayton, Doncic, Smart, Marciulionis&nbsp;&nbsp;Hoops Rumors",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTWp6cFZjbGZjRlNlRjRrODdUMjM0dGsyeG91Wmh1ZURiazlyc3RnQkRRMGpCelprYVcyMW9kY29ScGdnUW5zWVgyVW81VHowZXAwNlhNclcyVVZCRXRtMXFuc0tGeUJkU19KZk1Vb2RYRGFZUFlkR2hUN0VLU3BBZFBsRVhmOFduV1ZGaHJGcDk5Q1V1WXFn?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-03-06T13:57:44+00:00",
           "topic": "Lakers Players"
         },
         {
@@ -313,6 +324,17 @@
           "topic": "Lakers Players"
         },
         {
+          "id": "1fc7939bd997",
+          "title": "Exclusive | LeBron James opens up on his looming retirement in revealing interview - New York Post",
+          "original_title": "Exclusive | LeBron James opens up on his looming retirement in revealing interview - New York Post",
+          "summary": "Exclusive | LeBron James opens up on his looming retirement in revealing interview&nbsp;&nbsp;New York Post",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNUhhX2N6amRSWWVBbmJORnZEeUFhbnpMeTYwMG5idHY1UzhQaEtrN01WZGxqT1pUVE5uZ0FIYUZVdW1mT3g3Ql9wUTJ1cXR5c0JRSUZyZDk2UWRqbW15NTVuUWdjSXYtOUcwUFhUaVdpbjd2NW44VXBBUVlkNzMyNUFJa1RINUhlVFJjSlNxcW4zNkw1NWhYbTlrVzd1bGc?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-03-06T13:00:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
           "id": "8adc99d69861",
           "title": "Luka Don\u010di\u0107 reaches the brink of a suspension after racking up 15th technical foul - The New York Times",
           "original_title": "Luka Don\u010di\u0107 reaches the brink of a suspension after racking up 15th technical foul - The New York Times",
@@ -321,28 +343,6 @@
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbWFLSGM1SV9JelRRVDEwVGlLT3pKcXF5Uks0ZEhTWlItQWlKOXVyRVBZMzNFQVFhVk5DU2xjN0UxSDZvMzQ4MEJmV2ZSdGNfcnZFaDMtc19jaHJrX3lSYU84NHJvNTZ3OG9mZjVMUTFTSFR5SWpHM3JqWWI4LXVtQXRjMnZvbE5QN0xGZWFWemxrZWxkeWpqVEF6UVZhZw?oc=5",
           "source": "Google News - Luka",
           "published": "2026-03-06T12:00:45+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "0cc2f040b579",
-          "title": "LeBron James says elbow \u2018pretty sore\u2019 after fall during Nuggets loss - Silver Screen and Roll",
-          "original_title": "LeBron James says elbow \u2018pretty sore\u2019 after fall during Nuggets loss - Silver Screen and Roll",
-          "summary": "LeBron James says elbow \u2018pretty sore\u2019 after fall during Nuggets loss&nbsp;&nbsp;Silver Screen and Roll",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQW5Bdl8xcGVrMzM1bWZDQkM3WUhGX2tPSGVWd3d2cG9PSjE3bDJxUFI1UkJPWmpQRG54elFmQ2tkRVc4NzVzMFJFQUR3X3lNU0xIbUVwY2JiLTd2WDRNbnVOSlN5QkRNRXVOTTVuRTRXU3Y5Q0ZKeXdQXzA5RVljVE5NbnN5SkFFRG9kbk03RzAzUTd0U2pOT2Zma2pzYkxIeGs4MElzeEFSUUZpQWFZYnZLTHFON2dyRzVEUm9iTFRMWXc?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-03-06T09:08:16+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "e245f12d5831",
-          "title": "Luka Doncic picks up 15th technical foul: \u2018I don\u2019t know what to say\u2019 - New York Post",
-          "original_title": "Luka Doncic picks up 15th technical foul: \u2018I don\u2019t know what to say\u2019 - New York Post",
-          "summary": "Luka Doncic picks up 15th technical foul: \u2018I don\u2019t know what to say\u2019&nbsp;&nbsp;New York Post",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUF81M3A1NnBVdXpWVkYtRWtnNk9PUVRpUHQ5VWFvYTFFMjV4ZlFjZUZ6WXN5NU5nOHZTQm1zNm1qUElvMC1HYlpuTjJ5YzVsV284RE5SOFpOYzFhWmMzenNod19CZXpjR2I3VnZLWEFpNUsyNVVQcTZ0WEswbEoyckhOQlhwbXhZMDlWQU44WFl2eGZn?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-03-06T09:00:00+00:00",
           "topic": "Lakers Players"
         }
       ]
