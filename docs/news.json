@@ -1,15 +1,70 @@
 {
-  "generated_at": "2026-03-22T10:29:08.731977+00:00",
+  "generated_at": "2026-03-22T12:54:46.142487+00:00",
   "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
+          "id": "3d7d963b0d6c",
+          "title": "Luke Kennard, LeBron React to Clutch Shot to Keep Lakers' 9-Game Win Streak Alive Since Trade - Bleacher Report",
+          "original_title": "Luke Kennard, LeBron React to Clutch Shot to Keep Lakers' 9-Game Win Streak Alive Since Trade - Bleacher Report",
+          "summary": "Luke Kennard, LeBron React to Clutch Shot to Keep Lakers' 9-Game Win Streak Alive Since Trade&nbsp;&nbsp;Bleacher Report",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcXpPbUJxR3pEZjItRmlLZjRGeUlXT25JbkVhWElDQTM5RzRrNDVyWVRyck9oRHNUeFA1T2pPMWxZR2hfUHE3Q21aVWkyZW4tSDFuVHlBOFJDNzFVMnV5SUxNOUtGbnNQbHAwazhscUg0OC1lclJMbVl1ZkstZk1EWXNpVkE5OVczZi16a3pKU00zMGxPbncwRC1IMnppWjMxYUtvM0E4T2RpTkh4eld2SmtyLUVlU2N3SkVhYU5OTXc0Zw?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-03-22T12:41:24+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "5eb7acc4773d",
+          "title": "Luka Doncic, Goga Bitadze Explain Spat During Lakers vs. Magic - Sports Illustrated",
+          "original_title": "Luka Doncic, Goga Bitadze Explain Spat During Lakers vs. Magic - Sports Illustrated",
+          "summary": "Luka Doncic, Goga Bitadze Explain Spat During Lakers vs. Magic&nbsp;&nbsp;Sports Illustrated",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQS0JVRTFzdzJvOWNLckRpUExQN0NBQjdXeFA1Ni1ScEtaeGtPRHV4eTQ1UkZJNFZ6UFloUDY1cnNQZmdwTVlKdVYydFVZb21VaFRGeVlPLUhoSjFRNHAyV2xmcUVxQnBmX18yM0tZQnR6RTRXQkgxcUJQY3ZXVzZaTGV5RHY1RVd6a2JyNExjT2FCajdXdmtyUjM0VWl4MXZI?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-03-22T12:30:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "625b4a57acda",
+          "title": "James sets NBA appearance record in late Lakers win - BBC",
+          "original_title": "James sets NBA appearance record in late Lakers win - BBC",
+          "summary": "James sets NBA appearance record in late Lakers win&nbsp;&nbsp;BBC",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXUUpJUHlXRFZZQ3pJYjdjZXgxLXF1ajFta05XclNNN2VMNmluMk5YZFgzckI4NjAzQmdsa2NmdnFnUmhuWXNsREItelh3ZlpRcThETEhMSnJ5OUNPeGVzOGwtNm1nMWV4MWc?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-03-22T08:15:35+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "9008da0abd34",
+          "title": "Los Angeles Lakers Star Luka Doncic Made History During Magic Game - heavy.com",
+          "original_title": "Los Angeles Lakers Star Luka Doncic Made History During Magic Game - heavy.com",
+          "summary": "Los Angeles Lakers Star Luka Doncic Made History During Magic Game&nbsp;&nbsp;heavy.com",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQekhTdWhHeG1Nc1R4S2VPMXJVdjVVbmNucm4yMkZjRWhTemNUMU9TbndTa3BhQkZtTkdXNjN1TWJ0amVDaktYTDhLWTlzdWlNZzFnR3Nlbmc3OVFOQTNqSEoyOU1lQmdqZmwzNFpfS1ptZzFZMENiWDV1TEdxQ3UtSjFrc21wOEpGTDBWRE9yandCRnRBNlE?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-03-22T07:38:53+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "d7e540510c69",
+          "title": "CINDERELLA: Los Angeles Lakers\u2019 Stunning Run Continues as Luke Kennard Sinks Magic in Wild FINISH - fox61.com",
+          "original_title": "CINDERELLA: Los Angeles Lakers\u2019 Stunning Run Continues as Luke Kennard Sinks Magic in Wild FINISH - fox61.com",
+          "summary": "CINDERELLA: Los Angeles Lakers\u2019 Stunning Run Continues as Luke Kennard Sinks Magic in Wild FINISH&nbsp;&nbsp;fox61.com",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNbWZlWnd4WjV3RWZWNmNKSXZ0WXE0dVBpSXZfRFRNMkZZQlJMZjVNbTdIdzBrbFBobndwZXFNTHJrdjhjM1ZaNENGNjdxQTRwUWhlNjZXd2VxblpVQms4Y1NhUFFxeXJtQ3c5U3A5RzVwVElKMmx5bmRvVHJTOVRDZVBDR1lUb0c0UkVFcmhia3BhQWMxNmxtTGdZaDVCSjA3X3YySHF3U2Z2RVpRUzRsV3dTSVN5bF9fTlFqOU9pLUNYQ0J5TjdBRW1BS0dvMER3U2lIdGxldG82QnVYV0JUeHlYdTRteDRwQU1ZckMwa2doY0pUdHNDV2ZKckc2LUlpbWFlR1ZNNlR2eTVFLVMtR3hHZXdHV3k4OEtjdDNFMGlxTmdBOW9uRV9rQUlIUmVn?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-03-22T06:52:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
           "id": "6d697f404267",
           "title": "Lakers\u2019 Luka Doncic Just Did Something No Player in NBA History Has Ever Done - Sports Illustrated",
           "original_title": "Lakers\u2019 Luka Doncic Just Did Something No Player in NBA History Has Ever Done - Sports Illustrated",
-          "summary": "Lakers\u2019 Luka Doncic Just Did Something No Player in NBA History Has Ever Done&nbsp;&nbsp;Sports IllustratedLuka Doncic says vulgar comment from Orlando player led to his 16th technical&nbsp;&nbsp;Los Angeles TimesLakers Make Quick Decision on Luka Doncic\u2019s Tech vs Magic&nbsp;&nbsp;heavy.com",
+          "summary": "Lakers\u2019 Luka Doncic Just Did Something No Player in NBA History Has Ever Done&nbsp;&nbsp;Sports IllustratedLuka Doncic says vulgar comment from Orlando player led to his 16th technical&nbsp;&nbsp;Los Angeles TimesLakers\u2019 Luka Doncic Controversy Continues as Magic Player Fires Back&nbsp;&nbsp;heavy.com",
           "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91bGhfbVg2SWl1eEYyZXdyT1ZPdGplVHVycXZfbkN6ZnhLZHk5WHN4UkNtejBEbDc5Q0p5a0JsckhYWUppemJ5RTE0T0VuVkl1WV9SSGtoelJLVldrdnVldTh5OGJ3LW9jdGJCYkd5UG8zcFE?oc=5",
           "source": "Google News - Lakers",
@@ -20,7 +75,7 @@
           "id": "82fced16d6a8",
           "title": "Kennard hits last-second 3 as Lakers win on LeBron's record day - ESPN",
           "original_title": "Kennard hits last-second 3 as Lakers win on LeBron's record day - ESPN",
-          "summary": "Kennard hits last-second 3 as Lakers win on LeBron's record day&nbsp;&nbsp;ESPNLuke Kennard\u2019s last-second three-pointer lifts Lakers to ninth consecutive win&nbsp;&nbsp;Los Angeles TimesJames sets NBA appearance record in late Lakers win&nbsp;&nbsp;BBC",
+          "summary": "Kennard hits last-second 3 as Lakers win on LeBron's record day&nbsp;&nbsp;ESPN",
           "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUWpNRjR2elc3MlJpME5HQ3plSlo4S2hONkdLQnFLZHVUcUxmYUhXTktJTjlSbVk0aWw3Nl9JaVVMLXdqdG0yb0pzemZ4U0xpcUpyS25XTzJsWTlLVXlrZWZ0bDJVaDVBZU5QT3R3c3R4RzMzRE1xMGl0TWE3MnlTRTJRRTVfbUlrbUxOMkpTb0E3YXVIU1ViMmMxSGJzSXlLWUE?oc=5",
           "source": "Google News - Lakers",
@@ -50,17 +105,6 @@
           "topic": "Lakers News"
         },
         {
-          "id": "a16985c75653",
-          "title": "Lakers\u2019 win streak reaches 9 games thanks to Luke Kennard\u2019s game winner - The Athletic - The New York Times",
-          "original_title": "Lakers\u2019 win streak reaches 9 games thanks to Luke Kennard\u2019s game winner - The Athletic - The New York Times",
-          "summary": "Lakers\u2019 win streak reaches 9 games thanks to Luke Kennard\u2019s game winner - The Athletic&nbsp;&nbsp;The New York Times",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU2VVaVZfMGl2T25LaHJwLWNiMnU4cnEyenRjaVJCT2NpMUZNc2pGTUh5Tl9aNm9Dd245OXhYS0JnNmFKYVpWQVlpOUl2T2tjVmc4b25EQ0ZxUTlURDNNaWc2TndjZE1BVzgtMHg1YlZoOGJMb18ya1JyWGdtbWs5TUpqam00aE9haHVid1VxdmlJRUJ6?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-03-22T05:22:36+00:00",
-          "topic": "Lakers News"
-        },
-        {
           "id": "3a883f716d7a",
           "title": "Jarred Vanderbilt on IG: \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
           "original_title": "Jarred Vanderbilt on IG: \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
@@ -70,56 +114,56 @@
           "source": "Reddit r/lakers",
           "published": "2026-03-22T04:58:20+00:00",
           "topic": "Lakers News"
-        },
-        {
-          "id": "a7f4f2964faf",
-          "title": "Stephen A. Smith: \"There's something special happening with the Lakers\" - MARCA",
-          "original_title": "Stephen A. Smith: \"There's something special happening with the Lakers\" - MARCA",
-          "summary": "Stephen A. Smith: \"There's something special happening with the Lakers\"&nbsp;&nbsp;MARCA",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPemlDNkVOVFRHMjZwYmVnal9hVDhkUHQwcjVQcWU1NWRpblAwOEUwYXo2dEE5cHVWakRTXzFwQTJYNmRFQ21CX1VSWnN5ejNfR1FpM0hyMTRPSE9xMTZ5aHRmaWpBRS1rWGxLdTBmSEluUGlkVl9MT3NPX3kyTk9rREwwMGdpU0tINEpiemdQVTdVODBKQkI3ekg5UWV1TkJn0gGgAUFVX3lxTE1WcXdIckVtamdfMVRoSDliY0ozUHB1T3VsaXRxck5BalVMUldlbUJEbFNnNFdsOGRUVWt4WjVwYWUyOWFVWFE2cHhZbXJTbHlLVGpKaXItZ2l2RlB4VkVDT21wVUJqSVdBTURhSlZ1R1hXNThtc1poRzlMaFZyS0JzYU9fUnFtMEVPanZ3Vm9Ja1B3NDc0M3F5VXJVaF9KRXA?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-03-22T04:43:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "ac69dc237f55",
-          "title": "Lakers assistant coach Greg St. Jean drew up the game-winning play, JJ Redick said.",
-          "original_title": "Lakers assistant coach Greg St. Jean drew up the game-winning play, JJ Redick said.",
-          "summary": "      &#32; submitted by &#32;  /u/Swimming-Community-5   [link] &#32; [comments] ",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/lakers/comments/1s0ca5v/lakers_assistant_coach_greg_st_jean_drew_up_the/",
-          "source": "Reddit r/lakers",
-          "published": "2026-03-22T04:25:44+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "3130b0fca31d",
-          "title": "Luka Don\u010di\u0107 claims Goga Bitadze said graphic comment about his family",
-          "original_title": "Luka Don\u010di\u0107 claims Goga Bitadze said graphic comment about his family",
-          "summary": "Luka Don\u010di\u0107 is one of the premier trash talkers in the NBA, whether it\u2019s with players on the court or fans in the stands. However, things may have crossed a line on Saturday. During the third quarter of the Lakers\u2019 game against the Magic, Luka and Orlando center Goga Bitadze had a back-and-forth that clearly [&#8230;]",
-          "key_points": [],
-          "link": "https://www.silverscreenandroll.com/lakers-news/111622/luka-doncic-lakers-goga-bitadze-technical-trash-talk-suspension",
-          "source": "Silver Screen and Roll",
-          "published": "2026-03-22T03:22:45+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "89ceb40a04b1",
-          "title": "Let\u2019s not forget Luke Kennard\u2019s game winner doesn\u2019t happen without LeBron forcing the turnover on Banchero \ud83d\udc51",
-          "original_title": "Let\u2019s not forget Luke Kennard\u2019s game winner doesn\u2019t happen without LeBron forcing the turnover on Banchero \ud83d\udc51",
-          "summary": "      &#32; submitted by &#32;  /u/yayarea1234567   [link] &#32; [comments] ",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/lakers/comments/1s0aytg/lets_not_forget_luke_kennards_game_winner_doesnt/",
-          "source": "Reddit r/lakers",
-          "published": "2026-03-22T03:17:26+00:00",
-          "topic": "Lakers News"
         }
       ]
     },
     {
       "name": "NBA League News",
       "articles": [
+        {
+          "id": "64343a89a86b",
+          "title": "Wizards vs Knicks Prediction, Picks & Odds for Tonight\u2019s NBA Game",
+          "original_title": "Wizards vs Knicks Prediction, Picks & Odds for Tonight\u2019s NBA Game",
+          "summary": "Our Wizards vs. Knicks predictions expect a fast pace and a ton of points at Madison Square Garden tonight.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/wizards-vs-knicks-prediction-picks-124600218.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-03-22T12:46:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "ddbe56124a0a",
+          "title": "How many perfect brackets remain? March Madness leaves less than handful",
+          "original_title": "How many perfect brackets remain? March Madness leaves less than handful",
+          "summary": "How many perfect brackets are left in the men's basketball NCAA Tournament? Here's what's left after Saturday's slate of March Madness games.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/many-perfect-brackets-remain-march-122330366.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-03-22T12:23:30+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "a538d9a9a89c",
+          "title": "[SERIOUS NEXT DAY THREAD] Post-Game Discussion (March 21, 2026)",
+          "original_title": "[SERIOUS NEXT DAY THREAD] Post-Game Discussion (March 21, 2026)",
+          "summary": "Here is a place to have in depth, x's and o's, discussions on yesterday's games. Post-game discussions are linked in the table, keep your memes and reactions there. Please keep your discussion of a particular game in the respective comment thread. All direct replies to this post will be removed.   Away Home Score GT PGT     Oklahoma City Thunder  Washington Wizards 132 - 111 Link Link    Memphis Grizzlies  Charlotte Hornets 101 - 124 Link Link    Los Angeles Lakers  Orlando Magic 105 - 104 Link ",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/nba/comments/1s0iqp6/serious_next_day_thread_postgame_discussion_march/",
+          "source": "Reddit r/nba",
+          "published": "2026-03-22T11:00:01+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "f6e222088799",
+          "title": "Seven Games In: A Jayson Tatum Progress Report",
+          "original_title": "Seven Games In: A Jayson Tatum Progress Report",
+          "summary": "While Tatum\u2019s scoring efficiency has been below his standard, his impact on winning is already undeniable.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/seven-games-jayson-tatum-progress-104400741.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-03-22T10:44:00+00:00",
+          "topic": "NBA League News"
+        },
         {
           "id": "a845ec085cf5",
           "title": "Former, current NBA players sound off on NBA expansion as vote looms",
@@ -138,6 +182,17 @@
           "summary": "While Monday, Wednesday and Friday are busy game days, Tuesday and Thursday are days when streaming value can be found during Week 22.",
           "key_points": [],
           "link": "https://sports.yahoo.com/articles/fantasy-basketball-week-22-schedule-100000654.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-03-22T10:00:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "c1edbcc35304",
+          "title": "Wizards Outfought by Thunder for 15th Consecutive Loss",
+          "original_title": "Wizards Outfought by Thunder for 15th Consecutive Loss",
+          "summary": "If you skipped watching this game and just saw the box score, you\u2019d probably think this was a pro forma elite team stomps on tanking team NBA win. And you wouldn\u2019t be totally wrong: Oklahoma City Thunder scored 132 points, won by 21, and got 40 points from Shai Gilgeous-Alexander and 20 rebounds and 10 [\u2026]",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/wizards-outfought-thunder-15th-consecutive-100000132.html",
           "source": "Yahoo Sports NBA",
           "published": "2026-03-22T10:00:00+00:00",
           "topic": "NBA League News"
@@ -174,67 +229,34 @@
           "source": "Yahoo Sports NBA",
           "published": "2026-03-22T09:40:29+00:00",
           "topic": "NBA League News"
-        },
-        {
-          "id": "d3b8aef9de85",
-          "title": "James sets NBA appearance record in late Lakers win",
-          "original_title": "James sets NBA appearance record in late Lakers win",
-          "summary": "LeBron James sets the record for the most regular-season games played in NBA history as he helps the Los Angeles Lakers to a dramatic buzzer-beating 105-104 victory against the Orlando Magic in his 1,612th outing.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/james-sets-nba-appearance-record-081540479.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-03-22T08:15:40+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "a0a9a3d3e3b2",
-          "title": "Sources: Lakers appeal tech with Luka facing ban",
-          "original_title": "Sources: Lakers appeal tech with Luka facing ban",
-          "summary": "Luka Doncic faces a one-game suspension after a verbal exchange with Orlando's Goga Bitadze earned him his 16th technical foul of the season Saturday night. Sources told ESPN the Lakers have already filed an appeal.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48275615/lakers-appeal-nix-luka-doncic-16th-technical-foul",
-          "source": "ESPN NBA",
-          "published": "2026-03-22T06:32:46+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "b1eb3e03f2dd",
-          "title": "'Four more to go': KD passes MJ on scoring list",
-          "original_title": "'Four more to go': KD passes MJ on scoring list",
-          "summary": "Kevin Durant passed Michael Jordan for fifth on the NBA's career scoring list after finishing with 27 points in a win over the Heat.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48275565/kevin-durant-passes-michael-jordan-fifth-scoring-list",
-          "source": "ESPN NBA",
-          "published": "2026-03-22T06:32:46+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "1bf25590261a",
-          "title": "Four ejected after Thunder-Wizards altercation",
-          "original_title": "Four ejected after Thunder-Wizards altercation",
-          "summary": "Oklahoma City's Jaylin Williams and Washington's Justin Champagnie were ejected following an altercation late in the first half of Sunday night's 132-111 Thunder win.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48273207/four-ejected-thunder-wizards-altercation",
-          "source": "ESPN NBA",
-          "published": "2026-03-22T06:32:46+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "ad972ec7ba7d",
-          "title": "Kennard steals show, wins it for red-hot Lakers",
-          "original_title": "Kennard steals show, wins it for red-hot Lakers",
-          "summary": "Luke Kennard drained a go-ahead 3-pointer with 0.6 seconds left for the Lakers, who won their ninth straight on a night LeBron James made history with his record-breaking 1,612th regular-season game.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48276200/kennard-hits-last-second-3-lakers-win-lebron-record-day",
-          "source": "ESPN NBA",
-          "published": "2026-03-22T06:32:46+00:00",
-          "topic": "NBA League News"
         }
       ]
     },
     {
       "name": "Lakers Players",
       "articles": [
+        {
+          "id": "69c8afc7a396",
+          "title": "Lakers' Luka Doncic Faces Suspension for 16th Technical Foul After Heated Exchange with Goga Bitadze - Bleacher Report",
+          "original_title": "Lakers' Luka Doncic Faces Suspension for 16th Technical Foul After Heated Exchange with Goga Bitadze - Bleacher Report",
+          "summary": "Lakers' Luka Doncic Faces Suspension for 16th Technical Foul After Heated Exchange with Goga Bitadze&nbsp;&nbsp;Bleacher Report",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdHlnbWhCQXR5ODZoblhPTXZ5ekV0NXhWYndDMUxweVRmdTd0YnlwRm0xcmRBWUpYaHpmZTgtbEVUeTZRMzNVSzlRMXZZU0NEb1NDY3RsRzdzNVZkUUw2LWR2REM5aFZ2NnB2dGRiZUN0U0EwUndnU25NU1VweTA1YzlqU0ZwUk10TW53T2Q5X2l0b1dOZmFOaEc2cUsyN3JmbUhYSE5JOWxveXRVNm9hYW5PbFVXLUdTOFNkb0hGNHdhNFdIN2EwVWgyOWFQSi1T?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-03-22T12:26:34+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "9c6f81570ed7",
+          "title": "LeBron James breaks NBA record for most games played as Kevin Durant passes Michael Jordan on points list - Sky Sports",
+          "original_title": "LeBron James breaks NBA record for most games played as Kevin Durant passes Michael Jordan on points list - Sky Sports",
+          "summary": "LeBron James breaks NBA record for most games played as Kevin Durant passes Michael Jordan on points list&nbsp;&nbsp;Sky Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYzlGZFByNWpZYTBBNF9jX283bjBsVEs1bnBzZjN1b2tsUktWYXNLV1hJY0xENHdqekZlWkpuOVpkTjVBeUt6dW1pNjg4Z3FObFdVWi12c2FmWHRNd05oVWxreFFnWG9kTjN4bnpPajg1QmVibk85cGVuVEI5SzBZWHRpRWxMSlNKY0RQaWc0N01qVGFBX0tLZ1RpUERmVmJJMDlMb1ZwODk1TUVlZGJBRVFOUnpEUTVQdDZoSnpra0dRZklEaTdYcGdzWTdmS2lJZkVzN1R3MmJBN29hZVAyY1hIUnBxZ002amM4?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-03-22T10:22:54+00:00",
+          "topic": "Lakers Players"
+        },
         {
           "id": "8326f4be492e",
           "title": "LeBron James Is Making His Last Great Adjustment - The New Yorker",
@@ -269,17 +291,6 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "03c9b091aca5",
-          "title": "Player Grades: Lakers vs. Magic - Silver Screen and Roll",
-          "original_title": "Player Grades: Lakers vs. Magic - Silver Screen and Roll",
-          "summary": "Player Grades: Lakers vs. Magic&nbsp;&nbsp;Silver Screen and Roll",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaHNDc3Y1dGRyYUtzLXdXTk5CZ0poX2ZHekFqR3ltQmgwOVY4LUM0NzI0ek9VNVBPdEdySzBrZnlMalpTZGJrYXhGcFFzck0xaklTVjZlRGhqd1gyeEUwZHZXRXgwbENtSXczV3JmcVhfWkhuRm9nMnExSWl5Rk5laXF5cTliRHZNUWxRaDVVOTFHWkItOEZnNlcyYTVoNmFwVlhRWlhKdXlwZjB0TXk4dnBtLU9xZWcxYXduYVNCVFRKNHZLWmFiUUxIcXFKX1dCTVBaMV90R0Y3QnQ1Z1Aw?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-03-22T06:25:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
           "id": "a7a076112a2d",
           "title": "Lakers Make Quick Decision on Luka Doncic\u2019s Tech vs Magic - heavy.com",
           "original_title": "Lakers Make Quick Decision on Luka Doncic\u2019s Tech vs Magic - heavy.com",
@@ -288,17 +299,6 @@
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc0hyeWYyZHZWNjlIZHBmUkM0MWREemE3LVpwMDIwaUgtRFBZS01oNThaWEd2WFQ1dC1hMlNJeGtoMTFnTmxwal9QTnFqbVZpbnd5X0RkNmlsWXpxY0NaOENEMDA5X3FlXzNuSXpyTTNJS2Vrb3hYc2tvcTkxR0xKWXdOSXRQcXJnTVd0Y1BwMA?oc=5",
           "source": "Google News - Luka",
           "published": "2026-03-22T06:11:43+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "e6f3457b9e70",
-          "title": "Dunk of the Night: LeBron James - Mar. 21 - NBA",
-          "original_title": "Dunk of the Night: LeBron James - Mar. 21 - NBA",
-          "summary": "Dunk of the Night: LeBron James - Mar. 21&nbsp;&nbsp;NBA",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSVNCVkZ5bUlVQnhzOWItS1B5dWp1aUNpbldnczR2Nzc4ZWgyZVZRYnZzWGF2VGVpT2JWS2c5c0dXbHpUSWluZkQ3MFBNRUd3SUZGSlJMV2ZzaDcxeGdNRXUyMktPNXNGRkRUeV94N0dSQlBRWjhOZUhyZDF5X09wWW1GX1pBYW9UZWl2eTVwVjVkNjBHbnRCS1h4SFNLSGc4am4zd01R?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-03-22T05:49:34+00:00",
           "topic": "Lakers Players"
         },
         {
@@ -313,28 +313,6 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "a0c61a151f46",
-          "title": "Luka Don\u010di\u0107 on 16th technical foul as suspension looms: \u2018I\u2019ve got to stand up for myself\u2019 - The New York Times",
-          "original_title": "Luka Don\u010di\u0107 on 16th technical foul as suspension looms: \u2018I\u2019ve got to stand up for myself\u2019 - The New York Times",
-          "summary": "Luka Don\u010di\u0107 on 16th technical foul as suspension looms: \u2018I\u2019ve got to stand up for myself\u2019&nbsp;&nbsp;The New York Times",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWWhERVB1Rzg2c0hnN2VpRktqSXdBQXpzNFVaUXk0SWNEWGZfYjJBUnYzdHBSeGN1ZXR4NEpHSUxBNTRJcTg0d2VaVWFYT0NHdGwxbUZ5cG5zOVRfQjNMeUFteno2YWlfLW9JQzB5WXdsVE9oZzBpZGMxRFhRNVdXLWtpczJLalYyLWdUOXNJMVBDa1QxRDhVazRiNGNYT01pY3JmT01jZWdfclJo?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-03-22T05:17:13+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "79556ef8483a",
-          "title": "Luka Doncic Reveals Goga Bitadze\u2019s Nasty Comment About Family - heavy.com",
-          "original_title": "Luka Doncic Reveals Goga Bitadze\u2019s Nasty Comment About Family - heavy.com",
-          "summary": "Luka Doncic Reveals Goga Bitadze\u2019s Nasty Comment About Family&nbsp;&nbsp;heavy.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWFFId21OZTlxNUU4V1lodWZVUFJJTVNMRWlzUk40NV9nbmVNYzUtWEtTc3RCNnp6ZDhBS1NXdktJUjEzemZVV0l1ejZVLTg2ODVWTkE0WDVXTHU1UjFQLTc5ZG02QU9LdHlaR2hnSjB6czZfODZGMllyeFRIdUxEQlBVV01acWNWM2JJOEF2T0k?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-03-22T05:09:40+00:00",
-          "topic": "Lakers Players"
-        },
-        {
           "id": "563071c1d55a",
           "title": "Luka Doncic says vulgar comment from Orlando player led to his 16th technical - Los Angeles Times",
           "original_title": "Luka Doncic says vulgar comment from Orlando player led to his 16th technical - Los Angeles Times",
@@ -343,6 +321,28 @@
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX3RoZ19tT1dJd1BVblc3Z2s0NF9MTlZVREYzckRSWkdOZ19nYkNsWTJaUjE3Zlo0LUJndkJBbEdWVzZmU0owOERlT1RHT0N5blhJWGtBNmpEdDdXSFJDT1c1R3l4Ny1kSG5ZdnUzZUxRNmMwcXJfenhVV25nbjF3cDR4SXZCTlYyLVZYZDkyT1dpc1Uycm9tR2xOb0t0cm1ST1hDUQ?oc=5",
           "source": "Google News - Luka",
           "published": "2026-03-22T05:01:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "74a8cc9e0c6e",
+          "title": "Luke Kennard\u2019s last-second three-pointer lifts Lakers to ninth consecutive win - Los Angeles Times",
+          "original_title": "Luke Kennard\u2019s last-second three-pointer lifts Lakers to ninth consecutive win - Los Angeles Times",
+          "summary": "Luke Kennard\u2019s last-second three-pointer lifts Lakers to ninth consecutive win&nbsp;&nbsp;Los Angeles Times",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbVFYWjBSVWNETWFKUnlxaUdUUkdSSWJZbzF3SGM5c1pDU1JCV2hFVUtNTXgxaHBQOTJjeWFXanNXWHFvbDhxTGNjaTFVZGVqT0FNUHVFcGtiMnJNdlJsNU9BcFFXemFEY0FQWXdlRUJDMk5BRmlzTUFiaEdkRHBuQmpabGl5a0dMc0hxY1NvVTBRRWx2aUM4OXhLOVR6M1lqMFQ1LWxoQnVTRkxjUFBMbVZKRE9qZmtYS1E?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-03-22T04:55:24+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "62a75abbfb63",
+          "title": "Luka Don\u010di\u0107 facing 1-game suspension after picking up 16th technical foul of season - Yahoo Sports",
+          "original_title": "Luka Don\u010di\u0107 facing 1-game suspension after picking up 16th technical foul of season - Yahoo Sports",
+          "summary": "Luka Don\u010di\u0107 facing 1-game suspension after picking up 16th technical foul of season&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTC1rSFdoX1kxcGVxQlZIcDFyMERvc3NTMjZ0QW90b1dBYXg0QjVEM0VzSEpmLVB1SDhJWVc2SXpLa0NLMmpfRDRjR0tJYjA1aXAtX09jTGNkYUdlakZhQXI0MU5RNXlveVpJYzkxaS1RN0RGN0VGamlXcjlRMF9CWExRdldya3lEcnJXakhQeFFEZkNFSE9DOXJBZmM4dDRDN2xnbUFVUGdHZDg5Z0VTbXBXSzA5MldaMTJRT1FNRHBRQmNqb2ktZFZPODlYN3JJ?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-03-22T04:03:40+00:00",
           "topic": "Lakers Players"
         }
       ]
