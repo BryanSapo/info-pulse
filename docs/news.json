@@ -1,10 +1,65 @@
 {
-  "generated_at": "2026-03-31T05:44:38.165962+00:00",
+  "generated_at": "2026-03-31T07:16:59.059117+00:00",
   "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
+        {
+          "id": "2d0eccebdc72",
+          "title": "Player Grades: Lakers vs. Wizards",
+          "original_title": "Player Grades: Lakers vs. Wizards",
+          "summary": "After a long season, one of the fun subplots to close the season has been the unexpected LeBron-Bronny minutes over the last week. Once purely ceremonial, Bronny has earned his time with decent performances in his recent outings. It seems to have reenergized LeBron during stretches of the game when he could wain and it\u2019s [&#8230;]",
+          "key_points": [],
+          "link": "https://www.silverscreenandroll.com/lakers-analysis/112477/player-grades-lakers-wizards-stats-box-score-recap-austin-reaves-luka-doncic-lebron-james",
+          "source": "Silver Screen and Roll",
+          "published": "2026-03-31T06:53:02+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "7060e04ec847",
+          "title": "In another life",
+          "original_title": "In another life",
+          "summary": "      &#32; submitted by &#32;  /u/Hot_Pie1464   [link] &#32; [comments] ",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/lakers/comments/1s8fe3u/in_another_life/",
+          "source": "Reddit r/lakers",
+          "published": "2026-03-31T06:12:10+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "f4275106c5fa",
+          "title": "LeBron James triple-double leads Luka Doncic-less Lakers to win over Wizards - USA Today",
+          "original_title": "LeBron James triple-double leads Luka Doncic-less Lakers to win over Wizards - USA Today",
+          "summary": "LeBron James triple-double leads Luka Doncic-less Lakers to win over Wizards&nbsp;&nbsp;USA TodayWashington Wizards vs Los Angeles Lakers Mar 30, 2026 Game Summary&nbsp;&nbsp;NBAWhere to watch Washington Wizards vs. Los Angeles Lakers: Live stream, start time, TV channel, odds for Monday, March 30&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVmNnWGg3Y2FHNThRbDhJOGhDa3UzZ3BFRDFxTzZ6N3h3MnJBUkpldVI0RDRISWNuLUdOdjlKWWlGS0cxWHdaWVl2ZzVqNmlLQlpWVnRxZkxQS2pzTlBpa19ZUURmaWYtZW1QMm1iTnhDTkdhekFQUmM2QXlNWmZtaENmdzlYWVNLTUZBWWY4MWVSM2FXcWRiMVhXaEM2ekNvSW5Ra1ZLQk1XSkVSNTY0b01yczNDNWhyTldqa1Z0YXBYQ18t?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-03-31T05:56:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "7ecf8c34977a",
+          "title": "Rui on AD postgame: \"I was looking at the bench and I saw AD and I was shocked, I totally forgot about [the trade to the Wizards]\"",
+          "original_title": "Rui on AD postgame: \"I was looking at the bench and I saw AD and I was shocked, I totally forgot about [the trade to the Wizards]\"",
+          "summary": "Funny comment from Rui from today's postgame interview. I also forget sometimes. https://www.youtube.com/watch?v=8MPIQpk0CHQ  &#32; submitted by &#32;  /u/rosiros   [link] &#32; [comments]",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/lakers/comments/1s8f0g1/rui_on_ad_postgame_i_was_looking_at_the_bench_and/",
+          "source": "Reddit r/lakers",
+          "published": "2026-03-31T05:50:23+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "bee091a0ccd9",
+          "title": "TST Images: Lakers defeat Wizards, 120-101, in Los Angeles - Yahoo Sports",
+          "original_title": "TST Images: Lakers defeat Wizards, 120-101, in Los Angeles - Yahoo Sports",
+          "summary": "TST Images: Lakers defeat Wizards, 120-101, in Los Angeles&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSEs4ZHFlbmtVWlJEeG4xZFlnRmg4NmhQRFVBMTd0QVpNeUxqWDJkUGZKd3VxczU4MjVzVWVUcEdFQ1d6VlRCbnY4RkpfcEhHdWFYOVZXYlZKeEJWVWZpY1hIemRsaGdhbHZwTGlyMkFJN1NiUW41NV80bW9ETC0wWUF6WlVBVEdv?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-03-31T05:19:39+00:00",
+          "topic": "Lakers News"
+        },
         {
           "id": "3d4fd75e25ee",
           "title": "LeBron James records triple-double as Lakers dominate Wizards - Al Jazeera",
@@ -14,6 +69,17 @@
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcXgyVXJIdjhZN3pTUXQ2Vkk3aUlTUDBIUlNVVWI2cVB3QzhGVlRJM2lIdWxIVkhMUGczdEphZlRnNkgtSDk0R01LOUdRb3Z5MXJRV2lHdVgwNVdvS3VLRm9UZEIya2NBdlhGSUNDYmxETzY4SWVyWl9PTXdoeVExSE5aZmVULXNEMGtEOTF3eVJIdFJKeUJKQ21iMDB3cnR0VkVUNGhad9IBrAFBVV95cUxNU1NZeFNkZ0VPXy1Ca0czaGtxanNzM3JVT1AxVUlYc2NGOWRDYVZTajZ4ekJVUEN2eUNNc3BWaTRkWk5jcnNxTzBXLXVXU2NiVEYwRzlVb0RjNENZbE9Ub0RTNVNtMFhjYmY0bWR1T1VqbXprb3Z1Z2Y5VTZiM0dmbFNoWHB5cmkxMGR4UGkxRU5lcElOdExKV2VFUVFJeFp3OTNqT0lRcFg5ZVdD?oc=5",
           "source": "Google News - Lakers",
           "published": "2026-03-31T05:19:16+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "346534a66238",
+          "title": "Summertime Switch (1994) - The scenes that JJ referenced about shots rattling out in the 1st half",
+          "original_title": "Summertime Switch (1994) - The scenes that JJ referenced about shots rattling out in the 1st half",
+          "summary": "      &#32; submitted by &#32;  /u/Kawdo   [link] &#32; [comments] ",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/lakers/comments/1s8e7ar/summertime_switch_1994_the_scenes_that_jj/",
+          "source": "Reddit r/lakers",
+          "published": "2026-03-31T05:05:58+00:00",
           "topic": "Lakers News"
         },
         {
@@ -39,80 +105,14 @@
           "topic": "Lakers News"
         },
         {
-          "id": "5f15a660b36a",
-          "title": "No Luka Doncic, no problem for LeBron James and Lakers in blowout win - Los Angeles Times",
-          "original_title": "No Luka Doncic, no problem for LeBron James and Lakers in blowout win - Los Angeles Times",
-          "summary": "No Luka Doncic, no problem for LeBron James and Lakers in blowout win&nbsp;&nbsp;Los Angeles TimesLakers 120-101 Wizards (Mar 30, 2026) Final Score&nbsp;&nbsp;ESPNTST Images: Lakers defeat Wizards, 120-101, in Los Angeles&nbsp;&nbsp;Yahoo Sports",
+          "id": "ae0d29277be0",
+          "title": "Washington Wizards vs. Los Angeles Lakers: Game Highlights - ESPN Singapore",
+          "original_title": "Washington Wizards vs. Los Angeles Lakers: Game Highlights - ESPN Singapore",
+          "summary": "Washington Wizards vs. Los Angeles Lakers: Game Highlights&nbsp;&nbsp;ESPN Singapore",
           "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMDlxUC1nU3U2WXFSY1RqUDVxY3RqU3E0eWQ4cTVBSGhnRUFtbHRtQTd3VWxpNi1KZXJNU0VwLUhvYzE2MXJPUGY3WmdpdkhWZ1pvZzVSQm5iUnlXcWRPTXF5cmlSbXd6Z1pPTGNkcjduT2hmSElRckhQcUV5a0lpVl91REg1U0dQeDNud1pzaDJLQTdXNXN4Nl9Valp2RzVDckR5ZXR3?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nNUVGTmM5UUdxMExHZHZZODZRRXBEdUs4N2RhN2VHdmZXTnQ3bm02OEwzWGRyX01GY1BWQkJzTlc0YzdVRnVDbWNfR1N1MGk4cEJna2ZPU2R2UQ?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-03-31T04:39:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "3f8c4ed03c4b",
-          "title": "Lakers cruise past Wizards without Luka Don\u010di\u0107",
-          "original_title": "Lakers cruise past Wizards without Luka Don\u010di\u0107",
-          "summary": "After a sloppy first quarter, the Lakers pulled away for a comfortable win against the Wizards without Luka Don\u010di\u0107 on Monday, 120-101. With Luka serving his one-game suspension after receiving his 16th technical foul, Austin Reaves and LeBron James stepped up, along with the Lakers\u2019 centers. LA also crushed the Wizards in transition, outscoring them [&#8230;]",
-          "key_points": [],
-          "link": "https://www.silverscreenandroll.com/lakers-scores-results/112449/lakers-vs-wizards-recap-box-score-stats-final-austin-reaves-lebron-james",
-          "source": "Silver Screen and Roll",
-          "published": "2026-03-31T04:29:37+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "033b82d71fd5",
-          "title": "Post Game Thread - NBA: The Lakers defeat the Wizards on Mar 30, 2026, the final score is 120-101.",
-          "original_title": "Post Game Thread - NBA: The Lakers defeat the Wizards on Mar 30, 2026, the final score is 120-101.",
-          "summary": "This post contains content not supported on old Reddit. Click here to view the full post  &#32; submitted by &#32;  /u/basketball-app   [link] &#32; [comments]",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/lakers/comments/1s8dfwq/post_game_thread_nba_the_lakers_defeat_the/",
-          "source": "Reddit r/lakers",
-          "published": "2026-03-31T04:26:01+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "da7d45946bcf",
-          "title": "I love you ( day 11 )",
-          "original_title": "I love you ( day 11 )",
-          "summary": "      &#32; submitted by &#32;  /u/Little_Papaya_2475   [link] &#32; [comments] ",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/lakers/comments/1s8dfu2/i_love_you_day_11/",
-          "source": "Reddit r/lakers",
-          "published": "2026-03-31T04:25:55+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "41cfb840318e",
-          "title": "Recap: LeBron James Records Triple-Double To Lead Lakers To Win Over Wizards",
-          "original_title": "Recap: LeBron James Records Triple-Double To Lead Lakers To Win Over Wizards",
-          "summary": "After having two days in a row off for the first time since the All-Star break, the Los Angeles Lakers were back in action on Monday night when they hosted the Washington Wizards. The Lakers were shorthanded in this one with Luka Doncic serving a one-game suspension and Marcus Smart still injured, but the Wizards [&#8230;]",
-          "key_points": [],
-          "link": "https://lakersnation.com/recap-lebron-james-records-triple-double-to-lead-lakers-to-win-over-wizards/",
-          "source": "Lakers Nation",
-          "published": "2026-03-31T04:24:26+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "c94af2e5e2e8",
-          "title": "Rui worked the glass tonight: 14 PTS 6/10 FG% 6 REB",
-          "original_title": "Rui worked the glass tonight: 14 PTS 6/10 FG% 6 REB",
-          "summary": "      &#32; submitted by &#32;  /u/denobino   [link] &#32; [comments] ",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/lakers/comments/1s8deay/rui_worked_the_glass_tonight_14_pts_610_fg_6_reb/",
-          "source": "Reddit r/lakers",
-          "published": "2026-03-31T04:23:35+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "d863cc151d94",
-          "title": "Luke Kennard in the win vs Wizards: 23 MINS, 19 PTS, 4/5 from 3",
-          "original_title": "Luke Kennard in the win vs Wizards: 23 MINS, 19 PTS, 4/5 from 3",
-          "summary": "      &#32; submitted by &#32;  /u/oklolzzzzs   [link] &#32; [comments] ",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/lakers/comments/1s8ddgd/luke_kennard_in_the_win_vs_wizards_23_mins_19_pts/",
-          "source": "Reddit r/lakers",
-          "published": "2026-03-31T04:22:22+00:00",
+          "published": "2026-03-31T04:56:29+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -121,28 +121,6 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "fbe60861a197",
-          "title": "Kryptonite for 10 NBA title contenders: Which weaknesses could sink playoff teams?",
-          "original_title": "Kryptonite for 10 NBA title contenders: Which weaknesses could sink playoff teams?",
-          "summary": "We evaluated every playoff contender's biggest weaknesses, how it will impact the postseason and which team is best positioned to exploit them.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48315335/nba-2025-2026-playoff-kryptonite-opponents-avoid-eastern-western-conference",
-          "source": "ESPN NBA",
-          "published": "2026-03-31T05:44:06+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "b3f5c0ab7d85",
-          "title": "Corbin Carroll has 4 RBIs, Diamondbacks ruin Justin Verlander's return to Tigers in 9-6 win",
-          "original_title": "Corbin Carroll has 4 RBIs, Diamondbacks ruin Justin Verlander's return to Tigers in 9-6 win",
-          "summary": "Corbin Carroll hit a three-run homer and had four RBIs, Michael Soroka became the fourth pitcher in Arizona history to throw an immaculate inning and the Diamondbacks roughed up three-time Cy Young Award winner Justin Verlander in his return to the Detroit Tigers during a 9-6 victory Monday night.  The Diamondbacks won their home opener after getting swept at Dodger Stadium in their first series of the season.  The 28-year-old Soroka (1-0) gave up four hits over five scoreless innings \u2014 and the ",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/corbin-carroll-4-rbis-diamondbacks-053227641.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-03-31T05:32:27+00:00",
-          "topic": "NBA League News"
-        },
-        {
           "id": "9bf67d12ee9f",
           "title": "Bulls waive guard Ivey after anti-gay comments",
           "original_title": "Bulls waive guard Ivey after anti-gay comments",
@@ -150,29 +128,18 @@
           "key_points": [],
           "link": "https://www.espn.com/nba/story/_/id/48350464/sources-bulls-waive-jaden-ivey-anti-gay-comments",
           "source": "ESPN NBA",
-          "published": "2026-03-31T05:26:04+00:00",
+          "published": "2026-03-31T07:52:01+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "b21c4851b354",
-          "title": "Wemby posts 3rd-fastest double-double since '97",
-          "original_title": "Wemby posts 3rd-fastest double-double since '97",
-          "summary": "Victor Wembanyama had a season-high 41 points and 16 rebounds while collecting the third-fastest double-double since 1997-98 in the Spurs' win Monday.",
+          "id": "e917379de219",
+          "title": "SGA on MVP chatter: 'I let my game do the talking'",
+          "original_title": "SGA on MVP chatter: 'I let my game do the talking'",
+          "summary": "Calling the discourse around NBA MVP \"good chatter,\" Thunder star Shai Gilgeous-Alexander nevertheless declined to weigh in himself, saying, \"No, I'm good. Thanks for asking, though. ... I let my game do the talking.\"",
           "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48352523/victor-wembanyama-records-fastest-double-double-history",
+          "link": "https://www.espn.com/nba/story/_/id/48354038/thunder-star-shai-gilgeous-alexander-declines-weigh-mvp-conversation-let-my-game-do-talking",
           "source": "ESPN NBA",
-          "published": "2026-03-31T05:26:04+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "6ab2544e2209",
-          "title": "'Nature calls': Edwards misses tipoff in return",
-          "original_title": "'Nature calls': Edwards misses tipoff in return",
-          "summary": "Timberwolves star Anthony Edwards missed the start of Monday night's game in his return from a six-game absence because he had to go to the bathroom.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48353232/nature-calls-anthony-edwards-misses-tip-return",
-          "source": "ESPN NBA",
-          "published": "2026-03-31T05:26:04+00:00",
+          "published": "2026-03-31T07:52:01+00:00",
           "topic": "NBA League News"
         },
         {
@@ -183,7 +150,29 @@
           "key_points": [],
           "link": "https://www.espn.com/nba/story/_/id/48352643/luka-doncic-mvp-lakers-stay-hot-jj-redick-says",
           "source": "ESPN NBA",
-          "published": "2026-03-31T05:26:04+00:00",
+          "published": "2026-03-31T07:52:01+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "b21c4851b354",
+          "title": "Wemby posts 3rd-fastest double-double since '97",
+          "original_title": "Wemby posts 3rd-fastest double-double since '97",
+          "summary": "Victor Wembanyama had a season-high 41 points and 16 rebounds while collecting the third-fastest double-double since 1997-98 in the Spurs' win Monday.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/48352523/victor-wembanyama-records-fastest-double-double-history",
+          "source": "ESPN NBA",
+          "published": "2026-03-31T07:52:01+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "6ab2544e2209",
+          "title": "'Nature calls': Edwards misses tipoff in return",
+          "original_title": "'Nature calls': Edwards misses tipoff in return",
+          "summary": "Timberwolves star Anthony Edwards missed the start of Monday night's game in his return from a six-game absence because he had to go to the bathroom.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/48353232/nature-calls-anthony-edwards-misses-tip-return",
+          "source": "ESPN NBA",
+          "published": "2026-03-31T07:52:01+00:00",
           "topic": "NBA League News"
         },
         {
@@ -194,7 +183,7 @@
           "key_points": [],
           "link": "https://www.espn.com/nba/story/_/id/48348943/timberwolves-jaden-mcdaniels-week-week-knee-injury",
           "source": "ESPN NBA",
-          "published": "2026-03-31T05:26:04+00:00",
+          "published": "2026-03-31T07:52:01+00:00",
           "topic": "NBA League News"
         },
         {
@@ -205,7 +194,7 @@
           "key_points": [],
           "link": "https://www.espn.com/nba/story/_/id/48350814/nba-board-governors-approves-portland-trail-blazers-sale-group-led-tom-dundon",
           "source": "ESPN NBA",
-          "published": "2026-03-31T05:26:04+00:00",
+          "published": "2026-03-31T07:52:01+00:00",
           "topic": "NBA League News"
         },
         {
@@ -216,18 +205,29 @@
           "key_points": [],
           "link": "https://www.espn.com/nba/story/_/id/48347650/nikola-jokic-caitlin-clark-joking-explanation",
           "source": "ESPN NBA",
-          "published": "2026-03-31T05:26:04+00:00",
+          "published": "2026-03-31T07:52:01+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "13f157a59433",
-          "title": "John Tavares scores with 5 seconds left in OT to lift Maple Leafs to 5-4 comeback win over Ducks",
-          "original_title": "John Tavares scores with 5 seconds left in OT to lift Maple Leafs to 5-4 comeback win over Ducks",
-          "summary": "John Tavares redirected a shot from Morgan Rielly into the net with five seconds left in overtime to lift the Toronto Maple Leafs to a 5-4 come-from-behind victory over the Anaheim Ducks in a fight-marred game Monday night.  The Leafs overcame a 3-1 deficit with three goals in the third period, including Rielly\u2019s snap shot from the high slot that beat Anaheim goalie Ville Husso stick-side to give Toronto a 4-3 lead with three minutes left in regulation.",
+          "id": "7f8efd71bd77",
+          "title": "Barnes, Raptors take on the Pistons",
+          "original_title": "Barnes, Raptors take on the Pistons",
+          "summary": "Toronto Raptors (42-32, fifth in the Eastern Conference) vs. Detroit Pistons (54-21, first in the Eastern Conference)Detroit; Tuesday, 8 p.m. EDTBETMGM SPORTSBOOK LINE: Pistons -2.5; over/under is 219.5BOTTOM LINE: Scottie Barnes and the Toronto Raptors take on Ausar Thompson and the Detroit Pistons in Eastern Conference play.The Pistons are 34-12 in Eastern Conference games. Detroit ranks third in the NBA with 13.2 offensive rebounds per game led by Jalen Duren averaging 3.8 offensive boards.Th",
           "key_points": [],
-          "link": "https://sports.yahoo.com/articles/john-tavares-scores-5-seconds-051451540.html",
+          "link": "https://sports.yahoo.com/articles/barnes-raptors-pistons-060317840.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-03-31T05:14:51+00:00",
+          "published": "2026-03-31T06:03:17+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "011e3d38e138",
+          "title": "Golden State hosts San Antonio following Wembanyama's 41-point game",
+          "original_title": "Golden State hosts San Antonio following Wembanyama's 41-point game",
+          "summary": "San Antonio Spurs (57-18, second in the Western Conference) vs. Golden State Warriors (36-39, 10th in the Western Conference)San Francisco; Wednesday, 10 p.m. EDTBOTTOM LINE: San Antonio faces the Golden State Warriors after Victor Wembanyama scored 41 points in the Spurs' 129-114 win against the Chicago Bulls.The Warriors have gone 23-23 against Western Conference opponents. Golden State is second in the Western Conference with 29.0 assists per game led by Draymond Green averaging 5.4.The Spurs",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/golden-state-hosts-san-antonio-060317919.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-03-31T06:03:17+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -236,25 +236,25 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "bef3b419a4fd",
-          "title": "JJ Redick gives voters the perfect Luka Doncic MVP case Lakers fans already knew - Lake Show Life",
-          "original_title": "JJ Redick gives voters the perfect Luka Doncic MVP case Lakers fans already knew - Lake Show Life",
-          "summary": "JJ Redick gives voters the perfect Luka Doncic MVP case Lakers fans already knew&nbsp;&nbsp;Lake Show Life",
+          "id": "72fb6d02d539",
+          "title": "Player Grades: Lakers vs. Wizards - Silver Screen and Roll",
+          "original_title": "Player Grades: Lakers vs. Wizards - Silver Screen and Roll",
+          "summary": "Player Grades: Lakers vs. Wizards&nbsp;&nbsp;Silver Screen and Roll",
           "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRWt0WFJjZnliSE5NNkZPNmstbmxLcnVBTWdCU1ZrQlVlVVZIZGtvb3pYSS1OTEZGa2VqZlJ3aXJzRUxrQ2hxalVrcHJxX2VRc0lSTXFpc1Ziejh5cEpralZQbTJyaUMzRVNXMi1ZOFlRbGJ6ckxTaEhicExzTFhLSURlX1hPTDNudHhxSm1jREpDb3ByeEowR1czSzdpb3d6VTEyT2JFYm5pdFJZUDJSQXlB?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-03-31T05:24:00+00:00",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONURQWUdzN2xMM29lVTVCNHFMaWoyTXM1WE1zR1NTOTZBbEkweG1EMHV5Q3hTdVBUSmY4SExUN3dfSHJCWWJQeDV0R1dObkxvSmg5bnZLOVhvcVFlUy1lc1VTNDZfLXpkdWpVNFlWeWwxeDVFcGNkU3hYSm0xdUotVS00WWNUMFdUY3dqTHJOcHNPbzVITWdMX2xCdm5RTjJzN3ViSlg4S29BcmlKNVZvcGNnRjZUWVVYQWZreUZfN3Y3YnhCdFhPdW1EYnoydkFsVGFyb2VtU3lzdUM2OGxNWXFR?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-03-31T06:53:00+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "6412e0f1cdb1",
-          "title": "LeBron James puts up 21-10-12 vs. Wizards - NBA",
-          "original_title": "LeBron James puts up 21-10-12 vs. Wizards - NBA",
-          "summary": "LeBron James puts up 21-10-12 vs. Wizards&nbsp;&nbsp;NBA",
+          "id": "f081b803c7ef",
+          "title": "With Luka Doncic suspended, LeBron James' triple-double powers Lakers to 120-101 win over Wizards - msn.com",
+          "original_title": "With Luka Doncic suspended, LeBron James' triple-double powers Lakers to 120-101 win over Wizards - msn.com",
+          "summary": "With Luka Doncic suspended, LeBron James' triple-double powers Lakers to 120-101 win over Wizards&nbsp;&nbsp;msn.comLeBron James highlights vs. Washington Wizards&nbsp;&nbsp;ESPNLeBron James triple-double leads Luka Doncic-less Lakers to win over Wizards&nbsp;&nbsp;USA Today",
           "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSkpQSnpoS0o5RnVxbjM0YjNjejIzWmxkQl9GenNha1lnNDNYWmlFdzBRS2FFUlAxNVFJd3BhbnFUUlRQVHB1bE5DNy1HSnVjYzJRcXVYdlQyMXdOcmpUdWk5Wm1nNk9Db0h3VEhabmwxRF9hb3pKV3VfTmhJWC00Qk16amw3QXJuT3RJOGFwLS1pMkpJS2N5NlhVNkMwQmZTU1lSWmV4SERXMEdpLUdlVlhCb2lSdmhHUmhad0pIU0R3WUZDUzZ1dkRfLV9ZWFYtNFNoUmZR?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMjlWUEdNSUswN1U4QmhpNUx0S3daVXU4NDlDbnVWWnZwcFNOd2xaNnJXZFFjdjFXQWxqSnBPWXZZVnRQd19DWmplVk5QNUJxTEJ6b0lHRWF0LThCckdlNE1SWDFDWEdQXzRSdy0yUm9mOVJDeEVuelEwOVJKbDl0dlBBMnh4TktsdFBoVlJ1LTMtZFpXcGVuVUFDS0R4ZjBPaUNSbE40RW5GSUdjMnI4ckpaeEdYVnJxZUJZNU54REdoZGgwOURteTZvY1IxTU5zNXRoWEF5Rkp5YWFD?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-03-31T05:09:23+00:00",
+          "published": "2026-03-31T06:33:45+00:00",
           "topic": "Lakers Players"
         },
         {
@@ -264,7 +264,7 @@
           "summary": "With Luka Doncic suspended, LeBron James' triple-double powers Lakers to 120-101 win over Wizards&nbsp;&nbsp;Yahoo",
           "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1iaDdUaXlfZjl0VGE2cDh3S2V1ams1N1FCMzAxU3NJYVB1Zkg5LXpYV1gyMUZBVmFzWFNWQ0xzaGZGSDNJRWRKM1dlX0cyaFlTLXlMNmdaS3huc0R4bnRyV3RTNkM2TFNhNkY0RllwSnRxS0VZZEtqcTJ3?oc=5",
-          "source": "Google News - LeBron",
+          "source": "Google News - Luka",
           "published": "2026-03-31T04:59:00+00:00",
           "topic": "Lakers Players"
         },
@@ -291,10 +291,10 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "99ab6f718b92",
-          "title": "Jaden Ivey rips NBA, Bulls, Steph Curry, LeBron James and Michael Jordan after being cut over anti-LGBTQ rant - dailymail.co.uk",
-          "original_title": "Jaden Ivey rips NBA, Bulls, Steph Curry, LeBron James and Michael Jordan after being cut over anti-LGBTQ rant - dailymail.co.uk",
-          "summary": "Jaden Ivey rips NBA, Bulls, Steph Curry, LeBron James and Michael Jordan after being cut over anti-LGBTQ rant&nbsp;&nbsp;dailymail.co.uk",
+          "id": "30c45c4bb661",
+          "title": "Jaden Ivey rips NBA, Bulls, Steph Curry, LeBron James and Michael Jordan after being cut over anti-LGBTQ rant - Daily Mail",
+          "original_title": "Jaden Ivey rips NBA, Bulls, Steph Curry, LeBron James and Michael Jordan after being cut over anti-LGBTQ rant - Daily Mail",
+          "summary": "Jaden Ivey rips NBA, Bulls, Steph Curry, LeBron James and Michael Jordan after being cut over anti-LGBTQ rant&nbsp;&nbsp;Daily Mail",
           "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVGowcjh3R0dyeV80S1E0bFY1cDJUeno2eHBCOEl0T1JMYWZGUmVMUUIzaE1vQkJ3SXRNa1hDY01CeEhJUTl3SkhsVWpqUnVpYTNvaEZiQ29MUmVyT0l1WU1PQjNtbFgxbUw2RUtIZ0owS0xtNHVUVHRDOU13QkxxM01BanQxd2FVcnNoMk9mWHR2cXo5eWNiQ1cwN2plbVZpWl8zUUcyN2JnN2YzSVhTdmtLQ201YUtScUZmQWRqbkJvOG9q0gHKAUFVX3lxTE9QdTN0LTRNNXptVl9zLVFfUk5NbEEzQkpDYU5tR2pnamtEUXhPSEM1Wk1iYVFPZEVwOXh3YjRUeGxHLWQ4WTZMUW1Pa1NOTzBQc3F3N3J1QmlJQ2NHYUF4V3VBSTdkcXpkdlJSTDRRa29qZkhpLV9KelNYSmlkX29FelhvNVZzTGg4TUh0TDY2WmRMN3RJMERCUHZXRkhTOFFEU0RZa2JQdmNXanZ3Z3dteUdvdHJiVURsUHJUdFZvWDgtb2FCeVRiNGc?oc=5",
           "source": "Google News - LeBron",
@@ -313,28 +313,6 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "f1cd2058a056",
-          "title": "LeBron James throws it down - NBA",
-          "original_title": "LeBron James throws it down - NBA",
-          "summary": "LeBron James throws it down&nbsp;&nbsp;NBA",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOHpLaFlnaG1QOTNLZUE4a1RUaEdUX0owYVd5bHVJWkZYdlZPdjcyREc0SlA1TzBlZ21QUVVxZkswRjVjZ0stMFd4UzZNd2RtT3ZFVWQyRm9jVGdBNzlPejRLamdha1NRay16N09BaThZeWUtYXdFVTF5Y1QyeHFGT3d0TVNqMmNaWWxJS2dCdzZsT2wzMDVLUU1NZzI?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-03-31T03:11:33+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "8766ddd95ee7",
-          "title": "Luka Doncic should be MVP if he and Lakers stay hot, JJ Redick says - ESPN",
-          "original_title": "Luka Doncic should be MVP if he and Lakers stay hot, JJ Redick says - ESPN",
-          "summary": "Luka Doncic should be MVP if he and Lakers stay hot, JJ Redick says&nbsp;&nbsp;ESPN",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR0RuVjQxWG1mVVlnVXhWOW1rbWljSFZTWVV5eGd0d3BHeTJKX0o0NDdrUmZpQ3MwU1ktUXlBbjJjcEg2NUlJMC0zUGE4RmdaWWZ6Q0NCRFJaX3F1OTBOVUlmeW1VNHhHamZiQkxzcklTTmxHeXpIUE16TFBTN0JtQlRHUHpDWmVIWjZpdnV0RUVkVVBQQUE?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-03-31T03:05:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
           "id": "dc70bc793085",
           "title": "Lakers Announce Starting Lineup vs Wizards Amid Luka Doncic Suspension - heavy.com",
           "original_title": "Lakers Announce Starting Lineup vs Wizards Amid Luka Doncic Suspension - heavy.com",
@@ -343,6 +321,28 @@
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX3NhQlQ0Sk5TTHFRV1RieHluSTJHX2dCVzBsa2hUSjJiZnZUSEh0UzBkOE5rSXhUU3ZxV2M5WlgwZ0NKeVFLLS0tN3o3Y2tXVmRCX1ZzanpWREZ0d0pVclE0a0xkTGgtRUNiS2tLd3NQZWgxWEEtZ0toMk5IQ2RMR3dXVnF1aWNpTGRSajE3cERRczFDcmo4WmItVTNBYms?oc=5",
           "source": "Google News - Luka",
           "published": "2026-03-31T01:44:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "52e24bda66d4",
+          "title": "Final Injury Report for Wizards-Lakers: Will Luka Doncic, Trae Young Play? - Yahoo Sports",
+          "original_title": "Final Injury Report for Wizards-Lakers: Will Luka Doncic, Trae Young Play? - Yahoo Sports",
+          "summary": "Final Injury Report for Wizards-Lakers: Will Luka Doncic, Trae Young Play?&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMjZlYnVnRmt2SDFHSzd1TnZPOFhOeHFKa2VTTnRRMUZuY21ueEhnUTFMRHBDbFJXNXRuNWhSeXB0T3haeXJ3cmFKcmdpbHpPSTgxTnZNRkwxbFlEZjBGX3pjajd5TGc5TEhwWWViRWdKYzhwYi1ScEdONVFnVWhsQmhYOV9yWWZvWlpZ?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-03-30T22:00:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "0c3adcafba6f",
+          "title": "LeBron James adds a crown to his signature in latest autograph change - The New York Times",
+          "original_title": "LeBron James adds a crown to his signature in latest autograph change - The New York Times",
+          "summary": "LeBron James adds a crown to his signature in latest autograph change&nbsp;&nbsp;The New York Times",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYTk1ckNsRjBjUndpNEx2eUVCaFloeEw2eWZHdUp5QnFZYUpYQ1E3RnhHQ3ZUWUdQSjBtY1VKUHdjblFETEY5MFprT2xLQ002QTRmU3BINFlrVHZseERudzZPVUJFend5ZDUwU0NqMFlCYzdVM3dOdEpoRk5xSnlxRGF2enRua3NUWGtKOElGdWhkX1c5dEdaRXhNTUJkdHR5?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-03-30T21:56:14+00:00",
           "topic": "Lakers Players"
         }
       ]
