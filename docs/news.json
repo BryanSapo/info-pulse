@@ -1,35 +1,71 @@
 {
-  "generated_at": "2026-04-09T09:13:38.443462+00:00",
+  "generated_at": "2026-04-09T11:01:11.900018+00:00",
   "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
-          "id": "dfac1c6c4849",
-          "title": "Anthony Davis Slams Lakers Over Supposed Luka\u202fDoncic Trade Talk",
-          "original_title": "\"I deserved more respect!\" Anthony Davis lashes out at the Lakers over blockbuster trade involving Luka Doncic In a fiery post-game interview, New Orleans Pelicans star Anthony Davis expressed frustration over reports that the Los Angeles Lakers had discus - Goal.com",
-          "summary": "In a post\u2011game interview, former Laker Anthony Davis, now with the New Orleans Pelicans, expressed frustration that media reports suggested the Lakers were discussing a blockbuster trade for Dallas Mavericks guard Luka\u202fDoncic. Davis said he felt disrespected by the speculation and emphasized his commitment to the Pelicans.",
-          "key_points": [
-            "Davis denied any involvement in trade talks and said the rumors were unfounded.",
-            "He criticized the Lakers for allegedly using his name to generate hype.",
-            "The Pelicans reiterated their focus on building around Davis and their current roster."
-          ],
+          "id": "bda26ac35d0c",
+          "title": "Column: Broken Lakers need to shut down the season - Los Angeles Times",
+          "original_title": "Column: Broken Lakers need to shut down the season - Los Angeles Times",
+          "summary": "Column: Broken Lakers need to shut down the season&nbsp;&nbsp;Los Angeles Times",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSUgwSktuQ1llN2N3ejBkWmM5amRuUW5PNEYyVzh2dFRNU3QzWjFNQUhPZi10Y1FHTjRUMFlvbXBIbFJrYTN4VnBIbm5DZ2hqcmk1blZSZXh2QXJTWS1yaDhTcllkNlRhRWlKOHBaaF9mY3J5bEhvSE5wXzFfZkNZVVpYTnBGTEw5NDRXNmRDVV9OTWtBOElNTw?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-09T10:00:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "b0b35572a267",
+          "title": "Lakers Get Massive Update on Luka Doncic\u2019s Return From Europe - heavy.com",
+          "original_title": "Lakers Get Massive Update on Luka Doncic\u2019s Return From Europe - heavy.com",
+          "summary": "Lakers Get Massive Update on Luka Doncic\u2019s Return From Europe&nbsp;&nbsp;heavy.com",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TSUJ6ZHBfbTNKYkIzbHdTZVNwVGJZeXJmMUJVME5wUmNodzFFNmI5V0RuSTI0bmt3aktDLXppN2VJT0VBTXFXdGRZekVGY3lOMmcwTi14RlhfWF9HN0xLOTZwajgzMjZGY0FJdkpHOGtjOFFTOWR6NXMwUktkVkk?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-09T09:17:26+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "7b5a73d87aea",
+          "title": "Lakers aren\u2019t chasing NBA playoff seeding. They\u2019re searching for answers - The New York Times",
+          "original_title": "Lakers aren\u2019t chasing NBA playoff seeding. They\u2019re searching for answers - The New York Times",
+          "summary": "Lakers aren\u2019t chasing NBA playoff seeding. They\u2019re searching for answers&nbsp;&nbsp;The New York Times",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYjgzUE5jVEtIeGhCUmd5SzcyY3JzOThxekZRQkFrT3QxeWJ4eXMtak5SSFdMSjhPYVdIMGlGd2lzVk1HSjNDWlpsMFJMa2xwNjEyZXRqNzRhX19vUkFlUTlST2poUTVTdG9ENUNkNDJmTDlMV3JOdXQ4SXVlNXh5RkxtUWV1SkpycENTUEozX2tsYnprZi04Zy03dlVqVGRWbjNaZg?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-09T09:00:47+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "9b06b86fd71c",
+          "title": "\"I deserved more respect!\" Anthony Davis lashes out at the Lakers over blockbuster trade involving Luka Doncic In a candid post-game interview, New Orleans Pelicans forward Anthony Davis expressed frustration over persistent trade rumours linking him to th - Goal.com",
+          "original_title": "\"I deserved more respect!\" Anthony Davis lashes out at the Lakers over blockbuster trade involving Luka Doncic In a candid post-game interview, New Orleans Pelicans forward Anthony Davis expressed frustration over persistent trade rumours linking him to th - Goal.com",
+          "summary": "\"I deserved more respect!\" Anthony Davis lashes out at the Lakers over blockbuster trade involving Luka Doncic In a candid post-game interview, New Orleans Pelicans forward Anthony Davis expressed frustration over persistent trade rumours linking him to th&nbsp;&nbsp;Goal.com",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMi8BJBVV95cUxQZmduc2NzMHY1Tm90djFtVHdhWnMxRmVkNFVxWHhCMDhCNFFEbVdwNHdOaU4wbVRhZVRvNkdkdXhmRzRfUVY4RFQ0dGxIMWZGdGFiWnNyT3VRQUhPT0tpNEZIQXlodkhEeVdXYW41cFRRa2tzSE8tREEtdlFrNGM0cTBRbVJFRFJYUkdKa0E1LUk5WklrOGZwMGlQTC10VnBZak9DQ21xYThFZG11UWdRQmM4c2E0Yk13amtQSUx0WUtOcHFmUlRsMXNVbmc2ZFFpOGJ0OEtpcnNOT016YnRCRVBSUFZUMTFqTXNkTmRxdWduTmNwU2JtckxHZ3lVSDZPdm9wU25qSlZVYXJOMkp1S2NpejM4enRUTEdFRktlMFY5UldKLThOTTZjRDl5bGlRMmVVdDBRR1ZLaDZMajVNQmZtM3JOdDhKeXAyNTBCQUNrTUFMSzBXMEZvVzBjc0x6TVRVcVNfSWYxTUpJdjFrMUdjYm1OT1hocUJpaF9kQ09VU3pPdHptc28xdzB0cDVSY2RucEV5MzJMcVA2ZFRBbnZrZEJIdVZld3FYU3dtWEZNMl9LSWxfWUg4S2JDUlh0RTlKd1FxdUFwT2tLaUJjTmV4WFZoekpBMWxsei00anpFcUF6YlJrd3lGNWxWdDRkcjdPc0pvMWw3STdqNXRvamxjVzNIb3FVWXFBaTNrVVFSZ0sySFJEN2tNUEoweEgzbElqX3VCLUE0MW5yUXNybGxFaVp2VC12QnNVcTBBMVlLb3RfNWt1Nm1IaEswS01fbkNfd2JfTVZFVUdVZExheWV4Vk51LWhCRmVIbzhkM29pNVdRRUk1YUVLVG1KZ2lXSWcwYnF1aEoxc0FINDhFNVBOWkxFZWhZbGxNdDhBckhZZHhPcVY1U2l1YWprWjZjZnBpbUZhMVY2VTlLZTZNRkFGb1diYWdiRW15Vk5UT05XZndlR3ZRLWljUWhIWm85SDExUU40aXJlcVhGR3h3eEVfa0YyTUh4M043N0g4NGVqY0tobEFqV3hVNEYzaG9Raml3SlA2TjBoRFpva2tRMGlUZm8zX0xsb0FfZWxrekFhbDZXMUV3Q3NVYjcwdE9GVFNlZTFKclM1d08tdWc2akwtSGo4YlV4Y0RBVTA5MTB0QWhnV256T0I4UUZRVlJmcjBsRWxNSHRUVEo1LUVlRVBnM3NIYlU1S2lyd3Qtcl9mbXhpbmpvTFY1cERyQjRGY2xWNlNmODcxUUNhbS1XVHVmaC1NNmFtMTV3ZXRvYnlyQVRnXy02Z1JpTGsxR2pTZzVPMUZ5U2pfMHI2NDVZajBnUjVtMl92Nnh5SDBhQ2cxVUc3MWZqRGNhRk5ITjJYaVFtZmg0RWV6RzB1RkQzelBTcjVDdlUxcVM1NkFPVW1RQW5CNFJCeGpKY3d1Uk9COWN4eDB3bUxka2tJbnczVHpjOVZySkdROEJJb0dQRHgyckE1WldCZWpaeVR3MzdLQUZUZDk3eGFmNWRhb2lfLWktUTYzVkFuMUpYaEFHQjcxRnlHNTBoNnp3T29lSlpZYUFJdC1jeFRUUld2U0xfUEk1cnR0dzUzQ0lYbDRJMHFhZnhQQnVNaDFKOEFjREJURUhtaHZONlNoZUptOGNDejRuV1h0eTdfVTducmpTcVBtMTFXQk54b2VvanJlQmMtdFZTUlVLcTAzR2xpemdVeW16dEFwSXVXSzB4Q2VFUmllNmJSbHkxSGJhX0NsUU1KZkd4NGgwZ3VJZEhDaGxMSXI5VDlaenIxLTE2ckRiamEybGJZOE1HNERuandQZWxRWHlqLXdZb2ZQQzFBOUoyalA4TXpNNV9fZGl6Z3VQV0JUMDlmZ3IyWlVDblZYLVBOeTE1OTNnWWRDZTFqSzBSemp0QlFWVlhqajhVc25IUUxtZHFpZ21CakF1WWNpTldiZVVIZmtBRHFFWkZsZ1dpbVhHc3YyQk9zYm1vVWFTVWR0WDdXSXE3OFVGamIwQlU0UmdOelF5LWt4TlhjSFZkVmdCcWhnY0trN2RuS1dkdlh6blZiUWllWi1hZjhURlBERU9uX3BmRlh3VFZoSU9xcDMtcG4xcmF6eXIwVXJNUjlNRTZuWlBKd3ZzMjV1b1NvRXVrVmF0WXZvX0pPV1VjazhCejhfUjBYMTV4bTRuZzBvWFp1UVhpcWxCQW5MREpjYTgwQk5Hc1N1c3dfUXFZRjQ5dGJ1M0N0Q2dELVRlWlpzWi1PWXlVUnZ1X29neU5obURQdzFTVkhvVktlczlJR2FoXzBieEZmWWhWa1NMRzRWNTdOa1dXLTJwS05UV2RMZmUyQzg0REQ4VzVfTXFsNW1QMVlVRFZJWFVtVDNPWkFsb3hPeEw0SGJQTnZ5QVVjVm5KblRYbDNEVkJPNVcyeFZnQk1lbmtxOTV6T19OTENLYkR2Wk94TW1IOHZYTmJTSkszS1Z6MUVCQ1JCZGlEQ3huZnVhaXZ1eDRJSHZIQkgzM1lqV2tHT0tldjhreDBzTENnakFYRFRaYmp4c2YxYW5QWWZZU245LUFNc0JzaVhISjNacG96YlduX1ZkQ0lFRGE2VTNpV2NaMENyZEgxNFZwTEc5UTZQOU12WjYwS2pMTEhRTl83U3RmYUVFM3lPR0ZTOUVRTktyZnJFN0dKbElHVGpESTVwM2JEVUtwVDh2UWdhSzBYVzNTRjcwb0dsRW9velVVd2NtWWo4NTRyZDZmU3dVTUdXaVdXcnl1SkpWeklyYzdvaVRGdEI2TVRIT0N0YjZDLUIwM0RGQjN5RHl5OEFlRDk4eUdqZ0VVaWVkZ3ZkTmVYT2RLRXk0QjgxQ1ZnWWZBcmh6ZTNPbUQxSDRsVjU3OFFoZ2lqYjMxQV9zUVVzTUx2djlYUDl0LVZpR0Zid3lraTBiekViZXowaGpLVWJZRHFOb2wxRW1wV3JjdURCYVpNSWgxTS1wejdiVDg0NnJlS0Z0QXlEa2tIMmcwcUhfbV9rWnhTdVRzWkt4OURIX3JocF9sWXBMNHpYZVZjNm5SUnBIa0lQSjVXRVYxLTJyYUdkYVlxb1JteTF6OVBMUVJNT19lZ0ZsUUhKRklEMTF3VkZXZWlXZDhDbVlfakhPTVdVYktZMnVfeHh0Y3BXQ1JCbFFxRUdDMFA2dEhKaGZqYkt2QzloRzZhOHJzaXU0R2VEQzFkS3IyRGpiTk5oNkIzQmN5R0RUOGZm?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-04-09T08:52:10+00:00",
+          "published": "2026-04-09T08:56:06+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "3b921b61380f",
+          "title": "Los Angeles Lakers @ Golden State Warriors: Live game updates, stats, play-by-play - Yahoo Sports",
+          "original_title": "Los Angeles Lakers @ Golden State Warriors: Live game updates, stats, play-by-play - Yahoo Sports",
+          "summary": "Los Angeles Lakers @ Golden State Warriors: Live game updates, stats, play-by-play&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSjdRM1pEd1RjdUR2U1F1NEhBandGYVhKbjhSY1FYNmI2cDJxUGpVbDdTTXMzLXFwbHNBZm51MU81c0d4R2ozMXFWNnVNWmltVUpCTlZ0Smc1aTQ1bk5MSTBaTzQ1RnJZN3lOR1h1VVl3Z1hwck9pbkhUTXQtWXRkcy15ZnBhV29t?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-09T08:41:55+00:00",
           "topic": "Lakers News"
         },
         {
           "id": "40b0756bca5c",
-          "title": "Dennis\u202fSchroder Calls Out Anonymous Lakers Teammate as \u2018Not Made for the Playoffs\u2019",
+          "title": "Schroder blasts anonymous Lakers teammate \"not made for the Playoffs\" - Eurohoops",
           "original_title": "Schroder blasts anonymous Lakers teammate \"not made for the Playoffs\" - Eurohoops",
-          "summary": "Dennis\u202fSchroder publicly criticized an unnamed Lakers teammate, claiming the player lacks the mentality required for postseason success. The comment was made during a press interview and sparked speculation about locker\u2011room dynamics ahead of the upcoming games.",
-          "key_points": [
-            "Schroder did not name the teammate, but the remark highlighted concerns about the team's playoff readiness.",
-            "The Lakers have been dealing with injuries and inconsistent performances.",
-            "Coaching staff has not responded publicly to Schroder\u2019s comments."
-          ],
+          "summary": "Schroder blasts anonymous Lakers teammate \"not made for the Playoffs\"&nbsp;&nbsp;Eurohoops",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSWliWDVqbl9XU0tuNXpObF9tSDJjbmw0cXJPMDNCS2tsbUxjZnBseFlYbXNabHJQQlphNm5Yb212RUg3Uk9iMzJhbjFvQVlsR0tXX2xVbTdUeng2ZGdERDVNcXhiOExSb292cHFlNkVEU3I5YVpXUjVVU2FFUlExZTFPUWNkemVsaVkxUnRLTDhHQ2ZUa2pmUVVyRnFvR2xTMlE?oc=5",
           "source": "Google News - Lakers",
           "published": "2026-04-09T06:52:00+00:00",
@@ -37,14 +73,10 @@
         },
         {
           "id": "070b5616f832",
-          "title": "Lakers Release Injury Update Ahead of Warriors Clash",
+          "title": "Los Angeles Lakers Announce Intriguing Injury Report For Warriors Game - heavy.com",
           "original_title": "Los Angeles Lakers Announce Intriguing Injury Report For Warriors Game - heavy.com",
-          "summary": "Los Angeles announced its latest injury report before traveling to face Golden State, noting several players listed as questionable or doubtful. The report includes updates on key contributors and potential lineup adjustments for the matchup.",
-          "key_points": [
-            "LeBron\u202fJames listed as questionable with a left\u2011ankle issue.",
-            "Anthony\u202fDavis remains out with a calf strain.",
-            "Rookie players expected to see increased minutes if starters are limited."
-          ],
+          "summary": "Los Angeles Lakers Announce Intriguing Injury Report For Warriors Game&nbsp;&nbsp;heavy.com",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUnhBVEd6WFVxVm54MTRkUXVqdFEyMm1BenRhMUF4TktVOWZMdHNDd2Y5N2JqbXZfajNxUE82aDJGUkp3V3FCUlhkdXRFdmJPeWRrUkN5dW8zWGlaU1RpLVBSVmx6SThIN3lDWHVfY2M0OVBtWkdXNTU2TkxIdkFKbTMyYTRIU1VOX3hlbXk0XzRHNG1NazVtUlE0NTBybWlaT2c?oc=5",
           "source": "Google News - Lakers",
           "published": "2026-04-09T06:19:09+00:00",
@@ -52,14 +84,10 @@
         },
         {
           "id": "dcfba6beb7d9",
-          "title": "NBA Hall of Famer Michael Cooper Hired as Cal State\u202fLA Men\u2019s Basketball Head Coach",
+          "title": "Lakers legend, NBA Hall of Famer Michael Cooper named Cal State LA men's basketball head coach - CBS News",
           "original_title": "Lakers legend, NBA Hall of Famer Michael Cooper named Cal State LA men's basketball head coach - CBS News",
-          "summary": "Former Los Angeles Lakers star and Hall of Famer Michael Cooper has been appointed head coach of the Cal State\u202fLos\u202fAngeles men\u2019s basketball program. Cooper brings a championship pedigree from his playing days with the Showtime Lakers.",
-          "key_points": [
-            "Cooper will replace longtime coach and aims to revitalize the program.",
-            "His experience includes five NBA championships and a reputation for defensive intensity.",
-            "The hiring was announced by Cal State\u202fLA and covered by CBS News."
-          ],
+          "summary": "Lakers legend, NBA Hall of Famer Michael Cooper named Cal State LA men's basketball head coach&nbsp;&nbsp;CBS News",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTFZmZUhtaTY4SWZuSWh2S0NwNEp2R1pJYlJiOTFjNE9PUGFXejVrRDBkZHhUR3VSWTVTeWVoVjRsZlN4aGhEQktHZkREY0FhTTU5c3Q3MU85elNobWFGUFg1U1ZYTDdvOGJCSGJ4eTdqckdlLXNGeUltQm1zc3Y0TXVoSmJ3MHBKRkNhSWFRc2FnczNLc0VxRTJLS1V5SWxkVmJNQ2NtUkpKM0x1d18wa1FGaGFxUQ?oc=5",
           "source": "Google News - Lakers",
           "published": "2026-04-09T04:05:00+00:00",
@@ -67,14 +95,10 @@
         },
         {
           "id": "79595c1b48b6",
-          "title": "Reddit Discussion: Lakers Could Face Rockets in Playoffs If Nuggets Lose",
+          "title": "Today the Nuggets Won and Twolves Lost, Lakers will Likely Face the Houston Rockets in the First Round of the Playoffs",
           "original_title": "Today the Nuggets Won and Twolves Lost, Lakers will Likely Face the Houston Rockets in the First Round of the Playoffs",
-          "summary": "A Reddit user outlined a scenario where the Los Angeles Lakers might still secure the third seed and meet the Houston Rockets in the first round, contingent on the Denver Nuggets losing their final games. The post noted the Lakers\u2019 injury woes and the Nuggets\u2019 tiebreaker advantage over Houston.",
-          "key_points": [
-            "Lakers need both the Nuggets to lose and the Rockets to win to improve seeding.",
-            "Injuries to key players lower the Lakers\u2019 odds of advancing.",
-            "Even with favorable outcomes, the Nuggets retain the tiebreaker over the Rockets."
-          ],
+          "summary": "Lakers or Rockets could technically still leap to 3rd if Nuggets lose out and Lakers or Rockets win out. But with the Lakers injuries and Nuggets having the tie breaker over the Rockets it\u2019s a low chance. Any hope for us?  &#32; submitted by &#32;  /u/KingOfKetchup   [link] &#32; [comments]",
+          "key_points": [],
           "link": "https://www.reddit.com/r/lakers/comments/1sge1uh/today_the_nuggets_won_and_twolves_lost_lakers/",
           "source": "Reddit r/lakers",
           "published": "2026-04-09T03:13:10+00:00",
@@ -82,77 +106,13 @@
         },
         {
           "id": "4ecf2b366503",
-          "title": "Lakers vs. Warriors Preview: Final Road Game",
+          "title": "Lakers vs. Warriors Preview: Going through the motions",
           "original_title": "Lakers vs. Warriors Preview: Going through the motions",
-          "summary": "The Los Angeles Lakers (50\u201129) will play their last regular\u2011season road game on Thursday, April 9, against the Golden State Warriors (37\u201142) at Chase Center. The matchup is scheduled for 7\u202fp.m. PT and will be streamed on Prime Video.",
-          "key_points": [
-            "Lakers enter the game with a 50\u201129 record, Warriors at 37\u201142.",
-            "Game marks the Lakers' final road trip before the postseason.",
-            "Broadcast details: 7\u202fp.m. PT on Prime Video."
-          ],
+          "summary": "The Lakers (50-29) will play their final road game of the regular season on Thursday against the Golden State Warriors (37-42). Start time and TV schedule Who:&#160;Los Angeles Lakers&#160;vs. Golden State Warriors When:&#160;7 p.m. PT, Apr 9 Where: Chase Center Watch: Prime Video The tail end of the regular season has been a miserable time [&#8230;]",
+          "key_points": [],
           "link": "https://www.silverscreenandroll.com/lakers-game-previews/113423/lakers-vs-warriors-discussion-injury-report-how-to-watch-tv-stream-start-time-stephen-curry-lebron-james",
           "source": "Silver Screen and Roll",
           "published": "2026-04-09T02:35:29+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "12e6e92cbe8f",
-          "title": "Reddit Discussion: Potential 22nd Pick Targets",
-          "original_title": "If draft were now, we'd have the 22nd pick. Whos your favorite you'd like to take?",
-          "summary": "A Reddit user speculates that the Lakers could be at the 22nd pick in a hypothetical draft, mentioning guard Myles Johnson as a possible selection and noting that prospects like Krivas Swain and Ngongba are likely to be available. The user also suggests a trade\u2011up could be considered.",
-          "key_points": [
-            "Myles Johnson identified as a potential 22nd\u2011overall pick.",
-            "Krivas Swain and Ngongba expected to be on the board.",
-            "User expresses willingness to trade up for Johnson."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1sgch2z/if_draft_were_now_wed_have_the_22nd_pick_whos/",
-          "source": "Reddit r/lakers",
-          "published": "2026-04-09T02:00:35+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "38bbf612d17b",
-          "title": "Injury Update: Jaxson Hayes Out, Marcus Smart Questionable, LeBron Available",
-          "original_title": "No Jaxson Hayes but Marcus Smart has been upgraded to questionable and LeBron is AVAILABLE",
-          "summary": "A Reddit post reports that forward Jaxson Hayes is ruled out, while guard Marcus Smart has been listed as questionable for the upcoming game. LeBron James is confirmed to be available to play.",
-          "key_points": [
-            "Jaxson Hayes will miss the game.",
-            "Marcus Smart listed as questionable.",
-            "LeBron James cleared to play."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1sgavem/no_jaxson_hayes_but_marcus_smart_has_been/",
-          "source": "Reddit r/lakers",
-          "published": "2026-04-09T00:47:56+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "ef4920e6d5c1",
-          "title": "Lakers Injury Report Ahead of Warriors Game",
-          "original_title": "Lakers Injury Report: Will LeBron James, Marcus Smart play vs. Warriors? - BasketNews.com",
-          "summary": "BasketNews.com provides an injury report focusing on whether LeBron James and Marcus Smart will be able to play against the Golden State Warriors. The article compiles the latest status updates from the team\u2019s medical staff.",
-          "key_points": [
-            "LeBron James' availability is under review.",
-            "Marcus Smart's status is uncertain.",
-            "Report serves as a pre\u2011game health update."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOV9FTmVwQUc0NjVUYk45Q3ZTV2J5ak9KNG5vd253b0tJTmFxZG5MZHlXRXh0YjF0R2xQR2lxU3VKcU9mRmtsRExDZlNiMjFucUViYzQ1QWhfVG80WmJETlFVa3ZQU1FfYjNDclpwM3JYSFNLRzhCRy1ublNBQUx6b2JiN0t2VVhXRzBsX0VVR1hJUUxGcXJiTFUwM3dGNjA2Q2VmbjVpeTJTZmlI?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-09T00:24:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "747ea28f76dd",
-          "title": "Anthony Davis Reflects on the 2020 Bubble Championship",
-          "original_title": "Anthony Davis on winning the bubble ring: \"To this day I think about that. Like did I really win a championship? You hear the noise. To me it\u2019s probably the hardest championship to ever accomplish. I know I\u2019m a champion but I want the real experience. It motivates me to have that opportunity again.\"",
-          "summary": "In a Reddit post, Anthony Davis shares his thoughts on winning the 2020 NBA championship in the Orlando bubble, describing it as the hardest title to earn and expressing a desire for a more traditional championship experience. He says the memory motivates him to pursue another title.",
-          "key_points": [
-            "Davis calls the bubble championship the toughest to achieve.",
-            "He feels the experience was incomplete compared to a normal title run.",
-            "The reflection fuels his motivation for future championship opportunities."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1sg9qkv/anthony_davis_on_winning_the_bubble_ring_to_this/",
-          "source": "Reddit r/lakers",
-          "published": "2026-04-08T23:57:35+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -161,15 +121,66 @@
       "name": "NBA League News",
       "articles": [
         {
+          "id": "326c36bd1e58",
+          "title": "[SERIOUS NEXT DAY THREAD] Post-Game Discussion (April 08, 2026)",
+          "original_title": "[SERIOUS NEXT DAY THREAD] Post-Game Discussion (April 08, 2026)",
+          "summary": "Here is a place to have in depth, x's and o's, discussions on yesterday's games. Post-game discussions are linked in the table, keep your memes and reactions there. Please keep your discussion of a particular game in the respective comment thread. All direct replies to this post will be removed.   Away Home Score GT PGT     Atlanta Hawks  Cleveland Cavaliers 116 - 122 Link Link    Minnesota Timberwolves  Orlando Magic 120 - 132 Link Link    Milwaukee Bucks  Detroit Pistons 111 - 137 Link Link   ",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/nba/comments/1sgmddw/serious_next_day_thread_postgame_discussion_april/",
+          "source": "Reddit r/nba",
+          "published": "2026-04-09T11:00:01+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "476319074f3b",
+          "title": "Who's the next Yaxel Lendeborg? Best mid-major players in the transfer portal",
+          "original_title": "Who's the next Yaxel Lendeborg? Best mid-major players in the transfer portal",
+          "summary": "Here's a look at the top 10 mid- and low-major men's basketball players in the transfer portal:",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/whos-next-yaxel-lendeborg-best-100654399.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-09T10:06:54+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "da51696b49e3",
+          "title": "Plaschke: Broken Lakers need to shut down the season",
+          "original_title": "Plaschke: Broken Lakers need to shut down the season",
+          "summary": "Their season turned into a nightmare with injuries to stars Luka Doncic and Austin Reaves, who should not be rushed back to play in hopes of saving the season.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/plaschke-broken-lakers-shut-down-100000554.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-09T10:00:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "9013ca0d7ba6",
+          "title": "14 Takeaways from Cavs 122-116 win over Hawks: \u2018We\u2019ve never wavered\u2019",
+          "original_title": "14 Takeaways from Cavs 122-116 win over Hawks: \u2018We\u2019ve never wavered\u2019",
+          "summary": "The Cavs believed in this group, and they showed why they should on Wednesday.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/14-takeaways-cavs-122-116-100000149.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-09T10:00:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "fcd446ff457a",
+          "title": "Open Thread: Manu Ginobili, Tiago Splitter, and Boris Diaw reunite",
+          "original_title": "Open Thread: Manu Ginobili, Tiago Splitter, and Boris Diaw reunite",
+          "summary": "The trio of 2014 champs dined and caught up on old times",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/open-thread-manu-ginobili-tiago-080000966.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-09T08:00:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
           "id": "544700c51feb",
-          "title": "Thunder lock up No. 1 seed for third straight season",
+          "title": "Thunder lock up the No. 1 seed for the 3rd straight season, putting the champs in elite NBA company",
           "original_title": "Thunder lock up the No. 1 seed for the 3rd straight season, putting the champs in elite NBA company",
-          "summary": "The Oklahoma City Thunder clinched the best record in the Western Conference for the third consecutive year, joining an elite group of teams that have achieved that feat. Led by Shai Gilgeous\u2011Alexander, the defending champions became the seventh franchise in NBA history to finish with the conference's top regular\u2011season record three years in a row.",
-          "key_points": [
-            "Thunder secured the No.\u202f1 seed in the West for the third straight season.",
-            "Shai Gilgeous\u2011Alexander anchored the team\u2019s success.",
-            "The achievement places OKC among only six other NBA teams with three\u2011year streaks of conference\u2011best records."
-          ],
+          "summary": "For the third straight season, the road to the NBA title goes through Oklahoma City.  Shai Gilgeous-Alexander and his defending champs became the seventh team in NBA history to finish with its conference's best regular-season record in at least three consecutive years when Oklahoma City wrapped up the No. 1 overall seed in the upcoming playoffs with a 128-110 victory over the Los Angeles Clippers on Wednesday night.  The list of NBA teams who topped their conference standings in at least three s",
+          "key_points": [],
           "link": "https://sports.yahoo.com/articles/thunder-lock-no-1-seed-063135699.html",
           "source": "Yahoo Sports NBA",
           "published": "2026-04-09T06:31:35+00:00",
@@ -177,14 +188,10 @@
         },
         {
           "id": "45952a63c5d9",
-          "title": "Thunder defeat Clippers to seal Western top spot",
+          "title": "Thunder see off Clippers to seal Western top spot",
           "original_title": "Thunder see off Clippers to seal Western top spot",
-          "summary": "Oklahoma City beat the Los Angeles Clippers, clinching the Western Conference\u2019s No.\u202f1 seed and guaranteeing home\u2011court advantage throughout the playoffs. The victory solidified the Thunder\u2019s position as the league\u2019s top regular\u2011season team.",
-          "key_points": [
-            "Win over the Clippers locked in the West\u2019s No.\u202f1 seed.",
-            "Thunder now hold home\u2011court advantage for every playoff series.",
-            "Defending champions continue to dominate the regular season."
-          ],
+          "summary": "Defending champions Oklahoma City Thunder clinch top spot in the Western Conference and home court advantage through the NBA play-offs.",
+          "key_points": [],
           "link": "https://sports.yahoo.com/articles/thunder-see-off-clippers-seal-062721179.html",
           "source": "Yahoo Sports NBA",
           "published": "2026-04-09T06:28:56+00:00",
@@ -192,14 +199,10 @@
         },
         {
           "id": "cd6a9e3f342f",
-          "title": "Cavaliers aim to extend four\u2011game streak against Hawks",
+          "title": "Cleveland plays Atlanta on 4-game win streak",
           "original_title": "Cleveland plays Atlanta on 4-game win streak",
-          "summary": "The Cleveland Cavaliers, sitting fourth in the Eastern Conference with a 51\u201129 record, travel to face the Atlanta Hawks, who are fifth at 45\u201135. Cleveland looks to preserve its four\u2011game winning streak, while the Hawks have been inconsistent in conference play.",
-          "key_points": [
-            "Cavaliers hold a 4\u2011game win streak entering the matchup.",
-            "Both teams are positioned in the top five of the East.",
-            "Hawks are 26\u201124 in games against Eastern Conference opponents."
-          ],
+          "summary": "Cleveland Cavaliers (51-29, fourth in the Eastern Conference) vs. Atlanta Hawks (45-35, fifth in the Eastern Conference)Atlanta; Friday, 7 p.m. EDTBOTTOM LINE: Cleveland looks to keep its four-game win streak intact when the Cavaliers take on Atlanta.The Hawks have gone 26-24 against Eastern Conference teams. Atlanta scores 118.4 points while outscoring opponents by 2.5 points per game.The Cavaliers have gone 32-18 against Eastern Conference opponents. Cleveland ranks sixth in the Eastern Confer",
+          "key_points": [],
           "link": "https://sports.yahoo.com/articles/cleveland-plays-atlanta-4-game-060324904.html",
           "source": "Yahoo Sports NBA",
           "published": "2026-04-09T06:03:24+00:00",
@@ -207,14 +210,10 @@
         },
         {
           "id": "2ba201418e34",
-          "title": "Spurs aim to keep six\u2011game home streak alive vs. Mavericks",
+          "title": "San Antonio takes home win streak into matchup with Dallas",
           "original_title": "San Antonio takes home win streak into matchup with Dallas",
-          "summary": "The San Antonio Spurs, second in the West with a 61\u201119 record, host the Dallas Mavericks, who sit 13th at 25\u201155. San Antonio seeks to extend its six\u2011game home winning run, while the Spurs boast a strong 35\u201115 record in Western Conference games.",
-          "key_points": [
-            "Spurs hold a six\u2011game home winning streak.",
-            "San Antonio is 35\u201115 in Western Conference matchups.",
-            "Mavericks are struggling near the bottom of the West."
-          ],
+          "summary": "Dallas Mavericks (25-55, 13th in the Western Conference) vs. San Antonio Spurs (61-19, second in the Western Conference)San Antonio; Friday, 8 p.m. EDTBOTTOM LINE: San Antonio hosts Dallas trying to prolong its six-game home winning streak.The Spurs are 35-15 in Western Conference games. San Antonio ranks sixth in the NBA allowing only 111.2 points per game while holding opponents to 45.0% shooting.The Mavericks are 4-11 against opponents in the Southwest Division. Dallas ranks fifth in the leag",
+          "key_points": [],
           "link": "https://sports.yahoo.com/articles/san-antonio-takes-home-win-060322699.html",
           "source": "Yahoo Sports NBA",
           "published": "2026-04-09T06:03:22+00:00",
@@ -222,92 +221,13 @@
         },
         {
           "id": "d0642a7229a9",
-          "title": "Thunder chase eighth straight win against Nuggets",
+          "title": "Thunder face the Nuggets, seek 8th straight victory",
           "original_title": "Thunder face the Nuggets, seek 8th straight victory",
-          "summary": "The Oklahoma City Thunder, leading the West at 64\u201116, travel to Denver to face the third\u2011seeded Nuggets (52\u201128). Oklahoma City aims to extend its seven\u2011game winning streak to eight, while Denver enters the game with a 10\u20115 record in division contests.",
-          "key_points": [
-            "Thunder are on a seven\u2011game winning streak, targeting eight.",
-            "Denver holds a 10\u20115 record in division matchups.",
-            "Both teams are among the top three in the Western Conference."
-          ],
+          "summary": "Oklahoma City Thunder (64-16, first in the Western Conference) vs. Denver Nuggets (52-28, third in the Western Conference)Denver; Friday, 9 p.m. EDTBOTTOM LINE: Oklahoma City seeks to keep its seven-game win streak alive when the Thunder take on Denver.The Nuggets are 10-5 in division matchups. Denver is 23-20 against opponents with a winning record.The Thunder are 41-9 in Western Conference play. Oklahoma City ranks third in the NBA with 34.7 defensive rebounds per game led by Chet Holmgren ave",
+          "key_points": [],
           "link": "https://sports.yahoo.com/articles/thunder-face-nuggets-seek-8th-060322595.html",
           "source": "Yahoo Sports NBA",
           "published": "2026-04-09T06:03:22+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "ad1e1c6b77ee",
-          "title": "Clippers Aim for Fifth Straight Road Win in Portland",
-          "original_title": "Los Angeles faces Portland, seeks 5th straight road win",
-          "summary": "The Los Angeles Clippers (41\u201139) travel to Portland to face the Trail Blazers (40\u201140) on Friday night. A win would extend the Clippers' four\u2011game road streak and keep them solidly in the eighth spot of the Western Conference.",
-          "key_points": [
-            "Clippers are 4\u20110 on the road in their last four games.",
-            "Portland sits just above .500 and is fighting for a higher playoff seed.",
-            "Both teams are within two games of each other in the West, making the matchup critical for playoff positioning."
-          ],
-          "link": "https://sports.yahoo.com/articles/los-angeles-faces-portland-seeks-060321034.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-04-09T06:03:21+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "5aa4b6473011",
-          "title": "Spurs Defeat Blazers 112-101 Behind Balanced Attack",
-          "original_title": "Spurs down Blazers 112-101 behind balanced attack",
-          "summary": "San Antonio used a well\u2011rounded offensive effort and timely defense to beat Portland 112\u2011101, moving closer to a postseason berth. The victory highlighted contributions from multiple players rather than reliance on a single star.",
-          "key_points": [
-            "Spurs displayed scoring from several positions, with double\u2011digit points from four players.",
-            "Defensive stops in the fourth quarter helped seal the win.",
-            "The result improves San Antonio's standing in the Western Conference race."
-          ],
-          "link": "https://sports.yahoo.com/articles/spurs-down-blazers-112-101-055516420.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-04-09T05:55:16+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "3808553c34e1",
-          "title": "Thunder Secure No. 1 Seed, Join Elite Historical Club",
-          "original_title": "OKC locks up No. 1 seed, joins elite company",
-          "summary": "Oklahoma City clinched the NBA's best regular\u2011season record after defeating the Los Angeles Clippers, guaranteeing the top seed for the playoffs. The achievement places the Thunder among a select group of teams that have locked up the No.\u202f1 seed before the season's final day.",
-          "key_points": [
-            "Thunder finished the regular season with the league's best record.",
-            "Victory over the Clippers sealed the No.\u202f1 seed in the Western Conference.",
-            "The feat puts Oklahoma City in rare company historically, joining only a handful of teams with early\u2011season clinches."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48435203/okc-locks-no-1-seed-home-court-postseason",
-          "source": "ESPN NBA",
-          "published": "2026-04-09T05:48:50+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "ae35e6c9e967",
-          "title": "Cade Cunningham Returns with Double\u2011Double in Pistons' Rout of Bucks",
-          "original_title": "Cunningham has double-double in Pistons return",
-          "summary": "Cade Cunningham posted 13 points and 10 assists in his first game back after a collapsed lung, helping Detroit dominate Milwaukee. The Pistons' offensive flow improved markedly with Cunningham back in the lineup.",
-          "key_points": [
-            "Cunningham's double\u2011double marked a successful return from a serious medical issue.",
-            "Detroit's win over Milwaukee was decisive, widening their lead in the Eastern Conference race.",
-            "The performance suggests Cunningham is regaining form quickly after his injury."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48434381/cade-cunningham-double-double-return-pistons-rout-bucks",
-          "source": "ESPN NBA",
-          "published": "2026-04-09T05:48:50+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "908e7f94aece",
-          "title": "Kings' Late Foul Deemed Coaching Error, Not Tanking",
-          "original_title": "Sources: Kings' late foul was error, not tanking",
-          "summary": "NBA investigators are reviewing a late-game foul by Kings coach Doug Christie, which sources say was a strategic mistake rather than an intentional tanking move. The incident occurred during the team's loss to Golden State on Tuesday.",
-          "key_points": [
-            "The foul was identified as a coaching error, not a deliberate attempt to lose games.",
-            "NBA is conducting an inquiry to determine if any league rules were violated.",
-            "The situation adds scrutiny to the Kings' late\u2011season strategy as they chase playoff positioning."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48432683/sources-kings-late-foul-was-tactical-error-not-tanking",
-          "source": "ESPN NBA",
-          "published": "2026-04-09T05:48:50+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -317,14 +237,10 @@
       "articles": [
         {
           "id": "0557b04d3a89",
-          "title": "LeBron James' Next Nike Air Force 1 Features White Marble Panels",
+          "title": "LeBron James' Next Nike Air Force 1 Features \"White\" Marble Panels - House of Heat\u00b0",
           "original_title": "LeBron James' Next Nike Air Force 1 Features \"White\" Marble Panels - House of Heat\u00b0",
-          "summary": "Nike has unveiled a new Air Force 1 model inspired by LeBron James, showcasing white marble\u2011style panels. The shoe is part of the brand\u2019s ongoing partnership with the NBA star and will be released later this year.",
-          "key_points": [
-            "Design highlights white marble\u2011like overlays on the classic AF1 silhouette.",
-            "Released under Nike\u2019s LeBron line, reinforcing the athlete\u2019s footwear collaboration.",
-            "Launch date and retail price have not been disclosed yet."
-          ],
+          "summary": "LeBron James' Next Nike Air Force 1 Features \"White\" Marble Panels&nbsp;&nbsp;House of Heat\u00b0",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWnVmclB3dDlTajROeXJzbmVFYUt0Y1RoQlBfcEpnM3l0c3dpUU5LQzAxTlk4aUVMRktUT3RKMjNKMlNWcUlUc0gwOEs1R2RoS0F3MGpjekdPOEMybnhqQ1BTRGVzbFczSW85OV9jZkJQMlR0TFpFemhyak1PWG10WVNTeGZzWWRia2RzaG50Yzc?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-04-09T06:30:00+00:00",
@@ -332,74 +248,54 @@
         },
         {
           "id": "ed65bbf8704c",
-          "title": "Anthony Davis Opens Up About Luka Don\u010di\u0107 and Lakers Injuries",
+          "title": "Anthony Davis Drops True Feelings on Luka Doncic, Lakers Injuries - heavy.com",
           "original_title": "Anthony Davis Drops True Feelings on Luka Doncic, Lakers Injuries - heavy.com",
-          "summary": "In a recent interview, Anthony Davis expressed his genuine feelings toward rival Luka Don\u010di\u0107 and discussed the injury challenges the Lakers are facing. Davis emphasized the need for health and consistency to remain competitive in the Western Conference.",
-          "key_points": [
-            "Davis praised Don\u010di\u0107\u2019s talent while noting the difficulty of facing him in games.",
-            "He detailed current injury concerns affecting key Lakers players.",
-            "The forward stressed that staying healthy is crucial for the team\u2019s playoff aspirations."
-          ],
+          "summary": "Anthony Davis Drops True Feelings on Luka Doncic, Lakers Injuries&nbsp;&nbsp;heavy.com",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNU0FfRERwSl92bTY4V0w4b3ZiR2tDWFQ1Z1RlQnJlWkZjTkNIRUExcFlLbzRwdFNGUWIzUjVXd0ZGbFJyWExjc1RKY3JjT3hDbl95TUsyQmdHaXB3NmVHNndodFhWTWdQUHZyakpUald2cVBZdGZKcm1qWm4ya2V0Rml3?oc=5",
           "source": "Google News - Luka",
           "published": "2026-04-09T05:57:05+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "33711d02ce4e",
-          "title": "Former Warriors Forward Says He Still Can\u2019t Figure Out How to Stop LeBron James",
-          "original_title": "\"It\u2019s different than what you see on TV\" - Former Warriors forward admitted he couldn\u2019t figure out how to stop LeBron James - Yahoo Sports",
-          "summary": "A former Golden State Warriors forward told Yahoo Sports that defending LeBron James remains a challenge unlike anything seen on television. He explained that LeBron\u2019s skill set and in\u2011game adjustments make him exceptionally hard to contain.",
-          "key_points": [
-            "The ex\u2011Warrior highlighted LeBron\u2019s combination of size, speed, and basketball IQ.",
-            "He noted that game\u2011film preparation often differs from real\u2011time defensive execution.",
-            "The comment underscores the respect opponents have for LeBron\u2019s impact on the court."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaWwwdnRmYnZvdWZiVGhXeVdMRWpRUXV3SWpUcmIzVkd6OHpLYmpFYXctWEJYUEJFYmpXVFlkcEVSUXlkbVp5cWVhTmVVcURRanFFTldYOGt5WUdjQTVWMEduYUVXa1loWVI1c3Nhd1hiQlFxNDFvYzk1ZjlwZ1lEWktBOTNta1Fq?oc=5",
+          "id": "9d7c7da9218d",
+          "title": "UCLA\u2019s Lauren Betts freaks out over LeBron James sighting - Yahoo Sports",
+          "original_title": "UCLA\u2019s Lauren Betts freaks out over LeBron James sighting - Yahoo Sports",
+          "summary": "UCLA\u2019s Lauren Betts freaks out over LeBron James sighting&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcmNQVk51bjlLRDZaSnJXSUpOdjk2RzgteUxxRzkwLTQySFdCQkFsanJnM0Jrcmp3bWJiX2ktekhSeWxCV0kyU09qcnhsaGh3TmowZTBDWHl4UDZXNVR4RGhCUlp0dlZkQnQ4TUgwd3poWFU1cVcwZjdpcjU2eGdERVdJb2w?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-04-09T05:53:55+00:00",
+          "published": "2026-04-09T04:15:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "ee6f20a13e92",
+          "title": "Luka Don\u010di\u0107 to Miss Rest of Lakers\u2019 Regular Season With Hamstring Strain - Yahoo Sports",
+          "original_title": "Luka Don\u010di\u0107 to Miss Rest of Lakers\u2019 Regular Season With Hamstring Strain - Yahoo Sports",
+          "summary": "Luka Don\u010di\u0107 to Miss Rest of Lakers\u2019 Regular Season With Hamstring Strain&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByWGEwdm9fM3VYcFZ6Wlh1V0pyMnhoc2JLZEVFczFhcnZlcS1oRmVSNUVzd0w0M0pIZnhiZGVPeVJjY2FlbFpHYnhZTWNOSTJyUUlCZ3FXdXAtRzEzMTY1THhINnJ1WXhQRDhZMlVhdTZ0enpqc1ZvTFBUN2k0T00?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-04-09T02:36:00+00:00",
           "topic": "Lakers Players"
         },
         {
           "id": "226b73945b53",
-          "title": "Lakers vs. Warriors Preview: Going Through the Motions",
+          "title": "Lakers vs. Warriors Preview: Going through the motions - Silver Screen and Roll",
           "original_title": "Lakers vs. Warriors Preview: Going through the motions - Silver Screen and Roll",
-          "summary": "Silver Screen and Roll previewed the upcoming matchup between the Los Angeles Lakers and Golden State Warriors, describing both teams as executing routine play rather than showcasing high\u2011octane basketball. The analysis touched on recent performances, key matchups, and potential outcomes.",
-          "key_points": [
-            "Both squads have shown solid but unspectacular play in recent games.",
-            "Key battles include LeBron James vs. Stephen Curry and the front\u2011court matchup of Davis vs. Warriors\u2019 big men.",
-            "The preview suggests the game could hinge on execution and health rather than star power alone."
-          ],
+          "summary": "Lakers vs. Warriors Preview: Going through the motions&nbsp;&nbsp;Silver Screen and Roll",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRkU4aFdfVzRBNjFRUGg1WkU4S1hjNTlSOWdEVUNMQkpFOTNhY3p2MjNJeXpUdEQ3NWhPZlBPbWhtOWppTU55eGRfRGRZTVU4UnVnTDZzWkxQckZ0bUYyTk02LXZMU3dlUTRpdG4yRFM5blhZZ2E0VTNyWXJpOUcyOWNZQW1DNFdFeS1pSnVSV3FRR1c2V2R0SXJud0NRVGQtUVdHQUNvTXNwSGJ1YkdWSTdqcGpBdW9GTUZyWXhqUmIxdjNPVXF1UTZSWW9fSTFjRzFSN05UVWRCUGpYYUpaVV9FSS1tbGxoZ2cxSjB0WWdOaHIyaWtGeXJ4TFk?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-04-09T02:35:00+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "733067993cb9",
-          "title": "Former Warriors Forward Still Can\u2019t Figure Out How to Stop LeBron James",
-          "original_title": "\"It\u2019s different than what you see on TV\" - Former Warriors forward admitted he couldn\u2019t figure out how to stop LeBron James - Basketball Network",
-          "summary": "On Basketball Network, a former Warriors forward reiterated his difficulty in defending LeBron James, stating that the challenge differs from what is portrayed on TV. He emphasized LeBron\u2019s unpredictable moves and elite versatility as primary factors.",
-          "key_points": [
-            "Defending LeBron requires constant adjustments that are hard to replicate in practice.",
-            "The former player highlighted the gap between televised analysis and on\u2011court reality.",
-            "His remarks reflect the broader league\u2011wide respect for LeBron\u2019s enduring dominance."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN0FKQkhsYTNOanp3bF90YVpGNEt6aTRnMkxpZndpTzlDV2dRV0dxODVvLUU0NDNYaEFQQW4zRlpiblcxM0xNdWhWVDN1YS0zeXRSSDZQMmVkN0RockFCczVyS210TE9TVWVjN1pTVHpBUXFtTHlueXhhUnFIS2w5dnV0QTJjeXd6a2NzbkxVSVJqUThaYmgxZDhEbUFzQWFKRVZYLWxkTHBZejhnSEc1eUprdHlfbHRHSUpXaHNfVkpodw?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-09T02:31:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
           "id": "3c060d6f4cbe",
-          "title": "Warriors vs. Lakers Injury Report: Curry, Porzingis, Doncic, Reaves and More",
+          "title": "Warriors vs. Lakers injury report: Curry, Porzingis, Doncic, Reaves and more - Blue Man Hoop",
           "original_title": "Warriors vs. Lakers injury report: Curry, Porzingis, Doncic, Reaves and more - Blue Man Hoop",
-          "summary": "The latest injury update ahead of the Warriors\u2011Lakers matchup lists several key players dealing with ailments. Stephen Curry, Kristaps Porzingis, Luka\u202fDoncic and Austin Reaves are among those listed as questionable or out, which could affect lineups for both teams.",
-          "key_points": [
-            "Stephen Curry is listed as questionable for the Warriors.",
-            "Kristaps Porzingis and Luka\u202fDoncic are dealing with injuries that may limit their minutes.",
-            "Austin Reaves is also questionable for the Lakers, adding uncertainty to the guard rotation."
-          ],
+          "summary": "Warriors vs. Lakers injury report: Curry, Porzingis, Doncic, Reaves and more&nbsp;&nbsp;Blue Man Hoop",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMnl4OHhFS3pld3F0R0pqOWlDTU1RMmU0M2RJeElmU1hLQy04dkxzR1M1SjRPUnF1ZFhFYUJoU3ZJNkxxckRJSVZ6QVVock1NRm9HUFM3QVVmN1NYWl90M2xaeFNraUFQc1VKTTRad1pidXlGb1RWZWVoQW1XamxQcFJybjhKYW15VTBjS1pURQ?oc=5",
           "source": "Google News - Luka",
           "published": "2026-04-09T02:00:00+00:00",
@@ -407,14 +303,10 @@
         },
         {
           "id": "b6efac475267",
-          "title": "Anthony Davis Says He Was Shocked by Luka\u202fDoncic Trade, Felt Lakers Showed No Respect",
+          "title": "Anthony Davis Details Shock Of Learning About Luka Doncic Trade Says Lakers Showed Him No Respect - RealGM",
           "original_title": "Anthony Davis Details Shock Of Learning About Luka Doncic Trade Says Lakers Showed Him No Respect - RealGM",
-          "summary": "Anthony Davis expressed surprise and disappointment after learning about the trade that sent Luka\u202fDoncic to the Lakers. He said the organization failed to inform him directly, which he interpreted as a lack of respect toward a veteran player.",
-          "key_points": [
-            "Davis learned about the Doncic trade through media reports, not internal communication.",
-            "He described the handling of the trade as disrespectful to his status on the team.",
-            "The comments highlight potential internal friction following the blockbuster acquisition."
-          ],
+          "summary": "Anthony Davis Details Shock Of Learning About Luka Doncic Trade Says Lakers Showed Him No Respect&nbsp;&nbsp;RealGM",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWUFTX0ktckRpZzRrS0xxdUM2N1NQUEdMNEVyZmZKUWttWEJpb21jcV9tSnB3dDdDT2lMZ2pZWG1NYlYySUdZOU44Y2RJYjBzX3pQZU5IWWp3WEhmYW0tbWNHR0prZEhSc19kTGVLSHZTaVpvRFh1eGthNlFYVWdOQ2p0elpvZXVJeU9EZUl5ZXVrZ1UxbUlWbXN2NXIweDF2bFNiSVNCUTVIVG1JVlF0eEpRZ0JiV1VkX3VRbG16b1hoWTIyX1Y3ZHRXb29tbzNvTWp5YTd2YUJCUQ?oc=5",
           "source": "Google News - Luka",
           "published": "2026-04-09T00:57:00+00:00",
@@ -422,14 +314,10 @@
         },
         {
           "id": "87babaf9b974",
-          "title": "Game Preview: Warriors vs. Los Angeles Lakers \u2013 April 9, 2026",
+          "title": "Game Preview: Warriors vs. Los Angeles Lakers - 4/9/26 - NBA",
           "original_title": "Game Preview: Warriors vs. Los Angeles Lakers - 4/9/26 - NBA",
-          "summary": "The preview outlines the key storylines for the upcoming Warriors\u2011Lakers game on April 9, 2026. It highlights matchup considerations, recent performance trends, and the impact of injuries on both squads.",
-          "key_points": [
-            "The preview examines how the Warriors' shooting and the Lakers' interior play could clash.",
-            "Recent form and recent injury updates are factored into projected outcomes.",
-            "Potential breakout performances from role players are noted as game\u2011changing factors."
-          ],
+          "summary": "Game Preview: Warriors vs. Los Angeles Lakers - 4/9/26&nbsp;&nbsp;NBA",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wcGk1bG1uWWFhc1hEeExEeWRCSkd2Y0pLQmdpTkRMenFwTExfdmZzUEIxU1FxU25oOTItOGtrVlBETzRnSy1mYnJxV1F0Z2pQQlY0VGIxc2V5YWpqblZR?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-04-09T00:00:22+00:00",
@@ -437,14 +325,10 @@
         },
         {
           "id": "e8ae6b233974",
-          "title": "Anthony Davis Calls Out Lakers for Treatment During Luka\u202fDoncic Trade",
+          "title": "Anthony Davis calls out Lakers for treatment during Luka Doncic trade - Yahoo Sports",
           "original_title": "Anthony Davis calls out Lakers for treatment during Luka Doncic trade - Yahoo Sports",
-          "summary": "In a Yahoo Sports interview, Anthony Davis publicly criticized the Lakers' handling of the Luka\u202fDoncic trade, saying he felt marginalized and disrespected. He emphasized that the lack of direct communication was unacceptable for a team leader.",
-          "key_points": [
-            "Davis felt the trade process excluded him from important discussions.",
-            "He labeled the Lakers' approach as a sign of poor treatment toward veteran players.",
-            "The remarks may signal deeper locker\u2011room concerns after the high\u2011profile acquisition."
-          ],
+          "summary": "Anthony Davis calls out Lakers for treatment during Luka Doncic trade&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdEJqODViMkhyN1MwN2dZWG5zb2Z6SEE5dzUwNzNaS3Y0Y1dTOWVQMko4RWZUQjltSjc3bS10ZmJEVE1kZVkwMklYSVR5SGJQaGtWd2RwcEIyRnFrbVQzNEo3VDZnMTVUUVA3WFRFSzNEZGlzUlRfZEZQcGxYZWVYZXJQTVlEcGU3aWZucm53?oc=5",
           "source": "Google News - Luka",
           "published": "2026-04-08T23:02:55+00:00",
@@ -452,14 +336,10 @@
         },
         {
           "id": "68bc1728a6a8",
-          "title": "Anthony Davis Breaks Silence on Blockbuster Luka\u202fDoncic\u2011Lakers Trade",
+          "title": "Anthony Davis breaks silence on blockbuster Luka Doncic-Lakers trade - sportingnews.com",
           "original_title": "Anthony Davis breaks silence on blockbuster Luka Doncic-Lakers trade - sportingnews.com",
-          "summary": "Sporting News reports that Anthony Davis finally addressed the Luka\u202fDoncic trade, reiterating his disappointment with how the deal was communicated. He maintained professionalism but warned that respect and transparency are essential for team cohesion.",
-          "key_points": [
-            "Davis confirmed his frustration with the lack of direct notification about the trade.",
-            "He stressed the importance of respect and clear communication within the organization.",
-            "Despite his comments, Davis indicated he remains focused on contributing to the team's success."
-          ],
+          "summary": "Anthony Davis breaks silence on blockbuster Luka Doncic-Lakers trade&nbsp;&nbsp;sportingnews.com",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSEZlZjkwcUc0VjhVRHZvNUl1eE1FMS1EMWVwOTMzb250VTB1a3NydXVTemNfYngwZ3FCMXJONDRkTnc5SkRicXIxMEtfZU5CTkxUMFY3TVF1MUlXOTBMeTBtc0RNelR0NUxUNjdvZk1DRDlTYUk0R3oxVzVYRzBEaGdseGRYR2pPSXhMRFdTb2lTYy14TU9CWE05UlNRdzhFZ2NaVnpZNFNkemd6YWVFTUFkaFNMOFdScHRlbVVmRFpCbmZSS3hSVjd2eFJIOHJPSVpibHNwMFlDOG1ORW40U0J3em8?oc=5",
           "source": "Google News - Luka",
           "published": "2026-04-08T22:17:50+00:00",
