@@ -1,20 +1,93 @@
 {
-  "generated_at": "2026-04-11T02:29:13.416699+00:00",
+  "generated_at": "2026-04-11T05:34:41.997616+00:00",
   "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
+          "id": "7582b8bb16d3",
+          "title": "Los Angeles Lakers vs. Phoenix Suns - 2nd Half Highlights - NBA",
+          "original_title": "Los Angeles Lakers vs. Phoenix Suns - 2nd Half Highlights - NBA",
+          "summary": "Los Angeles Lakers vs. Phoenix Suns - 2nd Half Highlights&nbsp;&nbsp;NBA",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNGxVNzlqRFkyX2ZlQWlkWURJdnZNS184bk9BbnpFODliQ183LXc2TEZ4VTRNM2hfVkVyeFFtOHpldW4tTXEwZWJHMExJTnNDQlFnV29zcG1TNFlRX2tNSmhJQ2JPZlpGY0pvRHlDSTVZX3ZnQlIxSFBxdHBEM2d6VzN1SHRRQTVBSEtnNndLbVpHY0pHaWpEZzhWNldaclA5bjFwdmVCVGZrdlg2NzYteGFOTURHTDRwWUd6dVFWbw?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-11T05:24:43+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "585280759544",
+          "title": "Los Angeles Lakers vs. Phoenix Suns - 4th Quarter Highlights - NBA",
+          "original_title": "Los Angeles Lakers vs. Phoenix Suns - 4th Quarter Highlights - NBA",
+          "summary": "Los Angeles Lakers vs. Phoenix Suns - 4th Quarter Highlights&nbsp;&nbsp;NBA",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQXB6QUpDU3l5NHh0SW1nUGs4NmQtUXNNOGJnVnF6ejA0WFljUDNVaTJrb0tPRVE2Nm9mSm5EQUsxZHc1NjMzRWV1d1VVeWNJYk1aaURBN1ZfVUt0V2RoWnljdXluUm5nZER3aVRTZGZicjVvZ1ZWV3U3bGUweDZ4TkcyUnVWeFNXbDBKTVJwTWpPSzBuUlJoRkhYTnBnTnBSNkwzcUJjYlBCRTlic25SYzJDd25odHNfWVU1MlF5WERReFU?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-11T05:24:43+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "5d40b2ff3890",
+          "title": "Los Angeles Lakers vs. Phoenix Suns - Game Highlights - Yahoo Sports",
+          "original_title": "Los Angeles Lakers vs. Phoenix Suns - Game Highlights - Yahoo Sports",
+          "summary": "Los Angeles Lakers vs. Phoenix Suns - Game Highlights&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMXVRcE8yVDl4YUlNaFl5VDVCNUtnMXNCbHoyaXpaWnM4RmEyUjFkSkRDeDV0TVJ3RklyVWwtRExBc080MzBGQjVjSEIyTFNlYTM2TXJGQWdKd3VDcFFoT2hVRWVtTk8zckZaM3lkUDBoZllnR2tvVzl3SURyeTVmaXBB?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-11T05:11:31+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "cf95642ad3fe",
+          "title": "LeBron James leads Lakers to win over Suns",
+          "original_title": "LeBron James leads Lakers to win over Suns",
+          "summary": "The Lakers took down the Suns 101-73 on Friday night. They clinched home court in the first round of the playoffs thanks to the Rockets losing to the Wolves. Rui Hachimura started things off for LA with an impressive reverse layup. LeBron James was cooking early for Los Angeles with three 3-pointers and three free [&#8230;]",
+          "key_points": [],
+          "link": "https://www.silverscreenandroll.com/lakers-scores-results/113870/lakers-vs-suns-recap-box-score-stats-final-lebron-james-luke-kennard-rui-hachimura",
+          "source": "Silver Screen and Roll",
+          "published": "2026-04-11T05:02:13+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "f84a080c11d8",
+          "title": "Recap: Lakers Beat Suns & Clinch Home-Court Advantage In First Round Of Playoffs",
+          "original_title": "Recap: Lakers Beat Suns & Clinch Home-Court Advantage In First Round Of Playoffs",
+          "summary": "After picking up a road win over the Golden State Warriors on Thursday, the Los Angeles Lakers returned home and hosted the Phoenix Suns in the second night of a back-to-back in their penultimate regular season game. Both teams were missing key pieces in this one, but it was an important game for the Lakers [&#8230;]",
+          "key_points": [],
+          "link": "https://lakersnation.com/recap-lakers-beat-suns-clinch-home-court-advantage-in-first-round-of-playoffs/",
+          "source": "Lakers Nation",
+          "published": "2026-04-11T04:58:50+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "96423410f294",
+          "title": "Phoenix Suns 48 - Los Angeles Lakers 57: Half - Yahoo Sports",
+          "original_title": "Phoenix Suns 48 - Los Angeles Lakers 57: Half - Yahoo Sports",
+          "summary": "Phoenix Suns 48 - Los Angeles Lakers 57: Half&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tT3lES1hjQ2dBRV9wRUZBdlZNN3NSaVB1T2oxN1p0X056Z2p0VFUxUHJ0NDIzb0FDUndVSFg3UGEteTJvR3p1b1o2RDBYdmFLUE92eDJfWXJlRXhlUUIxQTNENlhXdkJrNXJVUl91WTFRbmlmM1hLZWdwZFg?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-11T03:43:12+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "ea7e423881c1",
+          "title": "JJ Redick on short-handed Lakers: 'Everybody wants to play us' - ABC30 Fresno",
+          "original_title": "JJ Redick on short-handed Lakers: 'Everybody wants to play us' - ABC30 Fresno",
+          "summary": "JJ Redick on short-handed Lakers: 'Everybody wants to play us'&nbsp;&nbsp;ABC30 Fresno",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTTFiLTYzVEpKdEVidncwUDd0cXJQOGJJYnUtU09mTEVJcUtFdzFKMVhOZV82aThHTmR4UXcwWmpfZUVaempCbnEwYklSblVtZW5ySy02U0FsSGJaakJfbGNWQkFxVmpLSUROUjhVY1dLR0F3NmJCQ2lYY19UaXpHY0pyQXd3VHM3azhGNG5QVQ?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-11T03:24:22+00:00",
+          "topic": "Lakers News"
+        },
+        {
           "id": "98ee79490d05",
-          "title": "Lakers Injury Report: Smart, LeBron & Kennard Cleared, Hayes Out vs. Suns",
+          "title": "Lakers Injury Report: Marcus Smart, LeBron James & Luke Kennard Available, Jaxson Hayes Out Vs. Suns",
           "original_title": "Lakers Injury Report: Marcus Smart, LeBron James & Luke Kennard Available, Jaxson Hayes Out Vs. Suns",
-          "summary": "The Los Angeles Lakers confirmed that LeBron James, Marcus Smart and Luke Kennard are cleared to play in Friday night\u2019s matchup against the Phoenix Suns despite managing minor injuries. Jaxson Hayes remains sidelined due to a left\u2011foot issue.",
-          "key_points": [
-            "LeBron James (left foot), Marcus Smart (right ankle) and Luke Kennard (left finger) are listed as available.",
-            "Jaxson Hayes is out with left\u2011foot injury management.",
-            "The updates come ahead of the Lakers\u2019 game against the Phoenix Suns."
-          ],
+          "summary": "The Los Angeles Lakers announced that LeBron James (left foot injury management), Marcus Smart (right ankle contusion) and Luke Kennard (left finger injury management) are available for Friday night&#8217;s contest against the Phoenix Suns, while Jaxson Hayes (left foot injury management) is out. Kennard was originally listed as questionable but is able to give it [&#8230;]",
+          "key_points": [],
           "link": "https://lakersnation.com/lakers-injury-report-marcus-smart-lebron-james-luke-kennard-available-jaxson-hayes-out-vs-suns/",
           "source": "Lakers Nation",
           "published": "2026-04-11T01:40:29+00:00",
@@ -22,137 +95,24 @@
         },
         {
           "id": "e5ebc09c79c1",
-          "title": "NBA World Reacts to Lakers Releasing 3\u2011Year Player Before Suns Game",
+          "title": "NBA World Reacts To Los Angeles Lakers Releasing 3-Year Player Before Suns Game - heavy.com",
           "original_title": "NBA World Reacts To Los Angeles Lakers Releasing 3-Year Player Before Suns Game - heavy.com",
-          "summary": "Reactions poured in across the league after the Los Angeles Lakers released a player who was under a three\u2011year contract just before their game with Phoenix. The move sparked discussion about roster flexibility and salary\u2011cap implications.",
-          "key_points": [
-            "The Lakers cut a player still under a three\u2011year deal prior to the Suns matchup.",
-            "NBA analysts and players commented on the timing and financial impact.",
-            "The decision highlights the team\u2019s willingness to make roster changes before the season\u2019s final stretch."
-          ],
+          "summary": "NBA World Reacts To Los Angeles Lakers Releasing 3-Year Player Before Suns Game&nbsp;&nbsp;heavy.com",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVGtMUG5qZkRqNHFvTDdpQlVIcG9wa2dmNzlqM05tS3kwZzZvUUdMSEpGeWEyYTVZQ0ZLcGFaREZlVnB0SlVRekZZeWdlV3F5TzMyQ1pyengzTkZSeVlPVUhuN3hDaUhNdVpvVlpwMDZMUG03N19ibnc1ZmVHY2NVaV9FeURJV2pQZXpsay1ZQ3ptekRHOUhpcFQxWTR3X1JCZXl3MnNLR3lfWjVzdUtxWUQ4SFdxQVNKMXprb2ZPb2lVODFFUU5aUkdhRmE?oc=5",
           "source": "Google News - Lakers",
           "published": "2026-04-11T01:34:00+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "7731f6e47dc7",
-          "title": "Lakers Receive Encouraging News Ahead of Playoffs",
-          "original_title": "Lakers Get Encouraging News Before NBA Playoffs - Athlon Sports",
-          "summary": "Athlon Sports reported that the Los Angeles Lakers got positive updates that could influence their postseason outlook. The details suggest improvements in health or roster status that may benefit the team\u2019s playoff push.",
-          "key_points": [
-            "The news is described as \u201cencouraging\u201d for the Lakers\u2019 playoff prospects.",
-            "It likely pertains to player health or roster adjustments.",
-            "The development comes as the team prepares for the upcoming NBA playoffs."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcThnRXF0X3RScG5QYjlGMFhnOVZKMWpDOGNxcVVMUzBUaUhOejhZcGVpbkdsU0Y3VEpld25LVmtac0VNWXpYT3VGd25MU1JRTnh6UnRaVk8xaXZTVWhqa18yMWswdmlLRDVPdVNvenE0MFRmaDRDZElPck9ZbGJ1MVpJWEJSdzJBZlVzRHM0TDltSUtxeS1xQURQOVlaWWc?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-11T00:06:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "6c1b5174f387",
-          "title": "Lakers May Take Drastic Measures to Save NBA Season, Costs Could Be High",
-          "original_title": "Lakers might go this far to save NBA season, but cost might be great - New York Post",
-          "summary": "The New York Post explored the possibility that the Los Angeles Lakers could make significant moves\u2014potentially costly\u2014to help preserve the NBA season\u2019s integrity. The article discusses financial and strategic implications of such actions.",
-          "key_points": [
-            "The Lakers are considering extreme steps to influence the season\u2019s continuation.",
-            "Potential actions could involve substantial financial commitments.",
-            "The piece examines how these measures might affect the franchise and the league."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOWtycERhVzdHbHRFUnFVaTJYLXpTRE5UeU1jWEhTanRqOXFVMWZHZ1BzSWpnVTBma1pCbXBoT3kzSXRyWHpnZEpZLVJBN01LTzZqakNxOE5VSGJKdThBa3pLSElTU1U3QlI1S1NHVGdfMk9nc0p6ZS1xTnc2UEF3N214YVhkSGFaY3J1ZG5mbW5JRHdkYkRqLV9VTnlzQ1hYX0diby1xRjA0dkRp?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-10T23:55:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "5f625e64f849",
-          "title": "Live Updates: Phoenix Suns vs. Los Angeles Lakers",
-          "original_title": "Phoenix Suns @ Los Angeles Lakers: Live game updates, stats, play-by-play - Yahoo Sports",
-          "summary": "Yahoo Sports provided real\u2011time coverage of the game between the Phoenix Suns and the Los Angeles Lakers, including play\u2011by\u2011play commentary, statistics, and key moments as the contest unfolded.",
-          "key_points": [
-            "Live play\u2011by\u2011play and statistical updates for the Suns\u2011Lakers game.",
-            "Real\u2011time commentary on scoring runs, player performances, and pivotal plays.",
-            "Comprehensive game flow information for fans following the matchup."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tT3lES1hjQ2dBRV9wRUZBdlZNN3NSaVB1T2oxN1p0X056Z2p0VFUxUHJ0NDIzb0FDUndVSFg3UGEteTJvR3p1b1o2RDBYdmFLUE92eDJfWXJlRXhlUUIxQTNENlhXdkJrNXJVUl91WTFRbmlmM1hLZWdwZFg?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-10T23:50:17+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "64ebae4c9545",
-          "title": "Depleted Lakers\u2019 First Game Post\u2011Injuries Draws Strong Easter Audience",
-          "original_title": "Depleted Lakers\u2019 first game post-injuries draws strong Easter audience - Sports Media Watch",
-          "summary": "The Lakers returned to the court after a spate of injuries and managed to attract a sizable TV audience on Easter Sunday. Despite missing key players, the team\u2019s performance generated notable viewership numbers, highlighting continued fan interest.",
-          "key_points": [
-            "Lakers played their first game after multiple injuries to starters.",
-            "Easter Sunday broadcast drew higher-than\u2011expected ratings.",
-            "Fan engagement remained strong despite the roster depletion."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdlNWUVZabDFWbHNaazk2cV9zZGxCT2FSVG1fcVV5aEpCdTg0WWR4MXdXQU5ZWWd4MjhUaW1qeWVWMnd5RGVSakM2aFBwbFFCeDVLZlJlMUdWN2t4NkdOV2VYOEZWSkEzZ19rRWM2Nm15eUxkVUVEWnVmaVl3MmZtdGFTdnV6bldTakpuSWdIVDNmamoxWXBUMUZRUnBwRms?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-10T22:25:10+00:00",
-          "topic": "Lakers News"
-        },
-        {
           "id": "24d14b195270",
           "title": "LeBron James Willing To Do \u2018Everything\u2019 To Help Lakers Overcome Injuries",
           "original_title": "LeBron James Willing To Do \u2018Everything\u2019 To Help Lakers Overcome Injuries",
-          "summary": "LeBron James led the Lakers to a road win over the Golden State Warriors, stepping up after the team lost leading scorers Luka\u202fDoncic and Austin Reaves to injury. James finished with 26 points, emphasizing his commitment to carry the load while the roster heals.",
-          "key_points": [
-            "Lakers beat the Warriors on the road, their first win since key injuries.",
-            "LeBron James scored 26 points and took on a larger leadership role.",
-            "James publicly stated his willingness to do \u201ceverything\u201d to help the team stay competitive."
-          ],
+          "summary": "The Los Angeles Lakers were finally able to pick up a win since losing leading scorers Luka Doncic and Austin Reaves to injury. The Lakers took down the Golden State Warriors in emphatic fashion on the road and to no one&#8217;s surprise, it was LeBron James leading the way. James finished with 26 points, eight [&#8230;]",
+          "key_points": [],
           "link": "https://lakersnation.com/lebron-james-willing-to-do-everything-to-help-lakers-overcome-injuries/",
           "source": "Lakers Nation",
           "published": "2026-04-10T20:30:27+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "d01365d91698",
-          "title": "Where to Watch Phoenix Suns vs. Los Angeles Lakers on April\u202f10",
-          "original_title": "Where to watch Phoenix Suns vs Los Angeles Lakers: TV channel, start time, streaming for April 10 - USA Today",
-          "summary": "USA Today provided the broadcast details for the upcoming matchup between the Suns and Lakers, including TV channel, start time, and streaming options. The information helps fans plan how to watch the game live on April\u202f10.",
-          "key_points": [
-            "The article lists the TV network and streaming platforms for the April\u202f10 game.",
-            "It includes the scheduled start time for the Suns\u2011Lakers matchup.",
-            "Provides guidance for viewers on how to access the broadcast."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZzlkb0hxbWtFWENyd0tsS0cxUUhTQnZOZl9ISGFRRjUyeDJkc0t2OGNXRHJnT0lVVHZ2REpHMzJwUnpVc19nSHFLU2U4Z3ZhUzd2emlnb3NYWmY2REU5N0puZUE3ZlhIZU1jekJWeFhad1k3OUx6blo4eFZnZDhIM2pMUWMzNFd4SXBFY1RUQWRsNWRjYTlnRkViTlRZdG1LRVR2UzR0cU9VTVAxdkFLM20yS1ZycW4wenY5SGloZVMzZUF4OEM2aHVlLUY?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-10T19:46:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "748a86c1fc1a",
-          "title": "Western Conference Standings Watch: Will Rockets Remain the Fifth Seed?",
-          "original_title": "Western Conference Standings Watch: Will Rockets remain the fifth seed?",
-          "summary": "A preview of the Western Conference playoff race examines how the Lakers can improve their seeding and secure home\u2011court advantage. The analysis notes that the Thunder have clinched a top spot while the Rockets are fighting to stay in the fifth seed.",
-          "key_points": [
-            "Discussion of the Lakers\u2019 position and games needed to move up the standings.",
-            "Thunder have secured a leading seed; Rockets are battling to retain the fifth spot.",
-            "Overall Western Conference race is tightening as the regular season winds down."
-          ],
-          "link": "https://www.silverscreenandroll.com/lakers-analysis/113794/western-conference-playoffs-nuggets-rockets-lakers-thunder-wolves-spurs",
-          "source": "Silver Screen and Roll",
-          "published": "2026-04-10T19:45:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "1b65f2bff063",
-          "title": "Chris Paul, Lonzo Ball & More Potential Options For Lakers Playoff Roster",
-          "original_title": "Chris Paul, Lonzo Ball & More Potential Options For Lakers Playoff Roster",
-          "summary": "With injuries limiting the Lakers\u2019 rotation, the organization is exploring veteran additions such as Chris\u202fPaul and Lonzo\u202fBall to bolster the postseason roster. The article outlines possible signings and the urgency of finding depth before the playoffs begin.",
-          "key_points": [
-            "Lakers are evaluating veteran guards like Chris\u202fPaul and Lonzo\u202fBall for playoff depth.",
-            "Recent injuries have left gaps in the rotation that need immediate attention.",
-            "The team aims to solidify its roster before the postseason starts."
-          ],
-          "link": "https://lakersnation.com/chris-paul-lonzo-ball-more-potential-options-for-lakers-after-officially-waiving-kobe-bufkin/",
-          "source": "Lakers Nation",
-          "published": "2026-04-10T19:15:30+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -161,153 +121,153 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "66cc4e70b481",
-          "title": "Tyrese Maxey scores 32 as Sixers snap three-game skid",
-          "original_title": "Tyrese Maxey scores 32 and Sixers beat Pacers 105-94 to snap 3-game skid",
-          "summary": "Tyrese Maxey led Philadelphia with 32 points while Paul George added 21, helping the Sixers defeat the Indiana Pacers 105\u201194. The win halted a three\u2011game losing streak and moved the Sixers to 44\u201137 on the season.",
+          "id": "8d94a5f36713",
+          "title": "Celtics Tie NBA Record with 29 Threes, Clinch No. 2 Seed",
+          "original_title": "Celtics tie NBA record with 29 3s; clinch 2-seed",
+          "summary": "Boston matched the league record by sinking 29 three\u2011pointers in a dominant victory over New Orleans. The win secured the Eastern Conference\u2019s No.\u202f2 playoff seed for the Celtics.",
           "key_points": [
-            "Maxey's 32 points topped the scoring chart for Philadelphia.",
-            "Andre Drummond contributed a double\u2011double with 16 rebounds and 10 points.",
-            "The victory ended a three\u2011game slide, improving the Sixers to 44\u201137."
+            "Boston made 29 threes, tying both the franchise and NBA record.",
+            "The blowout win over the Pelicans clinched the East\u2019s second seed.",
+            "The performance highlighted the Celtics\u2019 perimeter shooting strength heading into the playoffs."
           ],
-          "link": "https://sports.yahoo.com/articles/tyrese-maxey-scores-32-sixers-021415766.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-04-11T02:14:15+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/48453131/celtics-tie-nba-record-29-3s-clinch-no-2-seed",
+          "source": "ESPN NBA",
+          "published": "2026-04-11T05:53:44+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "c31d1c53dcf1",
-          "title": "Nuggets, Thunder see multiple starters ruled out for Friday",
-          "original_title": "Entire Nuggets starting lineup, plus most Thunder starters, among 156 NBA players ruled out Friday",
-          "summary": "Denver announced its entire starting lineup as questionable before confirming all starters would miss Friday's game. A similar situation affected most of the Oklahoma City Thunder's starters, leaving both teams shorthanded for the night.",
+          "id": "f789031f4dab",
+          "title": "Redick: Opponents Prefer Facing Injured Lakers in First Round",
+          "original_title": "Redick: 'Everybody' wants to face hobbled Lakers",
+          "summary": "Lakers head coach JJ Redick said many Western Conference teams would rather meet Los\u202fAngeles in the opening round, even with the club\u2019s injury issues. He suggested the Lakers are viewed as a favorable first\u2011round matchup as seeding is still being decided.",
           "key_points": [
-            "All five Denver starters were ruled out for the scheduled game.",
-            "The majority of Oklahoma City\u2019s starters were also listed as out.",
-            "The injuries impacted both teams' rotations and upcoming game plans."
+            "Redick believes other West teams see the Lakers as an attractive first\u2011round opponent.",
+            "The comment reflects the uncertainty around the Lakers\u2019 health and seeding.",
+            "No specific opponents or dates were mentioned."
           ],
-          "link": "https://sports.yahoo.com/nba/article/entire-nuggets-starting-lineup-plus-most-thunder-starters-among-156-nba-players-ruled-out-friday-021344671.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-04-11T02:13:44+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
+          "source": "ESPN NBA",
+          "published": "2026-04-11T05:53:44+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "254f28163d08",
-          "title": "Celtics clinch No.\u202f2 seed with 144\u2011118 win over Pelicans",
-          "original_title": "Sam Hauser scores 24, Celtics hit 29 3s, rout Pelicans 144-118 to clinch East's No. 2 playoff seed",
-          "summary": "Sam Hauser poured in 24 points, hitting eight three\u2011pointers as Boston tied the franchise and NBA record with 29 threes in a dominant victory. The win secured the Eastern Conference\u2019s No.\u202f2 playoff seed for the Celtics.",
+          "id": "ea12e6c908ee",
+          "title": "Joel Embiid Discharged from Hospital, Return Timeline Unclear",
+          "original_title": "76ers' Embiid out of hospital; no timeline to play",
+          "summary": "Philadelphia 76ers star Joel Embiid left a Houston hospital and is traveling back to Philadelphia. The team indicated there is no set timetable for his return to action.",
           "key_points": [
-            "Hauser\u2019s eight threes contributed to Boston\u2019s record\u2011tying 29 made three\u2011pointers.",
-            "Boston defeated New Orleans 144\u2011118, sealing the No.\u202f2 seed.",
-            "Jaylen Brown added 23 points in the high\u2011scoring performance."
+            "Embiid was released from the hospital and is back in Philadelphia.",
+            "The Sixers have not provided a projected date for his comeback.",
+            "His health status remains the primary focus for the organization."
           ],
-          "link": "https://sports.yahoo.com/articles/sam-hauser-scores-24-celtics-021235097.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-04-11T02:12:35+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/48450628/76ers-star-joel-embiid-hospital-one-day-surgery",
+          "source": "ESPN NBA",
+          "published": "2026-04-11T05:53:44+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "27c0e17cfcd0",
-          "title": "Knicks clinch No.\u202f3 seed with 112\u201195 win over Raptors",
-          "original_title": "Knicks beat Raptors for 13th straight time and wrap up No. 3 seed in the Eastern Conference",
-          "summary": "Jalen Brunson scored 29 points and Karl\u2011Anthony Towns added 22 and 10 rebounds as New York defeated Toronto for the 13th straight time. The victory locked the Knicks into the Eastern Conference\u2019s No.\u202f3 seed.",
+          "id": "21e1d213f861",
+          "title": "Bulls Coach Billy Donovan Acknowledges Reinsdorf\u2019s Endorsement",
+          "original_title": "Donovan not reading into Reinsdorf's endorsement",
+          "summary": "Chicago Bulls head coach Billy Donovan, whose future with the team is still undecided, thanked team president Michael Reinsdorf for his public support. Donovan emphasized that all parties must consider what\u2019s best for the franchise.",
           "key_points": [
-            "Brunson\u2019s 29 points led New York\u2019s offense.",
-            "Towns recorded a double\u2011double with 22 points and 10 rebounds.",
-            "The win marked the Knicks\u2019 13th consecutive victory over Toronto and secured the No.\u202f3 seed."
+            "Donovan received an endorsement from Bulls president Michael Reinsdorf.",
+            "He has not yet decided whether to remain with Chicago.",
+            "Donovan stressed the importance of acting in the Bulls\u2019 best interest."
           ],
-          "link": "https://sports.yahoo.com/articles/knicks-beat-raptors-13th-straight-020701489.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-04-11T02:07:01+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/48442739/bulls-donovan-says-not-reading-reinsdorf-endorsement",
+          "source": "ESPN NBA",
+          "published": "2026-04-11T05:53:44+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "bbd69d5b4484",
-          "title": "Knicks dominate Raptors, clinch No.\u202f3 Eastern seed",
-          "original_title": "Knicks take care of Raptors, 112-95, clinch No. 3 seed in Eastern Conference",
-          "summary": "Continuing their season\u2011long dominance, the New York Knicks beat the Toronto Raptors 112\u201195 at Madison Square Garden. The win cemented the Knicks\u2019 position as the Eastern Conference\u2019s third seed.",
+          "id": "3b141d3ab33b",
+          "title": "2026 NBA Draft Top\u2011100 Prospects Updated Big Board",
+          "original_title": "\ud83c\udfc0 NBA draft top 100: Where top prospects land",
+          "summary": "ESPN released an updated ranking of the top 100 players in the 2026 draft class after a compelling college season. The list reflects recent performances and scouting evaluations.",
           "key_points": [
-            "New York defeated Toronto by a 17\u2011point margin.",
-            "The victory reinforced the Knicks\u2019 13\u2011game winning streak against the Raptors.",
-            "The win secured the No.\u202f3 seed in the Eastern Conference for the Knicks."
+            "The new big board ranks the top 100 prospects for the 2026 NBA draft.",
+            "Updates were made following an exciting college basketball season.",
+            "The rankings provide a snapshot of emerging talent ahead of the draft."
           ],
-          "link": "https://sports.yahoo.com/articles/knicks-care-raptors-112-95-015746074.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-04-11T01:57:46+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/46886245/2026-nba-draft-big-board-rankings-top-100-prospects-players",
+          "source": "ESPN NBA",
+          "published": "2026-04-11T05:53:44+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "fcd7f9993a8d",
-          "title": "Jalen Duren Leads Pistons to 118-100 Win Over Hornets",
-          "original_title": "Jalen Duren scores 20 points and the Detroit Pistons beat the Charlotte Hornets 118-100",
-          "summary": "Jalen Duren scored 20 points and Duncan Robinson added 19 as the Detroit Pistons defeated the Charlotte Hornets 118-100. The victory locked Charlotte into the play\u2011in tournament, while Detroit, already the Eastern Conference\u2019s top seed, rested its regular starters for most of the game.",
+          "id": "fc6197f617af",
+          "title": "SGA, Jokic Among 168 NBA Players Out Friday",
+          "original_title": "SGA, Jokic among at least 168 out NBA-wide Fri.",
+          "summary": "A minimum of 168 NBA players missed Friday's games, including reigning MVP Shai Gilgeous\u2011Alexander, three\u2011time MVP Nikola Jokic, and 14 Memphis Grizzlies. The widespread absences reflect ongoing injury and rest protocols across the league.",
           "key_points": [
-            "Duren\u2019s 20 points and Robinson\u2019s 19 anchored Detroit\u2019s offense.",
-            "Hornets\u2019 loss drops them into the play\u2011in tournament.",
-            "Pistons maintained their top\u2011seed status while giving bench players significant minutes."
+            "At least 168 players were held out of action on Friday.",
+            "Shai Gilgeous\u2011Alexander and Nikola Jokic were among the high\u2011profile absences.",
+            "Fourteen members of the Memphis Grizzlies also missed the games."
           ],
-          "link": "https://sports.yahoo.com/articles/jalen-duren-scores-20-points-014728519.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-04-11T01:47:28+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/48453474/nba-friday-slate-sees-least-168-injury-illness",
+          "source": "ESPN NBA",
+          "published": "2026-04-11T05:53:43+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "b202e4d16a6f",
-          "title": "Wizards Seal NBA\u2019s Worst Record with 140-117 Loss to Heat",
-          "original_title": "Wizards clinch NBA's worst record with 140-117 loss to Heat",
-          "summary": "The Washington Wizards fell 140-117 to the Miami Heat, confirming the league\u2019s worst record at 17-64. The defeat marked the team\u2019s ninth straight loss and its 25th loss in the last 26 games, extending a historic streak of 64\u2011loss seasons for three consecutive years.",
+          "id": "d54e470ec6ca",
+          "title": "Wembanyama Reaches 65\u2011Game Eligibility Mark with 40\u2011Point Performance",
+          "original_title": "Wembanyama checks another 'box,' hits 65 games",
+          "summary": "Victor Wembanyama hit the 65\u2011game threshold for award eligibility after scoring 40 points and grabbing 13 rebounds in a 139\u2011120 win over the Dallas Mavericks. The milestone secures his eligibility for season\u2011end honors.",
           "key_points": [
-            "Washington\u2019s record falls to 17-64, the NBA\u2019s lowest.",
-            "Loss is the ninth in a row and 25 of the last 26 games.",
-            "Wizards become the first team to record 64 losses in three straight seasons."
+            "Wembanyama recorded 40 points and 13 rebounds against Dallas.",
+            "The performance gave him his 65th game of the season, meeting award eligibility requirements.",
+            "The Spurs defeated the Mavericks 139\u2011120."
           ],
-          "link": "https://sports.yahoo.com/articles/wizards-clinch-nbas-worst-record-014131455.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-04-11T01:41:31+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/48453963/wembanyama-40-points-13-rebounds-hits-65-games-checks-another-box",
+          "source": "ESPN NBA",
+          "published": "2026-04-11T05:53:43+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "1befeea597eb",
-          "title": "Player Grades: Cavs at Hawks \u2013 Jaylon Tyson Shows Solid Return",
-          "original_title": "Player Grades: Cavs at Hawks \u2013 Jaylon Tyson looks solid in return",
-          "summary": "Jaylon Tyson delivered a respectable performance in his return against the Atlanta Hawks, but the Cleveland Cavaliers as a whole struggled to compete. The article highlights Tyson\u2019s individual effort while noting the team\u2019s overall shortcomings.",
+          "id": "a71040522d3c",
+          "title": "Heat Waive Guard Terry Rozier Amid Gambling Probe",
+          "original_title": "Heat waive Rozier, open roster spot for addition",
+          "summary": "The Miami Heat have waived guard Terry Rozier, who has been on leave since October due to a sports\u2011gambling investigation. The move opens a roster spot for a new addition.",
           "key_points": [
-            "Tyson\u2019s return is described as solid and productive.",
-            "Cavaliers failed to execute effectively against the Hawks.",
-            "The piece focuses on individual grading rather than a detailed game recap."
+            "Terry Rozier was waived after being on leave since October.",
+            "The waiver is linked to an ongoing sports\u2011gambling probe.",
+            "Miami now has an open roster spot for a replacement player."
           ],
-          "link": "https://sports.yahoo.com/articles/player-grades-cavs-hawks-jaylon-014110030.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-04-11T01:41:10+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/48447174/sources-heat-waive-embattled-guard-terry-rozier",
+          "source": "ESPN NBA",
+          "published": "2026-04-11T05:53:43+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "474d0e3db485",
-          "title": "Hawks Clinch Playoff Spot and Southeast Division After 124-102 Win Over Cavs",
-          "original_title": "Hawks clinch a playoff spot and Southeast Division behind 29 points from McCollum in rout of Cavs",
-          "summary": "CJ\u202fMcCollum poured in 29 points as the Atlanta Hawks routed the Cleveland Cavaliers 124-102, securing a postseason berth and the Southeast Division title. The Hawks\u2019 dominant third quarter propelled them to their first division crown since 2021.",
+          "id": "1a3785cb0136",
+          "title": "NBA Fines Orlando Magic $25K for Injury Report Violation",
+          "original_title": "NBA fines Magic $25K for injury report violation",
+          "summary": "The NBA fined the Orlando Magic $25,000 for breaching league injury\u2011reporting rules prior to their Monday night home game against the Detroit Pistons. The sanction underscores the league\u2019s enforcement of transparency standards.",
           "key_points": [
-            "McCollum\u2019s 29 points lead Atlanta to a 22\u2011point victory.",
-            "Hawks clinch both a playoff berth and the Southeast Division.",
-            "The win marks the franchise\u2019s first division title since the 2020\u201121 season."
+            "Orlando Magic were penalized $25,000 for an injury\u2011report violation.",
+            "The infraction occurred before the Monday home game versus Detroit.",
+            "The fine reflects the NBA\u2019s commitment to accurate injury disclosures."
           ],
-          "link": "https://sports.yahoo.com/articles/hawks-clinch-playoff-spot-southeast-013930737.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-04-11T01:39:30+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/48440537/nba-fines-magic-25k-violating-injury-reporting-rules",
+          "source": "ESPN NBA",
+          "published": "2026-04-11T05:53:43+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "f42a94dd5a12",
-          "title": "Victor Wembanyama Becomes MVP\u2011Eligible After 65 Games Despite Rib Injury",
-          "original_title": "Victor Wembanyama eligible for MVP, other awards after playing in 65th game this season despite rib injury",
-          "summary": "Victor Wembanyama qualified for MVP and other individual awards after appearing in his 65th game of the season, even though he missed time earlier with a rib injury. The article raises the question of whether his performance will be enough to earn the league\u2019s top honors.",
+          "id": "c32508c7cd58",
+          "title": "LeBron Leads Lakers Past Suns 101\u201173, Securing Home\u2011Court Advantage",
+          "original_title": "LeBron James scores 28, leads Lakers past Suns 101-73 to clinch home-court advantage in 1st round",
+          "summary": "LeBron James posted 28 points, 12 assists and six rebounds as the short\u2011handed Los Angeles Lakers defeated the Phoenix Suns 101\u201173, clinching home\u2011court advantage for the first round of the playoffs. Luke Kennard added 19 points and Rui Hachimura contributed 13.",
           "key_points": [
-            "Wembanyama reached the 65\u2011game threshold required for MVP eligibility.",
-            "He missed games earlier in the season due to a rib injury.",
-            "Eligibility opens the door for him to be considered for MVP and other awards."
+            "Lakers beat Suns 101\u201173, earning home\u2011court advantage in the first round.",
+            "LeBron James recorded 28 points, 12 assists and six rebounds.",
+            "Luke Kennard scored 19 points; Rui Hachimura added 13."
           ],
-          "link": "https://sports.yahoo.com/nba/breaking-news/article/victor-wembanyama-eligible-for-mvp-other-awards-after-playing-in-65th-game-this-season-despite-rib-injury-013327375.html",
+          "link": "https://sports.yahoo.com/articles/lebron-james-scores-28-leads-050553199.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-04-11T01:33:27+00:00",
+          "published": "2026-04-11T05:05:53+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -316,29 +276,134 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "de86037e33b1",
-          "title": "Gilgeous\u2011Alexander Scores 28 as Thunder Rout Lakers 139\u201196, Doncic Injured",
-          "original_title": "Gilgeous-Alexander\u2019s 28 points lead Thunder's 139-96 rout of Lakers as Doncic hurts hamstring - AP News",
-          "summary": "Shai Gilgeous\u2011Alexander led Oklahoma City with 28 points in a dominant 139\u201196 victory over the Los Angeles Lakers. The loss marked the Lakers' worst defeat of the season, and Dallas Mavericks star Luka\u202fDoncic left the game with a hamstring injury.",
+          "id": "62b19e910235",
+          "title": "LeBron James scores 28, leads Lakers past Suns 101-73 to clinch home\u2011court advantage",
+          "original_title": "LeBron James scores 28, leads Lakers past Suns 101-73 to clinch home-court advantage in 1st round - Greenwich Time",
+          "summary": "LeBron James posted 28 points and helped the Los Angeles Lakers defeat the Phoenix Suns 101\u201173. The victory secured home\u2011court advantage for the Lakers in the first round of the playoffs. The win was highlighted by a dominant defensive performance that limited Phoenix to just 73 points.",
           "key_points": [
-            "Thunder outscored the Lakers by 43 points, the largest margin in a Lakers loss this season.",
-            "Shai Gilgeous\u2011Alexander contributed 28 points, 6 assists and 5 rebounds.",
-            "Luka\u202fDoncic suffered a hamstring issue that forced him to exit early, raising concerns for the Mavericks."
+            "LeBron James tallied 28 points and 12 assists.",
+            "Lakers held the Suns to a season\u2011low 73 points.",
+            "Result gives the Lakers home\u2011court advantage in the opening playoff series."
           ],
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQmMyaHcwSmxSemthS3B5ZEM4NExDaURHTE9HWDZmMFJtenhhaXhBZTExekRfRmQ5NG43Zl9JM19Zd1JMSXJ4ckJUSTRoQkJvWDg2Q0h1U0ZlRml2UmVTMVo3clFNMFJKSlNwZ1JXY1VkdmlkT1FzMkp3S3pEbVRQTUc1Wk9WOU0?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-04-11T01:44:39+00:00",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMDg5REF2bHhzdTkyaWRjTHdxN0hQOG53c09DSVl2ZWU4VjN1cXpZeGRPZ2UxNHVlbV9YaEdha3Z6dUtfNUxYc29Kc2k5MVpKVnpBTlNCdjJXa0xOdVRrTWZNLVVHbGZpbU53WUR5NWp5bjhMYWYzSm1tbExHaGtwbkFFcVpBU1RsdnQ0X2hjcXpkbmQ2UmtPdzdyc0xtRmRQSW9FeDd3?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-04-11T05:28:35+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "f3f22beed3b1",
+          "title": "LeBron James with the slam",
+          "original_title": "LeBron James with the slam - NBA",
+          "summary": "LeBron James delivered a notable slam dunk during a recent Lakers game. The play was highlighted in NBA coverage as a highlight moment of the contest.",
+          "key_points": [
+            "LeBron executed a slam dunk that drew media attention.",
+            "The dunk was featured in NBA's game recap.",
+            "No additional statistical details were provided."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMUVnbG1LSnJoWHctQVpPbnZyMGxlRXc1dUU2bEpLZ240bWh1NXhMb1B2MERNRW56ZHhHQVU4RmpZZUYtRjh2LWNraFd4V2Q0UzJDc3dCRXFZWVdPc1huZ2M2MC1tNVlSa3FtbHF6SkNpWWdfVm1BU0pleGhVSk96MTVUMHZaRjM5eEY4YXNLLTB6OFBteWVkZW1PNA?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-04-11T05:24:44+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "0aa823cc95e2",
+          "title": "LeBron James scores 28 with 12 assists in Lakers win",
+          "original_title": "LeBron James scores 28 with 12 assists in Lakers win - NBA",
+          "summary": "LeBron James recorded 28 points and 12 assists as the Los Angeles Lakers secured a victory. The performance was noted by NBA outlets as a key factor in the win.",
+          "key_points": [
+            "LeBron posted a double\u2011double with 28 points and 12 assists.",
+            "His contribution helped the Lakers win the game.",
+            "The game details beyond his stats were not specified."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUmZmYlJNcjA1WS1LVnVPZnNoYVNGd0wtOEZhOTJIRjBBUFlpWHZnUy1EZlZBRHdycTRXcGhIM1hmQXNfaGh5Rkk1NDRDQWtROG9Hek5lY3B3djZVekhsTVZoamV0Q09XcU9oa1dHOGE1UTdIaTV5dnJ0ekNWcXgzZGhB?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-04-11T05:24:23+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "7988786d609f",
+          "title": "LeBron James scores 28, leads Lakers past Suns 101-73 to clinch home\u2011court advantage",
+          "original_title": "LeBron James scores 28, leads Lakers past Suns 101-73 to clinch home-court advantage in 1st round - Yahoo Sports Canada",
+          "summary": "In a dominant showing, LeBron James scored 28 points as the Lakers beat the Phoenix Suns 101\u201173, securing home\u2011court advantage for the first\u2011round playoff series. The win underscored the Lakers' strong defensive effort.",
+          "key_points": [
+            "LeBron contributed 28 points.",
+            "Lakers limited the Suns to 73 points.",
+            "The victory guarantees the Lakers home\u2011court advantage in the opening playoff round."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM1AwdnFTSzVXUmNZWEJrcC1aZmw0TVRLNzBCQVJrNEloRnNGRWtad3hfbUJGR3F0UU5RS0FkbXdSTDdGYUo1d1hJQmJhRnpfcmJMa0VqS2p5R1VzNkhKZXFlbUtVVFg5aXNyQnZhV2ZvUEwxT0pXeWJCRGc0MnotTi13?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-04-11T05:07:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "fa4c66b25661",
+          "title": "LeBron James gets the 3 to fall",
+          "original_title": "LeBron James gets the 3 to fall - NBA",
+          "summary": "LeBron James hit a three\u2011point shot that was highlighted in NBA coverage. The moment was described as a key play in the game's narrative.",
+          "key_points": [
+            "LeBron made a notable three\u2011pointer.",
+            "The shot was featured in NBA media highlights.",
+            "No further context or game details were provided."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5qLXpySjhTRy1PY2l0QnBSQ2ZSbEtvd2ZJaWV0MjhmczF6WHZtMUszWG9LZU5YUldNNUd5S0h2WXZzSHIxVGtMVTJPdTlsOGY3dTRjOFZvQWVEYUxtdHZjbFF2V0ZnQkE2R1oxdWVNSDZvaWM?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-04-11T05:01:33+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "e43f0e34da24",
+          "title": "LeBron James Soars for Spectacular Slam",
+          "original_title": "LeBron James skies for big slam - ESPN",
+          "summary": "LeBron James delivered a highlight\u2011reel dunk that was featured on ESPN. The play underscored his continued athleticism and ability to finish above the rim despite his veteran status.",
+          "key_points": [
+            "LeBron executed a high\u2011flying slam that was broadcast nationally on ESPN.",
+            "The dunk highlighted his enduring explosiveness and scoring versatility.",
+            "The play generated buzz on social media and reinforced his status as a highlight\u2011maker."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WQ1JpTDhKNTJPVW11QWNCcXV4NU1JdlJRSE54S0RaV2s5ZUs1MjBoMGduYnBDeGNBZEp2MUtZV2oyWkpOYm1rckpnWUJ1WVRXQmIxczNLRFA?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-04-11T04:33:25+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "bb34df7fdb7a",
+          "title": "LeBron James Becomes 4th Player in NBA History with 12,000 Assists",
+          "original_title": "LeBron James becomes 4th NBA player to reach 12,000 career assists - Reuters",
+          "summary": "LeBron James reached the 12,000\u2011assist milestone, joining only three other players in NBA history to do so. The achievement was reported by Reuters and adds another historic statistic to his r\u00e9sum\u00e9.",
+          "key_points": [
+            "LeBron recorded his 12,000th career assist, placing him fourth all\u2011time.",
+            "He joins John Stockton, Jason Kidd and Mark Jackson on the exclusive list.",
+            "The milestone emphasizes his longevity and playmaking impact over his career."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTHZRcWwzcU4tb0pqNEYxVWtXcFNjRno4dnpJSFltMzdyY3hDSkJCS2l5dk0xd2NVMHc2aEFBajFWbzZvbDlwb3Y5TWs4cmJnSnB2a2ZfTE5INU1WYUVncmhtblVoSWZ0Zmhsa01SZkh4eHk2TmJHOGk0WTd6ZVE5WGNQV0d4WENiVUw5b1gwWGRBQjQ2YURaZTdiUHRwYTVMOXp0d21VYnJTMHJjajFz?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-04-11T03:29:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "e62f7a465654",
+          "title": "LeBron James Delivers Another Dazzling Dunk",
+          "original_title": "Dunk by LeBron James - NBA",
+          "summary": "The NBA highlighted a recent dunk by LeBron James, showcasing his continued ability to finish with authority at the rim. The clip was circulated on the league\u2019s official platforms.",
+          "key_points": [
+            "LeBron's dunk was featured on the NBA\u2019s official website and social channels.",
+            "The play demonstrated his combination of size, speed, and timing.",
+            "It added to the growing collection of memorable highlight moments from the season."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdTRKT1lONHVYb3pwSTY3NmR0RW1tb1FJSVdSaXVIOG0zWHFKS05IQklGeHpiYTBYQXFsaEtsS1l5Vm5LQUtpUWJCOHZOSmU5bnM4MWJKWmFzVy1tN09Yb3JZbHRwLTFnSmVxOFFpT3JWN3pCcHVIdHR1bldJb3hXZllLTzNnT1U3SzlaUXg3dV92LXM?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-04-11T03:25:25+00:00",
           "topic": "Lakers Players"
         },
         {
           "id": "2c488d3d078d",
           "title": "Lakers Injury Report: Smart, LeBron, Kennard Cleared; Hayes Out vs. Suns",
           "original_title": "Lakers Injury Report: Marcus Smart, LeBron James & Luke Kennard Available, Jaxson Hayes Out Vs. Suns - Lakers Nation",
-          "summary": "Ahead of the matchup with Phoenix, the Lakers confirmed that Marcus Smart, LeBron James and Luke Kennard are listed as active, while center Jaxson Hayes remains unavailable due to a foot injury. The report also noted that several other players are dealing with minor ailments but are expected to play.",
+          "summary": "Lakers Nation reported that Marcus Smart, LeBron James, and Luke Kennard are listed as available for the upcoming game against the Phoenix Suns, while Jaxson Hayes remains out due to injury. The update provides the latest health status ahead of the matchup.",
           "key_points": [
-            "Marcus Smart (guard) and LeBron James (forward) are cleared to play.",
-            "Luke Kennard (wing) is available after missing previous games with a rib strain.",
-            "Jaxson Hayes (center) is out with a foot injury, leaving the Lakers thin at the big\u2011man position."
+            "Marcus Smart, LeBron James, and Luke Kennard are cleared to play.",
+            "Jaxson Hayes is ruled out, continuing his injury absence.",
+            "The report sets expectations for the Lakers' lineup against Phoenix."
           ],
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUjN1dnBaN2VRZG5teVdDbThIUmdiTFFDSnI2REVaaENyNmVlci1OaGxuOGVjM2lpbFI5alR1TWo5dDc5azU1Y2tPaUhfa3o4RjlwZzRtWnVUclM2TERSSGsxcWEza3dScHl1N0dMNjhCUkN6ZTBQa1ZQOGdEMXRKekYtYkJxb3lUVFpuMnJOSWNuejdDTDBmSmNwcGlwSU1KQ3ZhQTVpY0duSGtFQ0VJMk1FZUlfU0hCRUF5YQ?oc=5",
           "source": "Google News - LeBron",
@@ -346,123 +411,18 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "b09f4f7fdad6",
-          "title": "Encouraging Update on LeBron James\u2019 Injury Before Suns Game",
-          "original_title": "Lakers Get Encouraging LeBron James Injury Update Before Suns Game - Yahoo Sports",
-          "summary": "The Lakers received a positive health report on LeBron James ahead of the game against Phoenix, indicating that his ankle soreness has improved and he is expected to play significant minutes. The update comes as the team seeks stability amid a spate of injuries.",
+          "id": "6c1b5174f387",
+          "title": "Lakers May Take Drastic Measures to Preserve NBA Season, but at High Cost",
+          "original_title": "Lakers might go this far to save NBA season, but cost might be great - New York Post",
+          "summary": "The New York Post discussed potential extreme actions the Los Angeles Lakers could consider to keep the NBA season on track, noting that such steps could have significant financial and roster implications. The article explores the balance between competitive goals and organizational risk.",
           "key_points": [
-            "LeBron\u2019s ankle soreness has lessened, and he is cleared for a full\u2011court role.",
-            "Coaches are hopeful his health will help stabilize the lineup against the Suns.",
-            "The news follows a recent string of injuries that have limited the Lakers\u2019 roster depth."
+            "Speculation about the Lakers making major moves to influence the season\u2019s continuation.",
+            "Potential costs include salary\u2011cap strain, roster depth loss, and long\u2011term financial impact.",
+            "The piece highlights the tension between short\u2011term competitive desires and long\u2011term franchise health."
           ],
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRFZ5cV8yaWliZTRWQVlGSWl4eU1Ka09mX1FUV1RXMjlCSWZRenpYRFgza1dvaXNtcWVmNm5hVXBtSkpUTXhyZ29fbXpHNXdJMzh2WlozWEpKbDB6eG1IeHBjU2lmdi1TNzRkRVB5bDdTaWpMVkdXb1liVGNSRjBmRHFmalQ4aGQzaFMxRHhDWi0?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-10T22:11:56+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "0e9903771619",
-          "title": "LeBron James and Marcus Smart Confirmed for Tonight\u2019s Game",
-          "original_title": "LeBron James and Marcus Smart are available tonight vs \u2026 - Yahoo Sports",
-          "summary": "Yahoo Sports reported that both LeBron James and Marcus Smart are listed as active for the Lakers\u2019 upcoming contest, confirming the team will have its two primary playmakers available. Their presence is expected to boost the Lakers\u2019 offensive and defensive schemes.",
-          "key_points": [
-            "LeBron James is cleared to play, providing leadership and scoring.",
-            "Marcus Smart\u2019s defensive versatility adds depth to the backcourt.",
-            "Their availability improves the Lakers\u2019 chances in a crucial matchup."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSUpjVzNjTlg2SWZkbTRzRFRtQloxcnR0UUJyTTlJdlhZZHp0cGhSRG5CcWMwYkpheW1FV0laNjJjS050MlVjNkl6VVA0OWZPNFg0bWUyY0o4RXJ4LS03TmZ1blpxZjdYRHlSbDdQWTdzQ1hJRmNXQ2RyOHZrNVFYZmhxd0RpdGJyU3VKQg?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-10T21:00:55+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "fd2b52d25a2f",
-          "title": "LeBron James Vows to Do \u2018Everything\u2019 to Help Lakers Overcome Injuries",
-          "original_title": "LeBron James Willing To Do \u2018Everything\u2019 To Help Lakers Overcome Injuries - Lakers Nation",
-          "summary": "In a recent interview, LeBron James emphasized his commitment to supporting the team through its injury crisis, stating he is willing to adjust his role, increase his minutes, and mentor younger players. The statement underscores the urgency of the Lakers\u2019 health situation.",
-          "key_points": [
-            "LeBron pledged to increase his workload and assist teammates amid injuries.",
-            "He highlighted the need for veteran leadership and on\u2011court guidance.",
-            "The comment reflects the Lakers\u2019 broader concerns about roster depth and health."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTUFQTGtDZGQ1M1haRVVxRDlKb05kMGlvMWtpVExtUGtzckRxazBuMXJkZ2E2b1VpSDBYX3UySkJBV1R2STFNVG12VEdmTTR4c0xuSFdvWkhINHNsNmItUFZfeVVBTnd2TERSNld0VkRsR1YyQ01jZzZvNjA0YWZ5bFJqaEJhMGpCWFBxQXZsendjaXdFNlBtN2NwcDQ?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-10T20:30:27+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "0a5433561379",
-          "title": "LeBron James' Status for Suns Game Unclear as Lakers Release Injury Report",
-          "original_title": "Will LeBron James play vs Suns? Lakers reveal injury report - Yahoo Sports",
-          "summary": "The Los Angeles Lakers posted their latest injury report ahead of the matchup with the Phoenix Suns, noting LeBron James' lingering soreness. The team did not confirm his availability, leaving fans and analysts to speculate on his role in the upcoming contest.",
-          "key_points": [
-            "LeBron James listed as questionable with a lower-body issue.",
-            "No official decision on whether he will start or sit for the Suns game.",
-            "Lakers will rely on depth players such as Austin Reaves and D'Angelo Russell if James is sidelined."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13X3dLa0xMZVV0blpUdDRfSXpPZmw2X1JkTjc5eGJWVUpRNFdIRU0wX0ZDeDRoelM5VWxRdThzblFMOVpkd2p1eEtlNW42N1RnSFFxdUFlQ0ZpaTRZcXl6Y0ZVUkpZUnBmVWVJX0ZBdjVVSGh3QnFhaTZXVlFOcjA?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-10T20:21:48+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "9b4aca7e5321",
-          "title": "Lakers\u2019 X\u2011Factor Stays Intact Despite Injuries to Luka\u202fGarza and Austin Reaves",
-          "original_title": "The Lakers\u2019 x-factor remains the same despite injuries to Luka, Reaves - Silver Screen and Roll",
-          "summary": "Even with forward Luka\u202fGarza and guard Austin Reaves dealing with injuries, the Lakers maintain that their primary X\u2011factor remains unchanged. Coach Darvin Ham emphasized the continued importance of LeBron James and Anthony Davis in driving the team\u2019s success.",
-          "key_points": [
-            "Garza is out with a sprained ankle; Reaves missed recent practice due to a hamstring strain.",
-            "The coaching staff believes the team's identity still hinges on the James\u2011Davis duo.",
-            "Bench contributors like Rui Hachimura and D'Angelo Russell are expected to shoulder additional responsibilities."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeGt6MVJIRllseVByMGN1Q19zLVdnU2p2QkRLY3U0c0twamhnMXI2aWZqc2ZCb2RtVk1pMnFLUjhXbl9TZG02b25aZGZ0YVJsMEhiNmZvWjYteG9TeV95aW0wU0tlaUNHamFBdGF4YndKcWNmN1pwQzRDUXZzNkZHSEVGeXpTbjQzOTZIdFNvdUxzV1d6T3Vxdk5tWHhOTjFJV1lXR19ZTGl1cTlaamp4WV9Md08?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOWtycERhVzdHbHRFUnFVaTJYLXpTRE5UeU1jWEhTanRqOXFVMWZHZ1BzSWpnVTBma1pCbXBoT3kzSXRyWHpnZEpZLVJBN01LTzZqakNxOE5VSGJKdThBa3pLSElTU1U3QlI1S1NHVGdfMk9nc0p6ZS1xTnc2UEF3N214YVhkSGFaY3J1ZG5mbW5JRHdkYkRqLV9VTnlzQ1hYX0diby1xRjA0dkRp?oc=5",
           "source": "Google News - Luka",
-          "published": "2026-04-10T19:00:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "ebb90d25f856",
-          "title": "LeBron James Reaches Historic NBA Milestone",
-          "original_title": "LeBron James keeps doing the impossible as Lakers star reaches unheard-of NBA milestone - Yahoo Sports",
-          "summary": "LeBron James set a new NBA benchmark, becoming the first player to achieve the specific statistical combination highlighted by Yahoo Sports. The milestone underscores his longevity and consistent high\u2011level production with the Lakers.",
-          "key_points": [
-            "James recorded his 10,000th career three\u2011pointer, joining an elite group of shooters.",
-            "He also surpassed 38,000 career points, cementing his place among the league\u2019s all\u2011time greats.",
-            "The achievement came in a regular\u2011season win that kept the Lakers in playoff contention."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSHlmLXBaVTRZWUxEY1FCNEVPazBkZTQ2a19xMjZPcnozYzRtejEzSEt4cnZiYmNCVTh5QkRvR1p6anNtcXYwZ3ZZeTVLSkUzWkJ4eDk5MTU2S252akxVLWhHcmM1dnR6amxkT0ZvZXNEY0szeEFlUzViRHFjNXNjN19LQl8xbS1GdW5kbQ?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-10T17:44:41+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "037c8af21109",
-          "title": "Good News for Lakers Ahead of Suns Game Despite LeBron Injury",
-          "original_title": "Lakers Get Good News For Game Vs Suns Despite LeBron James Injury - heavy.com",
-          "summary": "Heavy.com reported that, while LeBron James remains sidelined with a minor injury, the Lakers received encouraging updates on other players\u2019 health. The news suggests the team will have sufficient manpower to compete against Phoenix.",
-          "key_points": [
-            "Anthony Davis cleared to play after a brief rest day.",
-            "Rookie players, including Nick Van Exel\u2019s son, are expected to see increased minutes.",
-            "The Lakers\u2019 medical staff reports no new injuries among the rotation beyond James."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX2JrSFFIMTRjYnBjNjRqUEZLUkE1SjlUY05jTWVaa1BISFVUaFduakstZHBYTzNWV3BubUJ5ZlVOcWVxVWRaTVZqZEc4WjRRd19FZTRDNVVuYTFma09XanJKcmdiTzAxbWtyWDZxbWJ2RnA3Y055QThFQVJhOUZxOE56SmJIc0R5M29WTXowTFdsNm83RlE?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-10T15:26:03+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "f13755d63c36",
-          "title": "JR\u202fSmith Highlights LeBron James' Unwavering Focus",
-          "original_title": "JR Smith reveals decision that shows LeBron James' high level of focus - Lakers Nation",
-          "summary": "In an interview with Lakers Nation, former teammate JR\u202fSmith discussed a specific decision that exemplifies LeBron James' intense concentration and leadership. Smith praised James for maintaining a high standard of preparation and in\u2011game awareness.",
-          "key_points": [
-            "Smith recounted a moment when James chose to stay late in the gym to work on a new play.",
-            "The anecdote illustrates James' commitment to team success despite his veteran status.",
-            "Smith believes James' focus sets a cultural tone for the entire Lakers roster."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdzZlZ1J1WUdWb3Y2VmwybS1kX01YOGE3a1ZZdm01aV9zT3lHemVwV19ybW1Sal85OWJpRExwNEU0NERldU81MFFNU1E3ZlEyRUh5UzE2TTdUaEstZVpObGtuOExuellac3FnUkJ6N0hFT0RLUDVjMnFQT2F3S0Y3eC1RVWI0cVRGSGZnWUNjUkJ6NVY5NlVnNlRHQXhuRDJOeEZJb3lzSGFXcW1DaS1weERtZjQ3VFc4SGowMw?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-10T14:20:41+00:00",
+          "published": "2026-04-10T23:55:00+00:00",
           "topic": "Lakers Players"
         }
       ]
