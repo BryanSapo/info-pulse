@@ -1,19 +1,34 @@
 {
-  "generated_at": "2026-04-12T06:01:33.035977+00:00",
+  "generated_at": "2026-04-12T07:20:16.727135+00:00",
   "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
-          "id": "ee45e0ff7f0d",
-          "title": "Lakers Release Injury Report Ahead of Jazz Finale",
-          "original_title": "Lakers announce injury report for finale vs. Jazz: LA could miss all 3 stars - BasketNews.com",
-          "summary": "The Los Angeles Lakers announced their injury status for the regular\u2011season finale against the Utah Jazz, indicating that all three of their star players could be sidelined. The report raises concerns about the team's lineup heading into the playoffs.",
+          "id": "bc1a88b7159d",
+          "title": "NBA champion blasts 'dysfunctional' Lakers, demands Luka Doncic be shut down",
+          "original_title": "NBA champion blasts 'dysfunctional' Lakers, demands Luka Doncic be shut down - BasketNews.com",
+          "summary": "A recent NBA champion criticized the Los Angeles Lakers, calling the team dysfunctional and urging that Dallas Mavericks star Luka\u202fDoncic be taken out of the game. The comments were published on BasketNews.com and reflect frustration with the Lakers' performance.",
           "key_points": [
-            "LeBron James, Anthony Davis and another key starter are listed as questionable or out.",
-            "The injuries could force the Lakers to rely on bench depth in the final game.",
-            "The report comes as the Lakers aim to finish the season with a top seed."
+            "Champion labels the Lakers as \"dysfunctional\" amid recent struggles.",
+            "Calls for the Mavericks' Luka\u202fDoncic to be removed from play.",
+            "Comments were reported by BasketNews.com."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNjU2eGhka2lIQ2owX1VTSFBmQlZtaW50cjhQdWptV21TQWluS0s5OFZDZnFiOHhZeEVpaGtRTmJBZzlEanA1M2tCWm96bklaSjBjaE9IZE5Fc3EyekRGLVFzUTYzUVVBWmNacFplU1VPcjRPbm9QRWplMTA4dWFhTUhHWXlpNW93NTNIUXJQSzN3S1pXeGFYQ1JBYUxyRExuUVFPdGNRVWtLRl95MDJ3WXNlZw?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-12T05:31:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "ee45e0ff7f0d",
+          "title": "Lakers announce injury report for finale vs. Jazz: could miss all 3 stars",
+          "original_title": "Lakers announce injury report for finale vs. Jazz: LA could miss all 3 stars - BasketNews.com",
+          "summary": "Ahead of the regular\u2011season finale against Utah, the Lakers released an injury update indicating that LeBron James, Anthony Davis and Russell Westbrook are all questionable. The report suggests the team may be without its three primary contributors for the game.",
+          "key_points": [
+            "Injury status: LeBron James, Anthony Davis, Russell Westbrook all listed as questionable.",
+            "The updates were issued before the Lakers' final matchup with the Jazz.",
+            "Potentially playing without its three star players."
           ],
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbWprU0RYNFNzT0tqS3VVcFpBVVdnV21KN1diOU1hdENKa1lnRDQtZW52Z2U2YlR0b1dQa1dpUXhjUGdMSFNWTnpZMHBBN1JRcDFhMnZTYlZDc0ZlY0J0ZTIybDg5YjFpNkFBdXlrUUJVNkpDN3hKbU9KMEYxekc5VEJaZkhuRTlIYmliWWlBZzlueTN5QlpDZWtsOXRqR3pFX21QX2dwUHB2bzBn?oc=5",
           "source": "Google News - Lakers",
@@ -21,14 +36,29 @@
           "topic": "Lakers News"
         },
         {
-          "id": "d0e5fe61cb67",
-          "title": "K\u2011pop Group LE SSERAFIM Congratulates Lakers on Playoff Berth",
-          "original_title": "Kpop superstar group Lesserafim congratulated Lakers in making the playoffs.",
-          "summary": "Members of the K\u2011pop supergroup LE SSERAFIM posted a message congratulating the Los Angeles Lakers for securing a playoff spot. The post was shared on Reddit\u2019s r/lakers community.",
+          "id": "cc843c4d2175",
+          "title": "LeBron James makes major announcement before Jazz game",
+          "original_title": "Los Angeles Lakers Make LeBron James Announcement Before Jazz Game - heavy.com",
+          "summary": "Before the Lakers' game against Utah, LeBron James delivered a significant personal or team\u2011related announcement, as reported by heavy.com. The specifics of the announcement were not detailed in the brief source excerpt.",
           "key_points": [
-            "The congratulatory note was submitted by Reddit user /u/firminimagic.",
-            "It reflects the Lakers' growing cultural crossover appeal.",
-            "No additional details about the team's performance were provided."
+            "LeBron James addressed fans and media prior to the Jazz matchup.",
+            "Announcement described as \"major\" but details were not provided in the summary.",
+            "Story sourced from heavy.com."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZkhybGFpWFlQS3JlM3Y4Z1htWHh0UDBpS0xNM1RSTlVEMGhkNDlISU9UZDJXVmJscllfc0JDUmZkNS1DbEZ0MTVhdkN4dEpWQWlEUDJ3ME9kNWVYNmhfRmh4OC1BZ1JrMmNzd1pBRUdWbk1ieUZ1NExYMnd4LTl5TmdWbUJKM0VGdTFqWmxLMVQ5aXViZU9EN3lxUkFLa29y?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-12T04:42:39+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "d0e5fe61cb67",
+          "title": "K\u2011pop group LE SSERAFIM congratulates Lakers on playoff berth",
+          "original_title": "Kpop superstar group Lesserafim congratulated Lakers in making the playoffs.",
+          "summary": "A Reddit post highlighted that K\u2011pop supergroup LE\u202fSSERAFIM publicly congratulated the Los Angeles Lakers for reaching the NBA playoffs. The post was shared by user firminimagic on the r/lakers subreddit.",
+          "key_points": [
+            "LE\u202fSSERAFIM posted a congratulatory message to the Lakers.",
+            "The message was shared on Reddit's r/lakers community.",
+            "Celebrates the Lakers' entry into the postseason."
           ],
           "link": "https://www.reddit.com/r/lakers/comments/1sj3c93/kpop_superstar_group_lesserafim_congratulated/",
           "source": "Reddit r/lakers",
@@ -37,13 +67,13 @@
         },
         {
           "id": "52a80b1f6f24",
-          "title": "Derek Fisher\u2019s 2001 Playoff Highlights Re\u2011Shared by Fans",
+          "title": "Derek Fisher playoff highlights vs. Spurs (2001) shared on Reddit",
           "original_title": "Time to get psyched for playoffs! Derek Fisher Full Highlights vs Spurs 2001 WCF GM4 - 28 Pts, 11-13 FG, 6-7 3PT",
-          "summary": "A Reddit user uploaded a highlight reel of former Lakers point guard Derek Fisher\u2019s Game 4 performance against the San Antonio Spurs in the 2001 Western Conference Finals, where he scored 28 points on efficient shooting. The clip serves as a nostalgic reminder of the franchise\u2019s early\u20112000s success.",
+          "summary": "A Reddit user posted a highlight reel of Derek Fisher's performance in Game 4 of the 2001 Western Conference Finals against the San Antonio Spurs, showcasing 28 points, strong shooting, and clutch three\u2011pointers. The clip was shared to energize fans for the upcoming playoffs.",
           "key_points": [
-            "Fisher logged 28 points, shooting 11\u201113 from the field and 6\u20117 from three\u2011point range.",
-            "The video was posted by Reddit user /u/Life_Teaching6499 in the r/lakers community.",
-            "The highlight underscores Fisher\u2019s role in the Lakers\u2019 2001 championship run."
+            "Highlights feature Fisher's 28 points, 11\u201113 field\u2011goal shooting, and 6\u20117 from three.",
+            "Game 4 of the 2001 Western Conference Finals against the Spurs.",
+            "Posted on r/lakers to build playoff excitement."
           ],
           "link": "https://www.reddit.com/r/lakers/comments/1sj2aid/time_to_get_psyched_for_playoffs_derek_fisher/",
           "source": "Reddit r/lakers",
@@ -51,29 +81,14 @@
           "topic": "Lakers News"
         },
         {
-          "id": "cc843c4d2175",
-          "title": "LeBron James Makes Pre\u2011Game Announcement Before Jazz Matchup",
-          "original_title": "Los Angeles Lakers Make LeBron James Announcement Before Jazz Game - heavy.com",
-          "summary": "Heavy.com reported that LeBron James delivered a public announcement prior to the Lakers\u2019 regular\u2011season finale against Utah. The nature of the announcement was not detailed in the brief excerpt.",
-          "key_points": [
-            "The announcement occurred just before tip\u2011off at the Jazz game.",
-            "It was covered by heavy.com as a notable pre\u2011game moment.",
-            "Further specifics of the announcement were not included in the source snippet."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZkhybGFpWFlQS3JlM3Y4Z1htWHh0UDBpS0xNM1RSTlVEMGhkNDlISU9UZDJXVmJscllfc0JDUmZkNS1DbEZ0MTVhdkN4dEpWQWlEUDJ3ME9kNWVYNmhfRmh4OC1BZ1JrMmNzd1pBRUdWbk1ieUZ1NExYMnd4LTl5TmdWbUJKM0VGdTFqWmxLMVQ5aXViZU9EN3lxUkFLa29y?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-12T01:37:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
           "id": "464ec5001d12",
-          "title": "Lakers vs. Jazz Season Finale Preview: Lakers Aim for Sweep",
+          "title": "Lakers vs. Jazz Preview: Ending the Season on a High",
           "original_title": "Lakers vs. Jazz Preview: Ending the season on a high",
-          "summary": "Silver Screen and Roll previewed the Lakers\u2019 final regular\u2011season game against the Utah Jazz, noting the Lakers sit at 52\u201129 and have won the three prior meetings this season. The article highlights the opportunity for Los Angeles to complete a season sweep and finish the year on a high note.",
+          "summary": "The Los Angeles Lakers (52\u201129) host the Utah Jazz (22\u201159) in the final regular\u2011season game on Sunday. The Lakers have won the three previous meetings this year and are aiming to complete a season sweep against a team that is out of playoff contention.",
           "key_points": [
-            "Lakers hold a 52\u201129 record, while the Jazz are 22\u201159.",
-            "Los Angeles has already won three straight games against Utah this year.",
-            "The game is positioned as a chance to end the season with momentum heading into the playoffs."
+            "Lakers enter the game with a strong 52\u201129 record and a chance to finish the season on a winning note.",
+            "Jazz are tanking with a 22\u201159 record and have no postseason hopes.",
+            "Los Angeles leads the season series 3\u20110 and seeks a fourth straight victory."
           ],
           "link": "https://www.silverscreenandroll.com/lakers-game-previews/113977/lakers-vs-jazz-discussion-injury-report-how-to-watch-tv-stream-start-time-lebron-james",
           "source": "Silver Screen and Roll",
@@ -81,29 +96,29 @@
           "topic": "Lakers News"
         },
         {
-          "id": "7baa65bf8e4c",
-          "title": "Lakers Release Injury Report Ahead of Jazz Game",
-          "original_title": "Lakers release injury report for Sunday's game versus Jazz - Yahoo Sports",
-          "summary": "The Los Angeles Lakers posted their official injury report for the upcoming Sunday matchup against the Utah Jazz. The list details which players are questionable, doubtful, or out, giving fans and analysts insight into the roster\u2019s health status for the game.",
+          "id": "d48e8d4307e0",
+          "title": "Lakers vs. Jazz Preview: Ending the Season on a High \u2013 Yahoo Sports",
+          "original_title": "Lakers vs. Jazz Preview: Ending the season on a high - Yahoo Sports",
+          "summary": "Yahoo Sports republishes the same preview of the Lakers' final regular\u2011season matchup against the Utah Jazz, emphasizing the Lakers' opportunity to close the season with a win.",
           "key_points": [
-            "The report outlines the health status of each player, including any injuries or ailments.",
-            "Key contributors such as LeBron James or Anthony Davis are noted as either limited or unavailable, affecting lineup decisions.",
-            "Coaching staff will adjust rotations based on the report\u2019s information."
+            "The article mirrors the Silver Screen and Roll preview, focusing on the Lakers' 52\u201129 record.",
+            "It highlights the Lakers' desire to finish strong against a non\u2011playoff team.",
+            "No additional details beyond the basic matchup information are provided."
           ],
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUnl3X2tEOElPbjBWd0xmTUYzekFnWHE5SHBZZG1oWEc3NzctQzBXR1Qxa043bjBBSVM1X0dvc1pGc1FVSzRuaDdmMW9tVlBLTEQzSzJXQ0gzSDZ6TENNT2RFQ0RpclBmdm9ZSTZmVFRvR1hZanJ1M0JGREd1UEZnRUlMc0JXSS1yNkx6TnRn?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV09zM3djWWgyZV9PSEctTndLbEJieDBORE03RTFGa2pnZ3FaTml1UFBHMjUzS1lxRnkzWEk1U3NQTmtRcXB6U1k1SkU1NWdzRnhicmZtNWZpRUE3bFBGYU1sUkowcUxWYnJReHNmeG1xUDY3SnhLR01IN0tGUlVSZjVyNWQ?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-04-12T01:13:05+00:00",
+          "published": "2026-04-12T01:25:50+00:00",
           "topic": "Lakers News"
         },
         {
           "id": "9d428f50a3e9",
-          "title": "Reddit User Finds Childhood Lakers Poster After Grandmother\u2019s Passing",
+          "title": "Reddit User Finds Childhood Lakers Poster from 1988",
           "original_title": "Found my childhood Lakers poster ('88)",
-          "summary": "A Redditor shared a personal story about discovering a vintage 1988 Los Angeles Lakers poster while cleaning out their garage following their grandmother\u2019s death. The post sparked nostalgic comments from fellow fans.",
+          "summary": "A Reddit user shared a personal story about discovering a vintage 1988 Los Angeles Lakers poster while cleaning out their garage after their grandmother's passing. The post sparked comments and nostalgia among fellow Lakers fans.",
           "key_points": [
             "The poster dates back to the 1988 Lakers championship era.",
-            "The discovery was made while sorting through family belongings after a loss.",
-            "Community members responded with memories and appreciation for Lakers history."
+            "The discovery was made while sorting belongings from the user's late grandmother.",
+            "The Reddit thread generated community engagement and memories of the team's history."
           ],
           "link": "https://www.reddit.com/r/lakers/comments/1sj0hav/found_my_childhood_lakers_poster_88/",
           "source": "Reddit r/lakers",
@@ -111,29 +126,14 @@
           "topic": "Lakers News"
         },
         {
-          "id": "650048d661f8",
-          "title": "NBA Prediction: Could the Lakers Add Chris Paul?",
-          "original_title": "NBA Prediction: Los Angeles Lakers Add Chris Paul? - TWSN Sports",
-          "summary": "TWSN Sports published a speculative piece analyzing the likelihood and potential impact of the Los Angeles Lakers acquiring veteran point guard Chris Paul. The article examines roster fit, salary cap considerations, and on\u2011court implications.",
-          "key_points": [
-            "Chris Paul would provide veteran leadership and playmaking for a Lakers team seeking consistency.",
-            "Salary cap space and luxury tax implications are major hurdles to the trade.",
-            "The analysis weighs how Paul\u2019s skill set would complement LeBron James and Anthony Davis."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVlNBVXMyQlVvWllsWkJFeHhUYVBQaDRTQ1NPcjZ5ZTBpb1FxOS1yaU5XYzd2OWw0YjdsRjYxZ0pFbHlFZU1yLXdBbTRKRDdTUjQwT0YwWDYxQVN2U3dLQWNWNlgtNk9fT19hellSVTJsTGkyTkxrTGkxZzdUZ24xeHdVTQ?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-12T01:00:43+00:00",
-          "topic": "Lakers News"
-        },
-        {
           "id": "33976e48c665",
-          "title": "Reddit Discussion Highlights Psychological Toll of Luka Don\u010di\u0107\u2019s Hamstring Injury",
+          "title": "Psychological Impact of Luka Don\u010di\u0107\u2019s Hamstring Injury Discussed on Reddit",
           "original_title": "This might be of one of the most important, yet under-discussed aspect of the Luka Doncic 's Hamstring injury - psychological.",
-          "summary": "A Reddit thread explores the mental health aspects surrounding Luka Don\u010di\u0107\u2019s recent hamstring injury, suggesting that off\u2011court stressors may have contributed to his physical issues. Users discuss the broader impact of personal challenges on elite performance.",
+          "summary": "A Reddit discussion proposes that Luka Don\u010di\u0107\u2019s recent hamstring injury may have significant psychological components, citing his mental\u2011health challenges and personal stressors throughout the season as contributing factors.",
           "key_points": [
-            "The post links Don\u010di\u0107\u2019s custody battle and mental strain to his injury timeline.",
-            "Comments emphasize the importance of psychological support for high\u2011profile athletes.",
-            "The discussion underscores that injuries can have hidden mental\u2011health components."
+            "The user suggests Don\u010di\u0107 performed at a high level despite ongoing mental\u2011health struggles.",
+            "A custody battle is mentioned as an additional source of stress that could affect injury risk.",
+            "The thread emphasizes the need to consider mental health when evaluating player injuries."
           ],
           "link": "https://www.reddit.com/r/lakers/comments/1sizs5k/this_might_be_of_one_of_the_most_important_yet/",
           "source": "Reddit r/lakers",
@@ -142,13 +142,13 @@
         },
         {
           "id": "38a887aac017",
-          "title": "Reddit Debate: How Would a Prime Shaquille O'Neal Fit in Today\u2019s NBA?",
+          "title": "Speculating How a Prime Shaquille O'Neal Would Fit in Today's NBA",
           "original_title": "Prime Shaq in the modern NBA",
-          "summary": "A Reddit user asks how a prime early\u20112000s Shaquille O'Neal would perform in the modern, spacing\u2011oriented NBA, especially alongside elite perimeter shooters. The thread generates speculation about offensive potential and strategic fit.",
+          "summary": "Reddit users debate the potential impact of a prime 2000s Shaquille O'Neal in the modern, spacing\u2011oriented NBA, imagining a lineup that pairs his dominant post presence with elite perimeter shooters.",
           "key_points": [
-            "Participants consider Shaq\u2019s dominant post presence against contemporary defensive schemes.",
-            "The hypothetical lineup pairs Shaq with modern three\u2011point specialists to maximize spacing.",
-            "Debate centers on whether such a combination could become the most potent offense in NBA history."
+            "The scenario envisions Shaq anchoring a lineup surrounded by modern three\u2011point specialists.",
+            "Participants discuss whether such a combination could become the most potent offense ever.",
+            "The conversation highlights differences between past and present NBA playing styles."
           ],
           "link": "https://www.reddit.com/r/lakers/comments/1siywbi/prime_shaq_in_the_modern_nba/",
           "source": "Reddit r/lakers",
@@ -161,14 +161,29 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "8edc86473e12",
-          "title": "Portland\u2019s Protected Pick Could Land Chicago a Late First\u2011Round Selection",
-          "original_title": "FYI if Portland make the playoffs then Chicago will get their pick, which will be somewhere between the 15th-18th spot",
-          "summary": "If the Portland Trail Blazers qualify for the playoffs, their 2026 first\u2011round draft pick will convey to the Chicago Bulls, but it is protected for selections 1\u201114. The protection repeats for 2027 and 2028, and should a protected pick not be conveyed by 2028, Portland will instead send its 2028 second\u2011round pick to Chicago.",
+          "id": "55b2f26c444f",
+          "title": "Rockets vs. Grizzlies: Preview Highlights",
+          "original_title": "Houston Rockets vs. Memphis Grizzlies game preview",
+          "summary": "Yahoo Sports offers a brief preview of the upcoming matchup between the Houston Rockets and the Memphis Grizzlies. The author thanks readers and acknowledges contributors who helped with earlier previews while they were abroad.",
           "key_points": [
-            "Pick is protected for top\u201114 slots in 2026, 2027 and 2028.",
-            "If the pick falls outside the protected range, Chicago receives Portland\u2019s first\u2011rounder.",
-            "Failure to convey a first\u2011rounder by 2028 triggers a 2028 second\u2011round pick to Chicago."
+            "The article serves mainly as a thank\u2011you note to fans and contributors rather than an in\u2011depth game analysis.",
+            "It mentions past preview writers Xiane and Holly who assisted in January.",
+            "No specific player or tactical information about the Rockets or Grizzlies is provided."
+          ],
+          "link": "https://sports.yahoo.com/articles/houston-rockets-vs-memphis-grizzlies-040000000.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-12T04:00:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "8edc86473e12",
+          "title": "Portland Playoff Outcome Determines Chicago Draft Pick",
+          "original_title": "FYI if Portland make the playoffs then Chicago will get their pick, which will be somewhere between the 15th-18th spot",
+          "summary": "A Reddit post explains that if the Portland Trail Blazers make the playoffs, the Chicago Bulls will receive Portland's first\u2011round pick, protected for selections 1\u201114 in 2026\u20112028. If the pick is not conveyed by 2028, Portland will instead send its 2028 second\u2011round pick to Chicago.",
+          "key_points": [
+            "Portland's 1st\u2011round pick is protected for top\u201114 slots in 2026, 2027, and 2028.",
+            "If Portland makes the playoffs, the pick transfers to Chicago within the protected range.",
+            "Failure to convey the pick by 2028 triggers a transfer of Portland's 2028 second\u2011round pick instead."
           ],
           "link": "https://www.reddit.com/r/nba/comments/1sj2xqk/fyi_if_portland_make_the_playoffs_then_chicago/",
           "source": "Reddit r/nba",
@@ -177,13 +192,13 @@
         },
         {
           "id": "7e8efc57baad",
-          "title": "Sunday\u2019s MLB Time Schedule (EDT)",
+          "title": "Sunday\u2019s MLB Time Schedule (April 12)",
           "original_title": "Sunday's Time Schedule",
-          "summary": "Yahoo Sports lists the start times for a slate of Major League Baseball games on Sunday, April 12, all listed in Eastern Daylight Time. The schedule includes matchups across both leagues with kickoff times ranging from 1:35\u202fp.m. to 2:10\u202fp.m.",
+          "summary": "Yahoo Sports lists the start times for several Major League Baseball games on Sunday, April 12, all shown in Eastern Daylight Time. The schedule includes matchups across both leagues with kickoff times ranging from 1:35\u202fp.m. to 2:10\u202fp.m.",
           "key_points": [
-            "Arizona at Philadelphia \u2013 1:35\u202fp.m. EDT",
-            "San Francisco at Baltimore \u2013 1:35\u202fp.m. EDT",
-            "Multiple games (e.g., Yankees at Tampa Bay, Angels at Cincinnati) start at 1:40\u202fp.m. EDT"
+            "Games begin at 1:35\u202fp.m. EDT with Arizona vs. Philadelphia and San Francisco vs. Baltimore.",
+            "Additional games start between 1:37\u202fp.m. and 1:40\u202fp.m. EDT, featuring teams such as the Mets, Yankees, and Angels.",
+            "The final listed game, Washington at Milwaukee, starts at 2:10\u202fp.m. EDT."
           ],
           "link": "https://sports.yahoo.com/articles/sundays-time-schedule-025050543.html",
           "source": "Yahoo Sports NBA",
@@ -192,13 +207,13 @@
         },
         {
           "id": "eb1a544e3b99",
-          "title": "Utah Jazz Fan Survey Reveals What Fans Value Most",
+          "title": "Utah Jazz Fan Survey Reveals Player Valuations Ahead of Offseason",
           "original_title": "Utah Jazz fan survey results: Who do Jazz fans value most?",
-          "summary": "Yahoo Sports\u2019 latest \"Jazz Fan Reacts\" survey asks supporters which players and team directions they prioritize as the Jazz approach a pivotal offseason. The results will inform how Utah may address roster decisions moving forward.",
+          "summary": "Yahoo Sports reports results from the latest \"Jazz Fan Reacts\" survey, focusing on which players Utah fans value most as the team approaches a pivotal offseason. The findings suggest fans are weighing roster decisions that could shape the Jazz's future direction.",
           "key_points": [
-            "Survey targets fan preferences on player performance and roster moves.",
-            "Findings are expected to influence the Jazz\u2019s offseason strategy.",
-            "Highlights the importance of fan sentiment in Utah\u2019s decision\u2011making process."
+            "The survey captures fan sentiment on player importance during a potentially consequential offseason.",
+            "Results may influence the Jazz's roster strategy and personnel moves.",
+            "The article emphasizes the need for difficult decisions to improve the team's competitive position."
           ],
           "link": "https://sports.yahoo.com/articles/utah-jazz-fan-survey-results-024145141.html",
           "source": "Yahoo Sports NBA",
@@ -209,11 +224,11 @@
           "id": "bd1998e80475",
           "title": "Jazz Add Defense\u2011First Guard to Roster",
           "original_title": "Utah Jazz sign new new defense-first guard",
-          "summary": "The Utah Jazz have signed a new guard known for his defensive intensity, signaling a shift toward a more defense\u2011oriented lineup. The acquisition aligns with the team\u2019s broader strategic adjustments for the upcoming season.",
+          "summary": "Yahoo Sports announces that the Utah Jazz have signed a new guard known for his defensive abilities, signaling a strategic shift for the team. The signing reflects the organization\u2019s focus on strengthening its perimeter defense.",
           "key_points": [
-            "Signing emphasizes Utah\u2019s focus on defensive improvement.",
-            "New guard brings a reputation for strong perimeter defense.",
-            "Move reflects a strategic pivot in the Jazz\u2019s roster construction."
+            "The new guard is characterized as a \"defense\u2011first\" player.",
+            "The acquisition indicates a change in the Jazz\u2019s roster construction philosophy.",
+            "Details about the player's name, contract, or impact are not provided in the brief summary."
           ],
           "link": "https://sports.yahoo.com/articles/utah-jazz-sign-defense-first-013510284.html",
           "source": "Yahoo Sports NBA",
@@ -222,14 +237,10 @@
         },
         {
           "id": "6c11f073abda",
-          "title": "Lakers vs. Jazz Preview: Lakers Could Clinch No.\u202f3 Seed with Win",
+          "title": "Lakers vs. Jazz Preview: Ending the season on a high",
           "original_title": "Lakers vs. Jazz Preview: Ending the season on a high",
-          "summary": "Yahoo Sports previews the final regular\u2011season matchup between the Los Angeles Lakers and Utah Jazz, noting that a victory would allow the Lakers to finish the season on a high note and potentially move up to the No.\u202f3 seed in the Western Conference.",
-          "key_points": [
-            "A win would improve the Lakers\u2019 seeding, possibly to No.\u202f3.",
-            "Game serves as a momentum builder heading into the playoffs.",
-            "Both teams are looking to finish the regular season strong."
-          ],
+          "summary": "The Lakers can end the season on a high with a win and potentially move up to the No. 3 seed on Sunday.",
+          "key_points": [],
           "link": "https://sports.yahoo.com/articles/lakers-vs-jazz-preview-ending-012550680.html",
           "source": "Yahoo Sports NBA",
           "published": "2026-04-12T01:25:50+00:00",
@@ -237,14 +248,10 @@
         },
         {
           "id": "a3f4bcee972c",
-          "title": "Who Were the NBA\u2019s Top Players When Current Stars Were 13?",
+          "title": "Who were the best players in the league when the NBA's best players were 13 years old?",
           "original_title": "Who were the best players in the league when the NBA's best players were 13 years old?",
-          "summary": "Shai Gilgeous\u2011Alexander and Luka Don\u010di\u0107 were both 13 years old on April\u202f1,\u202f2012. The 2012 MVP voting leaders were LeBron James, Kevin\u202fDurant, Chris\u202fPaul, Kobe\u202fBryant and Tony\u202fParker, with Nikola\u202fJoki\u0107 and Giannis\u202fAntetokounmpo also age 13 at that time.",
-          "key_points": [
-            "LeBron James (27) led the 2012 MVP vote, followed by Kevin Durant (23) and Chris Paul (26).",
-            "Kobe Bryant was the only former MVP on the list still with the Lakers in 2012.",
-            "Both Nikola Joki\u0107 and Giannis Antetokounmpo were 13 on the same date, highlighting how the league\u2019s future stars were then children."
-          ],
+          "summary": "Shai Gilgeous-Alexander and Luka Doncic were 13 on April 1, 2012. The top MVP votegetters of 2012 were:   Rank Player Age Tm    1 LeBron James 27 MIA   2 Kevin Durant 23 OKC   3 Chris Paul 26 LAC   4 Kobe Bryant 33 LAL   5 Tony Parker 29 SAS   Nikola Jokic and Giannis Antetokounmpo were 13 on April 1, 2008. The top MVP votegetters of 2008 were:   Rank Player Age Tm    1 Kobe Bryant 29 LAL   2 Chris Paul 22 NOH   3 Kevin Garnett 31 BOS   4 LeBron James 23 CLE   5 Dwight Howard 22 ORL   Kevin Dura",
+          "key_points": [],
           "link": "https://www.reddit.com/r/nba/comments/1sj0tqo/who_were_the_best_players_in_the_league_when_the/",
           "source": "Reddit r/nba",
           "published": "2026-04-12T01:25:06+00:00",
@@ -252,14 +259,10 @@
         },
         {
           "id": "b4809cc36d79",
-          "title": "Kevin Durant Caps 18th Season with 26 PPG on Efficient Splits",
+          "title": "Kevin Durant ends his 18th season playing 78 games averaging 26 PPG on 52/41/87 splits \u2014 90% of his field goal attempts were jump shots.",
           "original_title": "Kevin Durant ends his 18th season playing 78 games averaging 26 PPG on 52/41/87 splits \u2014 90% of his field goal attempts were jump shots.",
-          "summary": "Kevin Durant finished the 2025\u201126 season playing 78 games, averaging 26 points, 5 rebounds and 4 assists while shooting 52% from the field, 41% from three and 87% from the free\u2011throw line. Approximately 91% of his 1,376 field\u2011goal attempts were jump shots, with only 128 attempts coming from at\u2011the\u2011rim or other non\u2011jump shots.",
-          "key_points": [
-            "Durant posted a 26\u20115\u20114 stat line on 52/41/87 shooting splits.",
-            "Jump shots accounted for 91% of his total field\u2011goal attempts.",
-            "He played in 78 of the team's 82 games, marking a durable 18th season."
-          ],
+          "summary": "Source: https://www.nba.com/stats/players/shooting?DistanceRange=By+Zone&amp;Season=2025-26&amp;PerMode=Totals Kevin Durant ends his 18th season averaging 26/5/4 on 52%/41%/87% splits. 91% of his field goal attempts were jumpers. Out of his 1,376 total field goal attempts only 128 of them came directly at the rim whether it was a layup or a dunk. A remarkable shot chart.  &#32; submitted by &#32;  /u/Fire_Demon-215   [link] &#32; [comments]",
+          "key_points": [],
           "link": "https://www.reddit.com/r/nba/comments/1sj0rjm/kevin_durant_ends_his_18th_season_playing_78/",
           "source": "Reddit r/nba",
           "published": "2026-04-12T01:22:06+00:00",
@@ -267,14 +270,10 @@
         },
         {
           "id": "2a2bd6d3a460",
-          "title": "Nuggets Rest Core, Jokic Listed as Questionable",
+          "title": "Nuggets sit several players; Jokic questionable",
           "original_title": "Nuggets sit several players; Jokic questionable",
-          "summary": "The Denver Nuggets chose to sit most of their regular rotation for the upcoming game against the San Antonio Spurs, with three\u2011time MVP Nikola Joki\u0107 marked as questionable on the injury report. The move reflects the team's management of player minutes as the season progresses.",
-          "key_points": [
-            "Majority of the Nuggets' rotation will be rested versus the Spurs.",
-            "Nikola Joki\u0107 is listed as questionable, though no specific injury was disclosed.",
-            "The decision is part of broader load\u2011management strategy."
-          ],
+          "summary": "The Nuggets are resting the majority of their rotation vs. the Spurs on Sunday, and three-time MVP Nikola Jokic is listed as questionable.",
+          "key_points": [],
           "link": "https://www.espn.com/nba/story/_/id/48461175/nuggets-sit-several-players-vs-spurs-jokic-questionable",
           "source": "ESPN NBA",
           "published": "2026-04-12T01:10:32+00:00",
@@ -282,30 +281,11 @@
         },
         {
           "id": "d54e470ec6ca",
-          "title": "Victor Wembanyama Reaches 65\u2011Game Eligibility Mark with 40\u2011Point Performance",
+          "title": "Wembanyama checks another 'box,' hits 65 games",
           "original_title": "Wembanyama checks another 'box,' hits 65 games",
-          "summary": "Victor Wembanyama hit the 65\u2011game threshold required for award eligibility, delivering a 40\u2011point, 13\u2011rebound effort in the Spurs' 139\u2011120 victory over the Dallas Mavericks. The performance solidified his status as a leading contender for league honors.",
-          "key_points": [
-            "Wembanyama scored 40 points and grabbed 13 rebounds against Dallas.",
-            "The win gave him his 65th game of the season, meeting award eligibility criteria.",
-            "The Spurs defeated the Mavericks 139\u2011120."
-          ],
+          "summary": "Victor Wembanyama reached the 65-game threshold for awards eligibility with a 40-point outing that included 13 rebounds in a 139-120 win over the Mavericks.",
+          "key_points": [],
           "link": "https://www.espn.com/nba/story/_/id/48453963/wembanyama-40-points-13-rebounds-hits-65-games-checks-another-box",
-          "source": "ESPN NBA",
-          "published": "2026-04-12T01:10:32+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "2fcb13066079",
-          "title": "Celtics Tie NBA Record with 29 Threes to Secure No.\u202f2 Seed",
-          "original_title": "Celtics tie NBA record with 29 3s, clinch 2-seed",
-          "summary": "Boston matched both the franchise and NBA record by making 29 three\u2011pointers in a dominant win over the New Orleans Pelicans, clinching the Eastern Conference\u2019s second playoff seed. The shooting display underscored the Celtics\u2019 offensive firepower heading into the postseason.",
-          "key_points": [
-            "Boston hit 29 three\u2011point shots, tying the NBA record.",
-            "The victory secured the Eastern Conference\u2019s No.\u202f2 seed.",
-            "The Celtics defeated the Pelicans in a blowout win."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48453131/celtics-tie-nba-record-29-3s-clinch-no-2-seed",
           "source": "ESPN NBA",
           "published": "2026-04-12T01:10:32+00:00",
           "topic": "NBA League News"
@@ -316,89 +296,69 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "bc1a88b7159d",
-          "title": "Champion Calls Lakers 'Dysfunctional' and Wants Luka Doncic Shut Down",
-          "original_title": "NBA champion blasts 'dysfunctional' Lakers, demands Luka Doncic be shut down - BasketNews.com",
-          "summary": "A recent NBA champion criticized the Los Angeles Lakers as a \"dysfunctional\" team and argued that star guard Luka\u202fDoncic should be taken out of games to limit his impact. The comments were made in a BasketNews.com interview and reflect growing frustration with the Lakers' defensive schemes.",
-          "key_points": [
-            "Champion labels the Lakers' current roster and chemistry as dysfunctional.",
-            "Calls for opposing teams to shut down Luka\u202fDoncic to reduce his scoring threat.",
-            "Highlights concerns about the Lakers' defensive identity and need for adjustments."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNjU2eGhka2lIQ2owX1VTSFBmQlZtaW50cjhQdWptV21TQWluS0s5OFZDZnFiOHhZeEVpaGtRTmJBZzlEanA1M2tCWm96bklaSjBjaE9IZE5Fc3EyekRGLVFzUTYzUVVBWmNacFplU1VPcjRPbm9QRWplMTA4dWFhTUhHWXlpNW93NTNIUXJQSzN3S1pXeGFYQ1JBYUxyRExuUVFPdGNRVWtLRl95MDJ3WXNlZw?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-04-12T05:31:00+00:00",
+          "id": "00d78e361700",
+          "title": "LeBron James sends message of support to Van der Poel - IDLprocycling.com",
+          "original_title": "LeBron James sends message of support to Van der Poel - IDLprocycling.com",
+          "summary": "LeBron James sends message of support to Van der Poel&nbsp;&nbsp;IDLprocycling.com",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNUxQLWh6Z3hFZHRlUjhEWUJqR1E2QXlFRFJ3a3FNYUdkdHRxaTc2MUNfUXM5dVhBbmNKYjNzRHAxeHdoeVNPVEZJaUNpeWJxa2N0LWR4R2prQ05qb1NhaXVGV0d0enRvM1d6TlBvLWkyQ2hQUGhvQkJMRFJhbk1oVld4Xy1qcWJmbWhpN1hJbEpwWVVJck1peTdmN2xHZk5CVl9yVi1TU0c1eHlsclQyclh4QmpYNnNCTnJZUXZwUHQ?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-04-12T06:48:02+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "7b636b723c82",
+          "title": "Carlos Boozer on biggest difference between Kobe Bryant and LeBron James: \"Kobe believes he can do it by himself\" - Yahoo Sports",
+          "original_title": "Carlos Boozer on biggest difference between Kobe Bryant and LeBron James: \"Kobe believes he can do it by himself\" - Yahoo Sports",
+          "summary": "Carlos Boozer on biggest difference between Kobe Bryant and LeBron James: \"Kobe believes he can do it by himself\"&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeWJBQ2dhU0ExOWRsQTRBLVpDTHZ0MkpGN21ROXRiTGpqXzlpMjlnVU9lRzVHNDlsY255TldJZFh2VGVpNDljdnB4bUlHN1hyQkRGTlRhaTF3RjJjN1J0Z19xblJtUEVhMllTazlxUmctbzZLTzVTY1BRTjB2MU5sVUlBOGRGNlpkYXU3akh5ZEpXQ1U?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-04-12T02:39:00+00:00",
           "topic": "Lakers Players"
         },
         {
           "id": "661dc19998bd",
-          "title": "Carlos Boozer Compares Kobe Bryant\u2019s Solo Mindset to LeBron James\u2019 Team Approach",
+          "title": "Carlos Boozer on biggest difference between Kobe Bryant and LeBron James: \"Kobe believes he can do it by himself\" - Basketball Network",
           "original_title": "Carlos Boozer on biggest difference between Kobe Bryant and LeBron James: \"Kobe believes he can do it by himself\" - Basketball Network",
-          "summary": "Former NBA forward Carlos Boozer explained that Kobe Bryant believed he could win games on his own, whereas LeBron James relies more on teammates and shared responsibility. The insight was shared on Basketball Network, emphasizing differing leadership styles between the two Lakers legends.",
-          "key_points": [
-            "Boozer says Kobe trusted his individual ability to carry a team.",
-            "LeBron is described as a more collaborative leader who involves teammates.",
-            "The contrast underscores how each player\u2019s mindset shaped their respective eras."
-          ],
+          "summary": "Carlos Boozer on biggest difference between Kobe Bryant and LeBron James: \"Kobe believes he can do it by himself\"&nbsp;&nbsp;Basketball Network",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN0JRc0dUZThJVWFpQWZkQU9uRnAxZTBoaEtBaUR0RWRjam1mOUl2aWlOZDBuT1p4TlR2UHQ5RU9GSzBxWGt1NlFRSUNTazFrUmVLaERsMzlwYWV5cTI4Tl9fNVNEZk5yRTRfODd1NGJoOVdYU1JNU2pmQTRZbFV3RXFTb05uZmtxdFBkWUdVSlF6RmxMOHVlbEJxSWdIOXZ1RHhJTl9aWXBERHRWSGo0S2dPOVJxUkRmRkY5MFM3eWItSEZJdnhmWA?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-04-12T02:39:00+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "1f2d6ecd285e",
-          "title": "JJ Redick Says LeBron James Embraces Revitalized Role as Lakers\u2019 Primary Leader",
-          "original_title": "LeBron James has accepted his revitalized role as the main man according to JJ Redick - Yahoo Sports",
-          "summary": "JJ Redick reported that LeBron James has accepted a renewed, more central role on the Los Angeles Lakers, focusing on leading the team both on and off the court. The Yahoo Sports piece notes that James is adjusting his play to become the main catalyst for the Lakers\u2019 success.",
-          "key_points": [
-            "LeBron acknowledges his position as the Lakers\u2019 primary on\u2011court leader.",
-            "He is adapting his game to create more opportunities for teammates.",
-            "Redick highlights James\u2019 willingness to shoulder greater responsibility."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTW9DR09LZExhWG13Sk1rTlBBazU3SzNLcWJJOGkwLXNOdUl2cl8tZk9zRHJralMtdk44Ty1GM3o2OXd5VXBGVXJVRXpEaTd0TkRFMUxsM000M1ZkV21fcWtiU05pbGJIVWR4bS1pYm45TXdCVEJXbEFERURKSjNHYWxnRXFydklVbFc5dHYyQ2E?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-12T01:49:38+00:00",
-          "topic": "Lakers Players"
-        },
-        {
           "id": "52a9394f6381",
-          "title": "JJ Redick Confirms LeBron James\u2019 Acceptance of a Revitalized Leadership Role",
+          "title": "LeBron James has accepted his revitalized role as the main man according to JJ Redick - sportingnews.com",
           "original_title": "LeBron James has accepted his revitalized role as the main man according to JJ Redick - sportingnews.com",
-          "summary": "SportingNews.com echoes earlier reports that LeBron James has embraced a refreshed leadership role with the Lakers, as noted by analyst JJ Redick. The article stresses James\u2019 commitment to guiding the team through a transitional phase.",
-          "key_points": [
-            "Redick reiterates James\u2019 acceptance of a heightened leadership mantle.",
-            "James is focusing on both scoring and facilitating for the roster.",
-            "The Lakers view his role as pivotal for navigating the season\u2019s challenges."
-          ],
+          "summary": "LeBron James has accepted his revitalized role as the main man according to JJ Redick&nbsp;&nbsp;sportingnews.com",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVV9Bc2hQRmhEdnRWa2NVSUtvc0x1NjlPTkVRaEZ0YVNXSkc4VzNmNjZ1VGU2SE13aXVXejZtVm84ckZxZXRyYnZ0OXhSYnM0ZGJQVGM2ckphZmx6ZTVWT3JxclBnM1hNOTMxNHR4cGNESnl3SVo0c3hvQ0ptRHRfWmt1OTk4eXUyNTMwSmpXM0s3QlYyWGNHYnFJS0JDdEtad200LU41NTBzTjl0enhCaW9aSWNPZUxWanRfS0duVk5YMWZiVUZJalN5YmhhSWxWQU9qMUNJQkpRakE?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-04-12T01:49:38+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "84679908e20c",
-          "title": "LeBron James and Jaxson Hayes Questionable for Lakers vs. Utah",
-          "original_title": "LeBron James, Jaxson Hayes listed as questionable against Utah - HoopsHype",
-          "summary": "HoopsHype reports that both LeBron James and rookie forward Jaxson Hayes are listed as questionable for the upcoming game against the Utah Jazz due to minor injuries. Their status will be monitored closely as the Lakers prepare for the matchup.",
-          "key_points": [
-            "LeBron James and Jaxson Hayes are listed as questionable for the Utah game.",
-            "Injuries are described as minor, but could affect rotation decisions.",
-            "Lakers will assess player health before finalizing the lineup."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSko2d0ZxOWtvNFV1bzc3c05BR2ZrU2pIQ2VHNnZ6ZW5sNVBrdmdmNGd2MFNfRU5mVmt3cVVRNVU3VGZPYzMyOU9zQVFBeWxWM2lMZGNaRGE0akZvTXlJcE03YmVmVVg3UWdoUlNyYjU3RUQ2SUVjYi1UanJXX2dKNnVWUUstYUtsQ1Myb3FMYlBySFVMTWRnSGw4eFpNZFY1TjRLUDhmOGNlSXRIWFFpV3VyQkhZallLTjl1WUpTcnk2WnNNX09haVlJa1hnWUt6?oc=5",
+          "id": "1ad99c9ee29a",
+          "title": "Lakers Injury Report: LeBron James & Jaxson Hayes Questionable Vs. Jazz - Lakers Nation",
+          "original_title": "Lakers Injury Report: LeBron James & Jaxson Hayes Questionable Vs. Jazz - Lakers Nation",
+          "summary": "Lakers Injury Report: LeBron James & Jaxson Hayes Questionable Vs. Jazz&nbsp;&nbsp;Lakers Nation",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVEIydFp2N0tVV0l0bW92YXRnM1BBajBqMWV1LWNVYU9YNmh1WC1yREYyV3g4NjhZZ0tYWDVEc0xmSWd0VzRLNHFDT1RJOXN3UUFZRkdyWGFmWGw4RWtYZXZJZWZYMjRFMHZBbU5veVplQzBVQU5oZkc3bzI5VUdJYU5UREU2QXFFUGZYWlQwaTNfWG5iam5XRQ?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-04-12T01:01:00+00:00",
+          "published": "2026-04-11T23:52:47+00:00",
           "topic": "Lakers Players"
         },
         {
           "id": "be0782801ec2",
-          "title": "Luke Kennard Embraces Full\u2011Circle Role Beside LeBron James",
+          "title": "Luke Kennard Embraces \u2018Full Circle\u2019 Role with LeBron James",
           "original_title": "Lakers\u2019 Luke Kennard relishing \u2018full circle\u2019 role with LeBron James - Orange County Register",
-          "summary": "Luke Kennard said he is enjoying his new role with the Los Angeles Lakers, describing it as coming full circle after previously playing with LeBron James in Cleveland. Kennard highlighted the mentorship he receives and how his skill set fits the team\u2019s current needs.",
+          "summary": "Luke Kennard said he feels his career has come full circle now that he is playing alongside LeBron James on the Los Angeles Lakers. He highlighted the mentorship and on\u2011court chemistry he\u2019s developing with the veteran star and expressed excitement about contributing to the team\u2019s success.",
           "key_points": [
-            "Kennard reunited with LeBron James, now as a Lakers teammate.",
-            "He views his role as a blend of shooting, spacing and veteran guidance.",
-            "Kennard credits the Lakers\u2019 culture and coaching staff for his smooth transition."
+            "Kennard views playing with LeBron as a career milestone and learning opportunity.",
+            "He expects his shooting and spacing to complement the Lakers\u2019 offense.",
+            "Kennard is focused on staying healthy and earning consistent minutes."
           ],
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV1g1ME1YUDRMdHVvNVNOdTVhcHgwdVFkeWZndHh1UDJwVGc1cHBjTmV6NXhaX0pOTmxHQ2tGaWZFY2Z5R2VjTHNIQllqTFVTdk42dVYySkJjbW5QZE96MFpjb093U280a291akdiMVl6LWhmVU5hNnhhNXdFM05iTWdIR1RrUFYtYnlsalMtS0hUZHRLYUFoenF0eThpeV9qVVZER3pB?oc=5",
           "source": "Google News - LeBron",
@@ -406,29 +366,44 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "ee9eebd17ac2",
-          "title": "Carlos\u202fBoozer Questions Kobe\u2019s Absence From GOAT Debate",
-          "original_title": "\"All the stuff that LeBron is breaking were Kobe's records\" - Carlos Boozer wonders why Kobe Bryant is left off the GOAT debate - Basketball Network",
-          "summary": "Former NBA forward Carlos Boozer argued that many of LeBron James\u2019 recent record\u2011breaking achievements are actually surpassing milestones set by Kobe Bryant, and wondered why Kobe is often omitted from greatest\u2011of\u2011all\u2011time discussions. Boozer emphasized Kobe\u2019s impact and legacy in the conversation.",
+          "id": "ca2580b611c1",
+          "title": "Luka Don\u010di\u0107 Leaves Game Against Thunder Due to Limp",
+          "original_title": "Los Angeles Lakers star Luka Doncic limps out of a game against the Oklahoma City Thunder - themercury.com",
+          "summary": "Luka Don\u010di\u0107 exited early in the Lakers\u2019 matchup with the Oklahoma City Thunder after developing a limp. The injury was not immediately classified as serious, and the team monitored his condition on the bench.",
           "key_points": [
-            "LeBron has recently broken several records previously held by Kobe.",
-            "Boozer highlighted Kobe\u2019s scoring, championships, and cultural influence.",
-            "The comment sparked debate about criteria used in GOAT rankings."
+            "Don\u010di\u0107 left the game in the first half with a noticeable limp.",
+            "No immediate diagnosis was provided; medical staff evaluated him on the sideline.",
+            "The Lakers will reassess his status for upcoming games."
           ],
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc3JWZTZFVHVKeThkVjRVZERBcmFzeXA3N0RiSWJuQ21mSU1WcHlFcUUyWTQ4anA2V19JZWhWYndrM2lRTXFUbkpIQkRGUmU1U3B4WUVXX0NNenRqdldheGd6a1h4RmFRbkR4dHhZNzdHMFdHYXJKVnlXVWltUXVRcWFoWFN6RmxKeGRvY3NpWmtsVi1KYjhfNWhzTlpmbWE0ZV9wRFN3TVh6SktpSFNObXg0MA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPekVPemY3elhpUzdtVTBhUEt2Zmh5TngtN0psN0xfZGdTdXNXbGJDV2c0Y0s4V2VqQ1hrNUdBZzEzdjRDRHF4NGNBdXU2eGdUVFVHLWFoa01YN0dENFFxTEhDRlczMzhfbVBheUs2TnVrS0IwOWhPSkRtRjFKYUVOVG0tcFhtZC1uVFFXRXI1MGwzVGJnc2d6UER0NklYMk56SzhkbE43WmhDcEMyWkxjTVJpM0kwUzdSeUpaeEZXUUd6eEVodHN2TVZRbFFicXAwVUJsZDJGeFJJR0s3WC15d1Q4WTQ1RUhjTFBYYjNLLW45Snpob3NKcW5n?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-04-11T22:03:31+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "0568f2f841e2",
+          "title": "LeBron Reverts to Classic Playmaking to Compensate for Don\u010di\u0107\u2019s Absence",
+          "original_title": "LeBron James Goes Back to Old Ways to Keep Lakers Alive Without Luka Doncic - Sports Illustrated",
+          "summary": "With Luka Don\u010di\u0107 sidelined, LeBron James has returned to his traditional playmaking style, emphasizing post\u2011up moves and facilitating teammates. The adjustment aims to keep the Lakers competitive while the team awaits Don\u010di\u0107\u2019s return.",
+          "key_points": [
+            "LeBron is using his veteran skill set to create scoring opportunities for others.",
+            "The Lakers have seen a modest offensive uptick despite Don\u010di\u0107\u2019s injury.",
+            "Coaches expect the approach to be temporary until Don\u010di\u0107 is cleared."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRGhRRDY0Ykc1Tm1vX24yNDFVMmMtQVpxUUY1dUE4RUZLSTBmdFppNk94c01VTGtaTDZ1THdoeGpsalBpYUoyRzNrSXRzRk9pMXhyN01VNVhtM29rSWVRek9HaTV4V3Rudy1IVmNJb1pzOUpfZHkwT201WHdWdnNYSzFqS25qUFc5UFh0VDRDUDkyTldLRUV1VmRyR0NlNnAxOFJhVWVxU3pxdWlWTE93X2UxQVlQdw?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-04-11T22:03:00+00:00",
+          "published": "2026-04-11T20:30:00+00:00",
           "topic": "Lakers Players"
         },
         {
           "id": "9d834cd1a4cc",
           "title": "LeBron Calls Shai Gilgeous\u2011Alexander\u2019s Scoring \u2018Jordan\u2011esque\u2019",
           "original_title": "LeBron James on Shai Gilgeous-Alexander's scoring: 'It\u2019s Jordan-esque' - OKC Thunder Wire",
-          "summary": "LeBron James praised OKC guard Shai Gilgeous\u2011Alexander\u2019s recent scoring outbursts, likening his ability to take over games to that of Michael Jordan. James highlighted Gilgeous\u2011Alexander\u2019s blend of efficiency and clutch performance.",
+          "summary": "After watching the Oklahoma City Thunder\u2019s guard, LeBron James praised Shai Gilgeous\u2011Alexander\u2019s scoring ability, likening it to Michael Jordan\u2019s style. James highlighted Gilgeous\u2011Alexander\u2019s footwork, mid\u2011range game, and clutch mentality.",
           "key_points": [
-            "LeBron described Gilgeous\u2011Alexander\u2019s scoring runs as \u201cJordan\u2011esque.\u201d",
-            "He noted the guard\u2019s high shooting percentages and ability to dominate late\u2011game moments.",
-            "The compliment underscores growing league\u2011wide respect for Gilgeous\u2011Alexander."
+            "LeBron noted Gilgeous\u2011Alexander\u2019s ability to create his own shot from any spot on the floor.",
+            "The comment underscores the respect between NBA stars across conferences.",
+            "Gilgeous\u2011Alexander\u2019s performance continues to elevate his reputation as a rising elite scorer."
           ],
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSGF4Rk5CeDBHWUxsNk5ZcHNDajlicmZET0NhYVJwODA4Q0ExX2hJNlpfQVgyeVg5VnY0ZW5kc2liMmpNTENPNEIydXV5OHItbDZZOWRkWThNcWNsQi1vS041X3NmTnNDMFhPVzJpZTg2UWxKTWVCcEdWb19XcklTdFYwUjBJbHNHbVBhWl9tMFI3aWtVZUw2d2ZnYWRhckszbDBVM01NdlZYbTdpUl9iNElvbjVTXzNDbV9WWUxLT1FUTUY0Rk95RDZmc2lWZWxzUTFDLTFhdUlaZDZPb1VxRWR5X3o?oc=5",
           "source": "Google News - LeBron",
@@ -436,33 +411,18 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "2f92a89ad501",
-          "title": "Lakers Update: LeBron\u2019s Health, Playoff Seed Outlook, Kennard\u2019s Role, Vanderbilt Rumors",
-          "original_title": "Lakers Notes: LeBron, Playoff Seed, Kennard, Vanderbilt - Hoops Rumors",
-          "summary": "A roundup from Hoops Rumors covered LeBron James\u2019 latest health status, the Lakers\u2019 positioning for a playoff seed, Luke Kennard\u2019s contributions, and circulating rumors linking the team to Vanderbilt guard Jaden\u202fMcDaniels. The piece provided a snapshot of the Lakers\u2019 short\u2011term outlook.",
+          "id": "3273d206bd49",
+          "title": "Luka Don\u010di\u0107 Reunites with Daughters Amid Ongoing Custody Battle",
+          "original_title": "Lakers Luka Doncic Reunites With Daughters Amid Custody Battle - Sports Illustrated",
+          "summary": "Luka Don\u010di\u0107 spent time with his two daughters during a brief break from Lakers duties, as his custody dispute remains unresolved. The meeting was described as a personal highlight for Don\u010di\u0107 amid the season\u2019s pressures.",
           "key_points": [
-            "LeBron remains active with no new injury concerns reported.",
-            "The Lakers are positioned near the 6th\u20118th seed range in the Western Conference.",
-            "Kennard continues to provide perimeter shooting, while Vanderbilt rumors remain unconfirmed."
+            "Don\u010di\u0107\u2019s daughters visited him in Los Angeles while legal proceedings continue.",
+            "He emphasized the importance of family stability despite his demanding schedule.",
+            "The custody case remains active, with no final resolution reported."
           ],
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOWlDNjBHMWhKb1lkM0hOSzB3NGhyVV9Ua0RqU3ByRERHWERoRGJOV0JOSC1faXRGR1I2VlJCckY1Z2huTHpVZXdfbTMzN3REOXZTWUxJa1lNLU5iSjRlV2lGbXVkd3JiS2szd2VlN0xjTzhlVFBoYzZSSmJPeDJYcVF4bVdZMWJqMnpQeHF3OHFOYm1jV1BV?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-11T19:21:41+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "8fb0aa3add3b",
-          "title": "LeBron James Gives Pep Talk to His Paris\u2011Roubaix Pick",
-          "original_title": "\u2018Go make history\u2019: Lebron James shared a pre-race pep-talk with his Paris-Roubaix pick - Canadian Cycling Magazine",
-          "summary": "In a crossover appearance, LeBron James recorded a motivational message for a cyclist competing in the Paris\u2011Roubaix classic, urging the rider to \u201cgo make history.\u201d The gesture highlighted James\u2019 interest in sports beyond basketball.",
-          "key_points": [
-            "LeBron recorded a pre\u2011race pep talk for a Paris\u2011Roubaix participant.",
-            "He encouraged the rider to seize the moment and aim for a historic performance.",
-            "The story illustrates LeBron\u2019s growing presence in international sports media."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVGx1Ukc3U01vSVBuSmQ3QVdBME5POFRDbW5lT2JUWXE1aDBhb0NKQnZNNGNnMzRqdWQ1MzFYUWt1dUdSWmtlbXlybnNabjdfMUlBRVVoRkhXM0ZoaWE1QnpmeGY4QmY1cURQT0c1T195R1NRNlllSUp2NWx4QTdVSGJiYkVkczMtVWpyZUE5S1RNYzBNbG0tRzFhSjA2ZHlmMW41Y0tRZGJpMWJacVE?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-11T19:09:15+00:00",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONFR4QVhienZ0OWh6aVVwXy1zWDY5OHFrQTZfeldhQ0pSTC1MTXV3clR4b0JlRTNUSUZ4REE1ZUpaMHVYN1p0bkpsazVXVjg0S2Y4bUFVYTZSY05xeFVXQmZ6ZEdFOHpjYkdtWEhkQnJkRGRRWUhpaEZoc0d3ajNQMmlYVkxuZzBHdy1IRGVqbUJxTzB4bldPdURoR3k0d1IzZm9Baw?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-04-11T19:30:00+00:00",
           "topic": "Lakers Players"
         }
       ]
