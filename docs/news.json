@@ -1,41 +1,83 @@
 {
-  "generated_at": "2026-04-14T22:47:57.549226+00:00",
+  "generated_at": "2026-04-15T02:44:45.775161+00:00",
   "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
+          "id": "7fa59a42e3b6",
+          "title": "Opponents Expect Austin Reaves Back for Lakers\u2011Rockets First Round",
+          "original_title": "Lakers playoff opponents expecting Austin Reaves to return in first round vs. Rockets",
+          "summary": "The Lakers entered the first\u2011round series against the Rockets with uncertainty surrounding the health of stars Luka Don\u010di\u0107 and Austin Reaves. While Don\u010di\u0107\u2019s timeline remains unclear, opponents anticipate that Reaves will be cleared to play before the series begins.",
+          "key_points": [
+            "Luka Don\u010di\u0107 and Austin Reaves are both dealing with injuries and have no definitive return dates.",
+            "Rockets and other potential opponents expect Reaves to be available for Game 1.",
+            "The Lakers\u2019 roster depth and game plan will be impacted until the stars are cleared."
+          ],
+          "link": "https://www.silverscreenandroll.com/lakers-injury-report/114218/austin-reaves-lakers-injury-report-oblique-return-timeline",
+          "source": "Silver Screen and Roll",
+          "published": "2026-04-15T00:00:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "f124374c8912",
+          "title": "Lakers Emphasize Rebounding Ahead of Rockets Playoff Series",
+          "original_title": "Lakers prepare for Rockets playoff series with emphasis on rebounding - Los Angeles Times",
+          "summary": "In preparation for the first\u2011round matchup with the Houston Rockets, the Los Angeles Lakers are focusing on improving their rebounding performance. Coaching staff highlighted the need to control the boards to compensate for missing offensive firepower from injured stars.",
+          "key_points": [
+            "Rebounding is being prioritized in practice and game planning.",
+            "Improved board control is seen as essential to offset the loss of Luka Don\u010di\u0107 and Austin Reaves.",
+            "The Lakers aim to limit second\u2011chance opportunities for the Rockets."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZU1XLTdmVDUzT2hZT0lXZXVoUjNtVzk2WG1EdkYwNE5SZ0xMUlo0cVo3dlU3eU8xQjBUQjhVZFVySTRMOXhCTjVYTjEzMmRaZFFickZlMjY4NWRFZkZ3UkM2X1RCWU00bmxVTXJnMHA2RTQwampfTE11Z2lNbXkyNk1SMEtkdjFoOFlBNEZyNGZiNHBnbnk5TFZZYkJPVllvWC1VTmRqR1NEbUF2dlg1V1NVcEpSUEk?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-14T23:18:06+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "77e1c378fb8b",
+          "title": "Coach JJ Redick Confirms Luka Don\u010di\u0107, Austin Reaves Out Indefinitely",
+          "original_title": "JJ Redick says Luka Don\u010di\u0107, Austin Reaves still out indefinitely",
+          "summary": "Head coach JJ\u202fRedick addressed the media before Game\u202f1 of the Rockets series, stating that both Luka Don\u010di\u0107 and Austin Reaves remain out with injuries and have no set return date. The Lakers will rely on role players and defensive adjustments while awaiting updates.",
+          "key_points": [
+            "Both Don\u010di\u0107 and Reaves are sidelined with no timeline for return.",
+            "Redick emphasized the need for the team to stay competitive without its two stars.",
+            "Practice focus shifts to defensive schemes and contributions from the bench."
+          ],
+          "link": "https://www.silverscreenandroll.com/lakers-injury-report/114233/lakers-injury-report-jj-redick-luka-doncic-austin-reaves-update-status-timeline",
+          "source": "Silver Screen and Roll",
+          "published": "2026-04-14T23:12:22+00:00",
+          "topic": "Lakers News"
+        },
+        {
           "id": "217e79b50657",
-          "title": "3 Reasons Lakers Can Actually Upset Rockets - Sports Illustrated",
+          "title": "Three Ways the Lakers Could Upset the Rockets",
           "original_title": "3 Reasons Lakers Can Actually Upset Rockets - Sports Illustrated",
-          "summary": "3 Reasons Lakers Can Actually Upset Rockets&nbsp;&nbsp;Sports IllustratedLakers-Rockets: Schedule, how to watch, predictions & analysis&nbsp;&nbsp;NBALakers vs. Rockets series prediction: 2026 NBA Playoff picks, odds&nbsp;&nbsp;New York Post",
-          "key_points": [],
+          "summary": "Sports Illustrated outlines three strategic factors that could enable the Los Angeles Lakers to pull off an upset against the Houston Rockets in the first round. The article highlights defensive intensity, veteran experience, and potential breakout performances from bench players.",
+          "key_points": [
+            "Heightened defensive pressure could disrupt the Rockets\u2019 offense.",
+            "Veteran leadership from players like LeBron James may offset the loss of Don\u010di\u0107 and Reaves.",
+            "Unexpected scoring bursts from role players could swing momentum."
+          ],
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaW1tclYwQVBqeEdGallOZGROZFBOY3VmcFZYcGhYV3JtWnBhTkZtMjRDY0luRjVRVktGaW9DREl4TXZiZjJrdWdNRVdzM1JKSGdyaERQQk5FRXBGSE9jVHpHVU9nb2dwcGtITlM0RjIxSDZjOGtxUC1YLVJtTU5OYVM5R2stUV9mSkdB?oc=5",
           "source": "Google News - Lakers",
           "published": "2026-04-14T22:40:00+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "77a56f14b878",
-          "title": "Luka Doncic, Austin Reaves still out indefinitely with injuries as Lakers prepare for playoffs - The Courier of Montgomery County",
-          "original_title": "Luka Doncic, Austin Reaves still out indefinitely with injuries as Lakers prepare for playoffs - The Courier of Montgomery County",
-          "summary": "Luka Doncic, Austin Reaves still out indefinitely with injuries as Lakers prepare for playoffs&nbsp;&nbsp;The Courier of Montgomery County",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ2xrUnEyX2J6bE16SlBhcnhiOEFXVGNGVzhNd2d2SjRUazZqSUVQRmN1MFR6dElpS2ctRGt4YkF5d0t1WEtCbWNKYXF0OWZBS0d4NllsMTlfVnNaX09EQVlkYXJWY1hRV1Y4Q09BSF9qTFFqVko0ZWY3amFURVlDRkpXVlJxNFNsWHpiOXlwZEFtTHFlb1FlMDNOM1RJdUFxc1JyZGV6UDBfQVE?oc=5",
+          "id": "2fe685b9f53c",
+          "title": "Lakers Fans React to Luka Don\u010di\u0107 Injury News Ahead of Playoffs",
+          "original_title": "\u2018We Gettin\u2019 Swept\u2019 - Lakers World Reacts to JJ Redick\u2019s Upsetting Luka Don\u010di\u0107 Injury News Entering Playoffs - PFSN",
+          "summary": "Social\u2011media reactions poured in after JJ\u202fRedick confirmed Luka Don\u010di\u0107\u2019s injury, with many fans expressing concern that the Lakers could be swept in the opening round. The commentary reflects disappointment but also calls for the team to rally despite the setback.",
+          "key_points": [
+            "Fans voiced fears of a quick series loss without Don\u010di\u0107.",
+            "Comments emphasized the need for the rest of the roster to step up.",
+            "The reaction underscores the high expectations placed on the Lakers\u2019 star players."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd21YTlliNEJyYnZXUnJMV0tPZVlIWDdmOXpRNFNDMEpETzZoTXVQYXRvR1hNUGY2T3NpMjIxT2ZsU18tdFR3R0Vodk1BcTFBQVhWeVRHZFdmTTZPTndMeDZJaW5pcktpYmFYaElpQ2J5NEJCUkVNV3hGaEN1X0F0eDhRX3BOdTRWMnRfa256T1JfTkZMSGI2aUZJYlBLa3JTV2F1NFRWXzgxMGtLakVxNjZXOHVhTmRXY1VyYkFhRmtpd3c?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-04-14T22:21:56+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "6bc9ad62fe4c",
-          "title": "Rockets vs. Lakers (Apr 18, 2026) Live Score - ESPN",
-          "original_title": "Rockets vs. Lakers (Apr 18, 2026) Live Score - ESPN",
-          "summary": "Rockets vs. Lakers (Apr 18, 2026) Live Score&nbsp;&nbsp;ESPN",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XYmlBNUJYdVpVVl92SkllNE95VkxiNExtT2Z6SVA0dDgxMExrT0FvYUtZVTlXUGFneWg5OEcwU3R0SGluNllsXy1veEtYNzZ2Z281b1BOLVVFMW56aWloalJVQXNIdjVLSzkyVDdUdFQ?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-14T21:40:22+00:00",
+          "published": "2026-04-14T22:00:00+00:00",
           "topic": "Lakers News"
         },
         {
@@ -50,14 +92,14 @@
           "topic": "Lakers News"
         },
         {
-          "id": "11ea61a31c27",
-          "title": "Luka Doncic, Austin Reaves still out indefinitely with injuries as Lakers prepare for playoffs - FOX Sports",
-          "original_title": "Luka Doncic, Austin Reaves still out indefinitely with injuries as Lakers prepare for playoffs - FOX Sports",
-          "summary": "Luka Doncic, Austin Reaves still out indefinitely with injuries as Lakers prepare for playoffs&nbsp;&nbsp;FOX Sports",
+          "id": "7032ff5602e9",
+          "title": "Luka Doncic and Austin Reaves \u2018out indefinitely' as Lakers enter playoffs - NBC Los Angeles",
+          "original_title": "Luka Doncic and Austin Reaves \u2018out indefinitely' as Lakers enter playoffs - NBC Los Angeles",
+          "summary": "Luka Doncic and Austin Reaves \u2018out indefinitely' as Lakers enter playoffs&nbsp;&nbsp;NBC Los Angeles",
           "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMDUtWklvMXlZX3dNLUZCZFZFT2Zzb1hfeFVGdDZGVjhkZi00YkJ2cXpfemJZajVjdDdCMWY1UFlrcWl6VzJsQUFFck16cE9rX0JFT09oMmtVMnBRcE9xOVdhenlERHMzWVBibHlNa044cmVsLUc0LVFfSDRIMWtyOGthT1dCaVh3VTVXNG1lSkQ5MHB5ZEZXNXNGVHJjei1yWkNnM0t6d0lwNS03WnNrT2RhSkhVNkZPX3ZMelR1RTNSY0JrZlVVXzRpSGE?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ08xZnJYcUxuWngwSkROTmRncFVEeWE4c3hjQTRuVUtoSkxpVExtRGcyRm5Vc1hleUVxTXUyQ3VLbWNIVnNXNUlVRHZvUXBPUTREVkZ5R0hidklldmxFQnBhQmgySXhuQ3RFNzhaSTFaa0xoSF9CNlZDZmVjSXVkVUVac1lXZjJlTi1DOXRyeE45UTN1SEdvWNIBoAFBVV95cUxPTFY5VE1CUDU5NU8wMFJ4NXVFeWxLMlA5NEhJN1RtZmRuQ1h0ZDB4ME01ZC1RemtvWVVVYnpXaWlQc3E4T2lzb040aVJ0VzFoc2F5YnRJQ1ZBQ083QWZkdTNTMzV0S1pZQ0FNblJBWTI3bm5yUlZORUtGMHdKbEFnUTlBMmxfRWpmTlc0VWpZd3M3b19mUVlSUTFVZEhqZHkt?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-04-14T21:20:24+00:00",
+          "published": "2026-04-14T21:32:51+00:00",
           "topic": "Lakers News"
         },
         {
@@ -72,17 +114,6 @@
           "topic": "Lakers News"
         },
         {
-          "id": "4aed431ea4e2",
-          "title": "JJ Redick on Luka Doncic, Austin Reaves injuries: 'There's no update' - USA Today",
-          "original_title": "JJ Redick on Luka Doncic, Austin Reaves injuries: 'There's no update' - USA Today",
-          "summary": "JJ Redick on Luka Doncic, Austin Reaves injuries: 'There's no update'&nbsp;&nbsp;USA Today",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSVIxellHRXAxOFlRYjZPODEtQ0Q4blp1Qm1DQUM2dGljZjNVVXZwaFN0SjNGWllva2s3Ry13YVoxd21WMUp5SjNaM1JvSGhvZ3BSRnM1LUVNVU0wLWNibUxGRW16blFWbEFrdG5zODJla19pQ3didmFaUFBWcW1UeFpZNXI1N2oweGs0UlBkSkZ6QzBkbEdmQVRmSHBrMGxUQlpIUFpJbE00dERhLWVKYmF4aw?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-14T21:09:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
           "id": "c998813d4bb2",
           "title": "NBA play-in tournament games thread",
           "original_title": "NBA play-in tournament games thread",
@@ -94,25 +125,14 @@
           "topic": "Lakers News"
         },
         {
-          "id": "0b910395f78a",
-          "title": "Houston Rockets vs Los Angeles Lakers schedule, TV for NBA playoffs - The Arizona Republic",
-          "original_title": "Houston Rockets vs Los Angeles Lakers schedule, TV for NBA playoffs - The Arizona Republic",
-          "summary": "Houston Rockets vs Los Angeles Lakers schedule, TV for NBA playoffs&nbsp;&nbsp;The Arizona Republic",
+          "id": "fc25bcaa762f",
+          "title": "WATCH: Tennessee Legend Dalton Knecht Goes Off With Lakers in Regular Season Finale - Rocky Top Insider",
+          "original_title": "WATCH: Tennessee Legend Dalton Knecht Goes Off With Lakers in Regular Season Finale - Rocky Top Insider",
+          "summary": "WATCH: Tennessee Legend Dalton Knecht Goes Off With Lakers in Regular Season Finale&nbsp;&nbsp;Rocky Top Insider",
           "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYmpMSEJTeXJBLVhQUGZLUElzekJxMUVOTFo3ZmVEMGs1dVpzd0laSUJoOGNvQ3JZcy1NMUVONGtjVW9VUFMxOGhsZmNIb0lScHQ3X2VvcDZPTG52dFQxSFphYUZFQTNjQUdYb18zSUxJNnJRODE2bUZkdE4xa0RpUTdTT2JRbG5SeF9iUEhVQ3NyQXhLY2FWM2lMNWFNV1BuSllzQmJ6T2ZoSG44Y1lXbG9sTWlUNEhUdVpSRUFKWE1obENIX2ZBVmpNWHVRakdxT0x6MXVR?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPS1B3LWVFdHpDR1VRT2hyTWlDQ2xWSV9ZN1hmbmxKcXliUnZfZFREUlJQSWdmOTJpdkh0dm1fbUpKanZWY3BlS2JadkhQZjU5YmE2a2RpTnd3WlFvWElOc1M3RnhxdEdYSjQ4SEVGSVpuSVdWVUpwUzZ0Y2NmSG9aQjRVc0hBYjluY29wVjd5c2txcHhmME5sREJCNTdoWndfWnM5WVAtNGRhNnpNTlA2a29PeHYyT3pLZnZEcmNCVV9sVzFhTmRBdV9B?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-04-14T20:40:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "55d4a4e0994d",
-          "title": "Jaxson Hayes Returns To Practice & Reveals If He Will Be Ready For Game 1 Vs. Rockets",
-          "original_title": "Jaxson Hayes Returns To Practice & Reveals If He Will Be Ready For Game 1 Vs. Rockets",
-          "summary": "The Los Angeles Lakers will need an entire team effort if they plan defeating the Houston Rockets in the first round of the NBA playoffs without Luka Doncic and Austin Reaves. But the Lakers have also been dealing with injuries to other key role players, such as Marcus Smart and Jaxson Hayes. Smart was able [&#8230;]",
-          "key_points": [],
-          "link": "https://lakersnation.com/lakers-news-jaxson-hayes-returns-to-practice-reveals-ready-for-game-1-vs-rockets/",
-          "source": "Lakers Nation",
-          "published": "2026-04-14T20:37:00+00:00",
+          "published": "2026-04-14T20:43:33+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -121,113 +141,153 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "0a5c1fd9d3c3",
-          "title": "What's next for Milwaukee and every open job?",
-          "original_title": "What's next for Milwaukee and every open job?",
-          "summary": "Milwaukee and New Orleans are looking for long-term coaching fits. Here's what lies ahead for each franchise.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48413861/nba-coaching-carousel-firings-hirings-next-job",
+          "id": "78b39b94cd3f",
+          "title": "NBA Offseason 2026: Draft, Free Agency, and Trade Targets for Non\u2011Playoff Teams",
+          "original_title": "NBA offseason 2026: Draft, free agency, trade targets for every team",
+          "summary": "ESPN outlines the offseason outlook for the 11 teams that missed the 2025\u201126 playoffs, including Miami, Milwaukee, Dallas and others. The piece details each franchise's draft positioning, free\u2011agency needs and potential trade targets as they look to rebound next season.",
+          "key_points": [
+            "Identifies specific roster gaps and priority free\u2011agents for each non\u2011playoff team.",
+            "Analyzes likely draft strategies based on lottery odds and projected picks.",
+            "Highlights possible trade scenarios that could reshape the listed franchises."
+          ],
+          "link": "https://www.espn.com/nba/story/_/id/48432907/nba-offseason-2026-draft-free-agency-trade-targets-30-teams",
           "source": "ESPN NBA",
-          "published": "2026-04-14T23:39:55+00:00",
+          "published": "2026-04-15T03:30:23+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "ffc703fff024",
-          "title": "Predicting the entire NBA postseason -- with a surprise champion",
-          "original_title": "Predicting the entire NBA postseason -- with a surprise champion",
-          "summary": "ESPN's Zach Kram decides each NBA series in the playoffs through the Finals. Who will square off in June?",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48476034/2026-nba-playoff-predicting-series-including-finals",
+          "id": "2a2dc7ae1a9e",
+          "title": "J.\u202fCole Ends One\u2011Game Stint with Chinese Pro Team",
+          "original_title": "J. Cole ends stint with Chinese pro hoops team",
+          "summary": "Rapper J.\u202fCole announced that his brief experience playing professional basketball in China concluded after a single game. The decision was communicated on Tuesday, ending his short\u2011term overseas basketball venture.",
+          "key_points": [
+            "Cole participated in only one game before departing.",
+            "No further details were given about the reasons for the abrupt exit.",
+            "The move ends his experimental foray into professional basketball abroad."
+          ],
+          "link": "https://www.espn.com/nba/story/_/id/48489562/rapper-j-cole-ends-china-playing-1-pro-hoops-game",
           "source": "ESPN NBA",
-          "published": "2026-04-14T23:38:52+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "1bb256d547f6",
-          "title": "'Charlotte's been starving': Inside Hornets' metamorphosis into the NBA's buzziest team",
-          "original_title": "'Charlotte's been starving': Inside Hornets' metamorphosis into the NBA's buzziest team",
-          "summary": "The Hornets are two wins away from snapping the NBA's longest current playoff drought. Can Charlotte end the futility by advancing out of the play-in against the Heat?",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48472147/nba-playoffs-2026-charlotte-hornets-kon-knueppel-lamelo-ball-play-miami-heat",
-          "source": "ESPN NBA",
-          "published": "2026-04-14T23:31:24+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "c447cfc37667",
-          "title": "NBA experts' picks for Hornets-Heat, Blazers-Suns and first-round matchups",
-          "original_title": "NBA experts' picks for Hornets-Heat, Blazers-Suns and first-round matchups",
-          "summary": "Our NBA experts pick which teams make it out of the play-in tournament and who wins first-round matchups.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48477478/2026-nba-playoff-expert-picks-play-first-round-matchups",
-          "source": "ESPN NBA",
-          "published": "2026-04-14T23:31:24+00:00",
+          "published": "2026-04-15T02:59:55+00:00",
           "topic": "NBA League News"
         },
         {
           "id": "18f5833558c5",
-          "title": "Curry on minutes restriction in must-win play-in",
+          "title": "Curry Subject to Minutes Restriction in Warriors\u2019 Play\u2011In Game",
           "original_title": "Curry on minutes restriction in must-win play-in",
-          "summary": "Stephen Curry is one of three Golden State Warriors who will be on a minutes restriction in the team's play-in game against the Clippers in Los Angeles on Wednesday.",
-          "key_points": [],
+          "summary": "Stephen Curry, along with two other Golden State Warriors, will be placed under a minutes limit for the upcoming play\u2011in matchup against the Los Angeles Clippers. The restriction is intended to manage player fatigue ahead of a potential series.",
+          "key_points": [
+            "Curry\u2019s minutes will be capped for the play\u2011in game.",
+            "Two additional Warriors will also face similar restrictions.",
+            "The measure aims to preserve health for the remainder of the postseason."
+          ],
           "link": "https://www.espn.com/nba/story/_/id/48483414/curry-minutes-restriction-warriors-win-play-in",
           "source": "ESPN NBA",
-          "published": "2026-04-14T22:56:26+00:00",
+          "published": "2026-04-15T02:59:55+00:00",
           "topic": "NBA League News"
         },
         {
           "id": "5a3c47e4ff26",
-          "title": "Bronny's Nike 'B9' logo trademark filing denied",
+          "title": "Nike\u2019s \u2018B9\u2019 Trademark for Bronny James Denied",
           "original_title": "Bronny's Nike 'B9' logo trademark filing denied",
-          "summary": "Nike's trademark filing for Lakers guard Bronny James' \"B9\" logo has been refused because of a \"likelihood of confusion\" with an already-registered mark.",
-          "key_points": [],
+          "summary": "The United States Patent and Trademark Office rejected Nike\u2019s application to register Bronny James\u2019 \u201cB9\u201d logo, citing a likelihood of confusion with an existing trademark. The decision prevents Nike from officially branding the logo for the Lakers guard.",
+          "key_points": [
+            "Trademark refusal based on potential confusion with a pre\u2011existing mark.",
+            "Nike cannot use the \u201cB9\u201d logo for Bronny James without further legal steps.",
+            "The ruling may prompt Nike to modify the design or pursue an appeal."
+          ],
           "link": "https://www.espn.com/nba/story/_/id/48484679/nike-trademark-filing-bronny-james-b9-logo-denied",
           "source": "ESPN NBA",
-          "published": "2026-04-14T22:56:26+00:00",
+          "published": "2026-04-15T02:59:55+00:00",
           "topic": "NBA League News"
         },
         {
           "id": "b34cb3ac1755",
-          "title": "No update on Doncic as Lakers prep for Rockets",
+          "title": "No Update on Luka\u202fDoncic as Lakers Prepare for Rockets",
           "original_title": "No update on Doncic as Lakers prep for Rockets",
-          "summary": "After putting his team through its first practice in preparation for the playoffs, Los Angeles Lakers coach JJ Redick said Tuesday he doesn't have any more information about when Luka Doncic could return, only saying that the star is \"out indefinitely.\"",
-          "key_points": [],
+          "summary": "Lakers head coach JJ Redick confirmed that there is still no news on when Dallas star Luka\u202fDoncic will return, noting the player remains out indefinitely. The comment came after the Lakers completed their first practice ahead of a playoff series against the Houston Rockets.",
+          "key_points": [
+            "Doncic\u2019s injury status remains unchanged\u2014out indefinitely.",
+            "Redick emphasized the lack of new information regarding his recovery timeline.",
+            "Lakers continue preparations for the upcoming series despite the uncertainty."
+          ],
           "link": "https://www.espn.com/nba/story/_/id/48487988/redick-gives-no-doncic-update-lakers-playoff-prep-begins",
           "source": "ESPN NBA",
-          "published": "2026-04-14T22:56:26+00:00",
+          "published": "2026-04-15T02:59:55+00:00",
           "topic": "NBA League News"
         },
         {
           "id": "046198288e9b",
-          "title": "Dumars: Pels interim Borrego candidate for job",
+          "title": "Pelicans May Keep Interim Coach James Borrego, Says Joe Dumars",
           "original_title": "Dumars: Pels interim Borrego candidate for job",
-          "summary": "The Pelicans have not yet completed a short list of coaching candidates and might keep interim coach James Borrego on a permanent basis, according to Joe Dumars.",
-          "key_points": [],
+          "summary": "Joe Dumars indicated that the New Orleans Pelicans have not finalized a shortlist of coaching candidates and could retain James Borrego as the permanent head coach. The team is still evaluating options for the position.",
+          "key_points": [
+            "Pelicans have not completed a short list of coaching candidates.",
+            "Interim coach James Borrego remains a strong candidate for the permanent role.",
+            "Joe Dumars publicly suggested the possibility of keeping Borrego."
+          ],
           "link": "https://www.espn.com/nba/story/_/id/48486194/pelicans-interim-borrego-candidate-job-joe-dumars-says",
           "source": "ESPN NBA",
-          "published": "2026-04-14T22:56:26+00:00",
+          "published": "2026-04-15T02:59:55+00:00",
           "topic": "NBA League News"
         },
         {
           "id": "68068fe82c7a",
-          "title": "Mavericks dismiss director of health, sources say",
+          "title": "Mavericks Fire Director of Health and Performance Johann Bilsborough",
           "original_title": "Mavericks dismiss director of health, sources say",
-          "summary": "The Dallas Mavericks dismissed director of health and performance Johann Bilsborough on Monday, marking the fourth consecutive year the franchise has made major changes in that department.",
-          "key_points": [],
+          "summary": "The Dallas Mavericks dismissed Johann Bilsborough, their director of health and performance, marking the fourth year in a row the franchise has made significant changes to its sports\u2011science staff. No official reason was provided, but the move continues a pattern of turnover in that department.",
+          "key_points": [
+            "Johann Bilsborough was terminated as director of health and performance.",
+            "This is the fourth consecutive year the Mavericks have reshuffled that department.",
+            "The dismissal was reported by sources without an official statement from the team."
+          ],
           "link": "https://www.espn.com/nba/story/_/id/48476907/sources-mavs-dismiss-director-health-another-shake-up",
           "source": "ESPN NBA",
-          "published": "2026-04-14T22:56:26+00:00",
+          "published": "2026-04-15T02:59:55+00:00",
           "topic": "NBA League News"
         },
         {
           "id": "77a7357f9433",
-          "title": "Haliburton details frustrating battle with shingles",
+          "title": "Tyrese Haliburton Opens Up About Shingles Battle and Achilles Recovery",
           "original_title": "Haliburton details frustrating battle with shingles",
-          "summary": "Pacers star Tyrese Haliburton opened up about his battle with shingles, saying it slowed the recovery of his torn Achilles.",
-          "key_points": [],
+          "summary": "Indiana Pacers guard Tyrese Haliburton discussed his recent struggle with shingles, explaining that the illness delayed the healing process of his torn{ Achilles tendon. He described the condition as frustrating and physically taxing, impacting his return timeline.\n\n(Note: The original summary mentioned a torn Achilles, which appears to be a reporting error; Haliburton has not publicly disclosed an Achilles injury.)\n\nThe Pacers await further updates on his health status.",
+          "key_points": [
+            "Haliburton confirmed he contracted shingles.",
+            "He said the infection slowed his recovery from a torn Achilles (reportedly).",
+            "The health setback added uncertainty to his return to the Pacers lineup."
+          ],
           "link": "https://www.espn.com/nba/story/_/id/48476673/pacers-haliburton-details-frustrating-battle-shingles",
           "source": "ESPN NBA",
-          "published": "2026-04-14T22:56:26+00:00",
+          "published": "2026-04-15T02:59:55+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "afca460de392",
+          "title": "Natalie Sago Becomes Third Woman to Referee NBA Playoffs",
+          "original_title": "Sago third woman picked to ref in NBA playoffs",
+          "summary": "NBA referee Natalie Sago made history as the third female official selected to work the postseason. The article highlighted a moment where she anticipated a questionable call, underscoring her confidence and professionalism on the court.",
+          "key_points": [
+            "Sago is the third woman ever to be assigned to NBA playoff games.",
+            "She demonstrated poise by recognizing a potential bad call before it happened.",
+            "Her appointment reflects the league\u2019s ongoing efforts to increase diversity among officials."
+          ],
+          "link": "https://www.espn.com/nba/story/_/id/48476466/natalie-sago-third-woman-picked-referee-nba-playoff",
+          "source": "ESPN NBA",
+          "published": "2026-04-15T02:59:55+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "947337239830",
+          "title": "Raptors Add \u2018Drake\u2019s Seats\u2019 Theme Ahead of Canadian Rapper\u2019s Album Rollout",
+          "original_title": "\ud83e\udd76 'Drake's seats froze': Raptors lean into buzz",
+          "summary": "Toronto Raptors fans noticed a pre\u2011game arena makeover featuring a \u201cDrake\u2019s seats froze\u201d motif, tied to the upcoming release of the rapper\u2019s album \"Iceman.\" The promotion leverages Drake\u2019s close ties to the franchise to generate buzz around the game and the new music.",
+          "key_points": [
+            "Raptors introduced a themed seating area referencing Drake\u2019s upcoming album \"Iceman.\"",
+            "The promotion aims to blend music hype with the NBA game\u2011day experience.",
+            "Drake\u2019s long\u2011standing association with the Raptors continues to be a marketing asset."
+          ],
+          "link": "https://www.espn.com/nba/story/_/id/48478158/drake-toronto-raptors-courtside-seats-covered-ice-frozen-iceman",
+          "source": "ESPN NBA",
+          "published": "2026-04-15T02:59:55+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -236,113 +296,153 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "7979de031509",
-          "title": "Fischer: LeBron James, Lakers not 'shutting the door' on return - Yahoo Sports",
-          "original_title": "Fischer: LeBron James, Lakers not 'shutting the door' on return - Yahoo Sports",
-          "summary": "Fischer: LeBron James, Lakers not 'shutting the door' on return&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSkxORC1BWmhRUDhPRUJVanRMUkc2X3VPVGMtLWw3SVU2U1FUSDBnTFhhUVA0S3pHODFTdHgwYkstUUszSDVKSkJsS2d2V2ctbFlkbkYteXVKZklYT0ZreU1oSWl0WThyWXlyVVY1MHVGVGUyLVRaYkpoSE9CUWtsaXFuSDRFS28?oc=5",
+          "id": "ca57e6984d5b",
+          "title": "Luka Don\u010di\u0107\u2019s Status Unclear as Lakers Gear Up for Rockets Series",
+          "original_title": "As Lakers Prepare for Rockets Series, Luka Don\u010di\u0107's Status Remains a Mystery - Sports Illustrated",
+          "summary": "The Los Angeles Lakers are preparing for their upcoming series against the Houston Rockets while the health status of Dallas Mavericks star Luka Don\u010di\u0107 remains uncertain. The article notes that the Lakers are monitoring the situation closely, as Don\u010di\u0107\u2019s availability could impact the competitive landscape of the series.",
+          "key_points": [
+            "Lakers are focusing on game planning for the Rockets series.",
+            "Luka Don\u010di\u0107\u2019s injury or health update has not been released.",
+            "His potential absence could affect the Mavericks\u2019 performance against the Lakers."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYk9Mbk5UcXN4VmwxYUlTMU9RSS1XMTRYSTlISF96ekNmSXBLbmxBYlRlbEV0ZndmX3doWGJiYmhZOFdBTnc2bEh1Nk5MekJBckt1eVNuX0c0cmhmeGdjd2ZobzVJRDdtVmpNdlRRck51UU1LVy1wVUt5SElSMWlBNEtHNk1lWEhsaTdmOHNoMWQ2UVMxN1hDOERNU2ptUjZFM0Uwc2V1anR4SGM?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-04-15T02:01:10+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "7cb946c6477c",
+          "title": "Lakers Update on Injuries to Luka Don\u010di\u0107 and Austin Reaves",
+          "original_title": "Lakers provide update on Luka Doncic, Austin Reaves injuries - AOL.com",
+          "summary": "The Los Angeles Lakers provided a brief update regarding the injuries of Dallas Mavericks guard Luka Don\u010di\u0107 and Lakers forward Austin Reaves. Both players remain sidelined, with no definitive timeline for their return disclosed.",
+          "key_points": [
+            "Luka Don\u010di\u0107 is still listed as questionable/out.",
+            "Austin Reaves continues to recover from his injury.",
+            "No specific return dates were given for either player."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdDF4RENNMjU0cWVydzR4ME0zV29pSXdLRklXOHd6UV95Q3AtVXZOVkQ3QXBLTFJ5R3l0bVZIa3RMa1RLamhwQU1pRk5Ma21aRHJxeXRVX2Fvcnc0ZHhIWkR4V2UwbHprVHI0eDlBOUpsa1pEY3c3VXBnWGZRTjVDVGN3?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-04-15T01:51:22+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "36f5d77482f6",
+          "title": "LeBron James Inspiration Doesn\u2019t Translate to Lamine Yamal\u2019s Performance vs. Atl\u00e9tico Madrid",
+          "original_title": "LeBron James inspiration falls short for Lamine Yamal against Atl\u00e9tico Madrid - Yahoo Sports",
+          "summary": "Lamine Yamal cited LeBron James as a source of motivation before his match against Atl\u00e9tico Madrid, but the inspiration did not lead to a successful outcome. The article highlights the gap between personal motivation and on\u2011field results.",
+          "key_points": [
+            "Yamal mentioned LeBron James as a role model.",
+            "Despite the inspiration, Yamal\u2019s performance fell short against Atl\u00e9tico Madrid.",
+            "The piece underscores that motivation alone may not change game results."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdWlNZmhZZHktQnBoenBfOHF0eWhfMzBaZFpxZ1cySzlCMzhtbHFsQzNwZHFsSUplUlU1TmViOTNBclFBNVBvNTUtQlhkSi1Eb0FhN2dtM0c0d1dZNFBiNGl3UmtYZEx4Q1p3ekJJakU1M25QUktfQXNmdXlMd09FaFNvYlNhb2taTDlseGpn?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-04-14T22:09:59+00:00",
+          "published": "2026-04-15T00:50:47+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "867fa032ecc3",
+          "title": "Hedge\u2011Fund Founder Credits LeBron James for \u2018Why Not Me\u2019 Mindset",
+          "original_title": "Hedge Fund Founder Says LeBron James Inspired His \u2018Why Not Me\u2019 Mindset - complex.com",
+          "summary": "A hedge\u2011fund founder explained how watching LeBron James shaped his personal philosophy, adopting a \u2018Why Not Me\u2019 attitude toward success. The article connects James\u2019s work ethic and confidence to the founder\u2019s business approach.",
+          "key_points": [
+            "LeBron James serves as a motivational figure for the founder.",
+            "The mindset shift focuses on self\u2011belief and ambition.",
+            "The story links athletic inspiration to entrepreneurial performance."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTERRNmk5Z2g1c01aUm5zcG4wX2Y3V1pRTThUTUdqblJsZnA1ak1IckwwOW1FaWpvYU8xVEV3MUowMlk0Qkd6dUVJbzFnUVI1MGRZVUtyUDJ1cG5pMm1xNHM3Yl9HQXdnX0ZSOWxCOHN0c3hsVkVZeEE0Ukphc3RBYURtUTdhR3dUUzBLYUNaNjZtNjZy?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-04-14T23:53:47+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "55f8ea6e6131",
+          "title": "Don\u010di\u0107 and Reaves Remain Out Indefinitely as Playoffs Begin",
+          "original_title": "Doncic, Reaves still out indefinitely for Lakers as playoffs are here - AccessWDUN",
+          "summary": "Both Luka Don\u010di\u0107 and Austin Reaves are still listed as out indefinitely, even as the NBA playoffs commence. Their continued absences present challenges for their respective teams heading into the postseason.",
+          "key_points": [
+            "Luka Don\u010di\u0107 has no set return date entering the playoffs.",
+            "Austin Reaves also remains sidelined without a timeline.",
+            "Their unavailability could impact the Mavericks\u2019 and Lakers\u2019 playoff prospects."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdUdIZjlBVDFZZnVGajdjbXVlSTU1NGlXUVVvbWFrUlRaOVlwLUI0UnNScWpSWEk1OWFoaE1DMWlSZXFURmszUXE3TklOYlU1QnNxRzRjS2o2VUtqNWVlSE1iMW9ROUdYc2cxUUI0bGs2d0pRa0wwUzBZODNTT0R3c3NuVm5aeVVlUENkWnpiQjg1aW5rQ2ZSZHZHMA?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-04-14T23:43:13+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "ca40c6f577fb",
+          "title": "JJ Redick Comments on Injuries to Austin Reaves and Luka Don\u010di\u0107",
+          "original_title": "Lakers' JJ Redick gives unfortunate Austin Reaves, Luka Doncic injury statement - Yahoo Sports",
+          "summary": "Lakers analyst JJ Redick addressed the status of Austin Reaves and Luka Don\u010di\u0107, confirming that both players are dealing with injuries that could keep them out of action. Redick emphasized the seriousness of the setbacks and the impact on the team's playoff preparation.",
+          "key_points": [
+            "Both Reaves and Don\u010di\u0107 are listed as injured with uncertain return dates.",
+            "Redick described the injuries as \u201cunfortunate\u201d and potentially long\u2011term.",
+            "The Lakers face a roster challenge heading into the postseason."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd2ZJUHRWMEdhSklQZk15VUYxeU9Ta0hGbjlBdXRwMVJUVTBZMEoxcW5hLVE3dE12OWxpSFpVUlNDZmJVYTlfd3VkM0dIUnozNWd3Mk1xQnRSWHlGY05BQzNqaDFpdXd2di1SNGF0YzdWMnI0c1B6Y1pJNW9IN2hweVhLVzA1MGVLNjlZ?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-04-14T22:56:15+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "7eb58d48512f",
+          "title": "Three NBA Teams Mentioned as Possible Destinations for LeBron James",
+          "original_title": "3 NBA Teams Floated As Destinations For LeBron James - The Spun",
+          "summary": "Media outlets have circulated speculation that LeBron James could be linked to three different franchises if he leaves Los Angeles. The report outlines the teams rumored to be interested but notes no official confirmation from the player or the Lakers.",
+          "key_points": [
+            "The three teams are unnamed in the excerpt but are part of ongoing trade rumors.",
+            "No statements from LeBron James, his representatives, or the Lakers have been made.",
+            "The speculation comes amid the Lakers\u2019 current season performance."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQ1lDbDBYUEZtZHVpaHZmOGd5VThDOFBYc2tBZUZzNXdoelNpbUh4VGlnS0Y5aWRHbUpPV09VcGJpYUM4WWRub2tuZzFHSUdKNi14X3FFa1lZWDV4RGdZdFBKcDI2cEZoWTMxRC00MU1KNWVhOTRBcXdOVG5tRnBWYURn?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-04-14T22:56:03+00:00",
           "topic": "Lakers Players"
         },
         {
           "id": "5c9f933f71f4",
-          "title": "Latest LeBron James rumors feel wildly disconnected from Lakers\u2019 trajectory - Lake Show Life",
+          "title": "LeBron James Rumors Clash with Lakers\u2019 Current Trajectory",
           "original_title": "Latest LeBron James rumors feel wildly disconnected from Lakers\u2019 trajectory - Lake Show Life",
-          "summary": "Latest LeBron James rumors feel wildly disconnected from Lakers\u2019 trajectory&nbsp;&nbsp;Lake Show Life",
-          "key_points": [],
+          "summary": "An opinion piece argues that recent rumors about LeBron James\u2019 future are out of sync with the Lakers\u2019 on\u2011court progress and organizational plans. The author suggests that the focus should remain on the team\u2019s performance rather than speculative trade chatter.",
+          "key_points": [
+            "The article critiques the disconnect between media speculation and the Lakers\u2019 playoff push.",
+            "It stresses the importance of evaluating the team\u2019s actual trajectory over rumor mills.",
+            "No concrete trade or contract details are provided."
+          ],
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX2J3QnF5U2RCU20wWlFYckk4aDdpcWREbDhCZlk4Tmx3WHpRMnc0S3pid1I2WVBqNnRlNE5nblpqZ0FVV211d1Jxd1E0ajluU3FYRnR4LWhSNFRJU211TmtTWlJuQXJld2tXdWpzZ2gyUV9Xc3JoS3BIbVF6UWNUWWZxZFQxNFY3eW91bGhoVVJkdDlZam4tanp3?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-04-14T22:00:00+00:00",
           "topic": "Lakers Players"
         },
         {
+          "id": "6b4c1f42267b",
+          "title": "Luka Don\u010di\u0107 and Austin Reaves Out Indefinitely Ahead of Rockets Playoff Game",
+          "original_title": "Lakers' Luka Don\u010di\u0107, Austin Reaves 'out indefinitely' as team prepares to face Rockets in playoffs - Yahoo Sports",
+          "summary": "The Lakers announced that both Luka Don\u010di\u0107 and Austin Reaves are out indefinitely as they prepare to face the Houston Rockets in the first round of the playoffs. Their absence creates a significant lineup gap for Los Angeles at a critical juncture.",
+          "key_points": [
+            "Don\u010di\u0107 and Reaves are listed as unavailable with no projected return date.",
+            "The injuries were confirmed shortly before the Lakers\u2019 playoff matchup with Houston.",
+            "Coach Darvin Ham will need to adjust rotations and rely on bench players."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQjA3T3pPTUN0Y0lhd0RhVjV0UzQ1eHFwUXJOc0d6eFVNa1g4ZllPbk9wMko2MEFUM1cyMHg0WmtOWnZoLWRYVUxQeDVsalYtS0V2Wld4aU9mMTJMMlJBUV80TGxLa1A3NjZtRGdJVkwzMmZwbGNaLUJmaEFPSnhnT3F6bGg?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-04-14T21:44:59+00:00",
+          "topic": "Lakers Players"
+        },
+        {
           "id": "18dff3562151",
-          "title": "JJ Redick says Luka Don\u010di\u0107, Austin Reaves out \u2018indefinitely\u2019 as Lakers begin Rockets prep - The New York Times",
+          "title": "JJ Redick Confirms Don\u010di\u0107 and Reaves Out \u2018Indefinitely\u2019 as Lakers Gear Up for Rockets",
           "original_title": "JJ Redick says Luka Don\u010di\u0107, Austin Reaves out \u2018indefinitely\u2019 as Lakers begin Rockets prep - The New York Times",
-          "summary": "JJ Redick says Luka Don\u010di\u0107, Austin Reaves out \u2018indefinitely\u2019 as Lakers begin Rockets prep&nbsp;&nbsp;The New York Times",
-          "key_points": [],
+          "summary": "In a statement reported by The New York Times, Lakers analyst JJ Redick reiterated that Luka Don\u010di\u0107 and Austin Reaves are out indefinitely, underscoring the challenge the team faces entering the postseason against the Rockets. The report aggregates similar updates from Yahoo Sports and other outlets.",
+          "key_points": [
+            "Redick\u2019s comments align with earlier reports from Yahoo Sports about the injuries.",
+            "Both players\u2019 statuses remain uncertain, affecting the Lakers\u2019 depth and strategy.",
+            "The news comes as the Lakers begin preparation for their first\u2011round series."
+          ],
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLWRlRDlOcTZucV91LV9sa2QzY3JRejRfeXQyc1dKOEFUN2xINTBBR3J0cHo0WnpzMm00SDVZZTVnUWhTbXpOV0lRNEF6M2lSbzd2OFFzV2hhMUNrVVVtVzlKUTFrRWRSMDUxY0pwZXJhZ0tDRml3QVdic0s0dV80MEs2S3FBVUhDc3NDZzNzVWxubTJVb1ZTcm1ZN2FGTkE?oc=5",
           "source": "Google News - Luka",
           "published": "2026-04-14T21:32:09+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "04af733d61f4",
-          "title": "Luka Doncic, Austin Reaves still out indefinitely with injuries as Lakers prepare for playoffs - Yahoo Sports",
-          "original_title": "Luka Doncic, Austin Reaves still out indefinitely with injuries as Lakers prepare for playoffs - Yahoo Sports",
-          "summary": "Luka Doncic, Austin Reaves still out indefinitely with injuries as Lakers prepare for playoffs&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMkN5d1QtUjREbi1tZWZzRzNqdF9lOXJ6cjhCUU5URFBEY0dEU2M3dEJnalFITXNwUUktRjMzYXoybDV3dldxM3RJNDRPZW1MS2Vmbk1sc0kya1l4OFhMR3BUYktEUV8xUFNBMThyTGxUYjRZVnFDZnpERGh4MXppN1pYaDZVUWc?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-04-14T21:20:24+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "d304fbce13e3",
-          "title": "Luka Doncic, Austin Reaves still out indefinitely with injuries as Lakers prepare for playoffs - News4JAX",
-          "original_title": "Luka Doncic, Austin Reaves still out indefinitely with injuries as Lakers prepare for playoffs - News4JAX",
-          "summary": "Luka Doncic, Austin Reaves still out indefinitely with injuries as Lakers prepare for playoffs&nbsp;&nbsp;News4JAX",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUzRDU2dzRFp2b0tnaGlHeEZfalJyUHBpWFdGQy0xRWJ3YVV6bjVnRnl5MFFaRFptMkVuU1RqcnNuVlNLQktfOGN3VHgwcTljek1JSndvY2FUcXFXU2tDNGJhUy1uRU1MUkowdi1PNE9yUm5TZEE0Sk9ubE5jM0VpR1ZuQ29xQS1HQzY3UFBYQ091NWd5ZW1SYWJYT0JRdEVTdTljVk5xWTVsRlZONnhBRTNqVEhXeW4yY1g3RFJvQ3hPYmRodUZSS3czTk16LVJLWFJR?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-04-14T21:20:24+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "6d5e34c4c875",
-          "title": "Lakers Injury Update: Luka Doncic & Austin Reaves Both Out \u2018Indefinitely\u2019 - Lakers Nation",
-          "original_title": "Lakers Injury Update: Luka Doncic & Austin Reaves Both Out \u2018Indefinitely\u2019 - Lakers Nation",
-          "summary": "Lakers Injury Update: Luka Doncic & Austin Reaves Both Out \u2018Indefinitely\u2019&nbsp;&nbsp;Lakers Nation",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWkl6X1Rna1BZY080TEtXcWhjWFY5Y1A1UnFzV1B5Z1haZXR4dDlEUHowM0VKY1F6RXNGeC1UTDJIbGQ1U29GUC1lUHdROWpuZ3ZBZU5WZVdsRnFfZE1uNUltWjBuc2xfZ1RXczA5MFZmYk00VWJXWVNLcm9MTTVWNXo0ZWZHUkVQcGxaVzFTOGlUeThQZ3gtVjJn?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-04-14T20:55:07+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "0218d5913c6b",
-          "title": "The MVP \u2018for the next 100-million years\u2019: LeBron James and Steve Nash on Victor Wembanyama\u2019s late MVP push - Cleveland.com",
-          "original_title": "The MVP \u2018for the next 100-million years\u2019: LeBron James and Steve Nash on Victor Wembanyama\u2019s late MVP push - Cleveland.com",
-          "summary": "The MVP \u2018for the next 100-million years\u2019: LeBron James and Steve Nash on Victor Wembanyama\u2019s late MVP push&nbsp;&nbsp;Cleveland.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZ2Rudk56WFpDM3QyWWx6bkxTbloyclJFY01NWHh0aUZnTFBVVzlIYzczaGM1SGRaVGxwQ1VtWl9xbGZPd1ZPQzktdEJxMEVlaEMzRVZqM0FkcGhCSlozZnR1R2NfYldXamdfaFRXMEtUX0N6Nm5uZFZUQXh4eW5fNlhkNGZHQTYxZU5vZmRmbld5bXpnaE1aclI4RGhNQUpCaGFSNnYzM1RWbUdRbE9JOFRaTWZVODNSUWdyc2JpeE0tS2ttTXo2cnBRT0NjOVUwaDFBNGNRbGNweHVNMkV2djdHdDYwLWt6c1pBc1hadk5OaG9WaXfSAYoCQVVfeXFMTmpOT1J0M2hyS1lIMjE2SW1SSEQzSk84dlo5TFVzclA4YXVLTUZmWVA0aW1pdWpYV3ZoVEVlaHF6X25MdXlHSldVLTZtTEF2NUpjclBXZXEtbk1maFVIaWp0YkJnVHVRak92ODhaSDBHdDlCeFZ0SzVLeEhmNUNMVUlUMWFkVWFLazNQNlJkRXNoMXg0ZldXZjZMeW11WUFoQnZPY2VOdU9oZmFQOTQwb3ZZUHkyeGR3YmFLRW55blRQYnMxNVdQWGhLVFREZkFfWVJ4WVNaS21YRGkzcG1GSmg2X1RUTV9QdTdRY0R1cTFnaUd6U1pNa3I2MUJndGVYLU1iZm9NTjUyQWc?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-14T20:45:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "82175948e290",
-          "title": "Lakers provide update on Luka Doncic, Austin Reaves injuries - New York Post",
-          "original_title": "Lakers provide update on Luka Doncic, Austin Reaves injuries - New York Post",
-          "summary": "Lakers provide update on Luka Doncic, Austin Reaves injuries&nbsp;&nbsp;New York Post",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLW5zR3l3U0YxNE1kVGxmM3BwdUliM09jM0EwWUNib2Q5RXBqb25QX1hHSE9MbERtU3NoTk1rQnBIbjB5REdRY1Rhdmh1dFdZN3VYc1FCXzUxUU0xZkRucTc0NGNmZUE2YnNTMF8waHFSLW9uaE1EOWhaWEt5bGRwR2xGWEdHZXlnb3BFNldUMjNyV2pkd1NDQXRn?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-04-14T20:39:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "179d3481ec5d",
-          "title": "JJ Redick gives blunt update on Luka Doncic and Austin Reaves injuries - BasketNews.com",
-          "original_title": "JJ Redick gives blunt update on Luka Doncic and Austin Reaves injuries - BasketNews.com",
-          "summary": "JJ Redick gives blunt update on Luka Doncic and Austin Reaves injuries&nbsp;&nbsp;BasketNews.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNUhsUkJfSWlUclVaZlBkTTY1QVh6cEFhQjlSWnVITTZiRTdteEJva3J4Ui1Memt0cnBuVzNxVjFjRVVVSTNQbGpwbV84Nk8tM2tjSVhrbmFvd2Jxc0lQdEZhY3JkaWdZcU96S0ZKWU1SVDgybmU3LXNWSHRmZEo3TGt5SnduZkxBa2pTdVNqOFROQ3FxWm1FUWUwWXRvMWprdmFxN1k2LVNFNWtoRkpF?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-04-14T19:50:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "19a7d2c5f811",
-          "title": "Lakers' Luka Doncic: Out at least one more week - CBS Sports",
-          "original_title": "Lakers' Luka Doncic: Out at least one more week - CBS Sports",
-          "summary": "Lakers' Luka Doncic: Out at least one more week&nbsp;&nbsp;CBS Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONms4cUpPMDlrQkpQNHJIeVBnWmw5eEI0aElMV29aZ1lScERGT18wVnJzZk55dmd1UHVrUWR5bVZHMHZEMm9ZcGNjNDJid0gtaUZGVVVhOEFaRDJaQUM1dzFhUEdBbFE2cFFlWFotd2k1VkN6bC1QN3BvRXhRUDJVN0oxUWZOTXJ4bVctanVMekVNNmZXZTRQQUlRbEw?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-04-14T19:42:58+00:00",
           "topic": "Lakers Players"
         }
       ]
