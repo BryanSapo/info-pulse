@@ -1,34 +1,94 @@
 {
-  "generated_at": "2026-04-21T09:32:12.452498+00:00",
-  "total_articles": 30,
+  "generated_at": "2026-04-21T11:12:18.502282+00:00",
+  "total_articles": 25,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
-          "id": "443095dff67e",
-          "title": "Houston Rockets @ Los Angeles Lakers: Live Game Updates",
-          "original_title": "Houston Rockets @ Los Angeles Lakers: Live game updates, stats, play-by-play - Yahoo Sports",
-          "summary": "Yahoo Sports provided real\u2011time play\u2011by\u2011play coverage of the matchup between the Houston Rockets and the Los Angeles Lakers. The feed included live statistics, scoring runs, and key moments as the game progressed.",
+          "id": "dcc3603801bf",
+          "title": "Rockets Must Fix Offense to Avoid 0-2 Deficit vs. Lakers",
+          "original_title": "If the Rockets want to avoid an 0-2 start vs. Lakers, they need to fix offense - Houston Chronicle",
+          "summary": "The Houston Chronicle warns that the Rockets need to improve their offensive execution if they hope to stay competitive in the opening games of the playoff series against the Los Angeles Lakers. Poor shooting and limited ball movement were highlighted as primary reasons for their struggles in Game 1, and adjustments will be required to prevent an early series hole.",
           "key_points": [
-            "Continuous live updates on scoring, rebounds, assists, and other stats.",
-            "Play\u2011by\u2011play narration highlighted momentum shifts and clutch plays.",
-            "Data useful for fans tracking player performance and game flow."
+            "Rockets shot poorly and struggled to generate quality looks in Game 1.",
+            "Lack of spacing and ineffective pick\u2011and\u2011roll sets were cited as offensive flaws.",
+            "Coaching staff is expected to implement quicker ball movement and better shot selection for Game 2."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZC1IYVMzYm5obWR5NjNGdUptYVhwYjBwQTdjQTIzMHV0aVBQSWhudmRQdUNpN204OEFEWS05U1d5d09BNTBEUFZ1WS1vX2RIbTNPakhiWTNlVnY0RDhjZ3JTSW5RRFpmamQ5SXBmcVZoRDlaYXh1Y25aWWtTb2lmaXU0ZFdMN3AtMGhJNlNLb3NLa1B2VnNtZ1RBWk9EeGh6TUl6RXFaVQ?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-21T11:03:14+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "dbbe703a376e",
+          "title": "Lakers' Game 1 Shooting Records May Benefit Rockets",
+          "original_title": "Why Lakers' shooting records in Game 1 could be good news for Rockets - ESPN",
+          "summary": "ESPN notes that the Lakers set several shooting milestones in the first playoff game, which could actually work in the Rockets' favor. The high efficiency demonstrated by Los Angeles suggests that the Rockets' defense was unable to contest shots, highlighting a need for defensive adjustments rather than indicating a permanent advantage for the Lakers.",
+          "key_points": [
+            "Lakers posted record\u2011high field\u2011goal and three\u2011point percentages in Game 1.",
+            "Rockets' defensive rotations allowed open looks, exposing a weakness to address.",
+            "Improved defensive pressure could limit the Lakers' shooting rhythm in upcoming games."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLXp3Y3RCZS04NDAzcGMwZWpUdEt3WU44aHFBQVlvbHUxSHFjcU9pNmFIbmhxMGJyTHJiX3F0eHFpNURuNUpteXJReDQtbXpyWjJPNFczQ3JPaGkwbjZueUxCQ1FTS001cm5PSkowNDR2RzlmYnUzV0VIM2drWEhYajdWU1hWY2s0blc3S2o5azVSU3FSUHpCc0k3clZFbEdmZ0hBeldJOS00NEEtdHphbHg3bDd0OFdCR3c?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-21T11:00:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "0d4db6322daf",
+          "title": "Kevin Durant's Return Could Tilt Playoff Series Against Lakers",
+          "original_title": "Why Kevin Durant\u2019s eventual return could swing playoffs series vs. Lakers - New York Post",
+          "summary": "The New York Post discusses how Kevin Durant's eventual comeback from injury could dramatically influence the outcome of a playoff series against the Los Angeles Lakers. Durant's scoring versatility and floor spacing would challenge the Lakers' defensive schemes, potentially giving his team a decisive edge.",
+          "key_points": [
+            "Durant brings elite scoring, rebounding, and playmaking when healthy.",
+            "His ability to stretch the floor would force the Lakers to adjust their defensive matchups.",
+            "A timely return could shift momentum in a tightly contested series."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWm82c0JUUkZQd2lTY3RxWm9XR3NYLWxNZWxveXp1Nk1CdXloWl90ZHp0SF9nekY5MVE2Ulg4OFEzcEM1RG1DS3BVRE93NzJvS29vNGNEdDZyWTRwbkR0aUdRWjlpd2ItX1JmYU9qQlpiZnl0RXJiQkxxaFJCZDZ3VUcwdEYwbkM0dG95cUhLbkNDX1BpTi1DZmh0R1JFQQ?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-21T11:00:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "d1f8f897790b",
+          "title": "How to Stream Lakers vs. Rockets Game 2 for Free",
+          "original_title": "How to watch Lakers vs. Rockets in the NBA Playoffs (Game 2) online for free - Mashable",
+          "summary": "Mashable provides a guide for fans looking to watch the second playoff matchup between the Los Angeles Lakers and Houston Rockets online without cost. The article lists legitimate streaming platforms, required VPN settings for regional restrictions, and tips for avoiding common playback issues.",
+          "key_points": [
+            "Free streaming options include network websites and official league apps with trial periods.",
+            "Using a VPN can bypass geo\u2011blocks for viewers outside the broadcast region.",
+            "Advice on optimal browsers and disabling ad blockers to ensure a smooth stream."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTXM3Z1p6Ykg4a0g4UUtDaUxfRFkzTWFKWHdCM0VrZ041YUd0RngzaWtjTll1QnhrZ01ROTNXSXluX1czSnpRbl9vdXQyUjMxVXRXY0NQVm1WZUVTNUhlT25mWnFmWjdzeXNzUkgtUzY5b2NHa0F4cnZZbE1ZUTlTTVpyMFhYMzJCUmc?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-21T09:08:45+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "443095dff67e",
+          "title": "Live Updates: Rockets @ Lakers Playoff Game",
+          "original_title": "Houston Rockets @ Los Angeles Lakers: Live game updates, stats, play-by-play - Yahoo Sports",
+          "summary": "Yahoo Sports delivered real\u2011time play\u2011by\u2011play coverage, statistics, and live updates for the Rockets' visit to the Los Angeles Lakers in the NBA playoffs. The feed captured scoring runs, individual performances, and key momentum shifts throughout the contest.",
+          "key_points": [
+            "Comprehensive live scoreboard with quarter\u2011by\u2011quarter scoring.",
+            "Statistical leaders highlighted for points, rebounds, assists, and shooting efficiency.",
+            "Play\u2011by\u2011play narration captured critical moments such as lead changes and clutch shots."
           ],
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPN1hsYlM4VXZPV01oYzA0U3ZFVlZ1WW5wbnV6QXdha0Fvc2NVYUNhSEkyLWF2cVlTTGF0NG1WN2Iya255TWM5M2N6RnJNZjRQbV9Ba0dOeGxkTkRaN1I2M3dzNEVXNHNTWjVBSHZxQ3ZIenB0dGxrMDdveTFGQV9pbg?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-04-21T08:31:45+00:00",
+          "published": "2026-04-21T08:53:56+00:00",
           "topic": "Lakers News"
         },
         {
           "id": "c16dd3d4f8d2",
           "title": "Deandre Ayton Credits JJ Redick\u2019s Trust for Confidence vs. Rockets",
           "original_title": "Deandre Ayton says JJ Redick\u2019s trust in him gave him confidence vs. Rockets",
-          "summary": "In an interview, Deandre Ayton said that assistant coach JJ Redick\u2019s confidence in him helped boost his performance against Houston. With injuries to Luka Don\u010di\u0107 and Austin Reaves, the Lakers expect greater production from role players like Ayton.",
+          "summary": "With Luka Don\u010di\u0107 and Austin Reaves sidelined, the Lakers have leaned more heavily on role players. Deandre Ayton said that JJ Redick\u2019s confidence in him helped him stay composed and productive against the Houston Rockets.",
           "key_points": [
-            "Redick\u2019s endorsement gave Ayton added confidence entering the game.",
-            "Lakers\u2019 injuries have increased responsibilities for bench players.",
-            "Ayton aims to respond to heightened scrutiny with stronger play."
+            "Injuries to Don\u010di\u0107 and Reaves increased expectations for Lakers role players.",
+            "Ayton felt added pressure but cited Redick\u2019s trust as a confidence boost.",
+            "Ayton delivered a solid performance in the win over Houston."
           ],
           "link": "https://www.silverscreenandroll.com/lakers-news/114803/deandre-ayton-lakers-rockets-2026-nba-playoffs-stats-game-1-jj-redick",
           "source": "Silver Screen and Roll",
@@ -37,13 +97,13 @@
         },
         {
           "id": "c381173d1ec9",
-          "title": "Houston Rockets vs. Los Angeles Lakers: Live Game Updates (Australia)",
+          "title": "Live Updates: Rockets vs. Lakers on Yahoo Sports Australia",
           "original_title": "Houston Rockets vs. Los Angeles Lakers: live game updates, stats, play-by-play - Yahoo Sports Australia",
-          "summary": "Yahoo Sports Australia delivered live coverage of the Rockets\u2011Lakers contest, mirroring the U.S. feed with play\u2011by\u2011play commentary and statistical updates for Australian audiences. The service tracked scoring bursts, defensive stops, and player contributions throughout the game.",
+          "summary": "Yahoo Sports Australia provided real\u2011time play\u2011by\u2011play, statistics, and updates for the matchup between the Houston Rockets and Los Angeles Lakers. The feed covered scoring runs, key defensive stops, and individual player stats as the game unfolded.",
           "key_points": [
-            "Real\u2011time stats and play descriptions tailored for Australian viewers.",
-            "Highlights included lead changes and key individual performances.",
-            "Serves as a comprehensive resource for fans following the game overseas."
+            "Live play\u2011by\u2011play commentary tracked scoring swings and momentum shifts.",
+            "Statistical leaders for both teams were highlighted throughout the game.",
+            "The service offered instant updates on injuries, fouls, and bench contributions."
           ],
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZnNrZm9wd2FmRmtuc3pWMlFucUVZVHlGNlV2WDY1ZEIyQ2J3eU1QMmpnU0FwUWd3T0otWFF2RFQ5bmV3WW9zb3Q5MHdUZFJIM2xRVG91SkpYZ2dTaUE4V3RLZERYWDY3TVhSTjcwTXNySERicTRmYzJ1WkZZMDNoNk1oSUdEc3Rfak9VRlJR?oc=5",
           "source": "Google News - Lakers",
@@ -52,13 +112,13 @@
         },
         {
           "id": "752b28e4710d",
-          "title": "Lakers vs. Rockets Game 2 Preview: Can L.A. Take Control?",
+          "title": "Lakers Aim to Take Control in Game 2 vs. Rockets",
           "original_title": "Lakers vs. Rockets Game 2 Preview: Can L.A. take control?",
-          "summary": "Ahead of Game 2 of the first\u2011round series, the preview outlines the Lakers\u2019 goal to seize a 2\u20110 lead and protect their home court. It notes the importance of maintaining momentum after the opening win and provides broadcast details.",
+          "summary": "Ahead of Game 2 of the first\u2011round series, the Lakers look to extend their lead and protect home\u2011court advantage against the Rockets. The preview notes the importance of maintaining pressure and capitalizing on the momentum from Game 1.",
           "key_points": [
-            "Lakers aim to extend their series advantage to 2\u20110.",
-            "Home\u2011court protection is a key strategic focus.",
-            "Game starts at 7:30\u202fp.m. PT on April\u202f21; TV schedule included."
+            "Series tied 1\u20111; a win would give L.A. a 2\u20110 edge.",
+            "Key focus on defensive intensity and second\u2011unit scoring.",
+            "Game scheduled for 7:30\u202fp.m. PT on April\u202f21, broadcast details included."
           ],
           "link": "https://www.silverscreenandroll.com/lakers-game-previews/114805/lakers-vs-rockets-game-2-game-1-discussion-injury-report-how-to-watch-tv-stream-start-time-kevin-durant-lebron-james",
           "source": "Silver Screen and Roll",
@@ -69,11 +129,11 @@
           "id": "6aa2b54ee2cd",
           "title": "Lakers vs. Rockets Game 2 Preview: Can L.A. Take Control?",
           "original_title": "Lakers vs. Rockets Game 2 Preview: Can L.A. take control? - Silver Screen and Roll",
-          "summary": "Silver Screen and Roll\u2019s repeat of the Game\u202f2 preview emphasizes the Lakers\u2019 pursuit of series control against the Rockets. The article reiterates the matchup timing and stakes without adding new analysis.",
+          "summary": "A duplicate preview from Silver Screen and Roll, republished via Google News, reiterates the Lakers\u2019 goal of seizing a series advantage in Game\u202f2 against Houston. The article emphasizes the strategic adjustments needed after the opening contest.",
           "key_points": [
-            "Reaffirms Lakers\u2019 objective to secure a 2\u20110 series lead.",
-            "Highlights the same start time and broadcast information as the earlier preview.",
-            "Serves as a concise reminder of the upcoming game\u2019s importance."
+            "Lakers seek to solidify a series lead with a home win.",
+            "Coaching adjustments and player rotations are highlighted as critical.",
+            "The preview underscores the stakes of protecting home\u2011court momentum."
           ],
           "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNd3BQVmJHV3JwVnFNUWhyaUlaXzVWYkJvUGhEbzY5VzBkanl6WHM4a1J3WjJiX0ZHMXdjYkFZQTQ1WlJJd1RuTG82ckZqSGoxQ1NldXNmZ3VYaWZHb0JlQ1ZacUdyTmxkajljWGZORjJwMGVTcUFXbUh6RklvTFVOWFpkcXNWcDZDUU41TVlQS191NnJpUXRCdV92WXFBQUQ5dmthajNYenE1OU5yejJRRlFQNzFqd3dGSWl3bUhRSlpWZ1hDZlQ2bWlsRHN0emNvemhZdERydjRQVzRnVEhJeExxNGZLSnVSa0JlV05kckRpcnpRZjJ5d19mLWw2TmtCczZwbjU0REFsSXJO?oc=5",
           "source": "Google News - Lakers",
@@ -82,77 +142,17 @@
         },
         {
           "id": "fcf42772251a",
-          "title": "Giannis' 'I Don't Like L.A.' Comment Sparks Lakers Fan Backlash",
+          "title": "Giannis Antetokounmpo\u2019s \u2018I Don\u2019t Like L.A.\u2019 Comment Sparks Lakers Fan Reaction",
           "original_title": "Why Lakers fans are freaking out after Giannis Antetokounmpo's recent 'I don't like L.A.' comment - sportingnews.com",
-          "summary": "Milwaukee Bucks star Giannis Antetokounmpo said he doesn't like Los Angeles during a recent interview, prompting a wave of criticism from Lakers supporters. The remark was taken out of context by some media outlets, but fans expressed frustration, fearing it could fuel a rivalry narrative ahead of the playoffs.",
+          "summary": "Sporting News reports that Giannis Antetokounmpo\u2019s recent remark about not liking Los Angeles has ignited a strong response from Lakers supporters. The article outlines fan backlash and the broader context of the comment within NBA rivalries.",
           "key_points": [
-            "Giannis said he \"doesn't like L.A.\" while discussing his personal preferences, not the Lakers organization.",
-            "Lakers fans reacted strongly on social media, viewing the comment as disrespectful toward the city and franchise.",
-            "Analysts note the comment is unlikely to affect on\u2011court competition, but it adds extra chatter to the upcoming Lakers\u2011Bucks matchups."
+            "Giannis\u2019 comment was made during a post\u2011game interview and referenced Los Angeles in general.",
+            "Lakers fans expressed frustration on social media, calling for a response.",
+            "The piece notes that such remarks are common in NBA rivalry banter and unlikely to affect on\u2011court performance."
           ],
           "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPcE5XdnFZcVFPZXdwRkpNcWVjVXFxdDFSNjVtQWxPeWs2T19YVm42TXlPLThOS1BaSVhkOEtGa19TM1lmcTV3MkY3d3MtU1BSemhwUmF6akxhaXRmZllOcU9uNG1MeHR1aEdwLXlUZGxLUURicjBQeXdCbVQ5VUU0NnllSXVlWVV3b1BsbHJMelF0MTdMWUlUQVBZaGdHUXNLSDdyczU4WENubG5ySG1McE1yQ2VsT0wzZ1NVa2ZMTzRtd2d2b29MM2VTelk0Q2pjazNCcXczZWNDY0hLc3M2TlE1alRxZUY2cW5tcDlRbWxCbWVHNkJyWlJBSUpaU1F6?oc=5",
           "source": "Google News - Lakers",
           "published": "2026-04-21T04:47:05+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "fdcb92eea855",
-          "title": "Giannis' 'I Don't Like L.A.' Comment Fuels Lakers Fan Anxiety",
-          "original_title": "Why Lakers fans are freaking out after Giannis Antetokounmpo's recent 'I don't like L.A.' comment - Yahoo Sports",
-          "summary": "Yahoo Sports reports that Giannis Antetokounmpo's statement about disliking Los Angeles has ignited concern among Lakers fans. The piece highlights how the comment was amplified on social media and examines potential implications for the Lakers' brand perception.",
-          "key_points": [
-            "The quote originated from a post\u2011game interview and was quickly shared across platforms.",
-            "Lakers supporters worry the remark could intensify the rivalry with the Bucks, especially with a possible playoff meeting.",
-            "NBA commentators suggest the focus should remain on performance rather than off\u2011court remarks."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbkw2a2JsWXNQRkh5QWV5WEZFT1JlakR3TUFWMENYbFBvWl9ack13YThXTUd1Q1p4aHVVT3I5WVZVRUhEdDNZcHZ6SVRQWGJUd1JyeDU1UmQ4TGVIV1dIVFV0TEJ6YWVYMURuYzd4S2pBR1NKM1B4MGo2c1R6LWdGU0xqUkxlZHRQ?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-21T04:47:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "5c9eabc5250e",
-          "title": "Rockets vs. Lakers Game 2 Preview: What to Expect",
-          "original_title": "Houston Rockets vs. Los Angeles Lakers Game 2 preview - The Dream Shake",
-          "summary": "The Dream Shake outlines the key storylines heading into Game 2 of the Rockets\u2011Lakers series. The preview examines Houston's recent adjustments and Los Angeles' need for consistent scoring from its supporting cast.",
-          "key_points": [
-            "Houston aims to exploit the Lakers' interior defense after a strong rebounding effort in Game 1.",
-            "Lakers must rely on role players like Austin Reaves and D'Angelo Russell to supplement LeBron James and Anthony Davis.",
-            "Both teams are expected to tighten defensive rotations, making the second matchup potentially lower\u2011scoring."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa3hKb29MR3lqclJIcDNUQUs0RDlnMUdiaGVOb2VCY2xOM0tFVlZqSG55cjd4YjRscy1yTUt3WFZzTHVtQnk4bU5JX1RKTFZmYXBWMkJVazBHOFEwM25WQUd5RXEta1hNdlBJNXNHZnJLR1pKTHlKTll2Z2x0VTVySzJCTGVPOENlcmNyd3ZkR1RpLTZpU29fWGVtSUlaSER6T0dtcU9hQXpyUG9sZ1BJ?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-21T04:00:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "cf8dea66081c",
-          "title": "How to Watch Rockets\u2011Lakers Game 2: TV and Live Stream Details",
-          "original_title": "How to watch Houston Rockets-Los Angeles Lakers, Game 2: TV, live stream for Tuesday's NBA playoff game - NBC Sports",
-          "summary": "NBC Sports provides the broadcast schedule and streaming options for Tuesday's playoff Game 2 between Houston and Los Angeles. The guide includes channel numbers, online platforms, and a brief recap of Game 1 highlights.",
-          "key_points": [
-            "The game will air nationally on TNT, with a live stream available via the NBA app and participating TV provider apps.",
-            "Game 1 recap notes Luke Kennard's increased role for a short\u2011handed Lakers lineup.",
-            "Viewers are advised to check local listings for any regional blackouts or alternate channels."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdEpwd2FJOThpNkx5cFZVQktsT2F1ZExQd3NYNHA3RDgzR0FNUjFPUXpmR29EdUpkaWNvUnlJa3p2ZmxxTEswakh6VFRUd0lqYUZXbkZfWldRU21SM2VGcHFLZm05RzUxOVAxalNVOTB6ekI1NmNONWhBTGYxR1ZDSzl2V2tKdkRmalRFMUlJLTVubTFpS1VjMjlwT0RZWlhFeWlGal81RF9ISXE4MG1ZYkhMUjVFbEVrU2RuUHBBOU1HeE50NVd3YmpqNklRczdMblJjM3pBeUYyOS1iM0hr?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-21T02:56:18+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "7bde1f44d77d",
-          "title": "Lakers Release Luka Don\u010di\u0107 Injury Update Before Rockets Game 2",
-          "original_title": "Los Angeles Lakers Announce Luka Doncic Injury Decision Before Rockets Game 2 - heavy.com",
-          "summary": "Heavy.com reports that the Los Angeles Lakers announced the status of Luka Don\u010di\u0107's injury ahead of the second playoff game against Houston. The team confirmed that Don\u010di\u0107 will miss the matchup due to a lingering ankle issue.",
-          "key_points": [
-            "Don\u010di\u0107 suffered a Grade 2 ankle sprain in the series opener and is listed as day\u2011to\u2011day.",
-            "Lakers will rely on Anthony Davis and their bench depth to compensate for his absence.",
-            "The injury update may affect betting lines and strategic planning for both teams."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ1A3Nk8wNndRVzJqYmFjMkl5RkZjRFRiQnZoZTkydzFZZllLZExyOEQ4MXlCWnpRLTc4cllsVExOdTRzY2ZVdmo5cGlXZGIyTERDaWh0X1lSaDVfY29FODd0OFBpdzUtLUdmT2NyVGN1QU9tN3lESHExcFhIaEZLbTdxRDF5VjJWVXVfMGFHSl9ueXR2QXc?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-21T01:40:00+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -161,153 +161,78 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "b6880fc9b1fa",
-          "title": "Wembanyama Wins Defensive Player of the Year Unanimously",
-          "original_title": "Wembanyama wins NBA award with 100% of vote",
-          "summary": "San Antonio Spurs center Victor Wembanyama was named the NBA Defensive Player of the Year, becoming the first player ever to receive the honor with a 100% vote. The award reflects his impact on the defensive end despite missing time with injuries.",
+          "id": "f4e7d5b3fa1e",
+          "title": "Could Larry Bird Still Dominate the NBA Today?",
+          "original_title": "YouTube Gold: Could Larry Bird Still Dominate The NBA Today?",
+          "summary": "Yahoo Sports examines the timeless skill set of Hall of Famer Larry Bird, arguing that his basketball IQ, shooting, and competitiveness would translate to success in the modern NBA. The piece highlights how Bird\u2019s versatility and work ethic would allow him to thrive against today\u2019s athletes.",
           "key_points": [
-            "Wembanyama received every vote for Defensive Player of the Year, a historic first.",
-            "The Spurs highlighted his rim protection, shot\u2011blocking, and ability to alter opponents' shots.",
-            "His unanimous selection came despite playing only 57 games due to injuries."
+            "Bird\u2019s elite shooting, passing, and rebounding would remain effective in the current pace-and-space era.",
+            "His high basketball IQ and competitive fire are cited as traits that transcend generational differences.",
+            "The article suggests that, despite changes in rules and athleticism, Bird\u2019s fundamentals would still make him a dominant player."
           ],
-          "link": "https://sports.yahoo.com/articles/wembanyama-named-nba-defensive-player-074436566.html",
+          "link": "https://sports.yahoo.com/articles/youtube-gold-could-larry-bird-100500197.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-04-21T07:55:38+00:00",
+          "published": "2026-04-21T10:05:00+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "5e687b7acd9c",
-          "title": "Gobert Dominates Jokic in Game 2 After DPOY Snub",
-          "original_title": "Gobert carries DPOY snub into Jokic matchup, win",
-          "summary": "Timberwolves center Rudy Gobert, who finished fourth in Defensive Player of the Year voting, limited three\u2011time MVP Nikola Jokic to 1\u2011of\u20118 shooting in Game 2, helping Minnesota tie the series 1\u20111 with a 119\u2011114 win. Gobert\u2019s defensive effort was a key factor in the victory.",
+          "id": "5846728ddba4",
+          "title": "USA TODAY's '250 for 250' List Ranks the NBA GOATs",
+          "original_title": "Who is the NBA GOAT? The greatest U.S. basketball players of all time, from MJ to 'Pistol Pete'",
+          "summary": "Yahoo Sports outlines USA TODAY\u2019s list of the 250 greatest U.S. basketball players, focusing on the top contenders for the greatest\u2011of\u2011all\u2011time title: Michael Jordan, LeBron James, Kobe Bryant, and Kareem Abdul\u2011Jabbar. The article provides brief context for each legend\u2019s place in the ranking.",
           "key_points": [
-            "Gobert held Jokic to just 1\u2011of\u20118 shooting, well below his season averages.",
-            "Minnesota won 119\u2011114, evening the first\u2011round series with Denver.",
-            "Gobert finished fourth in DPOY voting, underscoring his defensive reputation."
+            "Michael Jordan, LeBron James, Kobe Bryant, and Kareem Abdul\u2011Jabbar are highlighted as the primary GOAT candidates.",
+            "The list includes 250 players, reflecting a broad historical perspective on U.S. basketball greatness.",
+            "Each player\u2019s impact on the game, championships, and individual accolades are noted as criteria for their ranking."
           ],
-          "link": "https://www.espn.com/nba/story/_/id/48547786/timberwolves-rally-nuggets-win-game-2-even-series",
-          "source": "ESPN NBA",
-          "published": "2026-04-21T07:49:41+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "321b70853687",
-          "title": "Edwards, Randle Lead Timberwolves\u2019 Comeback to Tie Series",
-          "original_title": "Edwards, Randle combine to spark another Timberwolves comeback win vs. Nuggets, tie series.",
-          "summary": "The Minnesota Timberwolves erased a 19\u2011point deficit to beat the Denver Nuggets 119\u2011114 in Game 2, tying the series. Anthony Edwards delivered 30 points, 10 rebounds and two blocks, while Julius Randle added 24 points.",
-          "key_points": [
-            "Minnesota rallied from 19 points down in the second half.",
-            "Edwards posted a 30\u2011point, 10\u2011rebound performance with two blocks.",
-            "Randle contributed 24 points, helping the Wolves force a series tie."
-          ],
-          "link": "https://sports.yahoo.com/articles/edwards-randle-combine-spark-another-074632686.html",
+          "link": "https://sports.yahoo.com/articles/nba-goat-greatest-u-basketball-100126829.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-04-21T07:46:32+00:00",
+          "published": "2026-04-21T10:01:26+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "668186492632",
-          "title": "McDaniels Labels Nuggets \u2018All Bad Defenders\u2019 After Game\u20112 Win",
-          "original_title": "Jaden McDaniels calls Nuggets 'all bad defenders' after Timberwolves rally to win Game 2",
-          "summary": "Following Minnesota\u2019s 119\u2011114 victory in Game 2, forward Jaden\u202fMcDaniels criticized the Denver Nuggets, calling all their players \u201cbad defenders,\u201d including stars Nikola Jokic and Jamal Murray. The comment came after the Timberwolves rallied to win the game.",
+          "id": "2b34d80c3193",
+          "title": "Cavaliers\u2019 Physical Play Propels Game 2 Win Over Raptors",
+          "original_title": "9 Takeaways from Cavs Game 2 win over Raptors: Physicality finally favors Cleveland",
+          "summary": "Yahoo Sports breaks down nine key takeaways from Cleveland\u2019s Game 2 victory, emphasizing the team\u2019s increased physicality and improved execution. The analysis suggests the Cavaliers are shedding the identity of last season\u2019s squad and emerging as a more competitive playoff contender.",
           "key_points": [
-            "McDaniels made a blanket statement that every Nuggets player is a poor defender.",
-            "The remark was made after the Wolves\u2019 comeback win that tied the series.",
-            "His criticism highlighted the defensive struggles of Nuggets stars Jokic and Murray in that game."
+            "Cleveland\u2019s heightened physicality helped them dominate the paint and limit Toronto\u2019s scoring opportunities.",
+            "Improved ball movement and defensive rotations were evident compared to earlier in the season.",
+            "The win signals a shift in the Cavaliers\u2019 identity, indicating progress beyond their previous year\u2019s performance."
           ],
-          "link": "https://sports.yahoo.com/articles/jaden-mcdaniels-calls-nuggets-bad-071536968.html",
+          "link": "https://sports.yahoo.com/articles/9-takeaways-cavs-game-2-100000966.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-04-21T07:15:36+00:00",
+          "published": "2026-04-21T10:00:00+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "3b8341c87cc4",
-          "title": "McCollum Becomes MSG Villain as Hawks Edge Knicks in Game 2",
-          "original_title": "McCollum plays MSG villain as Hawks tie series",
-          "summary": "CJ\u202fMcCollum sparked a fourth\u2011quarter rally that gave the Atlanta Hawks a 107\u2011106 win over the New York Knicks, tying their first\u2011round series. His clutch shooting at Madison Square Garden earned him a reputation as a venue \u201cvillain.\u201d",
+          "id": "a12be2660849",
+          "title": "Celtics\u2019 31 Assists Highlight Spacing in Game 1 Blowout",
+          "original_title": "Parquet Plays: Spain and spacing in Game 1",
+          "summary": "Yahoo Sports reports that Boston\u2019s emphasis on spacing and ball movement led to a Game 1 rout, with the team dishing out 31 assists. The performance underscores the effectiveness of the Celtics\u2019 modern, perimeter\u2011oriented offense.",
           "key_points": [
-            "McCollum\u2019s late\u2011game scoring helped the Hawks overcome a deficit and win by one point.",
-            "The victory tied the series 1\u20111 between Atlanta and New York.",
-            "His performance added him to the list of players who struggle for Knicks fans at MSG."
+            "Boston recorded 31 assists, reflecting exceptional teamwork and spacing.",
+            "The blowout win demonstrates the Celtics\u2019 ability to exploit defensive gaps with perimeter shooting.",
+            "The article credits the coaching staff\u2019s scheme for fostering a high\u2011assist, high\u2011efficiency offense."
           ],
-          "link": "https://www.espn.com/nba/story/_/id/48546628/cj-mccollum-leads-late-rally-hawks-stun-knicks-tie-series",
-          "source": "ESPN NBA",
-          "published": "2026-04-21T07:05:47+00:00",
+          "link": "https://sports.yahoo.com/articles/parquet-plays-spain-spacing-game-081200460.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-21T08:12:00+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "eb53cf9bffad",
-          "title": "Victor Wembanyama Becomes First Unanimous Defensive Player of the Year",
-          "original_title": "Wemby captures DPOY as first unanimous winner",
-          "summary": "Victor Wembanyama, 22, was named the NBA Defensive Player of the Year, making history as the youngest recipient ever and the first player to earn the honor unanimously. His impact on both ends of the floor solidified his status as a generational talent.",
+          "id": "78578e411c3a",
+          "title": "Deandre Ayton Credits JJ Redick\u2019s Trust for Confidence vs. Rockets",
+          "original_title": "Deandre Ayton says JJ Redick\u2019s trust in him gave him confidence vs. Rockets",
+          "summary": "Yahoo Sports highlights Deandre Ayton\u2019s strong showing in the Lakers\u2019 Game 1 win over the Rockets, noting that coach JJ Redick\u2019s confidence boosted Ayton\u2019s performance. The piece suggests this could be the start of a successful run for Los Angeles.",
           "key_points": [
-            "Wembanyama is the youngest Defensive Player of the Year in league history.",
-            "He received every first\u2011place vote, becoming the award's first unanimous winner.",
-            "His defensive versatility was highlighted as a key factor in his team's success."
+            "Ayton delivered a dominant performance, contributing significantly to the Lakers\u2019 victory.",
+            "Coach JJ Redick\u2019s public trust in Ayton is cited as a key factor in the player\u2019s confidence.",
+            "The win is framed as a potential turning point for the Lakers early in the season."
           ],
-          "link": "https://www.espn.com/nba/story/_/id/48544568/spurs-victor-wembanyama-captures-first-career-dpoy",
-          "source": "ESPN NBA",
-          "published": "2026-04-21T07:05:47+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "89c82b0a773e",
-          "title": "Cavaliers' Star Trio Powers 2\u20110 Playoff Lead Over Raptors",
-          "original_title": "Star trio steps up as Cavs cruise to 2-0 lead",
-          "summary": "Donovan Mitchell scored 30 points, James Harden added 28, and Evan Mobley contributed 25 as Cleveland took a 2\u20110 series advantage against Toronto. The offensive outburst underscored the Cavaliers' early playoff dominance.",
-          "key_points": [
-            "Mitchell led with 30 points, Harden had 28, and Mobley posted 25.",
-            "Cleveland secured a 2\u20110 lead in the series, putting Toronto on the brink.",
-            "The trio's balanced scoring highlighted the Cavaliers' depth and execution."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48546170/mitchell-harden-help-cavaliers-roll-raptors-2-0-lead",
-          "source": "ESPN NBA",
-          "published": "2026-04-21T07:05:47+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "6335abd46619",
-          "title": "Draymond Green Says Steve Kerr Likely Near End of Tenure with Warriors",
-          "original_title": "Draymond on Kerr's future: 'Felt like that was it'",
-          "summary": "Warriors forward Draymond Green expressed hope that Steve Kerr returns but suggested the 2023\u201124 season may have been Kerr's final year coaching the team. Green reflected on the franchise's direction and the uncertainty surrounding the coaching future.",
-          "key_points": [
-            "Green hopes Kerr will be back but believes the season felt like a possible final one.",
-            "He noted the difficulty of predicting the franchise's next coaching move.",
-            "Comments came amid broader speculation about the Warriors' leadership after a challenging season."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48543314/draymond-green-predicts-steve-kerr-back-next-season",
-          "source": "ESPN NBA",
-          "published": "2026-04-21T07:05:47+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "de8b566c847a",
-          "title": "Kevin Durant Listed as Game\u2011Time Decision for Rockets' Game 2 vs. Lakers",
-          "original_title": "Durant game-time decision for Game 2 vs. Lakers",
-          "summary": "Houston Rockets star Kevin Durant participated in roughly half of Monday's practice and will be a game\u2011time decision for the team's second matchup against the Los Angeles Lakers. The uncertainty centers on his health and readiness after recent minutes.",
-          "key_points": [
-            "Durant attended about 50% of the team's practice session.",
-            "His status for Game 2 against the Lakers will be decided later on game day.",
-            "The decision hinges on his recovery and any lingering issues."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48544401/rockets-kevin-durant-game-decision-game-2",
-          "source": "ESPN NBA",
-          "published": "2026-04-21T07:05:47+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "2e80161e3e02",
-          "title": "NBA Completes 2026 Draft Tiebreakers, Jazz Retain Protected Pick",
-          "original_title": "NBA breaks draft ties; Jazz keep protected pick",
-          "summary": "The league finalized its tiebreaking procedures for the 2026 NBA Draft, establishing the order for picks 15 through 30 and resolving two intra\u2011lottery ties. The Utah Jazz secured a protected pick as part of the outcome.",
-          "key_points": [
-            "Tiebreaking process set draft positions from 15 to 30.",
-            "Two ties among lottery\u2011eligible teams were resolved.",
-            "Utah Jazz kept a protected draft pick under the new order."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48544672/nba-breaks-ties-2026-draft-position-jazz-keep-protected-pick",
-          "source": "ESPN NBA",
-          "published": "2026-04-21T07:05:47+00:00",
+          "link": "https://sports.yahoo.com/articles/deandre-ayton-says-jj-redick-075648782.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-21T07:56:48+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -316,14 +241,59 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "2aff69399cac",
-          "title": "Luka Doncic Receives Major Update After Returning to Practice",
-          "original_title": "Lakers Get Massive Luka Doncic Update After Return to Practice on Monday - heavy.com",
-          "summary": "Luka Doncic rejoined the Los Angeles Lakers' practice session on Monday, prompting the team to release a detailed health and status update. The report outlines his current condition, expected minutes, and any lingering concerns for upcoming games.",
+          "id": "f7f5bb7a9ec6",
+          "title": "Stephen A. Smith Lavishes Praise on LeBron James After Historic Performance",
+          "original_title": "LeBron James Receives Huge Praise From Stephen A. Smith After Historic Performance - heavy.com",
+          "summary": "LeBron James delivered a historic performance that prompted ESPN commentator Stephen A. Smith to publicly commend him. Smith highlighted James' impact on the game and his continued relevance among NBA elites.",
           "key_points": [
-            "Doncic participated in the Monday practice, marking his first on\u2011court activity since his injury.",
-            "Team doctors provided a comprehensive health report, indicating no major setbacks.",
-            "Coaches expect Doncic to be available for the next scheduled game, with monitored minutes."
+            "LeBron's recent game set or approached franchise/league records.",
+            "Stephen A. Smith described the performance as \"historic\" and praised James' leadership.",
+            "The praise underscores LeBron's enduring status despite his veteran age."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRDdUclZMdDRZNWNfOHBjYUc4QTZqN0VfdnJmTmJnT1dNU2hnLUF4TENXUk5vb29FZ1ZxaVNrUkZPTTM4RUhPbVNPcEdiak5kMEdwYnZqbXZlbHY0MDdyQmQ4X3hTN0ZiTjhCUlA3czhGN0xEMXRDRGhIU0htSlB1X0VfS0dla2FybU0wc3h0MDdremZJMWM5Xw?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-04-21T11:01:17+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "e96d7683c2d2",
+          "title": "Luka\u202fDoncic Calls New Lakers Signing His \"Slovenian Brother\"",
+          "original_title": "Doncic signs a Lakers colossus for Slovenia: \"Luka calls me his Slovenian brother\" - MARCA",
+          "summary": "Luka\u202fDoncic announced that a newly signed Los Angeles Lakers player, described as a \"colossus,\" will join him as a teammate for the Slovenian national team. The comment emphasizes the growing connection between the two Slovenian stars.",
+          "key_points": [
+            "The Lakers added a physically imposing player who is also Slovenian.",
+            "Doncic referred to the newcomer as his \"Slovenian brother,\" indicating strong chemistry.",
+            "The signing could bolster both the Lakers' frontcourt depth and Slovenia's national team."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaHNjaUFnMlNHR25tTW90NDRVUm1RT1k3OHlFTVNCSXRLeWtZd2E1cC1tdXo3clVvWnNZdWV2Mm91czJ3RDhVTURJWnNKSUdVNFFkUExXM0s4ZjJjQnZtQTNDUkZtSHRNODZSWUtqdEt2NWlYcEFtZXZYc0hhNHMtZ29XWFFXeF9NNHBRV1ZkaU9SSTBjaGtSN09RMkdJUFJi0gGgAUFVX3lxTE5EWXAybjdRRk1ST2dTcml6OWcxUXAyX3dQemhLY3duZUNROVE1UmJ2Vldvbi13eU9tVC1QdmRiNTh3QkJuUlRHN2o1TFVBNHBsa2xhR09DMWpjeWFkUFdZU2ROcU40cFBPOGxmSDF3YXFCWDl2M2J2YmZ3MEFSVUhYNDdGX1NOMWxCMEx1RXdNTVY5bFN6czJRQmdBcHpiak0?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-04-21T10:42:43+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "623dc11588b6",
+          "title": "USA Today Ranks 30 NBA Players With the Strongest GOAT Claims",
+          "original_title": "Who's the NBA's GOAT? 30 players who have the best claim - USA Today",
+          "summary": "USA Today published a list of 30 NBA athletes who have the most compelling arguments for being the greatest of all time. The ranking includes a mix of past legends and current stars, sparking debate among fans and analysts.",
+          "key_points": [
+            "The list evaluates players based on championships, individual accolades, and overall impact.",
+            "LeBron James is featured prominently among the top contenders.",
+            "The article invites discussion on criteria for GOAT status across eras."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTVdOQmpiQUJSUXdCa1Q4c0FjcGVSc2c4ZGtfdEdPUHVuSUoxeW9BdVRlS1RzSEFYaF8tYWh1b0xwX1paV0Z4T0l6YmtVcHc4eThuMDV2RzRtNWFKdkpQTVotRTUwYUF3a0JweDZKU1hRS3lTV1ZMcDlmeTBDRml2M3ZvMW5CVjRUVTBsTzM0VkhuQWE4ZDZVeV9HQjZhUnhOczdmZEFHT1hSTWM0bGpMMmlXMlpVbE1JZ0xzTFdxSEhEbU5kVHRDdEJvZlh3RUl1UGVpX3BTQQ?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-04-21T10:01:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "2aff69399cac",
+          "title": "Lakers Receive Major Update on Luka\u202fDoncic After Practice Return",
+          "original_title": "Lakers Get Massive Luka Doncic Update After Return to Practice on Monday - heavy.com",
+          "summary": "Following Luka\u202fDoncic's return to practice, the Los Angeles Lakers released a detailed update on his health and readiness. The information suggests he is progressing well and could soon rejoin game action.",
+          "key_points": [
+            "Doncic missed time due to injury but has completed his first practice back.",
+            "Team doctors report no setbacks and a positive trajectory toward full participation.",
+            "The update raises expectations for his impact in upcoming Lakers games."
           ],
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbHdPLUtqeGlEV3lXN3IybWJicHlFSkxmN0xkZkRpR3AtcEMtVWpyaGgzRnl5NzhwOEJpcmkxRm1iZVFOcGI1TE40UUtWWnpBYTdSQTZKM1Mzakc5Z1hWRkdJSm8xWjQzU0RFRVVNNDdwVFB0S0lvX2dTT2dqdUt5VUdn?oc=5",
           "source": "Google News - Luka",
@@ -332,13 +302,13 @@
         },
         {
           "id": "a635f64b098d",
-          "title": "Jeanie Buss Comments on LeBron James' Future with the Lakers",
+          "title": "Jeanie Buss Weighs In on LeBron James' Future With the Lakers",
           "original_title": "Jeanie Buss reveals whether she wants LeBron James to stay with Lakers - LeBron Wire",
-          "summary": "Jeanie Buss addressed rumors about LeBron James' contract situation, stating her personal preference regarding his stay in Los Angeles. While she expressed a desire for continuity, she emphasized that the final decision rests with the organization and the player.",
+          "summary": "Jeanie Buss, the Lakers' controlling owner, shared her perspective on whether the franchise wants to retain LeBron James. She expressed confidence in the team's direction while acknowledging the importance of James' role.",
           "key_points": [
-            "Buss indicated she would like James to remain with the Lakers.",
-            "She clarified that roster decisions involve multiple stakeholders, not just personal wishes.",
-            "No concrete contract details or timelines were disclosed."
+            "Buss indicated the organization values James but is also focused on building a sustainable roster.",
+            "She did not provide a definitive answer, leaving the decision open-ended.",
+            "The comments reflect ongoing discussions about contract extensions and team strategy."
           ],
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeWNTbUJRVms3eFdZSlZtbzg5YVN2MXBZbGFLY0ZLM19GRzZ4QXQ2MXVtUDZrQmJZMUREQ2dHZGdPS3FWMXZ6Y0hMQzJ4Q0lHb2pGMjRhSXREUXIwVjlsd2staG5zZXE0TlY0d2V6OU9FSUlvLU9qejZIVERqUU0wdGJTM1hheHBkdjI5cUREZ01yYjZ4eExabjJ4aFBtcFBBU2FZS0h4WjU0cGJ5ekR3NWZMUl9IMGo1emZYVmgybE1hMG9hSFVpQ25ET05GYWg3eUhhLUFzRUJ1RkU?oc=5",
           "source": "Google News - LeBron",
@@ -346,29 +316,14 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "cde839d0a7b3",
-          "title": "Jaxson Hayes Obtains Slovenian Citizenship to Play with Luka Doncic",
-          "original_title": "Jaxson Hayes secures Slovenian citizenship to join Lakers teammate Luka Doncic - Eurohoops",
-          "summary": "Jaxson Hayes has been granted Slovenian citizenship, enabling him to be classified as a domestic player for the Slovenian national team alongside teammate Luka Doncic. The move is expected to simplify roster logistics for international competitions.",
-          "key_points": [
-            "Hayes' new citizenship allows him to join Slovenia's national squad without occupying an import slot.",
-            "The decision aligns with the Lakers' broader strategy of fostering international ties among players.",
-            "No immediate impact on NBA roster status; the change pertains to FIBA competitions."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc0kybDhHNTZFNE1iOWo0OEtQdzktR1JBdnhjWldPZTlHakRST1EyVDBDbk5MdmVQclk1TFRqRjRDSzQ3Rks5Q1hJc196UTVKVHZ0VEdsRHhvWkEtRDlkank5Qjg5dzRvN1dfa29rMGZjZ2ViV182NWtJc0RMT09GRlFOak9YVFdZRjRYSnRUZEZhaUFQYTZWVGt6RDl5VmN6N0thX0hEMnUyT0ZTMGhCQUVNemhpeFF1LWx4eUZEblg?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-04-21T03:29:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
           "id": "38f4e847aeb7",
-          "title": "Luka Doncic Returns to Lakers Practice",
+          "title": "Luka Don\u010di\u0107 Returns to Practice with the Lakers",
           "original_title": "Luka Doncic returned to practice for the Lakers - LeBron Wire",
-          "summary": "Luka Doncic was seen back on the court during a Lakers practice session, confirming his recovery progress after a recent injury. Coaches used the session to evaluate his readiness for upcoming games.",
+          "summary": "Luka Don\u010di\u0107 participated in a team practice session, marking his first on\u2011court activity since his injury. The appearance was confirmed by the LeBron Wire and suggests progress in his recovery timeline.",
           "key_points": [
-            "Doncic's presence marks a positive step in his rehabilitation timeline.",
-            "Coaching staff monitored his movement and conditioning during drills.",
-            "The team anticipates his participation in the next game, pending final medical clearance."
+            "Don\u010di\u0107 was seen taking part in a full\u2011court practice with the Lakers.",
+            "The practice marks his first involvement since being sidelined with an injury.",
+            "Team officials view his return to practice as a positive sign for his health."
           ],
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRGFwVnRFZUYxUGtEZXlndlRQTzlMR0o0eno3b2xYZjVacDg2b1gxZi1GY0laVjlQQ3Q5WFNOY2huM1pTWVhoaHFvRlpmSVNDZG0yZVlLV1ljN20zazdmSDRzcGZRVG9pUi03YU9SS2szXzk0RVQ5TVMyS0pxaFVPbFpwQXJpMmhiRU9QclBLZjJDNVEybDhaMUdpRVRVOGo3cEJSTmhBa0ZFRG1JSW1xSmdtUFhJRFNlaUg1cQ?oc=5",
           "source": "Google News - Luka",
@@ -377,13 +332,13 @@
         },
         {
           "id": "c7f70b677073",
-          "title": "Lakers Notes: Doncic, Kennard, Game 2, Hayes",
+          "title": "Lakers Notes: Don\u010di\u0107, Kennard, Game 2, Hayes",
           "original_title": "Lakers Notes: Doncic, Kennard, Game 2, Hayes - Hoops Rumors",
-          "summary": "A roundup of recent Lakers news covering Luka Doncic's health update, Aaron Kennard's roster status, preview of Game 2, and Jaxson Hayes' recent developments. The article provides concise updates for each topic.",
+          "summary": "A roundup from Hoops Rumors highlighted updates on Luka Don\u010di\u0107\u2019s health, teammate Kentavious\u202fKennard\u2019s status, and the lineup for Game\u202f2, including a mention of rookie Jaden Hayes. The notes indicate ongoing injury concerns for the Lakers heading into the next matchup.",
           "key_points": [
-            "Doncic is cleared for limited minutes following his practice return.",
-            "Kennard remains on the roster with a focus on defensive assignments.",
-            "Hayes' Slovenian citizenship was highlighted as a notable off\u2011court development."
+            "Don\u010di\u0107 remains a focus of the injury report but is expected to be close to game\u2011ready.",
+            "Kennard\u2019s availability is uncertain, adding depth questions for the roster.",
+            "Jaden Hayes is being considered for a role in the upcoming Game\u202f2 lineup."
           ],
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSUJVM3RjcDFoaXVwWUtoZVotdTRhUmF6S3l1ZTNYQmdyMmxzb0pYOTBLUXQ0UXhJSVlKVUVuMUZacW1GWGNTSnBoVU1XaU9RalZ1b0c0QlU1eGU0OXhOYmM3ckhhaERfQlNaZS1ZUlpZUGczdkhRa2tZSHpkZFdOd0RTRF9McHkz?oc=5",
           "source": "Google News - Luka",
@@ -392,13 +347,13 @@
         },
         {
           "id": "cb77e9f995d7",
-          "title": "JJ Redick Gives Positive Update on Luka Don\u010di\u0107's Recovery",
+          "title": "JJ Redick Gives Positive Update on Luka Don\u010di\u0107\u2019s Recovery",
           "original_title": "Luka Doncic injury update: JJ Redick provides positive news about Lakers star\u2019s progress - The Times of India",
-          "summary": "Former NBA player and analyst JJ Redick said Luka Don\u010di\u0107 is making encouraging progress after his recent injury. Redick noted that the Lakers star is responding well to rehab and is expected to return soon, though no exact timeline was given.",
+          "summary": "Former player and analyst JJ Redick shared encouraging news about Luka Don\u010di\u0107\u2019s rehabilitation, saying the star is making steady progress. The Times of India reported that Redick believes Don\u010di\u0107 could return sooner than previously projected.",
           "key_points": [
-            "Redick reported Don\u010di\u0107 is showing good signs of recovery.",
-            "The player is actively participating in rehab programs.",
-            "No specific return date has been announced."
+            "Redick noted measurable improvements in Don\u010di\u0107\u2019s conditioning.",
+            "The outlook for Don\u010di\u0107\u2019s return has become more optimistic.",
+            "No specific return date was given, but expectations are rising."
           ],
           "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPWDM1U2REYURnenN6QlRURlZQX29uZnJmc0JzRXlQbC1KMHhfa3BmcDctU1U3cUxYbnpzN1g0TnJ5d1l1STEyRktvOFBWZTVLWEo5TGtvQ19FV2EwWVgtVElpcER1N1pYaFV0Zmh0M19UUWZKXzd3X3lHbmRtYUNyeEtlR0pMNmdVa1MtVHVZNDRJZnZOWG9YWHhGV2lMVll6T1RIM0QwdFAyOWlWOFBOVHV2OV94dFJ6RHUzNEd5SUEyTHNHZlB2VXJDX1hjclQzelRXc3RkS1J5TmU2V1A4bjVBLUJ2emZ1OV9kYXhycC01ckFSWDVra1lVNXBTYlNm0gGGAkFVX3lxTE50OC1zQjgzdm5aUkhPWGRDb3YySDcwR0I5WUo1ZXc4MzRHdUItVngwSzhmcUVRb2N3X1ZPeFJiQXJLRlBPdnBfX05nYzAxVUlZWVNSM1oxRzBHSjJqeFh6N215UmlZMFBDYzhhVDRnZVZqV3JoSTYxWXF0THFBN1VLcmE1czl0bHZHbEp6SW94bUp4WlFKRTcwbW9sVzlYLWs0ZHFmdktGNGttSGdCd0RYUlJVaGFTWGNhMDZyb1FhNFVDc3BLUEdJcFJDRG9uSVNwaEVVNmt4NUhBenJfNDYtbnNrWC1uUlFqYzc5ajlkdHQ4OS11a0VSUTA0cTFkellBd3JFbkE?oc=5",
           "source": "Google News - Luka",
@@ -407,13 +362,13 @@
         },
         {
           "id": "44784bbf67f7",
-          "title": "Lakers' Luka Don\u010di\u0107 Ruled Out for Tuesday Game",
+          "title": "Lakers' Luka Don\u010di\u0107 Officially Ruled Out for Tuesday",
           "original_title": "Lakers' Luka Doncic: Officially ruled out for Tuesday - CBS Sports",
-          "summary": "CBS Sports confirmed that Luka Don\u010di\u0107 will miss the Lakers' upcoming Tuesday matchup due to his injury. The team will have to adjust its lineup and rely on other contributors in his absence.",
+          "summary": "CBS Sports confirmed that Luka Don\u010di\u0107 will miss the upcoming Tuesday game due to his ongoing injury. The official ruling underscores that the team will need to adjust its game plan without its primary scorer.",
           "key_points": [
-            "Don\u010di\u0107 is officially listed as out for Tuesday.",
-            "The decision is based on his ongoing hamstring issue.",
-            "Lakers will need to find alternative scoring options for the game."
+            "Don\u010di\u0107 is listed as out for the Tuesday matchup.",
+            "The decision is based on medical staff evaluation of his injury.",
+            "Lakers will rely on other players to fill the scoring void."
           ],
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNVpXcFEzZ3JEZUpNS29pLTZIcHdwdm9LWlNKY2dfOVJPUzFtNVFjN0ZWbno3bFRFaXVtN3RFU3VPbk5iSkRpQmNGdU10V3M2V1k2T1BocWhxdEMyRHREcklhTDZGSGxWOENCbmZFTUY1S2huWHNmTXJiOFZiVV9aZmlrYjBWRVN5N3R4NjhuNTZIcGFQQ3dZQ1BWOUdWQ2tYSDlldw?oc=5",
           "source": "Google News - Luka",
@@ -421,48 +376,18 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "c833ed419642",
-          "title": "Nick Friedell Reacts to LeBron's Game\u20111 Victory Over Rockets",
-          "original_title": "Nick reacts to LeBron leading the Lakers to a Game 1 win vs. Rockets - FOX Sports",
-          "summary": "Fox Sports' Nick Friedell praised LeBron James after the Lakers secured a Game 1 win against the Houston Rockets. Friedell highlighted LeBron's leadership and clutch performance that helped the team clinch the victory.",
+          "id": "5f494d82a378",
+          "title": "Lakers Injury Update: Durant Questionable, Don\u010di\u0107 & Reaves Out for Game 2",
+          "original_title": "Lakers Injury Update: Kevin Durant Questionable; Luka Doncic & Austin Reaves Out For Game 2 - Lakers Nation",
+          "summary": "Lakers Nation reported that Kevin Durant is listed as questionable for Game\u202f2, while Luka Don\u010di\u0107 and Austin Reaves have been ruled out. The injuries leave the Lakers shorthanded as they prepare for the next contest.",
           "key_points": [
-            "LeBron led the Lakers to a Game 1 win over Houston.",
-            "Friedell emphasized LeBron's impact on both ends of the floor.",
-            "The win puts the Lakers in a favorable position early in the series."
+            "Durant\u2019s status is uncertain, listed as questionable.",
+            "Don\u010di\u0107 and Reaves are confirmed out for Game\u202f2.",
+            "The roster depth will be tested with multiple key players unavailable."
           ],
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQQUlrSjJEelN4Yl9vQm9UVDdQNE1iUmZYR3NlclRLX1B1cXMtUGpHSkNvalo3dW1yWnJsZU5qUVlfUDhJZDdycS0wMzNiZXdLbTF4cTZOMW0wcC1hY09WV0pBbEx4NDRBdVlKWFRB?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-20T23:34:09+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "5d154c58eec1",
-          "title": "Luka Don\u010di\u0107 Out for Game 2 with Hamstring Injury",
-          "original_title": "Luka Don\u010di\u0107 Out For Game 2 Due To Hamstring Injury - FanDuel",
-          "summary": "FanDuel reports that Luka Don\u010di\u0107 will miss Game 2 because of a hamstring injury. The Lakers will have to continue without their star guard for the second consecutive game.",
-          "key_points": [
-            "Don\u010di\u0107 is sidelined for Game 2 due to a hamstring strain.",
-            "The injury extends his absence beyond the first game.",
-            "Lakers must adjust rotations and rely on role players."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdnFEWTUtRTBaaER6NDA4NnZlQV9rbEptZF91ZUZCeDQxaWVVTFE1WllzUkp3WmtxQ05GNUhNTURXSUoyTmF1dGRzaThDTTgtNE41Z1lxX05rcUZqTkUxWWh3ZmVBV0J4NmhpM3hEcTJnbHFtODhDd2hsZ2dBSkx3U0xtc3VVZHR4by1IbnNnX0Z0VG9hbXd0V0pqZUtTaFplb3pqWlpuSW9GVWRxWHM2MENUTDhzS1dUYUo1dg?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOUhTOFhIX0lhelBTdDRzWUJJblFOQnNvUDFsZW9jbTlESzZjRThvRHMxVEM3MjJ1MlNmVTZHWW1URnFRRi1ZZ2FrejdSRzBDZ0Y5eENFc1JnZm94MDJNNTNPc3ZoMTNITDd1OVhJeDBGejVmTjB1U1l6X3N5ZS1yUzczNE5uc0Y1am01S1dVUENzc2ZNc05TVXZWc1I5RW5TLTFtRmROMUgtTFMxMzF6MjNDRQ?oc=5",
           "source": "Google News - Luka",
-          "published": "2026-04-20T22:45:32+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "5d9d9a3a9a74",
-          "title": "Lakers Face Unexpected Luke Kennard Free\u2011Agency Issue",
-          "original_title": "Lakers suddenly have a Luke Kennard free agency dilemma they might not control - Lake Show Life",
-          "summary": "Lake Show Life outlines a new free\u2011agency complication involving guard Luke Kennard, suggesting the Lakers may have limited control over the situation. The article examines potential roster and salary\u2011cap implications for Los Angeles.",
-          "key_points": [
-            "Kennard's contract status creates a free\u2011agency dilemma for the Lakers.",
-            "The team may have restricted options due to cap constraints.",
-            "Decision could affect roster depth and future planning."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaS1tN1V3UTZnSTFtZ2h5U1BBMFJrQlZsREktQ0c3djdJMy1aSEtUR3NSZktPMnhOYU9aelU3cjdtOEo2SEk3LVA3YkpHVjlQTTFya2R4dEdfM0dkUDZnLVhzajR0cHd5NERMOWUxZk5lNFNIRGdGN3dReW95VHFhdXMxWnY2UFdCMHhjQ09mSEJzOGJVRkhWVlRnclNyc1Jsc28wSENhZHlIS0FVYjM1M1BR?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-04-20T22:30:00+00:00",
+          "published": "2026-04-20T23:52:14+00:00",
           "topic": "Lakers Players"
         }
       ]
