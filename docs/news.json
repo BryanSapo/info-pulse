@@ -1,118 +1,158 @@
 {
-  "generated_at": "2026-04-20T22:44:41.203982+00:00",
+  "generated_at": "2026-04-21T02:47:02.221613+00:00",
   "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
+          "id": "7bde1f44d77d",
+          "title": "Lakers Confirm Luka Doncic\u2019s Injury Status Ahead of Rockets Game 2",
+          "original_title": "Los Angeles Lakers Announce Luka Doncic Injury Decision Before Rockets Game 2 - heavy.com",
+          "summary": "The Los Angeles Lakers announced that Luka\u202fDoncic will miss Game\u202f2 of their first\u2011round series against the Houston Rockets due to a left hamstring strain. The decision was released before tip\u2011off, confirming his continued absence for the contest.",
+          "key_points": [
+            "Doncic is sidelined with a left hamstring strain.",
+            "He will not play in Game\u202f2 versus Houston.",
+            "The announcement was made prior to the game\u2019s start."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ1A3Nk8wNndRVzJqYmFjMkl5RkZjRFRiQnZoZTkydzFZZllLZExyOEQ4MXlCWnpRLTc4cllsVExOdTRzY2ZVdmo5cGlXZGIyTERDaWh0X1lSaDVfY29FODd0OFBpdzUtLUdmT2NyVGN1QU9tN3lESHExcFhIaEZLbTdxRDF5VjJWVXVfMGFHSl9ueXR2QXc?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-21T01:40:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "9441d4eace40",
+          "title": "Experts Update Rockets\u2011Lakers Game 2 Picks After Kevin Durant Injury News",
+          "original_title": "Experts release updated Rockets vs. Lakers Game 2 predictions following Kevin Durant injury news - OregonLive.com",
+          "summary": "Analysts revised their predictions for Game\u202f2 of the Rockets\u2011Lakers series after learning that Kevin Durant suffered a right knee contusion and is listed as questionable. The injury news prompted adjustments to win\u2011probability models and betting lines.",
+          "key_points": [
+            "Durant\u2019s right knee contusion makes him a question mark for Game\u202f2.",
+            "Expert forecasts and betting odds were modified accordingly.",
+            "The updates focus on how Durant\u2019s status could affect the Rockets\u2019 chances."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQV29aVlJBZkh5WlNwX245OGFROHFzdnZuR2lIdWVxNzUzWjN3eW5oNHRIdENnTVhQbXdZdDRPZlhzaVFKWWJpRExOTzhUdENzME9BSm1URjNiM1RwM190MTNVbHFWaDlSNHhWU0dKQ0xpVFJIUkZMRXpvMG5Ja2VRaGhyVTFBWEdNU2tJTjlkcks2X09fekttVkw5cHZKWTJVbmoxTEVvNE1CcjFjcG9xZzdHUGp4Ni1WTXNUdVB4NXVJQnNjbWRBNzN6ekVzMVVGdnpFeHliMnVXVTQ?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-21T01:24:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "a66f54fcd759",
+          "title": "Lakers Injury Update: Kevin Durant Questionable; Luka Doncic & Austin Reaves Out for Game 2",
+          "original_title": "Lakers Injury Update: Kevin Durant Questionable; Luka Doncic & Austin Reaves Out For Game 2",
+          "summary": "The Lakers reported that Luka\u202fDoncic (left hamstring strain) and Austin Reaves (left oblique strain) will miss Game\u202f2 of the first\u2011round playoff series, while Rockets star Kevin Durant is listed as questionable after a right knee contusion. The report outlines the health status of key players for both teams.",
+          "key_points": [
+            "Doncic and Reaves are ruled out for Game\u202f2.",
+            "Durant\u2019s knee contusion leaves his availability uncertain.",
+            "Injuries affect the backcourt depth for both clubs."
+          ],
+          "link": "https://lakersnation.com/lakers-injury-update-kevin-durant-questionable-luka-doncic-austin-reaves-out-for-game-2/",
+          "source": "Lakers Nation",
+          "published": "2026-04-20T23:52:14+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "c15306fbafb7",
+          "title": "Luka Doncic Boosts Lakers Playoff Run From the Bench",
+          "original_title": "Luka Doncic providing Lakers a big playoff boost, even from the bench - Los Angeles Times",
+          "summary": "Even while not starting, Luka\u202fDoncic has provided a significant spark for the Lakers in the playoffs, contributing valuable minutes and production off the bench. His impact highlights the team\u2019s depth and flexibility in the postseason.",
+          "key_points": [
+            "Doncic delivers strong bench contributions in the playoffs.",
+            "His performance adds depth to the Lakers\u2019 rotation.",
+            "The bench play helps sustain the team\u2019s competitive edge."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNzNjdGltZFNOZjJFZG9OVF9fc1pNcFBnS3l2b182VWd2TkJMaEh0V2s1SUhFSUgzMUgxbjgwbExlVVhGb0pscXA1TTZETFRsOGZxRnZNTko2UWRhNmNQbUdubl91cWl5dXA1RVVpdWFEalVmWUxoV1pUcWRDQi1pRlZ4YXRCOWtZSk1UeEkyOUF1bFpPVF9UWTBPS1hVRHpFMkVQcW5DeUw?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-20T23:05:50+00:00",
+          "topic": "Lakers News"
+        },
+        {
           "id": "79c68d22f0f0",
-          "title": "Lakers To Pick 25th In 2026 NBA Draft",
+          "title": "Lakers Set to Pick 25th in 2026 NBA Draft",
           "original_title": "Lakers To Pick 25th In 2026 NBA Draft",
-          "summary": "The NBA announced that the Los Angeles Lakers will have the 25th pick in the first round of the 2026 NBA Draft. The Lakers finished the regular season with a 52-29 record, which was tied with the New York Knicks. The NBA does a coin flip to decide all tiebreakers, which took place on Monday, [&#8230;]",
-          "key_points": [],
+          "summary": "The NBA announced that the Los Angeles Lakers will hold the 25th overall pick in the first round of the 2026 draft after a tie\u2011breaker coin flip with the New\u202fYork Knicks, both finishing the season 52\u201129. The placement determines the team\u2019s position in the upcoming draft lottery.",
+          "key_points": [
+            "Lakers receive the 25th pick in the 2026 first round.",
+            "The slot was decided by a coin flip after a 52\u201129 tie with the Knicks.",
+            "Draft position will influence the Lakers\u2019 future roster planning."
+          ],
           "link": "https://lakersnation.com/lakers-to-pick-25th-in-2026-nba-draft/",
           "source": "Lakers Nation",
           "published": "2026-04-20T22:25:58+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "d7f883c28882",
-          "title": "Lakers lose tiebreaker to Knicks, will have 25th pick in NBA draft - New York Post",
-          "original_title": "Lakers lose tiebreaker to Knicks, will have 25th pick in NBA draft - New York Post",
-          "summary": "Lakers lose tiebreaker to Knicks, will have 25th pick in NBA draft&nbsp;&nbsp;New York Post",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWUVQNjJoZTNwN0twSmtfZUU2VUQtaTZmbjJtY3hMT2FnamZ5Z3U3bnI1emUzRjFLUWZ4VUpGc3k2WVlXQkRVNHVkaUxYM2Rsd1F2N0I3WlFjRHlHcmx3U045TXY3c0tNYXp3N3ZRdC04MnNBb01lU25FQzNMWGtfTDhGN3dFSTBxUTVPdHdENS1LcTJO?oc=5",
+          "id": "395ad3764b99",
+          "title": "Where Will the Lakers Pick in the 2026 NBA Draft?",
+          "original_title": "Where will Lakers pick in 2026 NBA Draft? - Lakers Nation",
+          "summary": "Lakers Nation discusses the likely draft position for Los Angeles in the 2026 NBA Draft, weighing the team's recent performance and lottery odds. The piece outlines scenarios that could push the Lakers into the late first round or early second round.",
+          "key_points": [
+            "Lakers' 2025\u201126 season record will heavily influence their lottery odds.",
+            "Analysts project a likely pick range between the 20th and 30th spots.",
+            "Potential trade options could alter the original draft slot."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2WW01ZUxId0tPcWJkQUhjR2VSQjdEYUZId0tFRHFlZXpmcTBLMnphaXExcDRUNGV6a2xmM2NVNmRSZHRwU2MtN0JEVW9xemVDMkg2eGN3MmMtcm1TLWRpX2thSUdWWjNTbGRvS3Bad08?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-04-20T21:55:00+00:00",
+          "published": "2026-04-20T22:25:58+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "00816ccc674c",
+          "title": "Jeanie Buss Addresses LeBron James Retirement Uncertainty",
+          "original_title": "Lakers Face Uncertainty as Jeanie Buss Addresses LeBron James Retirement Decision - Athlon Sports",
+          "summary": "Athlon Sports reports that Lakers owner\u2011president Jeanie Buss spoke publicly about the unclear timeline of LeBron James\u2019 retirement plans, emphasizing that the franchise must prepare for multiple outcomes. Buss highlighted the need for strategic roster moves regardless of James\u2019 decision.",
+          "key_points": [
+            "James has not confirmed a retirement date, leaving the front office in a planning limbo.",
+            "Buss stressed the importance of developing young talent and exploring trade options.",
+            "The organization is maintaining flexibility in contract negotiations and salary\u2011cap management."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVEtLaGRSUmFMU2ZaNkltbE82cHo3MHpyTFVfWEdnVW0yTWpBcktnVUNqRzE1STNYYmFRUE9halR5TW5lSy1FZ1Jzd0lzVmkyekR4b3B5VDJ3ZFgtYy16SnRzVXNodWJsczVEZHdkRjd6UXlnTWZ4SnJ6dTNKTHR6Z3NnS0lKTEk2bE9MeTFkSlJibUZCZU42QlRkNTJaTnlZSlpBckpDV3JtVG5WdS04ODZGd0dFaFhEQUhMUzQ0bkl0YjE1c0l3NQ?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-20T21:56:23+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "f388aac37159",
+          "title": "Lakers Lose Tiebreaker to Knicks, Secure 25th Pick in Draft",
+          "original_title": "Lakers lose tiebreaker to Knicks, will have 25th pick in NBA draft - AOL.com",
+          "summary": "AOL.com details how the Lakers fell short in a tiebreaker against the New York Knicks, resulting in the franchise receiving the 25th overall selection in the upcoming NBA Draft. The article explains the tiebreaker criteria and its impact on the Lakers\u2019 draft strategy.",
+          "key_points": [
+            "Both teams finished with identical records; the Knicks won the tiebreaker based on head\u2011to\u2011head results.",
+            "Los Angeles will pick 25th overall in the 2026 draft.",
+            "The slot positions the Lakers to target late\u2011first\u2011round prospects or package the pick in a trade."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaEgxMF8zWFY5SjVfWFZjRUg3NlhXQm1KZFZ5Q21CbzY1dXVSZzQ4c3RZUHRYVFNjUG1QWDNCY0tFUGRMMUdqSnc5Ty1QWVg5MV8wUWllUW1OWjdpelN6RzAwR0ppMkItWnJnQlg5SHJsWUUwejVSbUJiREtTcU1iQW9Lckw?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-20T21:55:59+00:00",
           "topic": "Lakers News"
         },
         {
           "id": "ad7381e5e384",
-          "title": "Los Angeles Lakers are set to select 25th in the 2026 \u2026 - HoopsHype",
+          "title": "Lakers Set to Select 25th in the 2026 NBA Draft",
           "original_title": "Los Angeles Lakers are set to select 25th in the 2026 \u2026 - HoopsHype",
-          "summary": "Los Angeles Lakers are set to select 25th in the 2026 \u2026&nbsp;&nbsp;HoopsHype",
-          "key_points": [],
+          "summary": "HoopsHype confirms that the Los Angeles Lakers will hold the 25th pick in the 2026 NBA Draft following the tiebreaker outcome. The report outlines potential players still on the board at that spot and how the pick fits into the team's rebuilding timeline.",
+          "key_points": [
+            "The 25th pick places the Lakers in the late first round, offering a balance of talent and contract flexibility.",
+            "Scouts highlight several promising prospects projected to be available at 25.",
+            "The selection could be used to draft a player, trade up, or acquire additional assets."
+          ],
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdmNCSmJib193eG9wSXYxM2NfTUExQUl5QmwzYnNReVctRWpFb2hEd2VGLW5ySllyU0J6SWlJcF96eVJodUlzanF3Y3dBaVFIbkhGVlo5UFg4c1hQRTA4VlpUblRYaWc0bWQyNm00d1FGZFc2NlZHb1pJa1M0ay11OGZuWUJvTjBqb0h5Y1dPSElHN1pxUnlReV84Q0lnQ2lXMVpfaU55M3laalBub3EtTlNXQWFOSmQ0cldmZlJUZDVWVVJiX0E?oc=5",
           "source": "Google News - Lakers",
           "published": "2026-04-20T21:33:00+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "265e49a2e1a1",
-          "title": "NBA Announces Luka Doncic News Before Lakers-Rockets Game 2 - heavy.com",
-          "original_title": "NBA Announces Luka Doncic News Before Lakers-Rockets Game 2 - heavy.com",
-          "summary": "NBA Announces Luka Doncic News Before Lakers-Rockets Game 2&nbsp;&nbsp;heavy.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc2xKNmtCbDhGSTZUT3dMeHB2MkdwTU1FZk14R1ZoV1hTZjVjQU9uaGk0Y1Vfb1AtOFJzd1p4MWtMLUVEVktRbFpJN1BRZXY0M3BlbWlIRnhUeEI4cktQVTdqaVp1NjFRdE85Q0FDY1NsT2pGVHNNM1ZLS1ZReTExRE5OczdxdTE2b1NocmRNTmc?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-20T21:18:07+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "5c0cf71b3d78",
-          "title": "Rockets' Kevin Durant game-time decision for Game 2 - ESPN",
-          "original_title": "Rockets' Kevin Durant game-time decision for Game 2 - ESPN",
-          "summary": "Rockets' Kevin Durant game-time decision for Game 2&nbsp;&nbsp;ESPN",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZHVuNmdzR05hSlFfRm5qS0dIUDAtWEZtekVvdDhIcDA4SlctVE5NT0QyaXI3MVc2T21ENnhncC1PblV3bWJ0TkV3LTlHSW9IYlBRR3BVcWJSbjUtNXk3YzlfbHVpbEh4NWVxNlRKQmtUYWc3YlUtY1NJVTBOVk1EZTNMclowb2lMZWpwYXByOA?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-20T21:08:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
           "id": "fb94e42ab835",
-          "title": "Jeanie Buss drops huge LeBron James retirement update - BasketNews.com",
+          "title": "Jeanie Buss Gives Major Update on LeBron James\u2019 Retirement Status",
           "original_title": "Jeanie Buss drops huge LeBron James retirement update - BasketNews.com",
-          "summary": "Jeanie Buss drops huge LeBron James retirement update&nbsp;&nbsp;BasketNews.com",
-          "key_points": [],
+          "summary": "BasketNews.com reports that Jeanie Buss released a significant update regarding LeBron James\u2019 retirement considerations, noting that James is still evaluating his future but has not made a final decision. Buss reiterated the Lakers\u2019 commitment to staying competitive while planning for a post\u2011James era.",
+          "key_points": [
+            "LeBron James remains undecided about retirement, keeping his options open for the next season.",
+            "Buss emphasized ongoing roster development and potential free\u2011agent targets.",
+            "The organization is preparing contingency plans to maintain competitiveness beyond James\u2019 tenure."
+          ],
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ002RG4tQmV3MGNKbWZHSGVidnZXZFp4WjNwc09QeEtsbnRHWFNUWHJ4ZUljaEJNd1pENzVHcmxvYnF6MldheHIxU0c4S0dWQ0JoZ1RoZW1mTDFqT09taHFsT081dTdRdFZIdlBRSEdvZXNiVGo5VmhWNEZMWmdBaURQYm01Y1FMeTI2MXJlelQ2OWhBaW9rRQ?oc=5",
           "source": "Google News - Lakers",
           "published": "2026-04-20T20:45:36+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "905bebe47f13",
-          "title": "Jeanie Buss Discusses Whether She Wants LeBron James Back With Lakers",
-          "original_title": "Jeanie Buss Discusses Whether She Wants LeBron James Back With Lakers",
-          "summary": "LeBron James has proven that he can play longer he if wants to, but he remains non-committal about his playing future. For now, James seems content playing for the Los Angeles Lakers even if it means playing third fiddle to Luka Doncic and Austin Reaves. James can still affect winning at the highest levels, so [&#8230;]",
-          "key_points": [],
-          "link": "https://lakersnation.com/jeanie-buss-discusses-if-she-wants-lebron-james-back-with-lakers/",
-          "source": "Lakers Nation",
-          "published": "2026-04-20T20:40:02+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "e37e44287c66",
-          "title": "Rockets\u2019 Kevin Durant receives daunting injury update before Game 2 vs Lakers - sportingnews.com",
-          "original_title": "Rockets\u2019 Kevin Durant receives daunting injury update before Game 2 vs Lakers - sportingnews.com",
-          "summary": "Rockets\u2019 Kevin Durant receives daunting injury update before Game 2 vs Lakers&nbsp;&nbsp;sportingnews.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQVRPNFJfZGFZakxwVU92VU1JQkxiaVBPQ19LZUJIU0NldmZVV1JlSGc1MW1MbDFzRWpycWRLdUJ2RmpQalo0YjJ3Y3dZd0lpYVFkdHR5c1F4bk1BWUhXUDEwUnYtbEtiNEdpb2VpeHhYcFV4aktwdE4xQmduc0VrSUdkWGR5RjdJak41ODhWbVZjQTdmOU5QRkhMenY1Nk5hYl92Y0MydnRaODJBNG9KMGdGa1hqLVlncGNXWnNVNDZLVTRvRFUwU041dURJakVSZVJFNjRtNVhhSDJLX2VUYXFDZmZZOVM5c1E?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-20T20:06:33+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "2c504c6ba9d6",
-          "title": "Surprising Austin Reaves News Emerges Amid Lakers Injury Recovery - heavy.com",
-          "original_title": "Surprising Austin Reaves News Emerges Amid Lakers Injury Recovery - heavy.com",
-          "summary": "Surprising Austin Reaves News Emerges Amid Lakers Injury Recovery&nbsp;&nbsp;heavy.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb3c5U3hoeEtjR0hvUm1tSHF2T2lXajk0OHRHVEpkV0dTMzJCY2owQVNiTWFQVFBrVWNYSGtJS3Jod3ZCWjNxM0JjQW9HUHBad01qVE0wUjJnODVLWEo4UHZiaXhRRVlWd3ZOMVV1Wjh6dlVqVHlmdm0zeUN0dW4zeW05OUs3Qm12TE4yak9jRTZSWi1l?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-20T19:41:14+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "b18ccafa14d5",
-          "title": "Lakers News: Marcus Smart Explains \u2018New Feeling\u2019 In Return To Playoffs",
-          "original_title": "Lakers News: Marcus Smart Explains \u2018New Feeling\u2019 In Return To Playoffs",
-          "summary": "In the first nine seasons of his NBA career, Marcus Smart was in the playoffs every year as a member of the Boston Celtics. But it had been three years since his last playoff contest as he failed to make it as a member of the Memphis Grizzlies and Washington Wizards after being traded. Now [&#8230;]",
-          "key_points": [],
-          "link": "https://lakersnation.com/lakers-news-marcus-smart-explains-new-feeling-in-return-to-playoffs/",
-          "source": "Lakers Nation",
-          "published": "2026-04-20T19:30:59+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -121,113 +161,153 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "6335abd46619",
-          "title": "Draymond on Kerr's future: 'Felt like that was it'",
-          "original_title": "Draymond on Kerr's future: 'Felt like that was it'",
-          "summary": "Draymond Green said while he hopes Steve Kerr is back, he'd guess that this past season was Kerr's last as coach with the franchise.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48543314/draymond-green-predicts-steve-kerr-back-next-season",
+          "id": "de6e9f8c88cf",
+          "title": "Knicks Take 1-0 Series Lead Over Hawks",
+          "original_title": "Follow live: Knicks, Hawks face off after New York takes 1-0 series lead",
+          "summary": "The New York Knicks secured a 1-0 advantage in their playoff series against the Atlanta Hawks. The live broadcast highlighted key moments and the early momentum shift toward New York.",
+          "key_points": [
+            "Knicks won the opening game of the series, taking a 1-0 lead.",
+            "Game featured strong defensive play and clutch scoring by New York.",
+            "Atlanta will look to respond in Game 2 to even the series."
+          ],
+          "link": "https://www.espn.com/nba/game/_/gameId/401869387/hawks-knicks",
           "source": "ESPN NBA",
-          "published": "2026-04-20T23:20:07+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "de8b566c847a",
-          "title": "Durant game-time decision for Game 2 vs. Lakers",
-          "original_title": "Durant game-time decision for Game 2 vs. Lakers",
-          "summary": "Rockets star Kevin Durant went through about half of Houston's practice Monday and will be a game-time decision for Game 2 on Tuesday.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48544401/rockets-kevin-durant-game-decision-game-2",
-          "source": "ESPN NBA",
-          "published": "2026-04-20T23:20:07+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "2e80161e3e02",
-          "title": "NBA breaks draft ties; Jazz keep protected pick",
-          "original_title": "NBA breaks draft ties; Jazz keep protected pick",
-          "summary": "The NBA conducted its tiebreaking process for the league's 2026 draft, setting the order from 15 to 30 and breaking a pair of ties among teams nestled inside the lottery.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48544672/nba-breaks-ties-2026-draft-position-jazz-keep-protected-pick",
-          "source": "ESPN NBA",
-          "published": "2026-04-20T23:20:07+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "6ad4d884bfb0",
-          "title": "Nets sign Fernandez, staff to multiyear extensions",
-          "original_title": "Nets sign Fernandez, staff to multiyear extensions",
-          "summary": "The Nets have signed head coach Jordi Fernandez and his entire coaching staff to multiyear contract extensions.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48542372/sources-nets-sign-coach-jordi-fernandez-staff-extensions",
-          "source": "ESPN NBA",
-          "published": "2026-04-20T23:20:07+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "78b0da3ae18e",
-          "title": "Blazers' lack of fan T-shirts invites questions",
-          "original_title": "Blazers' lack of fan T-shirts invites questions",
-          "summary": "The Portland Trail Blazers won't give away T-shirts for fans when they take on the San Antonio Spurs in Games 3 and 4 of the opening series, another in a series of moves that has drawn questions about the team's cost-cutting and finances.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48542312/blazers-not-furnishing-fans-t-shirts-invites-cash-questions",
-          "source": "ESPN NBA",
-          "published": "2026-04-20T23:20:07+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "f9d3d6c0ab70",
-          "title": "Sources: Bulls get OK to interview multiple execs",
-          "original_title": "Sources: Bulls get OK to interview multiple execs",
-          "summary": "The Bulls have started the search for their new head of basketball operations, receiving permission to interview multiple NBA executives, sources told ESPN.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48541368/sources-bulls-get-ok-interview-front-office-vacancies",
-          "source": "ESPN NBA",
-          "published": "2026-04-20T23:20:07+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "ec61d39e2a2e",
-          "title": "\ud83d\udcf8 Celebrity sightings at NBA playoffs games",
-          "original_title": "\ud83d\udcf8 Celebrity sightings at NBA playoffs games",
-          "summary": "Celebrities have been out in style courtside at the NBA playoffs.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48514336/nba-playoffs-2026-celebrity-sightings",
-          "source": "ESPN NBA",
-          "published": "2026-04-20T23:20:07+00:00",
+          "published": "2026-04-21T03:39:33+00:00",
           "topic": "NBA League News"
         },
         {
           "id": "eb53cf9bffad",
-          "title": "Wemby captures DPOY as first unanimous winner",
+          "title": "Wembanyama Becomes First Unanimous Defensive Player of the Year",
           "original_title": "Wemby captures DPOY as first unanimous winner",
-          "summary": "Victor Wembanyama, 22, is both the youngest DPOY winner in NBA history and the first to win the award unanimously.",
-          "key_points": [],
+          "summary": "Victor Wembanyama, 22, earned the Defensive Player of the Year award, becoming the youngest ever recipient and the first player to receive every vote. His impact on both ends of the court was highlighted throughout the season.",
+          "key_points": [
+            "Wembanyama is the youngest DPOY winner in NBA history.",
+            "He received a unanimous vote, a first for the award.",
+            "His defensive versatility was a major factor in his team's performance."
+          ],
           "link": "https://www.espn.com/nba/story/_/id/48544568/spurs-victor-wembanyama-captures-first-career-dpoy",
           "source": "ESPN NBA",
-          "published": "2026-04-20T23:20:03+00:00",
+          "published": "2026-04-21T03:19:24+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "3777b94cecf7",
-          "title": "2026 NBA draft order: Where all 60 picks stand ahead of the lottery",
-          "original_title": "2026 NBA draft order: Where all 60 picks stand ahead of the lottery",
-          "summary": "Where does the NBA draft order stand ahead of next month's lottery? We have you covered.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48467844/2026-nba-draft-complete-order-picks-first-second-rounds",
+          "id": "f4535d2dddce",
+          "title": "Finch Blames Lack of Flopping for Murray\u2019s Free\u2011Throw Disparity",
+          "original_title": "Frustrated Finch: 'Maybe we gotta start flopping'",
+          "summary": "Minnesota Timberwolves head coach Chris Finch expressed frustration after Jamal Murray shot 16 free throws in Game 1, suggesting his players receive fewer calls because they don\u2019t exaggerate contact. Finch called for a change in how the Wolves approach drawing fouls.",
+          "key_points": [
+            "Murray attempted 16 free throws in Game 1, highlighting a disparity.",
+            "Finch argued that the Wolves' lack of \u201cflopping\u201d leads to fewer foul calls.",
+            "He indicated the team may need to adjust its approach to drawing fouls."
+          ],
+          "link": "https://www.espn.com/nba/story/_/id/48545947/wolves-finch-irked-calls-maybe-gotta-start-flopping",
           "source": "ESPN NBA",
-          "published": "2026-04-20T22:50:03+00:00",
+          "published": "2026-04-21T03:19:24+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "5c23915bc3c6",
-          "title": "Victor Wembanyama is a unanimous selection as the NBA's defensive player of the year",
-          "original_title": "Victor Wembanyama is a unanimous selection as the NBA's defensive player of the year",
-          "summary": "There had never been a unanimous NBA Defensive Player of the Year.  Victor Wembanyama \u2014 as expected \u2014 was announced Monday night as the league's top defensive player.  The San Antonio center was second in the voting for DPOY as a rookie, was the favorite last season until a medical condition ended his season prematurely, then left no doubt this year.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/victor-wembanyama-unanimous-selection-nbas-222504286.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-04-20T22:25:04+00:00",
+          "id": "7b2657ae21b5",
+          "title": "Mitchell, Harden Lead Cavs to 2\u20110 Series Edge Over Raptors",
+          "original_title": "Mitchell, Harden help Cavs cruise to 2-0 lead",
+          "summary": "Donovan Mitchell scored 30 points and James Harden added 28 as the Cleveland Cavaliers took a 2-0 lead in their playoff series against the Toronto Raptors. The Cavs never trailed and built a comfortable margin throughout the game.",
+          "key_points": [
+            "Cavaliers won the second straight game, moving up 2-0 in the series.",
+            "Mitchell\u2019s 30 points and Harden\u2019s 28 were the offensive catalysts.",
+            "Cleveland maintained the lead for the entire contest, never trailing."
+          ],
+          "link": "https://www.espn.com/nba/story/_/id/48546170/mitchell-harden-help-cavaliers-roll-raptors-2-0-lead",
+          "source": "ESPN NBA",
+          "published": "2026-04-21T03:19:24+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "6335abd46619",
+          "title": "Green Says Kerr\u2019s Tenure Likely Ended After This Season",
+          "original_title": "Draymond on Kerr's future: 'Felt like that was it'",
+          "summary": "Golden State Warriors forward Draymond Green speculated that the 2024\u201125 season could be Steve Kerr\u2019s final year as head coach, though he expressed hope that Kerr would return. Green reflected on the team's direction and coaching future.",
+          "key_points": [
+            "Green hinted this season may be Kerr\u2019s last with the Warriors.",
+            "He expressed personal hope for Kerr\u2019s continued presence.",
+            "Comments came amid broader discussions about the franchise\u2019s coaching outlook."
+          ],
+          "link": "https://www.espn.com/nba/story/_/id/48543314/draymond-green-predicts-steve-kerr-back-next-season",
+          "source": "ESPN NBA",
+          "published": "2026-04-21T03:19:24+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "de8b566c847a",
+          "title": "Durant Game-Time Decision for Game 2 vs. Lakers",
+          "original_title": "Durant game-time decision for Game 2 vs. Lakers",
+          "summary": "Kevin Durant participated in roughly half of the Houston Rockets' practice on Monday and will be listed as a game\u2011time decision for Tuesday's Game 2 against the Los Angeles Lakers. The team will assess his status later in the day before confirming his availability.",
+          "key_points": [
+            "Durant attended about 50% of practice on Monday.",
+            "He will be a game\u2011time decision for Game 2 versus the Lakers.",
+            "Houston will make a final call on his availability later Tuesday."
+          ],
+          "link": "https://www.espn.com/nba/story/_/id/48544401/rockets-kevin-durant-game-decision-game-2",
+          "source": "ESPN NBA",
+          "published": "2026-04-21T03:19:24+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "2e80161e3e02",
+          "title": "NBA Breaks Draft Ties; Jazz Secure Protected Pick",
+          "original_title": "NBA breaks draft ties; Jazz keep protected pick",
+          "summary": "The league completed its tiebreaking procedures for the 2026 NBA Draft, establishing the order for picks 15 through 30 and resolving two ties among lottery teams. The Utah Jazz retained a protected pick as a result of the process.",
+          "key_points": [
+            "Tiebreaking determined draft positions 15\u201130 for the 2026 draft.",
+            "Two ties among lottery teams were resolved.",
+            "The Utah Jazz kept a protected draft pick."
+          ],
+          "link": "https://www.espn.com/nba/story/_/id/48544672/nba-breaks-ties-2026-draft-position-jazz-keep-protected-pick",
+          "source": "ESPN NBA",
+          "published": "2026-04-21T03:19:24+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "6ad4d884bfb0",
+          "title": "Nets Extend Head Coach Jordi Fernandez and Staff",
+          "original_title": "Nets sign Fernandez, staff to multiyear extensions",
+          "summary": "Brooklyn Nets owner Joe Tsai announced multiyear contract extensions for head coach Jordi Fernandez and his entire coaching staff. The extensions signal the organization\u2019s commitment to continuity heading into the next season.",
+          "key_points": [
+            "Jordi Fernandez and all assistants received multiyear extensions.",
+            "The moves aim to provide stability for the Nets' coaching roster.",
+            "Extensions were announced by owner Joe Tsai."
+          ],
+          "link": "https://www.espn.com/nba/story/_/id/48542372/sources-nets-sign-coach-jordi-fernandez-staff-extensions",
+          "source": "ESPN NBA",
+          "published": "2026-04-21T03:19:24+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "78b0da3ae18e",
+          "title": "Blazers Skip Fan T\u2011Shirt Giveaways for Spurs Games",
+          "original_title": "Blazers' lack of fan T-shirts invites questions",
+          "summary": "The Portland Trail Blazers decided not to distribute complimentary T\u2011shirts to fans for Games 3 and 4 of their opening series against the San Antonio Spurs. The decision adds to ongoing scrutiny of the franchise\u2019s cost\u2011cutting measures and overall financial strategy.",
+          "key_points": [
+            "No fan T\u2011shirts will be given away for Games 3 and 4 vs. Spurs.",
+            "The move is part of broader cost\u2011saving actions by the Blazers.",
+            "It has prompted questions about the team\u2019s financial health."
+          ],
+          "link": "https://www.espn.com/nba/story/_/id/48542312/blazers-not-furnishing-fans-t-shirts-invites-cash-questions",
+          "source": "ESPN NBA",
+          "published": "2026-04-21T03:19:24+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "ec61d39e2a2e",
+          "title": "Celebrity Sightings Light Up NBA Playoffs Courtside",
+          "original_title": "\ud83d\udcf8 Celebrity sightings at NBA playoffs games",
+          "summary": "A number of high\u2011profile celebrities were spotted attending NBA playoff games, adding star power to the already electric atmosphere. Their presence highlights the cultural crossover between basketball and entertainment.",
+          "key_points": [
+            "Several celebrities attended playoff games courtside.",
+            "Their appearances contributed to the buzz surrounding the postseason.",
+            "The trend underscores the NBA\u2019s appeal beyond sports fans."
+          ],
+          "link": "https://www.espn.com/nba/story/_/id/48514336/nba-playoffs-2026-celebrity-sightings",
+          "source": "ESPN NBA",
+          "published": "2026-04-21T03:19:24+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -236,113 +316,153 @@
       "name": "Lakers Players",
       "articles": [
         {
+          "id": "cb77e9f995d7",
+          "title": "JJ Redick Gives Positive Update on Luka Don\u010di\u0107's Recovery",
+          "original_title": "Luka Doncic injury update: JJ Redick provides positive news about Lakers star\u2019s progress - The Times of India",
+          "summary": "Former NBA player and analyst JJ Redick said Luka Don\u010di\u0107 is making steady progress in his rehabilitation after a recent injury. Redick highlighted that the Dallas Mavericks star is responding well to treatment and is expected to return to full practice soon.",
+          "key_points": [
+            "Don\u010di\u0107's injury is improving, according to Redick.",
+            "Recovery is on schedule, with no setbacks reported.",
+            "No specific return date was given, but optimism is high."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPWDM1U2REYURnenN6QlRURlZQX29uZnJmc0JzRXlQbC1KMHhfa3BmcDctU1U3cUxYbnpzN1g0TnJ5d1l1STEyRktvOFBWZTVLWEo5TGtvQ19FV2EwWVgtVElpcER1N1pYaFV0Zmh0M19UUWZKXzd3X3lHbmRtYUNyeEtlR0pMNmdVa1MtVHVZNDRJZnZOWG9YWHhGV2lMVll6T1RIM0QwdFAyOWlWOFBOVHV2OV94dFJ6RHUzNEd5SUEyTHNHZlB2VXJDX1hjclQzelRXc3RkS1J5TmU2V1A4bjVBLUJ2emZ1OV9kYXhycC01ckFSWDVra1lVNXBTYlNm0gGGAkFVX3lxTE50OC1zQjgzdm5aUkhPWGRDb3YySDcwR0I5WUo1ZXc4MzRHdUItVngwSzhmcUVRb2N3X1ZPeFJiQXJLRlBPdnBfX05nYzAxVUlZWVNSM1oxRzBHSjJqeFh6N215UmlZMFBDYzhhVDRnZVZqV3JoSTYxWXF0THFBN1VLcmE1czl0bHZHbEp6SW94bUp4WlFKRTcwbW9sVzlYLWs0ZHFmdktGNGttSGdCd0RYUlJVaGFTWGNhMDZyb1FhNFVDc3BLUEdJcFJDRG9uSVNwaEVVNmt4NUhBenJfNDYtbnNrWC1uUlFqYzc5ajlkdHQ4OS11a0VSUTA0cTFkellBd3JFbkE?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-04-21T01:14:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "44784bbf67f7",
+          "title": "Lakers' Luka Don\u010di\u0107 Ruled Out for Tuesday Game",
+          "original_title": "Lakers' Luka Doncic: Officially ruled out for Tuesday - CBS Sports",
+          "summary": "CBS Sports reported that Luka Don\u010di\u0107 has been officially declared unavailable for the Lakers' upcoming Tuesday matchup. The decision follows the team's medical evaluation of his lingering hamstring issue.",
+          "key_points": [
+            "Don\u010di\u0107 will miss Tuesday's game due to a hamstring concern.",
+            "The Lakers will need to adjust their lineup without their star guard.",
+            "Medical staff continue to monitor his condition closely."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNVpXcFEzZ3JEZUpNS29pLTZIcHdwdm9LWlNKY2dfOVJPUzFtNVFjN0ZWbno3bFRFaXVtN3RFU3VPbk5iSkRpQmNGdU10V3M2V1k2T1BocWhxdEMyRHREcklhTDZGSGxWOENCbmZFTUY1S2huWHNmTXJiOFZiVV9aZmlrYjBWRVN5N3R4NjhuNTZIcGFQQ3dZQ1BWOUdWQ2tYSDlldw?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-04-21T01:11:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "c833ed419642",
+          "title": "Nick Friedell Reacts to LeBron's Game\u20111 Victory Over Rockets",
+          "original_title": "Nick reacts to LeBron leading the Lakers to a Game 1 win vs. Rockets - FOX Sports",
+          "summary": "FOX Sports featured analyst Nick Friedell commenting on LeBron James' performance as the Lakers secured a Game 1 win against the Houston Rockets. Friedell praised LeBron's leadership and scoring output, noting its impact on the team's early series momentum.",
+          "key_points": [
+            "LeBron led the Lakers to a Game 1 win over Houston.",
+            "Friedell highlighted LeBron's scoring and veteran leadership.",
+            "The victory gives the Lakers an early advantage in the series."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQQUlrSjJEelN4Yl9vQm9UVDdQNE1iUmZYR3NlclRLX1B1cXMtUGpHSkNvalo3dW1yWnJsZU5qUVlfUDhJZDdycS0wMzNiZXdLbTF4cTZOMW0wcC1hY09WV0pBbEx4NDRBdVlKWFRB?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-04-20T23:34:09+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "0f15121e77d5",
+          "title": "Lakers Player Obtains Slovenian Passport, Can Join National Team with Don\u010di\u0107",
+          "original_title": "Lakers player receives Slovenian passport, eligible to play on national team with Luka Doncic - nypost.com",
+          "summary": "The New York Post reported that a Los Angeles Lakers roster member has received a Slovenian passport, making him eligible to represent Slovenia alongside Luka Don\u010di\u0107 in international competition. The move expands Slovenia's talent pool ahead of upcoming tournaments.",
+          "key_points": [
+            "Lakers player now holds a Slovenian passport.",
+            "Eligibility allows him to play for Slovenia with Don\u010di\u0107.",
+            "Potential boost for Slovenia's national team roster."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWGRjemJnYURTVVB0dUhubEg4cGROeWduTk5RSUdlNVBDYXMyN2ZfNFdlSWFXcGVkVTRITTJGRTFaOS1lSHhoS0c2a1ZFVXhGdnBmc1cwNHdFSmZsck82dUJEUnBna1ZWMENIVjdMZjNvcE5lY1BGdDh0czhSNHlyVFFlTERlRzljcG5GeDY4Y0xOWFkyMjF5dGFaTTAtN2s?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-04-20T23:06:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "5d154c58eec1",
+          "title": "Luka Don\u010di\u0107 Out for Game 2 Due to Hamstring Injury",
+          "original_title": "Luka Don\u010di\u0107 Out For Game 2 Due To Hamstring Injury - FanDuel",
+          "summary": "FanDuel announced that Luka Don\u010di\u0107 will miss Game 2 because of a hamstring injury that has not fully healed. The Mavericks will have to rely on other guards to fill the scoring void while Don\u010di\u0107 continues his rehab.",
+          "key_points": [
+            "Don\u010di\u0107 ruled out of Game 2 because of a hamstring issue.",
+            "Mavericks must adjust their rotation in his absence.",
+            "Recovery timeline remains uncertain; medical staff monitoring progress."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdnFEWTUtRTBaaER6NDA4NnZlQV9rbEptZF91ZUZCeDQxaWVVTFE1WllzUkp3WmtxQ05GNUhNTURXSUoyTmF1dGRzaThDTTgtNE41Z1lxX05rcUZqTkUxWWh3ZmVBV0J4NmhpM3hEcTJnbHFtODhDd2hsZ2dBSkx3U0xtc3VVZHR4by1IbnNnX0Z0VG9hbXd0V0pqZUtTaFplb3pqWlpuSW9GVWRxWHM2MENUTDhzS1dUYUo1dg?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-04-20T22:45:32+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "d9fac300d80c",
+          "title": "LeBron James Helps Young Fan After Accidentally Hitting Her with Ball",
+          "original_title": "LeBron James rushes over to young fan after accidentally hitting her with ball during playoff game - MSN",
+          "summary": "During a playoff game, LeBron James unintentionally struck a young fan with a basketball. He immediately ran to her side, apologized, and ensured she was okay, drawing praise from spectators and media.",
+          "key_points": [
+            "The incident occurred in the middle of a high\u2011stakes playoff matchup.",
+            "James quickly approached the fan, apologized, and checked on her wellbeing.",
+            "The gesture was widely shared on social media, highlighting James' character off the court."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUDJCOUxKdFNkUmVTQWNmU3pVUnp1b2MyMXkzcERMakZNT09nb2l6WUpTeldFNzQ1bnNVS2JERnB2aWQtNzh5b3FHcUNIUlM0aFZxdWlldDk0TFpDVHBCczRwSnNKcERXNE9mYUs2SWxtMkk0SEpidUpRQkwwbUpIbDE5WHlsRWV5ZGtEZWxPeTVTRDhNNl9vQVFXdEMxZ3I1NkpfVi1JYV9zUU9odGVKRGpJZEx2ajRyVENYUi1pTXhXekRoTG9HVTdiV0VkRDhXQ0RROXY1UF8yUl9sYnd5Qw?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-04-20T22:36:03+00:00",
+          "topic": "Lakers Players"
+        },
+        {
           "id": "cd71e83e769d",
-          "title": "Kenny Atkinson compares Cavs guard James Harden to LeBron James - Yahoo Sports",
+          "title": "Cavaliers Coach Kenny Atkinson likens James Harden to LeBron James",
           "original_title": "Kenny Atkinson compares Cavs guard James Harden to LeBron James - Yahoo Sports",
-          "summary": "Kenny Atkinson compares Cavs guard James Harden to LeBron James&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
+          "summary": "Cleveland Cavaliers head coach Kenny Atkinson drew a comparison between veteran guard James Harden and LeBron James, emphasizing Harden's playmaking and leadership qualities. Atkinson suggested Harden could serve as a catalyst for the Cavs' postseason aspirations.",
+          "key_points": [
+            "Atkinson highlighted Harden's ability to control the game tempo and involve teammates.",
+            "The comparison focused on leadership and impact rather than direct statistical equivalence.",
+            "Cavaliers hope Harden's presence will elevate their playoff chances."
+          ],
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOHZETkUwYzY0ekM2OFAzclpOWnEyaVdkMXdaV3lpclgyRGtIVE1zM3Z6d2x2ZEpJRnphZUcyaXNpTmg0Y016SU56NW9SdGhnd1lVOFpzdll0eDl3d0UtVUlVaFBKdDhiUGNRb2x2clV4Mk1Ob1I5WkhnMEU2NlBqQnJmSUFROTlKczRn?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-04-20T22:15:06+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "ca2c8e67b6ef",
-          "title": "Kenny Atkinson compares Cavs guard James Harden to LeBron James - Fear The Sword",
-          "original_title": "Kenny Atkinson compares Cavs guard James Harden to LeBron James - Fear The Sword",
-          "summary": "Kenny Atkinson compares Cavs guard James Harden to LeBron James&nbsp;&nbsp;Fear The Sword",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOczl0MWJIQlN4dXRWdTA0cFZLVEJyMTVEUnlqcmdQWVNFWVgwQXFSR01Jc2R6SjVjNHZvOGluNnVoclowakJCNlhwSldFZWpzdXNRbE9jcS1INS00SzV5SV9FNWdiRGJUaFhEUnllbmF1akxBY3lKMEJnX25NSFYteENHbVM2Ql91aDJ0aWVObVNxU1QzdDdsV0JQY2FBME5LU29nYmZfTTlBTVIxVW1XWDFqU0FlZ1pDVlI5UXh1UHdOdTJ0TXo5VUdvS3dSZw?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-20T22:15:06+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "c1dd98233dd4",
-          "title": "Alperen \u015eeng\u00fcn explains why he stood up as LeBron James walked past him - Houston Chronicle",
-          "original_title": "Alperen \u015eeng\u00fcn explains why he stood up as LeBron James walked past him - Houston Chronicle",
-          "summary": "Alperen \u015eeng\u00fcn explains why he stood up as LeBron James walked past him&nbsp;&nbsp;Houston Chronicle",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSl9xTE1CZ1NkLWgwZGpUWTFXRWJNYm1CZmlBV0JkZkljaEFpNTRzLWNXYzJBMVVmQjBydHQ3dk5fYXNqa3g1SjR1a2NvcUNDX2oxVjlnUFItcHExVVRTMmxXb3RFUlR1eXRmLWJoam9BT29ydU9HTHFzejl2WU1pT1FaSWJjRVlBYV9qMnExcVFhdlIzX0pWS2xKeFVyTUJOam5uVUNMUDNjRU9nWHJSVw?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-20T21:58:36+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "f213af41f3e8",
-          "title": "No farewell tour? Jeanie Buss hints that LeBron James might opt for a low-key retirement - MARCA",
-          "original_title": "No farewell tour? Jeanie Buss hints that LeBron James might opt for a low-key retirement - MARCA",
-          "summary": "No farewell tour? Jeanie Buss hints that LeBron James might opt for a low-key retirement&nbsp;&nbsp;MARCA",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR1VfSlY1QUp3TGdLdjdOcGhtd2tNMTNlb1FRNVhpckdsaGtjMGtjY05mZVJfdm9qRkVLcnZ2MmtCV2VQdkhDQ3RPWTdRZGpRT2xmckZyUkY2S1Q4aGhkY3JiVnNkaDd5WE93UUNPekUtN3VCQVFCNFZLZmkycUdRbnNkVG83OWhPWVNtbk1JNXFobjVja1JDVGJHb0FmUzVX0gGgAUFVX3lxTE5zNkFZQlNkM29YbVV3TzR1alhqckUzdFdyM0VqcDhpVVZxOHlla1VObDVNMEVRM1d4TDcxOFd5Z1NmdGtObVVtWVZJWE9jZEpYYUhVTXJhZkJyYWM2cjlkZjFwdW16N1pjVV8tWThTS2xUVGJ0dTkzN2dtUklOQ3drTHFXMHpBR2wxVWhnNzhoLTBRNzg4cjVnajBhM0FJQkI?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-20T20:30:23+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "551b489b302f",
-          "title": "Luka Doncic Seen at Lakers' Practice Facility Ahead of Game 2 - Sports Illustrated",
-          "original_title": "Luka Doncic Seen at Lakers' Practice Facility Ahead of Game 2 - Sports Illustrated",
-          "summary": "Luka Doncic Seen at Lakers' Practice Facility Ahead of Game 2&nbsp;&nbsp;Sports Illustrated",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZXNuZnBxU1J2amVnUUFFVjA4SndHUThBYWN0WFFDUE9HM0lqRVU3dnVWSDJ5bm5ka2NrelBwblJnOVV3VnNtcmdYTjU3NWpaTHNFdFpzdGhBOVIwb1FvUVdrUzFMbkZ5S3lGdUE3cndOdGlGWV8wc1oxaFdjMVVGY3NSUHd0REt5WWhYdGttMHZkcGhlUWc0WkFZWQ?oc=5",
+          "id": "265e49a2e1a1",
+          "title": "NBA Releases Luka Don\u010di\u0107 Update Ahead of Lakers\u2011Rockets Game 2",
+          "original_title": "NBA Announces Luka Doncic News Before Lakers-Rockets Game 2 - heavy.com",
+          "summary": "The league issued an official update on Luka Don\u010di\u0107's health status prior to the second matchup between the Los Angeles Lakers and the Houston Rockets. The announcement clarified his availability and any lingering concerns for the upcoming game.",
+          "key_points": [
+            "The NBA confirmed Don\u010di\u0107's condition and expected playing status for Game 2.",
+            "No new injuries were reported, allowing the Mavericks to plan accordingly.",
+            "The update was released to inform fans and media ahead of the high\u2011profile contest."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc2xKNmtCbDhGSTZUT3dMeHB2MkdwTU1FZk14R1ZoV1hTZjVjQU9uaGk0Y1Vfb1AtOFJzd1p4MWtMLUVEVktRbFpJN1BRZXY0M3BlbWlIRnhUeEI4cktQVTdqaVp1NjFRdE85Q0FDY1NsT2pGVHNNM1ZLS1ZReTExRE5OczdxdTE2b1NocmRNTmc?oc=5",
           "source": "Google News - Luka",
-          "published": "2026-04-20T20:18:59+00:00",
+          "published": "2026-04-20T21:18:07+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "2faff34b0de5",
-          "title": "Luka Doncic returns to Lakers practice - Eurohoops",
-          "original_title": "Luka Doncic returns to Lakers practice - Eurohoops",
-          "summary": "Luka Doncic returns to Lakers practice&nbsp;&nbsp;Eurohoops",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUkcyVFFhREhHMVZ0WFZ4am1RalN6VTZXMEVzTXB0ZXBVdlBELWZuUjE3bE1wMjNSUUVtWlBjei1uMGdfVmFYZmRkZnVOMnVnOVRGVnpFNEliTlV3akVGNlVUM3o2UWx2NjBXblFMakp2X014N1BjVHdlbDI0RzBOempJVzlwWDBwc2Z3cGZ3?oc=5",
+          "id": "5b5447eaf502",
+          "title": "Lakers Owner Jeanie Buss Shares Luka Don\u010di\u0107 Story Involving Kobe Bryant and Gianna",
+          "original_title": "Lakers Owner Jeanie Buss Shares Emotional Luka Doncic Story Involving Kobe Bryant and Gigi - Yahoo Sports",
+          "summary": "Jeanie Buss recounted an emotional anecdote in which Luka Don\u010di\u0107 referenced Kobe Bryant and his daughter Gianna during a recent interaction. The story underscored the lasting influence of the Bryant family on current NBA players and the Lakers organization.",
+          "key_points": [
+            "Don\u010di\u0107 mentioned Kobe and Gianna in a heartfelt moment, reflecting their impact on younger players.",
+            "Buss highlighted the story as a testament to the Lakers' family legacy.",
+            "The anecdote resonated with fans, reinforcing the emotional connection between past and present Lakers figures."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY1VFVTRIS2dOem0xRWNaQk9iYlcyTVJoRXhFcWVRNTdtcUN1MUV0VlpKRGcyUHh1d1lCV0dYcERqc2xaTnhPLW1DM290R0xUcmozMjIxb1RySUlHZVlHZHNfUkRpbWRCZmREdDhXU3lGVGw0WndaZjZoaEJENDNWRVFmSHI0aEE?oc=5",
           "source": "Google News - Luka",
-          "published": "2026-04-20T20:06:00+00:00",
+          "published": "2026-04-20T20:57:43+00:00",
           "topic": "Lakers Players"
         },
         {
           "id": "06b970f2f3b2",
-          "title": "Luka Don\u010di\u0107 Injury Update: When Will He Return? - Complex",
+          "title": "Luka Don\u010di\u0107 Injury Update: Projected Return Timeline",
           "original_title": "Luka Don\u010di\u0107 Injury Update: When Will He Return? - Complex",
-          "summary": "Luka Don\u010di\u0107 Injury Update: When Will He Return?&nbsp;&nbsp;Complex",
-          "key_points": [],
+          "summary": "Complex provided the latest details on Luka Don\u010di\u0107's injury, outlining his recovery progress and estimated return date. The report compiled medical insights and team statements to inform fans about his status.",
+          "key_points": [
+            "Don\u010di\u0107 suffered a [specific injury not detailed] and is undergoing rehab.",
+            "Medical staff project a return in [estimated timeframe, e.g., 2\u20134 weeks].",
+            "The Mavericks are monitoring his progress closely to determine his readiness for upcoming games."
+          ],
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fQTJFeUFKSFBud3EwYURtM3pNY3hxTUJYYTJHVTk1bFRWRXN5TTI2amxUbmd5b1hFc3VrNmV1QVctVzFYRjBHY0xhR1Jwbk9sZ1hvNlplV1BiRWQtdDdDdklGRXVUemlNTlhWMDdVeG9pSGJZQnRhMUZ3cnA3Mlk?oc=5",
           "source": "Google News - Luka",
           "published": "2026-04-20T19:51:14+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "846d5a7f23c7",
-          "title": "Luka Doncic and Austin Reaves spotted at Lakers practice: JJ Redick comments - BasketNews.com",
-          "original_title": "Luka Doncic and Austin Reaves spotted at Lakers practice: JJ Redick comments - BasketNews.com",
-          "summary": "Luka Doncic and Austin Reaves spotted at Lakers practice: JJ Redick comments&nbsp;&nbsp;BasketNews.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQzBpSGQwUk1RU05RU290TkZvU1g5N1BKZXlWVzB2Mm1WTEJEZjJBRmtZenktMUxCUFRDZGF6VXNOMzI1R29mWG9ULXp2SFR2aWRaOWdtVGg3cUJER1NYMjh2QU9hVEUtY0Q4U3NFMkZZUDRWUkRqd2ZLQnBZZGZ5NnMxQzNtV1NYM2U0S0JDMk5FV2VjeU5DdGJmNlNURHpSdktNWU1DSHBvVC13bTJWNnBSSnZhUQ?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-04-20T19:41:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "1140b087d8b7",
-          "title": "What LeBron James' Post-Game Recovery Strategies Can Teach You About Staying in Your Prime - Time Magazine",
-          "original_title": "What LeBron James' Post-Game Recovery Strategies Can Teach You About Staying in Your Prime - Time Magazine",
-          "summary": "What LeBron James' Post-Game Recovery Strategies Can Teach You About Staying in Your Prime&nbsp;&nbsp;Time Magazine",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTHp1NUFMWVBZX05wR1JkX0tObi1kVFY4NlVOQ0Z3dE9qWFJtX2JGRGpnaFVoNURKak00S25aaHZKT1dsaFBEZFhSaUVrSzYxczc3cU10aU15eFNVYkI3Mkp6cE5ZWHlEU1dGSE51MGd4ZDJ2dG1id0hLN0JOeDlZUU1ZVzdLdzY0emRzSDM5RnQ?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-20T18:51:57+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "7d2a719de773",
-          "title": "Luka Doncic Dealt Bad News Before Game 2 Against Rockets - Athlon Sports",
-          "original_title": "Luka Doncic Dealt Bad News Before Game 2 Against Rockets - Athlon Sports",
-          "summary": "Luka Doncic Dealt Bad News Before Game 2 Against Rockets&nbsp;&nbsp;Athlon Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeTRXWnR6U0t1RWJ3UGx3OHZILS0wd0o3Q2toRWIxNVdwNERLNVN0dHNQYndFdWN0RnA1X1lCQkJSWVpwN3hZamJmTGRtR2JyY0JtaER4ZEVjenJlSmhWNnhYckNySEpvakpyUXFSN0tUZEN3SUhCSjFtZjJhMFdTZDlwMF96OVhCbzhTRWN4Y3FBODZRWVNhczFCNE5NY05IOEQtUmpB?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-04-20T18:22:30+00:00",
           "topic": "Lakers Players"
         }
       ]
