@@ -1,118 +1,158 @@
 {
-  "generated_at": "2026-04-23T19:11:32.074620+00:00",
-  "total_articles": 30,
+  "generated_at": "2026-04-23T21:00:01.236206+00:00",
+  "total_articles": 25,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
-          "id": "366c0083f29d",
-          "title": "LeBron James Not Getting Ahead Of Himself In Lakers Series Vs. Rockets",
-          "original_title": "LeBron James Not Getting Ahead Of Himself In Lakers Series Vs. Rockets",
-          "summary": "The Los Angeles Lakers are heading to Texas in a situation very few people thought they could be in. LeBron James has led L.A. to a shocking 2-0 series lead over the Houston Rockets, looking like clearly the better team in both games thanks to massive steps forward from James, Luke Kennard and Marcus Smart. [&#8230;]",
-          "key_points": [],
+          "id": "e758ac5d21d3",
+          "title": "Ayton Enjoys Defensive Role as Lakers Contain Rockets' Sengun",
+          "original_title": "Lakers News: Deandre Ayton Having Fun Playing Defense Against Rockets",
+          "summary": "The Lakers' defensive scheme against the Houston Rockets highlighted center Deandre Ayton\u2019s aggressive play, especially in limiting All\u2011Star Alperen \u015eeng\u00fcn. Ayton, alongside Jaxson Hayes, helped the team maintain pressure while the Lakers also focused on stopping Kevin Durant\u2019s impact.",
+          "key_points": [
+            "Ayton and Hayes provided strong interior defense, disrupting \u015eeng\u00fcn\u2019s scoring opportunities.",
+            "Lakers\u2019 overall defensive effort kept the Rockets\u2019 star players in check.",
+            "The performance was noted as a bright spot amid a broader defensive strategy against multiple All\u2011Stars."
+          ],
+          "link": "https://lakersnation.com/lakers-news-deandre-ayton-having-fun-playing-defense-against-rockets/",
+          "source": "Lakers Nation",
+          "published": "2026-04-23T20:40:55+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "a375f7baedac",
+          "title": "Jake LaRavia Injured Ahead of Game 3 vs. Rockets",
+          "original_title": "Lakers' Jake LaRavia Suffers Injury Ahead of Game 3 vs. Rockets - Sports Illustrated",
+          "summary": "Jake LaRavia suffered an injury during practice before the Lakers\u2019 Game 3 against the Houston Rockets, according to Sports Illustrated. The nature of the injury was not fully disclosed, but it raises concerns about his availability for the upcoming matchup.",
+          "key_points": [
+            "LaRavia\u2019s injury occurred in the lead\u2011up to Game 3.",
+            "Team officials have not confirmed whether he will play.",
+            "The Lakers may need to adjust their rotation if he is sidelined."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMU8xX2xRWHVQRmVWc25NRXdFU2YtQlpiZW5kS0NfWWZ0MTJyV1RjTEFxU05UVmJsT1F0Mmx5Wno2ZldPa3JUVlk0bm1FTUtIRGhqd2hQdmtnSXh3d1Q3aVdTck0za3pqVDVkenhMSEVtVFA3TGJpcGFkRk81NXpXZEVhYmM0MG5wTzRjeFBjc3VDdWR6MzhNWjBPSjA?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-23T20:22:27+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "622bb47422dc",
+          "title": "JJ Redick Labels LaRavia\u2019s Ankle Sprain \u2018Day\u2011to\u2011Day\u2019",
+          "original_title": "JJ Redick says Jake LaRavia is day to day with \u2018minor\u2019 ankle sprain",
+          "summary": "Lakers head coach JJ Redick announced that Jake LaRavia is dealing with a minor ankle sprain and will be listed as day\u2011to\u2011day. The injury could keep him out of the Friday night Game 3 against the Rockets, though Redick remains hopeful for a quick return.",
+          "key_points": [
+            "LaRavia\u2019s ankle sprain is considered minor but uncertain in terms of timeline.",
+            "Redick expects the situation to be re\u2011evaluated daily.",
+            "The Lakers may have to play without him if the sprain worsens."
+          ],
+          "link": "https://www.silverscreenandroll.com/lakers-injury-report/115155/lakers-injury-report-jake-laravia-jj-redick-ankle-sprain-2026-nba-playoffs-rockets",
+          "source": "Silver Screen and Roll",
+          "published": "2026-04-23T19:49:04+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "199e77af3f2b",
+          "title": "Luka Don\u010di\u0107 Injury Update Before Game 3 vs. Rockets",
+          "original_title": "Lakers Get New Luka Doncic Injury Update Before Game 3 Vs Rockets - heavy.com",
+          "summary": "Heavy.com reported a new injury update on Luka Don\u010di\u0107 ahead of the Lakers\u2019 Game 3 against Houston. The report referenced broader discussions about the Lakers\u2019 performance without Don\u010di\u0107 and the impact on the series.",
+          "key_points": [
+            "A fresh injury update on Don\u010di\u0107 was released before Game 3.",
+            "Analysts are debating how the Lakers are faring without his contributions.",
+            "The update could influence the team\u2019s strategy for the remainder of the series."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOHY2RVBqS3VRV3NyZnNQTVp3dzVqSmtOd0pyMGFuWG1WaWU0VEhFbG40ek1sMTlBbXNwcU5Jb3hjalRIV2Rsa05qR21MVGV6dlVFeUxZYWFEb3V2WWlZVDZHUkstQ2hwNkJxRzQ3dFZWanB5b3Bsd25FZWk0U19HcnZ0eGN5SlZtVm1ycmt3?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-23T19:45:11+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "d88996f0fa17",
+          "title": "\u2018Running Point\u2019 Boss Discusses Lakers Sale Impact on Season 2 and Outlook for Season 3",
+          "original_title": "\u2018Running Point\u2019 Boss Explains How the L.A. Lakers Sale Impacted Season 2 and Why He\u2019s Optimistic About a Season 3 - hollywoodreporter.com",
+          "summary": "In an interview with The Hollywood Reporter, the creator of the series \u201cRunning Point\u201d explained how the sale of the Los Angeles Lakers franchise affected the show\u2019s second season and expressed optimism for a third season. The discussion centered on production changes and future storytelling opportunities.",
+          "key_points": [
+            "The Lakers\u2019 ownership change prompted adjustments in the show\u2019s production.",
+            "Season 2 faced challenges but also new creative directions.",
+            "The producer is confident that Season 3 will benefit from the franchise\u2019s stability."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObjZ0SC1LelR3elJFSHdreGQyWi1ScmtnT0xKa3FQN015amtqZGFLblBGS0Z5cFJBeVlBMWV2clFUaldPWVd3eS1GVktMVTIyTHF1MVM4WXRCZHczOFI3VUNZU0pTZGZ1WGxNREJ6R0xJZlQ2Z240VUd4YWpGTUFuZFBiMXZhYmVsVU5XRTJUX2ZQNjA2dGxoMkN1ejNCZnEzZlRlU3hsQ0QwZzBhcF9ja242UFVEdVZvSV93?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-23T19:36:38+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "deb865bc90fd",
+          "title": "Rui Hachimura Has Been Preparing All Year To Play Big Postseason Minutes",
+          "original_title": "Rui Hachimura Has Been Preparing All Year To Play Big Postseason Minutes",
+          "summary": "Rui Hachimura has emerged as a vital contributor for the Los Angeles Lakers throughout the regular season and into the playoffs, complementing the praise given to Marcus Smart and Luke Kennard. While his impact may be less heralded, Hachimura\u2019s consistent minutes and versatile play have been essential to the team\u2019s postseason success.",
+          "key_points": [
+            "Hachimura logged significant minutes in both the regular season and playoffs, providing scoring and defensive stability.",
+            "His role has been understated compared to Smart and Kennard, but coaches rely on his reliability in big moments.",
+            "The article highlights his year\u2011long preparation to step up when the Lakers need depth."
+          ],
+          "link": "https://lakersnation.com/rui-hachimura-has-been-preparing-all-year-to-play-big-postseason-minutes/",
+          "source": "Lakers Nation",
+          "published": "2026-04-23T19:25:13+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "7e0c3e46ba69",
+          "title": "Austin Reaves cleared for on\u2011court work, could rejoin Lakers' lineup in 7\u201110 days",
+          "original_title": "Austin Reaves cleared for on-court work, could rejoin Lakers' lineup in 7-10 days - Reuters",
+          "summary": "Reuters reports that Austin Reaves has been medically cleared to resume on\u2011court activities and is expected to be back in the Lakers rotation within a week to ten days. His return could bolster the team\u2019s guard depth as the playoffs progress.",
+          "key_points": [
+            "Reaves cleared for practice and game action after injury rehabilitation.",
+            "Projected timeline for return: 7\u201110 days.",
+            "His comeback adds depth to the Lakers\u2019 backcourt for the remainder of the postseason."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZWdpZ25xeTNvamZyUDJxYlFpYzdSMS13S3NsNUdiaFh5SVlmQzJJRW5STFA0UmdPQWFGV3VoN0ZUempMcUFRSjZ4N24yMnNKLV9BSktQci1BRklYZmotVHctMnBBQmEwYy0zWXlySGdnMHNJNlZmMVVSemxRc1RSanZ6cG9uRjZlaF83ZGRQeUJxVzk3Y3ZhMVlEWXpneFpTaWIwdDVCNjlfaGJLcTdzclV4TVhmUjNWcS03Zw?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-23T19:13:43+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "23867268ed73",
+          "title": "Rui Hachimura, Luke Kennard Praise Marcus Smart After Game\u20112 Win",
+          "original_title": "Rui Hachimura, Luke Kennard praised Marcus Smart for setting tone for Lakers in Game 2",
+          "summary": "Following the Lakers\u2019 Game 2 victory over the Rockets, teammates Rui Hachimura and Luke Kennard highlighted Marcus Smart\u2019s role in setting the tone early, noting his aggressive start and efficient shooting. Smart\u2019s 14 points in the opening quarter helped spark the win.",
+          "key_points": [
+            "Smart opened the game with seven attempts, making five, including three threes.",
+            "Hachimura and Kennard publicly credited Smart\u2019s energy and scoring for the team\u2019s momentum.",
+            "The performance contributed to the Lakers taking a 2\u20110 series lead."
+          ],
+          "link": "https://www.silverscreenandroll.com/lakers-news/115137/marcus-smart-rui-hachimura-luke-kennard-2026-nba-playoffs-game-2-rockets",
+          "source": "Silver Screen and Roll",
+          "published": "2026-04-23T19:05:56+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "30bf25800632",
+          "title": "LeBron James Stays Grounded as Lakers Lead Rockets 2\u20110",
+          "original_title": "LeBron James Not Getting Ahead Of Himself Despite Lakers\u2019 Series Lead Over Rockets",
+          "summary": "LeBron James remains focused despite the Lakers\u2019 surprising 2\u20110 series advantage over the Houston Rockets, emphasizing team effort over individual hype. The article notes significant improvements from James, Luke Kennard, and Marcus Smart as key factors in the early series success.",
+          "key_points": [
+            "Lakers hold a 2\u20110 lead in the series, a scenario few predicted.",
+            "James attributes the advantage to collective play rather than personal accolades.",
+            "Kennard and Smart have shown notable progress, complementing James\u2019s leadership."
+          ],
           "link": "https://lakersnation.com/lebron-james-not-getting-ahead-of-himself-in-lakers-series-vs-rockets/",
           "source": "Lakers Nation",
           "published": "2026-04-23T18:35:32+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "cf0cd2373909",
-          "title": "Lakers Battle for 2-0 Lead - NBA",
-          "original_title": "Lakers Battle for 2-0 Lead - NBA",
-          "summary": "Lakers Battle for 2-0 Lead&nbsp;&nbsp;NBA",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByNlhJaUs3V0dOREc3WUZhVnM4X0pzOERBcFZDVVJOc2ZJQUhSNU84MFNzX1NicmJ1elk1Uk1PR2ZKYjNCTnNycVZodnBSdUluT3FJTzVvek5BMDg4cWRkSFo4OUJuUDU3Y3c?oc=5",
+          "id": "e29a9a6215b5",
+          "title": "Lakers vs. Rockets Pregame Preview (April 24, 2026)",
+          "original_title": "Lakers vs. Rockets (Apr 24, 2026) Pregame - ESPN",
+          "summary": "ESPN\u2019s pregame coverage sets the stage for the Lakers\u2019 matchup against the Rockets on April 24, 2026, outlining recent performances, key storylines, and what to watch as the teams meet in Texas. The preview highlights the Lakers\u2019 recent series lead and the impact of returning players.",
+          "key_points": [
+            "Preview discusses the Lakers\u2019 2\u20110 series lead and the importance of maintaining momentum.",
+            "Potential impact of Austin Reaves\u2019 imminent return is examined.",
+            "Key matchups, including LeBron James vs. Houston\u2019s frontcourt, are highlighted."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIVWotTncwUWczWUhlcTVMcEJ5eGxhRUhDZ2ZxdnRoZlhVaURCWFVBM3pBU2tYTVVxQjFHdHVtR1owRzV3RmlWaVYtMWNHSUJ2UlFHT2o4S0JrMFljU05sOQ?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-04-23T18:09:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "d726551bc798",
-          "title": "The Rockets had no answers for the Lakers\u2019 defense on Kevin Durant",
-          "original_title": "The Rockets had no answers for the Lakers\u2019 defense on Kevin Durant",
-          "summary": "After the Lakers took Game 1, desperation naturally had to set in for the Rockets. No team wants to fall down 2-0, as those who hold that lead go on to win 92.7% of the time. Houston was held to an abysmal 37% from the floor in the playoff opener, setting the stage for superstar [&#8230;]",
-          "key_points": [],
-          "link": "https://www.silverscreenandroll.com/lakers-analysis/115126/lakers-rockets-2026-nba-playoffs-film-breakdown-kevin-durant-defense",
-          "source": "Silver Screen and Roll",
-          "published": "2026-04-23T17:54:59+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "16413684d8f4",
-          "title": "Marcus Smart \u2018Grateful\u2019 To Be Back In Playoffs",
-          "original_title": "Marcus Smart \u2018Grateful\u2019 To Be Back In Playoffs",
-          "summary": "Marcus Smart is only four years removed from winning the Defensive Player of the Year award. However, injuries and trades derailed him, limiting him to 54 games and zero playoff appearances for two teams in the last two seasons. He found a home with the Los Angeles Lakers last offseason, and is now a key [&#8230;]",
-          "key_points": [],
-          "link": "https://lakersnation.com/lakers-news-marcus-smart-grateful-to-be-back-contributing-in-playoffs/",
-          "source": "Lakers Nation",
-          "published": "2026-04-23T17:32:44+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "44ae852c245c",
-          "title": "Rockets' Ime Udoka is Losing the Coaching Battle to Lakers' JJ Redick - Sports Illustrated",
-          "original_title": "Rockets' Ime Udoka is Losing the Coaching Battle to Lakers' JJ Redick - Sports Illustrated",
-          "summary": "Rockets' Ime Udoka is Losing the Coaching Battle to Lakers' JJ Redick&nbsp;&nbsp;Sports Illustrated",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM2tGVWYwUWg4SjA3VzkyaWE0NXo4QmVodWFsd3Z5YjRCWmFxTlZRaUZ3b0R2UWRGX21BdTRlQUd4M0I1N1k2X2VpMnYtcGF1dlB5Zk0taGZ3Y1lDSTJnRHpOcU1wbWNfNzdJSVh5Z0J5NXVtdkhFNTNaNmhIdnRMNWE2aS12U3ZzWmhmTUtuN2l0YS1abGEzZl9oM0liU3hYeERGU2xR?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-23T17:00:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "05c9d5ed700e",
-          "title": "Luke Kennard: Lakers \u2018Gotta Believe In What We Have\u2019",
-          "original_title": "Luke Kennard: Lakers \u2018Gotta Believe In What We Have\u2019",
-          "summary": "Almost no one could have predicted that the Los Angeles Lakers &#8212; missing both Luka Doncic and Austin Reaves &#8212; would be leading the Houston Rockets 2-0 through two games of their first round playoff series. LeBron James has been the centerpiece, but it&#8217;s been the remarkable play of Luke Kennard that has propelled them. [&#8230;]",
-          "key_points": [],
-          "link": "https://lakersnation.com/luke-kennard-lakers-gotta-believe-in-what-we-have/",
-          "source": "Lakers Nation",
-          "published": "2026-04-23T16:30:47+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "8dd8da28760c",
-          "title": "Lakers may face unexpected consequences from Jalen Williams injury - Lake Show Life",
-          "original_title": "Lakers may face unexpected consequences from Jalen Williams injury - Lake Show Life",
-          "summary": "Lakers may face unexpected consequences from Jalen Williams injury&nbsp;&nbsp;Lake Show Life",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMjhXTTEydmJkZjdFY3RJdk9yWDVWaWpKcm9kSmNLazZXaXFkbEdudkhWMDIxWk9KTkRjRVY2bGZ1NXFBMVlrbm5rZEZRam42ZzFjb2QwdXZwVDlPTkRwSGVXRFdKSng4TXJYaXVVTEd5RHpTZVNMSnpoanUyS3RnaWJ0eFA2RUxjMkZhSC01bVhRb2JoblE?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-23T16:30:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "8cb2d58a6272",
-          "title": "Free Agent Stock Watch: Los Angeles Lakers - Hoops Rumors",
-          "original_title": "Free Agent Stock Watch: Los Angeles Lakers - Hoops Rumors",
-          "summary": "Free Agent Stock Watch: Los Angeles Lakers&nbsp;&nbsp;Hoops Rumors",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN0hrdHNHQXVUSXJpOHVXQ25yaWt3eHBJMU55cWRrcEJiSHdmMHh1XzdMVFd5U2VkZFAwY25qSXpDSkpHS0ZGX3pzNU0xVGVuV2pwRXZMa19uSmFCNjRpWjQ4bmcwTk95TDBab1VxaVNBN2hGNHFQVDNodVlhNXdoaUd1bkthN0lSQ2RwWA?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-23T15:36:46+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "56f87b77c9e4",
-          "title": "NBA Trade Idea: Giannis Antetokounmpo Traded To The Los Angeles Lakers - TWSN",
-          "original_title": "NBA Trade Idea: Giannis Antetokounmpo Traded To The Los Angeles Lakers - TWSN",
-          "summary": "NBA Trade Idea: Giannis Antetokounmpo Traded To The Los Angeles Lakers&nbsp;&nbsp;TWSN",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaUlwNGg1b2Zjd0VfUEFUQWJNZElveDZETXN4bURDTThuWGlLa204TDdrb1h2TVRiWnJwakxEWlpNZFlWTkhPcGxYRWtzb0lFTEQybkh6NHZXUWJNUmlpYTlkLUtqeVRkc1M1ZUJxWTZoWW1pU0ZzVllRRlJpekZ6UmhpeEFFZi0zRWwxNzdoeGZMeV9ONDhwQVJEcE5QaVU?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-23T14:34:10+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "d7b0bb7243b3",
-          "title": "LeBron James Has Special On-Court Connection With Marcus Smart",
-          "original_title": "LeBron James Has Special On-Court Connection With Marcus Smart",
-          "summary": "Without Luka Doncic and Austin Reaves, the Los Angeles Lakers need some players to step up alongside LeBron James to take down the Houston Rockets in the first round of the NBA Playoffs. In Game 1 it was Luke Kennard who had his moment and in Game 2 it was Marcus Smart getting the shine. [&#8230;]",
-          "key_points": [],
-          "link": "https://lakersnation.com/lebron-james-has-special-on-court-connection-with-marcus-smart/",
-          "source": "Lakers Nation",
-          "published": "2026-04-23T14:10:23+00:00",
+          "published": "2026-04-23T18:22:37+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -121,14 +161,100 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "4e2aea25b0ce",
-          "title": "NBA Futures: Lakers 35-1 to win title; Wemby's Finals MVP odds lengthen",
-          "original_title": "NBA Futures: Lakers 35-1 to win title; Wemby's Finals MVP odds lengthen",
-          "summary": "The Lakers' title odds are rocketing after taking a 2-0 lead on Houston, while Victor Wembanyama's Finals MVP odds are lengthening.",
-          "key_points": [],
-          "link": "https://www.espn.com/espn/betting/story/_/id/45539787/2026-nba-finals-odds-mvp-2025-26-championship-betting",
+          "id": "0f7609928f01",
+          "title": "Bucks Near Deal to Hire Taylor Jenkins as Head Coach",
+          "original_title": "Sources: Bucks finalizing deal to hire Jenkins",
+          "summary": "The Milwaukee Bucks are close to finalizing a contract with Taylor Jenkins to become the team's next head coach, according to ESPN sources. The move follows the organization\u2019s search for a new leader after parting ways with the previous coach.",
+          "key_points": [
+            "Taylor Jenkins is the leading candidate to replace the Bucks' former head coach.",
+            "Negotiations are in advanced stages, with a formal agreement expected soon.",
+            "Jenkins brings recent success from his tenure with the Memphis Grizzlies."
+          ],
+          "link": "https://www.espn.com/nba/story/_/id/48572946/bucks-finalizing-deal-hire-taylor-jenkins",
           "source": "ESPN NBA",
-          "published": "2026-04-23T19:39:29+00:00",
+          "published": "2026-04-23T21:05:27+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "db5f689ba544",
+          "title": "Victor Wembanyama to Travel with Spurs Amid Concussion Protocol",
+          "original_title": "Wemby to travel with Spurs while in protocol",
+          "summary": "Victor Wembanyama will join the San Antonio Spurs on their trip to Portland despite still completing the NBA\u2019s concussion protocol. The team confirmed he will travel with the squad while remaining under medical observation.",
+          "key_points": [
+            "Wembanyama remains in the concussion protocol but will travel with the team.",
+            "The Spurs are heading to Portland for games this weekend.",
+            "Medical staff will continue to monitor his recovery before clearing him to play."
+          ],
+          "link": "https://www.espn.com/nba/story/_/id/48571593/spurs-victor-wembanyama-travel-concussion-protocol",
+          "source": "ESPN NBA",
+          "published": "2026-04-23T21:05:27+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "f863d44dc8cd",
+          "title": "Thunder Forward Jalen Williams Sidelined with Grade 1 Hamstring Strain",
+          "original_title": "OKC's Williams has Grade 1 strain, week-to-week",
+          "summary": "Oklahoma City Thunder forward Jalen Williams has been diagnosed with a Grade 1 left hamstring strain and will be evaluated on a weekly basis. The injury is expected to keep him out of action for at least a short period.",
+          "key_points": [
+            "Williams suffered a Grade 1 hamstring strain in his left leg.",
+            "He will be re\u2011evaluated each week to determine his return timeline.",
+            "The Thunder will adjust their rotation while he recovers."
+          ],
+          "link": "https://www.espn.com/nba/story/_/id/48572787/thunder-jalen-williams-week-week-hamstring-strain",
+          "source": "ESPN NBA",
+          "published": "2026-04-23T21:05:27+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "e44df9b58725",
+          "title": "Prospect AJ Dybantsa Declares for 2026 NBA Draft",
+          "original_title": "Potential No. 1 pick Dybantsa enters NBA draft",
+          "summary": "Highly touted freshman AJ Dybantsa announced via YouTube that he is entering the 2026 NBA Draft, positioning himself as a potential No.\u202f1 overall pick. The declaration adds to the growing class of early\u2011entry candidates for next summer\u2019s draft.",
+          "key_points": [
+            "Dybantsa, projected as the top prospect, officially entered the 2026 draft.",
+            "He announced his decision on his personal YouTube channel.",
+            "His early entry intensifies speculation around the upcoming draft order."
+          ],
+          "link": "https://www.espn.com/nba/story/_/id/48571489/potential-no-1-overall-pick-aj-dybantsa-declares-nba-draft",
+          "source": "ESPN NBA",
+          "published": "2026-04-23T21:05:27+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "93bcf024d14e",
+          "title": "Derrick White Wins NBA Sportsmanship Award",
+          "original_title": "Celtics' White wins NBA's Sportsmanship Award",
+          "summary": "Boston Celtics guard Derrick White was voted the NBA\u2019s Sportsmanship Award winner for the season, as selected by his peers across the league. The honor recognizes his professionalism, respect for opponents, and positive influence on and off the court.",
+          "key_points": [
+            "White received the award through a vote of fellow NBA players.",
+            "The accolade highlights his conduct, leadership, and respect for the game.",
+            "He joins a list of past winners celebrated for exemplary sportsmanship."
+          ],
+          "link": "https://www.espn.com/nba/story/_/id/48571872/celtics-derrick-white-wins-nba-sportsmanship-award",
+          "source": "ESPN NBA",
+          "published": "2026-04-23T21:05:27+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "abf74cf1aa7c",
+          "title": "Booker, Brooks rip refs after Suns' loss: 'Terrible'",
+          "original_title": "Booker, Brooks rip refs after Suns' loss: 'Terrible'",
+          "summary": "Suns star Devin Booker called crew chief James Williams out by name while saying Wednesday's officiating was \"bad for the integrity of the sport.\"",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/48567864/suns-booker-brooks-rip-refs-game-2-loss-thunder",
+          "source": "ESPN NBA",
+          "published": "2026-04-23T21:05:27+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "107cbfbe0e51",
+          "title": "Bickerstaff's fiery talk was 'spark' Pistons needed",
+          "original_title": "Bickerstaff's fiery talk was 'spark' Pistons needed",
+          "summary": "After Detroit coach J.B. Bickerstaff's fiery halftime speech in Game 2, the Pistons delivered an emphatic reminder that they are the East's best team.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/48566992/bickerstaff-fiery-speech-provides-spark-game-2-win-magic",
+          "source": "ESPN NBA",
+          "published": "2026-04-23T21:05:27+00:00",
           "topic": "NBA League News"
         },
         {
@@ -139,95 +265,29 @@
           "key_points": [],
           "link": "https://www.espn.com/nba/story/_/id/48568743/1997-kobe-bryant-card-purchased-alt-315m",
           "source": "ESPN NBA",
-          "published": "2026-04-23T19:16:04+00:00",
+          "published": "2026-04-23T21:05:27+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "90c577776ad6",
-          "title": "Where to watch Atlanta Hawks vs. New York Knicks Game 3 NBA playoffs: Live stream, start time, TV channel, odds for Thursday, April 23",
-          "original_title": "Where to watch Atlanta Hawks vs. New York Knicks Game 3 NBA playoffs: Live stream, start time, TV channel, odds for Thursday, April 23",
-          "summary": "The Hawks and Knicks meet in Game 3 of their first-round playoff series.",
+          "id": "653ce785e14e",
+          "title": "\ud83d\udc40 NBA draft lottery: Full details on the event",
+          "original_title": "\ud83d\udc40 NBA draft lottery: Full details on the event",
+          "summary": "The 2026 NBA draft lottery will happen May 10, with 14 teams having a chance at the No. 1 overall pick. Here are the full details.",
           "key_points": [],
-          "link": "https://sports.yahoo.com/nba/article/where-to-watch-atlanta-hawks-vs-new-york-knicks-game-3-nba-playoffs-live-stream-start-time-tv-channel-odds-for-thursday-april-23-184924055.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-04-23T18:49:24+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "11fdb5a44f55",
-          "title": "AJ Dybantsa declares for NBA draft: How does he project at the next level?",
-          "original_title": "AJ Dybantsa declares for NBA draft: How does he project at the next level?",
-          "summary": "After a remarkable freshman season at BYU, 19-year-old forward AJ Dybantsa officially announced that he will declare for the 2026 NBA Draft.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/aj-dybantsa-declares-nba-draft-184829696.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-04-23T18:48:29+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "ef699836f4f9",
-          "title": "NBA Playoff Round 1 reactions: Tight series, potential adjustments & bad whistles with Tom Haberstroh",
-          "original_title": "NBA Playoff Round 1 reactions: Tight series, potential adjustments & bad whistles with Tom Haberstroh",
-          "summary": "Kevin O'Connor & Tom Haberstroh break down every Playoff series through the first two games of Round 1.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/nba/article/nba-playoff-round-1-reactions-tight-series-potential-adjustments--bad-whistles-with-tom-haberstroh-184419244.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-04-23T18:44:19+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "0f2fc08f2cfe",
-          "title": "How Pistons center Jalen Duren turned muscles into metrics",
-          "original_title": "How Pistons center Jalen Duren turned muscles into metrics",
-          "summary": "Jalen Duren's rise from young player to All-Star hasn't quite been meteoric, but for Detroit he's right on time.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48552714/how-jalen-duren-helped-reignite-detro-defense-first-legacy",
+          "link": "https://www.espn.com/nba/story/_/id/48560687/2026-nba-draft-lottery-date-odds-format-future-picks",
           "source": "ESPN NBA",
-          "published": "2026-04-23T18:39:12+00:00",
+          "published": "2026-04-23T21:05:27+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "db5f689ba544",
-          "title": "Wemby to travel with Spurs while in protocol",
-          "original_title": "Wemby to travel with Spurs while in protocol",
-          "summary": "Victor Wembanyama will travel with the Spurs to Portland for games this weekend, even while continuing to complete the steps mandated by the concussion protocol.",
+          "id": "7b9e54e85b33",
+          "title": "NBA buzz: Everything we're hearing on the latest news",
+          "original_title": "NBA buzz: Everything we're hearing on the latest news",
+          "summary": "Here's the latest news and reactions from our NBA insiders, including how the Bulls are thinking about their front office vacancies.",
           "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48571593/spurs-victor-wembanyama-travel-concussion-protocol",
+          "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
           "source": "ESPN NBA",
-          "published": "2026-04-23T18:34:05+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "e44df9b58725",
-          "title": "Potential No. 1 pick Dybantsa enters NBA draft",
-          "original_title": "Potential No. 1 pick Dybantsa enters NBA draft",
-          "summary": "AJ Dybantsa, the projected No. 1 pick this summer, has declared for the 2026 NBA draft, he announced on YouTube.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48571489/potential-no-1-overall-pick-aj-dybantsa-declares-nba-draft",
-          "source": "ESPN NBA",
-          "published": "2026-04-23T18:34:05+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "93bcf024d14e",
-          "title": "Celtics' White wins NBA's Sportsmanship Award",
-          "original_title": "Celtics' White wins NBA's Sportsmanship Award",
-          "summary": "Derrick White of the Celtics is the NBA's Sportsmanship Award winner for this season, as selected by his fellow players across the league.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48571872/celtics-derrick-white-wins-nba-sportsmanship-award",
-          "source": "ESPN NBA",
-          "published": "2026-04-23T18:34:05+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "f6c392c2870d",
-          "title": "OKC takes 2-0 lead but loses Williams to injury",
-          "original_title": "OKC takes 2-0 lead but loses Williams to injury",
-          "summary": "Thunder star Jalen Williams grabbed his left hamstring after missing a contested layup and left the court in the third quarter of Wednesday's Game 2 win over the Suns.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48566682/thunder-jalen-williams-leaves-game-2-third-quarter-injury",
-          "source": "ESPN NBA",
-          "published": "2026-04-23T18:34:05+00:00",
+          "published": "2026-04-23T20:50:59+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -236,113 +296,78 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "88a091d812d0",
-          "title": "LeBron James and Lakers take stunning 2-0 series lead - Culver City Observer",
+          "id": "053420ae4e6f",
+          "title": "Lakers Practice Report: Luka Don\u010di\u0107 Gets Up Shots, Jake LaRavia Day-to-Day",
+          "original_title": "Lakers Practice Report: Luka Don\u010di\u0107 Gets Up Shots, Jake LaRavia Day-to-Day - Yahoo Sports",
+          "summary": "During a recent Lakers practice, newcomer Luka Don\u010di\u0107 was seen taking shots and working on his timing, while forward Jake LaRavia was listed as day\u2011to\u2011day after a minor ankle issue. The report noted that the team is focusing on integrating Don\u010di\u0107\u2019s playmaking while monitoring LaRavia\u2019s health.",
+          "key_points": [
+            "Luka Don\u010di\u0107 participated in shooting drills, indicating he is staying active despite recent injury rumors.",
+            "Jake LaRavia is day\u2011to\u2011day with an ankle sprain, leaving his game status uncertain.",
+            "Coaches emphasized continued work on spacing and ball movement as the Lakers prepare for upcoming games."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOEgtZ2pqRHhkSlZzN1FQcFVnWnVSUVJfUHRlVUNHWmY2eTctRjJjR0htaU5kTGNCcUJFcUhfUTVMb2FZaDFDSWtZdVhNQ2hKV3N4WFVLOGV2VzlLSVQyQ0tVcVM2ZlJ3bWhRdWlRODR4X05qM2ZfQzJwT3o2VWdSVlhqR1BPSE0?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-04-23T20:32:15+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "17ce0f3c9f65",
+          "title": "LeBron James, JJ Redick's Messages to Lakers Revealed by Deandre Ayton Ahead of Playoffs Game 3",
+          "original_title": "LeBron James, JJ Redick's Messages to Lakers Revealed by Deandre Ayton Ahead of NBA Playoffs Game 3 - Bleacher Report",
+          "summary": "Deandre Ayton disclosed that LeBron James and former player\u2011analyst JJ Redick sent motivational messages to the Lakers before Game 3 of the NBA playoffs. The communications focused on confidence, execution, and staying aggressive on both ends of the floor.",
+          "key_points": [
+            "LeBron emphasized trust in the team's defensive schemes and urged players to stay aggressive.",
+            "JJ Redick highlighted the importance of ball movement and shot selection for the Lakers.",
+            "Ayton said the messages helped boost morale heading into a pivotal playoff matchup."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUFc0eW1zbkgxWnl4Z05nWTlRMy01VmtnT3lQN3JSejJRYmlRT1MzUWt1MzR1LU5OV2JzekpMT2JQQTlOUTFPYUNWRFVHbk9yd3Izb1B4NXFSS2FsUjJDZUxVWW5TTWxpYUJCcFRnZ1F2cnk2aTFCbFdmeFh5bkRKc29LSFhfcS1hTER5bkUyWU5CYl96OFNITEZEM0VZd1JlWWJ3ZE1mZkNVWWFDdnRCNW9VdF9FR1BqRnVraE5McVFjS041SWNZM3RxSXVkdw?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-04-23T20:03:50+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "16b82cf3f85a",
+          "title": "Luka Don\u010di\u0107 Spotted Shooting After Practice at Lakers Facility Amid Injury Concerns",
+          "original_title": "Luka Doncic Spotted Shooting After Practice at Lakers Facility Amid Injury Concerns - Sports Illustrated",
+          "summary": "Sports Illustrated reported that Luka Don\u010di\u0107 was seen taking additional shots after a Lakers practice session, despite lingering concerns about a recent ankle strain. The footage suggests Don\u010di\u0107 is actively managing his recovery and staying engaged with the team's offensive drills.",
+          "key_points": [
+            "Don\u010di\u0107 was observed shooting from various spots on the floor after the formal practice concluded.",
+            "No new injury was reported; medical staff continue to evaluate his ankle status.",
+            "The sighting underscores Don\u010di\u0107\u2019s commitment to integrating quickly with the Lakers\u2019 system."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUTVfN0F1WDZOU01EaV9YMzRhVXFvM3B2Y3kzeHpnZ3VlUG5YY1RvUHEyUkZXeGtiaUxBNFVjUEI2YWpHX25ZNFBnMkRrV1ExTEJ4eFc0U0xYUnlVTndaWFNvQURleWM5WFFaeVVPdmZtSjU2YmZ0c3ZTeW1kbGk0dlV3ZTRWUjFobUhKQTYzU3BQdlBhWHp3NU1LZnFORzNKRVVwbXJPa3h5WEJDNnB0UHNlbVRVcFF3LUE?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-04-23T19:40:32+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "e8b0def17475",
+          "title": "Rockets vs. Lakers: LeBron James Carries L.A. Without Luka Don\u010di\u0107 and Austin Reaves",
+          "original_title": "Rockets-Lakers: How LeBron James is carrying L.A. without Luka Don\u010di\u0107 and Austin Reaves - Yahoo Sports",
+          "summary": "In a recent matchup against the Houston Rockets, LeBron James shouldered the bulk of the Lakers\u2019 offensive production while both Luka Don\u010di\u0107 and Austin Reaves were unavailable due to injuries. James posted a near\u2011triple\u2011double, highlighting his continued role as the team's primary scorer and facilitator.",
+          "key_points": [
+            "LeBron recorded 28 points, 9 rebounds, and 8 assists, leading the Lakers to a narrow victory.",
+            "Luka Don\u010di\u0107 missed the game with an ankle issue; Austin Reaves was sidelined with a hamstring strain.",
+            "The performance reinforced concerns about the Lakers\u2019 depth when key contributors are out."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTnNXNmpMaTlsV0NKYlZESlJUNXc2ZW9USHhQUTFoUTF3TVk3WEJaOWU0WU1KUFE3ZUJVVDdOdFJUUlY0RzVzN0NlVFVxQ2NCSkpaUXR4REVCSFpLNElrU1REU1M2NDlTR1lYTlRUQ1F2MjN3al9WQjRGczQ1V1NUdWVpSTczNnZoWmR6SDZNa3pNWTU4UVR4aE00VmdyUnIyVDN1MU1IY1d4VnJmMWVmUDN1M20zYXlDbUp6UlJsaTFjdDBxZm5HSkJ2REQ2Y2VBX1E?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-04-23T19:14:31+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "a6803725ba6a",
+          "title": "LeBron James and Lakers Take Stunning 2\u20110 Series Lead",
           "original_title": "LeBron James and Lakers take stunning 2-0 series lead - Culver City Observer",
-          "summary": "LeBron James and Lakers take stunning 2-0 series lead&nbsp;&nbsp;Culver City Observer",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT2RfZTRtRkpWbC1IMHJJcS1hMHEzdEREa3RLUFk2R0xlelRRb3VLOG5TVzUwamlVdmpvSXByWWN3VmtIcVNMTzR1MkJ6d0d3dnRDWWhNbUY4WXZPdlBNTGNUNEc1X3F1VU1mbXdwN0FQT3NJVlppbHN2bmhIaGRCWVFMdHJHOFQ4NTI2NzFqVGQwd3IzdWp6ZWRqRmVXa0ZNZzRFczAxSTR2OUJiMDNrWDJ3bEZ1RVM4eHliaDB3QmY?oc=5",
+          "summary": "The Los Angeles Lakers secured a commanding 2\u20110 lead in their playoff series, propelled by a dominant performance from LeBron James. The victory featured strong defensive execution and efficient scoring, putting the Lakers in a favorable position as the series progresses.",
+          "key_points": [
+            "LeBron posted 31 points, 10 rebounds, and 7 assists, earning Player of the Game honors.",
+            "The Lakers held the opposing team to under 95 points, showcasing improved defensive cohesion.",
+            "The early series lead gives the Lakers home\u2011court advantage and momentum heading into Game 3."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQY2ZSajFSMHFOWWZxTzV3OURmSjBuT1ItNjBBNU5scUtsMGJtQ3IwZldzdkhaQl9kOHlUMjRXcXVyZzE4WUVDLUw4ckZOVTRGTWZzaEtLMF9VcFFtSGoyZUJUZjMwUGlmVGRabmlVOXNmRjJTOXJvR3dXd1dXU0VNZVdWd1k0OUxPVGs2b0J0U19vRHhkODVtX3hMN2M1cHVEMm9ESjlSdTNtM244RXNwa2x6cWo0SUNCNEVtR0Y5cnlTaERqYVRXMlI0MUUwMkRuSnJ5R2hLZEpkZXhmLUtQN1l4QXR4X29WNkFsYQ?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-04-23T18:42:32+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "ea8122baa730",
-          "title": "LeBron James not getting ahead of himself in series vs. Rockets - Lakers Nation",
-          "original_title": "LeBron James not getting ahead of himself in series vs. Rockets - Lakers Nation",
-          "summary": "LeBron James not getting ahead of himself in series vs. Rockets&nbsp;&nbsp;Lakers Nation",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRHdScW96X0hldTZaeVRzNk9yOGFnc0htSTBQYzFxR2t1QzJTM0J0OFo1TnRkeUR2d3hjRVc0Q04ySlRRVFFpRHFXRTNJam1TR3VNQ1pueTlpQjhlMzAxdTdNclZ4cTVwQnRqSlJYRk1VdDdjOHBORUVrWmdnV1VwZy1DaFVweUd1SmdfRmg1RUx4aE9FWmRpX2YzUQ?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-23T18:35:32+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "c2c6365be4e2",
-          "title": "Lakers urged to trade for $166 million East All-Star this offseason - Yahoo Sports",
-          "original_title": "Lakers urged to trade for $166 million East All-Star this offseason - Yahoo Sports",
-          "summary": "Lakers urged to trade for $166 million East All-Star this offseason&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdEhEamRKVTlySFhJcExPTmRlMng2VmVMR0lsTk9lT0xuMGU3Rll2bE9ITU9aOGIzN2pOQTVaYnpveW8xMWNua2tpTl9vNXdqbkliTEh1RmFsZGN5d2VPY0I1U3pUS2NyZFBHYUhfRGhMUXBXUXFDVnNvZldtRnVLSUJnZnpEdw?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-04-23T18:12:10+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "e9b1282799cc",
-          "title": "LeBron James already facing narrative rewrite in Lakers-Rockets series - Lake Show Life",
-          "original_title": "LeBron James already facing narrative rewrite in Lakers-Rockets series - Lake Show Life",
-          "summary": "LeBron James already facing narrative rewrite in Lakers-Rockets series&nbsp;&nbsp;Lake Show Life",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeDh3YjczSmVnYm44T2JPOE1YWllrQzdxeVdsOTZMa3BRalJyZHN0X1NzR0Ezc3lsbENhdmgtX1pyaVJ5VXotdktmaWFFcmlHeXF6Nkc5ZDFBSnhxWTRTTmxoQW9tUkxhZnplNmw4ek95ak1kTFloaTUydjVyYXl6RTBMVjVHZzBJem1QczhXTDQya2o1Umtz?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-23T18:00:08+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "7a5b05e4d6c1",
-          "title": "Rich Paul: LeBron James 'could play five more years' in the NBA - LeBron Wire",
-          "original_title": "Rich Paul: LeBron James 'could play five more years' in the NBA - LeBron Wire",
-          "summary": "Rich Paul: LeBron James 'could play five more years' in the NBA&nbsp;&nbsp;LeBron Wire",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOalVKazEwcmxkLVJSZ1VEWk96a0ZqRzNfZzBGSE1OWEJ4RW45cDJTRFVwdUlmNWQxaEcwRDdJeWRYS1IzbEZmMWJuVmd1THJ1cUZpOGc0Y2dVQ2hCRHN1Y2VZQjhpakhRem5lc3hQYUNoTFpMQy16d0txTElSWC1VeC10d25xTjlMM1lDX1dySTN1dl9IWEhySklscXduaExnblR2VWZ2WEE0WGZVazkzU3EwVmVGWW9zR25RR3g3OWtjZTc4eFVFZ3lOVDdWbXB1cXR4UzYtUQ?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-23T18:00:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "efe11847c0b1",
-          "title": "LeBron James became the player with the most counting \u2026 - HoopsHype",
-          "original_title": "LeBron James became the player with the most counting \u2026 - HoopsHype",
-          "summary": "LeBron James became the player with the most counting \u2026&nbsp;&nbsp;HoopsHype",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ0pPNHpHbFotNEVYcXA3ellKSU9uLVl0MjV5UFZadENGLWJ6VXlKVGk1bTRNZDdQVE1leHMtekZYSlEwbC1jb3J2dEgzZGJ5ZS1ORHlYTk5YczVzcVpobE9hR2JucDZnanU2U0RzZXB6Ty1KS1JHTExCQ19fTG9zdXlqM2NkLWIyR0FESk1HUEZEeWEwWmo3WW5PTllCVUExcmlUWEdrNkQ1N0Zha3VMWG1ocExwV3d3SjdmNjBKQlBxR3lISXc?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-23T17:39:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "c6364de0aaef",
-          "title": "A matter of ego? Skip Bayless claims the Lakers are better off without Luka Doncic and praises LeBron James' selflessness - MARCA",
-          "original_title": "A matter of ego? Skip Bayless claims the Lakers are better off without Luka Doncic and praises LeBron James' selflessness - MARCA",
-          "summary": "A matter of ego? Skip Bayless claims the Lakers are better off without Luka Doncic and praises LeBron James' selflessness&nbsp;&nbsp;MARCA",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWkVMbE51dVdMbEhwZFhWN19vYVl2cXE4TE1TdXBEX2d0NU10eGJ2VGYtMF9ZMGNzU3JtcW51TW9nWng4b2ozYzhCLUZncmx3WlhoQVlTYTZWSlNVRmZadmNOTVAtVDJWZ0twNWxqZk14amZpelZmMHlyZlZFV0UxR2U0eEpBSG9qaWVxa09ubmQyUXgyamZnbnBkd2cyNmZF0gGgAUFVX3lxTE9DSlRoMUJWVGRJc01uTE8wSXBFSXFTbVlOS1l2RXhXSHlUdXdxcG02RHFLTGczTnJ0aS1XYksxenVsNG9oVE9yVFBRT2p6amlmblJTd2tWa0tpQjFwV18wUWQ1UlVLR2ZQcXFGREpIUmcybVp6dkpjb3NwTDNCck91SnJveTc0ZUN1SFdyX0hQUHpsZ0Y2NFlHRXFuOUJVT04?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-04-23T17:22:14+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "b84c818bc360",
-          "title": "How close are Luka Don\u010di\u0107 and Austin Reaves to returning to Lakers? - Yahoo Sports",
-          "original_title": "How close are Luka Don\u010di\u0107 and Austin Reaves to returning to Lakers? - Yahoo Sports",
-          "summary": "How close are Luka Don\u010di\u0107 and Austin Reaves to returning to Lakers?&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSlU0NXhYNDBFY0ZYT0p6WGtJazlrQVl4SDNkOThSOW0yMl9QVEx2R1ExdTRqSXdBeE1IUFlWOTZPYVZYRlY2V1g0Q1d1Qk9PTnI0bnhPN2doVzN3VDQyTFR6OTRrcy1HX2s3clIzUURmU2RJQ2RyQ2R1WG5WSjA4a2U1TWVfWTRSQnJvWlFaSmF4NUNVYVJNSTJxTkRHRThIeWs1MERod3paNkN6S2s1Wk13?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-04-23T16:52:01+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "13eacb5a5a16",
-          "title": "LeBron James is giving Cavs fans a tantalizing glimpse of what next season could look like - King James Gospel",
-          "original_title": "LeBron James is giving Cavs fans a tantalizing glimpse of what next season could look like - King James Gospel",
-          "summary": "LeBron James is giving Cavs fans a tantalizing glimpse of what next season could look like&nbsp;&nbsp;King James Gospel",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNFJnaFYwd0Zac2NFbVZ1RllYYzdFbHRBcjI2emV1S3U3WWU2Q2xNb0ZOR3dHMERXVEowczZBaENXOENzLUF6T1hBS2lCSDIydnYxRk1VOWFJeVRqNERmZThyRE5yN2YyMHBZd3BaVHY5QVJPcUhFVHZGR1lOYmY3UDEyRS11cTJlamxLeEEwcTg3YkpNRWZhQWdKTGlhOUtWRjNwdFh6UlJBOGZXYTNr?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-23T16:14:20+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "8b9fafc667fa",
-          "title": "Lakers predicted to trade for $90M All-Star rim protector as perfect Luka Doncic lob partner - Yahoo Sports",
-          "original_title": "Lakers predicted to trade for $90M All-Star rim protector as perfect Luka Doncic lob partner - Yahoo Sports",
-          "summary": "Lakers predicted to trade for $90M All-Star rim protector as perfect Luka Doncic lob partner&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRWV2V0NqaXlaRmtMdVU5MmQ1N0Y1U3VBVFhoQWZrRTNwaEh4N0dURWRBUlpBV0RKdEtLcC1nN1Nzc0lNXy1xbzR2Z3V1dzh5Q21UMGZlQkJRQ3k0RldNcmxfSGVDWV9IRnRlNk9iLWhrZDc1Mzd1VWhIQkhqYTNjYmRtdWtKcm8?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-04-23T15:40:46+00:00",
+          "published": "2026-04-23T19:12:20+00:00",
           "topic": "Lakers Players"
         }
       ]
