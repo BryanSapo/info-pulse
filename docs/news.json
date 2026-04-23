@@ -1,118 +1,158 @@
 {
-  "generated_at": "2026-04-22T22:50:25.589857+00:00",
+  "generated_at": "2026-04-23T02:57:59.485296+00:00",
   "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
+          "id": "88ddd3857f65",
+          "title": "Redick Highlights Marcus Smart\u2019s Leadership Ahead of Playoffs",
+          "original_title": "JJ Redick had conversation with Marcus Smart about his importance to team prior to playoffs",
+          "summary": "JJ\u202fRedick said Marcus Smart reminded him of his importance to the Lakers before the postseason, emphasizing that every available player must step up when the roster is thin. Smart\u2019s vocal leadership and veteran experience have become critical for the team\u2019s playoff push.",
+          "key_points": [
+            "Smart is acting as a vocal leader for a shorthanded Lakers roster.",
+            "Redick noted Smart\u2019s reminder of his role helped set the tone before the playoffs.",
+            "The team\u2019s success hinges on contributions from all available players."
+          ],
+          "link": "https://www.silverscreenandroll.com/lakers-news/115081/lakers-marcus-smart-jj-redick-2026-nba-playoffs-rockets",
+          "source": "Silver Screen and Roll",
+          "published": "2026-04-23T02:24:08+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "ba565fa1c4d9",
+          "title": "Redick Blames Media Momentum for Luka Don\u010di\u0107 Missing MVP Finalist Spot",
+          "original_title": "Los Angeles Lakers\u2019 JJ Redick Blames \u2018Media Momentum\u2019 After Luka Don\u010di\u0107 Misses Out On NBA MVP Finalist Spot - Dallas Hoops Journal",
+          "summary": "JJ\u202fRedick argued that Luka Don\u010di\u0107\u2019s exclusion from the NBA MVP finalist list was largely due to a lack of media momentum rather than his on\u2011court performance. The comment was made in a post\u2011game interview covered by the Dallas Hoops Journal.",
+          "key_points": [
+            "Redick attributes Don\u010di\u0107\u2019s MVP snub to insufficient media buzz.",
+            "He suggests media narratives can outweigh statistical achievements.",
+            "The remark was reported by the Dallas Hoops Journal."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcnVadHF4WXVXZjBFbC1FdFI4T0Q5N2cwNlhiNWFnZVpjQ1hpTWN4SnlzQTNZX2MwcnFLajB4ZFVRbFlGdjNKUlFSM3VaVDRXV3R3NFFsR0o5UC1uMThzV19kbVRsaHlLQzNEbHQwYkV6bzQ3SDFhYTRRRTJ6aE9jVWNBYmdpeEhiWG9BZA?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-23T02:17:04+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "7e0cd6ac640a",
+          "title": "Smart Credits One Factor for Lakers\u2019 Playoff Edge Over Rockets",
+          "original_title": "Marcus Smart Pinpoints One Thing Fueling Lakers\u2019 Playoff Success vs. Rockets - Sports Illustrated",
+          "summary": "Marcus Smart identified a single element that he believes fuels the Lakers\u2019 playoff success against the Rockets, as reported by Sports Illustrated. While the article\u2019s excerpt is brief, Smart\u2019s insight points to a specific catalyst driving the team\u2019s performance.",
+          "key_points": [
+            "Smart isolates one key factor behind the Lakers\u2019 win over the Rockets.",
+            "His perspective highlights the importance of that factor in the postseason.",
+            "The insight was featured in a Sports Illustrated piece."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd2VWQlZjWEM2TWp6WlFYRUFSYkdsbm9nbGxIZk4weHhHc1BZNmFQdjVtU0c0X2R2MXVOTVJFU2xyV1NJejlQRV9mRGlNRjVYVlRJVDRHb2padjAwcmUtelowNS1Hck56YXdURnRxWTlsUnFsazJ2ZjNOdTc3Z1p6cHJRal9KcXJ5aGpnNHpDc3kxVzdSSThGMndSeDAwTjBHX0tha0twdUQxMkNSX3c?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-23T00:39:23+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "e0eb2219fc51",
+          "title": "Lakers\u2019 \u2018Never\u2011Was\u2019 Center Continues Playoff Nightmare",
+          "original_title": "Lakers center that never was continues to live playoff nightmare - Lake Show Life",
+          "summary": "An article from Lake Show Life discusses how the Lakers\u2019 projected starting center has failed to materialize, leaving the team to cope with ongoing playoff challenges. The piece underscores the lingering impact of the missing interior presence.",
+          "key_points": [
+            "The anticipated Lakers center never materialized, creating a roster gap.",
+            "The absence contributes to continued playoff difficulties for the team.",
+            "The situation is framed as a lingering \u201cnightmare\u201d for the franchise."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOXzVYQ3lMeXBJUnBOMDFOY2JkMVZGUF9UcWgwRE15OVkxQlJOWWl4Z0JhRG0xT2VTNG1FazlGUzhTbnNSb0xiY0hmUHJhUjZkbk03YjhBZzVLSDZQWTJTX0R5SXU1b29nOVhSUndjeTI0c0h3bVROZnBoMUZLaVVxVjFXNVFjeTdxcUpOY3ZrU0NkQnlXNHAyNkpzZkhiV0hWNE5SWVlubnR5dUE?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-23T00:01:51+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "a1b20c826e07",
+          "title": "Redick Says LeBron James Brought Extra Physicality in Game 2 vs. Rockets",
+          "original_title": "JJ Redick felt LeBron James played with physicality in Game 2 against Rockets",
+          "summary": "JJ\u202fRedick observed that LeBron James elevated his physical play in Game\u202f2 of the playoff series against the Rockets, noting the heightened intensity required in postseason basketball. Redick highlighted how LeBron\u2019s effort set a tone for the Lakers.",
+          "key_points": [
+            "LeBron increased his physicality in Game\u202f2 against the Rockets.",
+            "Redick emphasized the higher intensity and stakes of playoff basketball.",
+            "James\u2019s effort was portrayed as a catalyst for the team\u2019s competitive edge."
+          ],
+          "link": "https://www.silverscreenandroll.com/lakers-news/115063/lakers-lebron-james-defense-jj-redick-2026-nba-playoffs-game-2-rockets",
+          "source": "Silver Screen and Roll",
+          "published": "2026-04-22T23:39:18+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "8228dd99401b",
+          "title": "Lakers vs. Rockets: Live Updates and Play\u2011by\u2011Play",
+          "original_title": "Los Angeles Lakers @ Houston Rockets: Live game updates, stats, play-by-play - Yahoo Sports",
+          "summary": "Yahoo Sports provided real\u2011time coverage of the Los Angeles Lakers' matchup against the Houston Rockets, including live scores, statistical leaders, and detailed play\u2011by\u2011play commentary. The feed captured key moments such as scoring runs, defensive stops, and individual performances throughout the game.",
+          "key_points": [
+            "Live scoreboard and statistical updates were posted throughout the contest.",
+            "Play\u2011by\u2011play notes highlighted pivotal runs and clutch shots.",
+            "Individual player stats (points, rebounds, assists) were tracked in real time."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdndyTC1NeFVNQlFsOTZMSUdpTnFSbU1SQmhyYjNVNXNYVmtDdHRFWl80NE9NZTRoT19keGV6VHo4SzBRWGoyZXZldGVRQlNycEFjRTRjMXFYU2ZLNkVlNzhVZWlxWnh3eERBZDg0U0k0bXFVNUFBa3BnZGsxQ3N4RA?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-22T23:02:43+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "8a6f9b3c871a",
+          "title": "Lakers Appear Smarter Than Hawks Amid Luke Kennard Regret",
+          "original_title": "Lakers look even smarter as Hawks' success can\u2019t hide Luke Kennard regret - Lake Show Life",
+          "summary": "Lake Show Life analyzed a recent Lakers victory over the Atlanta Hawks, noting that Los Angeles executed more efficient offense and better decision\u2011making. The article also referenced former Laker Luke Kennard\u2019s expressed disappointment at missing a chance to join a winning roster.",
+          "key_points": [
+            "Lakers displayed superior ball movement and shot selection compared to the Hawks.",
+            "Luke Kennard publicly regretted not being part of the Lakers' current success.",
+            "The win underscored the Lakers' growing cohesion and strategic adjustments."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTTZnZEZSWGhDb3QxTXFERXBCcHRzaUV4ei1CandZX1hmTVVOM1lQVTBGdm9kVGd0cEMyVHJaLXBNRG1vWTQ5UVBvRU81N0U1VUtPV3R1Y2NaTW9ZTjNmZm1zcUdDMmdCaXhRVnV3cW5SUFJySWNVeGRYYUZnd2NTTWFXdmxDTG5nR0xCdFkySC1qWEV6c1VsMw?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-22T23:00:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "84f4b3533e5e",
+          "title": "Lakers Witness Historic Moments as Spurs and Nuggets\u2011Wolves Rivalry Evolves",
+          "original_title": "Lakers are witness to history, Spurs have a long 48 hours, Nuggets-Wolves the next great rivalry? \ud83d\udc40 First Things First - Fox News",
+          "summary": "Fox News\u2019 \"First Things First\" segment highlighted the Lakers' role in several notable NBA storylines, including the San Antonio Spurs\u2019 48\u2011hour milestone and the emerging rivalry between the Denver Nuggets and Minnesota Timberwolves. The discussion placed the Lakers within the broader context of league history and upcoming narratives.",
+          "key_points": [
+            "The Lakers were featured as a backdrop to historic events involving the Spurs.",
+            "Analysts speculated that the Nuggets\u2011Wolves matchup could become a new rivalry.",
+            "The segment emphasized how current games tie into longer\u2011term NBA storylines."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qTE9RR3pfSGhJbFdiWnRoYzRkRFhvLVMtWlg0bTBkNmJOcWtxeUgta1BhcDZfZlNqVE5HX2tXX2xsVExseGRVcHpuU3AwYnk2YnRQWW9n?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-22T22:38:47+00:00",
+          "topic": "Lakers News"
+        },
+        {
           "id": "b733db90e515",
-          "title": "LA Lakers take 2-0 series lead against Houston Rockets: Highlights - USA Today",
+          "title": "Lakers Take 2\u20110 Series Lead Over Rockets \u2013 Highlights",
           "original_title": "LA Lakers take 2-0 series lead against Houston Rockets: Highlights - USA Today",
-          "summary": "LA Lakers take 2-0 series lead against Houston Rockets: Highlights&nbsp;&nbsp;USA Today",
-          "key_points": [],
+          "summary": "USA Today recapped the Los Angeles Lakers' dominant performance that gave them a 2\u20110 advantage in their playoff series against the Houston Rockets. Highlight clips showcased key scoring bursts, defensive stops, and standout contributions from the Lakers' core players.",
+          "key_points": [
+            "Lakers secured a 2\u20110 series lead, putting the Rockets on the brink of elimination.",
+            "LeBron James and Anthony Davis led the scoring and defensive efforts.",
+            "Key moments included a late\u2011game run that sealed the victory."
+          ],
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLTF5aWJuWW14OE80eVdDdGdFaThoaG1MbFVnaFVlMzlqcl9NWHpDelBMQklfUF9JaHdyMHBiYUhiQko2T2xlMXlWRl8teFY3LXRVLUNWT00xeWZOdDg4VzV4SUNtLTgyUTVvWFJOTkhuSThmY2VtdzB4WXdQbm9taW55OUdIYU9Dc1ZpRElWd3lwcWoyWHVCdV9qa08zNjJSTG5nUE5rbHBxX2oycHNzUWRKa25PZmE0WnV5NDd3?oc=5",
           "source": "Google News - Lakers",
           "published": "2026-04-22T21:05:00+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "b4ccc9fab103",
-          "title": "The Rockets Are Being Outcoached And Outworked - Sports Illustrated",
-          "original_title": "The Rockets Are Being Outcoached And Outworked - Sports Illustrated",
-          "summary": "The Rockets Are Being Outcoached And Outworked&nbsp;&nbsp;Sports Illustrated",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZVVEeHI3SUVtMVNBcl9CLWZHVkxZZG1Vc2FZQ0t0bG5yTElLUGJYUUwzRFl1X2xjaEJxOGN6RWJXOWwzSUMzM2RRTlhNeTJiaTQzZkZONUM0aEpnT2phSDNRRW9CaFNCVnhwejViZVRyaS1mS2pFbGFwcXkyLUF1cnI3UVZkc3RBLXc?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-22T21:00:01+00:00",
-          "topic": "Lakers News"
-        },
-        {
           "id": "689350106931",
-          "title": "Wizards have to learn from the Lakers mistakes when it comes to Anthony Davis - Wiz of Awes",
+          "title": "What the Wizards Can Learn From the Lakers' Handling of Anthony Davis",
           "original_title": "Wizards have to learn from the Lakers mistakes when it comes to Anthony Davis - Wiz of Awes",
-          "summary": "Wizards have to learn from the Lakers mistakes when it comes to Anthony Davis&nbsp;&nbsp;Wiz of Awes",
-          "key_points": [],
+          "summary": "Wiz of Awes examined how the Washington Wizards might avoid the pitfalls the Lakers experienced with star forward Anthony Davis, focusing on usage, injury management, and roster construction. The piece offered actionable lessons for Washington\u2019s front office as they plan for the upcoming season.",
+          "key_points": [
+            "Lakers struggled with inconsistent minutes and role clarity for Davis.",
+            "Effective injury prevention and load management were highlighted as missing pieces.",
+            "Wizards are advised to build a supporting cast that maximizes Davis\u2011type talent without overreliance."
+          ],
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT0F6aDhxTk8wTWZ2X25vclNGRjI2Y1hqOUFzWDV6cHBUa1R5eHJrSUZMeTVkeVhSMGRtV3E3UVBTWTdwTGw1cVBhdHJlNHlZdVdtZnAxYjZqVEc5X0pFWkVXNjJ5dnpxZ3dZWXpHUW12RVZmMjllbFljajdReGlyUndhT25YYjFZQm81dkdQTXNmSFUybnhfVVFlVEZ3b0k?oc=5",
           "source": "Google News - Lakers",
           "published": "2026-04-22T21:00:01+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "9dca447dbd5f",
-          "title": "NBA Announces Luka Doncic Stat News Before Lakers-Rockets Game 2 - heavy.com",
-          "original_title": "NBA Announces Luka Doncic Stat News Before Lakers-Rockets Game 2 - heavy.com",
-          "summary": "NBA Announces Luka Doncic Stat News Before Lakers-Rockets Game 2&nbsp;&nbsp;heavy.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc2xKNmtCbDhGSTZUT3dMeHB2MkdwTU1FZk14R1ZoV1hTZjVjQU9uaGk0Y1Vfb1AtOFJzd1p4MWtMLUVEVktRbFpJN1BRZXY0M3BlbWlIRnhUeEI4cktQVTdqaVp1NjFRdE85Q0FDY1NsT2pGVHNNM1ZLS1ZReTExRE5OczdxdTE2b1NocmRNTmc?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-22T20:52:38+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "7e384c9edcd7",
-          "title": "JJ Redick Believes Regular Season Helped Lakers Build Resiliency",
-          "original_title": "JJ Redick Believes Regular Season Helped Lakers Build Resiliency",
-          "summary": "The Los Angeles Lakers have dealt with injuries all season long and got a double-dose at the worst possible time right before the playoffs. But despite being down their two leading scorers, JJ Redick has his squad with a 2-0 series lead in their first round series against the Houston Rockets. Four road teams picked [&#8230;]",
-          "key_points": [],
-          "link": "https://lakersnation.com/jj-redick-believes-regular-season-helped-lakers-build-resiliency/",
-          "source": "Lakers Nation",
-          "published": "2026-04-22T20:45:03+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "8228dd99401b",
-          "title": "Los Angeles Lakers @ Houston Rockets: Live game updates, stats, play-by-play - Yahoo Sports",
-          "original_title": "Los Angeles Lakers @ Houston Rockets: Live game updates, stats, play-by-play - Yahoo Sports",
-          "summary": "Los Angeles Lakers @ Houston Rockets: Live game updates, stats, play-by-play&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdndyTC1NeFVNQlFsOTZMSUdpTnFSbU1SQmhyYjNVNXNYVmtDdHRFWl80NE9NZTRoT19keGV6VHo4SzBRWGoyZXZldGVRQlNycEFjRTRjMXFYU2ZLNkVlNzhVZWlxWnh3eERBZDg0U0k0bXFVNUFBa3BnZGsxQ3N4RA?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-22T20:00:29+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "27183b1d0e3f",
-          "title": "LeBron James Cautions Lakers After Game 2 Defensive Performance On Kevin Durant",
-          "original_title": "LeBron James Cautions Lakers After Game 2 Defensive Performance On Kevin Durant",
-          "summary": "One of the main stories coming into this playoff series between the Los Angeles Lakers and Houston Rockets was the latest meeting between two of the best players of their generation in LeBron James and Kevin Durant. And while James shined as the Lakers&#8217; took a 2-0 series lead, the team&#8217;s defensive efforts against Durant [&#8230;]",
-          "key_points": [],
-          "link": "https://lakersnation.com/lebron-james-cautions-lakers-after-game-2-defensive-performance-on-kevin-durant/",
-          "source": "Lakers Nation",
-          "published": "2026-04-22T19:42:44+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "3db23be4c1f1",
-          "title": "Marcus Smart \u2018grateful\u2019 for chance to be back in playoffs, competing at high level",
-          "original_title": "Marcus Smart \u2018grateful\u2019 for chance to be back in playoffs, competing at high level",
-          "summary": "When Marcus Smart joined the Lakers, the hope was that he could remain healthy and become a defensive anchor for this team. After seasons with the Grizzlies and Wizards, he could come to Los Angeles and play better basketball at higher stakes. Well, he\u2019s done all that and more for the Lakers. He\u2019s been a [&#8230;]",
-          "key_points": [],
-          "link": "https://www.silverscreenandroll.com/lakers-news/115038/lakers-marcus-smart-2026-nba-playoffs-lebron-james-rockets",
-          "source": "Silver Screen and Roll",
-          "published": "2026-04-22T19:30:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "4ea1a12670c4",
-          "title": "Marcus Smart Makes Lakers Playoff History In Game 2 Win Vs. Rockets",
-          "original_title": "Marcus Smart Makes Lakers Playoff History In Game 2 Win Vs. Rockets",
-          "summary": "In Game 1, it was Luke Kennard who caught fire and made Los Angeles Lakers playoff history with his performance against the Houston Rockets. In Game 2, however, it was Marcus Smart who was the catalyst for the Lakers taking a 2-0 series lead. Smart knocked down 8-of-13 from the field including five 3-pointers, finishing [&#8230;]",
-          "key_points": [],
-          "link": "https://lakersnation.com/marcus-smart-makes-lakers-playoff-history-in-game-2-win-vs-rockets/",
-          "source": "Lakers Nation",
-          "published": "2026-04-22T18:40:19+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "5442f555d42a",
-          "title": "Luka Don\u010di\u0107 set to begin on-court work \u2018soon,\u2019 no update on return timeline",
-          "original_title": "Luka Don\u010di\u0107 set to begin on-court work \u2018soon,\u2019 no update on return timeline",
-          "summary": "The path to seeing Luka Don\u010di\u0107 back on the floor with the Lakers is long and unknown. Ever since he went down with a hamstring strain against the Thunder back in early April, he\u2019s done everything possible to return, including traveling to Spain to get treatment on his injury. Luka remains out indefinitely and isn\u2019t [&#8230;]",
-          "key_points": [],
-          "link": "https://www.silverscreenandroll.com/lakers-injury-report/115014/lakers-injury-report-luka-doncic-hamstring-strain-update-2026-nba-playoffs-rockets",
-          "source": "Silver Screen and Roll",
-          "published": "2026-04-22T18:11:00+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -121,113 +161,153 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "8e00a08d4009",
-          "title": "Five reasons to still trust the Pistons, even after a disastrous Game 1",
-          "original_title": "Five reasons to still trust the Pistons, even after a disastrous Game 1",
-          "summary": "Game 1 didn't go Detroit's way on Sunday, but there are still a lot of reasons to trust these young Pistons.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48554498/the-top-five-reasons-trust-detroit-pistons-postseason",
-          "source": "ESPN NBA",
-          "published": "2026-04-22T23:41:56+00:00",
+          "id": "b1c622842414",
+          "title": "Pistons Defense Shines, Pull Away from Magic in Game 2",
+          "original_title": "Pistons bring the defense all game, then pull away from Magic in third quarter to get win, tie series",
+          "summary": "The Detroit Pistons displayed a markedly different defensive approach in Game 2, recording seven blocks in the opening quarter. Their defensive intensity helped them build a lead and pull away in the third quarter, securing the win and tying{the} series against the Orlando Magic.",
+          "key_points": [
+            "Seven blocks in the first quarter set the tone for Detroit's defensive dominance.",
+            "A strong third\u2011quarter run allowed the Pistons to break away and win the game.",
+            "The victory evened the playoff series at 1\u20111."
+          ],
+          "link": "https://sports.yahoo.com/articles/pistons-bring-defense-game-then-022850403.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-23T02:28:50+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "e319738ef768",
-          "title": "How the Magic avoided disaster and turned things around",
-          "original_title": "How the Magic avoided disaster and turned things around",
-          "summary": "Orlando's surge over Charlotte and surprise win over Detroit began with a three-minute highlight reel.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48553246/nba-playoffs-orlando-magic-detroit-pistons-round-one-upset-paolo-banchero-jalen-suggs",
-          "source": "ESPN NBA",
-          "published": "2026-04-22T23:41:56+00:00",
+          "id": "9d8a15cf1176",
+          "title": "Cade Cunningham Leads Magic but Consistency Remains Questionable",
+          "original_title": "Magic-Pistons takeaways: Cade Cunningham shines, but questions remain about consistency and supporting cast",
+          "summary": "Cade Cunningham was the primary offensive engine for the Orlando Magic in the second consecutive game, shouldering most of the scoring load in the first half. However, the lack of significant contributions from the supporting cast raised concerns about the team's overall consistency.",
+          "key_points": [
+            "Cunningham accounted for the majority of the Magic's points early in the game.",
+            "Bench and secondary players provided limited scoring, highlighting depth issues.",
+            "Coaches will need to find ways to generate more balanced production moving forward."
+          ],
+          "link": "https://sports.yahoo.com/nba/article/magic-pistons-takeaways-cade-cunningham-shines-but-questions-remain-about-consistency-and-supporting-cast-021037871.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-23T02:10:37+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "8cbfd7a62342",
-          "title": "Spurs' Johnson named NBA Sixth Man of the Year",
-          "original_title": "Spurs' Johnson named NBA Sixth Man of the Year",
-          "summary": "Spurs forward Keldon Johnson was named the NBA's Sixth Man of the Year on Wednesday.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48563850/san-antonio-spurs-keldon-johnson-named-nba-sixth-man-year",
-          "source": "ESPN NBA",
-          "published": "2026-04-22T23:10:52+00:00",
+          "id": "95708f2ca951",
+          "title": "Keldon Johnson Named NBA Sixth Man of the Year",
+          "original_title": "San Antonio's Keldon Johnson names NBA Sixth Man of the Year",
+          "summary": "San Antonio Spurs forward Keldon Johnson earned the NBA Sixth Man of the Year award, edging out Miami's Jaime Jaquez and finishing ahead of Denver's Tim Hardaway Jr. Johnson's impact off the bench was recognized as a key factor in the Spurs' success this season.",
+          "key_points": [
+            "Johnson secured the award over strong competition from Jaquez (Miami) and Hardaway Jr. (Denver).",
+            "His scoring and energy off the bench were pivotal for the Spurs throughout the year.",
+            "The honor highlights Johnson's growth into a reliable sixth\u2011man role."
+          ],
+          "link": "https://sports.yahoo.com/articles/san-antonios-keldon-johnson-names-015919669.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-23T01:59:19+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "cf59a091add1",
-          "title": "Nuggets on McDaniels' criticism: 'Let them talk'",
-          "original_title": "Nuggets on McDaniels' criticism: 'Let them talk'",
-          "summary": "In response to the Wolves' Jaden McDaniels calling them out for being \"bad defenders,\" the Nuggets on Wednesday said \"it's part of the rivalry.\"",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48562974/nuggets-not-biting-wolves-mcdaniels-calling-defense",
-          "source": "ESPN NBA",
-          "published": "2026-04-22T23:10:52+00:00",
+          "id": "144c81f28419",
+          "title": "2026 NBA Playoff Bracket Revealed: First\u2011Round Matchups Begin",
+          "original_title": "2026 NBA playoff bracket: Matchups, schedule with first round underway",
+          "summary": "CBS Sports released the full 2026 NBA playoff bracket, outlining eight first\u2011round series and the schedule for the opening round. The bracket sets the stage for the postseason as teams prepare for their opening games.",
+          "key_points": [
+            "Eight first\u2011round matchups are now official.",
+            "The schedule details dates and times for each opening game.",
+            "Fans can track potential paths to the NBA Finals across both conferences."
+          ],
+          "link": "https://www.cbssports.com/nba/news/2026-nba-playoff-bracket-matchups-schedule/",
+          "source": "CBS Sports NBA",
+          "published": "2026-04-23T01:51:26+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "11bdc15289d7",
-          "title": "Letters detail Aspiration fallout for Ballmer, probe",
-          "original_title": "Letters detail Aspiration fallout for Ballmer, probe",
-          "summary": "Attorneys representing the NBA and Clippers owner Steve Ballmer submitted separate letters to a federal judge ahead of the sentencing of Joseph Sanberg, the co-founder of Aspiration, a now-defunct company at the center of an investigation by the league.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48563412/in-letter-attorney-says-clippers-owner-steve-ballmer-lost-entire-60-million-investment-aspiration",
-          "source": "ESPN NBA",
-          "published": "2026-04-22T23:10:52+00:00",
+          "id": "c0ee0c8fb12f",
+          "title": "Colts Coach Shane Steichen Consults Brad Stevens on Achilles Recovery",
+          "original_title": "Colts head coach Shane Steichen picked Brad Stevens\u2019 brain on Achilles recovery",
+          "summary": "Indianapolis Colts head coach Shane Steichen sought advice from former NBA coach Brad Stevens regarding post\u2011Achilles surgery rehabilitation. The conversation highlighted best practices for recovery and referenced standout athletes who have successfully returned from similar injuries.",
+          "key_points": [
+            "Steichen and Stevens discussed protocols for Achilles tendon rehab.",
+            "They referenced high\u2011profile athletes who have made successful comebacks.",
+            "The exchange underscores the cross\u2011sport value of shared medical and performance insights."
+          ],
+          "link": "https://sports.yahoo.com/articles/colts-head-coach-shane-steichen-015036853.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-23T01:50:36+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "8de5a033f901",
-          "title": "Donovan leaves Bulls amid sweeping changes",
-          "original_title": "Donovan leaves Bulls amid sweeping changes",
-          "summary": "Billy Donovan has decided to step down as head coach of the Bulls after six seasons.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48550436/sources-billy-donovan-decides-step-bulls-coach",
-          "source": "ESPN NBA",
-          "published": "2026-04-22T23:10:52+00:00",
+          "id": "ec1ed5d52eee",
+          "title": "Edwards' Superstar Burst Powers Timberwolves to Game\u20112 Win Over Nuggets",
+          "original_title": "T-wolves are getting the superstar energy they need from Edwards in a tight series with the Nuggets",
+          "summary": "Anthony Edwards delivered a 30\u2011point, 10\u2011rebound performance with two blocks, helping Minnesota even the first\u2011round series against Denver. His scoring and vocal leadership sparked the team after a tough opening loss.",
+          "key_points": [
+            "Edwards posted 30 points, 10 rebounds and two blocks in Game 2.",
+            "Timberwolves tied the series 1\u20111 after dropping Game 1 in Denver.",
+            "Edwards' energy and encouragement were highlighted as a catalyst for the win."
+          ],
+          "link": "https://sports.yahoo.com/articles/t-wolves-getting-superstar-energy-004817760.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-23T00:48:17+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "630b4cba9cdf",
-          "title": "Projected lottery pick Acuff declares for NBA draft",
-          "original_title": "Projected lottery pick Acuff declares for NBA draft",
-          "summary": "Arkansas guard Darius Acuff Jr. announced Wednesday on ESPN's \"NBA Today\" that he is declaring for the 2026 NBA draft.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48563138/projected-lottery-pick-darius-acuff-jr-declares-nba-draft",
-          "source": "ESPN NBA",
-          "published": "2026-04-22T23:10:51+00:00",
+          "id": "f3dc4328efc6",
+          "title": "Suns Seek Answers After 119\u201184 Blowout Loss to Thunder",
+          "original_title": "Game Thread: Suns @ Thunder, Game 2",
+          "summary": "Phoenix fell behind early in Game 1, trailing by 35 points before the final buzzer. The Suns must adjust offensively and find ways to break through Oklahoma City's disciplined defense in Game 2.",
+          "key_points": [
+            "Thunder defeated Suns 119\u201184, showcasing elite defensive connectivity.",
+            "Suns need to improve ball movement and shot selection to stay competitive.",
+            "Game 2 will test Phoenix's ability to respond to a dominant defensive opponent."
+          ],
+          "link": "https://sports.yahoo.com/articles/game-thread-suns-thunder-game-003000223.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-23T00:30:00+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "17a314892311",
-          "title": "Wemby concussed on hard fall in Spurs' G2 loss",
-          "original_title": "Wemby concussed on hard fall in Spurs' G2 loss",
-          "summary": "Victor Wembanyama sustained a concussion on a hard fall during the second quarter of the Spurs' Game 2 playoff loss to the Trail Blazers.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48555708/spurs-wembanyama-concussion-protocol-exits-vs-blazers",
-          "source": "ESPN NBA",
-          "published": "2026-04-22T23:10:51+00:00",
+          "id": "4033333cb0a8",
+          "title": "Spurs' Keldon Johnson Wins NBA Sixth Man of the Year",
+          "original_title": "Spurs' Keldon Johnson named NBA Sixth Man of the Year",
+          "summary": "Keldon Johnson was honored as the 2025\u201126 NBA Sixth Man of the Year, becoming the second San Antonio player to capture an end\u2011of\u2011season award. His contributions off the bench were pivotal to the Spurs' performance this season.",
+          "key_points": [
+            "Johnson earned the Sixth Man award for his impact as a reserve.",
+            "He joins a short list of Spurs players who have received league honors.",
+            "The award highlights his scoring, defense, and consistency in a bench role."
+          ],
+          "link": "https://sports.yahoo.com/articles/spurs-keldon-johnson-named-nba-235908601.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-22T23:59:08+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "6f9979b132f4",
-          "title": "Smart's defense on KD helps Lakers to 2-0 lead",
-          "original_title": "Smart's defense on KD helps Lakers to 2-0 lead",
-          "summary": "The Rockets had Kevin Durant back for Game 2, but the Lakers had Marcus Smart guard him in their 101-94 win to take a 2-0 series lead.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48558342/marcus-smart-helps-short-handed-lakers-win-game-2-vs-rockets",
-          "source": "ESPN NBA",
-          "published": "2026-04-22T23:10:51+00:00",
+          "id": "92923efc0e7d",
+          "title": "Redick Says LeBron\u2019s Physical Play Stymied Rockets in Game 2",
+          "original_title": "JJ Redick felt LeBron James played with physicality in Game 2 against Rockets",
+          "summary": "Former player\u2011turned\u2011analyst JJ Redick noted that LeBron James led the Lakers with a more physical approach in their second matchup against Houston, a strategy the Rockets struggled to counter. The Lakers leveraged that toughness to gain an advantage.",
+          "key_points": [
+            "LeBron emphasized physicality, influencing the game's tempo.",
+            "Rockets were unable to match the Lakers' aggressive style.",
+            "Redick highlighted the impact of James' leadership on the team's performance."
+          ],
+          "link": "https://sports.yahoo.com/articles/jj-redick-felt-lebron-james-233918158.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-22T23:39:18+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "66d57b6aab0e",
-          "title": "Splitter on Dundon reports: 'Trying to be a pro'",
-          "original_title": "Splitter on Dundon reports: 'Trying to be a pro'",
-          "summary": "In response to questions about reported cost-cutting measures by new Trail Blazers owner Tom Dundon, interim coach Tiago Splitter said he is focusing on basketball.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48556720/blazers-splitter-dundon-reports-trying-pro",
-          "source": "ESPN NBA",
-          "published": "2026-04-22T23:10:51+00:00",
+          "id": "3a9361a476cd",
+          "title": "SportsLine Model Projects Suns vs. Thunder Game 2 Picks",
+          "original_title": "Thunder vs. Suns odds, prediction, time: 2026 NBA playoff picks, Game 2 best bets by proven model",
+          "summary": "CBS Sports reports that SportsLine's predictive model released its recommended bets and odds for the Phoenix Suns' Game 2 against the Oklahoma City Thunder. The model emphasizes statistical trends to guide wagering decisions.",
+          "key_points": [
+            "SportsLine provides odds and pick recommendations for the matchup.",
+            "The model bases its forecast on recent performance metrics.",
+            "Betting guidance is aimed at both casual and seasoned NBA bettors."
+          ],
+          "link": "https://www.cbssports.com/nba/news/thunder-suns-odds-prediction-spread-line-start-time-2026-nba-playoff-picks-game-2-best-bets/",
+          "source": "CBS Sports NBA",
+          "published": "2026-04-22T23:07:22+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -235,6 +315,72 @@
     {
       "name": "Lakers Players",
       "articles": [
+        {
+          "id": "8ede7ba76415",
+          "title": "LeBron James and Lakers take stunning 2-0 series lead - Culver City Observer",
+          "original_title": "LeBron James and Lakers take stunning 2-0 series lead - Culver City Observer",
+          "summary": "LeBron James and Lakers take stunning 2-0 series lead&nbsp;&nbsp;Culver City Observer",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSTFfcjlJMU5PYVpKRmh2UFJDNG1XTnh1NzZkd3ZrQldmcUVXYWI0bGZ6cVF2bHQzcHl1YW83aVBJb2I3VERmZlU2aEVUcHV4Q09rdG83aUsza01RNWhYX20xY2pwWndXTVN1NVdDRXQzYnFRVU1BVmJtMVRVT2RabEhrRHRyS01BcmFVTkI2RUNTWGRHMmwyQ3Bua19MWG5HclZLbFcxTkZkSzBSWndNWklYOVNmdHJvWUZ6NnZSeks?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-04-23T01:41:55+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "f4c82e07d5a9",
+          "title": "LeBron James Warns Lakers About Kevin Durant Before Game 3 vs Rockets - heavy.com",
+          "original_title": "LeBron James Warns Lakers About Kevin Durant Before Game 3 vs Rockets - heavy.com",
+          "summary": "LeBron James Warns Lakers About Kevin Durant Before Game 3 vs Rockets&nbsp;&nbsp;heavy.com",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRmtqaEN5M2xrb3FobHdKRGRhVkoxYk5FSUZOWWdMbW1kRzRiU0dvR3g5eUhRMzNaUHJqZ2Rfb1ZucFlUTWdUWUFUUXIyNnBJVllzaEFmLXAwQ05GeTY0dzN4NUE3RjJEQjE5RGFnbXJmR3V3THZmVVlmYTlmTl9RTzRpcnhSYVBsR0FYUlJjSEpsMVNKN0lGdEZXWUxuZkJpUHdrN29yYw?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-04-23T01:25:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "d5130ad8a435",
+          "title": "Adam Silver Talks Grizzlies' Future After LeBron James' Viral Comments About Memphis, Nashville - Bleacher Report",
+          "original_title": "Adam Silver Talks Grizzlies' Future After LeBron James' Viral Comments About Memphis, Nashville - Bleacher Report",
+          "summary": "Adam Silver Talks Grizzlies' Future After LeBron James' Viral Comments About Memphis, Nashville&nbsp;&nbsp;Bleacher Report",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVWhmRjBITThrbG95Z3EyYVN4UHE5WXBOTmRYLXUwMjRHMnpmYmRZWE5oNFN1anRUZE8xcHdwMXZ4Unl0T09GcWEwdnk3aHJHQlZVQkxRc1NSOVRJMTczc0x0LUctc2tSU29qWkZjSk9GcHNfQkJZTnNQajdiVDRoNHVUQk1qaE5WbFNDd2RCM05tRjlKUWtCMmRPdDFjRDVQZ0FPQUJxS01uY3VCdmtsTnJLeTRnbnVUQW9fblBnSVE1TVo3Wk1qR3Z3VFRDVXlHWldz?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-04-22T23:43:28+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "8263daa07a49",
+          "title": "JJ Redick felt LeBron James played with physicality in Game 2 against Rockets - Silver Screen and Roll",
+          "original_title": "JJ Redick felt LeBron James played with physicality in Game 2 against Rockets - Silver Screen and Roll",
+          "summary": "JJ Redick felt LeBron James played with physicality in Game 2 against Rockets&nbsp;&nbsp;Silver Screen and Roll",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb19wODg2XzM4RTRUQTZDNHg3OGl3cDN5Q1ZKZ21KejEwSGVqb0JaN1drU0tiS1lHNjZaQzE3WXFSTGloNDJ2aFpkZmZZTlhCd3dLbGlpdW13SERiU1VQdHBtZGYxaGpoWkQwV0xCQ0p1c3ZQd0xMU3hsUGMxSUI4VmVGdnlSZzZsVk9fSlFNdmNWcFdqdGxwQ3BjLUJXRmNxWjBoMS1QcnNDQzB2VFN3S2FMSXNzc1hVNUJDUW0yWERGTUU?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-04-22T23:39:18+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "009c153e1313",
+          "title": "Even LeBron James Was Shocked by His Playoff Performance Against Rockets - LA Sports Report",
+          "original_title": "Even LeBron James Was Shocked by His Playoff Performance Against Rockets - LA Sports Report",
+          "summary": "Even LeBron James Was Shocked by His Playoff Performance Against Rockets&nbsp;&nbsp;LA Sports Report",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVTBMdlNHWjF2NnJjY0ZCbUdCSVJjYXN0NXlpbFpUTVFkdl9sMG5hem9wMk1xaGRCd04ySllzQThZZkt1amtkQ1lwVEhtRWs0RlpQcWZwU0o3NXJCbjU2bjFZSG9KWXI5Ync1VVYzLWZUYzBRNlE2a0hFR0pnUE9ReEZRdlNybEZ0MjVYOEdBM1l5NGxkSXZ5XzFmZFpjWG1keFoyQUxzdm1UeElZbDM1czJhNm4?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-04-22T22:38:21+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "6146e5d818a2",
+          "title": "Lakers Owner Reveals Luka Doncic Return News Ahead of Game 3 vs Rockets - heavy.com",
+          "original_title": "Lakers Owner Reveals Luka Doncic Return News Ahead of Game 3 vs Rockets - heavy.com",
+          "summary": "Lakers Owner Reveals Luka Doncic Return News Ahead of Game 3 vs Rockets&nbsp;&nbsp;heavy.com",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ2Y3Ui01Uno1LVdsMnkxUFQ2SWF0RnRGdC1pWThZTWFzUlY0dEFaZWg2dUFyTV9xdHh0T3ZUdWwtQ1hCU2dhekY5clVjX2sxQlFnUXp0djBwWTN4ek5xYVZLdld0cTFvZVNtVllVaUx2bU9RSVYzUWl0a1VaY3FyeUNxdzdoUQ?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-04-22T22:09:05+00:00",
+          "topic": "Lakers Players"
+        },
         {
           "id": "3f9dc26735fd",
           "title": "Lakers Get Good News On Luka Doncic Injury Return After Game 2 - heavy.com",
@@ -258,17 +404,6 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "89be2b053abc",
-          "title": "Adam Silver Breaks Silence on LeBron James, Draymond Green\u2019s Demand to Move Grizzlies Out of Memphis - Yahoo Sports",
-          "original_title": "Adam Silver Breaks Silence on LeBron James, Draymond Green\u2019s Demand to Move Grizzlies Out of Memphis - Yahoo Sports",
-          "summary": "Adam Silver Breaks Silence on LeBron James, Draymond Green\u2019s Demand to Move Grizzlies Out of Memphis&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZzZlT1BGSDBRSFlzWGxCMWRhdC11bXd4Q0t1OHQ5SnNOWFpjWW1Eb09tYVNZN1lDbW5lVGlPMXNEUFZhRlVfSzZ1RUNyNWM2cU9GTHY4Ti1YQXdjN1lHZDlic2tzb0pYU1VJN2N6R2ttbjFFVHJ4OFNOcVBndmxvb2tqWFVuSV9UV1E?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-22T20:28:59+00:00",
-          "topic": "Lakers Players"
-        },
-        {
           "id": "6e385a6f45e3",
           "title": "LeBron James Cautions Lakers After Game 2 Defensive Performance On Kevin Durant - Lakers Nation",
           "original_title": "LeBron James Cautions Lakers After Game 2 Defensive Performance On Kevin Durant - Lakers Nation",
@@ -276,7 +411,7 @@
           "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcldBOHkwZF9lT0JiMTU5WTFqdWYzQ2dCX2hyOEpUaGdrY3BLd0Nick5nUmVoR1dhUTROZWRteUN2YTc5dUY0YnlQTUh6R0s4aEQ2Rnc5UU5Zem9JeVR5emZxNmNFQjF2THpnVzVMZVBkOEJQZldId1VZTTR3dHdqU1BBWTBvSkE4Sk5uemhXc1A4QmJwcTIyN3NiYm4zZ2JrZk9FT3FsdDQ?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-04-22T19:25:44+00:00",
+          "published": "2026-04-22T19:42:44+00:00",
           "topic": "Lakers Players"
         },
         {
@@ -288,61 +423,6 @@
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zc3U5QWNGcXBqdTFIcVlFaGY3SVVGbHJVbUdGRlU0UlNwR3lMUjI1RHFQQkpQX0N3aEljbmdrTFRQTUtNdGNrUGMzNnBzUllBOS1KSm9mUlRadlZNTDdrWXhRc3p0S2R4MkhuNVkyczhTc2xwZnc?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-04-22T19:22:48+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "313778cafd55",
-          "title": "Adam Silver won't take LeBron's advice to move Grizzlies out of Memphis, but teases 'a few games' in Nashville - CBS Sports",
-          "original_title": "Adam Silver won't take LeBron's advice to move Grizzlies out of Memphis, but teases 'a few games' in Nashville - CBS Sports",
-          "summary": "Adam Silver won't take LeBron's advice to move Grizzlies out of Memphis, but teases 'a few games' in Nashville&nbsp;&nbsp;CBS Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTlVUQkMwUkhucmItaFZIY0hRRGRqUTRQUXJ2QWhleHZvMzUzLWVaLUY0QVN1SWRUa2dMRzJZbjFySFpzUXlyQmdMSHB4dFJUeUFPMDNZczREdkJtNGtVUWFiaURESjZxUDB6UExNT1lnWXBMSzU5YW1wN2M3TGVUVHBXYmFlYkx5a1BwWkVDQmNxQQ?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-22T18:55:42+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "cfe0caed88f4",
-          "title": "Luka Don\u010di\u0107 set to begin on-court work \u2018soon,\u2019 no update on return timeline - Silver Screen and Roll",
-          "original_title": "Luka Don\u010di\u0107 set to begin on-court work \u2018soon,\u2019 no update on return timeline - Silver Screen and Roll",
-          "summary": "Luka Don\u010di\u0107 set to begin on-court work \u2018soon,\u2019 no update on return timeline&nbsp;&nbsp;Silver Screen and Roll",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZjN4dFgtSGc0VzZwYkZGdjdVTEdocXA4SHN4T1pEMWYxY3ZEcXgwMUE0clQ2N2czTUtKNVM4T1kxSkZEM2lkT3lKN1cyVmEybjhoTDJvVjRjS1lhVGNaOWEyRDRmU01lOVVJbld2bmxMZ2VvbGg1S1lXRjN2SnV5djBYWWdPZTB6Q2hVSEdJb3R6dDZFcFhSMnJvenFlaHZtczFNRnhkNWYyZDNDcXViNlFWQXhKT3Zjc3NqTlZhTHdLUFhPNmtWeWtwWHdJN3JhcGRmNTYxcFVmOF80MDU0?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-04-22T18:11:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "d5aba2b9000f",
-          "title": "LeBron James gushes about former Celtics guard after Game 2 upset vs. Rockets - MassLive",
-          "original_title": "LeBron James gushes about former Celtics guard after Game 2 upset vs. Rockets - MassLive",
-          "summary": "LeBron James gushes about former Celtics guard after Game 2 upset vs. Rockets&nbsp;&nbsp;MassLive",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUGtIVVhLYm9nN2hIZWFNeDhMTXk5R2cteWYtOXZMQmNHM01kbTV3N3F4eEVzcXZTX1JEa2t0WDVZZnFIbG4xZXA0SEh5YWktZkcwQUVZeW1FbkZFY2lsOTVlam1tOGxLNXduYjgzRzNxVm9lRHlMRUh5b2dnTzNydVl0SGh5dENrQVk4b1UxX3ltT1lmQ2tmUHc5Q2ZXSnBYaGJ2N2V0bkI0X3Q1SWZzNUFBUTVwYzhoWkNaWXM2WdIB0wFBVV95cUxNZEZRam1mZlJ6anNBdHFKcXloQ0xYTGJoSWpyM0NLVUYybTY4YmxOZFRxaDBmU05LcUF3Q09EZnBaRDloY0JGMk9POTlRa3V4RGg5eTIxR296c01GTGVkSHVWRlY1cEdQR0ZVaTg5UEJVMTU0eHBhNHhvRFU4SWRnSG1UUFNXQ01LSjBLVTFDczZ6eGxyWTVhdy1DaGpvMnpuUHJjY1hrNXpXLXJNWl9xQkRMOGMwTmVUNXNabkdacHpXdE1RY0dpTmMyTEpmOFFUUmdF?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-22T17:53:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "24fb17e38b6e",
-          "title": "Lakers take 2-0 lead on Rockets, How far can LeBron carry them without Luka? | The Herd - Fox News",
-          "original_title": "Lakers take 2-0 lead on Rockets, How far can LeBron carry them without Luka? | The Herd - Fox News",
-          "summary": "Lakers take 2-0 lead on Rockets, How far can LeBron carry them without Luka? | The Herd&nbsp;&nbsp;Fox News",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZl9rY3ZGZDNyaVVKbnZNNTZVanRhNzB1T1pCcmw3RVVvSS1tdnR3ZHhLcW5mbHZLc1ItN2hLNFJmZmtsWERTZmdpQVNjT1RVMmU4QUdB?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-04-22T17:39:24+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "d57e2d9fdce3",
-          "title": "The Lakers mercilessly hunted Alperen \u015eeng\u00fcn in Game 2 - Silver Screen and Roll",
-          "original_title": "The Lakers mercilessly hunted Alperen \u015eeng\u00fcn in Game 2 - Silver Screen and Roll",
-          "summary": "The Lakers mercilessly hunted Alperen \u015eeng\u00fcn in Game 2&nbsp;&nbsp;Silver Screen and Roll",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQY3d6b3RQYmFid1VkeHlpdmEta3lJUG5yYlcxT2dwVzlSMkZjMkR4bHhXbUIzSWFrT0xmR19KZUdmcHRNc192eGRwTFVsMjZoQVhDSGFuNkRtTDN5X0FldEIxVjFBRkEyOXY5YzVCTURXXzl4M0tPSWwxamJldEZtbTBhMmxydEZXeVZxaTNmdEJKemM1SDV0czN4cmRnNlFWSnhNMDcwcnJ1QWZSdVBHRjdUd0VQZExiOGxPaW8xek9ORjVnY0gtVW85aHB4Um1Da3U4OTU3c0d0d2MtdmFzOExR?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-22T16:59:40+00:00",
           "topic": "Lakers Players"
         }
       ]
