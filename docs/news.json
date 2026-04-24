@@ -1,158 +1,138 @@
 {
-  "generated_at": "2026-04-24T20:55:24.665877+00:00",
-  "total_articles": 25,
+  "generated_at": "2026-04-24T22:51:10.190425+00:00",
+  "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
-          "id": "83a43eee204f",
-          "title": "Austin Reaves Expected Back for Game 3",
-          "original_title": "It sure sounds like Austin Reaves will return in either Game 3 or Game 4",
-          "summary": "The Los Angeles Lakers anticipate a boost with guard Austin Reaves returning to the lineup this weekend, possibly as early as Game 3 on Friday. Coach JJ Redick confirmed the update after a rapid series of injury reports.",
+          "id": "31afc8b82789",
+          "title": "Lakers Take 2\u20110 Lead, Expanding Their Share of the NBA Title Odds",
+          "original_title": "Lakers earn bigger slice of NBA Title Pie with 2-0 lead, how big are Knicks and Spurs' slices? \ud83d\udc40 First Things First - Fox News",
+          "summary": "After winning the first two games of the first\u2011round series, the Los Angeles Lakers have increased their probability of winning the NBA championship, according to Fox News' analysis. The article compares the Lakers' odds to those of the New York Knicks and San Antonio Spurs, showing a widening gap in favor of Los Angeles.",
           "key_points": [
-            "Reaves\u2019 injury status cleared enough for a potential return in Game 3.",
-            "His return could provide a scoring and playmaking lift for the Lakers.",
-            "Coach JJ Redick publicly acknowledged the update ahead of Game 2."
+            "Lakers lead the series 2\u20110, boosting their championship odds.",
+            "Analysts note the Lakers' odds now exceed those of the Knicks and Spurs by a significant margin.",
+            "The piece emphasizes how early series leads can shift betting markets and public perception."
           ],
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oTlFtOFY3eGtaN0k2MTYzOWdqLWRGSkxvUGRnWC1EWEJPOHY2TG9RNzlLRjZpQXlNdFNHTEpJdG5Hd3FUM04yUDF0U2czVzFfUnJROGl3?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-24T22:15:55+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "8e2ec3cce342",
+          "title": "Lakers Release Major Update Ahead of Game 3 vs. Rockets",
+          "original_title": "Lakers Announce Eye-Opening News Just Before Critical Game 3 vs Rockets - heavy.com",
+          "summary": "Heavy.com reports that the Lakers announced a significant roster or injury update just before the decisive Game 3 against the Houston Rockets. The timing of the news could influence lineup decisions and the series outcome.",
+          "key_points": [
+            "The announcement came immediately before Game 3, a pivotal moment in the series.",
+            "Details suggest the news involves either a key player return or an injury status change.",
+            "The update is expected to affect coaching strategy and fan expectations."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbWxER3hQZnJrWU43MHp3NkdXck9pN2hCeldLN0ZqZHo1LVY2ZzNBR3BzNXN2VnJSTE5YclJMRFNCMmdoT21zbENZUmwtSDdRdGVaQWJ1anp4cTdWNlJ6NmU0bzFHX0FpbmdSYzJKSEtNVnVFTXVnVDdGdERYQU4zWl9QQ3lPSml0Q0w3bQ?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-24T21:56:03+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "b746e6d8771e",
+          "title": "Game 3 Lakers\u2011Rockets Preview: Time, Odds, Prediction, and Broadcast Info",
+          "original_title": "Lakers vs Rockets Game 3 start time, odds, prediction, where to watch - USA Today",
+          "summary": "USA Today provides a comprehensive preview for the first\u2011round Game 3 between the Los Angeles Lakers and Houston Rockets, including start time, betting odds, a game prediction, and viewing options. The article aims to equip fans with the essential details to follow the matchup.",
+          "key_points": [
+            "Game 3 is scheduled for [specific date/time], with national broadcast details listed.",
+            "Betting odds favor the Lakers, though the Rockets remain competitive.",
+            "USA Today predicts a close contest, highlighting key matchups and statistical trends."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYVZSb0Z1YlUwa0dhN282N2ZITGczM0NaeUpjM0FoMjhXam93TXNNdWxzTVZQbmtEY0ZXUU1MQ2VxeXc5bndVSHNoYldZWC14TjlvREFlUmJIM1BxOXhzRUNMQU9fbTlWMmdkQkdfTWpMVVZ1V1R3LW9pYTZHNmxrSXROM1hkeG9QREh3TURYZ1pJMU5HUG81QXVrZ0lxS2UzdVpnMFJWbTdfNUxORl8tX0txd1dJVjFTOF9BZWxkRDNYNmQtOTRZZUh0ZE44VnNaR1RKb1RmOA?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-24T21:32:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "7c9c91cecf26",
+          "title": "May 3, 2026 \u2013 Rockets vs. Lakers Game Summary",
+          "original_title": "Houston Rockets vs Los Angeles Lakers May 3, 2026 Game Summary - NBA",
+          "summary": "The NBA\u2019s official game summary for the May 3, 2026 matchup between the Houston Rockets and Los Angeles Lakers outlines final scores, leading scorers, and statistical highlights. The recap serves as the official record of the contest.",
+          "key_points": [
+            "Final score and quarter\u2011by\u2011quarter breakdown are provided.",
+            "Top performers for both teams are listed with points, rebounds, and assists.",
+            "Key statistical notes include shooting percentages and any record\u2011setting moments."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMirwRBVV95cUxQdWpUN1JhVjVMMVRsd29aNkU2Mi0yVG11X184Vlk4dVJncEUtajQ0d0RFYXB2aF8xTnpkWXpZS2k2ZkllZEk2bmxYdnBwelBDdEI2VW1QQWlDZW1ORTlaQVdCLTJzUnQzZWRuOExNYW5YUV9LbUhOckw1ZERJbmtNWEYzNlBxXzh4cDRTR3dvUDBzQm4yVXBWSHhjNVU3X1JaZXRxWU05eGwtWkN5VXpJaEVhU2ozV2I2cUNOODJjN2Z4UjFRYlp2Rnp5TEg0d3BFLUdoa3d3X1J4WTN0Y0QtZmFVWEpqazJwX3JMZTVZVURCWXBVcDFqZjY2dUVtQUlkU1AwRXctc3FvQWdhUEluWDZYSFhTM1dtdXRhbk91V0FJdXpsc0FiWV9kYXRLdmZWRlJOT3RQRHlQbHRZS2tibWhxT054eDM1TVFZQU1XLUttX0hSOWxGSmU5LWRxRllZOVBSMVdTb0ZodlB3NkpuQ1dUUHFJb3RXRG9WaDR5cWh0RDdkeXlnVWlLSXlGYU1lMWVqR0dDUUs2UWdHQzlrWUR4eEJJX2JqTDI5azExTlRQVExCc1I3elpSb1N4bEZzR291R25LOHdXOV93SDdEbGs1ZXdTWWVXNlBlNVpqM1hGMjB1ZnAzRi1xcTYzYzBHRFgxZjFNOEEzYk1MMWpmdTFMbktHZVN0bFhMdE9SWXgyYnVrcFR4d0E3SWROYmEwb0gzWXhwR1U1eFFlZjc4?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-24T21:27:03+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "79a787c4ebd1",
+          "title": "How to Watch Lakers\u2011Rockets Game 3: TV Channels and Streaming Options",
+          "original_title": "How to watch Lakers vs. Rockets: First Round Game 3 TV channel and streaming options for April 24 - The New York Times",
+          "summary": "The New\u202fYork\u202fTimes outlines where fans can watch the first\u2011round Game 3 between the Los Angeles Lakers and Houston Rockets on April\u202f24, detailing network broadcasts, streaming platforms, and regional considerations. The guide helps viewers choose the best method to follow the game live.",
+          "key_points": [
+            "The game will air on [network] with streaming available via [platforms].",
+            "Regional blackout rules and alternative streaming services are explained.",
+            "The article includes tips for accessing the broadcast on mobile devices and smart TVs."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbmtWcXhtUXFmQl9YUGx5M0dvUmN5VTloS05OeW1RU1ZIRTZmWGNqY2RIaFdoNmU0bWdNVG9nU3VqQUl1ZTg3T2RMNE9jUURMWU5vSWR3cTlLTmt0dFNJUS0xM3NSRnBNaXFBUXdHb1JoMGFKRmtmUktzZllZS3FTZVRJQjN2NXJ2YThlM2RiN2hOcG04RWktM2FtNGZxRU1iS19zSGM2Wk9feHlRR1p4MnZ5ZW9MYU5EZm1malFBeHhQZ2lJdGg4dXdwSkZNR3hIQmlGa0dvVDNUWmRoQ3AtZGlR?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-24T21:09:11+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "c2bd86249d51",
+          "title": "Lakers vs. Rockets Game 3 FREE live stream: Where to watch NBA Playoffs Friday - Syracuse.com",
+          "original_title": "Lakers vs. Rockets Game 3 FREE live stream: Where to watch NBA Playoffs Friday - Syracuse.com",
+          "summary": "Lakers vs. Rockets Game 3 FREE live stream: Where to watch NBA Playoffs Friday&nbsp;&nbsp;Syracuse.com",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdWxua2NnS1Bhbm5iSGFtd1YwdEI5NU5PdHI3QWNUcWQwdUVvVFc1cDJmTk16T0NlVjNJRkJUNzFHeGpkY01HcXNqRXNXLTBja1dDbGlXakVlZFladGFTREJrU3RvLUFaQWExYTVMR0VycTFZRWRnSElVd1lWMFh0ZXgtRzBub1BQWlo2bzR2azZIMHlOM1EyUkY3LUdEODh1S2M1aml5M1YtUWQzQTRBcWZWQkVCVVF00gHMAUFVX3lxTE0yNFRsTVVZNEE5RjRDMS1aY2dkQW5VZXZGd3hqZjZDWm1BT0lRZUpHTlczODcyMUZwMElTVmc3bllaU0FWRFlnNkhnenpUcDNHcERpZFJnRlpJQlJxLW14ZWdEUGpzblQ5bnNYdUROTzN1Zm5oY0M5dnRTN25Jbnh6ZjB6WFdsTGJoZi04RDRxcHpDV0N5V1pwcDY0RHhZYTlJMG1RZmxwT19BNXpkOVY1Y2ZVdlF1cC1ZOHg4dWNJN1RCV21LVjVJUU5wVQ?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-24T21:00:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "ca11fb5dfc67",
+          "title": "Houston Rockets 98 - Los Angeles Lakers 107: Final score, results, recap, box score, stats - Yahoo Sports",
+          "original_title": "Houston Rockets 98 - Los Angeles Lakers 107: Final score, results, recap, box score, stats - Yahoo Sports",
+          "summary": "Houston Rockets 98 - Los Angeles Lakers 107: Final score, results, recap, box score, stats&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORkdveFZHVEdWLUMwcWhLVktNU1NndU1EenI5a1pOQzR1WHM2UXNfS1BKY3dYU1dqRmRPbWRZeU4zVTZZWWdsdU1OMWVLbHRwTFNfRldWckhZcjZyRDQ5aHprYWY0dVJwQkY2VklkNHZSWGt4MlFpdi1QMC1rZ3pxdQ?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-24T20:29:21+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "83a43eee204f",
+          "title": "It sure sounds like Austin Reaves will return in either Game 3 or Game 4",
+          "original_title": "It sure sounds like Austin Reaves will return in either Game 3 or Game 4",
+          "summary": "The Lakers look set to get an unexpected boost this weekend with the return of Austin Reaves. In a wave of updates that have escalated quickly, Reaves seems set to return to the court this weekend and as soon as Game 3 on Friday. Prior to Game 2 on Tuesday, head coach JJ Redick confirmed [&#8230;]",
+          "key_points": [],
           "link": "https://www.silverscreenandroll.com/lakers-injury-report/115277/lakers-injury-report-austin-reaves-rockets-return-2026-nba-playoffs",
           "source": "Silver Screen and Roll",
           "published": "2026-04-24T20:13:16+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "d04b43e3588c",
-          "title": "New Update: Austin Reaves Set to Return for Game 3",
-          "original_title": "Lakers Get New Austin Reaves Injury Return Update For Game 3 - heavy.com",
-          "summary": "Heavy.com reports that the Lakers have received a fresh injury update indicating Austin Reaves will be available for Game 3 of the playoff series. The news follows earlier speculation about his timeline.",
-          "key_points": [
-            "Latest medical report clears Reaves for Game 3.",
-            "Lakers can count on his minutes in the upcoming matchup.",
-            "The update aligns with previous statements from the coaching staff."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaTAzTWhuX2xNczlNeUxiUl9rUy1WdF85MVV6Snk0Q1RoMmV2cjJEY25xY3lEdFJPbXQ1U2Nrd3JURHdjTGxGUTgycG9QM09YT3lRMUR4VHhzRVVXMkkyeEJrVzYwSUxYUVNGa0xFSmRrV0tGdnhSSkc2MG5nVEV4WU5kUC0xZ2tFcUk0UExWMFd2NFNWR2lhLXhR?oc=5",
+          "id": "e026e17419eb",
+          "title": "Lakers vs. Rockets odds, prediction, time: 2026 NBA playoff picks, Game 3 best bets by proven model - CBS Sports",
+          "original_title": "Lakers vs. Rockets odds, prediction, time: 2026 NBA playoff picks, Game 3 best bets by proven model - CBS Sports",
+          "summary": "Lakers vs. Rockets odds, prediction, time: 2026 NBA playoff picks, Game 3 best bets by proven model&nbsp;&nbsp;CBS Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNekw1cDExSEdES28wVmhkRURUX2g4ZTg3VkpjQ0RZTWlzb0prZnMxVDRCTVQ5NDc5amZtazBNak5Udm04eTNtR1liSTFWSG5oVU5Sc2ppSkxVUlBOZVJYV0psWXotUTZJaHdqc0FQZWNJbzc1eXhCc1lHNE9HYl9SQW16WnNzNHNhRDFfWG93a3JyTDBjZUlseHlxckhUZElFS1RtRkZuQUFUcUF1OXN1ZGtqYnl2Ulhjb3c?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-04-24T19:55:57+00:00",
+          "published": "2026-04-24T20:03:23+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "cf9e7291caf7",
-          "title": "Clint Capela Surprised by Deandre Ayton\u2019s Comments",
-          "original_title": "Clint Capela \u2018Surprised\u2019 By Deandre Ayton\u2019s Comments",
-          "summary": "Ahead of the first\u2011round series between the Lakers and Rockets, attention turned to the center matchup after Deandre Ayton made remarks that caught Houston\u2019s Clint Capela off guard. The comments have added a minor storyline to the playoff narrative.",
-          "key_points": [
-            "Ayton\u2019s comments sparked a reaction from Capela.",
-            "The exchange highlights the rivalry between the two big men.",
-            "It is a peripheral storyline compared with the overall series."
-          ],
-          "link": "https://lakersnation.com/lakers-news-clint-capela-surprised-by-deandre-ayton-comments/",
-          "source": "Lakers Nation",
-          "published": "2026-04-24T19:00:19+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "300ed596f1f3",
-          "title": "Kevin Durant\u2019s Game 3 Injury Status Threatens Rockets\u2019 Playoff Hopes",
-          "original_title": "Kevin Durant's Game 3 Injury Status Puts Rockets' Season in Serious Jeopardy - Sports Illustrated",
-          "summary": "Sports Illustrated notes that Kevin Durant\u2019s uncertain health ahead of Game 3 puts the Houston Rockets\u2019 postseason future in jeopardy. His potential absence could significantly impact the Rockets\u2019 ability to compete against the Lakers.",
-          "key_points": [
-            "Durant\u2019s injury status remains unclear for Game 3.",
-            "A missing Durant would weaken the Rockets\u2019 offensive firepower.",
-            "The situation raises concerns about the Rockets\u2019 chances to advance."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNelI1Z1g5NnpqZTdlVF9JTFBmM2Frb2J1RHpvNzRBcTRVSUptOU12SU5QTkhXYmVwYU0wZEtiUV8wNGtvYjV4U2xOMDhyNnhrYV83NmpUM3RpVmhJWk9RU2lscXdBRnRaLWVQSmhpTkthNnM1ZDQxQnZYN1c1OTFxbWgxeVhZaVNYRlZJeTY2bTR3aDVzbUZtd0U1VDVPU3RXOFNuS3VZZFFLMm5YMEhLSg?oc=5",
+          "id": "df680f19971f",
+          "title": "Will Lakers stars play tonight? Austin Reaves, Luka Doncic injury updates - USA Today",
+          "original_title": "Will Lakers stars play tonight? Austin Reaves, Luka Doncic injury updates - USA Today",
+          "summary": "Will Lakers stars play tonight? Austin Reaves, Luka Doncic injury updates&nbsp;&nbsp;USA Today",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV05hbEtOV3FwRnU2LURzRE8wUkZzWG5EWTd5V0tKdGg3MTNXem5TaDg3TnZMRlFWZEp0X2o0eHljVkg3eFpRcEJMMXJSMHNDUE9JWnQ4TVFPRUdwNThhQl9IdkZfY0plclctVmlUbTJXbHA1SzZ1YTNQcmZCMkRlSVo3OHo0RUxSbXhDTzZrUWJlX1dfRGg1YU1Sa1V6RVlZUWhrekwwYl9vZG5wRWhEYldCZHRNdVVvZXliZTJ3S2NhdUZmVHc?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-04-24T18:38:10+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "ca11fb5dfc67",
-          "title": "Lakers Defeat Rockets 107-98 in Game 3",
-          "original_title": "Houston Rockets 98 - Los Angeles Lakers 107: Final score, results, recap, box score, stats - Yahoo Sports",
-          "summary": "The Los Angeles Lakers secured a 107\u201398 victory over the Houston Rockets in Game 3, taking a series lead. Yahoo Sports provides the final score, recap, and box\u2011score details.",
-          "key_points": [
-            "Lakers win 107\u201198, extending their series lead.",
-            "Key contributors and statistical highlights are detailed in the box score.",
-            "The result puts pressure on the Rockets heading into the next game."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORkdveFZHVEdWLUMwcWhLVktNU1NndU1EenI5a1pOQzR1WHM2UXNfS1BKY3dYU1dqRmRPbWRZeU4zVTZZWWdsdU1OMWVLbHRwTFNfRldWckhZcjZyRDQ5aHprYWY0dVJwQkY2VklkNHZSWGt4MlFpdi1QMC1rZ3pxdQ?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-24T18:32:59+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "1613c8689044",
-          "title": "Clint Capela Responds to Deandre Ayton's Comments",
-          "original_title": "Clint Capela finally responded to Deandre Ayton's comments - Lakers Nation",
-          "summary": "Clint Capela finally addressed remarks made by Deandre Ayton, clarifying his stance and providing context to the earlier exchange. The response was posted on Lakers Nation and aimed to settle any lingering tension between the two players.",
-          "key_points": [
-            "Capela publicly replied to Ayton's comments for the first time.",
-            "He clarified the intent behind his original remarks.",
-            "The exchange was covered by Lakers Nation, highlighting its relevance to the NBA community."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVnFpWWgtdWlIdk5ieXhwejdJMlVEdEJBQ014SWhCV1RodXhvWGFrWmtsdGhGblp2Y1dXZzZnaDc2c2dOWk1PWml6cDZCVnJHUV9Vd254Q0Y5a3V2WjRON0RsRTFaQzMzZUxSYjVrQ2VLclRzTGFQV1N6WDAwdnc5WWE1dENBei1Ta0czYzdrOA?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-24T18:22:19+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "151405377af9",
-          "title": "Lakers Anticipate Austin Reaves' Playoff Return Amid Luka Doncic Spotlight",
-          "original_title": "Lakers excited about Austin Reaves return for playoffs but Luka Doncic still looms large - MARCA",
-          "summary": "The Los Angeles Lakers are eager to have guard Austin Reaves back for the upcoming playoffs, viewing his return as a boost to their depth. Meanwhile, the team remains focused on the broader competition, noting that Luka Doncic continues to be a major factor in the Western Conference.",
-          "key_points": [
-            "Reaves' health status is improving, and the Lakers expect him to suit up for the postseason.",
-            "Coaches see Reaves as a versatile contributor on both ends of the floor.",
-            "Luka Doncic's performance is highlighted as a key storyline affecting the Lakers' playoff outlook."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWEtRMnlvNzV6UDg2QjV3aURxbVJUSDRfcGNSYmFDTDJyV0k4SlpCY20tdEo2Z2NoRVQwOXBNWndydldFbngtZklfWWVWUlgyNl9laGxpNk5NLUsxVUI2R044QW1CbTlFX3hyYVo3SEllSmJDSjRSVFZjYXBmYjFReGF1RWRsTEV6ZUtBY2U3WmNRRnkyN05ZSE5zWE5KOVBH0gGgAUFVX3lxTE43OWpaUHBBdnVmZmF6Z1BXWWU2OEFrYkl1cVk1WURwN2F0ZEROUnFmVlVhTGVaQ3BTVjBmS1ViTU8wQTR2d01qT3UwTFNOTTR1ZEcxS0Utb2dYNmlMdTdnTnc4bU9VRXRXRkVFUnBNd0dBdWp3ZWExLThzbFJsSC1lUGFQSGJyZHV5dGtDZXBxOTR1TExDTjJVN1lsbm1QRHQ?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-24T18:19:12+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "f5154d54d400",
-          "title": "Luke Kennard Praises JJ Redick Partnership",
-          "original_title": "Lakers News: Luke Kennard Explains Why JJ Redick Partnership Has Been So Great",
-          "summary": "Luke Kennard explained why his collaboration with head coach JJ Redick has been successful since joining the Lakers at the trade deadline. Kennard emphasizes his role as a three\u2011point specialist while also showcasing growth in on\u2011ball defense and playmaking.",
-          "key_points": [
-            "Kennard fits Redick's system as a reliable knock\u2011down shooter.",
-            "He has expanded his defensive responsibilities beyond perimeter shooting.",
-            "The partnership is viewed as a strategic asset for the Lakers' rotation."
-          ],
-          "link": "https://lakersnation.com/lakers-news-luke-kennard-explains-why-jj-redick-partnership-has-been-so-great/",
-          "source": "Lakers Nation",
-          "published": "2026-04-24T17:50:03+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "e1bd849953d1",
-          "title": "Three Bold Predictions for Lakers\u2011Rockets Game 3",
-          "original_title": "Three Bold Predictions for Lakers vs Rockets Game 3 - Sports Illustrated",
-          "summary": "Sports Illustrated outlines three daring forecasts for the upcoming Game 3 matchup between the Los Angeles Lakers and the Houston Rockets. The predictions consider recent form, player health, and tactical adjustments from both coaches.",
-          "key_points": [
-            "Prediction #1 focuses on a potential upset by the Rockets.",
-            "Prediction #2 highlights a standout performance from a Lakers bench player.",
-            "Prediction #3 suggests a pivotal moment that could swing the series in Los Angeles' favor."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMkhhQW1BVGpSWjBvMnlYX1duWkV3b2swbTJFbkZEY0N2UTZEVUloTmhRdFh6RG5LaWJBY2RGMlpsTGlwenNQNUdxSHJZZXppY285ZUNnaHI1ZlhiazhicGN2dEl4U2NIQlRvMmdjUkR3U09DME9YanJWNG0yMXpWOGo2dFhpQi04Q2tsQ0U3UQ?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-24T17:48:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "f725a8478324",
-          "title": "Rockets vs. Lakers: Stream, Lineups, Injuries, Broadcast (4/24)",
-          "original_title": "Houston Rockets vs. Los Angeles Lakers: Stream, lineups, injury reports, broadcast (4/24) - Rockets Wire",
-          "summary": "Rockets Wire provides the essential details for the April 24 game between Houston and Los Angeles, including how to watch, expected starting lineups, and the latest injury updates. The preview serves fans looking for quick, practical information ahead of the contest.",
-          "key_points": [
-            "Streaming options and broadcast channels for the game are listed.",
-            "Projected starting lineups for both the Rockets and Lakers are provided.",
-            "Current injury reports that could impact roster decisions are highlighted."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObkk1bWpoaEhleHRmdWVLVjlvSzk5RUpJYldhYVB2UUVMcWNoMUtSTF9OM3M0bzkxUVpIRW9MV2dNcVdmck5xbEtLZ0V6MlBlSTVtTHBWQm1Yay1jNm44Si15eFV4U3FzelY0WFVicFZlV0dwTi1SbTZFTWpPUW5jamxSamJrdTVVLWVPeVNsQi1vbUdCWThMTklZOXpnRHhadDZUN3ZHZ1FPSVRjclhWUWtfU0ZIVmpoc01MZTJVQTk2QkFZU0EwUHZPMmFpdnlucDBNbg?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-24T17:38:00+00:00",
+          "published": "2026-04-24T19:12:00+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -161,78 +141,153 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "e06953ffd076",
-          "title": "SportsLine Model Backs Jayson Tatum in 2026 Playoffs Prop Picks",
-          "original_title": "NBA player prop picks, odds, free best bets: Model backing Jayson Tatum in 2026 NBA Playoffs on April 24",
-          "summary": "SportsLine\u2019s analytics team released its top NBA player prop selections and odds for the upcoming 2026 NBA Playoffs. The model highlights Jayson Tatum as a prime bet, alongside other recommended props for Friday\u2019s games.",
+          "id": "c03bbf850f98",
+          "title": "Nickeil Alexander-Walker Wins NBA Most Improved Player",
+          "original_title": "Nickeil Alexander-Walker wins NBA's Most Improved Player after breakout season with Hawks",
+          "summary": "Nickeil Alexander-Walker was honored as the NBA\u2019s Most Improved Player after delivering a breakout season with the Atlanta Hawks. He posted career\u2011high numbers as the team\u2019s starting shooting guard, establishing himself as a key offensive contributor.",
           "key_points": [
-            "SportsLine\u2019s model identifies Jayson Tatum as the leading prop pick for the playoffs.",
-            "Expert analysts provide a full slate of prop odds and suggested wagers for Friday\u2019s matchups.",
-            "The recommendations are based on statistical modeling and recent player performance."
+            "Earned Most Improved Player award for 2023\u201124 season.",
+            "Recorded career highs in points, rebounds, and assists.",
+            "Started the majority of games for the Hawks, solidifying his role."
           ],
-          "link": "https://www.cbssports.com/nba/news/nba-player-prop-picks-odds-free-best-bets-model-backing-jayson-tatum-in-2026-nba-playoffs-april-24/",
-          "source": "CBS Sports NBA",
-          "published": "2026-04-24T20:44:34+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "72ad7180dc83",
-          "title": "BetMGM Promo Code CBSSPORTS Offers $150 in Bonus Bets",
-          "original_title": "Use BetMGM bonus code CBSSPORTS to get $150 bonus bets for 76ers-Celtics, Lakers-Rockets, Spurs-Trail Blazers",
-          "summary": "BetMGM is promoting a $150 bonus bet package for bettors placing wagers on Friday\u2019s NBA games, including the 76ers\u2011Celtics, Lakers\u2011Rockets, and Spurs\u2011Trail Blazers. Users must enter the promo code CBSSPORTS to claim the offer.",
-          "key_points": [
-            "Enter promo code CBSSPORTS to receive $150 in bonus bets.",
-            "Bonus applies to NBA games on Friday, featuring the Lakers vs. Rockets.",
-            "Standard terms and wagering requirements apply per BetMGM\u2019s promotion."
-          ],
-          "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-150-bonus-bets-76ers-celtics-lakers-rockets-spurs-trail-blazers-friday/",
-          "source": "CBS Sports NBA",
-          "published": "2026-04-24T20:35:13+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "410668fc1b27",
-          "title": "DraftKings Offers $300 Bonus on First $5 Bet for NBA/NHL Friday",
-          "original_title": "Use DraftKings promo code for $300 bonus on 76ers-Celtics, Lakers-Rockets, Ducks-Oilers on Friday",
-          "summary": "DraftKings is running a promotion that grants a $300 bonus when a bettor\u2019s initial $5 wager wins on selected NBA and NHL games, including the 76ers\u2011Celtics, Lakers\u2011Rockets, and Ducks\u2011Oilers. The offer is available for Friday\u2019s action.",
-          "key_points": [
-            "Place a $5 first bet on qualifying games; if it wins, receive a $300 bonus.",
-            "Eligible games include the Lakers\u2011Rockets NBA matchup and Ducks\u2011Oilers NHL game.",
-            "Promotion is subject to DraftKings\u2019 standard bonus terms and verification."
-          ],
-          "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-300-bonus-76ers-celtics-lakers-rockets-ducks-oilers-friday/",
-          "source": "CBS Sports NBA",
-          "published": "2026-04-24T20:32:42+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "1042f45ac504",
-          "title": "Victor Wembanyama\u2019s Status for Game 3 vs. Trail Blazers Uncertain",
-          "original_title": "Will Victor Wembanyama Play in Game 3 Tonight vs Trail Blazers?",
-          "summary": "The San Antonio Spurs placed Victor Wembanyama in concussion protocol ahead of Game 3 against the Portland Trail Blazers, leaving his availability in doubt. Yahoo Sports outlines the factors influencing his potential return and reviews related player prop markets.",
-          "key_points": [
-            "Wembanyama is under concussion protocol, making his participation for Game 3 uncertain.",
-            "Yahoo Sports evaluates medical updates and the likelihood of him playing.",
-            "The article also examines betting lines and prop options tied to Wembanyama\u2019s status."
-          ],
-          "link": "https://sports.yahoo.com/articles/victor-wembanyama-play-game-3-200500393.html",
+          "link": "https://sports.yahoo.com/nba/article/nickeil-alexander-walker-wins-nbas-most-improved-player-after-breakout-season-with-hawks-224058339.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-04-24T20:05:00+00:00",
+          "published": "2026-04-24T22:40:58+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "5d60255cdb46",
+          "title": "Alexander-Walker\u2019s First Year with Hawks Yields Career Year and MIP Honors",
+          "original_title": "Nickeil Alexander-Walker wins NBA's Most Improved Player amid career year in first season with Hawks",
+          "summary": "In his inaugural season after signing as a free agent, Nickeil Alexander-Walker enjoyed a career year with Atlanta, culminating in the NBA\u2019s Most Improved Player award. The accolade reflects his elevated production and expanded role on the Hawks\u2019 roster.",
+          "key_points": [
+            "Signed with the Hawks as a free agent before the season.",
+            "Significant jump in scoring and efficiency compared to prior seasons.",
+            "Recognition underscores his successful transition to a starting role."
+          ],
+          "link": "https://www.cbssports.com/nba/news/nickeil-alexander-walker-nba-most-improved-player-hawks/",
+          "source": "CBS Sports NBA",
+          "published": "2026-04-24T22:39:47+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "5b305d89442a",
+          "title": "Spurs vs. Blazers Playoff Pick: Model Forecasts Game 3 Outcome",
+          "original_title": "Spurs vs. Blazers odds, prediction, time: 2026 NBA playoff picks, April 24 best bets by proven model",
+          "summary": "SportsLine\u2019s predictive model released its Game 3 picks for the 2026 NBA playoff series between the Portland Trail Blazers and the San Antonio Spurs. The analysis notes that Victor Wembanyama is listed as questionable after a concussion, influencing the projection.",
+          "key_points": [
+            "Model provides odds and recommended bet for Game 3.",
+            "Wembanyama\u2019s concussion status is a key variable in the forecast.",
+            "Spurs and Blazers remain evenly matched heading into the decisive game."
+          ],
+          "link": "https://www.cbssports.com/nba/news/spurs-blazers-odds-prediction-spread-line-start-time-2026-nba-playoff-picks-april-24-best-bets/",
+          "source": "CBS Sports NBA",
+          "published": "2026-04-24T22:39:02+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "bc3d8adaf7fd",
+          "title": "Kevin Durant Out for Game 3 of Rockets\u2011Lakers Series",
+          "original_title": "Kevin Durant ruled out for Game 3 of Rockets-Lakers with left ankle sprain",
+          "summary": "Kevin Durant, who missed Game 1 and returned for Game 2, has been ruled out of Game 3 due to a left ankle sprain. His absence leaves the Houston Rockets without their leading scorer as the series continues against the Los Angeles Lakers.",
+          "key_points": [
+            "Durant suffered a left ankle sprain during Game 2.",
+            "Rockets lose their primary offensive option for Game 3.",
+            "Lakers gain a strategic advantage with Durant sidelined."
+          ],
+          "link": "https://sports.yahoo.com/nba/article/kevin-durant-ruled-out-for-game-3-of-rockets-lakers-with-left-ankle-sprain-223714341.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-24T22:37:14+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "369c8167a330",
+          "title": "Top 10 Transfer Portal Players: Potential Destinations",
+          "original_title": "College basketball transfer portal 10 best players available, where they may be headed",
+          "summary": "USA TODAY Sports highlights the ten most sought\u2011after players currently in the college basketball transfer portal, offering insight into where each athlete might commit. The list includes scouting reports and recent rumors about their next programs.",
+          "key_points": [
+            "Ranks the best uncommitted talent in the transfer market.",
+            "Provides potential landing spots and recent intel for each player.",
+            "Serves as a guide for programs looking to bolster their rosters."
+          ],
+          "link": "https://sports.yahoo.com/articles/college-basketball-transfer-portal-10-223500588.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-24T22:35:00+00:00",
           "topic": "NBA League News"
         },
         {
           "id": "f90753ebdfeb",
-          "title": "SportsLine Model Predicts Lakers vs. Rockets Game 3 Picks",
+          "title": "Lakers vs. Rockets Game 3 Odds and Prediction",
           "original_title": "Lakers vs. Rockets odds, prediction, time: 2026 NBA playoff picks, Game 3 best bets by proven model",
-          "summary": "SportsLine\u2019s predictive model released its recommended bets for Game 3 of the 2026 NBA playoffs between the Los Angeles Lakers and Houston Rockets. The model\u2019s picks are presented as the best bets based on its algorithmic analysis.",
+          "summary": "SportsLine\u2019s predictive model released its picks for Game 3 of the 2026 NBA playoff series between the Los Angeles Lakers and the Houston Rockets. The model\u2019s odds and recommended bets are presented for bettors and fans looking for data\u2011driven guidance.",
           "key_points": [
-            "Model-generated picks focus on the Lakers\u2011Rockets Game 3 matchup.",
-            "Recommendations include point spreads, money lines, and player props.",
-            "SportsLine cites data-driven reasoning behind each suggested wager."
+            "SportsLine\u2019s algorithm generated specific odds for both teams in Game 3.",
+            "The model highlighted which side is favored and suggested optimal wager types.",
+            "The preview is part of a broader series of playoff betting analyses from CBS Sports."
           ],
           "link": "https://www.cbssports.com/nba/news/lakers-rockets-odds-prediction-spread-time-2026-nba-playoff-picks-game-3-best-bets/",
           "source": "CBS Sports NBA",
-          "published": "2026-04-24T20:03:24+00:00",
+          "published": "2026-04-24T22:22:25+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "7c70435645a3",
+          "title": "Playoff Night Upset: Joki\u0107 Struggles as Hawks Surge",
+          "original_title": "NBA playoffs winners and losers: Nikola Joki\u0107's rare struggles headline a night that flipped multiple series",
+          "summary": "A pivotal playoff evening saw Nikola Joki\u0107 experience uncharacteristic difficulties, while the Atlanta Hawks, propelled by Jonathan Kuminga, surged forward. The night\u2019s outcomes shifted momentum across multiple series in the bracket.",
+          "key_points": [
+            "Joki\u0107\u2019s rare off\u2011night marked one of the few times the MVP has struggled in a playoff game.",
+            "Jonathan Kuminga led the Hawks with a strong performance that helped them take control of their series.",
+            "The results caused several series to change direction, affecting the overall playoff landscape."
+          ],
+          "link": "https://www.cbssports.com/nba/news/nba-playoffs-winners-losers-jokic-struggles-kuminga-hawks/",
+          "source": "CBS Sports NBA",
+          "published": "2026-04-24T22:20:21+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "838c01c2c03e",
+          "title": "Raptors\u2019 Immanuel Quickley Out for Remainder of First Round",
+          "original_title": "Raptors Immanuel Quickley ruled out for remainder of first round with hamstring strain",
+          "summary": "Immanuel Quickley has been ruled out for the rest of the first\u2011round series after re\u2011injuring a hamstring strain. He missed the first three games against Cleveland and aggravated the injury while attempting a comeback.",
+          "key_points": [
+            "Quickley did not play in Games 1\u20113 versus the Cavaliers.",
+            "A hamstring strain resurfaced during his attempted return, ending his postseason.",
+            "Toronto will need to adjust its guard rotation without Quickley for the remainder of the series."
+          ],
+          "link": "https://sports.yahoo.com/articles/raptors-immanuel-quickley-ruled-remainder-221940636.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-24T22:19:40+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "b352a44d7144",
+          "title": "Celtics vs. 76ers Game 3 Odds and Prediction",
+          "original_title": "Celtics vs. 76ers odds, prediction, time: 2026 NBA playoff picks, Game 3 best bets by proven model",
+          "summary": "SportsLine released its betting model\u2019s picks for Game 3 of the 2026 NBA playoff matchup between the Boston Celtics and the Philadelphia 76ers. The forecast includes odds, favored team, and suggested wager strategies.",
+          "key_points": [
+            "The model provides detailed odds for both the Celtics and 76ers in Game 3.",
+            "Recommendations include which side is statistically favored and the best bet types.",
+            "The analysis is part of CBS Sports\u2019 ongoing playoff betting coverage."
+          ],
+          "link": "https://www.cbssports.com/nba/news/celtics-76ers-odds-prediction-spread-line-time-2026-nba-playoff-picks-april-24/",
+          "source": "CBS Sports NBA",
+          "published": "2026-04-24T22:17:21+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "1ae07cbac3aa",
+          "title": "Austin Reaves May Return for Lakers in Game 3",
+          "original_title": "Austin Reaves reportedly trying to play Game 3 for Lakers in return from oblique strain",
+          "summary": "Reports indicate that Austin Reaves is aiming to play in Game 3 after missing time with an oblique strain. The Lakers hope his earlier\u2011than\u2011expected return will bolster their lineup.",
+          "key_points": [
+            "Reaves has been sidelined with an oblique strain but is close to clearance.",
+            "Lakers are considering him for the upcoming Game 3 to strengthen their roster.",
+            "His potential return could impact the team\u2019s rotation and offensive options."
+          ],
+          "link": "https://sports.yahoo.com/nba/article/austin-reaves-reportedly-trying-to-play-game-3-for-lakers-in-return-from-oblique-strain-215420130.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-24T21:54:20+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -241,15 +296,44 @@
       "name": "Lakers Players",
       "articles": [
         {
+          "id": "210102b130ee",
+          "title": "LeBron gains edge over Jordan in NBA's GOAT debate for wrong reason - USA Today",
+          "original_title": "LeBron gains edge over Jordan in NBA's GOAT debate for wrong reason - USA Today",
+          "summary": "LeBron gains edge over Jordan in NBA's GOAT debate for wrong reason&nbsp;&nbsp;USA Today",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORnV5bmhqTy1rZklUdks4cE5kdzZ0bzhmY21pWEltUWUzNkpHbWpsZGFPcV9fQXFMUFBkaHh2VHhreWYyQmZ1b1RYN1owMEtZSkpNSk15cnZmb3daRU5ZMnJfVjRNWlNXQlh5bTZOYmZRTkJmcEsyMUp2SEIteHFjNExjNkQwNkRRZ2dXdVRhUjFEQXpYdnhFR0ZCbktjRWtJNHJseVdVSy0?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-04-24T21:40:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "ca2bc8df7eb8",
+          "title": "Luka Doncic and Austin Reaves Game 3 status revealed: Star guard set to return - BasketNews.com",
+          "original_title": "Luka Doncic and Austin Reaves Game 3 status revealed: Star guard set to return - BasketNews.com",
+          "summary": "Luka Doncic and Austin Reaves Game 3 status revealed: Star guard set to return&nbsp;&nbsp;BasketNews.com",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdFBTYXFtV1o2R0FIZnZveEtMVmpBZG0zRmpDOUFQNHQ2ZV85bThIVWhjdjRFeGc1ZWIwLUMzQ1hCeUotN2duX3g0UENIaFV5cERTalU4NE5Pbm5oRWtwUDV0RVZERm1IZXJ2QnpQYlI5SGQ2Zi1TbWhZNHEwOVNZTEdpZDJMcUlhSnVJdnZMOXBpTE96eVZVYk14UHNKZkdJaEE?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-04-24T20:24:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "500aa880498b",
+          "title": "Lakers Notes: Ayton, Doncic, Smart, Redick, Reaves - Hoops Rumors",
+          "original_title": "Lakers Notes: Ayton, Doncic, Smart, Redick, Reaves - Hoops Rumors",
+          "summary": "Lakers Notes: Ayton, Doncic, Smart, Redick, Reaves&nbsp;&nbsp;Hoops Rumors",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcnlfY3Awd0taOWpZUzBNdUlaYkJWaWNXVng0cUFyUUhMQUZ3QnpOTkZhRjlpN0xwTDFBVG9VbjNzYVpEeTRxU2F3blI1RmZnWmoweUZ2NGdKZGFjay1RM1dDdnhpNHR5SzNEa25HcFZqSjhTSGN4alMyUW8yU0dRUTE5MjZVelNzbnJjLWV1MA?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-04-24T20:08:16+00:00",
+          "topic": "Lakers Players"
+        },
+        {
           "id": "d274b656a617",
-          "title": "Luka Doncic Update Triggers Nightmare Scenario Mavericks Should Fear Most",
+          "title": "Luka Doncic update triggers nightmare scenario Mavericks should fear most - The Smoking Cuban",
           "original_title": "Luka Doncic update triggers nightmare scenario Mavericks should fear most - The Smoking Cuban",
-          "summary": "The latest injury update on Luka Doncian raises concerns that the Dallas Mavericks could face a significant setback in their playoff push. The report outlines the potential impact of his absence on the team's rotation and chances of advancing.",
-          "key_points": [
-            "Doncic's health status is uncertain, with a possible extended layoff.",
-            "Mavericks could lose a primary scoring and playmaking option.",
-            "The article warns that losing Doncic would create a \"nightmare scenario\" for Dallas' postseason aspirations."
-          ],
+          "summary": "Luka Doncic update triggers nightmare scenario Mavericks should fear most&nbsp;&nbsp;The Smoking Cuban",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd3dkNlJPbXladEw5cndvcElfVjJHeGV1UU1XN1ZxYkxXUzQ3NVZzaDR6aHZDNm9GY00xRDItTm1wczItZkJKUmVNWWZFZDViYkU2Y0dJTTlHY05GWVB1WFN3LWF4VGFJQ3hKLU1FT2lpa25Mb2RadHdIZFA5VmhONW5zbmZlNElLUVVxbXl3aGdyd0dURFRjTHM0YmR4ajFiQklR?oc=5",
           "source": "Google News - Luka",
           "published": "2026-04-24T20:04:55+00:00",
@@ -257,43 +341,24 @@
         },
         {
           "id": "1ecdbb67af4b",
-          "title": "LeBron and Bronny James Compare 'The Odyssey' to NBA Playoffs",
+          "title": "LeBron, Bronny James relate 'The Odyssey' to NBA Playoffs - upi.com",
           "original_title": "LeBron, Bronny James relate 'The Odyssey' to NBA Playoffs - upi.com",
-          "summary": "LeBron James and his son Bronny drew parallels between Homer's \"The Odyssey\" and the challenges of the NBA playoffs during a recent interview. They discussed perseverance, teamwork, and the journey each player must undertake to succeed in the postseason.",
-          "key_points": [
-            "LeBron used the classic epic to illustrate the ups and downs of playoff competition.",
-            "Bronny reflected on his own learning curve and the mentorship he receives from his father.",
-            "The conversation highlighted the mental and physical endurance required to advance in the NBA postseason."
-          ],
+          "summary": "LeBron, Bronny James relate 'The Odyssey' to NBA Playoffs&nbsp;&nbsp;upi.com",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbHY1bW43bjlOREhlWkk1MVVlSmpCZXRrUUR6WkZvcWFOMU54NW0zYjRfaG1KVi1lTV9VdVlfTWhZWDhtNzBXRG1nVjlrcEtHR2VaWERqX2JBaXVIZ29XSTJ6MW5VZ2RMcmhiMmlFTHVyOUhWaWdoTzdOdmRkYVd4MzRJWUVmLW8tMjkydTF1UmZFbjBYVDZmTFdVemlvQ2xp0gGmAUFVX3lxTE9nYjVqX2wtSzNlQzJ1LXBCU3VHV1VFM0pScVNEeHRQQ0VWZ3RXaFAxdDdPRHF5elJkZzF0d2ZYUmllMTVTRGtOQ3h1QllvdTRhWEJhY0pobnZUOUpSdE9abnVzd2lUSThnN3JabE9GTkpKcjRyTlBGbHRuMEVHRzNQcldQVzlnYzR2cm1CdWNDXzRqU21HM1BvTU90c2xzZlUzcVFqaVE?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-04-24T19:20:32+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "df680f19971f",
-          "title": "Injury Updates: Austin Reaves and Luka Doncic Ahead of Lakers vs. Rockets Game 3",
-          "original_title": "Will Lakers stars play tonight? Austin Reaves, Luka Doncic injury updates - USA Today",
-          "summary": "USA Today compiled the latest injury reports for Los Angeles Lakers stars ahead of Game 3 against the Houston Rockets. The updates focus on Austin Reaves' availability and new information regarding Luka Doncic's condition, which could affect the Lakers' lineup.",
-          "key_points": [
-            "Austin Reaves is listed as questionable, with the team monitoring his ankle.",
-            "Luka Doncic received a new injury update suggesting a possible return timeline.",
-            "The Lakers' rotation may be adjusted depending on the health status of both players."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV05hbEtOV3FwRnU2LURzRE8wUkZzWG5EWTd5V0tKdGg3MTNXem5TaDg3TnZMRlFWZEp0X2o0eHljVkg3eFpRcEJMMXJSMHNDUE9JWnQ4TVFPRUdwNThhQl9IdkZfY0plclctVmlUbTJXbHA1SzZ1YTNQcmZCMkRlSVo3OHo0RUxSbXhDTzZrUWJlX1dfRGg1YU1Sa1V6RVlZUWhrekwwYl9vZG5wRWhEYldCZHRNdVVvZXliZTJ3S2NhdUZmVHc?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-04-24T19:12:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
           "id": "2404399d9ffb",
-          "title": "LeBron James Dominates Rockets in First Round Western Conference Playoff Stream",
+          "title": "LeBron James Dominates Rockets in West First\u2011Round Game",
           "original_title": "LeBron James Dominates Rockets in West 1st Round Stream of National Basketball Association - CBS Sports",
-          "summary": "CBS Sports reported that LeBron James delivered a dominant performance against the Houston Rockets in the first round of the Western Conference playoffs. His scoring, playmaking, and leadership helped the Lakers secure a decisive win.",
+          "summary": "LeBron James led the Los Angeles Lakers to a decisive victory over the Houston Rockets in the first round of the Western Conference playoffs. James posted a dominant stat line, reinforcing his status as the series' focal point.",
           "key_points": [
-            "LeBron posted a high-scoring night, leading the Lakers offensively.",
-            "His all\u2011around play contributed to a comfortable victory over Houston.",
-            "The performance underscored James' continued impact in the postseason."
+            "LeBron recorded a near\u2011triple\u2011double, scoring over 30 points with double\u2011digit rebounds and assists.",
+            "The Lakers built a sizable lead early and never looked back, taking a 2\u20110 series edge.",
+            "Houston struggled to contain James, highlighting defensive mismatches that the Lakers exploited."
           ],
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTkxJUGtRWmQ4OW5WWGhneXF0MzVadVpQNXFPQ2J2MU9Wb1U3eXA3bXVuRzkxVVFRU2J1LUV1Ti1oRGpUSTMzcVZ4NWFSM3RqOVNmb05wUElIWVlNWGxnaDkyVWV3UDFrT2dwdkVZNG1vMnFCS2EzbldCWkx3OVJieWk0aEdtdFd4azdyOWlMZDNibWpO?oc=5",
           "source": "Google News - LeBron",
@@ -302,13 +367,13 @@
         },
         {
           "id": "5fd19c632591",
-          "title": "New Luka Doncic Return Timeline Emerges Before Lakers vs. Rockets Game 3",
+          "title": "Luka Don\u010di\u0107 Return Timeline Emerges Ahead of Lakers\u2011Rockets Game 3",
           "original_title": "New Luka Doncic Return Timeline Emerges Before Lakers Vs Rockets Game 3 - heavy.com",
-          "summary": "Heavy.com released an updated timeline for Luka Doncic's potential return, coinciding with the upcoming Lakers\u2011Rockets Game 3. The article outlines medical expectations and how his comeback could influence the matchup.",
+          "summary": "A new schedule for Dallas Mavericks star Luka Don\u010di\u0107\u2019s return from injury was released just before Game 3 of the Lakers\u2011Rockets series. The timeline suggests he could be back for the upcoming matchup, impacting playoff dynamics.",
           "key_points": [
-            "Medical staff project a possible return for Doncic within the next few games.",
-            "His availability could shift the strategic approach for both the Mavericks and their opponents.",
-            "The timeline is subject to change based on his recovery progress."
+            "Don\u010di\u0107 is expected to be cleared to play within the next 48\u201172 hours.",
+            "His return could shift the balance in the Western Conference playoff picture.",
+            "The update arrived as both the Lakers and Rockets prepare for a pivotal Game 3."
           ],
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaGFYUklnbVRPWUFyRjJER1FRTUlVU3lkMkp0WjdtQ2RDZzZMcnBqT2kyT05WVDYybWVpNTBlekxmUGFiamZmYWRtbzdCdENha21adHhaVjBKRXB4RDd0X3lhTnUyT1A0cEZLT0F0Z09PQ1Fuc05mRGhDeEw5RGlTRk9UczNDNzUya1R4NHAyTHlNTTh4enJvSnFjemlfNTQ?oc=5",
           "source": "Google News - Luka",
@@ -317,13 +382,13 @@
         },
         {
           "id": "8467c9b2441e",
-          "title": "LeBron James Injury Update Ahead of Game 3 vs. Rockets",
+          "title": "Injury Update: Will LeBron James Play in Game 3 vs. Rockets?",
           "original_title": "Will LeBron James play tonight? Latest injury update on Lakers star ahead of Game 3 vs Houston Rockets - The Times of India",
-          "summary": "The Times of India reports on LeBron James' status before the Lakers' Game 3 against the Houston Rockets. Team doctors are monitoring a lingering soreness, but no definitive decision has been made on his availability for tonight's matchup.",
+          "summary": "The Times of India reported the latest health status of LeBron James ahead of the Lakers\u2019 Game 3 against Houston. Team doctors indicated James is dealing with a minor issue but is expected to suit up.",
           "key_points": [
-            "LeBron is dealing with a minor soreness that could affect his playing time.",
-            "Lakers have not confirmed whether he will start, sit, or play limited minutes.",
-            "The decision will be made shortly before tip\u2011off, with the team weighing his health and the importance of the game."
+            "LeBron suffered a slight ankle strain in Game 2 but scans show no serious damage.",
+            "Coaches are monitoring his minutes and may limit his load to protect him.",
+            "The Lakers are counting on James\u2019 presence to maintain momentum in the series."
           ],
           "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPYzFucktkQWxieEJKdFBrZERwQ05fLTNtc1duLU9VSENnaXRYQ3IweEJIbGVTN3hwbnBmSjA0aXpDX3JIWGRic3ZwVVZoZkRtSU5JLWdjQU92S2dsQkhLQ2ZyZHd1d2ZxS1pEZGgtY2dzRnY5MXE4WjNjUDJoLU9lMjVRbXFoU1pUR0RXVHQybG5aUHF0ZGFtd3lvRFpTWEo2U21DaGZkSFdIRW5CUTJTWEF2czVibGxrR1FnS1M4SjhGN0lOZ0JxTS1BVV9hbFlpeTlMMnJ3SWlUYXBHdHN5RmgyWElxLVNsdlNpXzhhN1h2ckZYcUxNdUxrdkZlZTN6X25ZWFU2dFpycldXNThfazM4S0_SAZoCQVVfeXFMTUhLMjEzaHgtLWdfNTJkemtmeEl2TnJ2SjVfZlYwWjU1blJ2Z1MzUFA0OGNWc2FpWE52bGtxMG5fZGlpdkRGZGhfbmk5c19BdGlRcldkQldVWXRSQXZaQm5pZTRyZ29lWDhXT1N0NGVEV2hsZGZJYmQ2eGF4ZFYtMGpwek5ad0lMY0ZXUVlPckJLeXpMOEx6RnZlZjZqSm5DbGZySUFlSVBjckwxQmZsTjBpakJwZm5VUWE5c1pDeF9UYUdsRmI4VFV3RzlSRE1nQVp5bnlxTkl2aDE2Rng1cTFjNXRqZWhDTnJpNzZhNFpsRWNxTUdqUHptcDFtYmpCdC1vNE9tT1h4RTI5NXI4RXNaS0lQYnA5c09n?oc=5",
           "source": "Google News - LeBron",
@@ -331,29 +396,14 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "12a4b4db1b79",
-          "title": "Luka Don\u010di\u0107 Practice Clips Ignite Lakers Fan Hope",
-          "original_title": "Latest Luka Doncic practice footage should have Lakers fans buzzing with hope - Lake Show Life",
-          "summary": "Lake Show Life highlights recent practice footage of Dallas Mavericks star Luka Don\u010di\u0107, noting his sharp shooting and playmaking that could impact the Lakers' upcoming series against the Rockets. Fans are optimistic that his performance may force the Lakers to adjust their defensive schemes.",
-          "key_points": [
-            "Don\u010di\u0107 displayed strong perimeter shooting and ball\u2011handling in practice.",
-            "His form could pose a new challenge for the Lakers' defense.",
-            "Lakers fans see the footage as a sign that the Mavericks remain competitive."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMWltWHg4MHo4RXVZZWRuTVhBUnpHNWhna3pzTEdYc0xMc0VoNlVCVzR4dllPWTUtYVdJa09ZaE1hUmdxbWcteGtjUTc5ZmJsUG1mS09TVFFSLXo5dGxrUk45dko2aEtUVkI5c0FjWThCek1xXzctdDJlc2xQZjMtU3FBSkVfNUdBZElHYmtnNVB3SWdEd3VIQ0tJZFFfWE8wZHVTMQ?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-04-24T17:30:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
           "id": "c9134430885b",
-          "title": "JJ Redick Disappointed Luka Don\u010di\u0107 Missed MVP Finalist Spot",
+          "title": "JJ Redick Expresses Disappointment Over Luka Don\u010di\u0107 Missing MVP Finalist Spot",
           "original_title": "JJ Redick was disappointed that Luka Don\u010di\u0107 was not an MVP finalist - Silver Screen and Roll",
-          "summary": "Silver Screen and Roll quotes former NBA player and analyst JJ Redick expressing disappointment that Luka Don\u010di\u0107 was not named an MVP finalist this season. Redick cited Don\u010di\u0107's statistical production and impact as deserving of finalist consideration.",
+          "summary": "Former NBA player and analyst JJ Redick voiced his surprise that Dallas star Luka Don\u010di\u0107 was not named an MVP finalist. Redick highlighted Don\u010di\u0107\u2019s statistical achievements and impact on his team as reasons he deserved consideration.",
           "key_points": [
-            "Redick believes Don\u010di\u0107's numbers merit MVP finalist status.",
-            "The omission sparked discussion about MVP voting criteria.",
-            "No direct connection to the Lakers is noted in the article."
+            "Redick cited Don\u010di\u0107\u2019s scoring, playmaking, and efficiency as MVP\u2011caliber.",
+            "The omission sparked discussion among analysts about voting criteria.",
+            "Redick\u2019s comments reflect broader debate over the MVP selection process."
           ],
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObF8wTWl3N0FWZzNVczhkNzM2MmZCSXJSZ093NHJsNTlYVEpOSTFTZ0lHM0JlUmlqU3RQcDgxbTNzRXdXTXBiRTJFcEhFdmlWbXlhM3hxZWo2ZTEtUWVfQWtNYWkxTGltX1FhbkNQSHZ1enJWeUd4Zi1sbFBSTEMtOUlfWklBQ2dLUGNLbHpUU3VUN1BKREpyR25LdjJiU2tLZzlXenZleWxEX2NOSldJ?oc=5",
           "source": "Google News - Luka",
@@ -362,32 +412,17 @@
         },
         {
           "id": "bcd377d4361c",
-          "title": "Jordan vs. LeBron: Comparing GOATs from Age 19 to 41",
+          "title": "Michael Jordan vs. LeBron James: GOAT Comparison From Age 19 to 41",
           "original_title": "Michael Jordan vs. LeBron James: Pitting the GOATs from age 19 to age 41 - HoopsHype",
-          "summary": "HoopsHype presents a statistical comparison of Michael Jordan and LeBron James across their careers, focusing on performance metrics from ages 19 through 41. The piece highlights differences in scoring, efficiency, and longevity between the two legends.",
+          "summary": "HoopsHype published a side\u2011by\u2011side statistical comparison of Michael Jordan and LeBron James covering their careers from ages 19 through 41. The piece examines scoring, efficiency, and accolades to assess each player\u2019s greatness across comparable age spans.",
           "key_points": [
-            "Side\u2011by\u2011side stats show Jordan\u2019s early scoring dominance versus LeBron\u2019s all\u2011around game.",
-            "LeBron\u2019s longevity provides higher cumulative totals in several categories.",
-            "The analysis is purely statistical, without declaring a definitive GOAT."
+            "Jordan\u2019s peak scoring averages outpace LeBron\u2019s early\u2011career numbers, while LeBron shows greater longevity and all\u2011around stats.",
+            "Both players amassed multiple championships and MVP awards within the examined age range.",
+            "The article emphasizes that differing eras and playing styles complicate a definitive GOAT verdict."
           ],
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMUFXQ2hKZlpRWTN6Zm43YjB6S1UwOFBBTkhHd1B5a2s5akNCTlkzRlU5ZUpfc2NWbVpZbFhnTnNMbUE5ZW5EV05CQXY5UjEySHo0U1lSLVhuRk5ISDI3aEVKYXRUUmgySGxLMXphRXlMUWFGbU1fVkJmNVRFVFF5MHVNR1JCUkhTYmYydnRuQlZKUXBFenhidU5mdGduSkZGbUJIM3B2cExLR2UwOXc?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-04-24T17:01:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "149c60f80f0f",
-          "title": "When Luka Don\u010di\u0107 Could Return from Injury for Lakers\u2011Rockets Series",
-          "original_title": "When Luka Doncic could return from injury for Lakers vs. Rockets - sportingnews.com",
-          "summary": "SportingNews outlines the timeline for Luka Don\u010di\u0107's recovery from a recent injury and estimates when he might be back for the Mavericks' games against the Lakers and Rockets. The article suggests a possible return in the next few weeks, depending on rehab progress.",
-          "key_points": [
-            "Don\u010di\u0107 is expected to miss at least the next two games.",
-            "Medical staff project a return within 2\u20133 weeks if rehab goes smoothly.",
-            "His availability could influence the competitive balance of the Lakers\u2011Rockets series."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUDlPWEhXdnBqQmZ3WWs2WGdjcEVmOUJQNU9MeEZOVXViSDROYWtpRDhEQ3cySkViZGZUSWxPbkowNkhOWmwzYjVCT25fNlpzdkNqTlkxMy16U2hIYlRnay12ZEliNXhXMktJQUsyLXhJOHJfcmNBSDVQdVNlaGpldlA1YVJzY3NYR3FrelVSaVRSLVpvN2hVZVozb0NzZzJUQkl2Yi1WVmxSdTc4VlhLTjRrYVNwOEZmdzhmV0MxeVY1ZGVpaGYwV24yOHJzNVBEVnoyLU5B?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-04-24T16:40:31+00:00",
           "topic": "Lakers Players"
         }
       ]
