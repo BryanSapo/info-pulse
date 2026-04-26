@@ -1,34 +1,94 @@
 {
-  "generated_at": "2026-04-26T16:53:54.691924+00:00",
-  "total_articles": 30,
+  "generated_at": "2026-04-26T19:03:44.826381+00:00",
+  "total_articles": 25,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
-          "id": "20550c45617e",
-          "title": "Lakers Near Improbable Sweep of Rockets, Says John Henson",
-          "original_title": "John Henson discusses the Los Angeles Lakers being on the verge of an improbable sweep over the Houston Rockets - 247Sports",
-          "summary": "Former NBA player John Henson highlighted how the Los Angeles Lakers are on the brink of completing a rare sweep against the Houston Rockets. He noted the team's dominant play and the difficulty of pulling off such a feat in the modern era.",
+          "id": "99380fbc484d",
+          "title": "Rockets vs. Lakers: Lineups and Injury Updates (4/26)",
+          "original_title": "Houston Rockets vs. Los Angeles Lakers: lineups, injury reports (4/26) - Rockets Wire",
+          "summary": "The Houston Rockets and Los Angeles Lakers released their starting lineups and injury reports ahead of their April 26 matchup. Both teams listed key players as active, while noting a few questionable statuses due to minor ailments.",
           "key_points": [
-            "Lakers lead the series 2\u20110 and are positioned to close it out in Game 3.",
-            "Henson emphasized the rarity of a sweep given the competitive balance of the league.",
-            "The Lakers' defensive intensity and balanced scoring have been critical to their advantage."
+            "Rockets listed Jalen Green and Alperen \u015eeng\u00fcn in the starting five; Lakers started LeBron James, Anthony Davis, and D'Angelo Russell.",
+            "Los Angeles reported LeBron James as day\u2011to\u2011day with a sore ankle, while Houston listed a minor hamstring issue for Kevin Porter Jr.",
+            "Both teams indicated that the game would feature limited minutes for several bench players as coaches manage health ahead of the playoffs."
           ],
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPOE1VekxEN3ozSXJOTEtROW53MG1RVDJJY3R3R29wTDUyUzNZNkhwSnB3OXpKMGsySkJJbDhYZlNzdGw3X1U1dDV1dEhEOC1iaWFxd18wYThtZ2VaaF9rbkhWU2hpTV9Yb2lsRGtVcWJXcVRBbVlzdEphckRMbkcwYm1xMzNfMWFSVHB6S0RZYTFMQ1htUmMyVTVuRlpPUXJGVXBpNFJBU2VBamNBMVRmUk9yMF9rbjlvWGdoRDJHbVZTSVc4NGpMLWJaYm1BT3p4TFljenBpNkRPNFVoRnV3V09PSnBOT2p4MVgxVk0tSE9ieE5FY3ctX1g0M2haMVBU?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZVBDRVpiekJldS1HYkowQ2I4NFdNSXl0cHRPcjRES3NmUjZkcDlNSUxuVWFWZ1pIZWxKaWMwaTFIUkJYU3Jub0xyUmhwa3NtTWFmQ2dPemRuMVNEbXBGSVpWWHY5aTJSSlFWNGNTZ05YQk9zYXgydFZLczNVYXhqNlBFOHozVDRtMXY2RUFxTTJKdlhWY2sxbUdMbnhJMHJjemtDbVg1YU5YWEJHbVdiYVhxamVzNHBFQVZmaElVckdOcmh4NDNxbk4wOUg2UQ?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-04-26T15:29:00+00:00",
+          "published": "2026-04-26T18:34:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "756e693236f2",
+          "title": "Luka Don\u010di\u0107 Injury Rumors Surface as Lakers Prepare to Return",
+          "original_title": "Surprising Luka Doncic Injury News Emerges As Lakers Return Looms - heavy.com",
+          "summary": "Heavy.com reported emerging rumors that Dallas Mavericks star Luka Don\u010di\u0107 may be dealing with an undisclosed injury, coinciding with the Los Angeles Lakers' upcoming return to action. The article emphasized that the news is unconfirmed and that the Lakers are focused on their own roster health.",
+          "key_points": [
+            "The report suggests Don\u010di\u0107 could be sidelined for upcoming games, though no official statement has been released.",
+            "Lakers' preparation remains centered on LeBron James and Anthony Davis, with no direct impact from the Don\u010di\u0107 rumor.",
+            "The article cautions readers that the injury news is speculative and should be treated as such until verified."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZjZya21fM05GVWpTcXBNMVh6S0hvWm1zVGVTeE5VbW9FeUxnTERGZ1lyaWprSEVMeVBST3lTVDI2YVVFbkdTUHZMUkREWlFNTHZ0Y1J3a0YwN0tzV19tOVJxMERXUGEwNWVSZlRKdl81VmdxaFE0MldXSF9lbTYtX1dheXlma3lEWlVrcTZWZkhuWXhURzVhb0pR?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-26T17:14:33+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "d2a3acd5f066",
+          "title": "Bronny James Gains Confidence After Scoring First Playoff Points",
+          "original_title": "Bronny James: Scoring First Playoff Points Provided Great Confidence",
+          "summary": "Bronny James recorded his first playoff points for the Los Angeles Lakers, hitting a three\u2011pointer and finishing a transition lob in Game 3. His contributions, though limited in minutes, have boosted his confidence and solidified his role in the postseason rotation.",
+          "key_points": [
+            "Bronny scored a three\u2011pointer and added a layup on a fast\u2011break, marking his first playoff points.",
+            "His performance reflects growing trust from the coaching staff despite limited playing time.",
+            "The rookie\u2019s confidence surge is viewed as a positive sign for the Lakers' depth heading into later rounds."
+          ],
+          "link": "https://lakersnation.com/bronny-james-scoring-first-playoff-points-provided-great-confidence/",
+          "source": "Lakers Nation",
+          "published": "2026-04-26T17:05:27+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "3517c733879d",
+          "title": "Live Updates: Lakers vs. Rockets Play-by-Play on Yahoo Sports",
+          "original_title": "Los Angeles Lakers @ Houston Rockets: Live game updates, stats, play-by-play - Yahoo Sports",
+          "summary": "Yahoo Sports provided real\u2011time play\u2011by\u2011play coverage, statistics, and live updates for the Los Angeles Lakers' game against the Houston Rockets. The feed tracked scoring runs, player rotations, and key moments throughout the contest.",
+          "key_points": [
+            "The live feed highlighted lead changes, notable defensive stops, and individual player stats.",
+            "Statistical snapshots included shooting percentages, rebound totals, and assist counts for both teams.",
+            "Yahoo\u2019s play\u2011by\u2011play allowed fans to follow the game's flow in real time, including time\u2011outs and foul trouble."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSlBCV1l0bG1ScFBVZ2xvU3Y0Rk1pZlZXRUVZY2sxUWRVdENtTjhvYTlYNXBBUWlieWY1dnJRUzkwdjlmcV9Zb055NGk5SnR0ZlVVQXNVN2tEWlVkaTB4YkcybHpRX2NFOTBNN29ramFSNHlDLVk4ZkQxLTA1OXZXbA?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-26T16:02:06+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "bead2382a5d0",
+          "title": "How to Watch Lakers vs. Rockets Playoff Game 4 on April 26",
+          "original_title": "Where to watch Los Angeles Lakers vs Houston Rockets Playoffs: TV channel, start time, streaming for April 26 - USA Today",
+          "summary": "USA Today outlined the broadcast details for Game 4 of the Lakers\u2011Rockets playoff series, including TV channels, streaming options, and start time. The preview also highlighted two key storylines to watch during the matchup.",
+          "key_points": [
+            "Game 4 will air on TNT at 8:30\u202fp.m. ET, with streaming available via the TNT app, Max, and participating cable providers.",
+            "Key storylines: the Rockets' \u201cDream Shake\u201d offense and the Lakers' effort to contain it while seeking a series\u2011tying win.",
+            "The article aggregates information from Sports Illustrated and other sources to help fans locate the broadcast."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdkJtNkYtVHQ2T2NjMFRlc2ZjTk1NOW1yWDZHU0FLb2lObElEYTg4cV9TM1V6dnJtMTItR0tPeVRWYmw1Y2hnQ3FCZ1U5Rzkzc2hhSmp1RFVvckdiOEEzTjdzclU3WWIxR0Rfb2tOUmZpOVpvTkdWOGc5R0ZLLUxYOWdBTklQamxpN0VkRnVyWDhhajZFMURkaWJ3VHRvb181WUhySmY4Vm82VEFUaWdUWE9wd2s5b0p0d3pQbEVaRXE1QWo0dHlVNXFuOFJBM19IanV1LVYyWGttWWJhcFotZS14Yw?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-26T15:31:00+00:00",
           "topic": "Lakers News"
         },
         {
           "id": "50f54de4a5d9",
-          "title": "Lakers Assistant Lindsey Harding Joins Prime Video as WNBA Analyst",
+          "title": "Lakers Assistant Coach Lindsey Harding Joins Prime Video as WNBA Analyst",
           "original_title": "Lakers Assistant Coach Lindsey Harding Joining Prime Video As WNBA Studio Analyst",
-          "summary": "Lakers assistant coach Lindsey Harding, a former WNBA star, has been hired by Prime Video to serve as a studio analyst for WNBA broadcasts. Her appointment reflects head coach JJ Redick's strategy of blending veteran and emerging coaching talent on his staff.",
+          "summary": "Lindsey Harding, a former player and current assistant coach for the Los Angeles Lakers, will transition to a media role as a studio analyst for Prime Video's WNBA coverage. Her move reflects head coach JJ Redick's strategy of assembling a staff that blends veteran experience with emerging coaching talent.",
           "key_points": [
-            "Harding transitions from NBA coaching duties to a media role covering the WNBA.",
-            "Her experience as a player and coach is expected to add valuable insight to broadcasts.",
-            "The move underscores the Lakers' emphasis on developing young coaches within the organization."
+            "Harding leaves the Lakers' coaching staff to work as a WNBA studio analyst for Prime Video.",
+            "Her hiring aligns with JJ Redick's approach of mixing seasoned and younger coaches on his staff.",
+            "Harding brings playing experience and recent coaching insight to the broadcast booth."
           ],
           "link": "https://lakersnation.com/lakers-assistant-coach-lindsey-harding-joining-prime-video-as-wnba-studio-analyst/",
           "source": "Lakers Nation",
@@ -39,11 +99,11 @@
           "id": "7ea198ecdc74",
           "title": "Byron Scott Explains 1987 Trade for Mychal Thompson",
           "original_title": "\"Not a knock on A.C. Green or Kurt Rambis\" - Byron Scott reveals why the L.A. Lakers traded for Mychal Thompson in 1987 - Basketball Network",
-          "summary": "Byron Scott clarified that the Lakers' 1987 trade for Mychal Thompson was not a criticism of teammates A.C. Green or Kurt Rambis. He explained the front office\u2019s desire for a versatile big man to complement the existing roster and improve depth.",
+          "summary": "Former Lakers guard Byron Scott clarified that the 1987 trade for Mychal Thompson was not a criticism of teammates A.C. Green or Kurt Rambis, but a strategic move to add size and veteran leadership. The trade aimed to bolster the roster for a championship push during the Showtime era.",
           "key_points": [
-            "The trade was motivated by the need for a defensive anchor and veteran presence.",
-            "Scott emphasized that Green and Rambis remained valued contributors.",
-            "Thompson\u2019s size and experience were seen as assets for the Lakers' championship aspirations."
+            "The trade was motivated by a need for additional front\u2011court size and experience.",
+            "Scott emphasized that the move was not a slight against Green or Rambis.",
+            "Mychal Thompson\u2019s acquisition was part of the Lakers\u2019 broader championship strategy in the late 1980s."
           ],
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX0xNSkpQWVhsTzg5OE1heU9VRm40UV9va2xud3d5YmxMWEFEbmpVQ1lBMG9ZbHdfU2k2OWkxcVM0UDNOY2tNVEdmOXJUaGJCZ21nbzNwSWxubnpTem94NkgzbVZlMFhqN3pOTTFObkt4eHNHU1dyYklOaGtBOVYwZUhqNmZ6ZzlBLVptY0hENHpObEE5VUhKUEduNl9XY3N0YkdKZUtpcDlHTzNCSlRCWWpKaXktSk5nN004?oc=5",
           "source": "Google News - Lakers",
@@ -51,29 +111,14 @@
           "topic": "Lakers News"
         },
         {
-          "id": "be9e8e11ea04",
-          "title": "2026 Playoffs Odds: Lakers Favored to Sweep Rockets Despite Odds Favoring Houston",
-          "original_title": "2026 NBA playoffs first-round series odds: Lakers go for sweep, but Rockets are favored - The New York Times",
-          "summary": "Betting markets for the 2026 NBA playoffs show the Los Angeles Lakers as slight favorites to complete a sweep of the Houston Rockets, even though overall series odds give the Rockets a marginal edge. Analysts point to the Lakers' recent momentum and depth as key factors.",
-          "key_points": [
-            "Oddsmakers list the Lakers at a modest advantage for a series sweep.",
-            "Overall series odds still slightly favor the Rockets, reflecting uncertainty.",
-            "Recent performance trends and roster health are influencing the betting lines."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeGhIZ1F2dlNuRV9LbjF0UzNvd25ONF9vbTFOUThDVVczMm1nMEpGMy03TUYteThBQWdtU3I1d294WGdONDJrSHFETUhsdWNqTVpreDZLaUtiOFV0TUMxYWlCcTNvUG45ejdWcGhkZlQzc3RMenh2N0h1MXNPQjlFMFBMTFg1SVphSGdfRktZZ1RyMms?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-26T14:22:24+00:00",
-          "topic": "Lakers News"
-        },
-        {
           "id": "d11d0ef66975",
-          "title": "Lakers Pull Off Historic Comeback to Win Game 3 vs. Rockets",
+          "title": "Lakers Pull Off Historic Comeback to Beat Rockets in Game 3",
           "original_title": "Lakers Achieved Rare NBA Playoffs History With Game 3 Comeback Vs. Rockets",
-          "summary": "In a dramatic Game 3, the Los Angeles Lakers erased a six\u2011point deficit with under 35 seconds left, thanks to clutch plays by Marcus Smart and LeBron James. The comeback secured a 3\u20110 series lead and marked a rare playoff turnaround in NBA history.",
+          "summary": "The Los Angeles Lakers rallied from a six\u2011point deficit with 34.4 seconds left to defeat the Houston Rockets, securing a rare playoff comeback. Marcus Smart and LeBron James combined for the decisive play that turned a likely loss into a win, marking a notable moment in NBA postseason history.",
           "key_points": [
-            "Lakers trailed 101\u201195 with 34.4 seconds remaining before scoring 9 points.",
-            "Marcus Smart and LeBron James combined for the decisive basket and free throws.",
-            "The victory gave the Lakers a historic 3\u20110 lead, a feat seldom achieved in the playoffs."
+            "Lakers trailed 101\u201195 with under 35 seconds remaining before the comeback.",
+            "Marcus Smart and LeBron James executed the critical sequence that clinched the victory.",
+            "The win represents an uncommon late\u2011game turnaround in NBA playoff lore."
           ],
           "link": "https://lakersnation.com/lakers-comeback-win-game-three-rockets-rare-history-nba-playoffs/",
           "source": "Lakers Nation",
@@ -81,78 +126,33 @@
           "topic": "Lakers News"
         },
         {
-          "id": "375b0801215e",
-          "title": "Marcus Smart Urges Lakers to \u2018Be Like a Lion\u2019 in Game 4",
-          "original_title": "Marcus Smart Implores Lakers To \u2018Be Like A Lion\u2019 In Game 4 Against Rockets",
-          "summary": "Marcus Smart, signed last summer after winning Defensive Player of the Year, emphasized the need for the Lakers to play with intensity in Game 4 against the Rockets. He highlighted his role in delivering clutch defensive plays throughout the playoffs, aligning with the team's expectations for his impact.",
+          "id": "1ae6926617f1",
+          "title": "Rockets\u2019 Game 3 Meltdown Becomes Historic Moment",
+          "original_title": "Rockets Make History in Game 3 Meltdown vs. Lakers - Yahoo Sports",
+          "summary": "Houston\u2019s Game 3 loss to the Los Angeles Lakers was marked by a dramatic collapse that entered the record books. The Rockets surrendered a lead in the final seconds, resulting in a historic turnaround that will be remembered for its rarity in playoff contexts.",
           "key_points": [
-            "Smart\u2019s signing is considered one of the most impactful moves of the offseason.",
-            "He has consistently contributed winning defensive plays in the postseason.",
-            "Smart called on teammates to play with lion\u2011like aggression in the upcoming game."
+            "The Rockets held a late lead before the Lakers\u2019 comeback in the final minute.",
+            "The collapse is noted as a historic playoff meltdown for Houston.",
+            "The game highlights the volatility of momentum in postseason basketball."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRktOczg0ZGR4TlE2SlgyLUhXRk9nc0czemlOZzJST1otbGMweks2cU9nODBhNzZZYnZLZTNvcGV6SG1la0xTZFViaWRVei1kbmJPakptNlJLbjBGaGlnekxoNk8tQXByWUh3TVNaMEliQUxpb0R4TzBmVWJRTHRGdE9JTUNCSWc?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-26T14:00:04+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "375b0801215e",
+          "title": "Marcus Smart Urges Lakers to \u2018Be Like a Lion\u2019 Ahead of Game 4",
+          "original_title": "Marcus Smart Implores Lakers To \u2018Be Like A Lion\u2019 In Game 4 Against Rockets",
+          "summary": "Marcus Smart, whose offseason signing has been praised for its defensive impact, delivered a motivational message to his teammates before Game 4 against the Rockets. He emphasized toughness and unity, echoing the lion motif as the Lakers seek to close the series.",
+          "key_points": [
+            "Smart\u2019s leadership is highlighted as a key factor in the Lakers\u2019 playoff run.",
+            "He called on the team to embody the strength and ferocity of a lion.",
+            "The message came ahead of a pivotal Game 4 matchup with Houston."
           ],
           "link": "https://lakersnation.com/marcus-smart-lakers-mindset-closeout-game-4-against-rockets/",
           "source": "Lakers Nation",
           "published": "2026-04-26T13:05:27+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "3742c1563cf3",
-          "title": "Luka Don\u010di\u0107 Out for Game 4 vs. Rockets",
-          "original_title": "Lakers star Luka Doncic ruled out for Game 4 vs. Rockets - USA Today",
-          "summary": "The Lakers confirmed that star guard Luka Don\u010di\u0107 will miss Game 4 against the Houston Rockets due to injury. The absence leaves the team without one of its primary offensive catalysts heading into a critical playoff matchup.",
-          "key_points": [
-            "Don\u010di\u0107 is ruled out for health reasons.",
-            "Lakers lose a key scorer and playmaker for the game.",
-            "The injury could affect the team's offensive strategy against Houston."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUV9SZThHZXJBSjR3UFVfVzZCeEVpaEZrRWlFeTlHcWhTLWdsdTN5MzdFR0RYME0teHQybzU4UjhrMGxJUVVtdmtkREVINm9OMllTNVlsQW9hMDd6VS1SYy12SXRxeUdTOHNVbzZodnAxaEJKLVVGZTg2aVV1TnNSSE01eHk1R0h0SVM1Z0M4elVkQUdOSTNJNk96THRHQlNWbnYxaGVyLUpqeGxJdF9uUktn?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-26T12:40:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "0990e21738b3",
-          "title": "How to Watch Lakers vs. Rockets Game 4 on NBC",
-          "original_title": "How to Watch Los Angeles Lakers vs. Houston Rockets Game 4 - NBC TV Network",
-          "summary": "A guide was published outlining the broadcast details for Game 4 between the Los Angeles Lakers and the Houston Rockets. The game will be available on NBC\u2019s national feed, with streaming options listed for viewers.",
-          "key_points": [
-            "Game 4 will air on NBC nationwide.",
-            "Streaming options include NBC\u2019s website and affiliated apps.",
-            "The guide provides channel numbers and start time for the matchup."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPa0hfcU5tR29sUm5sYW9PTUE5QzNVU1hNbFVEUDIwVnYweEs5YlFRNHdOZ2FyQWV6OEw2TVVYZ3RZMV96bDRhLXdPUjUxQU14VU1pSTE4WFBzSmdnZjZLV1ptUkNMZ0FYMEg2TF9tSG1rb0x1NXdaa2Iyc0dMOVJnR0NiMFUya3JJTG9MaFJFdzVFWXc?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-26T12:06:01+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "42e8a1c98f0d",
-          "title": "Luke Walton Leads All\u2011Around Attack in Game 3 Win Over Nuggets",
-          "original_title": "This Day In Lakers History: Luke Walton Headlines All-Around Attack In Game 3 Win Over Nuggets",
-          "summary": "On this day in Lakers history, former player\u2011coach Luke Walton spearheaded a balanced offensive performance that helped Los Angeles defeat the Denver Nuggets in Game 3. The victory was noted by former GM Mitch Kupchak and the late owner Dr. Jerry Buss as a turning point away from mediocrity.",
-          "key_points": [
-            "Walton\u2019s versatile play was central to the Lakers\u2019 Game 3 win.",
-            "The performance was highlighted by former GM Mitch Kupchak and owner Dr. Jerry Buss.",
-            "The game marked a shift toward a more competitive Lakers identity."
-          ],
-          "link": "https://lakersnation.com/this-day-lakers-playoff-history-luke-walton-headlines-all-around-attack-game-3-win-over-nuggets/",
-          "source": "Lakers Nation",
-          "published": "2026-04-26T12:00:36+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "3517c733879d",
-          "title": "Live Updates: Lakers @ Rockets \u2013 Yahoo Sports Play\u2011by\u2011Play",
-          "original_title": "Los Angeles Lakers @ Houston Rockets: Live game updates, stats, play-by-play - Yahoo Sports",
-          "summary": "Yahoo Sports provided real\u2011time coverage of the Los Angeles Lakers\u2019 game against the Houston Rockets, delivering play\u2011by\u2011play commentary, live statistics, and updates throughout the contest. The feed allowed fans to follow the action as it unfolded.",
-          "key_points": [
-            "Live play\u2011by\u2011play and statistical updates were available on Yahoo Sports.",
-            "The service offered real\u2011time scores, player stats, and game momentum.",
-            "Fans could track the Lakers\u2011Rockets matchup minute\u2011by\u2011minute."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSlBCV1l0bG1ScFBVZ2xvU3Y0Rk1pZlZXRUVZY2sxUWRVdENtTjhvYTlYNXBBUWlieWY1dnJRUzkwdjlmcV9Zb055NGk5SnR0ZlVVQXNVN2tEWlVkaTB4YkcybHpRX2NFOTBNN29ramFSNHlDLVk4ZkQxLTA1OXZXbA?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-26T11:57:59+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -161,153 +161,153 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "a8d7a2c8591d",
-          "title": "Anthony Edwards sidelined with knee injury",
-          "original_title": "Sources: Ant avoids ligament tear, to miss time",
-          "summary": "Timberwolves forward Anthony Edwards suffered a bone bruise and hyperextension in his left knee. The injury is expected to keep him out for several weeks, according to sources cited by ESPN.",
+          "id": "3e4ff7c36a23",
+          "title": "Victor Wembanyama cleared to play in Spurs\u2011Trail Blazers Game 4",
+          "original_title": "Victor Wembanyama cleared from concussion protocol to play in Spurs-Trail Blazers Game 4",
+          "summary": "Victor Wembanyama has been removed from the concussion protocol and is eligible for Game 4 against Portland. The Spurs lost Game 2 when he was injured, but secured a win in Game 3 while he watched from the bench.",
           "key_points": [
-            "Edwards diagnosed with a bone bruise and hyperextension in his left knee.",
-            "Projected recovery timeline is multiple weeks.",
-            "Timberwolves will be without their star player during his absence."
+            "Wembanyama cleared to play after concussion protocol.",
+            "Spurs lost Game 2 due to his injury.",
+            "Spurs won Game 3 in Portland with Wembanyama in street clothes."
           ],
-          "link": "https://www.espn.com/nba/story/_/id/48600211/sources-anthony-edwards-avoids-ligament-damage-multiple-weeks",
-          "source": "ESPN NBA",
-          "published": "2026-04-26T17:41:39+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "b2977f3f168c",
-          "title": "McDaniels' late layup sparks skirmish in Nuggets loss",
-          "original_title": "McDaniels' late layup irks Jokic in Nuggets loss",
-          "summary": "Jaden McDaniels scored a decisive layup in the final minutes of Game 4, giving Minnesota a 112-96 win over Denver and a 3-1 series lead. The play led to a confrontation with Nikola Jokic, resulting in ejections for several players.",
-          "key_points": [
-            "McDaniels' layup sealed a 16-point victory and a 3-1 lead in the series.",
-            "Nikola Jokic confronted the play, leading to a bench-clearing incident.",
-            "Multiple players were ejected following the altercation."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48597565/mcdaniels-jokic-clash-end-timberwolves-game-4-win",
-          "source": "ESPN NBA",
-          "published": "2026-04-26T17:41:39+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "e6496df63299",
-          "title": "Karl-Anthony Towns records first playoff triple-double",
-          "original_title": "'Like Magic': KAT's triple-double keys Game 4 win",
-          "summary": "Karl-Anthony Towns posted his inaugural playoff triple-double, helping the New York Knicks defeat the Atlanta Hawks 114-98 in Game 4. The win tied the series at 2-2.",
-          "key_points": [
-            "Towns tallied a triple-double, the first of his postseason career.",
-            "Knicks' 114-98 victory evened the series with the Hawks.",
-            "The performance highlighted Towns' all\u2011around impact on both ends of the floor."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48595775/karl-anthony-towns-triple-double-helps-knicks-even-series",
-          "source": "ESPN NBA",
-          "published": "2026-04-26T17:41:39+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "ae6461c3d45d",
-          "title": "Shai Gilgeous\u2011Alexander scores 42 to silence Suns",
-          "original_title": "SGA lets game do talking, silences Suns with 42",
-          "summary": "After criticism from the Phoenix Suns' Dillon Brooks, Shai Gilgeous\u2011Alexander responded with a career playoff\u2011high 42 points in Game 3. The Thunder won, moving one game away from completing a series sweep.",
-          "key_points": [
-            "Gilgeous\u2011Alexander delivered 42 points, the most ever in his playoff career.",
-            "Oklahoma City Thunder took a commanding lead in the series.",
-            "The performance addressed prior accusations of foul baiting."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48595538/gilgeous-alexander-scores-42-puts-thunder-verge-sweep",
-          "source": "ESPN NBA",
-          "published": "2026-04-26T17:41:39+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "6fb2ab1588e5",
-          "title": "Desmond Bane's 7 threes lift Magic past Pistons",
-          "original_title": "Bane, Magic's added 'dimension,' nets 7 3s in win",
-          "summary": "Desmond Bane hit seven three\u2011pointers and finished with 25 points as the Orlando Magic overcame a 17\u2011point fourth\u2011quarter deficit to beat the Detroit Pistons 113-105. The win gave Orlando a 2-1 edge in the first\u2011round series.",
-          "key_points": [
-            "Bane connected on seven triples, scoring 25 points total.",
-            "Magic erased a large fourth\u2011quarter hole to secure the victory.",
-            "Orlando leads the series 2-1 after the win."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48593209/orlando-magic-hold-detroit-pistons-take-2-1-series-lead",
-          "source": "ESPN NBA",
-          "published": "2026-04-26T17:41:39+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "64c14c389df2",
-          "title": "Durant Improving,{but G4 Status vs. Lakers Unclear}",
-          "original_title": "Durant improving, but G4 status vs. Lakers unclear",
-          "summary": "Houston Rockets coach Ime Udoka reported that Kevin Durant's health is trending upward, but his availability for Game 4 against the Los Angeles Lakers remains uncertain. The Rockets face elimination, making Durant's potential return a critical factor.",
-          "key_points": [
-            "Durant is showing signs of improvement after injury.",
-            "Udoka said his status for Game 4 is still undecided.",
-            "The Rockets need a win to avoid elimination."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48592002/kevin-durant-improving-game-4-status-vs-lakers-unclear",
-          "source": "ESPN NBA",
-          "published": "2026-04-26T17:41:39+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "718cdbe483e4",
-          "title": "Booker Injured on Dort's Trip, Unclear Intent",
-          "original_title": "Suns' Booker hurt on Dort's trip, questions intent",
-          "summary": "Phoenix Suns star Devin Booker left Game 3 with a left ankle injury after a collision with Oklahoma City Thunder guard Lu Dort. Booker said he does not know whether Dort intentionally stuck his foot out to trip him.",
-          "key_points": [
-            "Booker exited the game with a left ankle injury.",
-            "The incident involved a potential trip by Lu Dort.",
-            "Booker expressed uncertainty about Dort's intent."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48595089/suns-booker-injures-ankle-dort-trip-questions-intent",
-          "source": "ESPN NBA",
-          "published": "2026-04-26T17:41:39+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "41f5031edff7",
-          "title": "NBA Coaching Carousel: Latest Open Jobs",
-          "original_title": "\ud83c\udfc0 NBA coaching carousel: Latest on open jobs",
-          "summary": "Milwaukee has hired its next head coach, while the Chicago Bulls and New Orleans Pelicans continue their searches for long\u2011term solutions. The article outlines each franchise's current status and upcoming steps.",
-          "key_points": [
-            "Milwaukee Bucks have selected a new head coach.",
-            "Chicago Bulls are still evaluating candidates for a permanent coach.",
-            "New Orleans Pelicans are also seeking a long\u2011term coaching fit."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48413861/nba-coaching-carousel-firings-hirings-next-job",
-          "source": "ESPN NBA",
-          "published": "2026-04-26T17:41:39+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "0129e046143b",
-          "title": "Where to Watch Spurs vs. Trail Blazers Game 4",
-          "original_title": "Where to watch San Antonio Spurs vs. Portland Trail Blazers Game 4 NBA playoffs: Live stream, start time, TV channel, odds for Sunday, April 26",
-          "summary": "The San Antonio Spurs and Portland Trail Blazers will meet in Game 4 of their first\u2011round playoff series on Sunday, April 26. The article provides streaming options, start time, TV channel, and betting odds.",
-          "key_points": [
-            "Game 4 of the Spurs\u2011Blazers series takes place on April 26.",
-            "Details include live\u2011stream platforms, TV channel, and start time.",
-            "Betting odds for the matchup are also listed."
-          ],
-          "link": "https://sports.yahoo.com/nba/article/where-to-watch-san-antonio-spurs-vs-portland-trail-blazers-game-4-nba-playoffs-live-stream-start-time-tv-channel-odds-for-sunday-april-26-163000911.html",
+          "link": "https://sports.yahoo.com/nba/breaking-news/article/victor-wembanyama-cleared-from-concussion-protocol-to-play-in-spurs-trail-blazers-game-4-184251567.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-04-26T16:30:00+00:00",
+          "published": "2026-04-26T18:42:51+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "1ff8cf7b0eec",
-          "title": "Celtics vs. 76ers Game 4 Preview and Prediction",
-          "original_title": "Celtics vs 76ers NBA Playoff Game 4 Prediction: Odds, recent stats, trends and best bets for April 26",
-          "summary": "Yahoo Sports previews Game 4 of the Eastern Conference semifinals between the Boston Celtics and Philadelphia 76ers, offering odds, recent statistics, trends, and betting recommendations for the April 26 contest.",
+          "id": "853d295c1cbd",
+          "title": "Celtics vs. 76ers prop projections highlight Payton Pritchard\u2019s role",
+          "original_title": "Celtics vs 76ers Computer Picks: Our Best Player Prop Projections for Game 4",
+          "summary": "Yahoo Sports\u2019 computer model projects player prop outcomes for Game 4 of the Celtics\u201176ers series, emphasizing strong performances from both Boston point guards. Payton Pritchard is expected to have a breakout night.",
           "key_points": [
-            "Preview includes odds and statistical trends for Game 4.",
-            "Analysis covers recent performance of both teams.",
-            "Betting suggestions are provided for the matchup."
+            "Prop projections focus on Boston\u2019s point guard duo.",
+            "Payton Pritchard projected to exceed his usual scoring/assist totals.",
+            "Models suggest high-scoring potential for both teams\u2019 guards."
           ],
-          "link": "https://sports.yahoo.com/articles/celtics-vs-76ers-nba-playoff-161547455.html",
+          "link": "https://sports.yahoo.com/articles/celtics-vs-76ers-computer-picks-180600096.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-04-26T16:15:47+00:00",
+          "published": "2026-04-26T18:06:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "bbb6fbef16e9",
+          "title": "Donte DiVincenzo joins list of No.\u202f0 jersey players with Achilles tears",
+          "original_title": "Donte DiVincenzo becomes 4th player with No. 0 jersey to tear his Achilles in the past year",
+          "summary": "Donte DiVincenzo suffered an Achilles rupture, becoming the fourth player wearing the No.\u202f0 jersey to experience that injury in the past year. The other players are Tyrese Haliburton, Damian Lillard and Jayson Tatum, all of whom share the same jersey number and recent injury type.",
+          "key_points": [
+            "DiVincenzo\u2019s Achilles tear adds to a growing list of No.\u202f0 jersey injuries.",
+            "Tyrese\u202fHaliburton, Damian\u202fLillard and Jayson\u202fTatum also suffered Achilles ruptures this year.",
+            "The pattern highlights a concerning injury trend among players wearing No.\u202f0."
+          ],
+          "link": "https://sports.yahoo.com/nba/article/donte-divincenzo-becomes-4th-player-with-no-0-jersey-to-tear-his-achilles-in-the-past-year-174907519.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-26T17:49:07+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "c4b6e0abd024",
+          "title": "Lakers vs. Rockets Same\u2011Game Parlay preview for Playoffs Game 4",
+          "original_title": "Lakers vs Rockets Same-Game Parlay for Tonight's NBA Playoffs Game 4",
+          "summary": "Yahoo Sports presents a same\u2011game parlay for the Lakers\u2011Rockets Game 4, noting that the series is tied and the matchup is expected to be tightly contested. The picks focus on key statistical categories likely to influence the outcome.",
+          "key_points": [
+            "Series tied 2\u20112, making Game 4 decisive.",
+            "Parlay includes bets on points, rebounds and total score.",
+            "Analysts anticipate a close, low\u2011margin game."
+          ],
+          "link": "https://sports.yahoo.com/articles/lakers-vs-rockets-same-game-173000719.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-26T17:30:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "07be860d3f13",
+          "title": "Playoff preview: Nuggets face elimination, Thunder eye sweep, Pistons in trouble",
+          "original_title": "Monday's NBA playoffs: Nuggets face elimination, Thunder could sweep, and Pistons in trouble?",
+          "summary": "The article reviews the current state of the NBA playoffs, highlighting Denver\u2019s fight to avoid elimination, Oklahoma City\u2019s chance to sweep their opponent, and Detroit\u2019s precarious position. It also references the recent rivalry between the Minnesota Timberwolves and the Nuggets, who have met three times in the past four postseason years.",
+          "key_points": [
+            "Nuggets must win to stay alive in their series.",
+            "Thunder could complete a sweep in their matchup.",
+            "Timberwolves\u2011Nuggets rivalry has produced three playoff meetings in four years."
+          ],
+          "link": "https://sports.yahoo.com/articles/mondays-nba-playoffs-nuggets-face-171213453.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-26T17:12:13+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "726685be450a",
+          "title": "Nuggets\u2011Timberwolves Series Becomes a War of Attrition",
+          "original_title": "Nuggets-Timberwolves series is a war of attrition \u2014 and both teams are losing the battle",
+          "summary": "The first-round matchup between Denver and Minnesota has turned into a grueling battle, with both teams exhausting key players and resources. As the series progresses, the eventual winner is likely to emerge with limited stamina to challenge the Western Conference's elite teams.",
+          "key_points": [
+            "Both squads are experiencing fatigue and injuries after a physically demanding series.",
+            "The winner will have little left in the tank for the next round against top Western contenders.",
+            "Coaches are adjusting rotations to preserve health while still trying to secure a win."
+          ],
+          "link": "https://sports.yahoo.com/nba/article/nuggets-timberwolves-series-is-a-war-of-attrition--and-both-teams-are-losing-the-battle-170753082.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-26T17:07:53+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "63b6017ef51c",
+          "title": "Cavaliers Aim to Extend Lead in Game 4 vs. Raptors",
+          "original_title": "Cavs at Raptors Game 4 open gamethread",
+          "summary": "Cleveland enters Game 4 of the Eastern Conference semifinals looking to push its series advantage to 3\u20111 against Toronto. The game thread highlights the Cavs' strategy to maintain momentum and close out the series early.",
+          "key_points": [
+            "Cavs seek a third consecutive win to put the Raptors on the brink of elimination.",
+            "Key players such as Darius Garland and Donovan Mitchell are expected to lead the offensive push.",
+            "Toronto will need a strong defensive effort to stay alive in the series."
+          ],
+          "link": "https://sports.yahoo.com/articles/cavs-raptors-game-4-open-170423033.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-26T17:04:23+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "0d0d7d08e33b",
+          "title": "Spurs vs. Trail Blazers: Computer Picks Spotlight Scoot Henderson",
+          "original_title": "Spurs vs Trail Blazers Computer Picks: Our Best Player Prop Projections for Game 4",
+          "summary": "Algorithmic projections for the Spurs\u2011Blazers matchup predict a standout performance from rookie guard Scoot Henderson. The model\u2019s player\u2011prop picks suggest he will exceed his scoring and assist averages in Game 4.",
+          "key_points": [
+            "The computer model forecasts Henderson to record a high\u2011scoring game, potentially over 20 points.",
+            "Betting lines favor the Spurs, but the projection highlights a potential upset factor from Portland\u2019s guard.",
+            "Other prop picks include elevated rebound and assist totals for both teams' primary playmakers."
+          ],
+          "link": "https://sports.yahoo.com/articles/spurs-vs-trail-blazers-computer-170400061.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-26T17:04:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "296fe1dd7f73",
+          "title": "Celtics\u201176ers Same\u2011Game Parlay Highlights Jayson Tatum",
+          "original_title": "Celtics vs 76ers Same-Game Parlay for Tonight's NBA Playoffs Game 4",
+          "summary": "For Game 4 of the Eastern Conference semifinals, the recommended same\u2011game parlay centers on Jayson Tatum leading Boston to victory over Philadelphia. The picks combine point, rebound, and assist totals with the overall game outcome.",
+          "key_points": [
+            "Tatum is projected to exceed his usual scoring line, making him the focal point of the parlay.",
+            "The parlay includes Boston\u2019s win, a total points over/under, and a spread on the Celtics\u2019 defensive performance.",
+            "Philadelphia\u2019s key contributors are expected to be limited, supporting the Celtics\u2019 advantage."
+          ],
+          "link": "https://sports.yahoo.com/articles/celtics-vs-76ers-same-game-170300286.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-26T17:03:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "ea0a8dfce2de",
+          "title": "Knicks Edge Hawks 114\u201198 as Karl\u2011Anthony Towns Shines",
+          "original_title": "Knicks 114, Hawks 98: \u201cKAT was fantastic\u201d",
+          "summary": "New York defeats Atlanta 114\u201198, with Karl\u2011Anthony Towns delivering a standout performance that earned praise from the team. The win leaves the Knicks tied in the series, maintaining the competitive balance as the matchup heads to the next game.",
+          "key_points": [
+            "Towns posted a strong stat line, contributing significantly on both ends of the floor.",
+            "The Knicks\u2019 defense limited the Hawks to under 100 points, showcasing improved cohesion.",
+            "The series remains dead\u2011locked, setting up a pivotal Game 5."
+          ],
+          "link": "https://sports.yahoo.com/articles/knicks-114-hawks-98-kat-164751308.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-26T16:47:51+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -316,60 +316,33 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "607aaa90fcd6",
-          "title": "LeBron James Nears Kareem\u2011Era Milestone as Lakers\u2019 Top Option at Age 41",
-          "original_title": "LeBron James Nears Another Kareem Mark \u2014 This Time as Lakers\u2019 No. 1 Option at 41 - heavy.com",
-          "summary": "LeBron James is approaching a statistical benchmark previously held only by Kareem Abdul\u2011Jabbar, positioning him as the Lakers\u2019 primary offensive weapon despite being 41 years old. The article highlights his durability, scoring consistency, and the impact of his veteran leadership on a rebuilding Los Angeles roster.",
-          "key_points": [
-            "James is within striking distance of surpassing Kareem\u2019s all\u2011time Lakers scoring record.",
-            "At 41, he remains the team\u2019s leading scorer and playmaker, logging heavy minutes.",
-            "His continued production is viewed as a stabilizing factor for a young Lakers squad."
-          ],
+          "id": "ba9e45983983",
+          "title": "LeBron James Nears Another Kareem Record as Lakers Eye Sweep of Rockets - heavy.com",
+          "original_title": "LeBron James Nears Another Kareem Record as Lakers Eye Sweep of Rockets - heavy.com",
+          "summary": "LeBron James Nears Another Kareem Record as Lakers Eye Sweep of Rockets&nbsp;&nbsp;heavy.com",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeWRmQWE4Q0VvdFc4bEZhQW92TUJOTVM5SlhDVmJ1QmpUcWJja3h2VUgySU1ZaWpGZEo0cG9Za3VGYUxUSjZFdlZYYzROLUxnTEFaN0ppNF9VaXpSNnlhRjhyYjJEREZJX3JmQ0d5RWRMQXdJa1BhcE4yR29jUm13R0RpYW1Fbl9NSjEzb3Qxb0NZZw?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-04-26T16:45:19+00:00",
+          "published": "2026-04-26T16:48:59+00:00",
           "topic": "Lakers Players"
         },
         {
           "id": "e0bc8691cba7",
-          "title": "Lakers Injury Update: Luka Don\u010di\u0107\u2019s Availability for Houston Game",
+          "title": "Lakers Injury Update: Is Luka Doncic Available Against the Houston Rockets? (April 26, 2026) - TWSN",
           "original_title": "Lakers Injury Update: Is Luka Doncic Available Against the Houston Rockets? (April 26, 2026) - TWSN",
-          "summary": "The report provides the latest health status of Luka Don\u010di\u0107 ahead of the Lakers\u2019 matchup with the Houston Rockets on April 26, 2026. It outlines his recent injury, the medical team\u2019s assessment, and the potential impact on the Lakers\u2019 rotation if he is cleared to play.",
-          "key_points": [
-            "Don\u010di\u0107 suffered a minor ankle sprain in the previous game; scans show no serious damage.",
-            "Team doctors expect a decision by the morning of the Rockets game.",
-            "If cleared, Don\u010di\u0107 would return to a starting role, boosting the Lakers\u2019 offensive firepower."
-          ],
+          "summary": "Lakers Injury Update: Is Luka Doncic Available Against the Houston Rockets? (April 26, 2026)&nbsp;&nbsp;TWSN",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNkNwYzFoOEU4ZkMxODFvaUFIaDliOVU2emh2b2JoRV9UUmZhLVhXa0k1eFdfTFUwcnIwQk02NFVLakZIYU1UdDRTLUJkdXZSRHRZQW51Ty1uMDZNVlJpTXd5bjJ0b0dtdzlUZWEtY3BYWHlKdGJuREthOGZlS0tvSTNtaWxCdEhtZDdDYk1sZ2s3akpZQU1Bbm1pUWdQVWF2ekpfRmc2SVhEcHdCbm8xSDhWT0dEQms?oc=5",
           "source": "Google News - Luka",
           "published": "2026-04-26T16:13:37+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "61fe6553d743",
-          "title": "LeBron James\u2019 Sex Comedy Set for Netflix Release",
-          "original_title": "LeBron James\u2019 Sex Comedy Sets Netflix Streaming Date - Yahoo",
-          "summary": "LeBron James is starring in a new adult\u2011oriented comedy that has secured a streaming debut date on Netflix. The article outlines the film\u2019s premise, James\u2019s role, and the platform\u2019s promotional strategy ahead of the launch.",
-          "key_points": [
-            "The movie, a raunchy comedy, marks James\u2019s first major acting credit in a streaming\u2011original film.",
-            "Netflix announced a release window for late summer 2026.",
-            "James\u2019s involvement is expected to draw both basketball fans and comedy audiences to the platform."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZlBQeEtwdlVMRkxidEc5VTU1d0dqSklyYTNCWWptWS1VSXo1YmNTUl9zNGZFUHFMcjh3ZzQyd0N4TlV0ZWd4cEpFa3JjWmJMQzBodW1UMkxqRVN2S1JEZnIyUkpYY0J4TWdKX2J3RWNXSHlmWmppdkNHeEdYbnRHQnd5cWRKazl2aExYXzFxYjVVN0ZCc09TdEZJWQ?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-26T16:00:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
           "id": "26c95c2610fe",
-          "title": "Debate Ignites Over Whether LeBron James Is Slowing Down",
+          "title": "Is LeBron James slowing down? Viral moment fuels fresh debate over retirement - Indulgexpress",
           "original_title": "Is LeBron James slowing down? Viral moment fuels fresh debate over retirement - Indulgexpress",
-          "summary": "A viral video clip showing LeBron James appearing less explosive has sparked renewed discussion about his age and possible retirement timeline. Analysts compare recent performance metrics to his peak years while noting his continued effectiveness in key games.",
-          "key_points": [
-            "Statistical comparison shows a modest decline in vertical leap and sprint speed.",
-            "Despite the slowdown, James still averages over 25 points and 8 assists per game.",
-            "The conversation centers on how long he can remain a top\u2011tier NBA player."
-          ],
+          "summary": "Is LeBron James slowing down? Viral moment fuels fresh debate over retirement&nbsp;&nbsp;Indulgexpress",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdGJzVTU0bW84UG5TZmdJc3BUejBXYzNrZmxJY3c0VkVSemNmVDdrWUlZN0NKVGRLWnVQVHM5N1dKY0NVNnZ0bXRpMW4tVVR4eGtyT1drSmVfa1ZISml5WW14WktXbGd6cnFDd0JrMUYzYTFvQ19uN1VNV19INTl3bHlsaXgyclIzVkhINllUWUdTcWdUUGRlSGVXYWZVV0laY2Z5bjY1MmZhT1I3UHpRdFpXc25oSnlKMkQxREFKVGJPMTFUYUVqazlIbEVVUXlCS0lJZVc1eTZGeVZRTlM5UjVGdEdFWUEz0gH2AUFVX3lxTE5rYnVDak50azJpSExLY0tmTlh5R3E0MTFkdkIxT0l4aGV4NWlyZEJLeENobGVCV0o0STcxSG5oY2VxM0NIT05FMXc3cTZJTzEyWkl0MUNHakZpTldEaTdwbXZZb3ZWcjJkQUR2SXMyVmVseEFQanZnWFFrUHFNRmdJRi1DWll3Y0hzSU53UmlBSmdzcW5lWHNBakROTkxYNm9QNjFEa2xJX2tmRDAzR3ZvMG9WQ2FCbUUzOEViUDRjM2dnOURtalc4SzlRV0tycW4weUpObFloYlBiQWtsR1o2RGxfT2Q5NHlCeHlLbkR6bVBYc0o4UQ?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-04-26T15:16:07+00:00",
@@ -377,14 +350,10 @@
         },
         {
           "id": "f14b20e40ef9",
-          "title": "LeBron James, Kevin Durant and the Possible Final Chapter of Their Rivalry",
+          "title": "LeBron James, Kevin Durant and a legendary rivalry\u2019s possible last stand - The New York Times",
           "original_title": "LeBron James, Kevin Durant and a legendary rivalry\u2019s possible last stand - The New York Times",
-          "summary": "The New York Times examines the historic rivalry between LeBron James and Kevin Durant as both superstars enter the twilight of their careers. The piece reflects on past playoff battles, recent head\u2011to\u2011head matchups, and what a final showdown could mean for NBA history.",
-          "key_points": [
-            "James and Durant have faced each other in multiple conference finals and NBA Finals.",
-            "Both players are now in their late 30s, making future meetings increasingly unlikely.",
-            "A potential final encounter would serve as a fitting capstone to one of the league\u2019s greatest rivalries."
-          ],
+          "summary": "LeBron James, Kevin Durant and a legendary rivalry\u2019s possible last stand&nbsp;&nbsp;The New York Times",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWlJSb2g5ZHNQN2tJVXpkNGFkcFdLZWZFYVlBemtKdk4wR2NVZW1NU1p6dHVKQlQ1Y29WZ2s2VVlYLVBlSHkwYi15bWVNQlRjWnNTWkhZU3UzeWJPejh3LW4yWjhoTy04dmxBZkV1MmQ3c2w0dENubkdJZFFQbDQtX1ZLRFRBZW9ubjE5b3hZcURYVlRKdHZ6ckxIb1F6UGlC?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-04-26T14:56:37+00:00",
@@ -392,77 +361,13 @@
         },
         {
           "id": "357adb9c22b8",
-          "title": "Austin Reaves and Luka Doncic Set to Return as Lakers Target Sweep of Rockets",
+          "title": "Are Lakers\u2019 Austin Reaves, Luka Doncic returning from injury to try to sweep Rockets? - ClutchPoints",
           "original_title": "Are Lakers\u2019 Austin Reaves, Luka Doncic returning from injury to try to sweep Rockets? - ClutchPoints",
-          "summary": "The Los Angeles Lakers are anticipating the return of guard Austin Reaves from a minor injury and Dallas Mavericks star Luka Doncic from an ankle sprain ahead of their matchup with the Houston Rockets. Both players are expected to be available for the final two games of the series, which the Lakers hope to close out with a sweep. The article notes the importance of Reaves' shooting and Doncic's playmaking for their respective teams.",
-          "key_points": [
-            "Austin Reaves is cleared to play after missing a game with a hamstring issue.",
-            "Luka Doncic is slated to return for the Mavericks after missing the previous contest with an ankle sprain.",
-            "The Lakers aim to finish the series 4\u20110, while the Rockets look to avoid a sweep."
-          ],
+          "summary": "Are Lakers\u2019 Austin Reaves, Luka Doncic returning from injury to try to sweep Rockets?&nbsp;&nbsp;ClutchPoints",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMTQ4NDFtWVEwMTRuMi1IUmRSQllKb1RobS1oVFZGZUFGNlJyZmw5bE9GTjdyTTZSQ3l2N1kteW8xWXhMaFA3YjJJbXpaT0dtSjZob1dsdHRjQWNoUXlZbEJfUnhSX1hpZEwtN3pWWGVYdXBoWTdhR1k1OHJtOWZhbE02NE5sOVFPRkdJQUhhWV9aSUFzdzRpUUtsU2tHU0lPcExXV3otQXlaOVNkWFR4Wg?oc=5",
           "source": "Google News - Luka",
           "published": "2026-04-26T14:52:57+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "57787c72a0d2",
-          "title": "LeBron\u2019s Lob to Bronny Stuns Fans in Slow\u2011Motion Replay",
-          "original_title": "Slo-Mo Video of LeBron James' Lob to Bronny James Leaves Fans in Disbelief - AOL.com",
-          "summary": "A slow\u2011motion video of LeBron James delivering a perfect alley\u2011oop pass to his son Bronny during a recent Lakers game has gone viral, drawing widespread amazement from viewers. The play highlighted LeBron\u2019s court vision and Bronny\u2019s finishing ability, marking one of the few father\u2011son duels in NBA history. The clip has been widely shared across social media platforms.",
-          "key_points": [
-            "LeBron threw a high\u2011arching lob that Bronny caught and dunked for two points.",
-            "The moment was captured in slow motion and quickly circulated online.",
-            "It underscores the growing role of Bronny on the Lakers roster."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9EY0syWWd1RzlLZjRyQlZEWlpwUTMySDFBeTBzT3NOSjBJbDZJVTY2ZG1Bb05yQms4cTI0eVBnLXhJdjZobm9zanZjcU9taDVSMVcwLTlCQXJmbGlGZlNtUlBvbHM2WmtmcElCV2NyQXJ6X3hEdmFDbw?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-26T14:51:40+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "53bff4806306",
-          "title": "CBS Sports Model Projects LeBron James as Top Playoff Prop Bet for 2026",
-          "original_title": "NBA player prop picks, odds, free best bets: Model backing LeBron James in 2026 NBA Playoffs on April 26 - CBS Sports",
-          "summary": "CBS Sports released a statistical model that identifies LeBron James as the most favorable player prop pick for the 2026 NBA Playoffs, despite the season being several years away. The model evaluates historical performance, age trends, and projected usage rates to generate odds and betting recommendations. The analysis is presented as a guide for bettors looking ahead to future playoff scenarios.",
-          "key_points": [
-            "LeBron James is highlighted as the leading prop bet for points, assists, and rebounds in the 2026 playoffs.",
-            "The model incorporates age\u2011adjusted performance curves and historical playoff data.",
-            "CBS Sports offers free betting odds and suggested wagers based on the projection."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbGRRQUJpajZ1dGlOT3hwZ0VvejJOWFY1OHE3eUNiRnpFQ1RCZVk5SGdYaVZZdnRFSmdpWDNyWmdlZUlZNERzV3lhWDB1SG5yQ3dFMlAzaklSczJrTk9GVjRrWnR5aG5kZFZmMF9KM1p4QXhrelZBaVgzVWNxWmhZNkZYel80VXdZcV85bkt2dWZUNlpYSDktRk1SMmZxM1pJTG56ZXQ5T194c0tzT3M3VEVWRGxwRGtXLTItd0F3TkJWSGhPZnVTTnZCOA?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-26T13:24:12+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "47d0e9f9744d",
-          "title": "Shannon Sharpe Defends LeBron James Against Age\u2011Related Critics",
-          "original_title": "Shannon Sharpe on critics who feel LeBron James is too old to produce - LeBron Wire",
-          "summary": "Former NFL analyst Shannon Sharpe responded to commentators who claim LeBron James is past his prime, arguing that the veteran\u2019s production remains elite. Sharpe cited recent statistical outputs and the Lakers\u2019 success as evidence that age has not diminished LeBron\u2019s impact. The piece captures Sharpe\u2019s broader point that performance, not chronology, should dictate evaluations.",
-          "key_points": [
-            "Sharpe rebuts claims that LeBron\u2019s age limits his effectiveness.",
-            "He points to LeBron\u2019s continued high\u2011level scoring, playmaking, and leadership.",
-            "The discussion frames the debate around performance metrics rather than age alone."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaVYwamlHdjRaazNFYzFzeXhOMGVnTGhoY2xHUG1tWExKdUJLcDh0dnpOR2lDeDVLTmhBTWZ0YWJkUG5sQlM0Tk5JelctNWhhaXY3enBaV2l4QlF6UWN2SUcxdUM5U3ZiejI2LUxNVGtxT1JQQ1NRM3JDTkFiSDNnU1JGYVFUZ3Z2MlgwbkNLamZkVThIVHJLT3lGdFNBbDVXV1RJSXc1WGFNYnpfRFRkNkc3WU1RZ0ZoOVJjWkdPYlVrSDd4N2xBM2RKcVRSMTNOTS1TSWxoS24yRUVMQkRhNWJXOA?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-26T12:02:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "e2c8f051d148",
-          "title": "LeBron James Remains Unstoppable as NBA\u2019s Oldest Active Player",
-          "original_title": "LeBron James Is the Oldest Player in the NBA\u2014and He\u2019s Still Absolutely Unstoppable - WSJ",
-          "summary": "The Wall Street Journal profiles LeBron James, emphasizing that at 39 he is the league\u2019s oldest player yet continues to dominate on both ends of the floor. The article details his scoring averages, durability, and influence on the Lakers\u2019 playoff positioning. It concludes that James\u2019 blend of experience and athleticism keeps him among the sport\u2019s elite performers.",
-          "key_points": [
-            "LeBron leads the league in several advanced metrics despite being the oldest player.",
-            "His conditioning and skill set allow him to log heavy minutes with minimal decline.",
-            "James\u2019 presence is a key factor in the Lakers\u2019 contention for a deep playoff run."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1VdTl5RTJjc1FpZzlEOXFMZWxWVjMyVGx2eTBranBlRTFDcFIwVnl1S2tZZDN6VXd5T1NfQS1CNmIzbDNvYlJGZVZ1Q1RYM2dfbzQyLTFjRTgwdTRHSHRjMkxoSnNXZWtUQ1dxRzdEdlhYQVI0?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-26T12:00:00+00:00",
           "topic": "Lakers Players"
         }
       ]
