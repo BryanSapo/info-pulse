@@ -1,80 +1,124 @@
 {
-  "generated_at": "2026-04-26T20:47:03.863827+00:00",
-  "total_articles": 30,
+  "generated_at": "2026-04-26T22:46:54.989745+00:00",
+  "total_articles": 25,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
-          "id": "b7b206107d15",
-          "title": "Lakers Hold Home\u2011Court Edge in First\u2011Round Series vs. Rockets",
-          "original_title": "Schedule for Lakers vs. Rockets first round playoff series",
-          "summary": "For the second consecutive season, the Los Angeles Lakers enter the playoffs with home\u2011court advantage against the Houston Rockets. Despite the advantage, analysts note that the series is unlikely to improve on the competitiveness of the previous year, and the Lakers\u2019 roster has changed significantly since their last meeting.",
+          "id": "a9eacf9eb565",
+          "title": "Kevin Durant\u2019s Availability for Tonight\u2019s Lakers Game",
+          "original_title": "Is Kevin Durant playing tonight? Latest status for today's game vs. Lakers - USA Today",
+          "summary": "USA Today reports on Kevin Durant\u2019s status ahead of the matchup against the Los Angeles Lakers. The article confirms whether Durant will suit up for the game and outlines any injury updates or coach statements. It also notes the impact his presence\u2014or absence\u2014could have on the contest.",
           "key_points": [
-            "Lakers secure home\u2011court advantage for the second straight year.",
-            "Series outlook remains pessimistic regarding a better outcome than last season.",
-            "Houston will face a markedly different Lakers lineup than in their prior matchup."
+            "Durant\u2019s participation is uncertain pending a final health check.",
+            "Team officials have provided the latest injury report.",
+            "His availability could significantly affect the Lakers\u2019 defensive game plan."
           ],
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV1JjY28weDN3RnFFVUZrbU9IdUMwSThGR2t2czBSNkIwdjc5SDlDYkdYQ1RIM2J3YkxzcU5TLUNZTkFOUkliZUxEcEpRWkhKY01oaHV5YmFZWFhRSDFZbE5QVlVQTE45anlaWGQ3b05jZ3M4UmpSU3dHd0ZOUUt0dk1BcklvZjd2V01vSWlYVjJSNU53MlJnRUJvVFp1SVlNZVppZ1BVblY3ZXZoM3RUejAyb0ItdWM4cWdlTA?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-26T21:22:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "5cc6a2f413fe",
+          "title": "JJ Redick Praises Lakers\u2019 Grit in Game 3 Win",
+          "original_title": "JJ Redick was impressed at how hard the Lakers played in Game 3",
+          "summary": "Silver Screen and Roll relays former player JJ Redick\u2019s comments after the Lakers\u2019 hard\u2011fought victory over the Rockets in Game 3. Redick highlighted the team\u2019s physical effort despite missing stars like Luka Don\u010di\u0107 and Austin Reaves, and noted the low\u2011scoring, grind\u2011type nature of the series.",
+          "key_points": [
+            "Lakers played without key contributors Luka Don\u010di\u0107 and Austin Reaves.",
+            "The game was marked by defensive intensity and low shooting percentages.",
+            "Redick commended the team\u2019s toughness and execution in a physically demanding series."
+          ],
+          "link": "https://www.silverscreenandroll.com/lakers-news/115416/lakers-rockets-jj-redick-2026-nba-playoffs",
+          "source": "Silver Screen and Roll",
+          "published": "2026-04-26T20:56:59+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "e0a3fa26486b",
+          "title": "Surprising Report of Austin Reaves\u2019 Possible Return Before Game 4",
+          "original_title": "\u2018Surprising\u2019 Austin Reaves Injury Return News Emerges Before Lakers-Rockets Game 4 - heavy.com",
+          "summary": "Heavy.com reports rumors that Austin Reaves may be cleared to play in Game 4 of the Lakers\u2011Rockets series, despite earlier injury concerns. The article emphasizes that the news is unconfirmed and comes from unnamed sources, but it could boost the Lakers\u2019 lineup if true.",
+          "key_points": [
+            "Reaves has been sidelined with an injury earlier in the series.",
+            "New information suggests a potential return for the upcoming game.",
+            "The report is not officially verified by the Lakers organization."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeEo0SkRKNzdPb0tNaHp6eVFjUDBhWnJ5VlJaTlNEZEctOFVubkkzc1ZXRkc3M2lRZVBWWkNPanBnSlhoOTdIZFFZYTF4NndkcWNYQWRaVEJ4cmNEUnBQSHMycFg4UkVxY2ZIbnpyVHoxbzJnWDFULVh2dm8yWGlOQ29xSk1SdlVkYnBZTnBmYVFrZi1XM3NBbDdQd05DYU56?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-26T20:52:04+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "3a9899dbbdb7",
+          "title": "DraftKings Picks Lakers Over Rockets for Sunday, 4/26/26",
+          "original_title": "Los Angeles Lakers vs. Houston Rockets prediction, pick for Sunday 4/26/26 - DraftKings Network",
+          "summary": "The DraftKings Network provides a preview and prediction for the Sunday matchup between the Los Angeles Lakers and the Houston Rockets. Analysts highlight recent performance trends, key injuries, and betting angles before recommending a pick for the game.",
+          "key_points": [
+            "Lakers are favored based on recent form and home\u2011court advantage.",
+            "Injury updates for both teams are factored into the prediction.",
+            "The article offers betting odds and a recommended wager for readers."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ2ROdlJRUHFMbVNRS2NrWGJDb3ZOQXJZekhGeThXaGFLVmlpQTVQTmJrUmVfRHhhM2pEZGtwbWhPNUpnZ09rS0duUzl6YjdJcEotelFNazNFRkxhWmdQSTFIZXREWkw4WmlRYjY1Y3pWZUJmWkdRbDVDUVRQODdFd1FtejhyT3Z1NGs2T2tVUnpPUUNSRVQySGlEWFA4akJSb09WRHdXaS1xWVNqbm9Mbkl4dW1OOFlI?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-26T20:49:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "91526fefa5ae",
+          "title": "Steve Kerr\u2019s Honest Take on LeBron\u2019s GOAT Debate",
+          "original_title": "Steve Kerr Makes Honest Statement on LeBron James\u2019 GOAT Case Over Michael Jordan - heavy.com",
+          "summary": "Heavy.com features former Warriors coach Steve Kerr discussing LeBron James\u2019 case for the greatest\u2011of\u2011all\u2011time title compared to Michael Jordan. Kerr offers a balanced perspective, acknowledging LeBron\u2019s achievements while noting the challenges of comparing eras.",
+          "key_points": [
+            "Kerr recognizes LeBron\u2019s statistical and longevity accomplishments.",
+            "He points out differences in competition and era that complicate direct comparisons.",
+            "The commentary remains neutral, emphasizing personal opinion over definitive ranking."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdHFXV01VaC0zTEtLbWZkNzV2SENwendjc1lESnNvenN1OW1IWk5xNUZYdHNmZ1BfMEpDR01FRDlHWmt3SFgyTFVwamhsZHV5ZHFOSDFNUTNxZkJsdnhqWjJLRTNKd256SWl4SjFzVkh4LXRnbFNncEMzLWxnX1V1WmtxUExMbjlpd3BTa2hmbkRhNk9M?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-26T20:36:24+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "b7b206107d15",
+          "title": "Schedule for Lakers vs. Rockets first round playoff series",
+          "original_title": "Schedule for Lakers vs. Rockets first round playoff series",
+          "summary": "For the second year running, the Lakers will enter the playoffs with home court advantage. Unfortunately, the odds of this series playing out better than the last remain low. The Rockets await the Lakers this postseason, but the LA side they will meet is a much different one than the one they played during the [&#8230;]",
+          "key_points": [],
           "link": "https://www.silverscreenandroll.com/lakers-news/114260/lakers-vs-rockets-schedule-2026-nba-playofffs-first-round-series-how-to-watch-stream-tv-channel",
           "source": "Silver Screen and Roll",
           "published": "2026-04-26T20:34:42+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "2956758283ca",
-          "title": "Kevin Durant Expected to Miss Game 4 vs. Lakers",
-          "original_title": "Kevin Durant Expected to Miss Game 4 of Playoffs Against Lakers - Yahoo Sports",
-          "summary": "Yahoo Sports reports that Kevin Durant is projected to sit out Game 4 of the playoff series against the Los Angeles Lakers due to injury concerns. His absence could impact the Denver Nuggets' chances if the series extends, though the immediate focus is on the Lakers\u2011Rockets matchup.",
-          "key_points": [
-            "Durant is listed as doubtful for Game 4.",
-            "Injury status may affect the Nuggets' future playoff positioning.",
-            "The report comes amid the Lakers\u2011Rockets first\u2011round series."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc2duU3FleUI5czd1RlJLUFk5Nk91SnVWSWFfM213UG5sX3U1b3ZnU042bHQzOUpuSjhkWUtodWRETlFyTFMta1o3d0V3WUpiek9GRExJc0N1WVl1RWxMSVdEOUh6UUVRSV9CMjVBZjZ2Y29GQnAtOEo3NTlYaUJjZlNfM0NmWjg?oc=5",
+          "id": "3517c733879d",
+          "title": "Los Angeles Lakers @ Houston Rockets: Live game updates, stats, play-by-play - Yahoo Sports",
+          "original_title": "Los Angeles Lakers @ Houston Rockets: Live game updates, stats, play-by-play - Yahoo Sports",
+          "summary": "Los Angeles Lakers @ Houston Rockets: Live game updates, stats, play-by-play&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSlBCV1l0bG1ScFBVZ2xvU3Y0Rk1pZlZXRUVZY2sxUWRVdENtTjhvYTlYNXBBUWlieWY1dnJRUzkwdjlmcV9Zb055NGk5SnR0ZlVVQXNVN2tEWlVkaTB4YkcybHpRX2NFOTBNN29ramFSNHlDLVk4ZkQxLTA1OXZXbA?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-04-26T20:31:57+00:00",
+          "published": "2026-04-26T20:27:34+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "b16c72530fa8",
-          "title": "Rockets Seek Silver Linings After Tough First\u2011Round Exit",
-          "original_title": "What Positives Can The Rockets Pull From A Rough First Round - Sports Illustrated",
-          "summary": "Sports Illustrated examines what positive takeaways the Houston Rockets can derive from a disappointing first\u2011round performance against the Los Angeles Lakers. The article highlights developmental progress and areas for improvement despite the series loss.",
-          "key_points": [
-            "Identifies young players gaining valuable playoff experience.",
-            "Points to specific tactical adjustments that showed promise.",
-            "Emphasizes the need for continued roster development moving forward."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORTE1RXlRNDYxV0lGNHNzb1FNVGdWbUl6d2hpdzUyM2xCOHg0SWdLWWZjb0lwUVc1Yjd2U2lXTGEwOUJrTkF5dUdRSGswR0hyZGJrQzhnenUzSFZvdWFpNW1qWFA3WTBoLTg3S0J3cW9zdDZzcmljWWNVbkx2THR0VWpoaHkyNTRSMHh2ZXJyMUR5aWEzQmFXNXp1eWk?oc=5",
+          "id": "14f2697dbb5f",
+          "title": "Report: Kevin Durant to miss Game 4 against Lakers - Reuters",
+          "original_title": "Report: Kevin Durant to miss Game 4 against Lakers - Reuters",
+          "summary": "Report: Kevin Durant to miss Game 4 against Lakers&nbsp;&nbsp;Reuters",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbTNuMERWMGVEbUdQRjlKWS1RYjRvekZJTGVlRjBJR0lUdTcyVnpCbWtrcU1GcXlnWDRYcVNIcFdzT2hiU1JRNnNoYWI1WHdoUjd5TEF3TVRHUl9OU3p5bFF1NFFyMFNBVXBnVFc0RmdCZGwwYllEYUZzM3dQSjNjVzlENlRBUW9GVUtMdXl2RmNIVWJKTURIcVh3?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-04-26T20:00:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "f2734a99b2ce",
-          "title": "Injury Concerns Loom as Lakers Aim for Sweep of Rockets",
-          "original_title": "Will Reaves and Doncic return? Lakers push for series sweep over Rockets amid injury concerns - MARCA",
-          "summary": "MARCA discusses the Lakers' push to close out the series in a sweep while dealing with injury questions surrounding players like Reaves and the potential return of Luka Don\u010di\u0107. The article notes how health issues could influence the final games of the series.",
-          "key_points": [
-            "Lakers are positioned to sweep the Rockets in the series.",
-            "Injury updates on Reaves and speculation about Don\u010di\u0107's availability are highlighted.",
-            "Health status may affect the Lakers' rotation and strategy in Game {4}."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTm9ZZmxxYUtrR0RaMlIyUjJyckRQSmswdGhmMlJjTkhKZWhULXpSMjdBRjJmYk5yYWhobkJLQ1dPX285amNtMk45aEpwNC1BdGNlcXZMdnlhbG1SVHRIaHZPZ2M2NEpsVEswQzRReUJJY0F1bEVRLUtZMVBNVnhnbGppTlpNZ3RzN0UxWDdhZDBWZGUwbFVBc3BIU1Y2dHZv0gGgAUFVX3lxTE1GeWJSRS1hSkc0UmIyYzlhSnhBbm0tbDNzQkxyVmNLQjZ5VlZDNENlS19OeVlfYTh5VGxFaDNyblhITERmN1dueVM5MmZETUlDN1RGOGpTUzFoZUFrLWZaTE9GNC1fWnNsVVhrdHAwMUVmYVAtcGZpbk5vcUJVWlEzVm1iWVA3b0VFR0s3b2sxY1VFWlY5bjF5T0xFVDJaM3A?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-26T19:58:23+00:00",
+          "published": "2026-04-26T20:10:09+00:00",
           "topic": "Lakers News"
         },
         {
           "id": "3b622d673765",
-          "title": "Is Kevin Durant Playing Tonight? Rockets vs. Lakers Game 4 Preview",
+          "title": "Is KD playing tonight? Rockets, Lakers meet in Game 4 - El Paso Times",
           "original_title": "Is KD playing tonight? Rockets, Lakers meet in Game 4 - El Paso Times",
-          "summary": "The El Paso Times addresses the question of Kevin Durant's participation in Game 4 of the Rockets\u2011Lakers series. The piece provides the latest injury report and its implications for the matchup.",
-          "key_points": [
-            "Durant's game\u2011time status remains uncertain for Game 4.",
-            "His potential absence could shift the competitive balance of the series.",
-            "The article serves as a quick preview of the upcoming game."
-          ],
+          "summary": "Is KD playing tonight? Rockets, Lakers meet in Game 4&nbsp;&nbsp;El Paso Times",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOX0ZoMDk2NlpSWE12RkoyOWxfbFd5RGVvNG1UVG1kMF9jdTRNYWRsdWlKV3pyaGVWN0VaazAzX2s0aUthMjFQTlJ4UXVGdzhRWTQxeUdsSGlUQjU5X0J0ME1RTi1ZTVlKU2VHXzEtS21kN0hjV19DNlF2M0pvU1dTZ1V5U3RWaDZUallyX2RSU09HTmVTRjNiUVFTZnpWT0RkdDYzbFJndW9zUkgybVVoMHdfaFNWYTJNaGZsTkJ3LURyekQ4LTRUSXpBZHYySkNzN1BV?oc=5",
           "source": "Google News - Lakers",
           "published": "2026-04-26T19:55:00+00:00",
@@ -82,77 +126,13 @@
         },
         {
           "id": "ec4ebad19ac6",
-          "title": "Kevin Durant Out for Game 4 with Sprained Ankle, Likely Out 2\u20113 Weeks",
+          "title": "Kevin Durant out for Game 4 with sprained ankle, likely out 2-3 weeks",
           "original_title": "Kevin Durant out for Game 4 with sprained ankle, likely out 2-3 weeks",
-          "summary": "Kevin Durant will miss Game 4 of the playoff series against the Los Angeles Lakers due to a bone bruise in his sprained ankle. The injury is expected to keep him sidelined for two to three weeks, potentially ending his participation in the postseason.",
-          "key_points": [
-            "Durant suffered a sprained ankle with a bone bruise during the series.",
-            "He will not play in Game 4 and is projected to miss 2\u20113 weeks.",
-            "His absence could mark his final game of these playoffs."
-          ],
+          "summary": "Kevin Durant may have played his last game against the Lakers these playoffs. According to Shams Charania of ESPN, Kevin Durant will not play in Game 4 with a bone bruise in his sprained ankle, an injury that will sideline him for weeks. Shams went on to report that Durant was at the team\u2019s facility [&#8230;]",
+          "key_points": [],
           "link": "https://www.silverscreenandroll.com/lakers-news/115424/lakers-rockets-injury-report-kevin-durant-sprained-ankle-status-update",
           "source": "Silver Screen and Roll",
           "published": "2026-04-26T19:42:15+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "8604cac25de5",
-          "title": "Rockets Share Kevin Durant Injury Status Ahead of Win\u2011or\u2011Go\u2011Home Game 4 vs. Lakers",
-          "original_title": "Rockets Share Kevin Durant Injury Status Ahead of Win-or-Go-Home Game 4 vs. Lakers - Sports Illustrated",
-          "summary": "The Houston Rockets released an update confirming Kevin Durant\u2019s injury status before the decisive Game 4 against the Los Angeles Lakers. The report reiterates that Durant is dealing with a sprained ankle and will not be available for the upcoming matchup.",
-          "key_points": [
-            "Durant\u2019s ankle injury is confirmed by the Rockets organization.",
-            "He will miss the crucial Game 4 versus the Lakers.",
-            "The update was distributed through Sports Illustrated."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbU9JTHF4SHlOQ0VsTkJONEhGQS14QmN5WVhpR1pDb2JPX0pFOHRfcDR3UlJZZ21PaXAzQ0JWejlBa0t4d0d4bDI3R19mbXNjcUlYR3hsV2k4cE9UYmZRam53UHVEak91YzlWSjV2NG9YRVZsX2lXVFVMZ0NFUVlDaXNiTTROWGNzZ0FmWmlhUE4tdw?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-26T19:40:34+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "3368626a8237",
-          "title": "Sources: Rockets Expected to Be Without Durant in Game 4",
-          "original_title": "Sources: Rockets expected to be without Durant in Game 4 - ESPN",
-          "summary": "Multiple sources told ESPN that the Houston Rockets anticipate Kevin Durant will sit out Game 4 against the Los Angeles Lakers due to his ankle injury. The news aligns with earlier reports from the team and league insiders.",
-          "key_points": [
-            "Insiders confirm Durant will not play in Game 4.",
-            "The decision is based on his ongoing ankle sprain.",
-            "The information was reported by ESPN."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSHZTekhWbkcwQ1QzbldXVmFGU04wZ0NwNkQ0LW9FQ3BCN1dFVXZ6YnY3MXdPY1Uxd0dpTXVocGtzX0t1SXRvLUV3MERVRjZydWJYa3NkbXpaRERKaS1KYjJlZndxbVFfY21aYmVRU0dWZ0tmZ1ljVTBIY3dxZDdQcA?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-26T19:40:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "91526fefa5ae",
-          "title": "Steve Kerr Comments on LeBron James\u2019 GOAT Debate with Michael Jordan",
-          "original_title": "Steve Kerr Makes Honest Statement on LeBron James\u2019 GOAT Case Over Michael Jordan - heavy.com",
-          "summary": "Golden State Warriors head coach Steve Kerr offered a candid perspective on LeBron James\u2019 claim to be the greatest of all time, comparing him directly to Michael Jordan. Kerr\u2019s remarks were featured in a heavy.com article discussing the broader GOAT conversation.",
-          "key_points": [
-            "Kerr acknowledges LeBron\u2019s greatness while noting the difficulty of surpassing Jordan.",
-            "He emphasizes the subjective nature of GOAT debates.",
-            "The comments were made in the context of ongoing media discussions."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdHFXV01VaC0zTEtLbWZkNzV2SENwendjc1lESnNvenN1OW1IWk5xNUZYdHNmZ1BfMEpDR01FRDlHWmt3SFgyTFVwamhsZHV5ZHFOSDFNUTNxZkJsdnhqWjJLRTNKd256SWl4SjFzVkh4LXRnbFNncEMzLWxnX1V1WmtxUExMbjlpd3BTa2hmbkRhNk9M?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-26T19:06:04+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "99380fbc484d",
-          "title": "Rockets vs. Lakers Game 4: Lineups and Injury Reports (4/26)",
-          "original_title": "Houston Rockets vs. Los Angeles Lakers: lineups, injury reports (4/26) - Rockets Wire",
-          "summary": "Rockets Wire provided a preview of Game 4 between the Houston Rockets and Los Angeles Lakers, detailing expected lineups and the latest injury updates. The report highlights Kevin Durant\u2019s absence and other roster considerations for both teams.",
-          "key_points": [
-            "Kevin Durant is listed as out for the Rockets.",
-            "Injury reports for both teams are outlined ahead of the game.",
-            "The article includes lineup predictions and key match\u2011up insights."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZVBDRVpiekJldS1HYkowQ2I4NFdNSXl0cHRPcjRES3NmUjZkcDlNSUxuVWFWZ1pIZWxKaWMwaTFIUkJYU3Jub0xyUmhwa3NtTWFmQ2dPemRuMVNEbXBGSVpWWHY5aTJSSlFWNGNTZ05YQk9zYXgydFZLczNVYXhqNlBFOHozVDRtMXY2RUFxTTJKdlhWY2sxbUdMbnhJMHJjemtDbVg1YU5YWEJHbVdiYVhxamVzNHBFQVZmaElVckdOcmh4NDNxbk4wOUg2UQ?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-26T18:34:00+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -161,133 +141,78 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "0c98377ab6a3",
-          "title": "Durant (ankle) expected to miss Game 4 vs. Lakers",
-          "original_title": "Sources: Durant (ankle) expected to miss Game 4",
-          "summary": "Kevin Durant was diagnosed with a bone bruise in his left ankle after a sprain. Further testing confirmed the injury, and sources tell ESPN he will sit out Game 4 of the Western Conference quarterfinals against the Los Angeles Lakers.",
+          "id": "c543fcf293e5",
+          "title": "Joel Embiid Cleared to Return for Game 4 vs. Celtics",
+          "original_title": "76ers star Joel Embiid cleared to return in Game 4 vs. Celtics weeks after emergency appendectomy",
+          "summary": "Philadelphia 76ers star center Joel Embiid has been medically cleared to play in Game 4 against the Boston Celtics, just weeks after undergoing an emergency appendectomy. The recovery timeline suggests he missed the first three games of the series but will be available to help the Sixers attempt a comeback.",
           "key_points": [
-            "Durant suffered a sprained left ankle with a bone bruise.",
-            "He is expected to miss Game 4 of the Rockets\u2011Lakers series.",
-            "The injury update comes from multiple sources cited by ESPN."
+            "Embiid underwent emergency appendix surgery earlier in the month.",
+            "Doctors have cleared him for Game 4, ending his three\u2011game absence.",
+            "His return comes as the Sixers look to stay competitive in the series."
           ],
-          "link": "https://www.espn.com/nba/story/_/id/48602448/rockets-expected-durant-game-4",
-          "source": "ESPN NBA",
-          "published": "2026-04-26T20:56:08+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "77ef44a5c333",
-          "title": "Wembanyama cleared for Game 4 start",
-          "original_title": "Wembanyama clears protocol, gets start in Game 4",
-          "summary": "Victor Wembanyama has passed the NBA\u2019s concussion protocol and was cleared to start for the San Antonio Spurs in Game 4 against the Portland Trail Blazers. The Spurs will have their star center back in the lineup.",
-          "key_points": [
-            "Wembanyama cleared concussion protocol.",
-            "He started Game 4 versus the Trail Blazers.",
-            "Spurs regain their primary offensive/defensive presence."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48602174/spurs-victor-wembanyama-clears-protocol-play-game-4",
-          "source": "ESPN NBA",
-          "published": "2026-04-26T20:56:08+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "a8d7a2c8591d",
-          "title": "Anthony Edwards out for several weeks with knee injury",
-          "original_title": "Sources: Ant avoids ligament tear, to miss time",
-          "summary": "Timberwolves forward Anthony Edwards sustained a bone bruise and hyperextension in his left knee. Sources tell ESPN he will miss multiple weeks, sidelining him for a significant portion of the season.",
-          "key_points": [
-            "Edwards diagnosed with a bone bruise and hyperextension in left knee.",
-            "Expected to be out for several weeks.",
-            "Timberwolves lose a key scoring option during his absence."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48600211/sources-anthony-edwards-avoids-ligament-damage-multiple-weeks",
-          "source": "ESPN NBA",
-          "published": "2026-04-26T20:56:08+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "b2977f3f168c",
-          "title": "McDaniels' late layup sparks skirmish with Jokic in Game 4",
-          "original_title": "McDaniels' late layup irks Jokic in Nuggets loss",
-          "summary": "Jaden McDaniels scored a late layup that helped Minnesota win Game 4 112-96 over Denver, extending the Timberwolves' series lead to 3-1. The basket triggered a confrontation with Nikola Jokic, resulting in ejections and a heated finish.",
-          "key_points": [
-            "McDaniels' layup sealed a 112-96 victory for the Timberwolves.",
-            "A scuffle with Jokic led to player ejections.",
-            "Minnesota took a 3-1 lead in the series."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48597565/mcdaniels-jokic-clash-end-timberwolves-game-4-win",
-          "source": "ESPN NBA",
-          "published": "2026-04-26T20:56:08+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "e6496df63299",
-          "title": "KAT's triple-double powers Knicks to Game 4 win",
-          "original_title": "'Like Magic': KAT's triple-double keys Game 4 win",
-          "summary": "Karl\u2011Anthony Towns recorded his first playoff triple\u2011double, leading the New York Knicks to a 114-98 victory over the Atlanta Hawks in Game 4. The performance helped the Knicks even the series at 2-2.",
-          "key_points": [
-            "Towns posted a playoff triple-double (points, rebounds, assists).",
-            "Knicks defeated the Hawks 114-98 to tie the series.",
-            "The win highlighted Towns' impact on both ends of the floor."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48595775/karl-anthony-towns-triple-double-helps-knicks-even-series",
-          "source": "ESPN NBA",
-          "published": "2026-04-26T20:56:08+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "ae6461c3d45d",
-          "title": "SGA lets game do talking, silences Suns with 42",
-          "original_title": "SGA lets game do talking, silences Suns with 42",
-          "summary": "Shai Gilgeous-Alexander, who took criticism from the Suns' Dillon Brooks after Game 2 for so-called foul baiting, dominated Saturday's Game 3 with a career playoff-high 42 points to put the Thunder one win away from a series sweep.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48595538/gilgeous-alexander-scores-42-puts-thunder-verge-sweep",
-          "source": "ESPN NBA",
-          "published": "2026-04-26T20:56:08+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "6fb2ab1588e5",
-          "title": "Bane, Magic's added 'dimension,' nets 7 3s in win",
-          "original_title": "Bane, Magic's added 'dimension,' nets 7 3s in win",
-          "summary": "Desmond Bane connected on seven 3-pointers and closed with 25 points, as the Orlando Magic watched a 17-point fourth-quarter lead evaporate before rallying to defeat the Detroit Pistons 113-105 on Saturday, taking a 2-1 lead in their first-round series.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48593209/orlando-magic-hold-detroit-pistons-take-2-1-series-lead",
-          "source": "ESPN NBA",
-          "published": "2026-04-26T20:56:08+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "41f5031edff7",
-          "title": "\ud83c\udfc0 NBA coaching carousel: Latest on open jobs",
-          "original_title": "\ud83c\udfc0 NBA coaching carousel: Latest on open jobs",
-          "summary": "Milwaukee has found its next coach, while Chicago and New Orleans are looking for long-term fits. Here's what lies ahead for each franchise.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48413861/nba-coaching-carousel-firings-hirings-next-job",
-          "source": "ESPN NBA",
-          "published": "2026-04-26T20:56:08+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "70ca920ee41a",
-          "title": "Cavaliers-Raptors Game 4 takeaways: Toronto evens series with boost from rookie; James Harden has turnover issues",
-          "original_title": "Cavaliers-Raptors Game 4 takeaways: Toronto evens series with boost from rookie; James Harden has turnover issues",
-          "summary": "Takeaways from an intense Game 4 between the Cavaliers and Raptors.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/nba/article/cavaliers-raptors-game-4-takeaways-toronto-evens-series-with-boost-from-rookie-james-harden-has-turnover-issues-201806388.html",
+          "link": "https://sports.yahoo.com/nba/article/76ers-star-joel-embiid-cleared-to-return-in-game-4-vs-celtics-weeks-after-emergency-appendectomy-223442599.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-04-26T20:18:06+00:00",
+          "published": "2026-04-26T22:34:42+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "05e53ebf76c1",
-          "title": "Barnes, Ingram score 23 points apiece as Raptors beat Cavaliers 93-89 and tie series at 2-all",
-          "original_title": "Barnes, Ingram score 23 points apiece as Raptors beat Cavaliers 93-89 and tie series at 2-all",
-          "summary": "Scottie Barnes scored 23 points, Brandon Ingram also added 23 points and the Toronto Raptors beat the Cleveland Cavaliers 93-89 on Sunday to tie the series.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/barnes-ingram-score-23-points-201800580.html",
+          "id": "00453e3fd16c",
+          "title": "How to Watch Lakers vs. Rockets Game 4 \u2013 Stream, Time, Channel, Odds",
+          "original_title": "Where to watch Los Angeles Lakers vs. Houston Rockets Game 4 NBA playoffs: Live stream, start time, TV channel, odds for Sunday, April 26",
+          "summary": "The Los Angeles Lakers, led by LeBron James, will attempt to sweep the Houston Rockets in Game 4 of the first\u2011round playoffs on Sunday, April 26. The article provides broadcast details, streaming options, start time, and betting odds for the matchup.",
+          "key_points": [
+            "Game 4 is scheduled for Sunday, April 26, with a potential series sweep on the line.",
+            "LeBron James and the Lakers aim to close out the Rockets in four games.",
+            "The guide includes TV channel, live\u2011stream platforms, start time, and odds."
+          ],
+          "link": "https://sports.yahoo.com/nba/article/where-to-watch-los-angeles-lakers-vs-houston-rockets-game-4-nba-playoffs-live-stream-start-time-tv-channel-odds-for-sunday-april-26-223000669.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-04-26T20:18:00+00:00",
+          "published": "2026-04-26T22:30:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "42e77216693b",
+          "title": "Barnes, Ingram Lead Raptors to 93\u201189 Win Over Cavaliers, Series Tied 2\u20112",
+          "original_title": "Barnes, Ingram score 23 each as Raptors beat Cavaliers 93-89 to tie series at 2-2",
+          "summary": "Scottie Barnes hit the decisive free throws in the final minute and finished with 23 points as the Toronto Raptors defeated the Cleveland Cavaliers 93\u201189, tying the first\u2011round series at two games each. Brandon Ingram also contributed 23 points for Toronto.",
+          "key_points": [
+            "Barnes scored 23 points and made the go\u2011ahead free throws in the closing minute.",
+            "Ingram matched Barnes with 23 points for the Raptors.",
+            "The victory levels the Eastern Conference first\u2011round series at 2\u20112."
+          ],
+          "link": "https://sports.yahoo.com/articles/barnes-ingram-score-23-raptors-222524162.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-26T22:25:24+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "df324614a876",
+          "title": "Player Grades: Cavs vs. Raptors Game 4 \u2013 Mitchell\u2019s Absence Still Felt",
+          "original_title": "Player Grades: Cavs vs Raptors Game 4 \u2013 Another Mitchell no-show",
+          "summary": "The analysis grades player performances from Game 4 of the Cavaliers\u2011Raptors series, noting that Donovan Mitchell\u2019s continued absence remains a major disadvantage for Cleveland as they head back to home court. The piece highlights the impact of his injury on the Cavs\u2019 prospects.",
+          "key_points": [
+            "Donovan Mitchell did not play, leaving a significant void for the Cavs.",
+            "Cleveland faces a tough road game in Game 5 after the loss.",
+            "Player grades assess contributions from both teams in the 93\u201189 outcome."
+          ],
+          "link": "https://sports.yahoo.com/articles/player-grades-cavs-vs-raptors-213629792.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-26T21:36:29+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "cfb8b19a2d56",
+          "title": "Lakers vs. Rockets Game 4 Prediction: Marcus Smart Expected to Shine",
+          "original_title": "Lakers vs Rockets Prediction, Picks & Odds for NBA Playoffs Game 4",
+          "summary": "Expert predictions for Game 4 of the Lakers\u2011Rockets series emphasize the importance of guard Marcus Smart, who has been a key factor in Los Angeles\u2019 playoff success. The outlook suggests Smart will continue to influence the game as the Lakers look to close the series.",
+          "key_points": [
+            "Marcus Smart has played a pivotal role for the Lakers in the playoffs.",
+            "Predictions anticipate Smart will be a major contributor in Game 4.",
+            "The Lakers aim to secure a series sweep against the Rockets."
+          ],
+          "link": "https://sports.yahoo.com/articles/lakers-vs-rockets-prediction-picks-183700326.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-26T21:27:00+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -296,14 +221,29 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "2dc5af928bd4",
-          "title": "Lakers Game Time and Broadcast Info for Today",
-          "original_title": "Basketball games today: What time do the Lakers play? Where to watch Lakes - Asbury Park Press",
-          "summary": "The Asbury Park Press outlines when the Los Angeles Lakers will take the court and how fans can watch the game. It provides the start time, TV channel, and streaming options for today's matchup.",
+          "id": "ad49d746d311",
+          "title": "LeBron James Targets Historic Playoff Milestone in Game 4 vs. Rockets",
+          "original_title": "Lakers\u2019 LeBron James Eyes Historic NBA Playoff Record vs. Rockets in Game 4 - Athlon Sports",
+          "summary": "In Game 4 of the first\u2011round series, LeBron James is looking to set a new NBA playoff record as the Los Angeles Lakers aim to close out the Houston Rockets. The article highlights James' statistical chase and the Lakers' push to secure the series win.",
           "key_points": [
-            "Exact kickoff time for the Lakers' game is listed.",
-            "Details on broadcast networks and streaming platforms are included.",
-            "Additional tips for local and out\u2011of\u2011market viewers are provided."
+            "LeBron is within striking distance of an all\u2011time playoff record (e.g., most points, assists, or triple\u2011doubles).",
+            "The Lakers are positioned to clinch the series in Game 4.",
+            "Houston faces mounting pressure as the Rockets attempt to avoid a sweep."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYWl4a04zNTB4dW9JazhNdFA5bG9HWUJ4TFZxcHR3VnI5Q1IxUHpRa1dSdi1VWDF2X2ZmNVpSTHBZcWdmVF9Tb080WTlZYk44Y29idXVTYmZ3NTBrT0lxUDZKaEhMMFlsWE5QNUg5OFBTR2xMSFd4Mnlfai1tMW1zdGZnaTJxWkVIRVNjOTVhdmRtUzlNN2c3enRqZjJFRzJEN05xMEJ5U0kzWTR4RktmT2xLLXpULTBUR3dtdFhR?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-04-26T21:41:47+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "2dc5af928bd4",
+          "title": "Lakers Game Times and Broadcast Info for Today",
+          "original_title": "Basketball games today: What time do the Lakers play? Where to watch Lakes - Asbury Park Press",
+          "summary": "The Asbury Park Press provides the schedule, start time, and television/streaming options for the Los Angeles Lakers' matchup today. It serves as a quick reference for fans looking to watch the game.",
+          "key_points": [
+            "Exact kickoff time for the Lakers' game.",
+            "Channels and streaming platforms carrying the broadcast.",
+            "Any regional blackout or alternate viewing details."
           ],
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeFYwc2t3MVVvZ1ByU2RxWFhyUmZFMThoOTlaNGlTSGV3dmtDMVd4Uzg4ekRQZVlzN19JZVRRYkZpTDZyR2RuaHktaEFuZE5FS19oUGQyVEh0SU1xMWUzZFhELVc3dnRDM0stYWVuQURZZXZyU2NpcVVTWHRYUWZ6SkxFcnE1RDhIY1Y4ZlU1OE4tcld4U0wwUThUcmtXdUhBd0FZUk1PVEdBWmxwNHM0ZUJwS3M3eHlT?oc=5",
           "source": "Google News - Luka",
@@ -311,14 +251,29 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "5db3dc014824",
-          "title": "Steve Kerr Defends Benching Jayson Tatum at Olympics",
-          "original_title": "Steve Kerr on benching Jayson Tatum in Olympics: We had LeBron James and Kevin Durant ahead of him - USA Today",
-          "summary": "USA Today reports that Coach Steve Kerr explained the decision to sit Jayson Tatum during the Olympic tournament, noting the presence of LeBron James and Kevin Durant ahead of him in the rotation. Kerr emphasized the depth of the roster and the need to manage minutes.",
+          "id": "f2734a99b2ce",
+          "title": "Lakers Aim for Series Sweep Amid Rockets' Injury Woes",
+          "original_title": "Will Reaves and Doncic return? Lakers push for series sweep over Rockets amid injury concerns - MARCA",
+          "summary": "Mar\u00eda reports that the Lakers are pressing for a sweep of the Rockets while Houston deals with injuries to key players, including potential returns for Jaden Reaves and Luka Don\u010di\u0107. The piece discusses how health concerns could affect the Rockets' competitiveness in the remaining games.",
           "key_points": [
-            "Kerr cited LeBron James and Kevin Durant as primary options ahead of Tatum.",
-            "The benching was framed as a strategic, not disciplinary, move.",
-            "Kerr highlighted the overall talent depth of Team USA."
+            "Lakers are positioned to finish the series in four games.",
+            "Rockets face uncertainty with injuries to Jaden Reaves and Luka Don\u010di\u0107.",
+            "Injury updates could influence the Rockets' ability to extend the series."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTm9ZZmxxYUtrR0RaMlIyUjJyckRQSmswdGhmMlJjTkhKZWhULXpSMjdBRjJmYk5yYWhobkJLQ1dPX285amNtMk45aEpwNC1BdGNlcXZMdnlhbG1SVHRIaHZPZ2M2NEpsVEswQzRReUJJY0F1bEVRLUtZMVBNVnhnbGppTlpNZ3RzN0UxWDdhZDBWZGUwbFVBc3BIU1Y2dHZv0gGgAUFVX3lxTE1GeWJSRS1hSkc0UmIyYzlhSnhBbm0tbDNzQkxyVmNLQjZ5VlZDNENlS19OeVlfYTh5VGxFaDNyblhITERmN1dueVM5MmZETUlDN1RGOGpTUzFoZUFrLWZaTE9GNC1fWnNsVVhrdHAwMUVmYVAtcGZpbk5vcUJVWlEzVm1iWVA3b0VFR0s3b2sxY1VFWlY5bjF5T0xFVDJaM3A?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-04-26T19:58:23+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "5db3dc014824",
+          "title": "Steve Kerr Defends Bench Decision on Jayson Tatum at Olympics",
+          "original_title": "Steve Kerr on benching Jayson Tatum in Olympics: We had LeBron James and Kevin Durant ahead of him - USA Today",
+          "summary": "USA Today quotes Coach Steve Kerr explaining why he chose to sit Jayson Tatum during the Olympic tournament, noting that the roster already featured stars LeBron James and Kevin Durant. Kerr emphasizes the depth of the team and the strategic reasons behind the move.",
+          "key_points": [
+            "Kerr cites the presence of LeBron James and Kevin Durant as justification for limiting Tatum's minutes.",
+            "The decision was based on roster balance and game\u2011plan considerations.",
+            "Kerr addresses media speculation about the benching."
           ],
           "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQNnRGb2VKRmZTU1FxVk9KU0RmUHJtY3dNZlJCb1VmSVI3YmpXMGdTVGhKcGlEaHg2R2s3STJoZUp5emR4di1BMVZkSVJjZGVaTW1pV0FZaWdRMnFIVklyWFpUNnkwTzBfbjAxUUxPMVVKdWJpTUpaMHd1MDZoRGxaWDJyMkFPR05Ua1EyWjNPakxzS2ZXQW81MzlRUFgzMzNlVWVNekczTllpOWpKdG51N0QtYlpYMDBHVGRNNXVzLW44SW5rMXo3LTZZTklTdjB2c1RvOFdoczdtMHJaQk1HSS1pR0pJc3BFakwtN0Q4MHBiYUhIUVE?oc=5",
           "source": "Google News - LeBron",
@@ -326,75 +281,48 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "e2a53ddc5c16",
-          "title": "Fake Luka Don\u010di\u0107 Injury Rumor Spreads Before Lakers\u2011Rockets Game 4",
-          "original_title": "Fake Luka Doncic Injury News Goes Viral Before Lakers-Rockets Game 4 - heavy.com",
-          "summary": "Heavy.com debunks a viral claim that Luka Don\u010di\u0107 suffered an injury prior to Game 4 of the Lakers\u2011Rockets series, confirming the report was false. The article clarifies that Don\u010di\u0107 was healthy and available for the game.",
+          "id": "1a1dddd9cf81",
+          "title": "Steve Kerr on Tatum\u2019s Olympic Bench Role: \u2018We Had LeBron and KD\u2019",
+          "original_title": "Steve Kerr on benching Jayson Tatum in Olympics: We had LeBron James and Kevin Durant ahead of him - HoopsHype",
+          "summary": "HoopsHype relays the same comments from Coach Steve Kerr regarding Jayson Tatum's reduced role at the Olympics, reiterating that the lineup already featured LeBron James and Kevin Durant, making Tatum\u2019s benching a tactical choice.",
           "key_points": [
-            "The injury story was identified as a hoax.",
-            "Don\u010di\u0107 was cleared to play in Game 4.",
-            "The misinformation spread quickly on social media before being corrected."
+            "Kerr reiterates that the team\u2019s star\u2011heavy lineup limited Tatum\u2019s playing time.",
+            "Emphasis on strategic depth rather than performance criticism.",
+            "The statement mirrors Kerr\u2019s earlier remarks in other media outlets."
           ],
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd2JDb0ZIRzVYZjItaEFmQklNVmZHX0tzcmtxYmxfZUhNRFp6SmtyQl9vWUd5RTVFajJFUjdEcHpmSVBNWjRkZTlFTjQtT1drbFlrZl9hVFFEc0RvYTZQNldnSkZTOTBCdmpyUUIxS3lyWXQ0R2tWOWc1UlhzS0xaNHpBdVMyOEY5ekJfcDBn?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-04-26T19:09:33+00:00",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTUU4QVo3b1JaY0U0UEpMekZkWEVQQUVwV3hFZzR2eHZzOFlNSEd0MzR2bURFbV93TVpnRVpTUlVwUGRJNGNLZTY0REltdmo1ZEF5S0pQaDg1R2ZaRU9XcktnWXRLNzFmV1dZRWttNmZkMm5oUWhhNXZ1MlA1WW5NOXRKWlE3VjJYajNBZTBuNmJ1Y0xmRi04MGFTMUxzTHJWY1BFRXQ0MWxxUGE1UVhOdV9lUHBDVVVxUGtoUGw4Uk5HMk1XWFJyWDB5Y0djclhxNnRlWlY0d3IyaFFnSk4wRHJMUlZBRzNzOHVWeUh1WlBwdHhLN2ZTSDBHR3pTNllG?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-04-26T19:34:00+00:00",
           "topic": "Lakers Players"
         },
         {
           "id": "c31e3d6baf92",
-          "title": "Steve Kerr Weighs In on LeBron James vs. Michael Jordan Debate",
+          "title": "Steve Kerr drops bold take on LeBron James-Michael Jordan debate - BasketNews.com",
           "original_title": "Steve Kerr drops bold take on LeBron James-Michael Jordan debate - BasketNews.com",
-          "summary": "BasketNews.com features Coach Steve Kerr offering his perspective on the longstanding comparison between LeBron James and Michael Jordan. Kerr provides a balanced view, acknowledging achievements of both players without declaring a definitive answer.",
-          "key_points": [
-            "Kerr recognizes Jordan's championship legacy and LeBron's all\u2011around skill set.",
-            "He avoids taking a firm side, noting the difficulty of comparing eras.",
-            "The commentary adds a coaching viewpoint to the popular debate."
-          ],
+          "summary": "Steve Kerr drops bold take on LeBron James-Michael Jordan debate&nbsp;&nbsp;BasketNews.com",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcXE5RktCZFBvdG90c1R3c1Q4Q3l1VktDN3hqZ250N0hsOGh5eGhvZE1JRmQ0VTAyRW82VnBZRC1tSkJyR1lPb25Rdkl6aUQyZHFpdTVHcmlOdjZEalhBVXBzcHQwZTB0OFhUTlRkOUhpY0VUMEctUmNGU0VLRXBpUWpBWng1M2wxbmxPNzZzX19ob1NSXzJhLXFSVnpFQVJmLVlQQ0t0OA?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-04-26T18:34:50+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "f60c7a0f061a",
-          "title": "Mysterious Kevin Durant Injury Update Ahead of Lakers Game 4",
-          "original_title": "Latest mysterious Kevin Durant injury update ahead of Game 4 vs. Lakers - BasketNews.com",
-          "summary": "BasketNews.com reports on an unclear injury situation involving Kevin Durant before Game 4 against the Lakers. The article notes limited information on the nature of the injury and its potential impact on Durant's availability.",
-          "key_points": [
-            "Durant's injury status remains uncertain heading into Game 4.",
-            "Details about the injury have not been fully disclosed.",
-            "The situation could affect the competitive balance of the upcoming matchup."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWVhmcDd1VV9fNnVnVmJ0OGdiTEkyREkwOXY4d0dBd3BtN1hGUHZsS2RHS1ZyX0dTSTVUTDRocWoyQ1dBbUY0bUFvX1ZPUWg5SXc4V3pVQ2UzQXZaY0hDeVh3MHYyX1BhY3dJcTZiWk5LYWJZQTRQNENFdERvRDdha1UxX0RsUUdJNHlfSXhmSUxSby1VTTlsaDMtb3Z2NVFHTG90SkxJanN1aVZwQ2Z3?oc=5",
+          "id": "756e693236f2",
+          "title": "Surprising Luka Doncic Injury News Emerges As Lakers Return Looms - heavy.com",
+          "original_title": "Surprising Luka Doncic Injury News Emerges As Lakers Return Looms - heavy.com",
+          "summary": "Surprising Luka Doncic Injury News Emerges As Lakers Return Looms&nbsp;&nbsp;heavy.com",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZjZya21fM05GVWpTcXBNMVh6S0hvWm1zVGVTeE5VbW9FeUxnTERGZ1lyaWprSEVMeVBST3lTVDI2YVVFbkdTUHZMUkREWlFNTHZ0Y1J3a0YwN0tzV19tOVJxMERXUGEwNWVSZlRKdl81VmdxaFE0MldXSF9lbTYtX1dheXlma3lEWlVrcTZWZkhuWXhURzVhb0pR?oc=5",
           "source": "Google News - Luka",
-          "published": "2026-04-26T17:52:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "55dd3b1bf014",
-          "title": "Luka Doncic Injury Update: No On\u2011Court Progress Yet",
-          "original_title": "Concerning Luka Doncic injury update: No on-court progress yet - BasketNews.com",
-          "summary": "Luka Doncic remains sidelined as there has been no reported improvement in his injury status. The latest report from BasketNews.com confirms that he has not participated in any on\u2011court activities and his return timeline is still uncertain.",
-          "key_points": [
-            "Doncic has not taken part in any practice or game action.",
-            "Medical staff have not indicated any change in his condition.",
-            "His availability for upcoming games remains unknown."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQW9Fa2t4YlVnT0J4bURSWW5OOHZoaDBEeDBaNWg2NzFqdEgteldOQy1HclVhR1k2MTY3anBLWGVqSmNQaU8xUzVDSUJfVER3QmRhaUNGMUhHUWFlSFU5dVFWdHAwZXUtUlNhQTVzbU5rZ3NEUWpfTDZYdjNMT0NfaXk1RWpVWkRYZnFrdHRYQXZJaGJnck05NE44ZWNybndIem84?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-04-26T17:11:00+00:00",
+          "published": "2026-04-26T17:14:33+00:00",
           "topic": "Lakers Players"
         },
         {
           "id": "dab63fe777e4",
-          "title": "Forbes Offers Same\u2011Game Parlay Picks for Lakers vs. Rockets",
+          "title": "Lakers vs. Rockets Best Bets: NBA Same-Game Parlay Featuring LeBron James, More - Forbes",
           "original_title": "Lakers vs. Rockets Best Bets: NBA Same-Game Parlay Featuring LeBron James, More - Forbes",
-          "summary": "Forbes outlines betting recommendations for the Lakers\u2011Rockets matchup, highlighting a same\u2011game parlay that features LeBron James among other key props. The article provides odds, suggested bet combinations, and brief analysis of each pick.",
-          "key_points": [
-            "LeBron James is a central focus of the recommended parlay.",
-            "Forbes suggests specific point\u2011total, rebound, and assist lines.",
-            "The piece includes odds and rationale for each suggested bet."
-          ],
+          "summary": "Lakers vs. Rockets Best Bets: NBA Same-Game Parlay Featuring LeBron James, More&nbsp;&nbsp;Forbes",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNREJqczl3WFVkY20ydTBZN0xGbzdYaUlHUktNQVEzX1dCeHZSaFBIUHhwVnEzNWRqejJFWklkanhpUkdVeExfMzFzSjdvVmEwSWF0cFhobWdxUHNQb3BXRFRaanhXemdhOXZOcnZEM3hXTkRySEJWWGNNWkRXVnh5NHUwVDkyT0N5bWRjQ2ZfLXJ2aUF6NkNjSDdZekdsTmVYM18yWUh6THVxZ3RiUHlFY1FTLTJpeFZ1QUNkR3hXeC05empDWmRzZ2V2T0FaSzQ?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-04-26T16:53:47+00:00",
@@ -402,14 +330,10 @@
         },
         {
           "id": "e0bc8691cba7",
-          "title": "Lakers Injury Update{nbsp}: Is Luka Doncic Available Against the Rockets?",
+          "title": "Lakers Injury Update: Is Luka Doncic Available Against the Houston Rockets? (April 26, 2026) - TWSN",
           "original_title": "Lakers Injury Update: Is Luka Doncic Available Against the Houston Rockets? (April 26, 2026) - TWSN",
-          "summary": "TWSN reports on the Lakers' injury status ahead of the game versus Houston, specifically questioning Luka Doncic's availability. The article notes that the team has not confirmed his participation and that his health remains a concern.",
-          "key_points": [
-            "Lakers have not announced Doncic's game status.",
-            "His injury continues to limit practice involvement.",
-            "The Rockets matchup may proceed without him."
-          ],
+          "summary": "Lakers Injury Update: Is Luka Doncic Available Against the Houston Rockets? (April 26, 2026)&nbsp;&nbsp;TWSN",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNkNwYzFoOEU4ZkMxODFvaUFIaDliOVU2emh2b2JoRV9UUmZhLVhXa0k1eFdfTFUwcnIwQk02NFVLakZIYU1UdDRTLUJkdXZSRHRZQW51Ty1uMDZNVlJpTXd5bjJ0b0dtdzlUZWEtY3BYWHlKdGJuREthOGZlS0tvSTNtaWxCdEhtZDdDYk1sZ2s3akpZQU1Bbm1pUWdQVWF2ekpfRmc2SVhEcHdCbm8xSDhWT0dEQms?oc=5",
           "source": "Google News - Luka",
           "published": "2026-04-26T16:13:37+00:00",
@@ -417,32 +341,13 @@
         },
         {
           "id": "f14b20e40ef9",
-          "title": "LeBron James, Kevin Durant and a Legendary Rivalry\u2019s Possible Last Stand",
+          "title": "LeBron James, Kevin Durant and a legendary rivalry\u2019s possible last stand - The New York Times",
           "original_title": "LeBron James, Kevin Durant and a legendary rivalry\u2019s possible last stand - The New York Times",
-          "summary": "The New\u202fYork Times examines the historic rivalry between LeBron James and Kevin Durant as they approach the twilight of their careers. The article reflects on past playoff battles and considers the significance of any upcoming meetings.",
-          "key_points": [
-            "James and Durant have faced each other in multiple high\u2011stakes series.",
-            "Both players are nearing the end of their prime years.",
-            "Future matchups could represent the final chapter of their rivalry."
-          ],
+          "summary": "LeBron James, Kevin Durant and a legendary rivalry\u2019s possible last stand&nbsp;&nbsp;The New York Times",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWlJSb2g5ZHNQN2tJVXpkNGFkcFdLZWZFYVlBemtKdk4wR2NVZW1NU1p6dHVKQlQ1Y29WZ2s2VVlYLVBlSHkwYi15bWVNQlRjWnNTWkhZU3UzeWJPejh3LW4yWjhoTy04dmxBZkV1MmQ3c2w0dENubkdJZFFQbDQtX1ZLRFRBZW9ubjE5b3hZcURYVlRKdHZ6ckxIb1F6UGlC?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-04-26T14:56:37+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "357adb9c22b8",
-          "title": "Can Austin Reaves and Luka Doncic Return to Help Lakers Sweep Rockets?",
-          "original_title": "Are Lakers\u2019 Austin Reaves, Luka Doncic returning from injury to try to sweep Rockets? - ClutchPoints",
-          "summary": "ClutchPoints asks whether the Lakers can field a healthy lineup featuring Austin Reaves and Luka Doncic as they aim to complete a sweep of the Rockets. The article notes both players have been dealing with injuries and discusses their potential impact if cleared.",
-          "key_points": [
-            "Reaves and Doncic are listed as questionable due to recent injuries.",
-            "Their return could provide a significant boost for a series sweep.",
-            "The piece evaluates how each player's health could affect the Lakers' chances."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMTQ4NDFtWVEwMTRuMi1IUmRSQllKb1RobS1oVFZGZUFGNlJyZmw5bE9GTjdyTTZSQ3l2N1kteW8xWXhMaFA3YjJJbXpaT0dtSjZob1dsdHRjQWNoUXlZbEJfUnhSX1hpZEwtN3pWWGVYdXBoWTdhR1k1OHJtOWZhbE02NE5sOVFPRkdJQUhhWV9aSUFzdzRpUUtsU2tHU0lPcExXV3otQXlaOVNkWFR4Wg?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-04-26T14:52:57+00:00",
           "topic": "Lakers Players"
         }
       ]
