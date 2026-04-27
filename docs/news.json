@@ -1,19 +1,64 @@
 {
-  "generated_at": "2026-04-27T19:35:22.158904+00:00",
-  "total_articles": 30,
+  "generated_at": "2026-04-27T21:10:44.670734+00:00",
+  "total_articles": 25,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
-          "id": "a02f2ed2d0e6",
-          "title": "Marcus Smart Calls Jae\u2019Sean Tate\u2019s Trash Talk \u201cHilarious\u201d After Rockets Stall Lakers\u2019 Sweep",
-          "original_title": "Marcus Smart Thinks Trash-Talk From Jae\u2019Sean Tate & Rockets Was \u2018Hilarious\u2019",
-          "summary": "The Houston Rockets avoided a sweep by beating the Los Angeles Lakers in Game 4, forcing a decisive Game 5 back in Los Angeles. The game was marked by multiple technical fouls, ejections and heated exchanges, including trash\u2011talk from Rockets forward Jae\u2019Sean Tate that Lakers guard Marcus Smart described as \u201chilarious.\u201d",
+          "id": "a73193df2bf3",
+          "title": "Lakers Still Lead Series 3-1 Despite Game\u20114 Loss to Rockets",
+          "original_title": "LeBron James: Lakers Aren\u2019t Comfortable Despite 3-1 Series Lead On Rockets",
+          "summary": "The Los Angeles Lakers dropped Game 4 to the Houston Rockets, preventing a sweep. LeBron James and the team struggled offensively, but the Lakers retain a 3\u20111 series advantage and will host Game 5 to try to close out the series.",
           "key_points": [
-            "Rockets won Game 4, extending the series to five games.",
-            "Several technical fouls and ejections occurred, requiring officials to separate the benches.",
-            "Marcus Smart laughed off Tate\u2019s trash\u2011talk, highlighting the rising tension between the squads."
+            "Lakers lost Game 4, ending their chance for a sweep.",
+            "LeBron James had a sub\u2011par performance, reflecting broader team issues.",
+            "Series stands at 3\u20111 in favor of the Lakers, with Game 5 back in Los Angeles."
+          ],
+          "link": "https://lakersnation.com/lebron-james-lakers-arent-comfortable-despite-3-1-series-lead-on-rockets/",
+          "source": "Lakers Nation",
+          "published": "2026-04-27T20:35:48+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "006352654353",
+          "title": "LeBron James and Luka Don\u010di\u0107 Defend Adou Thiero After Game\u20114 Ejection",
+          "original_title": "LeBron James and Luka Don\u010di\u0107 stood up for Adou Thiero after Game 4 ejection",
+          "summary": "Following a controversial ejection of Rockets guard Adou Thiero in the closing minutes of Game 4, both LeBron James and Luka Don\u010di\u0107 publicly supported the player, criticizing the officiating. The incident highlighted growing tension over perceived inconsistent calls in the series.",
+          "key_points": [
+            "Thiero was ejected after a minor scuffle with Aaron Holiday, a decision many called questionable.",
+            "James and Don\u010di\u0107 spoke out, calling the call \u201cridiculous\u201d and defending Thiero.",
+            "The episode added to the series\u2019 mounting frustrations over officiating."
+          ],
+          "link": "https://www.silverscreenandroll.com/lakers-news/115515/lakers-rockets-adou-thiero-lebron-james-luka-doncic-2026-nba-playoffs-ejection-fine",
+          "source": "Silver Screen and Roll",
+          "published": "2026-04-27T20:05:08+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "55a3572168c4",
+          "title": "Luka Don\u010di\u0107 Injury Update and Fantasy Impact",
+          "original_title": "Luka Doncic Injury Update: Return Timeline and How It Affects Fantasy Basketball - Sports Illustrated",
+          "summary": "Sports Illustrated provided an update on Luka Don\u010di\u0107\u2019s injury status, outlining his expected return timeline and the implications for fantasy basketball owners. The report notes that Don\u010di\u0107\u2019s health remains a key factor for the Dallas Mavericks\u2019 playoff outlook.",
+          "key_points": [
+            "Current injury details and projected return date for Don\u010di\u0107.",
+            "Potential impact on Mavericks\u2019 performance in the postseason.",
+            "Guidance for fantasy managers on adjusting lineups while Don\u010di\u0107 is sidelined."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa29oaW5ERVNWMmZTSGZmbEtLeWJ6NzluTWp1alE5bHcwMnNmUnc3aFV5aTlnVDlzWDdDTF9SVmRNRS1LVGlBWmNtTlNyLVpPZndhX1hvNmRta1FvVjZlRFkzR0E3OUFTUTE2aVM2SmZCd2tOc2pjT004Q1dnRDlFaXlmQnhuZlU?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-27T20:01:18+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "a02f2ed2d0e6",
+          "title": "Marcus Smart Finds Rockets\u2019 Trash\u2011Talk \u2018Hilarious\u2019 After Game\u20114 Drama",
+          "original_title": "Marcus Smart Thinks Trash-Talk From Jae\u2019Sean Tate & Rockets Was \u2018Hilarious\u2019",
+          "summary": "After the Rockets avoided a sweep by beating the Lakers in Game 4, tensions flared, resulting in multiple technical fouls and ejections. Marcus Smart commented that the Rockets\u2019 trash\u2011talk, particularly from Jae\u2019Sean Tate, was amusing amid the chaos.",
+          "key_points": [
+            "Game 4 featured several technical fouls and player ejections.",
+            "Jae\u2019Sean Tate\u2019s comments sparked a heated exchange with the Lakers.",
+            "Smart described the Rockets\u2019 trash\u2011talk as \u201chilarious,\u201d underscoring the rivalry\u2019s intensity."
           ],
           "link": "https://lakersnation.com/marcus-smart-thinks-trash-talk-from-jaesean-tate-rockets-was-hilarious/",
           "source": "Lakers Nation",
@@ -22,13 +67,13 @@
         },
         {
           "id": "0dd2a48def45",
-          "title": "Lakers\u2019 Turnover Woes Cost Them Against Rockets in Game 4",
+          "title": "Turnover Woes Threaten Lakers\u2019 Sweep of Rockets",
           "original_title": "The Lakers have a big turnover problem against the Rockets",
-          "summary": "In a pivotal Game 4, the Los Angeles Lakers fell to the Houston Rockets, largely due to a surge in turnovers that allowed Houston to capitalize. The loss prevented a potential sweep and highlighted the Lakers\u2019 need to protect the ball as they head into Game 5.",
+          "summary": "In Game 4, the Lakers\u2019 turnover rate surged, allowing the Rockets to stay alive in the series. The lapse, combined with Kevin Durant\u2019s continued absence, gave Houston a chance to extend the series back to Los Angeles for Game 5.",
           "key_points": [
-            "Lakers committed a high number of turnovers, giving the Rockets extra scoring opportunities.",
-            "The defeat halted a possible first\u2011round sweep, the first since 2010.",
-            "Houston\u2019s youthful, athletic roster used the extra possessions to build momentum."
+            "Lakers committed a high number of turnovers, contributing to the loss.",
+            "Kevin Durant remained out, limiting the Lakers\u2019 offensive options.",
+            "The Rockets leveraged the mistake to avoid a sweep and force a Game 5."
           ],
           "link": "https://www.silverscreenandroll.com/lakers-analysis/115508/lakers-rockets-film-room-turnovers-lebron-james-marcus-smart-austin-reaves-2026-nba-playoffs",
           "source": "Silver Screen and Roll",
@@ -36,29 +81,14 @@
           "topic": "Lakers News"
         },
         {
-          "id": "c554e4a2e42c",
-          "title": "Injury Updates: Luka Don\u010di\u0107 and Austin Reaves Ahead of Lakers\u2011Rockets Game 5",
-          "original_title": "New Luka Doncic, Austin Reaves Injury Updates Ahead of Lakers' Game 5 vs. Rockets in NBA Playoffs - Bleacher Report",
-          "summary": "Bleacher Report provided the latest health reports on Dallas Mavericks star Luka Don\u010di\u0107 and Lakers guard Austin Reaves before Game 5 of the playoff series. Both players were listed as questionable, with the updates influencing lineup decisions for the upcoming matchup.",
-          "key_points": [
-            "Luka Don\u010di\u0107\u2019s injury status was confirmed as questionable for Game 5.",
-            "Austin Reaves received a major update, also listed as questionable.",
-            "The health reports could affect the Lakers\u2019 rotation and game plan in the decisive contest."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeFBCenlUUGEzRldfMndZUm5wVmV3TVNLOEgyQklPNy1vZ1BKMTE1cXhkQS1zR1U3ZzI2bnV4ZUQ2ekZnWjROSm82UWJVUnNEODZWOXhKUkZVWmRjNWlPVXRXRXZyOGRmSjNrMUt6TE9hUGpGREFtNXJ2SXF4SEZydkJUbVU2X0VzeDJUZ3F0TEw4TndzSUR1MWhCbGtoejlIZ0VLdjFIU3NlU1BoSTdUSjVoVkd2OE5DWHBiVWZpVVZZUFZKam5PaklfM1dVQQ?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-27T18:51:17+00:00",
-          "topic": "Lakers News"
-        },
-        {
           "id": "12787ce9660c",
-          "title": "Alperen \u015eeng\u00fcn Defends Deandre Ayton After Controversial Ejection",
+          "title": "Alperen \u015eeng\u00fcn Says Deandre Ayton Deserved No Ejection",
           "original_title": "Alperen Sengun Doesn\u2019t Think Deandre Ayton Should\u2019ve Been Ejected",
-          "summary": "Alperen \u015eeng\u00fcn argued that Deandre Ayton should not have been ejected during Game 4, noting Ayton\u2019s defensive effort had helped the Lakers build a 3\u20110 series lead. \u015eeng\u00fcn praised Ayton\u2019s physical play against him, suggesting the ejection was unwarranted.",
+          "summary": "\u015eeng\u00fcn argued that Ayton\u2019s physical defense on him was a key factor in the Lakers taking a 3\u20110 series lead over the Rockets. While Ayton\u2019s aggressive play has been effective, a controversial incident in Game\u202f4 led to Ayton\u2019s ejection, which \u015eeng\u00fcn believes was unwarranted.",
           "key_points": [
-            "\u015eeng\u00fcn highlighted Ayton\u2019s strong defense as a factor in the Lakers\u2019 early series advantage.",
-            "Ayton was ejected in Game 4 after a disputed play involving \u015eeng\u00fcn.",
-            "\u015eeng\u00fcn publicly stated that the ejection was unnecessary."
+            "Ayton\u2019s tough defense helped the Lakers dominate early in the series.",
+            "A late-game incident in Game\u202f4 resulted in Ayton\u2019s ejection.",
+            "\u015eeng\u00fcn publicly stated the ejection was unnecessary."
           ],
           "link": "https://lakersnation.com/even-alperen-sengun-doesnt-think-deandre-ayton-shouldve-been-ejected/",
           "source": "Lakers Nation",
@@ -67,13 +97,13 @@
         },
         {
           "id": "f7448e1a4974",
-          "title": "Austin Reaves Receives Major Health Update Before Game 5 vs. Rockets",
+          "title": "Austin Reaves Receives Major Health Update Ahead of Game 5",
           "original_title": "Lakers Get Major Austin Reaves Update Before Game 5 vs Rockets - heavy.com",
-          "summary": "Heavy.com reported a significant update on Austin Reaves\u2019 condition ahead of the Lakers\u2019 Game 5 showdown with Houston. The news clarified his injury status and potential availability for the crucial playoff game.",
+          "summary": "Heavy.com reported that the Lakers provided a significant health update on guard Austin Reaves before the decisive Game\u202f5 against Houston. The update clarified his injury status and expected availability for the upcoming matchup.",
           "key_points": [
-            "Reaves received a detailed health update prior to the decisive game.",
-            "The information addressed concerns about his ability to play in Game 5.",
-            "Reaves\u2019 status could impact the Lakers\u2019 offensive options in the series finale."
+            "Reaves\u2019 condition was clarified by the team prior to Game\u202f5.",
+            "The update addressed concerns about his recent injury.",
+            "His availability could impact the Lakers\u2019 rotation in the series finale."
           ],
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdXAxTGMxM19NOGIwdkptWUt5Skl4OVRDY1VpT214dmVadlJfVWJOQkZaZk9kTFNtUnI0VkUxYWQ3b2xmbDZ0S3pzM3U2emtvVF9lelJxbUMwMzY3ZkVFbWEzczRWUVpnWWVpeVFaNHV5NVFOZnhFdVM5QUt3dkFvUURVb3VhQU9LZXpLZ19UTG53c2Fk?oc=5",
           "source": "Google News - Lakers",
@@ -82,13 +112,13 @@
         },
         {
           "id": "9f0d15b2d7ce",
-          "title": "Rockets vs. Lakers Game 5 Odds Released",
+          "title": "Rockets vs. Lakers Game 5 Betting Odds Released",
           "original_title": "Houston Rockets vs Los Angeles Lakers odds for NBA playoff Game 5 bets - The Arizona Republic",
-          "summary": "The Arizona Republic published the betting odds for Game 5 of the first\u2011round playoff series between the Houston Rockets and the Los Angeles Lakers. The odds outline the projected point spreads, money lines and over/under totals for sportsbooks.",
+          "summary": "The Arizona Republic published the latest betting lines for Game\u202f5 of the first\u2011round playoff series between Houston and Los Angeles. Odds reflect the Lakers\u2019 3\u20110 series lead and the Rockets\u2019 attempts to force a comeback.",
           "key_points": [
-            "Odds indicate which team is favored and by how many points.",
-            "Money\u2011line values show potential payouts for straight\u2011up bets on either side.",
-            "Over/under total reflects expected combined scoring for the game."
+            "Lakers entered Game\u202f5 as favorites according to sportsbooks.",
+            "Odds were adjusted to account for the Lakers\u2019 series advantage.",
+            "Betting markets highlighted the potential for an upset by Houston."
           ],
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTHBlX2dsakdqNjNadEE2cEJ6LTluRjJuOHpBcklzQnNvRkJCYlJXNTNuLThXOF9CdmhoX1JtX3dYRDQybnNPWUVZVEJqNmx6NFJHM01SU0VpLWc4bTB1UGQwTnpHWXNZTG9QZHgzeTl1ZXVlUjdfX3REQUwwNTU0MG9pMTlMTTdqYVhyckY3eFhFYzBlR1VUSEZxM3BYLTVrVjQzaU05Y1k2LUhKa0IzZUliZFJxRmQ5WmdhWGF2S19TaFhpYjZXOVRpTmY0Zw?oc=5",
           "source": "Google News - Lakers",
@@ -96,63 +126,33 @@
           "topic": "Lakers News"
         },
         {
-          "id": "2bbf26927d75",
-          "title": "Lakers Rookie Adou Thiero Ejected in Game 4 Tension with Rockets",
-          "original_title": "Lakers News: Luka Doncic Willing To Pay Ejection Fine For Adou Thiero",
-          "summary": "During the closing minute of Game 4, a minor altercation between Lakers rookie Adou Thiero and Rockets guard Aaron Holiday resulted in both players being ejected. The incident added to the series\u2019 growing intensity but did not affect the final outcome of the game.",
+          "id": "d7c48c4abeb3",
+          "title": "Rockets vs. Lakers Game 5 Picks and Predictions",
+          "original_title": "Houston Rockets vs Los Angeles Lakers picks, predictions for Game 5 - The Arizona Republic",
+          "summary": "The Arizona Republic offered expert picks and predictions for the pivotal Game\u202f5 between the Rockets and Lakers. Analysts evaluated recent performances, injuries, and matchup dynamics to forecast the outcome.",
           "key_points": [
-            "Ejection occurred with about one minute left in the fourth quarter.",
-            "Both Thiero and Holiday received technical fouls and were removed from the game.",
-            "The incident highlighted rising emotions in the first\u2011round matchup."
+            "Analysts favored the Lakers to close out the series.",
+            "Key factors discussed included defensive matchups and player health.",
+            "Predictions highlighted potential breakout performances from role players."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdzQ3S2dsT2FKVk5neG1tcExHZWZCbXRkMXpLMnB4VTJDRmphOWZaNWRJRzdrSnY1WDRHR0l6U3hWUUtiM0tQamx3WExDTXFROFJscEpNMkstNGpkWkZDd1lUR1FEU1hTQnNfNTNjUWFLcjNGQlNaYTVoM2M5alBRZFdidS1tZ0ZKMm9tNEUtY29WWHJ6dUpmTE5oQlR0dWt4UnFxYmtyeVM2VXowWTFacUNtWEJJbjU1LTZPOGZRdFlMd0lmYUoyQ25mTG50RktrLWZsZjJ2MXR2Qjh4?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-27T17:28:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "2bbf26927d75",
+          "title": "Luka Don\u010di\u0107 Will Cover Ejection Fine for Lakers Rookie Adou Thiero",
+          "original_title": "Lakers News: Luka Doncic Willing To Pay Ejection Fine For Adou Thiero",
+          "summary": "Lakers Nation reported that after a late\u2011game altercation in Game\u202f4, which saw rookie Adou Thiero and Rockets guard Aaron Holiday ejected, Dallas Mavericks star Luka Don\u010di\u0107 offered to pay the fine imposed on Thiero. The gesture was noted amid the heightened tension of the series.",
+          "key_points": [
+            "A minor scuffle with about a minute left resulted in two ejections.",
+            "Luka Don\u010di\u0107 volunteered to pay the fine for the Lakers rookie.",
+            "The incident underscored the growing intensity of the first\u2011round series."
           ],
           "link": "https://lakersnation.com/lakers-news-luka-doncic-willing-to-pay-ejection-fine-for-adou-thiero/",
           "source": "Lakers Nation",
           "published": "2026-04-27T17:20:08+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "ad343856774f",
-          "title": "Lakers Nation Reposts: Luka Doncic Willing to Cover Ejection Fine for Thiero",
-          "original_title": "Lakers News: Luka Doncic Willing To Pay Ejection Fine For Adou Thiero - Lakers Nation",
-          "summary": "Lakers Nation reiterated a story that Luka\u202fDoncic expressed willingness to pay the fine associated with Adou Thiero\u2019s ejection, emphasizing team solidarity. The article does not detail any official financial transaction, only Doncic\u2019s stated support.",
-          "key_points": [
-            "Doncic offered to cover the fine incurred by Thiero\u2019s ejection.",
-            "The statement reflects camaraderie within the Lakers roster.",
-            "No confirmation that the payment was actually made."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM0ZWTlZ5ZVdxS3dEM2FZbTZUVE9jYWM0akVsbHVMeXZHaVdjdzh5Q1VVN0FGUElKM0hfbDVpU1NucjRoYXZEb2d0akJSdnJmbGwzWWllTXVOeGFyeThMMDNoa2xPaW1aeFJwSkNZSnF2SmdERlVzdjVTZ1FmaVFvQ0pSbHN5dy1EN0YyZHJnaUJkU1FYcHJLM3Fn?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-27T17:20:08+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "d7c48c4abeb3",
-          "title": "Rockets vs. Lakers Game 5 Picks and Predictions",
-          "original_title": "Houston Rockets vs Los Angeles Lakers picks, predictions for Game 5 - The Arizona Republic",
-          "summary": "The Arizona Republic provided expert picks and predictions for Game 5 of the Rockets\u2011Lakers series, offering analysis of each team\u2019s recent performance and likely outcomes. The piece includes recommended betting selections based on statistical trends.",
-          "key_points": [
-            "Analysts project which team has the advantage heading into Game 5.",
-            "Predictions include suggested point spreads and over/under totals.",
-            "Key factors considered: recent scoring, defensive efficiency, and injuries."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdzQ3S2dsT2FKVk5neG1tcExHZWZCbXRkMXpLMnB4VTJDRmphOWZaNWRJRzdrSnY1WDRHR0l6U3hWUUtiM0tQamx3WExDTXFROFJscEpNMkstNGpkWkZDd1lUR1FEU1hTQnNfNTNjUWFLcjNGQlNaYTVoM2M5alBRZFdidS1tZ0ZKMm9tNEUtY29WWHJ6dUpmTE5oQlR0dWt4UnFxYmtyeVM2VXowWTFacUNtWEJJbjU1LTZPOGZRdFlMd0lmYUoyQ25mTG50RktrLWZsZjJ2MXR2Qjh4?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-27T17:04:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "5c93a54f4499",
-          "title": "Lakers Face Additional Setback as Luka Doncic\u2019s Return Delayed",
-          "original_title": "Lakers Hit With More Bad News On Luka Doncic Injury Return After Game 4 - heavy.com",
-          "summary": "Heavy.com reported that the Los Angeles Lakers received further bad news regarding Luka\u202fDoncic\u2019s injury, indicating his return after Game 4 will be postponed. The update adds to the team\u2019s concerns about roster depth heading into the remainder of the series.",
-          "key_points": [
-            "Doncic\u2019s injury status remains uncertain, with no immediate return expected.",
-            "The delay could impact the Lakers\u2019 offensive production in upcoming games.",
-            "Coaches may need to adjust rotations and rely more on other scorers."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVlp3S1hLYkxicHNhRU9lMGpjVnA0UkJreE1XSzgtS2JMaldGT0RwSEFTYzlpM1BHbUNCX0YzNFFKMHMwUGQ2NGNYTjRPamlhdDZYRXhKWDdIaEpydFlSamtCMGdkdVJtSVREWWdLQkFJQnozek16MWRZUVhwdTNfX2J0UnBTenFVQXNyTV9Lc1BYd1dXWjZ2Vl9tcw?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-27T16:37:54+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -161,133 +161,153 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "2be59edd0e24",
-          "title": "How to Watch Pistons\u2011Magic Game 4 Tonight",
-          "original_title": "How to watch Detroit Pistons-Orlando Magic, Game 4: TV, live stream info for tonight's NBA playoff game",
-          "summary": "Game 4 of the Detroit Pistons vs. Orlando Magic series tips off at 8\u202fp.m. ET. The matchup will be broadcast nationally on NBC and streamed live on Peacock.",
+          "id": "33884e2ea2ec",
+          "title": "Where to Watch Pistons\u2011Magic Game 4: Stream, Time, Channel & Odds",
+          "original_title": "Where to watch Detroit Pistons vs Orlando Magic Game 4 NBA playoffs: Live stream, start time, TV channel, odds for Monday, April 27",
+          "summary": "The Detroit Pistons travel to Orlando for Game 4 of their first\u2011round series on Monday, April 27. The Magic enter the contest with a 2\u20111 series lead and will look to extend it. The article lists broadcast options, streaming platforms, start time and betting odds.",
           "key_points": [
-            "Tipoff: 8\u202fp.m. ET on Thursday.",
-            "Television: NBC.",
-            "Streaming: Peacock (free with NBCUniversal subscription)."
+            "Series standing: Magic lead 2\u20111 over the Pistons.",
+            "Game 4 kickoff: Monday, April 27, with TV and streaming details provided.",
+            "Betting information and odds are included for the matchup."
           ],
-          "link": "https://sports.yahoo.com/articles/watch-detroit-pistons-orlando-magic-191033569.html",
+          "link": "https://sports.yahoo.com/nba/article/where-to-watch-detroit-pistons-vs-orlando-magic-game-4-nba-playoffs-live-stream-start-time-tv-channel-odds-for-monday-april-27-210000682.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-04-27T19:10:33+00:00",
+          "published": "2026-04-27T21:00:00+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "35f93e46ce09",
-          "title": "Round 1 Recap: Upset Threats and Coaching Heat",
-          "original_title": "No-show Jokic, Magic & Raptors threaten upsets & coaches on the hot seat with Justin Termine & William Lou",
-          "summary": "Kevin O\u2019Connor reviews the opening round of the NBA playoffs, noting surprise performances from the Magic and Raptors and discussing coaches whose jobs are now in jeopardy. The conversation includes insights from analysts Justin Termine and William Lou.",
+          "id": "04e7bd0208db",
+          "title": "How to Watch Thunder vs. Suns Game 4: TV & Stream Info",
+          "original_title": "How to watch Oklahoma City Thunder-Phoenix Suns, Game 4: TV, live stream info for tonight's NBA playoff game",
+          "summary": "Game 4 of the Western Conference semifinals between the Oklahoma City Thunder and Phoenix Suns is set for a 9:30\u202fp.m. ET tip\u2011off. The contest will be broadcast nationally on Peacock and NBCSN, with streaming instructions included. The piece also notes the game\u2019s playoff context.",
           "key_points": [
-            "Magic and Raptors positioned as potential upset teams.",
-            "Several coaches face scrutiny after early\u2011round results.",
-            "Analysts Justin Termine and William Lou provide commentary."
+            "Tip\u2011off time: 9:30\u202fp.m. ET.",
+            "National broadcast on Peacock and NBCSN.",
+            "Provides streaming and TV channel details for viewers."
           ],
-          "link": "https://sports.yahoo.com/nba/article/no-show-jokic-magic--raptors-threaten-upsets--coaches-on-the-hot-seat-with-justin-termine--william-lou-190823925.html",
+          "link": "https://sports.yahoo.com/articles/watch-oklahoma-city-thunder-phoenix-204104767.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-04-27T19:08:23+00:00",
+          "published": "2026-04-27T20:41:04+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "08acc0568cd9",
-          "title": "Pistons vs. Magic Player Prop Picks for Game 4",
-          "original_title": "Pistons vs Magic Computer Picks: Our Best Player Prop Projections for Game 4",
-          "summary": "After three games of offensive struggles, the latest prop projections highlight Detroit\u2019s rookie Jalen Duren as a likely breakout performer in Game 4 against Orlando. The picks also adjust expectations for scoring and rebounding totals.",
+          "id": "a9321a202ebd",
+          "title": "Wembanyama Expresses Frustration Over NBA Concussion Protocol",
+          "original_title": "Victor Wembanyama 'very unhappy' with how NBA concussion protocol was handled after playoff injury",
+          "summary": "San Antonio Spurs phenom Victor Wembanyama said he is \"very unhappy\" with how the league handled the concussion protocol after his playoff injury. While he did not disclose specifics, he criticized the return\u2011to\u2011play process as inadequate. The comments highlight ongoing concerns about player safety procedures.",
           "key_points": [
-            "Jalen Duren projected to exceed his season averages.",
-            "Overall player prop lines lowered due to recent low\u2011scoring games.",
-            "Betting recommendations focus on Duren\u2019s points and rebounds."
+            "Wembanyama is dissatisfied with the concussion management after his injury.",
+            "He did not provide detailed grievances but called the process unsatisfactory.",
+            "The remarks raise questions about the NBA\u2019s medical protocols."
           ],
-          "link": "https://sports.yahoo.com/articles/pistons-vs-magic-computer-picks-184500303.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-04-27T18:45:00+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "fb61d141f76b",
-          "title": "Timberwolves Confirm Edwards\u2019 Knee Injury Is Non\u2011Structural, Out One Week",
-          "original_title": "Wolves confirm Edwards has no structural damage in his knee, but he'll be out for at least a week",
-          "summary": "Minnesota\u2019s All\u2011Star forward Anthony Edwards suffered a hyperextension and bone bruise in his left knee. An MRI showed no structural damage, but the team announced he will miss at least a week, including Game 5 of the first\u2011round series in Denver.",
-          "key_points": [
-            "Injury: left\u2011knee hyperextension with bone bruise.",
-            "MRI: no ligament or cartilage tears.",
-            "Projected absence: minimum one week, missing Game\u202f5."
-          ],
-          "link": "https://sports.yahoo.com/articles/wolves-confirm-edwards-no-structural-183535102.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-04-27T18:35:35+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "5970c2e9638b",
-          "title": "Pat Riley Vows to Stay After Heat Miss Playoffs",
-          "original_title": "Heat president Pat Riley says he won't resign or retire after team missed playoffs: 'I'm really pissed. I'm disappointed'",
-          "summary": "Heat president Pat Riley said he will neither resign nor retire despite the team\u2019s failure to make the postseason, expressing disappointment but reaffirming his commitment to bring another championship to Miami.",
-          "key_points": [
-            "Riley confirms he will remain with the Heat organization.",
-            "He expressed frustration over missing the playoffs.",
-            "Riley\u2019s goal remains delivering a future championship."
-          ],
-          "link": "https://sports.yahoo.com/nba/article/heat-president-pat-riley-says-he-wont-resign-or-retire-after-team-missed-playoffs-im-really-pissed-im-disappointed-182138289.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-04-27T18:21:38+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "b9ad568fd15b",
-          "title": "Pistons vs Magic Same-Game Parlay for Tonight's NBA Playoffs Game 4",
-          "original_title": "Pistons vs Magic Same-Game Parlay for Tonight's NBA Playoffs Game 4",
-          "summary": "Our Pistons vs. Magic SGP picks expect more of the same from Orlando in Game 4.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/pistons-vs-magic-same-game-181300674.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-04-27T18:13:00+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "fb19730a82f4",
-          "title": "Timberwolves star Anthony Edwards likely to miss multiple weeks after hurting knee in Game 4 vs. Nuggets",
-          "original_title": "Timberwolves star Anthony Edwards likely to miss multiple weeks after hurting knee in Game 4 vs. Nuggets",
-          "summary": "The Timberwolves superstar is expected to miss significant time after getting hurt on Saturday night",
-          "key_points": [],
-          "link": "https://www.cbssports.com/nba/news/anthony-edwards-injury-return-timeline-timberwolves/",
+          "link": "https://www.cbssports.com/nba/news/victor-wembanyama-very-unhappy-nba-concussion-protocol/",
           "source": "CBS Sports NBA",
-          "published": "2026-04-27T18:08:14+00:00",
+          "published": "2026-04-27T20:03:01+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "ea5ada4cb89d",
-          "title": "Timberwolves vs Nuggets Win Probability for Game 5 at Prediction Markets",
-          "original_title": "Timberwolves vs Nuggets Win Probability for Game 5 at Prediction Markets",
-          "summary": "Check out the Timberwolves vs. Nuggets win probability at Kalshi for Game 5 on April 27.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/timberwolves-vs-nuggets-win-probability-175800618.html",
+          "id": "fae9a9ce3329",
+          "title": "MRI Confirms Anthony Edwards\u2019 Bone Bruise, Out Week\u2011to\u2011Week",
+          "original_title": "It's official, MRI shows Anthony Edwards has bone bruise in left knee, listed as &quot;week to week&quot;",
+          "summary": "An MRI has confirmed that Minnesota Timberwolves forward Anthony Edwards suffered a bone bruise in his left knee. The injury sidelines him for the remainder of the first\u2011round series against the Denver Nuggets and likely beyond. The report lists his status as \"week to week\" with no immediate return date.",
+          "key_points": [
+            "Edwards diagnosed with a left\u2011knee bone bruise.",
+            "Out for the rest of the Timberwolves\u2019 first\u2011round series.",
+            "Status listed as \"week to week,\" suggesting a longer recovery."
+          ],
+          "link": "https://sports.yahoo.com/articles/official-mri-shows-anthony-edwards-200127004.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-04-27T17:58:00+00:00",
+          "published": "2026-04-27T20:01:27+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "a3d27f7f212c",
-          "title": "AJ Dybantsa Writes Heartfelt Thank You Message to BYU",
-          "original_title": "AJ Dybantsa Writes Heartfelt Thank You Message to BYU",
-          "summary": "After officially declaring for the NBA Draft last week, AJ Dybantsa published a long \u201cthank you\u201d message to BYU on his LinkedIn Monday. Below is the full post: \u201cWhen I committed to BYU, I knew I was signing up for something bigger than basketball. A lot of people questioned the decision. For me, the choice [\u2026]",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/aj-dybantsa-writes-heartfelt-thank-173814850.html",
+          "id": "95b432ac2454",
+          "title": "76ers vs. Celtics Game 5 Prediction, Picks & Odds",
+          "original_title": "76ers vs Celtics Prediction, Picks & Odds for NBA Playoffs Game 5",
+          "summary": "Ahead of Game 5, analysts project a close contest between Philadelphia and Boston, emphasizing Joel Embiid\u2019s rebounding impact. The preview includes betting odds, predicted outcomes, and key statistical matchups. It serves as a guide for fans and bettors heading into the decisive game.",
+          "key_points": [
+            "Joel Embiid highlighted for dominant rebounding in predictions.",
+            "Picks, odds, and projected scores are provided for Game 5.",
+            "Analysis focuses on the series\u2019 pivotal moments and betting angles."
+          ],
+          "link": "https://sports.yahoo.com/articles/76ers-vs-celtics-prediction-picks-200000182.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-04-27T17:38:14+00:00",
+          "published": "2026-04-27T20:00:00+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "8bef60e13e3c",
-          "title": "Best NBA Player Props Today for April 27: McDaniel McDelivers",
-          "original_title": "Best NBA Player Props Today for April 27: McDaniel McDelivers",
-          "summary": "Douglas Farmer breaks down his favorite NBA player props for Monday, April 27, headlined by Jaden McDaniels and Jalen Suggs.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/best-nba-player-props-today-172500843.html",
+          "id": "fd642c5a16ba",
+          "title": "Celtics and Spurs Poised to Advance as Knicks, Hawks Face Game 5",
+          "original_title": "Celtics and Spurs can advance on Tuesday. The Knicks and Hawks play the first pivotal Game 5 of 2026",
+          "summary": "The Boston Celtics and San Antonio Spurs, both No.\u202f2 seeds, are one win away from moving on in the 2026 NBA playoffs after solid victories in Philadelphia and Portland. Meanwhile, the New York Knicks and Atlanta Hawks remain dead\u2011locked at 2\u20112 in their series, with Game\u202f5 set to determine which team gains the edge.",
+          "key_points": [
+            "Celtics and Spurs each need one more win to secure advancement.",
+            "Knicks and Hawks are tied 2\u20112, making Game\u202f5 a pivotal turning point.",
+            "Both series feature No.\u202f2 seeded teams, highlighting the high stakes."
+          ],
+          "link": "https://sports.yahoo.com/articles/celtics-spurs-advance-tuesday-knicks-194214438.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-04-27T17:25:00+00:00",
+          "published": "2026-04-27T19:42:14+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "837cb77bc1e6",
+          "title": "Is Jonathan Kuminga the Hawks' Best Chance Against the Knicks?",
+          "original_title": "Is Jonathan Kuminga the Hawks' best chance against the Knicks?",
+          "summary": "Jonathan Kuminga's blend of shot creation and physical play has emerged as a key factor for Atlanta in its playoff matchup with New York. Over the first four games, his ability to spark the offense and provide toughness has been highlighted as a potential decisive element.",
+          "key_points": [
+            "Kuminga offers both scoring and physicality for the Hawks.",
+            "His performance has been a major talking point throughout the series.",
+            "Analysts view him as a possible game\u2011changing factor in Game\u202f5."
+          ],
+          "link": "https://sports.yahoo.com/nba/article/is-jonathan-kuminga-the-hawks-best-chance-against-the-knicks-194114744.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-27T19:41:14+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "a788b6e5eb06",
+          "title": "Hawks vs. Knicks Same\u2011Game Parlay Picks for Playoff Game 5",
+          "original_title": "Hawks vs Knicks Same-Game Parlay for Tuesday's NBA Playoffs Game 5",
+          "summary": "Yahoo Sports presents a same\u2011game parlay guide for the Knicks\u2011Hawks Game\u202f5 on April\u202f28, focusing on betting selections and predictions. The article emphasizes the home\u2011court advantage for New York at MSG and offers odds for various outcomes.",
+          "key_points": [
+            "Parlay recommendations target key betting markets for Game\u202f5.",
+            "Home\u2011court advantage for the Knicks is highlighted.",
+            "Odds and predictions are based on recent series trends."
+          ],
+          "link": "https://sports.yahoo.com/articles/hawks-vs-knicks-same-game-160700074.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-27T19:40:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "76264099f74f",
+          "title": "Top Games and Betting Odds: Thunder vs. Suns, Knights vs. Mammoth and More",
+          "original_title": "Today's top games to watch, best bets, odds: Thunder vs. Suns, Golden Knights vs. Mammoth and more",
+          "summary": "CBS Sports outlines the biggest matchups to watch on Monday, providing expert betting lines and projections from the SportsLine Model. The preview includes NBA action between the Oklahoma City Thunder and Phoenix Suns, as well as NHL and other sports contests.",
+          "key_points": [
+            "Featured NBA game: Thunder vs. Suns with betting insights.",
+            "Includes NHL matchup: Golden Knights vs. Mammoth.",
+            "Odds and projections are sourced from SportsLine and CBS experts."
+          ],
+          "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-thunder-vs-suns-golden-knights-vs-mammoth-and-more/",
+          "source": "CBS Sports NBA",
+          "published": "2026-04-27T19:30:42+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "915e4280ae58",
+          "title": "Knicks Need \u2018Higher Level of Desperation\u2019 for Game 5 vs. Hawks",
+          "original_title": "Knicks know they must bring 'higher level of desperation' into Game 5 vs. Hawks",
+          "summary": "Coach Mike Brown says the New York Knicks must elevate their intensity and urgency heading into Game\u202f5 against the Atlanta Hawks in New York. The statement underscores the pivotal nature of the contest and the team's resolve to avoid falling behind in the series.",
+          "key_points": [
+            "Coach Brown calls for increased desperation and focus.",
+            "Game\u202f5 is a critical juncture in the Knicks\u2011Hawks series.",
+            "The team aims to capitalize on home\u2011court advantage at MSG."
+          ],
+          "link": "https://sports.yahoo.com/articles/knicks-know-must-bring-higher-192944738.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-27T19:29:44+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -296,133 +316,78 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "843336be2da5",
-          "title": "Lakers, Rockets receive injury updates on Luka Doncic, Austin Reaves, and Kevin Durant for Game 5 - bolavip.com",
-          "original_title": "Lakers, Rockets receive injury updates on Luka Doncic, Austin Reaves, and Kevin Durant for Game 5 - bolavip.com",
-          "summary": "Lakers, Rockets receive injury updates on Luka Doncic, Austin Reaves, and Kevin Durant for Game 5&nbsp;&nbsp;bolavip.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWmtyNnFsNmluSEdmX1drRHdxaVVXUjhhVEZlRXpFN1RaRFQya19KYVBWRFl4aWlpZjI3YmlPR3YtN2E3MVlrX1hxMUxSY2twYmYwWml1cUxucEZmZkwzSGxWTk5Ob1h6YTdYaWVTVmZDZ21oZjRWcG1ZVlRkbmhzLUZIY0tlMFNhNGlDWmk4eGg5XzBPUG9DQmxXRThONndOYU51Ti1RSldWb0c5TmhHUlZubC0zMDdyNzNnVk9R0gHDAUFVX3lxTE1pUVlxd3Rld0drRVFjbmRUU1ZFbDE0WXIwSUF1Z1ZKdTF6N0p0RmtsWExwMnpCZF9SLWVmakw5YjhNYW1OOWEtbkZHMHJfSHc1NlM2SjRRaFRYRVYtdFNYYVM0b2tEQVBDaXYwVUVMcnNCcHB5UDVCU0dhY0NaSEwzWlh3VE10WmEycXROM3VUcXBON01KUHFoUURaYmlmSEphOVN1cjdVOTUwUDR4eWNUcWJqa3pWR21OOE9ra0cySHBQMA?oc=5",
+          "id": "e8f7a39fbe1f",
+          "title": "How to Get Tickets for Lakers\u2011Rockets Playoff Elimination Game 5",
+          "original_title": "How to get tickets for Lakers vs. Rockets NBA Playoffs elimination Game 5 in LA - PennLive.com",
+          "summary": "PennLive.com outlines the steps fans can take to purchase tickets for Game 5 of the Lakers vs. Rockets Western Conference first\u2011round elimination series in Los Angeles. The guide covers official ticket outlets, resale platforms, and timing tips to improve the chances of securing seats.",
+          "key_points": [
+            "Tickets are available through the NBA\u2019s official resale marketplace, Ticketmaster, and select secondary\u2011market sites.",
+            "Fans are advised to act quickly once the ticket release window opens, as demand is expected to be high.",
+            "The article includes price ranges, seating recommendations, and advice on avoiding scams."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQY0JXcEFUZXhWTWlKcWFiV3FsZ3h2RDlKbUlJY1RxVkVHYnlocjFUYWt1SkNaX3p3RXBwZVBPX1BKU201cWh3M21peGNpMEpza0VocG51QTg5RS1zMmVER2ZUajZnQ2JfZVQxcUJXOTgtUlFfQjdrbzRodHFIRWxoOHNIQzFMcWVCb3dzMklNT2M0LXlKMzJnV0RRRTZ5bWFEV0VxQjBkSElOUWNfa0NORHdhaUlWNHFEVHZtNF9YMFBXWWhPbnRjUm93RGtrc05oRmNF0gHnAUFVX3lxTFA3RGJBNE5NYjVQWlYxSUd1c01QRktsX1pCd0VrSi1QSWw2Z0o2WTZOQkdpTWM1TTNrOUNIa2hhZ2VWYTFyT1FEOUVHcTRiUm9lOE0wa0VmNjJ4X1c5VVZoYVJ6cGd3RUNCN3hCS0dXaERmajJKTmk0VWIwY3RUblNaaGtYVWpvcU5ydWQ5SkhnbHNCN0F5UWp1cmo0bDNWa2lfUV93SG1yVDZBS1pmbDhTZ2hYSzdhWU1MZHdLaXdIbmFiaXJ6ZlRNMFBKTmFFTTNwOVE4MjNlQjBCcG5ERUlWQV9od2w1dw?oc=5",
           "source": "Google News - Luka",
-          "published": "2026-04-27T19:03:17+00:00",
+          "published": "2026-04-27T20:58:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "6eae207229e0",
+          "title": "LeBron James Gives Emphatic Answer on Lakers' Comfort Level",
+          "original_title": "LeBron James give emphatic answer about Lakers' comfortability - Lakers Nation",
+          "summary": "In a recent interview with Lakers Nation, LeBron James addressed questions about the team's comfort and confidence heading into the playoffs. He emphasized that the roster feels prepared and that the organization\u2019s culture supports a winning mindset.",
+          "key_points": [
+            "James stated the players are \u201ccomfortable\u201d with the system and each other\u2019s roles.",
+            "He highlighted the importance of veteran leadership and the coaching staff\u2019s adjustments.",
+            "The comments came as the Lakers prepared for a pivotal postseason matchup."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa3ZBR2ItWndTUVhzZm1GLVoxZlJ6SVlSdlNnbXpHYVozWm5CSEREV0xUQ3l3RjZaTWN4TDEyZXBUNVlTNmVkcnAtUHg5LXl0UnNpTDQtX2Y0dFZDLVBrSFBQSWNUX3VDZUlsRlBrR09lbTdmelhiVU5XOWRQQTJmRHFEeUhuLTItTUtBa3FrV2FPdElrU2E2S3dsekg4Yk0?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-04-27T20:35:48+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "a5056fdb612a",
+          "title": "LeBron James Says Lakers Aren\u2019t Comfortable With 3\u20111 Series Lead",
+          "original_title": "LeBron James and Lakers not comfortable with 3-1 series lead - Orange County Register",
+          "summary": "The Orange County Register reports that despite holding a 3\u20111 advantage in their playoff series, LeBron James expressed unease about the team's performance and focus. He warned against complacency and stressed the need to finish the series decisively.",
+          "key_points": [
+            "James noted that a 3\u20111 lead can create a false sense of security.",
+            "He called for continued intensity on both ends of the floor.",
+            "The remarks were made ahead of Game 5, emphasizing the importance of closing out the series."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZVZKRndkN21VUkdia0pkV3YxU3I2RzA0ajNLanRkVjBmd2RTclN0QmQyZllQdEQwckhzOGtzZXdyT3EtTUtTMXRSWW5yZk8tNUFXQm1hQ3JFVmVJelUwUFRxZVMxelJWbUQ2WnBsRU9WekFUX0dGcENvU2dmQ0FITU5CMXRGYUE3VzJSc1F3NXdkNUJXUWNrZWUwTFJ1Y25u?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-04-27T20:31:36+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "33bdd6602642",
+          "title": "LeBron James Dips Toe Into Golf Vlog Content",
+          "original_title": "LeBron James Has Dipped His Toe in the Golf Vlog Content Game - Yahoo Sports",
+          "summary": "Yahoo Sports details LeBron James\u2019 recent foray into golf\u2011related video content, marking his first public venture into the sport\u2019s media space. The videos showcase his practice sessions and interactions with fellow players, blending lifestyle content with his athletic brand.",
+          "key_points": [
+            "James partnered with a golf media outlet to produce a short vlog series.",
+            "The content highlights his progress on the course and his enjoyment of the game.",
+            "The venture expands James\u2019 off\u2011court brand while connecting with a broader audience."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS255bGdCazRqZ3d2SWlnXzBXRm5iUXRnX3F4X3MyVFRiT1ZGclVnUXd4QlRZQmoyeGpyeFR6dmMxMmhkNFRWamJxbHdzNWh4aHFlQUpBUWx0XzhjNEFnU3VNNG9MVjZRdnMtbUwwRkN0MzNRbVFhQTRXQkFOS05sRWVnUQ?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-04-27T19:51:25+00:00",
           "topic": "Lakers Players"
         },
         {
           "id": "4d2a76a63fdb",
-          "title": "An inevitable LeBron James wake-up call just happened at the best possible time - Lake Show Life",
+          "title": "LeBron James Receives Wake\u2011Up Call at Crucial Moment",
           "original_title": "An inevitable LeBron James wake-up call just happened at the best possible time - Lake Show Life",
-          "summary": "An inevitable LeBron James wake-up call just happened at the best possible time&nbsp;&nbsp;Lake Show Life",
-          "key_points": [],
+          "summary": "Lake Show Life analyzes a recent performance lapse by LeBron James that served as a wake\u2011up call for both him and the Lakers. The piece examines how the incident could influence the team\u2019s approach as the playoffs intensify.",
+          "key_points": [
+            "James experienced an uncharacteristic scoring slump during a key stretch.",
+            "The article suggests the lapse may prompt adjustments in usage and strategy.",
+            "It underscores the timing of the wake\u2011up call as the Lakers aim to secure a deep postseason run."
+          ],
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNzI2U0Uyek00S1dnOEZXbW5jaWg4NzUtZDNrMDVkb0tJemM5dHVzYmpCYzV6T1kzZHg5ZWVBWVB1UG9TbzJUVVFUZ1BSelY3LWlremJ1N0FjUHl2ZXp6aFJKMHg0TmRGcHcxQ2xCVmhCZldMdGtYSjV3YTBKeVU1SUhqRnB1Z09sUEk2ZE1KWVlOcGcwVzNMRHEzQ2hXcFRJbHZjUXB2VE05Sk1yMzhkeUVZWQ?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-04-27T19:00:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "7d9f42c1d464",
-          "title": "Lakers Legend Reveals Why He Passed Up on Luka Doncic in 2018 NBA Draft - heavy.com",
-          "original_title": "Lakers Legend Reveals Why He Passed Up on Luka Doncic in 2018 NBA Draft - heavy.com",
-          "summary": "Lakers Legend Reveals Why He Passed Up on Luka Doncic in 2018 NBA Draft&nbsp;&nbsp;heavy.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOd05kZE5UT1B3eUZRMWFHWHFQOVhmVGlXYUh6VkgxZ2puUXBNemQ2WVppbGpqM3NVaXJGUHA5d1pucG84R2tPMUVkaTB6ZEdteU5zTWllUTNZRlZuSGt4ckYxSmk1dUt5LUdlbUdiSXdCcDZ6MHBhX3JRT0NWemZkbFNMUGY5UQ?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-04-27T18:32:36+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "e930e40a2ff3",
-          "title": "LeBron James\u2019 Game 5 bounce-back feels inevitable if recent Lakers trend holds - Lake Show Life",
-          "original_title": "LeBron James\u2019 Game 5 bounce-back feels inevitable if recent Lakers trend holds - Lake Show Life",
-          "summary": "LeBron James\u2019 Game 5 bounce-back feels inevitable if recent Lakers trend holds&nbsp;&nbsp;Lake Show Life",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONF9RcU50VGhCbjdyT1YzLW1yMDVXem5USjY2d3JubFc5bzI3UnhYUkVMWmZxMVpaYVlZWFJNNjA2bGFXcThVNC12RFhQMjNZN0pnZk5yQUswZHhicHdKUU1YeFNaUHFBM0dGUGJRcWpTcWdnTnBWUHVNZzdmQ1RVNjM5MGFidzBxRE9aVVoyNm9oS3FCSXY4WDRoc2F1bWZNS3FN?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-27T18:00:01+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "dfb271c89cb8",
-          "title": "Lakers\u2019 Luka Doncic nears potential return as latest injury report provides updates - bolavip.com",
-          "original_title": "Lakers\u2019 Luka Doncic nears potential return as latest injury report provides updates - bolavip.com",
-          "summary": "Lakers\u2019 Luka Doncic nears potential return as latest injury report provides updates&nbsp;&nbsp;bolavip.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZG4xaWthZ2tDZ1NtNlJkWmhRTGE1VkxiNEVsN1M1WTMwSUI5LUtqcDJfTkNqd3hpZ3M3RV9RaG9QWGZjdEhheFBvRF9kWXFNb2JISW0tcnBIRGg2UnYxUktLcXk5Z1FDckFqTEM2YzJ2U0NZaG5jNUJleWh4VGd0Y3I4VURyWGlzU1VNUm1KQjc5SlViLXQyOExBRFBpcXFGMWhsUjhqUWpKT29FLWfSAbMBQVVfeXFMTXlneldhSi1JMU5UZldCUFlMa1ZJb2VaMGdRTzlBRDR3YmdCWWJNdUNXNUJYTEp5c1o0ZkVmdzlsTXN1ekxXMXgybE5HREdoaHI0ekVEelFILW9MdjRJcmVuR2t2M19ObEYtQUhJNlN3amR4bG9TSUJSWDZfWG9pN1l4aVhFWE1KN3dlR0JKbFltcjhPUmtHcGFMZm9OUndYVmxJQ0sya0NBd2pReHNxMUhieEU?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-04-27T17:43:43+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "3d770239505f",
-          "title": "Lakers Reveal \u2018Insane\u2019 LeBron James Update Ahead of Game 5 vs. Rockets",
-          "original_title": "Lakers Announce \u2018Insane\u2019 LeBron James News Before Game 5 vs Rockets - heavy.com",
-          "summary": "The Los Angeles Lakers released a major update regarding LeBron James before the decisive Game 5 against the Houston Rockets. The announcement highlighted James\u2019 health status and his readiness to play, aiming to boost team morale and fan excitement ahead of the matchup.",
-          "key_points": [
-            "LeBron James was cleared to play and listed as active for Game 5.",
-            "The team emphasized his leadership role in the upcoming elimination game.",
-            "The announcement was framed as a morale\u2011boosting move for both players and fans."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5iTXhXS0xfZThkdlRaVnRuendYdGpmdzZnZ1hjeHZjbHlHUGNaY1Q5YkpQeDNTeHhaQjNCOXJ5YnBCSDl1SDVRbWQxQmRkYkVzMjhnY09yVTVQQTJYNm9OeWZrVHZtejN4VzRvcTBveGdCRl9WYV82UUpTOVBXUQ?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-27T15:51:34+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "9de582c7b262",
-          "title": "LeBron James Calls Game 4 a \u2018Tough Night\u2019 for Lakers",
-          "original_title": "Lakers' LeBron James: Tough night in Game 4 loss - CBS Sports",
-          "summary": "After a loss in Game 4, LeBron James described the night as difficult for the Lakers, citing execution issues and fatigue. The statement reflected the team\u2019s frustration and underscored the need for adjustments moving forward.",
-          "key_points": [
-            "James highlighted poor shooting and defensive lapses as key factors in the defeat.",
-            "He noted the physical and mental fatigue affecting the roster.",
-            "The comments set the tone for a needed response before the next game."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV2haTmY0NnpuR2haY3dfX2REZm8yNFVNUXdjeENyZlBPUWtOZGY4bkNxcWpMWW9sTFR1UUhVbkRJS3FOcWI3bUZnXzNaWVNaRHNnWmszX0NTR2JoTF9kbS1rMXV6OUV0TVRZcmFTMVB4ajlMZXpKUkhTT0x4VHpXQmduNWMwRGszdTY5ZkJ4SlhSSTZkM3BrMWoyMnlQZw?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-27T15:37:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "b2bd6714fb7c",
-          "title": "LeBron James Identifies Primary Reason Lakers Fell in Game 4",
-          "original_title": "LeBron James pinpoints biggest reason for Lakers losing Game 4 - Lakers Nation",
-          "summary": "LeBron James pinpointed the Lakers\u2019 lack of defensive intensity as the biggest cause of their Game 4 loss. He stressed that missed assignments and poor rotations allowed the opposition to capitalize on scoring opportunities.",
-          "key_points": [
-            "Defensive communication breakdowns were highlighted as the main issue.",
-            "James called for greater effort and focus on the defensive end.",
-            "The insight aims to guide coaching adjustments for the upcoming game."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qT1FOTTF4YVBPVHhRUFp4R0ZubjdQd0cyejc3RG50cVJra3M4dkZuY0NWWW5DZzB6V3FZeGpHMV9VUC1lOGRNbXVNOTlyV1JSWGNsT213SHdxdWxjRjQ3QmhGdkstVDRqOEUxTGU0aGxqYzd1bEJUMHkyX0VkZm8?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-27T15:15:08+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "16f95dc31a17",
-          "title": "NBA Community Reacts to LeBron James\u2019 Performance vs. Rockets",
-          "original_title": "NBA World Reacts To LeBron James\u2019 Performance In Lakers-Rockets Game - heavy.com",
-          "summary": "Fans, analysts, and former players shared their reactions to LeBron James\u2019 showing in the Lakers\u2011Rockets game. Opinions ranged from praise for his scoring burst to criticism of his efficiency and overall impact.",
-          "key_points": [
-            "Social media praised James\u2019 scoring surge and clutch moments.",
-            "Critics pointed to low shooting percentages and turnovers.",
-            "The consensus emphasized James\u2019 veteran presence despite mixed statistical output."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMmVLQzRHX1hmaXNlbDZ0dnVzZEpYaVBIUGtkWUFSLUVlQm9fdmp0TzhaMWQ4bnExdERJU25NaFRSdncxX2s4ckdXbzR0QkVZTzVZZTVqODVXU1NmNVEyU1JRTE9KUWlwelpMVl9ZQ0VaQ2R5UGdqMlhDQnpJdUdVRUtGc1dmNGxQb0d2dWRPbW5yRmVFR05QUXFHZ25WRmdIWWJ2TU9HajY?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-27T14:22:25+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "42cf3ccf8ee0",
-          "title": "Stephen A. Calls LeBron\u2019s Game 4 Effort a \u2018Complete Aberration\u2019",
-          "original_title": "Stephen A.: LeBron's Game 4 'a complete aberration' - ESPN",
-          "summary": "ESPN\u2019s Stephen A. Smith labeled LeBron James\u2019 performance in Game 4 as an outlier, describing it as a \u201ccomplete aberration\u201d compared to his usual standards. He argued that the poor showing was uncharacteristic and should not define the Lakers\u2019 season outlook.",
-          "key_points": [
-            "Smith emphasized that James\u2019 subpar game was an exception, not the norm.",
-            "He highlighted James\u2019 typical consistency and leadership as evidence.",
-            "The commentary suggested the Lakers can rebound once James returns to form."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtZy1KdE14VW41Y1oxcFdCQ0RiQTNOUk1BWUdCSFVEenBhQjRVMkhTSGNCODYzMHZqSEI2MXdDOG54UzdTZUp4eDhaOTY0dmptWGtuVkJ4OEQ?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-27T14:21:02+00:00",
           "topic": "Lakers Players"
         }
       ]
