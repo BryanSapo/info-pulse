@@ -1,158 +1,118 @@
 {
-  "generated_at": "2026-04-28T14:18:01.833200+00:00",
+  "generated_at": "2026-04-28T18:04:17.796805+00:00",
   "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
+          "id": "18dcea8540a1",
+          "title": "LeBron James Becomes First Player To Reach Significant Playoff Milestone",
+          "original_title": "LeBron James Becomes First Player To Reach Significant Playoff Milestone",
+          "summary": "Los Angeles Lakers star LeBron James became the first player in NBA history to make 3,000 career playoff field goals. James accomplished the feat with his second basket of Game 4 against the Houston Rockets. James has a sizable lead on Kareem Abdul-Jabbar (2,356) and Michael Jordan (2,188) for most-made playoff field goals and will [&#8230;]",
+          "key_points": [],
+          "link": "https://lakersnation.com/lebron-james-becomes-first-player-to-reach-significant-playoff-milestone/",
+          "source": "Lakers Nation",
+          "published": "2026-04-28T17:35:08+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "087d167cf246",
+          "title": "Jabari Smith Jr: Rockets 'obviously the better team' against Lakers - Houston Chronicle",
+          "original_title": "Jabari Smith Jr: Rockets 'obviously the better team' against Lakers - Houston Chronicle",
+          "summary": "Jabari Smith Jr: Rockets 'obviously the better team' against Lakers&nbsp;&nbsp;Houston Chronicle",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYTN4NGZrUXpLX0o0aUhCUndLYkNuT084UW94dXc5YWpVY2JLMDJqTHo1LUJDNGFEbnh1ZkZWRHZSZ2c1R1JXZkM3czdRVTloSzhaZFp6dW1tSTE1d2hQVlhVbnVEQ0JlWVVPWmluMW9wUE9icl9DNlVsa0xfazd4MGJHandmOTZmQk9sekNidWdFRENqWUtOLWdXSmJ5azFSN3NhV1hxZmJ0YkE5WFJzaQ?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-28T17:09:09+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "9df5f64e1153",
+          "title": "Shai Gilgeous-Alexander Already Keeping Tabs On Lakers & Rockets",
+          "original_title": "Shai Gilgeous-Alexander Already Keeping Tabs On Lakers & Rockets",
+          "summary": "The Los Angeles Lakers and Houston Rockets are still battling for a place in the Western Conference Semifinals. L.A. holds a 3-1 series lead after dropping Game 4 in blowout fashion in Houston. The winner of the series will go on to face Shai Gilgeous-Alexander and the dominant Oklahoma City Thunder. The Thunder secured their [&#8230;]",
+          "key_points": [],
+          "link": "https://lakersnation.com/shai-gilgeous-alexander-already-keeping-tabs-on-lakers-rockets/",
+          "source": "Lakers Nation",
+          "published": "2026-04-28T16:35:22+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "d670642f4747",
+          "title": "The end of the LeBron/AD era was really a missed opportunity",
+          "original_title": "The end of the LeBron/AD era was really a missed opportunity",
+          "summary": "Being up 3-1 in the first round with Father Time Lebron + role players has me feeling some type of way about the previous Lakers era.  Lakers Nation was begging for years for Rob to get a 2-way POA defender like Marcus Smart. Instead we were blursed with the cadavers of Kendrick Nunn and Gabe Vincent + streaky D-Lo (won't even talk about the expensive PG we traded all our good role players for) that constantly relied on AD to bail them out on defense which undoubtedly contributed to his multiple",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/lakers/comments/1sy6gvi/the_end_of_the_lebronad_era_was_really_a_missed/",
+          "source": "Reddit r/lakers",
+          "published": "2026-04-28T16:30:49+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "ec68c80b4c3e",
+          "title": "Divac on passing on Luka: \u201cLuka is a point guard. Luka is a coach on the floor. And I felt that if I get Luka, I would have to trade De\u2019Aaron Fox, and I already got a relationship with Fox, and I see he\u2019s a perfect fit for us, a small market team, and Luka was a big market player\u201d",
+          "original_title": "Divac on passing on Luka: \u201cLuka is a point guard. Luka is a coach on the floor. And I felt that if I get Luka, I would have to trade De\u2019Aaron Fox, and I already got a relationship with Fox, and I see he\u2019s a perfect fit for us, a small market team, and Luka was a big market player\u201d",
+          "summary": "      &#32; submitted by &#32;  /u/Luka77GOATic   [link] &#32; [comments] ",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/lakers/comments/1sy5j95/divac_on_passing_on_luka_luka_is_a_point_guard/",
+          "source": "Reddit r/lakers",
+          "published": "2026-04-28T15:58:20+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "c8fc00a76793",
+          "title": "\u2018Running Point\u2019 Is \u2018The Office\u2019 Meets the Lakers - The New York Times",
+          "original_title": "\u2018Running Point\u2019 Is \u2018The Office\u2019 Meets the Lakers - The New York Times",
+          "summary": "\u2018Running Point\u2019 Is \u2018The Office\u2019 Meets the Lakers&nbsp;&nbsp;The New York Times",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeEY5VmVEUnRKZ3FETzhiSkF3aWlLdWRLSllyYjZZd2kxTUhiUDNmal95VjZJUmZIWjhVa2JVcTNraU9SUTNjQ3EwZDF1c2JJYmZXS2EwT21UWFdJNVhkdUw1OWE2S2wxcmlhUklPZUhiZ0lLcFJ3Z1dhZ1N6TGpIak56TQ?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-28T15:54:07+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "42c8f0020d60",
+          "title": "Lakers Rumors: Optimism Austin Reaves Will Return In Game 5",
+          "original_title": "Lakers Rumors: Optimism Austin Reaves Will Return In Game 5",
+          "summary": "The Los Angeles Lakers have been without both of their star guards Luka Doncic and Austin Reaves for the first four games of their series against the Houston Rockets, but reinforcements appear to be on the way. While Doncic still has a few hurdles to cross before returning, there is optimism that Reaves will be [&#8230;]",
+          "key_points": [],
+          "link": "https://lakersnation.com/lakers-rumors-optimism-austin-reaves-will-return-in-game-5/",
+          "source": "Lakers Nation",
+          "published": "2026-04-28T15:40:20+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "d0b70d8c60d6",
+          "title": "Lakers optimistic Austin Reaves will return for Game 5 vs. Rockets",
+          "original_title": "Lakers optimistic Austin Reaves will return for Game 5 vs. Rockets",
+          "summary": "Lakers fans have no fear, Austin Reaves is almost here. After a couple of games where Reaves was listed as questionable but didn\u2019t play, it seems that he is likely to make his return to the court for Game 5 vs. the Rockets. Shams Charania of ESPN is reporting that, barring a setback, the Lakers [&#8230;]",
+          "key_points": [],
+          "link": "https://www.silverscreenandroll.com/lakers-injury-report/115541/lakers-injury-report-austin-reaves-2026-nba-playoffs-update-status-rockets",
+          "source": "Silver Screen and Roll",
+          "published": "2026-04-28T15:02:20+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "d8fb7e859561",
+          "title": "Houston Rockets @ Los Angeles Lakers: Live game updates, stats, play-by-play - Yahoo Sports",
+          "original_title": "Houston Rockets @ Los Angeles Lakers: Live game updates, stats, play-by-play - Yahoo Sports",
+          "summary": "Houston Rockets @ Los Angeles Lakers: Live game updates, stats, play-by-play&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQR3VzdVZkQTJjZzl4SmJIdzNheDR2MTdnS2FVVXVGWV83eWl6UmZXdnVFVzl2RzVXQmxLYV9Wc2pEeWlrLWplak9Md2Q2TlVJUXRKWFlaVTVGNUsxbHI5cGRlZHpwUk12VVhMM01yVFZQMldNUThWOVZ6OHdWSVJsbg?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-28T14:30:46+00:00",
+          "topic": "Lakers News"
+        },
+        {
           "id": "42434d7e5a6a",
-          "title": "Smart Says Lakers\u2019 Game\u20114 Collapse Was More Mental Than Physical",
+          "title": "Marcus Smart Believes Lakers\u2019 Fatigue In Game 4 Was More Mental Than Physical",
           "original_title": "Marcus Smart Believes Lakers\u2019 Fatigue In Game 4 Was More Mental Than Physical",
-          "summary": "After blowing a 3\u20110 series lead against the Houston Rockets, the Lakers lost Game 4 in a blowout. Marcus Smart attributed the defeat largely to mental fatigue, pointing to the team's 23 turnovers as a symptom of lost focus rather than physical exhaustion.",
-          "key_points": [
-            "Lakers failed to sweep Rockets, losing Game 4 by a large margin.",
-            "The team committed 23 turnovers, the highest total in the series.",
-            "Smart believes mental fatigue, not physical tiredness, was the primary issue."
-          ],
+          "summary": "The Los Angeles Lakers were unable to complete the sweep of the Houston Rockets in their first round playoff series, dropping Game 4 in blowout fashion. There were a number of issues that hurt the Lakers, but one of the biggest was their turnovers. The Lakers committed 23 turnovers on the night, leading to 30 [&#8230;]",
+          "key_points": [],
           "link": "https://lakersnation.com/marcus-smart-believes-lakers-fatigue-in-game-4-was-more-mental-than-physical/",
           "source": "Lakers Nation",
-          "published": "2026-04-28T14:10:41+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "c214d3ec1706",
-          "title": "Luka Labels Sengun a \u201cBaby Capela\u201d on Reddit",
-          "original_title": "Luka calls Sengun \"baby Capela\" \ud83e\udd23",
-          "summary": "A Reddit post on r/lakers highlights a comment where Luka Don\u010di\u0107 jokingly referred to Alperen \u015eeng\u00fcn as a \u201cbaby Capela.\u201d The post generated discussion among fans but contains no additional substantive news.",
-          "key_points": [
-            "The comment is a light\u2011hearted comparison made by Luka Don\u010di\u0107.",
-            "Discussion centered on \u015eeng\u00fcn\u2019s playing style and potential.",
-            "No official statements or game\u2011related information were provided."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1sy2fwi/luka_calls_sengun_baby_capela/",
-          "source": "Reddit r/lakers",
-          "published": "2026-04-28T14:06:02+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "9b505126cca6",
-          "title": "Reddit Thread: \u201cHoodie season > trade season\u201d",
-          "original_title": "Hoodie season > trade season.",
-          "summary": "A Reddit user posted a meme\u2011style comment suggesting that the upcoming \u201choodie season\u201d (cold weather) is more exciting than any potential NBA trade activity. The thread sparked typical fan banter without offering concrete news about the Lakers.",
-          "key_points": [
-            "Post is a fan\u2011generated opinion comparing seasonal fashion to trade speculation.",
-            "Comments focus on casual conversation rather than roster moves.",
-            "No official trade rumors or team updates were included."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1sy2cm4/hoodie_season_trade_season/",
-          "source": "Reddit r/lakers",
-          "published": "2026-04-28T14:02:43+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "92d756bcf575",
-          "title": "Daily Lakers Discussion Thread Opens on Reddit",
-          "original_title": "Daily Lakers Discussion Thread",
-          "summary": "The r/lakers community launched its daily discussion thread for the new season, inviting fans to talk about any Lakers\u2011related topics. The thread serves as a general forum for fan interaction and does not contain specific news items.",
-          "key_points": [
-            "Thread is a recurring daily post for fan conversation.",
-            "Encourages discussion on games, players, and rumors.",
-            "No new information about team roster or performance was presented."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1sy2agj/daily_lakers_discussion_thread/",
-          "source": "Reddit r/lakers",
-          "published": "2026-04-28T14:00:36+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "53edc4428a06",
-          "title": "Austin Reaves Optimistic About Returning for Game 5",
-          "original_title": "Austin Reaves 'Optimistic' to Return to Lakers' Lineup in Wednesday's Game 5 - Sports Illustrated",
-          "summary": "Sports Illustrated reports that Austin Reaves is hopeful about rejoining the Lakers\u2019 lineup for Game 5 of the playoff series. Reaves\u2019 optimism follows a brief absence due to a minor injury, and his return could bolster the team\u2019s depth.",
-          "key_points": [
-            "Reaves missed the previous game because of a minor injury.",
-            "He expressed confidence about being cleared for Game 5.",
-            "His return would add scoring and defensive versatility to the Lakers."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNWo1SHhnRmZOWEktLXg3bndhWWpMQzRLU0VOcjVYWDRGRXN1MHFJZHhONzNuZ1NoVWU1VmI3Rmw1amI3LXJGb3VILUNyVWZKVU5aQk1pd1pyZWl2a3BRT2NvN0Z4b1JFejBWNENIMmM3ekliZU50NTI0Q3RQTUhVa3dSZllPLWNRVW9neG05Xy1BeDRWMFE?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-28T13:40:19+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "319c6183a6e1",
-          "title": "Injury Updates: Austin Reaves & Luka Doncic Ahead of Lakers Game 5 vs. Rockets",
-          "original_title": "New Austin Reaves, Luka Doncic Injury Updates Ahead of Lakers' Game 5 vs. Rockets in NBA Playoffs - Bleacher Report",
-          "summary": "Bleacher Report notes that both Austin Reaves and Luka Doncic are dealing with injuries as the Lakers prepare for Game 5 against the Houston Rockets. The report outlines the status of each player, the expected timeline for return, and how their health could affect the Lakers' playoff chances.",
-          "key_points": [
-            "Reaves is listed as questionable (GTD) for Game 5 after a recent ankle sprain.",
-            "Doncic is also doubtful, dealing with a minor knee strain that limits his practice participation.",
-            "Lakers coach emphasizes depth and adjustments if either star is unavailable."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZk0wdjllOHNfSEJ0Rm1NQlVoeTlMZGNBUXdhQXJMZm9qWmgzdF95RWZFQXIzZEJQT0FtM3JEanNVUVFrbklGam9iWFN2Y19JZVR1dURNbEVITGNnRGJjbVhRTnZrRUZWTjFHd2k1S0VUWExnRUtGV2R5RGt2VVBLYXVaOUxRQXJJdzN1a3JSLWdxX3ZUNEVwUS0yazhZVHRvblZlakJfM25Idjh0TkZlUnJQeFVBcm5jY2hmazJYS0NZejk2MzFmd212bURUUQ?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-28T13:37:21+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "77b8701aa03a",
-          "title": "Shams: Reaves \u201cOptimistic to Return\u201d Tomorrow Night, Remains a GTD",
-          "original_title": "Shams: Austin Reaves \u201coptimistic to return\u201d tomorrow night. Will be a GTD again.",
-          "summary": "Reddit user UnloadedBakedPotato relays analyst Shams' comments that Austin Reaves is feeling optimistic about playing in the upcoming game, though he will still be listed as game\u2011time\u2011deferred. The post highlights Reaves' confidence and the team's cautious approach to his injury.",
-          "key_points": [
-            "Reaves believes he can play in the next game despite the GTD designation.",
-            "Coaching staff will monitor his condition during warm\u2011ups before making a final decision.",
-            "The update provides a morale boost for the Lakers heading into Game 5."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1sy1oq8/shams_austin_reaves_optimistic_to_return_tomorrow/",
-          "source": "Reddit r/lakers",
-          "published": "2026-04-28T13:36:54+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "f2d493fb2c19",
-          "title": "JJ Redick Pinpoints Lakers\u2019 Missed Opportunities After Game 4 Blowout",
-          "original_title": "JJ Redick Discusses Biggest Areas Lakers Have Missed Luka Doncic & Austin Reaves",
-          "summary": "On Lakers Nation, former player JJ Redick analyzes the Lakers\u2019 first loss of the series, a decisive Game 4 defeat to the Rockets. He identifies key areas where the team fell short, particularly in defending Luka\u202fDoncic and Austin Reaves, and suggests adjustments for the upcoming game.",
-          "key_points": [
-            "Lakers struggled to contain Doncic\u2019s playmaking and scoring in the fourth quarter.",
-            "Defensive lapses allowed Reaves to find open looks, contributing to the Rockets\u2019 run.",
-            "Redick recommends tighter perimeter defense and faster transition offense for Game 5."
-          ],
-          "link": "https://lakersnation.com/jj-redick-discusses-areas-lakers-have-missed-luka-doncic-austin-reaves-most/",
-          "source": "Lakers Nation",
-          "published": "2026-04-28T13:05:15+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "5995277db57f",
-          "title": "Lakers Get Major Boost: Doncic and Reaves Expected Back for Game 5",
-          "original_title": "Lakers Receive Massive Luka Doncic, Austin Reaves Return News Before Game 5 - heavy.com",
-          "summary": "Heavy.com reports that both Luka\u202fDoncic and Austin Reaves are slated to return for the Lakers\u2019 pivotal Game 5 against Houston. The news is described as \u201cmassive\u201d because their presence could restore the team\u2019s offensive rhythm and defensive intensity.",
-          "key_points": [
-            "Medical staff cleared Doncic and Reaves after recent injury evaluations.",
-            "Their return is expected to improve the Lakers\u2019 scoring options and ball movement.",
-            "Coach emphasizes integrating them gradually to avoid re\u2011injury."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUGhvRWN5YlVqQ0wyS0ZiWEVwa3RDcDFRZnRNZVh2eHAteHRJM0QzY0RlMVhKc1g3Ri1wTkt5TExwX3AxNUVxdmZjbnV1TV9HRjlXelZ2OE1ZRDk3WnZ3aFNNUWZWZTNUeDZ5TmlxTmhSMFZNYTF1Y00ybWFkcnhGczhBVzQ1Zw?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-28T13:02:45+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "39e563bb28e0",
-          "title": "Lakers Sign All\u2011Star to Pair With Luka Doncic",
-          "original_title": "Lakers Get Good News on Signing All-Star to Pair With Luka Doncic - heavy.com",
-          "summary": "Heavy.com announces that the Lakers have signed an unnamed All\u2011Star free agent to complement Luka\u202fDoncic. The move aims to bolster the roster ahead of the playoff series and provide additional scoring and playmaking support.",
-          "key_points": [
-            "The All\u2011Star signing adds veteran experience and a secondary scoring threat.",
-            "Pairing the new player with Doncic is intended to diversify the Lakers\u2019 offensive sets.",
-            "The contract details were not disclosed, but the acquisition is viewed as a strategic playoff push."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQkZCLU1lS0xVWVVpU3lySVdRTEVwX2dCQ0pldWJ3SjRmcElzZHlPeWFRRGZFVTZqU0pSMVN0S05qY3hLY21hYjlNbmpicV8wR3BtRndHMXhZUzhIMnVaMG8wQkw5YVFJQldCUnRpMzYzeFh2S3dtQ0xIa2pGVmdLVjlERQ?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-28T12:54:08+00:00",
+          "published": "2026-04-28T14:20:41+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -161,153 +121,113 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "abada0cb8780",
-          "title": "Daily Discussion Thread + Game Thread Index | Playoffs",
-          "original_title": "Daily Discussion Thread + Game Thread Index | Playoffs",
-          "summary": "A Reddit post on r/nba serves as an index for daily discussion and game threads related to the NBA playoffs. The content is primarily links to other posts and does not contain original news reporting.",
-          "key_points": [
-            "Provides a centralized hub for playoff discussion threads.",
-            "Contains links to game-specific threads and related commentary.",
-            "No substantive news content; serves as a navigational resource."
-          ],
-          "link": "https://www.reddit.com/r/nba/comments/1sy2a0w/daily_discussion_thread_game_thread_index_playoffs/",
-          "source": "Reddit r/nba",
-          "published": "2026-04-28T14:00:15+00:00",
+          "id": "0372c44d93e4",
+          "title": "Udoka on Durant's status for Game 5: 'We'll see'",
+          "original_title": "Udoka on Durant's status for Game 5: 'We'll see'",
+          "summary": "Houston's Kevin Durant continues to make progress with his injured left ankle, but his status for Game 5 against the Lakers on Wednesday remains unclear, according to coach Ime Udoka.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/48619162/rockets-udoka-durant-status-g5-vs-lakers-see",
+          "source": "ESPN NBA",
+          "published": "2026-04-28T18:09:11+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "c37f9c8cfae7",
-          "title": "Austin Reaves Optimistic About Returning for Game 5 vs. Rockets",
-          "original_title": "[Charania] Los Angeles Lakers star Austin Reaves is optimistic to return to action in Game 5 against the Houston Rockets on Wednesday night after missing about four weeks with a Grade 2 oblique strain, sources tell ESPN. Reaves will be a game-time decision for the third consecutive contest.",
-          "summary": "Lakers forward Austin Reaves is hopeful to play in Game 5 against the Houston Rockets after missing roughly four weeks with a Grade 2 oblique strain. He will be listed as a game\u2011time decision for the third straight game.",
-          "key_points": [
-            "Reaves has been sidelined for about four weeks due to a Grade 2 oblique strain.",
-            "Sources say he is optimistic about returning for the upcoming game.",
-            "He remains a game\u2011time decision, marking his third consecutive uncertain status."
-          ],
-          "link": "https://www.reddit.com/r/nba/comments/1sy1h63/charania_los_angeles_lakers_star_austin_reaves_is/",
-          "source": "Reddit r/nba",
-          "published": "2026-04-28T13:28:41+00:00",
+          "id": "6340e29aa3b1",
+          "title": "Sources: Lakers optimistic for Reaves return in G5",
+          "original_title": "Sources: Lakers optimistic for Reaves return in G5",
+          "summary": "Lakers star Austin Reaves is optimistic to return for Game 5 vs. the Rockets after missing about four weeks with a Grade 2 oblique strain, sources told ESPN.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/48617343/sources-lakers-optimistic-austin-reaves-return-game-5",
+          "source": "ESPN NBA",
+          "published": "2026-04-28T18:09:11+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "59556538d9b9",
-          "title": "2026 NBA Finals MVP Odds: Shai Gilgeous\u2011Alexander Remains Favorite",
-          "original_title": "2026 NBA Finals MVP Odds: SGA Remains Favorite After Leading OKC to Sweep",
-          "summary": "Yahoo Sports outlines the betting odds for the 2026 NBA Finals MVP, with Shai Gilgeous\u2011Alexander of the Oklahoma City Thunder leading as the favorite after guiding his team to a sweep. The odds reflect his dominant performance throughout the series.",
-          "key_points": [
-            "SGA is the top pick to win Finals MVP according to current betting lines.",
-            "His odds are bolstered by Oklahoma City\u2019s sweep in the Finals.",
-            "The odds list provides a snapshot of market expectations for the award."
-          ],
-          "link": "https://sports.yahoo.com/articles/2025-nba-finals-mvp-odds-121536297.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-04-28T13:22:00+00:00",
+          "id": "3970585fcc0c",
+          "title": "Pushed to brink, 60-win Pistons vow 'to be better'",
+          "original_title": "Pushed to brink, 60-win Pistons vow 'to be better'",
+          "summary": "With another lackluster performance that included 20 turnovers, Detroit, the No. \u00a01 seed in the Eastern Conference, lost to the Orlando Magic in Game 4 on Monday night, a result that shoved star Cade Cunningham and the Pistons to the brink of elimination.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/48615258/detroit-pistons-east-top-seed-face-elimination-loss",
+          "source": "ESPN NBA",
+          "published": "2026-04-28T18:09:11+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "9e368ac8b2ff",
-          "title": "2026 NBA Championship Odds: OKC Leads, Pistons Near Collapse",
-          "original_title": "2026 NBA Championship Odds: OKC Brings Out the Brooms, Pistons On Verge of Epic Collapse",
-          "summary": "Yahoo Sports presents the latest odds for the 2026 NBA championship, with the Oklahoma City Thunder at -115 as the short odds favorite. The Boston Celtics and San Antonio Spurs are listed as long shots, while the Detroit Pistons appear close to a major downturn.",
-          "key_points": [
-            "OKC Thunder have the shortest odds at -115 to win the title.",
-            "Boston Celtics (+450) and San Antonio Spurs (+500) are the next most likely contenders.",
-            "The Detroit Pistons are highlighted as being on the brink of a significant collapse."
-          ],
-          "link": "https://sports.yahoo.com/articles/2026-nba-championship-odds-thunder-150100421.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-04-28T13:06:00+00:00",
+          "id": "4b7bd54305e7",
+          "title": "OKC again starts playoff run with 1st-round sweep",
+          "original_title": "OKC again starts playoff run with 1st-round sweep",
+          "summary": "The Thunder opened these playoffs in similar fashion to last season's championship run, sweeping their first-round series, this time against the Suns.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/48614767/oklahoma-city-thunder-complete-sweep-phoenix-suns-reach-western-conference-semifinals",
+          "source": "ESPN NBA",
+          "published": "2026-04-28T18:09:11+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "f38e30bf2724",
-          "title": "Hawks vs. Knicks Game 5 Prediction, Picks & Odds",
-          "original_title": "Hawks vs Knicks Prediction, Picks & Odds for NBA Playoffs Game 5",
-          "summary": "Yahoo Sports provides a preview and betting picks for the NBA playoff Game 5 matchup between the Atlanta Hawks and New York Knicks, noting the involvement of Karl\u2011Anthony Towns in the analysis. The article includes odds and recommended wagers.",
-          "key_points": [
-            "Preview covers key matchups and recent performance trends for both teams.",
-            "Karl\u2011Anthony Towns is highlighted as a focal point in the prediction model.",
-            "Odds and pick recommendations are offered for bettors."
-          ],
-          "link": "https://sports.yahoo.com/articles/hawks-vs-knicks-prediction-picks-150700588.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-04-28T12:17:00+00:00",
+          "id": "e214b9250513",
+          "title": "Jokic's triple-double powers Nuggets to a Game 6",
+          "original_title": "Jokic's triple-double powers Nuggets to a Game 6",
+          "summary": "Nikola Jokic snapped out of his prolonged funk with a triple-double, Spencer Jones provided a key spark, and the Nuggets staved off elimination with a chippy 125-113 win over the injury-riddled Timberwolves in Game 5 of their playoff series Monday night.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/48615244/nuggets-beat-timberwolves-game-5-stave-elimination",
+          "source": "ESPN NBA",
+          "published": "2026-04-28T18:09:11+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "9d46ebd389b4",
-          "title": "76ers vs. Celtics Game 5 Preview: Embiid Dominates the Boards",
-          "original_title": "76ers vs Celtics Prediction, Picks & Odds for Today's NBA Playoffs Game 5",
-          "summary": "The preview highlights Joel Embiid's strong rebounding performance as a key factor in the Philadelphia 76ers' matchup against the Boston Celtics in Game 5 of the playoffs on April 28. The article provides predictions, picks, and betting odds for the contest.",
-          "key_points": [
-            "Joel Embiid is expected to lead the 76ers in rebounds and impact the game's outcome.",
-            "Yahoo Sports offers its picks and odds for the Game 5 showdown.",
-            "The series is tied, making the game pivotal for both teams."
-          ],
-          "link": "https://sports.yahoo.com/articles/76ers-vs-celtics-prediction-picks-200000182.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-04-28T12:16:00+00:00",
+          "id": "5e2267ce45d2",
+          "title": "Key figure in hoops gambling plot to plead guilty",
+          "original_title": "Key figure in hoops gambling plot to plead guilty",
+          "summary": "Marves Fairley, a Mississippi sports bettor, has agreed in writing to plead guilty to being one of the \"fixers\" in the NCAA point-shaving case in the Eastern District of Pennsylvania.",
+          "key_points": [],
+          "link": "https://www.espn.com/mens-college-basketball/story/_/id/48619026/key-figure-alleged-hoops-gambling-schemes-plead-guilty",
+          "source": "ESPN NBA",
+          "published": "2026-04-28T18:09:11+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "934b37a9be7b",
-          "title": "Trail Blazers vs. Spurs Game 5 Outlook: Series Nearing a Clean Finish",
-          "original_title": "Trail Blazers vs Spurs Prediction, Picks & Odds for Today's NBA Playoffs Game 5",
-          "summary": "Yahoo Sports projects a decisive conclusion to the first\u2011round series between Portland and San Antonio on April 28, with predictions and betting lines for Game 5. The article suggests the Spurs are positioned to advance.",
-          "key_points": [
-            "The series stands at 3\u20111 in favor of the Spurs heading into Game 5.",
-            "Predictions favor a Spurs victory to close out the series.",
-            "Betting odds and picks are provided for the final game."
-          ],
-          "link": "https://sports.yahoo.com/articles/trail-blazers-vs-spurs-prediction-204200304.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-04-28T12:14:00+00:00",
+          "id": "dde27c0d3806",
+          "title": "Flagg edges Knueppel in tight Rookie of Year vote",
+          "original_title": "Flagg edges Knueppel in tight Rookie of Year vote",
+          "summary": "Mavericks star Cooper Flagg, who shattered records as a teenage rookie this season, earned Rookie of the Year on Monday.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/48612580/cooper-flagg-beats-kon-knueppel-tightly-contested-roy",
+          "source": "ESPN NBA",
+          "published": "2026-04-28T18:09:11+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "654376c964a8",
-          "title": "Brotherhood Playoff News: OKC Eliminates Phoenix, Orlando Nears Denver",
-          "original_title": "Monday\u2019s Brotherhood Playoff News & Links",
-          "summary": "A roundup of recent playoff results notes that the Oklahoma City Thunder have eliminated the Phoenix Suns, while the Orlando Magic are close to ousting the Denver Nuggets. The article links to related stories and resources.",
-          "key_points": [
-            "OKC's win ends Phoenix's postseason run.",
-            "Orlando is positioned to potentially eliminate Denver in the next game.",
-            "The piece includes additional playoff news links for fans."
-          ],
-          "link": "https://sports.yahoo.com/articles/monday-brotherhood-playoff-news-links-121300862.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-04-28T12:13:00+00:00",
+          "id": "30da00b2d337",
+          "title": "\ud83d\uddfa\ufe0f NBA offseason guides for all eliminated teams",
+          "original_title": "\ud83d\uddfa\ufe0f NBA offseason guides for all eliminated teams",
+          "summary": "Summer is here for 15 NBA franchises. What lies ahead for the Suns, Warriors, Heat, Bucks and every eliminated team?",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/48432907/nba-offseason-2026-draft-free-agency-trade-targets-30-teams",
+          "source": "ESPN NBA",
+          "published": "2026-04-28T18:09:11+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "bae15c435f0e",
-          "title": "2026 NBA Mock Draft Updated After College Entry Deadline",
-          "original_title": "NBA mock draft 2026: Update after college basketball entry deadline with final lottery odds",
-          "summary": "Yahoo Sports releases an updated mock draft for the 2026 NBA class, incorporating the final list of college entrants and the latest lottery odds. The mock reflects how the draft board may shape after the deadline.",
-          "key_points": [
-            "All eligible college players have now declared, solidifying the mock draft field.",
-            "Current lottery odds are included to show each team's chances.",
-            "The mock provides projected selections for the upcoming draft."
-          ],
-          "link": "https://sports.yahoo.com/articles/nba-mock-draft-2026-college-120000411.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-04-28T12:00:00+00:00",
+          "id": "baf88718f3a0",
+          "title": "Jones 1st to plead guilty in NBA gambling case",
+          "original_title": "Jones 1st to plead guilty in NBA gambling case",
+          "summary": "Former NBA player and assistant coach Damon Jones has become the first person to plead guilty in a gambling sweep that led to the arrests of more than 30 people, including reputed mobsters and other basketball figures.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/48618707/ex-nba-player-damon-jones-1st-plead-guilty-gambling-case",
+          "source": "ESPN NBA",
+          "published": "2026-04-28T18:09:10+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "14131cf8e609",
-          "title": "Marvin Bagley III Reinvents Himself with Dallas, Future Remains Unclear",
-          "original_title": "Marvin Bagley III reinvented himself with the Mavericks \u2014\u00a0but what\u2019s his future in Dallas?",
-          "summary": "The article examines Marvin Bagley III's evolution during his 22 games with the Mavericks, noting his increased versatility and the possibility of a low\u2011cost contract extension. It also discusses uncertainty about his long\u2011term role in Dallas.",
-          "key_points": [
-            "Bagley showed improved playmaking and defensive versatility in limited action.",
-            "Dallas could re\u2011sign him on a modest deal if he continues to develop.",
-            "Questions remain about his fit and consistency moving forward."
-          ],
-          "link": "https://sports.yahoo.com/articles/marvin-bagley-iii-reinvented-himself-120000699.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-04-28T12:00:00+00:00",
+          "id": "7825bc94530d",
+          "title": "New NBA mock draft! Projecting all 60 picks ahead of the lottery",
+          "original_title": "New NBA mock draft! Projecting all 60 picks ahead of the lottery",
+          "summary": "As the 2026 NBA draft lottery approaches -- it's Sunday, May 10, on ABC -- we have an updated mock draft of all 60 picks.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/48582124/2026-nba-mock-draft-top-30-first-round-picks-nba-lottery-dybantsa-boozer-peterson",
+          "source": "ESPN NBA",
+          "published": "2026-04-28T18:00:14+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -316,153 +236,133 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "c715e2217cbd",
-          "title": "Kendrick Perkins Claims LeBron James Earned $700M from Silent Investment",
-          "original_title": "\u201cNobody knows thisr\u201d - Kendrick Perkins claimed LeBron James made $700M from a silent investment - Basketball Network",
-          "summary": "Former NBA player Kendrick Perkins alleged that LeBron James generated $700\u202fmillion from a private, undisclosed investment. The claim was made in a Basketball Network segment and has not been independently verified. No details about the investment or its source were provided.",
+          "id": "7a8121d6af02",
+          "title": "Lakers Add Deandre Ayton Replacement in First Round of 2026 NBA Mock Draft",
+          "original_title": "Lakers Add Deandre Ayton Replacement in First Round of 2026 NBA Mock Draft - heavy.com",
+          "summary": "A recent mock draft from heavy.com shows the Los Angeles Lakers selecting a player to replace former center Deandre Ayton in the first round of the 2026 NBA Draft. The pick reflects the franchise\u2019s continued focus on bolstering its front\u2011court depth as it plans for the post\u2011LeBron era.",
           "key_points": [
-            "Perkins said James earned $700\u202fM from a silent investment.",
-            "The statement was made on Basketball Network without supporting evidence.",
-            "LeBron James has not commented on the allegation."
+            "Mock draft projects the Lakers selecting a new big man to fill the void left by Ayton.",
+            "The choice underscores the team's strategy to rebuild around younger talent.",
+            "Analysts note the pick could impact the Lakers' salary\u2011cap flexibility in upcoming seasons."
           ],
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcjJSbFE4R3RocnRzY3ZBZmpMTTYwY1d0Y0dKUkNHUkhlWjhzQUw1a1JYcHI3Znh6VlhzTGtScGdfXzg4MTZlUnRUeGRLUW1zbGtJQ2h5cXFqWXlnNVNvSEpIQ096b2VmSWMxZEgzNC1RQi1teThTUHlJQXJRckVJOUFWU2picVFjUDdjRzM2VkFMVWRJbmNTSEhuQjgwVGxpcnRyUzNZNWZiLVRUZTFzekxrYWJEWDZiYTFHdXc0dnE?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-04-28T17:26:01+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "fe22a4f43760",
+          "title": "LeBron James Becomes First Player To Reach Significant Playoff Milestone",
+          "original_title": "LeBron James Becomes First Player To Reach Significant Playoff Milestone - Lakers Nation",
+          "summary": "Lakers Nation reports that LeBron James has become the first player in NBA history to achieve a new playoff benchmark, surpassing previous records for combined playoff points, rebounds, and assists. The milestone highlights James\u2019 longevity and sustained elite performance in postseason play.",
+          "key_points": [
+            "James set a new all\u2011time playoff record for cumulative statistical categories.",
+            "The achievement came during the Lakers\u2019 recent playoff run.",
+            "It adds to James\u2019 legacy as the most durable and productive postseason performer."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLUtmdmhsa1VvVTVMUFVNaGFvWEJnaEFubGVvWEJwNzJNM1FqdW8tbWxza3FacndPek93b2g5RGJJbDYtSTV2NTB6WmdaNFE1N18yOFZ2bERtUUhCa21tdWJyNVV1UmR2SDFjSjhVbVZCb0VXZWNNWjl1bW9aNXlOUXhaTnJDWHd1OTZuOXNTNjVmVFVUdEpKSERxbXFLd2c?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-04-28T17:11:08+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "0412e52339cd",
+          "title": "Luka Don\u010di\u0107\u2019s Injury Status Ahead of Game 5 vs. Rockets",
+          "original_title": "Is Luka Don\u010di\u0107 Playing in Game 5? Latest Update on Lakers Star\u2019s Injury Status vs. Rockets - PFSN",
+          "summary": "PFSN provides an update on Luka Don\u010di\u0107\u2019s health ahead of the Lakers\u2019 Game 5 matchup against the Houston Rockets. The report indicates that the star guard remains questionable, with the team monitoring his ankle swelling and limiting his practice minutes.",
+          "key_points": [
+            "Don\u010di\u0107 is listed as questionable for Game 5 due to an ankle issue.",
+            "Coaches are limiting his workload in practice to aid recovery.",
+            "The Lakers\u2019 game plan may shift if he is unable to play."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdTRZSlNZT3Bxc0lZQ085bVRyNUxPSF85Y0hkNFB5X05hQXo3Wl8xdDhNeUNMLUtFLXZCcnhnZWtoTk5wR000VkJaUEFRSEk4YnItUDF0UVpPZkVuUm8tSjNxMUZPMEw0dXQ0UnEta1ExVGRKdFNzVDFfTGVyR3hId1ZZdDVlWkE?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-04-28T16:38:33+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "14f5257c40e2",
+          "title": "Lakers Insider Estimates Luka Don\u010di\u0107\u2019s Return Timeline",
+          "original_title": "Lakers insider estimates Luka Doncic's return timeline - LeBron Wire",
+          "summary": "LeBron Wire cites a Lakers insider who projects Luka Don\u010di\u0107\u2019s return to the lineup within 7\u201110 days, pending clearance from the team\u2019s medical staff. The timeline suggests the star could be back for the second round of the playoffs if his rehab progresses as expected.",
+          "key_points": [
+            "Insider predicts a 7\u201110 day recovery window for Don\u010di\u0107.",
+            "Medical staff will conduct final clearance before he returns.",
+            "His return could bolster the Lakers\u2019 chances in the upcoming playoff series."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUXpmY3JtUHg5dmNPRXpsaUtaR0E1TnFzQmRYX1JFVDlGWVktWC1oSThOYmtxVF9KRm45MHRDOEJVNUdEdVdGSmxxdlFNNW9QZ2J2MWtUYWVKcmNlUzJ5ajh2Z1UyMGRjNEdMY3FrWm9KTmxfV3JxUTNWQkpBanZuSHJxM1ZKV0RfV2tJY2p5S2hhdy01cXBTbXpDMU4xWFJmckd0MjNCNnNKaXNfeFJMUkZSc3p4YTI0aEVVQVA4aHR4MG5k?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-04-28T16:00:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "0b4cc0ddce2f",
+          "title": "Why Has Scoring Taken a Nosedive in the NBA Playoffs?",
+          "original_title": "Why Has Scoring Taken a Nosedive in the NBA Playoffs? - The Ringer",
+          "summary": "The Ringer examines the recent decline in scoring averages during the NBA postseason, attributing the trend to tighter defenses, slower pace of play, and increased emphasis on three\u2011point efficiency. The article references several playoff series, including the Lakers\u2019, to illustrate the shift.",
+          "key_points": [
+            "Defensive schemes have become more sophisticated, limiting high\u2011scoring games.",
+            "Teams are adopting slower tempos and prioritizing efficient shot selection.",
+            "The trend impacts star players, forcing them to adapt their offensive approaches."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRldQckZFeXFhdGtkT1EtVEtMd1hnYXhSY09YMk41cERqZk9YdUZFX3EzbUMwSjZEWkx1bkdLOUllWTFVbGlKdnNOWFFZUlVoTXZmX2RMRi0zU0hMcUQ0MnVlSG1vMzV5QlU5RVZVdXBhenhhVmdZRWEzVEtzY1NMbnpOcnRiZDYwZGJBR0dYei1wQ0pmZVBSM2l2Z0ZTb1R4dFE?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-04-28T15:21:59+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "2d0600ebfe53",
+          "title": "Luka Doncic Injury Update: Lakers Get Major News on Star\u2019s Return Ahead of Game 5 - heavy.com",
+          "original_title": "Luka Doncic Injury Update: Lakers Get Major News on Star\u2019s Return Ahead of Game 5 - heavy.com",
+          "summary": "Luka Doncic Injury Update: Lakers Get Major News on Star\u2019s Return Ahead of Game 5&nbsp;&nbsp;heavy.com",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZTZCYzQ3c3J3dndDam1lVW5oTF9obm1ndXhTZzNOODEzOUZZNjJyYkdqS0lZTHUwNnRuX0FNckRJWDdnMWxSeWM5QjQ5S3BXUHFodkU4UTNWaXpYV1dkNF8zaFdQWFdVX1R5WkVPYzFoNFJUV1ptd09LTDZrQnNBUmxyaVlTczJwQldB?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-04-28T15:19:46+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "5fb030749236",
+          "title": "LeBron James Miami Heat Exit: Michael Beasley on \u2018Cookie-Gate\u2019 - Yahoo Sports",
+          "original_title": "LeBron James Miami Heat Exit: Michael Beasley on \u2018Cookie-Gate\u2019 - Yahoo Sports",
+          "summary": "LeBron James Miami Heat Exit: Michael Beasley on \u2018Cookie-Gate\u2019&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObnRCU1hjMEpLczNseXJSOFRqRnI2T0h3bFF5ekh6c2pnS0ExVzZQUV9lNVpHcEJzY3Q3OElYcC1WM0F2cUVLa0NfNDVGLUhfY05SSFhfb0diUERVejJzRTVURWpBOUV0RjhDdjlBTjBtWjRTYU5mb0s4VFRub1RWZzREVQ?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-04-28T14:38:28+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "f84e5c7e5719",
+          "title": "Kendrick Perkins Sends Warning to Lakers Ahead of Game 5 vs Rockets - Sports Illustrated",
+          "original_title": "Kendrick Perkins Sends Warning to Lakers Ahead of Game 5 vs Rockets - Sports Illustrated",
+          "summary": "Kendrick Perkins Sends Warning to Lakers Ahead of Game 5 vs Rockets&nbsp;&nbsp;Sports Illustrated",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT3pXWW5uWDhQdUJHdmQ0N0w5QUg2Mk02eHMwTGVadTFtc2VsU254anhFWFFfRUY2a1lyc1ZDOFVzUzZBQVV0ZVdmRl9nN3ZnbFF4a1EtYzZPcXpOQ2h4Q1VwYXpkdTVwUVdrSGVCZDNUOXFBZGl4a1ZnbTBtcUJKdVgzTW5BOXBQ?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-04-28T14:00:01+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "c715e2217cbd",
+          "title": "\u201cNobody knows thisr\u201d - Kendrick Perkins claimed LeBron James made $700M from a silent investment - Basketball Network",
+          "original_title": "\u201cNobody knows thisr\u201d - Kendrick Perkins claimed LeBron James made $700M from a silent investment - Basketball Network",
+          "summary": "\u201cNobody knows thisr\u201d - Kendrick Perkins claimed LeBron James made $700M from a silent investment&nbsp;&nbsp;Basketball Network",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTktrQzU0VG9YNS1fYkpyZWtyUkRHaGRObTlCb0Qyb0NkQVVVcE9PM2VTM1ROMzRwbDdEMnlIaGZwV3UyTkRWZlVsUkdmR21HQkFXNm02LTh3N25EeEd6d0E2VlhGcDdSOTRjVUlvT0dPdGtzNDBiSjJkWGJtOU53WHVUS3VqZ3h1b1FZbWpTYmctUDAweUIyOUNBX1M3ZmhETG9XaUQ0THJacHhrZkFxeHBLR2FJeXFCVDdV?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-04-28T13:55:00+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "485213d74ef4",
-          "title": "JJ Redick Highlights Lakers' Missed Opportunities Against Luka\u202fDoncic and Austin Reaves",
-          "original_title": "JJ Redick Discusses Biggest Areas Lakers Have Missed Luka Doncic & Austin Reaves - Lakers Nation",
-          "summary": "Former player\u2011turned\u2011analyst JJ Redick discussed the Los Angeles Lakers' shortcomings in games involving Luka\u202fDoncic and teammate Austin Reaves. He pointed to defensive lapses and inconsistent shooting as primary factors that kept the Lakers from capitalizing on key moments.",
-          "key_points": [
-            "Redick cited defensive rotations and late\u2011game execution as issues.",
-            "He noted that the Lakers struggled to contain Doncic\u2019s playmaking.",
-            "Reaves\u2019 scoring bursts were highlighted as a missed chance for a stronger offensive push."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeERudE1xbE5mMTBLQTY2ODZZMEFSeFJEUmFxOVZyT3FxVXNfR0VsQTVOYlFnVU5feGxLZFZ4TXFMVWtSZWJPanNQYWVOQ0J2cVEtaFR4MXdXSGxTZEdUNmdidGVCNXpDSmtZS0ltQnlTMnVXc19MSnRPLURqYjBLTkd0bXdMLVVuVl9NdHVCbDh5Mmc3TUpTU1VQVFZwRFNTUWln?oc=5",
+          "id": "39e563bb28e0",
+          "title": "Lakers Get Good News on Signing All-Star to Pair With Luka Doncic - heavy.com",
+          "original_title": "Lakers Get Good News on Signing All-Star to Pair With Luka Doncic - heavy.com",
+          "summary": "Lakers Get Good News on Signing All-Star to Pair With Luka Doncic&nbsp;&nbsp;heavy.com",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQkZCLU1lS0xVWVVpU3lySVdRTEVwX2dCQ0pldWJ3SjRmcElzZHlPeWFRRGZFVTZqU0pSMVN0S05qY3hLY21hYjlNbmpicV8wR3BtRndHMXhZUzhIMnVaMG8wQkw5YVFJQldCUnRpMzYzeFh2S3dtQ0xIa2pGVmdLVjlERQ?oc=5",
           "source": "Google News - Luka",
-          "published": "2026-04-28T13:05:15+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "c3a139b31900",
-          "title": "LeBron James Needs Supporting Cast to Hold Off Rockets, Says Los Angeles Times",
-          "original_title": "LeBron James needs sidekicks back to help Lakers hold off Rockets - Los Angeles Times",
-          "summary": "The Los Angeles Times reported that LeBron James emphasized the importance of having his teammates back on the floor to secure a win against the Houston Rockets. The article noted that James\u2019 production alone is insufficient without consistent contributions from the supporting roster.",
-          "key_points": [
-            "James called for his sidekicks to stay healthy and play significant minutes.",
-            "The Lakers\u2019 depth and bench scoring were identified as critical against Houston.",
-            "The piece underscored the team\u2011first approach required for sustained success."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8wNm1CMUN5THRWOFM4TTlyTUdPRXR2eUE5dkFENWNSX05aSjlSb09mWFZzaWcxNmtab3paMnpMRFRJOGg3MDkzOW0yYTlxUHFxUUdUcGVPbmV2ZmRwSG5HaU82SnhJTU5oRW0waTY2aURqZnM?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-28T12:55:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "0007378d3362",
-          "title": "Ron Harper Throws Shade at LeBron James After Latest Accomplishment",
-          "original_title": "Ron Harper throws shade at LeBron James after latest accomplishment - LeBron Wire",
-          "summary": "Former NBA guard Ron Harper made critical remarks about LeBron James following the star\u2019s recent milestone, as reported by LeBron Wire. Harper\u2019s comments suggested skepticism about the significance of the achievement, though specifics were not detailed in the brief.",
-          "key_points": [
-            "Harper publicly questioned the value of James\u2019 newest accolade.",
-            "The criticism was brief and lacked substantive analysis.",
-            "LeBron James has not responded to Harper\u2019s remarks."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOGVtMUZBNEhpTWx3RTF5RG4wb0ZXQkk3aXV6c1N4Mk12LTRseGZQdk9oTVllM2JCVzRqSEMxR1JDMmdJbFJWNmRYVk14SHFORGtnTUpxS3hmWlNadGxvdXFlaFhXYVJaYjFlQnZsS2djMFJFNndTX2ZqcF9sX3JPY04ya09tVkZjR0JncFItM0FnT2NoRUdHcWEwc25HS182d3hMVUJvc1piVjMxNzk5a3pkcUlqaDVkQ0JqZzFQU2wybGszYndPdFY5UUNfTEFLVlRVdGZBc09Zb0MwN3N2dQ?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-28T12:02:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "e81dd1f99c1f",
-          "title": "Luke Kennard Brings Ohio Scoring Talent to LeBron James\u2019 Lakers",
-          "original_title": "Luke Kennard once lit up Ohio. Now he\u2019s doing it for LeBron James\u2019 Lakers - The New York Times",
-          "summary": "The New\u202fYork\u202fTimes detailed Luke Kennard\u2019s transition from a high\u2011scoring role in Ohio to a bench contributor for the Los Angeles Lakers. Kennard is expected to provide shooting depth and veteran experience alongside LeBron James.",
-          "key_points": [
-            "Kennard was a prolific scorer at the high\u2011school and college levels in Ohio.",
-            "He signed with the Lakers to add perimeter shooting and floor spacing.",
-            "The Lakers anticipate Kennard will complement James and the team\u2019s offensive schemes."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQclh1Nml6eXNuWk9tN1I4MktISVpRR3VDcHl0MUpWbXYwSUlPZVA3M1hNbmh0TnljWS1JOVNSazhWWGlHZGdjdFZjN0k3WUlkRDdWejF1M2l6OFNpbVVzb3JIYTZCUUdqcEN5c2lUaHJFWnJ6X0lYTk02czlrdjlkYjJmVlhHU3dLZWtWTXdUOWlfckJ2?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-28T10:00:27+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "c2923e7ba7d5",
-          "title": "Nikola Joki\u0107 Joins LeBron James as Only Players to Achieve Historic Playoff Feat",
-          "original_title": "Nikola Jokic Joins LeBron James as Only Players in NBA History to Do This - heavy.com",
-          "summary": "Nikola Joki\u0107 became the second player in NBA history, alongside LeBron James, to record a triple\u2011double with at least 30 points, 15 rebounds and 10 assists in a playoff series-clinching game. The accomplishment came during the Denver Nuggets' victory that secured their advancement in the postseason.",
-          "key_points": [
-            "Joki\u0107 posted a 30\u201115\u201110 line in the decisive playoff win.",
-            "Only LeBron James had previously recorded such a stat line in a series\u2011clinching game.",
-            "The performance helped the Nuggets move on to the next round of the playoffs."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQkxpRWtCd0loQVM5Vjl4MUhoZ3BkNDRYOGY0eC1DVk5HTUgzdnRyUlFpcmNpX25POHFqcE9vdTNhTXVKSXlTSjQwVm1tOVlCbWV1b2xJOGZQSHVaQllIVlZXN1hsTWNVa3MybzVQbTVSbjFhQ1J4aEpZQVFHLTZTeUh1TGNUTHhLV0paYlF6ZDJpMVR3VEUzYjFUUE9aaFU3ZVd3WDQ3U1QwMFl4OWU1OXdKS3hSZVUzVXc?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-28T09:57:20+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "1e8e3393fc3a",
-          "title": "Joki\u0107 Matches LeBron in Rare Playoff Milestone",
-          "original_title": "Nikola Jokic joins LeBron James in rare NBA playoff history - BasketNews.com",
-          "summary": "BasketNews reports that Nikola Joki\u0107 matched LeBron James by delivering a 30\u2011point, 15\u2011rebound, 10\u2011assist triple\u2011double in a playoff series\u2011clinching contest, a feat achieved by only two players in NBA history. The milestone underscores Joki\u0107's all\u2011around impact as Denver pushes deeper into the postseason.",
-          "key_points": [
-            "Joki\u0107's stat line: 30 points, 15 rebounds, 10 assists.",
-            "The achievement places him in an exclusive two\u2011player club with LeBron James.",
-            "The performance was pivotal in the Nuggets securing the series win."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOWFiVmVrdmlLekk5dHBtNnVOalJBd2w2RU1NeTFUYWV1NWlUdEtGemswa3lNVHhSNEZaNm5UUjdiUzRkd2VIbDlIU1FyS1lhTW83SWRLeUN0dUt6SGJaTVF4MjJDNlFhcUNDMUpyMVdzS2JyS0F6dmQwRmM0VWo4MVB0djZIN0lkUmltMUp4aHRodHB6eW9KbFNYT0c3b0tV?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-28T06:41:05+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "ad9d63e484fe",
-          "title": "Luka Don\u010di{c} Nears Return as Austin Reaves Eyes Game 5 for Lakers' Survival Fightback (Eurohoops)\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b",
-          "original_title": "Luka Doncic nears second-round return as Austin Reaves targets Game 5 - Eurohoops",
-          "summary": "Eurohoops reports that Luka Don\u010di\u0107 is close to returning for the second round of the playoffs, while Lakers guard Austin Reaves is preparing for a potential Game\u202f5 after the team\u2019s recent loss. The articles note Don\u010di\u0107\u2019s progress in rehab and Reaves\u2019 focus on contributing on both ends of the floor.",
-          "key_points": [
-            "Don\u010di\u0107 is nearing clearance to play in the upcoming playoff series.",
-            "Austin Reaves is targeting a strong performance in a possible Game\u202f5 for the Lakers.",
-            "Both players\u2019 health updates are critical for their teams\u2019 postseason prospects."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM2c3dEZHUDloM1pneGF6X1hxVVQ1N0phbTNjS0xJcUxtU3g3UWVRbXAzLWZKNTI5dGhlV25hRzVkTHRMUEtrUVpLR1FXbTVjdHZvTVNxTVVfcWw1eTBCQ3o2ZzZwRTJjUUluSzRDaU52eE5yb1g5R2puQXZ0WXZQdWt0c0xHOTcyMFlDM2g5bHk2UGNxQlVfaVQ5c0JoWnAteUFQSDRLUW1NQQ?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-04-28T04:20:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "3a8731ec08eb",
-          "title": "LeBron James Accepts Blame for Lakers' Game 4 Defeat",
-          "original_title": "LeBron James takes responsibility for Lakers' Game 4 loss - LeBron Wire",
-          "summary": "In a post\u2011game interview, LeBron James took responsibility for the Los Angeles Lakers\u2019 loss in Game\u202f4, citing his own performance and decision\u2011making as factors. The statement came after the Lakers fell short, putting the series at a disadvantage.",
-          "key_points": [
-            "James acknowledged his role in the team's shortcomings during the loss.",
-            "The Lakers\u2019 defeat puts them behind in the series and heightens pressure on the roster.",
-            "James\u2019 admission reflects leadership but underscores the need for a collective response."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeXNhMzJteXpIRGpvel8wOGNiZG5qVHhWRHV5bFdlX2dRMTBYOWdyeEFzcGQ3R09KM1VldlhFVXAtQ0ZYSFNvcl9jblRsRkF5RnZ0ZG9UTjFjNjk4eEdTclhBSlVsa2V2QlJSQ2tIeTRhWGNDVnNWWWZmdHBfaHFIZWZtb0RlOUhlOWZvVllrVjZqN0lEcG1uXzFYSVgzcXFZNzA5dzQ4Q1l4NExFYXVBdHlQR2FTaTNPdm5iaUlPMDVORC1xUlBocw?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-28T02:23:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "3f4e93c76e50",
-          "title": "Lakers\u2019 Luka Don\u010di\u0107 Pledges Money to Fan After Game 4 Ejection",
-          "original_title": "Lakers\u2019 Luka Doncic makes financial pledge to Adou Thiero after embarrassing Game 4 ejection - New York Post",
-          "summary": "The New York Post reports that Luka Don\u010di\u0107 promised to donate a sum of money to fan Adou Thiero following his ejection in Game\u202f4, an incident that drew criticism and highlighted tension during the matchup. The pledge was framed as an attempt to make amends for the on\u2011court incident.",
-          "key_points": [
-            "Don\u010di\u0107 was ejected in Game\u202f4 after a confrontation with officials.",
-            "He offered a financial pledge to the fan involved, aiming to address the situation.",
-            "The incident added drama to an already heated playoff series."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLV9QZmZhcGdLdXFWbG1CTHJxZ1gwT1hHaDBFZ3VNOWNzNktxQlRWcF9nT3BnUDRPRFpyMFhjUndveExtX2lCZHJvZWtiQmd4LVlxbUZ5ZlAxbWczMmlyaXNQcUNCV2FZWEotRHNxb3NtelN3MWFJbUg4RmRQQUhnZXdpT051RFFoa0tyU01YdUkxWDdTYVhIT3RpNA?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-04-27T22:01:00+00:00",
+          "published": "2026-04-28T12:58:52+00:00",
           "topic": "Lakers Players"
         }
       ]
