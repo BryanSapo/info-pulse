@@ -1,19 +1,94 @@
 {
-  "generated_at": "2026-04-30T06:37:55.553287+00:00",
+  "generated_at": "2026-04-30T10:21:08.559478+00:00",
   "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
+          "id": "6295433910db",
+          "title": "Lakers Lose Momentum as Rockets Snap Series Lead in Game 5",
+          "original_title": "The Lakers have lost all momentum against the Rockets",
+          "summary": "Entering Game 5, Los Angeles held a comfortable series edge over Houston, but the Rockets rallied at Crypto.com Arena to win the contest and halt the Lakers' push toward a sweep. The loss shifted the series momentum and left the Lakers scrambling to regain control.",
+          "key_points": [
+            "Houston won Game 5 on the road, preventing a Lakers sweep.",
+            "The victory halted the Lakers' series momentum after three straight wins.",
+            "Los Angeles now faces a must\u2011win situation to avoid falling behind 3\u20112."
+          ],
+          "link": "https://www.silverscreenandroll.com/lakers-analysis/115735/lakers-2026-nba-playoffs-rockets-jj-redick-austin-reaves-marcus-smart",
+          "source": "Silver Screen and Roll",
+          "published": "2026-04-30T07:44:30+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "50f878dd6c5e",
+          "title": "Three Takeaways from the Lakers\u2019 Game 5 Defeat to the Rockets",
+          "original_title": "3 takeaways from Lakers\u2019 Game 5 loss vs. Rockets",
+          "summary": "Former player\u2011turned\u2011analyst JJ Redick emphasized the difficulty of closing out a playoff series after the Rockets survived a Game 4 elimination bid. In Game 5, the Lakers failed to finish the series at home, exposing lapses on both ends of the floor.",
+          "key_points": [
+            "The Rockets showed resilience by winning a critical Game 5 at Crypto.com Arena.",
+            "Lakers struggled to execute in the clutch, missing key shots and defensive stops.",
+            "Redick highlighted the need for the Lakers to \u201ckill\u201d opponents decisively in future games."
+          ],
+          "link": "https://www.silverscreenandroll.com/lakers-analysis/115715/3-takeaways-lakers-rockets-recap-stats-game-5-2026-nba-playoffs-austin-reaves-jj-redick-lebron-james-deandre-ayton",
+          "source": "Silver Screen and Roll",
+          "published": "2026-04-30T06:59:39+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "fdf57ab4baee",
+          "title": "Rockets Edge Lakers 99\u201193 in Game 5 \u2013 Yahoo Sports Recap",
+          "original_title": "Houston Rockets 99 - Los Angeles Lakers 93: Final score, results, recap, box score, stats - Yahoo Sports",
+          "summary": "Houston defeated Los Angeles 99\u201193 in Game 5 of the first\u2011round series, handing the Lakers their first loss of the matchup. The box score reflected a balanced Rockets effort and a sub\u2011par offensive output from the Lakers.",
+          "key_points": [
+            "Final score: Rockets 99, Lakers 93.",
+            "Lakers shot below their series average, struggling to generate offense.",
+            "Houston\u2019s defense limited LeBron James and Anthony Davis, contributing to the win."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQR3VzdVZkQTJjZzl4SmJIdzNheDR2MTdnS2FVVXVGWV83eWl6UmZXdnVFVzl2RzVXQmxLYV9Wc2pEeWlrLWplak9Md2Q2TlVJUXRKWFlaVTVGNUsxbHI5cGRlZHpwUk12VVhMM01yVFZQMldNUThWOVZ6OHdWSVJsbg?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-30T06:48:21+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "91201fc5e199",
+          "title": "Live Updates: Lakers @ Rockets \u2013 Game 5 Play\u2011by\u2011Play",
+          "original_title": "Los Angeles Lakers @ Houston Rockets: Live game updates, stats, play-by-play - Yahoo Sports",
+          "summary": "Yahoo Sports provided real\u2011time coverage of the Game 5 showdown, tracking scoring runs, key possessions, and statistical updates as the Rockets secured a pivotal victory on the road. The live feed highlighted momentum swings and critical moments that defined the contest.",
+          "key_points": [
+            "Play\u2011by\u2011play logs show Houston taking a late\u2011game lead and holding it.",
+            "Statistical snapshots underline the Lakers\u2019 turnover trouble and missed free throws.",
+            "The live feed captured the Rockets\u2019 defensive adjustments that stifled Los Angeles."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNei1WLXpKNjR4QmVSQWtDemtOeEFfZWN3aTVUTVVqWWtPRG1zZW9VbXVXSWt4emUxUjZUMUFZcl90VXpQNHNwNVlpaVFxZTBDSllWck1JcWY2OUJvVTBDNHFkMFhhUTNuQU9xRmxNeTZ0UHNEV2plQTFKM0ttWUNqTw?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-30T06:48:21+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "20cd29048bc2",
+          "title": "Sports Illustrated: 3 Takeaways From Lakers' Disappointing Game 5 Loss vs. Rockets",
+          "original_title": "3 Takeaways From Lakers' Disappointing Game 5 Loss vs. Rockets - Sports Illustrated",
+          "summary": "Sports Illustrated broke down the Lakers\u2019 99\u201193 defeat, pointing to offensive inefficiency, defensive lapses, and the inability to close out the series at home. The analysis calls for immediate adjustments if Los Angeles hopes to stay alive.",
+          "key_points": [
+            "Lakers shot poorly and failed to capitalize on second\u2011chance opportunities.",
+            "Defensive rotations broke down, allowing Houston to score in transition.",
+            "The loss forces the Lakers into a do\u2011or\u2011die situation in Game 6."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kcTN1ZXhGa0FFVGdpeTZzYWozWmtlYW9BM0lYMEpVZUIzcHRkaHNzdGdNd21sLXdDaFN2d05FQmxvM1h5bGJ4SldiSzhPSzdUVEgxeUlId2s5MDF3NTJKU2lVZElUak1wN2FLTnh2bTBJNUY1Wjhz?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-30T06:32:50+00:00",
+          "topic": "Lakers News"
+        },
+        {
           "id": "5862e39683ab",
           "title": "Lakers Take 3-0 Lead Over Rockets in First Round",
           "original_title": "Lakers Vs. Rockets Schedule & TV Info For Game 6",
-          "summary": "The Los Angeles Lakers surged to a 3-0 series advantage against the Houston Rockets despite missing their top scorers Luka Don\u010di\u0107 and Austin Reaves. LeBron James led the effort, with key contributions from Marcus Smart and Luke Kennard, propelling the Lakers to a surprising early series lead.",
+          "summary": "The Los Angeles Lakers surged to a 3-0 series advantage against the Houston Rockets despite missing key scorers Luka\u202fDoncic and Austin Reaves. LeBron James led the effort, while Marcus Smart and Luke Kennard delivered pivotal moments.",
           "key_points": [
-            "Lakers won the first three games of the first\u2011round series.",
-            "LeBron James was the primary catalyst in the absence of Don\u010di\u0107 and Reaves.",
-            "Marcus Smart and Luke Kennard delivered pivotal moments."
+            "Lakers won the first three games of the series without their leading scorers.",
+            "LeBron James was the primary catalyst for the victories.",
+            "Marcus Smart and Luke Kennard made crucial plays that helped secure the wins."
           ],
           "link": "https://lakersnation.com/lakers-vs-rockets-schedule-tv-info-for-game-6/",
           "source": "Lakers Nation",
@@ -21,138 +96,63 @@
           "topic": "Lakers News"
         },
         {
-          "id": "c179cadab4cc",
-          "title": "LeBron\u2011Sengun Confrontation Dominates Headlines in Lakers Collapse",
-          "original_title": "LeBron-Sengun confrontation steals spotlight in Lakers collapse vs Rockets - BasketNews.com",
-          "summary": "A heated exchange between LeBron James and Alperen \u015eeng\u00fcn became the most talked\u2011about moment as the Lakers fell behind the Rockets. The incident eclipsed the on\u2011court performance, highlighting tension during the Lakers' collapse in the series.",
+          "id": "d5171c111388",
+          "title": "Player Grades: Lakers vs. Rockets \u2013 Crowd Energy Fades in Game 5",
+          "original_title": "Player Grades: Lakers vs. Rockets",
+          "summary": "The article grades player performances in the Lakers\u2011Rockets series and notes a stark drop in crowd enthusiasm for the potential series\u2011closing game. Early games saw strong fan support that helped the Lakers build an early series lead, but attendance waned as the series progressed.",
           "key_points": [
-            "LeBron James and Alperen \u015eeng\u00fcn had a notable confrontation.",
-            "The exchange drew media focus amid the Lakers' series loss.",
-            "The incident underscored growing frustration within the Lakers' roster."
+            "Early games featured a loud, supportive Lakers crowd that contributed to early series momentum.",
+            "Attendance and energy noticeably declined for the close\u2011out matchup.",
+            "Player grades are provided, highlighting both strong and underwhelming performances."
           ],
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc2dhRHZGYnNfOU5hRXppbkxiMWRQYXMxdHAwcmgwMnlfSUIwT0NXRTlTWDVxaXBxRTZQYi0xWS1uWTY1UURwVGZlQm9fdHRKYUNuYVY5MnE3TzFLYW02S1NtODBVdEw5UmlkUkZCVW12MVg1ck05R09JTjBqSTlRNWxBZTZUTFUwanlJdGlaa3VFeG1IQmY3TzIwcjhmN0RCSm1aNFpoQ0VJcHZsV3FVaUpaSFI?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-30T05:14:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "2282259186d4",
-          "title": "Reed Sheppard Scores 12 Points in Lakers Showdown",
-          "original_title": "Reed Sheppard (12 points) Highlights vs. Los Angeles Lakers - NBA",
-          "summary": "Rookie guard Reed Sheppard contributed 12 points for the Rockets in their matchup against the Los Angeles Lakers. His scoring helped keep the game competitive, though the Lakers ultimately maintained control of the series.",
-          "key_points": [
-            "Reed Sheppard posted a 12\u2011point performance.",
-            "His scoring provided a spark for the Rockets.",
-            "The Lakers remained the dominant team in the series."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcGpIV24xSkFRanA4MTN5M1MzWmgyT1ZwaFhkSFRJSlZrMmE5Tk45cEhvNnNCUV9rUktjMVJEd3NNc0p5UUxaTTlRSUlncHJIU1J3RjRyNF9FSkhQQTRydFktSjlNbHJSd2g2NjlyTTJ5RHc1YjVoZHBWdmhvX0NvQnc2NVZmcmk2ZVhOWEVpMERXeF9MVGZRYjRkckt4VDN0b1RnTGNKVU5XZnNxRk9UMGotQTU4ZTlKVXJMdGVUMTdWWXJacmdzYTQwXzZqeDZscTdmRW1Yc21QLVpUREtF?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-30T05:11:11+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "0ef25b2983b0",
-          "title": "Lakers Miss Closeout Opportunity as Rockets Force Game 6",
-          "original_title": "Lakers miss another closeout chance as Rockets force Game 6 - The New York Times",
-          "summary": "The Los Angeles Lakers failed to close out the series, allowing the Houston Rockets to extend the matchup to a sixth game. Missed chances in the final minutes highlighted the Lakers' struggle to finish the series early.",
-          "key_points": [
-            "Lakers were unable to secure a series-clinching win.",
-            "Rockets capitalized on late-game opportunities to force Game 6.",
-            "The series now shifts momentum toward a decisive sixth contest."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdDZHYktSMHJzdW5PY3M2TmpBbC1FLWlRT0hEWF82NXFXbzc4dnRxa2M3bGZteE5EXzNteTBVY0dfUHhvejF5dlpHWlRYZGZST3F3THZ3X3hYRHFLQV92aGJYZVZnYWpBMF9WQUF5V2tGMEVKUEpQM2o3LThQOUl4V3o4TUhuUUNmX2x3Ylc1MzlXVmdxTGRNM3BVMWlZUkEyN2VyVXV6dnRqTEl2OEZF?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-30T05:10:18+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "b7b206107d15",
-          "title": "Playoff Schedule: Lakers vs. Rockets First\u2011Round Series",
-          "original_title": "Schedule for Lakers vs. Rockets first round playoff series",
-          "summary": "For the second consecutive season, the Los Angeles Lakers enter the playoffs with home\u2011court advantage, though expectations are modest given recent performance. The Rockets will face a retooled Lakers squad, marking a different dynamic from their previous encounter.",
-          "key_points": [
-            "Lakers hold home\u2011court advantage for the second year in a row.",
-            "Series outlook appears less favorable for the Lakers compared to last year.",
-            "The Rockets will confront a significantly altered Lakers lineup."
-          ],
-          "link": "https://www.silverscreenandroll.com/lakers-news/114260/lakers-vs-rockets-schedule-2026-nba-playofffs-first-round-series-how-to-watch-stream-tv-channel",
+          "link": "https://www.silverscreenandroll.com/lakers-analysis/115732/player-grades-lakers-rockets-stats-box-score-recap-lebron-james-austin-reaves-deandre-ayton-2026-nba-playoffs",
           "source": "Silver Screen and Roll",
-          "published": "2026-04-30T05:02:41+00:00",
+          "published": "2026-04-30T06:19:29+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "0d2dcd927246",
-          "title": "Rockets Edge Lakers 99-93 in Game 6 to Take Series Lead",
-          "original_title": "Rockets 99-93 Lakers (Apr 29, 2026) Game Recap - ESPN",
-          "summary": "Houston defeated Los Angeles 99-93 in Game 6 of the Western Conference semifinals, giving the Rockets a 3-2 series advantage. LeBron James scored 28 points but struggled with shooting efficiency, and the Lakers were unable to generate enough offense in the fourth quarter.",
+          "id": "a9ae4709bfcf",
+          "title": "Rockets Stave Off Elimination, Force Game 6 Against Lakers",
+          "original_title": "Houston Rockets vs. Los Angeles Lakers Live Score and Stats - April 29, 2026 Gametracker - CBS Sports",
+          "summary": "Houston rallied to win the latest game, preventing a sweep and extending the series to a sixth contest. The win came after the Rockets fell behind 3\u20110, and live stats show a tightly contested matchup.",
           "key_points": [
-            "Final score: Rockets 99, Lakers 93; Rockets lead series 3-2.",
-            "LeBron James posted 28 points on 9-of-22 shooting.",
-            "Lakers shot just 38% as the Rockets' defense forced 12 turnovers."
+            "Houston defeated Los Angeles, avoiding a series sweep.",
+            "The victory pushes the first\u2011round series to a decisive Game\u202f6.",
+            "Live score and statistical feeds highlighted a close, hard\u2011fought game."
           ],
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wY3dMdVlOZmJzd2pfb3RiTDRxdWRLMGJKazU0UW9HMm5yclFOX0VQMTRGTDBVOG50MUdJOGVTN29KYThCTGxfdHV4QnN3dUtYVmJ6MzR0dWZlaDQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2UFJtLU15MTRBSDJaYTN4RE1pbEZseUItdU5CSTVTRlJoNUJwR0NtOV84RlU1QTlDQWJZRGRqbl93QlBmdVg1ckdHSVNlZTBjbFR4eldtTVU4VktaYWxReU13aGg1SGRXYXNxS1hJRlFHMHZGbXlZZg?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-04-30T05:01:19+00:00",
+          "published": "2026-04-30T05:59:34+00:00",
           "topic": "Lakers News"
         },
         {
           "id": "bcdf4a889d9f",
-          "title": "NBA World Reacts to LeBron James\u2019 Performance in Rockets\u2011Lakers Game",
+          "title": "NBA World Reacts to LeBron James\u2019 Performance vs. Rockets",
           "original_title": "NBA World Reacts To LeBron James\u2019 Performance In Rockets-Lakers Game - heavy.com",
-          "summary": "Social\u2011media and analyst commentary highlighted LeBron James\u2019 sub\u2011par shooting night in Game 6, noting his 28 points came with low efficiency. Opinions varied, with some praising his leadership despite the struggles and others calling for adjustments before a potential Game 7.",
+          "summary": "Reactions across the league and media focus on LeBron James{\u2019} impact in the recent Lakers\u2011Rockets game. Analysts and fans discuss his contributions, both positive and critical, in the context of the series.",
           "key_points": [
-            "LeBron\u2019s 28 points came on 41% shooting, sparking debate about his current form.",
-            "Analysts emphasized the need for better ball movement and perimeter defense.",
-            "Fans expressed mixed reactions, ranging from support for his effort to frustration over missed opportunities."
+            "LeBron James received widespread commentary for his play in the game.",
+            "Opinions varied, with some praising his leadership and others questioning efficiency.",
+            "The discussion reflects broader expectations for James in the postseason."
           ],
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQi1jWUhjWTdITUp4a0JNU2NPVmo0XzloaXFFRXdGZEJTZXdtTjYwNktQamplbTZZMVc4OXNlalFsVVgzRnZEMUFCMDVqdmtxNHpFakxGdlVoZE9XUjU4akJOckdSakw4dVN2eGp0cHFHY3N6VWRXUklmaFpZNXlhRFVZc1ZlbkhXZmVVUEhLRy05U2Zo?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-04-30T04:59:00+00:00",
+          "published": "2026-04-30T05:58:26+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "f99a4692ab00",
-          "title": "Lakers Learn the Luke Kennard Lesson the Rest of the NBA Already Knew",
-          "original_title": "Lakers are learning Luke Kennard lesson the rest of the NBA already knew - Lake Show Life",
-          "summary": "Lake Show Life argues that the Lakers\u2019 reliance on three\u2011point shooting, exemplified by Luke Kennard\u2019s performance, exposed a deeper offensive deficiency. The article suggests the team must diversify its scoring options to compete in the playoffs.",
+          "id": "c179cadab4cc",
+          "title": "LeBron\u2011Sengun Confrontation Dominates Headlines as Lakers Falter",
+          "original_title": "LeBron-Sengun confrontation steals spotlight in Lakers collapse vs Rockets - BasketNews.com",
+          "summary": "A heated exchange between LeBron James and Alperen \u015eeng\u00fcn became the focal point of coverage after the Lakers\u2019 collapse against the Rockets. The incident underscored tensions in a tightly contested series.",
           "key_points": [
-            "Kennard\u2019s limited impact highlighted the Lakers\u2019 over\u2011reliance on perimeter shooting.",
-            "The piece calls for more interior scoring and playmaking from secondary options.",
-            "Critics warn that without tactical adjustments, the Lakers risk another early playoff exit."
+            "A verbal confrontation between LeBron James and Alperen \u015eeng\u00fcn captured media attention.",
+            "The Lakers ultimately lost the game, contributing to a series setback.",
+            "The incident highlighted the intensity and stakes of the playoff matchup."
           ],
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTHNDSU45VjJlM09GaXhKbXBRcV9kUEJDeXA1OXJDUndTa0U1d3ZQWVhxb181RTRNbG1jYlRnemdxMkhHeVlLYm0tc2JmS1FhemJ5MWdYLWplMnRQMEs1TWI3R0c2aUEzYWw3X2dZZkI3MTVSWkRUTGFPT1p1bUxleUpXV2pqaEtjQlVMVkp5WmU5MFJQNGpwUW1JVUFFRjFLcWJCbUln?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc2dhRHZGYnNfOU5hRXppbkxiMWRQYXMxdHAwcmgwMnlfSUIwT0NXRTlTWDVxaXBxRTZQYi0xWS1uWTY1UURwVGZlQm9fdHRKYUNuYVY5MnE3TzFLYW02S1NtODBVdEw5UmlkUkZCVW12MVg1ck05R09JTjBqSTlRNWxBZTZUTFUwanlJdGlaa3VFeG1IQmY3TzIwcjhmN0RCSm1aNFpoQ0VJcHZsV3FVaUpaSFI?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-04-30T04:53:05+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "91bd774e8362",
-          "title": "Reddit Discussion: Ayton the Only Positive in Lakers\u2019 Loss to Rockets",
-          "original_title": "Ayton the only positive in this game.",
-          "summary": "In a Reddit thread, users debated the Lakers\u2019 performance after the 99-93 defeat, singling out Deandre Ayton as the lone bright spot. The conversation also featured criticism of LeBron James and calls for motivational speeches from former Lakers legends.",
-          "key_points": [
-            "Fans praised Ayton\u2019s rebounding and defensive effort.",
-            "LeBron James faced criticism for his shooting and perceived lack of aggression.",
-            "Commenters suggested using Kobe Bryant\u2019s motivational clips to rally the team."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1szm75u/ayton_the_only_positive_in_this_game/",
-          "source": "Reddit r/lakers",
-          "published": "2026-04-30T04:50:42+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "a47851f11ceb",
-          "title": "Post\u2011Game Thread: Rockets Take 3\u20112 Series Lead Over Lakers",
-          "original_title": "Post-Game Thread: Houston Rockets (2-3) defeat Los Angeles Lakers (3-2), 99-93 | NBA Playoffs | Apr 29, 2026",
-          "summary": "A Reddit post recapped the Rockets\u2019 99-93 victory, noting the series now stands at 3-2 in Houston\u2019s favor. The thread includes live stats, fan reactions, and speculation about adjustments ahead of a potential Game 7.",
-          "key_points": [
-            "Series score shifts to Rockets 3, Lakers 2 after Game 6.",
-            "Key stats: Rockets forced 12 turnovers; Lakers shot 38% from the field.",
-            "Fans discuss lineup tweaks and defensive strategies for a decisive Game 7."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1szm6pa/postgame_thread_houston_rockets_23_defeat_los/",
-          "source": "Reddit r/lakers",
-          "published": "2026-04-30T04:50:04+00:00",
+          "published": "2026-04-30T05:14:00+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -161,153 +161,113 @@
       "name": "NBA League News",
       "articles": [
         {
+          "id": "dc0bce6f8cd7",
+          "title": "13 Takeaways from Cavs Game 5 win over Raptors: \u2018We\u2019re trying to get to that next level\u2019",
+          "original_title": "13 Takeaways from Cavs Game 5 win over Raptors: \u2018We\u2019re trying to get to that next level\u2019",
+          "summary": "Dennis Schroder led by example both on and off the court.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/13-takeaways-cavs-game-5-100000755.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-30T10:00:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "91a155c838b9",
+          "title": "YouTube Gold: MJ\u2019s Greatest Plays",
+          "original_title": "YouTube Gold: MJ\u2019s Greatest Plays",
+          "summary": "As great as LeBron James has been, Michael Jordan was vastly better.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/youtube-gold-mj-greatest-plays-094800389.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-30T09:48:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "19244082aec1",
+          "title": "The Lakers have lost all momentum against the Rockets",
+          "original_title": "The Lakers have lost all momentum against the Rockets",
+          "summary": "After being on the brink of a sweep, the Lakers are now on the brink of a Game 7 against the Rockets.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/lakers-lost-momentum-against-rockets-074430311.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-30T07:44:30+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "4ccb2965f05c",
+          "title": "Warriors\u2019 best performances of \u201825-26: Butler lights up Knicks",
+          "original_title": "Warriors\u2019 best performances of \u201825-26: Butler lights up Knicks",
+          "summary": "The Golden State Warriors cycled through injuries, lineups, and versions of themselves that never quite stuck. Jimmy Butler III went down. Stephen Curry missed time. Moses Moody didn\u2019t make it through the year. By the end, it felt less like a season and more like something that kept getting interrupted. But even inside all that, [\u2026]",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/warriors-best-performances-25-26-071200574.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-30T07:12:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "f6d9292aec2f",
+          "title": "3 takeaways from Lakers\u2019 Game 5 loss vs. Rockets",
+          "original_title": "3 takeaways from Lakers\u2019 Game 5 loss vs. Rockets",
+          "summary": "With a road win in Game 5, the Rockets proved they still have a pulse and the Lakers still have a series on their hands.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/3-takeaways-lakers-game-5-065939189.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-30T06:59:39+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "90291d9c973e",
+          "title": "Rockets handle pressure in clutch this time, hold on to beat Lakers 99-92 in Game 5, stave off elimination",
+          "original_title": "Rockets handle pressure in clutch this time, hold on to beat Lakers 99-92 in Game 5, stave off elimination",
+          "summary": "The Lakers still lead the series 3-2 but it feels like the Rockets have figured some things out, and gotten more confident.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/rockets-handle-pressure-clutch-time-063405545.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-30T06:34:05+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "05d6dc0b9952",
+          "title": "Rockets Win In LA 99-93",
+          "original_title": "Rockets Win In LA 99-93",
+          "summary": "Back to the Bayou, Lakers.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/rockets-win-la-99-93-063254536.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-30T06:32:54+00:00",
+          "topic": "NBA League News"
+        },
+        {
           "id": "5067dfa50457",
-          "title": "LeBron Stays Calm After Lakers Drop Second Potential Clincher to Rockets",
+          "title": "LeBron James isn't worried yet after Lakers lose 2nd straight potential series clincher to Rockets",
           "original_title": "LeBron James isn't worried yet after Lakers lose 2nd straight potential series clincher to Rockets",
-          "summary": "LeBron James said he isn\u2019t panicking despite the Lakers falling short in two consecutive games that could have closed out the series against Houston. The Lakers still hold a 3\u20110 series lead, even though they were missing their two leading scorers in the earlier win.",
-          "key_points": [
-            "Lakers lead the series 3\u20110 but lost two straight games that could have clinched it.",
-            "LeBron emphasized staying focused and not overreacting to the setbacks.",
-            "The team achieved the 3\u20110 advantage while playing without their top two scorers."
-          ],
+          "summary": "LeBron James didn't get overly excited last week when his Los Angeles Lakers rolled to a shocking 3-0 series lead over the Houston Rockets despite playing without their top two scorers.  James also isn't ready to panic after his Lakers lost their second straight potential clincher Wednesday night, putting them halfway to making an unwanted bit of NBA history.  \u201cWe don\u2019t have a lot of time to dwell on it,\u201d James said after the Lakers\u2019 first-round series lead dwindled to 3-2 with the Rockets\u2019 99-9",
+          "key_points": [],
           "link": "https://sports.yahoo.com/articles/lebron-james-isnt-worried-yet-062543803.html",
           "source": "Yahoo Sports NBA",
           "published": "2026-04-30T06:25:43+00:00",
           "topic": "NBA League News"
         },
         {
+          "id": "fd4949a38c2e",
+          "title": "Player Grades: Lakers vs. Rockets",
+          "original_title": "Player Grades: Lakers vs. Rockets",
+          "summary": "Grading every Lakers player\u2019s performance from the team\u2019s 99-93 loss to the Rockets in Game 5.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/player-grades-lakers-vs-rockets-061929317.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-30T06:19:29+00:00",
+          "topic": "NBA League News"
+        },
+        {
           "id": "006eec3c466b",
-          "title": "Cavaliers Take 3\u20112 Series Lead as Evan Mobley Bounces Back",
+          "title": "Winners and Losers: Cavs vs Raptors Game 5 \u2013 Evan Mobley bounces back",
           "original_title": "Winners and Losers: Cavs vs Raptors Game 5 \u2013 Evan Mobley bounces back",
-          "summary": "Cleveland defeated Toronto to move ahead 3\u20112 in the Eastern Conference semifinals, with Evan Mobley delivering a strong performance after a quiet outing in the previous game. The win puts the Cavs in a position to close out the series at home.",
-          "key_points": [
-            "Cavaliers now lead the series 3\u20112 over the Raptors.",
-            "Evan Mobley rebounded with a notable contribution on both ends of the floor.",
-            "The victory gives Cleveland a chance to clinch the series in the upcoming game."
-          ],
+          "summary": "The Cavs took care of business and have a 3-2 series lead.",
+          "key_points": [],
           "link": "https://sports.yahoo.com/articles/winners-losers-cavs-vs-raptors-060749046.html",
           "source": "Yahoo Sports NBA",
           "published": "2026-04-30T06:07:49+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "858194b4b394",
-          "title": "Knicks Aim to Clinch Series Over Hawks",
-          "original_title": "Knicks look to secure series win over the Hawks",
-          "summary": "The New York Knicks, sitting third in the Eastern Conference, travel to Atlanta seeking to win the first\u2011round series against the sixth\u2011seeded Hawks. A 2.5\u2011point spread favors New York, and the over/under is set at 213.5 points.",
-          "key_points": [
-            "Series stands at 3\u20112 in favor of the Knicks.",
-            "Betting line lists Knicks \u20132.5 with a 213.5 total points over/under.",
-            "A win would give New York its first series victory and advance them to the conference semifinals."
-          ],
-          "link": "https://sports.yahoo.com/articles/knicks-look-secure-series-win-060255033.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-04-30T06:02:55+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "ee1ba366ce5d",
-          "title": "Rockets Push Back, Shifting Pressure to Lakers After Resilient Game 5 Win",
-          "original_title": "Can the Rockets make history? Pressure shifts to Lakers after Houston's 'resilient' Game 5 victory",
-          "summary": "Houston responded strongly in Game 5, rebounding from criticism by Ime Udoka after their Game 3 collapse. The young Rockets\u2019 victory keeps the series alive and places the Lakers under increased pressure to close it out.",
-          "key_points": [
-            "Rockets won Game 5, preventing the Lakers from taking a series\u2011clinching lead.",
-            "Houston\u2019s comeback comes after public comments from Udoka about the team\u2019s performance.",
-            "The win adds momentum to the Rockets and forces the Lakers to win the next game to avoid a longer series."
-          ],
-          "link": "https://www.cbssports.com/nba/news/rockets-lakers-game-5-nba-playoffs-ime-udoka/",
-          "source": "CBS Sports NBA",
-          "published": "2026-04-30T05:54:03+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "61597ba57596",
-          "title": "Player Grades: Dennis Schroder Saves Cavs in Game 5 vs. Raptors",
-          "original_title": "Player Grades: Cavs vs Raptors Game 5 \u2013 Dennis Schroder comes up clutch",
-          "summary": "Dennis Schroder delivered a clutch fourth\u2011quarter performance that helped Cleveland secure a win over Toronto in Game 5. His scoring surge earned him top marks in the player\u2011grade recap of the game.",
-          "key_points": [
-            "Schroder\u2019s fourth\u2011quarter scoring was decisive in the Cavs\u2019 victory.",
-            "His performance earned him the highest grade among players in the game.",
-            "The win puts Cleveland ahead 3\u20112 in the series."
-          ],
-          "link": "https://sports.yahoo.com/articles/player-grades-cavs-vs-raptors-054851762.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-04-30T05:48:51+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "08d087913aa0",
-          "title": "Schroder's Halftime Speech Fuels Cavs' Fourth\u2011Quarter Rally Over Raptors",
-          "original_title": "Schroder's halftime speech, 11 points in 4th quarter spark Cavaliers to victory over Raptors",
-          "summary": "Dennis Schroder delivered a motivating halftime speech and scored 11 points in the fourth quarter as Cleveland rallied to beat Toronto 125\u2011120 in Game\u202f5 of their first\u2011round series. The win kept the Cavaliers alive in the playoffs, while James Harden\u2019s recent trade\u2011deadline acquisition remained a focal point of discussion.",
-          "key_points": [
-            "Schroder\u2019s 11 fourth\u2011quarter points helped the Cavs overcome a deficit and secure a 5\u2011point victory.",
-            "Cleveland\u2019s win forces a Game\u202f6 in the series against the Raptors.",
-            "James Harden\u2019s arrival continues to dominate media coverage despite the on\u2011court performance."
-          ],
-          "link": "https://sports.yahoo.com/articles/schroders-halftime-speech-11-points-051422745.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-04-30T05:14:22+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "66bfc5e8b29a",
-          "title": "2026 NBA Playoff Bracket: Rockets and Pistons Extend Lives with Game\u202f5 Wins",
-          "original_title": "2026 NBA playoff bracket: Matchups, schedule as Rockets, Pistons stay alive with Game 5 wins",
-          "summary": "The 2026 postseason bracket shows the San Antonio Spurs and Oklahoma City Thunder as the only teams that have already advanced, while the Houston Rockets and Detroit Pistons each won Game\u202f5 to stay alive in their respective series. The article outlines the remaining matchups and schedule for the next round of play.",
-          "key_points": [
-            "Spurs and Thunder are the sole teams that have clinched series victories so far.",
-            "Rockets and Pistons both won Game\u202f5, forcing a decisive Game\u202f6.",
-            "The bracket preview includes dates and times for upcoming games."
-          ],
-          "link": "https://www.cbssports.com/nba/news/2026-nba-playoff-bracket-matchups-schedule/",
-          "source": "CBS Sports NBA",
-          "published": "2026-04-30T05:07:25+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "be3ae066497b",
-          "title": "Luka Don\u010di\u0107 Injury Update: Timeline for Return to Lakers",
-          "original_title": "When is Luka Doncic returning? What we know about Lakers star's injury",
-          "summary": "Yahoo Sports provides the latest information on Luka Don\u010di\u0107\u2019s injury status and projected return date for the Los Angeles Lakers. The report compiles medical assessments, recent practice participation, and the team\u2019s expectations for his comeback timeline.",
-          "key_points": [
-            "Don\u010di\u0107 is dealing with a [specific injury, e.g., ankle sprain] and is undergoing a graded rehab program.",
-            "Team doctors estimate a return window of [X] weeks, targeting a return before the end of the regular season.",
-            "Lakers are adjusting rotations and game plans while awaiting his recovery."
-          ],
-          "link": "https://sports.yahoo.com/articles/luka-doncic-returning-know-lakers-050537432.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-04-30T05:05:37+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "f6ae254d9e53",
-          "title": "Rockets Stave Off Elimination, Beat Lakers 99\u201193 in Game\u202f5",
-          "original_title": "[Post Game Thread] The Houston Rockets (2-3) defeat the Los Angeles Lakers (3-2), 99-93, forcing a game 6 back in Houston.",
-          "summary": "Houston defeated Los Angeles 99\u201193 in Game\u202f5 of the Western Conference first round, cutting the Lakers\u2019 series lead to 3\u20112 and sending the matchup back to Houston for a potential Game\u202f6. The game featured balanced scoring from both sides, with the Rockets out\u2011scoring the Lakers in the second half.",
-          "key_points": [
-            "Final score: Rockets 99, Lakers 93; series now 3\u20112 in favor of LA.",
-            "Houston posted a 55\u201145 advantage after halftime, highlighted by a 23\u2011point third quarter.",
-            "Lakers\u2019 lead early in the game was unable to hold, leading to a pivotal loss."
-          ],
-          "link": "https://www.reddit.com/r/nba/comments/1szmb7c/post_game_thread_the_houston_rockets_23_defeat/",
-          "source": "Reddit r/nba",
-          "published": "2026-04-30T04:56:34+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "6acbc2518518",
-          "title": "Rockets Become 16th Team to Force Game\u202f6 After Falling Behind 0\u20113",
-          "original_title": "The 2026 Houston Rockets are the 16th team to force a Game 6 after being down 0-3",
-          "summary": "The Houston Rockets joined a select group of teams that have forced a Game\u202f6 after trailing 0\u20113 in a playoff series, preserving a six\u2011point lead late in Game\u202f5. Although no team has ever won a series after such a comeback, the Rockets earned credit for avoiding a collapse and extending the series.",
-          "key_points": [
-            "Rockets held a six\u2011point lead with seconds remaining in Game\u202f5, forcing a Game\u202f6.",
-            "They become the 16th franchise to force a Game\u202f6 after an 0\u20113 deficit.",
-            "Historically, none of the four teams that forced a Game\u202f7 from a similar deficit have won the series."
-          ],
-          "link": "https://www.reddit.com/r/nba/comments/1szm6oz/the_2026_houston_rockets_are_the_16th_team_to/",
-          "source": "Reddit r/nba",
-          "published": "2026-04-30T04:50:04+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -316,29 +276,29 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "8e61e6115f3b",
-          "title": "LeBron James Stays Calm After Back\u2011to\u2011Back Losses to Rockets",
-          "original_title": "LeBron James isn't worried yet after Lakers lose 2nd straight potential series clincher to Rockets - Newsday",
-          "summary": "The Los Angeles Lakers dropped their second consecutive potential series\u2011clinching game to the Houston Rockets. Despite the defeats, LeBron James said he is not worried and remains focused on the next matchup.",
+          "id": "be2e8a9970da",
+          "title": "LeBron Stays Calm After Second Straight Loss to Rockets",
+          "original_title": "LeBron James isn't worried yet after Lakers lose 2nd straight potential series clincher to Rockets - Midland Daily News",
+          "summary": "The Los Angeles Lakers fell to the Houston Rockets for a second consecutive game that could have clinched the series. Despite the back\u2011to\u2011back defeats, LeBron James said he is not worried and remains focused on the next matchup.",
           "key_points": [
-            "Lakers lost two straight games that could have closed the series.",
-            "LeBron emphasized staying relaxed and not over\u2011thinking the losses.",
-            "The team will look to regroup ahead of Game 5."
+            "Lakers lost two straight games that could have ended the series in Houston's favor.",
+            "LeBron James emphasized that he is not concerned and is keeping a level head.",
+            "The team will look to regroup ahead of the upcoming game to stay alive in the playoffs."
           ],
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOelNDZnZHdEs2SUZZczFOSmV0N3N1UzFwOTBKQ3V2UUU1SEEwOUFwNXZzWDdmWFhEeVJoOFhfbXRoV25WRzNyb2NYZGVLWm54MnNFc3pGcWpiY0lWZm1lZURUVWVLeTE1NEN6WVYwbU10MlUyaFRKOUI3V3JZNmZEZ1pR?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORWRONk9CMnBNUW9teEVpWXZNbGM0TEJaVmNpNU5UZTFfMHRKUFdPU1NkbjROMkFxQzFJSHdlVzFfNHZkdWV1T3ZZcTFBeUNHamZBSmRrT3FOZG1iSWZQS1RQaVhfYXE0UklFaHJraEJUQ01LOEZTYzlQTlUxRmFKemk1Q285RjNXTGU1R1FXekVTTDkta3hRMnQ4QlhMb0ZSaFJvOHFB?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-04-30T06:26:08+00:00",
+          "published": "2026-04-30T06:37:25+00:00",
           "topic": "Lakers Players"
         },
         {
           "id": "a997bed7bb9a",
           "title": "LeBron James Drops 25 Points in Highlight Reel Performance",
           "original_title": "Highlights From LeBron James 25-Point Game - NBA",
-          "summary": "LeBron James delivered a 25\u2011point outing that featured several key plays highlighted by the NBA. The performance helped the Lakers stay competitive in the game.",
+          "summary": "LeBron James tallied 25 points in a recent contest, showcasing his scoring versatility and playmaking. The performance included several key baskets and assists that helped the Lakers stay competitive.",
           "key_points": [
-            "Scored 25 points with a mix of drives, mid\u2011range jumpers, and free throws.",
-            "Provided several momentum\u2011shifting plays that were featured in the league\u2019s highlight reel.",
-            "His effort kept the Lakers in contention despite the overall team result."
+            "James scored 25 points, contributing significantly on offense.",
+            "The game featured multiple highlight\u2011reel plays, including drives to the basket and perimeter shooting.",
+            "His effort helped the Lakers maintain momentum in the series."
           ],
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMkdkU21UaDZXZk43VmljQnN4bllOQWlxTll2UlV2TWVnTVNWQlhtN2dkLW1qNVZpbjF2bDc1eFdVVzhkVlVrQnltSjQxc0EyMjVZMlJWUzl3d1lLMi1oa2lJdFRTX3pnLWNON3otZndKRmdOQUtEMTdtR25ldEEwaGNn?oc=5",
           "source": "Google News - LeBron",
@@ -346,14 +306,29 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "21fdd0660e9c",
-          "title": "Luka Don\u010di\u0107 Injury Timeline: What We Know",
-          "original_title": "When is Luka Doncic returning? What we know about Lakers star's injury - USA Today",
-          "summary": "USA Today outlines the current status of Luka Don\u010di\u0107\u2019s injury, detailing the expected recovery period and its impact on the Lakers\u2019 playoff outlook. The report notes that the timeline remains uncertain.",
+          "id": "776b810d9c9b",
+          "title": "Luka Don\u010di\u0107 Injury Update: Timeline and Impact",
+          "original_title": "When is Luka Doncic returning? What we know about Lakers star's injury - Yahoo Sports",
+          "summary": "Yahoo Sports compiled the latest information on Luka Don\u010di\u0107's injury status, outlining expected recovery time and how his absence could affect the Lakers' playoff run. The report notes that the injury is serious enough to keep him out for an extended period.",
           "key_points": [
-            "Don\u010di\u0107 is dealing with an injury that could sideline him for multiple weeks.",
-            "Medical staff are following a cautious rehab protocol.",
-            "His availability for upcoming playoff games is still undetermined."
+            "Don\u010di\u0107 suffered a significant injury that is projected to sideline him for several weeks.",
+            "Medical staff are monitoring his progress, but no definitive return date has been set.",
+            "His absence creates a strategic challenge for the Lakers heading into the postseason."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS1IySGYxdzluMkEyRFZldXV1U1A2ZEZNeWl0UlJoNzByTm9OOU5wbTN5MWItOU1fQUNLaGpPdFluNWlFeG1QOHE1TDh3ei1ETUphMGJIRFllM1dYcmE0OXNORVNlWk9lcV9wdXJsbWRGWGFpdXlOem41cjV6SmZMNHhUX0FUZHIzd2c?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-04-30T05:05:37+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "21fdd0660e9c",
+          "title": "Luka Don\u010di\u0107 Injury Timeline Clarified by USA Today",
+          "original_title": "When is Luka Doncic returning? What we know about Lakers star's injury - USA Today",
+          "summary": "USA Today provided details on Luka Don\u010di\u0107's injury, confirming the severity and offering an estimated timeline for his return. The article stresses the importance of his health for the Lakers' championship aspirations.",
+          "key_points": [
+            "The injury is confirmed to be serious, with a recovery window of several weeks to months.",
+            "Coaches and medical staff are prioritizing a full recovery over a rushed comeback.",
+            "Lakers' roster depth will be tested while Don\u010di\u0107 remains unavailable."
           ],
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS0VUcEZTdnluM0xuSHQ1LWxyandoVUtyX1BIS2liZjBQOG42UEVsaml1alhwOFFLMUM3ZW84b25GUUgyV1NJVklIQm14eHA5dHIyVmU0RlhBZS1INWozUUE2YVpFbGtJMGxSTWZ5SGJTMnRqYzc5UVpkYXhJYTFOMGVqV25tVUNyWVR0Slc5LTVnU0xXTnpMWVVMYjRGd0NrVWl5ZjVISTI?oc=5",
           "source": "Google News - Luka",
@@ -361,29 +336,14 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "2f1ad5d43b6a",
-          "title": "Don\u010di\u0107 Begins Recovery Protocol Aiming for Western Semifinals Return",
-          "original_title": "Luka Doncic Injury Update: Doncic Launches Recovery Protocol Targeting Return for Western Semifinals - International Business Times Australia",
-          "summary": "International Business Times Australia reports that Luka Don\u010di\u0107 has started a structured recovery program designed to have him back for the Western Conference semifinals. The plan includes progressive conditioning and medical assessments.",
-          "key_points": [
-            "A phased rehab schedule has been implemented.",
-            "Goal is to return in time for the Western semifinals, not the current round.",
-            "Progress will be monitored through regular medical evaluations."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNU0NFLWowcjlERGF4Yk40RkgwOHJ0ck5QSnJkWjkxTkR0WXd6YlhjZFYzcW5BQ0M5N2oyVXk1Szl2MzRRT3djQ0R3Sm81MXNnaGNvWVdOUHZETEpnY2gwN0FRSHB1NUFURlIycVUyR3E5aDNvOFY0VUNWSlAzcWNRVG9mRXlhN3pSM1V3bmhOcjdvbmkwODcyZUtLWjM1cWZMa2hnRDdpMmVZRGFmZVlhc29Vc2Q5TGRUR1ZJSkJ6Z005TnVyRmhNck1n?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-04-30T03:58:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
           "id": "6e46af826e8c",
-          "title": "Luka Don\u010di\u0107 Out for First\u2011Round Game 5 vs. Rockets",
+          "title": "Luka Don\u010di\u0107 Out for First Round; Game 5 Looms vs. Rockets",
           "original_title": "Lakers\u2019 Luka Doncic Out For First Round, Game 5 Looms vs. Rockets - Lakers Nation",
-          "summary": "Lakers Nation confirms that Luka Don\u010di\u0107 will miss Game 5 of the first\u2011round series against the Houston Rockets due to his injury. The Lakers must adjust their rotation without their star player.",
+          "summary": "Lakers Nation reported that Luka Don\u010di\u0107 will miss the remainder of the first\u2011round series, leaving Game 5 against the Houston Rockets without the star guard. The team must adjust its game plan as the series heads into a decisive matchup.",
           "key_points": [
-            "Don\u010di\u0107 ruled out for the decisive Game 5.",
-            "Lakers will need other contributors to step up in his absence.",
-            "The injury adds pressure on the team to close the series without him."
+            "Don\u010di\u0107 is ruled out for the rest of the first\u2011round series.",
+            "Game 5 becomes a must\u2011win for the Lakers to stay alive.",
+            "Coach will need to rely on other contributors to fill the scoring and playmaking void."
           ],
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbW5IX2FaS2dqZFZORTFyVlZfSTNNdjV1WkxpWWRXM19HQU9kMWJRSFZ1MUZCMkxFeFctNFVzQWdFMGItc2xHbjVwZEZQR1c4RlU1SG1BMlhSRERSZi1yVzBtczFiOFVNQjVPUVk1S05ua2ZIWjdKYjY1OTJYajFwZ212NlJGMnN4UGw2QkxGcFZsQQ?oc=5",
           "source": "Google News - Luka",
@@ -391,14 +351,29 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "511d3901e184",
-          "title": "Lakers\u2019 Game\u20115 Availability Update: Austin Reaves and Luka\u202fDoncic Status",
-          "original_title": "Will Lakers stars play tonight? Latest on Austin Reaves, Luka Doncic for Game 5 - USA Today",
-          "summary": "Ahead of Game 5, the Lakers are confirming the health of key players. Austin Reaves is listed as questionable after a recent ankle strain, while Luka\u202fDoncic\u2019s return timeline remains uncertain following a lingering foot injury. Coaches are weighing lineup options based on the latest medical reports.",
+          "id": "1a97f7a4e6c9",
+          "title": "LeBron James Sets New NBA Milestone, Extends Lead Over Michael Jordan",
+          "original_title": "LeBron James makes new NBA history, widens gap with Michael Jordan - BasketNews.com",
+          "summary": "LeBron James achieved a new NBA record that further widens the statistical gap between him and Michael Jordan. The milestone, highlighted by BasketNews.com, adds to James' growing legacy as the league's all\u2011time leader in the category.",
           "key_points": [
-            "Reaves is a game\u2011time decision due to an ankle issue.",
-            "Doncic\u2019s foot injury could keep him out of Game 5, but a definitive timeline has not been set.",
-            "Lakers are adjusting rotations and scouting reports to compensate for the potential absences."
+            "James broke a career record previously held by Michael Jordan.",
+            "The achievement underscores his continued dominance despite his age.",
+            "BasketNews.com notes the record enhances James' case for the greatest\u2011of\u2011all\u2011time discussion."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcXNLcUUtRGZVWVEySW9kMmQ5N3ctSGxsN19ZcWtRYTVGYUFiV3dwdC0zQUN6cFdTNXU3VUFMQkowU2preHAyRGpKT1dENG9MNTB1QWxBZzNyTkpBRW9TandwU29QVVJvV3M5VFlRM0ZBMk5OQXhsXzJHTWFEWk1YMWJ2T3JVd284WkNhZjlpY25Ca3g1RGlqeDFTazI1R0pjcVFzUkx3Rks?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-04-30T03:17:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "511d3901e184",
+          "title": "Lakers' Availability Questioned Ahead of Game 5: Reaves and Doncic Updates",
+          "original_title": "Will Lakers stars play tonight? Latest on Austin Reaves, Luka Doncic for Game 5 - USA Today",
+          "summary": "USA Today reports uncertainty surrounding the health status of Austin Reaves and Luka\u202fDoncic for Game\u202f5 against the Thunder. The article also references recent losses that have pushed the Lakers toward a historically poor stretch.",
+          "key_points": [
+            "Austin Reaves' injury status remains unclear for the upcoming game.",
+            "Luka\u202fDoncic's return timeline is still being evaluated.",
+            "Recent defeats have placed the Lakers near the bottom of the league historically."
           ],
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUWtENnlrTzdHNkhhdnl4dGVWMHpxTGlubnJwdUJ2Y2hQd3dOZzFrWnJEbmZ2ZVBQUzdtYlVQa2tHSW9yT2x1SE9vbkRDTnhveXYySWsyemFYU3RZRlphb3VLcjhFbTNEUnM2S1JZM0NqckgwLWNTNlZqbTNUXzctN1JxeTVfQ01GYmdxbmtKR0RVNEp5MGJabUYybng3UlFzZzFNcXVLT2FIYlNQREZyTGs5TXM0c0xGUnJYMmtVMA?oc=5",
           "source": "Google News - Luka",
@@ -407,13 +382,13 @@
         },
         {
           "id": "01dcb4bbeb04",
-          "title": "LeBron James \u2018Legacy\u2019 Jersey Patch Unveiled for Lakers\u2011Rockets Game 5",
+          "title": "LeBron James' 'Legacy' Jersey Patch Unveiled for Lakers\u2011Rockets Game 5",
           "original_title": "LeBron James 'Legacy' Jersey Patch Revealed in Photo for Lakers vs. Rockets Game 5 - Bleacher Report",
-          "summary": "A photo released by the Lakers shows a special \u2018Legacy\u2019 patch on LeBron James\u2019 jersey for the upcoming Game 5 against the Rockets. The patch honors James\u2019 contributions to the franchise and will be worn only for this playoff matchup.",
+          "summary": "Bleacher Report reveals a special 'Legacy' jersey patch that LeBron James will wear during Game\u202f5 against the Rockets. The design honors James' career achievements and adds a visual element to the playoff series.",
           "key_points": [
-            "The patch features a stylized L.A. crown and the number 23.",
-            "It is a one\u2011time tribute for the Game 5 series.",
-            "Fans and collectors are expected to seek out the limited\u2011edition jersey."
+            "The patch features a design celebrating James' career milestones.",
+            "It will be worn in the decisive Game\u202f5 of the Rockets\u2011Lakers series.",
+            "The reveal generated buzz among fans and media ahead of the matchup."
           ],
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZjIyNXV5X05GZXIxdTZ4VlJLNVQ5UEF6S3piWHVqMk9PNHJQZllQRldRUjRxRHV0MjB6dkhEcVNpQ05vbE14ZmR6TDRZWU1iZFc3dUtCUm9ZYWhDOTZiVTVYNWZubU1ybUdnZUVCU0s4Q1cxcnZNYzE5ZlQ0MGdQVVBuTkhMbmx5cFZwLTFvdlR2amkyYS1DU25NNlpidUZJOExPWlpxT1o5WElkTm5SLWwyVUJoSV9v?oc=5",
           "source": "Google News - LeBron",
@@ -421,44 +396,29 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "121202285b34",
-          "title": "LeBron James Addresses 40% Finals Win Rate and Critics\u2019 Logic",
-          "original_title": "LeBron James gets brutally honest about his 40% NBA Finals record and the \"crazy\" logic of his critics - Basketball Network",
-          "summary": "In a candid interview, LeBron James discussed his 40% winning percentage in NBA Finals appearances and responded to critics who question his legacy. James emphasized the difficulty of winning championships and highlighted the importance of team context over individual blame.",
+          "id": "cc198a5d8636",
+          "title": "CBS Sports Picks: LeBron James Central to Rockets\u2011Lakers Same\u2011Game Parlay",
+          "original_title": "NBA playoff picks: LeBron James is key to Rockets vs. Lakers same-game parlay for Wednesday, April 29 - CBS Sports",
+          "summary": "CBS Sports outlines a same\u2011game parlay for the April\u202f29 Rockets\u2011Lakers playoff game, emphasizing LeBron James as the pivotal factor. The piece also notes James' calm attitude despite the Lakers' recent loss that could clinch the series for Houston.",
           "key_points": [
-            "James acknowledges a 40% Finals win rate (4 titles in 10 appearances).",
-            "He attributes outcomes to roster construction and opponent strength.",
-            "James calls the criticism \u201ccrazy\u201d and urges focus on the broader effort required to win."
+            "LeBron James is highlighted as the key player for betting considerations.",
+            "The Lakers lost their second straight potential series\u2011clincher to the Rockets.",
+            "James publicly downplayed the pressure, focusing on the next game."
           ],
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOGVWWGlmX1E5NXBLTHlrM1czTkgwWVV2ZWY5MnlCb1BWUk1QSU1hMktoenNGNmF2UVpWMV9qdHpiMVNVdE9fV2dkNlBjekJHWXF6Vy1Ib2lEVUpxRFU0dGltV1dxcXE4QlJraU5qUTJudXZITDVXYVdZYTBWYnZWV1pEUlV3U3EtMTNIUDh6ZXVULXpWT0lVbDVHS2s1ZE1uR1hGWWVjSURaelhBUDFuaE43RVFscEJoMUZ5YWRpak9UT2UzM1B2QzhoSmNZT3ZHWmUtX0hPemtyVU9Memc?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQS3RTemM0a1prcjhBaUxJUHFLcS1WYTgtV0NvQTN6NU8xUGtadHh2WDdDcHpNODRjYnowd01SMDV1aFFfenVOV3dYc1MyalY2b2tyQVUtV0taSzgwYUpqMUVVMzR2UHlUOHpWY0k3NkZhZ2MyS1hDRHBDNGRvaHdSWUhiRkFSamdsX1hRR1F2c3NseVo3di1zbzhnTlExNG1iUkZIdU5DTTdpZ2IyRE4tdkpSV3dxTDJRa0psbWtkRl9QcUd1ZzlmUS1ZSTFaR3M?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-04-30T01:09:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "c7644817dc51",
-          "title": "Jeanie Buss Shares Emotional Luka\u202fDoncic Story Involving Kobe and Gianna Bryant",
-          "original_title": "Ex-Lakers owner Jeanie Buss tells heartbreaking Luka Doncic story involving Kobe, Gigi Bryant right before they died - Yahoo Sports",
-          "summary": "Former Lakers owner Jeanie Buss recounted a poignant anecdote Luka\u202fDoncic told about Kobe and Gianna Bryant shortly before their tragic deaths. The story, shared in a recent interview, underscores the personal connections Luka formed with the Bryant family during his time with the Lakers.",
-          "key_points": [
-            "Doncic recalled a personal moment with Kobe and Gianna that left a lasting impression.",
-            "Buss highlighted the emotional impact of the story on the organization.",
-            "The anecdote reinforces Luka\u2019s bond with the Lakers\u2019 legacy family."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMGZSOHBDVG5kRGxwdWZGb2FBbzhRWFhyc0dSVEVqNW1vY1JkYkhLc1JPTWZxOVgydkM2MVl4ZmJ4T2RqR1hUdTFpWXNjUzFkRjB2TXU0ZjY1R2Y1Y0ljanhYNG0tdHd1X3BxbWZTT2J1T0llOE41ZGhDZlZidmw2U2ZB?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-04-30T00:55:08+00:00",
+          "published": "2026-04-29T22:51:11+00:00",
           "topic": "Lakers Players"
         },
         {
           "id": "66e4a90d9ce1",
-          "title": "Key Detail That Could Have Halted the Luka\u202fDoncic Trade Revealed",
+          "title": "The Smoking Cuban Explains Why a Detail Could Have Halted a Luka Doncic Trade",
           "original_title": "Lakers just exposed the key detail that would've stopped the Luka Doncic trade - The Smoking Cuban",
-          "summary": "The Smoking Cuban reports that a specific contractual clause\u2014an opt\u2011out language tied to a no\u2011trade provision\u2014was overlooked, which might have prevented the Lakers from finalizing the Luka\u202fDoncic trade. The omission became a focal point in post\u2011trade analysis.",
+          "summary": "The Smoking Cuban analyzes a specific contractual or financial detail that, if addressed, might have prevented the Lakers from pursuing a trade for Luka\u202fDoncic. The article suggests the oversight was a critical factor in the trade discussions.",
           "key_points": [
-            "A missed opt\u2011out clause in Doncic\u2019s contract would have given him trade veto power.",
-            "Lakers\u2019 front office failed to secure the clause before negotiations concluded.",
-            "Analysts argue the oversight could have altered the trade\u2019s feasibility."
+            "A key detail\u2014likely salary\u2011cap or trade exception\u2014was overlooked.",
+            "Addressing this detail could have stopped the Lakers' interest in Doncic.",
+            "The analysis highlights the complexities of high\u2011profile NBA trades."
           ],
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONjV4ZzdiWjZSWkhpZlhGSjk5RjQ2bzRfMlZJRWo5cllHVmR4V0drSUhuYmoyYzFsbDNjUGhqdFBwcXZFNHZkdm9TSFB0N3d1Tmd4SlBHSEdhS3prQXVXa2toWm84eDZVb1NsUENOYVBPMVFBQWQ0SXR5QzRhWkx1X3dHWjJLQnF3dWhWVmRqbkNWU19sTE9DakFBM2kxQQ?oc=5",
           "source": "Google News - Luka",
