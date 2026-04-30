@@ -1,138 +1,158 @@
 {
-  "generated_at": "2026-04-30T15:59:49.368564+00:00",
-  "total_articles": 30,
+  "generated_at": "2026-04-30T17:33:23.844262+00:00",
+  "total_articles": 25,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
+          "id": "1acfa95d511f",
+          "title": "Lakers Relocate G League Team to Coachella Valley",
+          "original_title": "Lakers Moving G League Team To Coachella Valley",
+          "summary": "The Los Angeles Lakers announced that their NBA G League affiliate will move from the South Bay to Coachella Valley beginning with the 2026\u201127 season. The team will be rebranded as the Coachella Valley Lakers and will play its home games at Acrisure Arena in Palm Desert, California.",
+          "key_points": [
+            "Move effective for the 2026\u201127 season.",
+            "New name: Coachella Valley Lakers.",
+            "Home venue: Acrisure Arena, Palm Desert."
+          ],
+          "link": "https://lakersnation.com/lakers-moving-g-league-team-to-coachella-valley/",
+          "source": "Lakers Nation",
+          "published": "2026-04-30T17:10:48+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "bbe459324434",
+          "title": "G\u2011League Squad Moving to Palm Springs",
+          "original_title": "G-League squad moving to Palm Springs",
+          "summary": "A Reddit post reports that the Lakers' G League franchise is set to relocate to the Palm Springs area. The brief notice does not provide additional details beyond the relocation announcement.",
+          "key_points": [
+            "Reddit user shares news of the move.",
+            "Location identified as Palm Springs.",
+            "No further specifics were included."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1t02duu/gleague_squad_moving_to_palm_springs/",
+          "source": "Reddit r/lakers",
+          "published": "2026-04-30T17:07:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "f068f47a635f",
+          "title": "Lakers Move NBA G League Team to Coachella Valley",
+          "original_title": "Los Angeles Lakers Move NBA G League Team to Coachella Valley - NBA",
+          "summary": "NBA.com reports that the Los Angeles Lakers are shifting their G League operation to Coachella Valley. The article reiterates the upcoming rebrand and venue change slated for the 2026\u201127 season.",
+          "key_points": [
+            "Official NBA confirmation of the relocation.",
+            "Team to become the Coachella Valley Lakers.",
+            "Home games will be hosted at Acrisure Arena."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WZjZoSTFvZUdyZ3Izc3ZDVVdiOFVrQUwwRTZoc3BFNmRRTmEwUFBUVGxhc1RvT2ZkdUw2cE94TnlOVFgwR0kxTFRDMUs5SENrT3VGZ3pJdV8zWFJ5Mnp0dlExeEwteUtuT3FNc0lKbzgwdTBmNWhxRlUtd3dzZw?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-30T16:30:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "91201fc5e199",
+          "title": "Lakers vs. Rockets Live Updates on Yahoo Sports",
+          "original_title": "Los Angeles Lakers @ Houston Rockets: Live game updates, stats, play-by-play - Yahoo Sports",
+          "summary": "Yahoo Sports provided live play\u2011by\u2011play, statistics, and real\u2011time updates for the Los Angeles Lakers' game against the Houston Rockets. The feed covered scoring runs, player performances, and key moments throughout the matchup.",
+          "key_points": [
+            "Live game commentary and stats.",
+            "Tracking of scoring runs and player contributions.",
+            "Real\u2011time play\u2011by\u2011play for fans."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNei1WLXpKNjR4QmVSQWtDemtOeEFfZWN3aTVUTVVqWWtPRG1zZW9VbXVXSWt4emUxUjZUMUFZcl90VXpQNHNwNVlpaVFxZTBDSllWck1JcWY2OUJvVTBDNHFkMFhhUTNuQU9xRmxNeTZ0UHNEV2plQTFKM0ttWUNqTw?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-30T16:02:21+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "6c24058f0641",
+          "title": "LeBron Dismisses Jabari Smith Diss After Lakers Loss to Rockets",
+          "original_title": "'Too Old for That S--t,' LeBron Reacts to Jabari Smith's Diss in Video After Lakers Loss to Rockets - Bleacher Report",
+          "summary": "Bleacher Report details LeBron James' reaction to a video in which Rockets forward Jabari Smith taunted the Lakers. James responded with a dismissive comment, saying he\u2019s \u201ctoo old for that\u201d following the defeat.",
+          "key_points": [
+            "Jabari Smith posted a diss video after the loss.",
+            "LeBron James replied, \u201cToo old for that,\u201d downplaying the jab.",
+            "The exchange occurred after the Lakers fell to the Rockets."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM2txSVgtRVpvc3B1SXBQMFZKY1VRRWUyY050bk0xcmZMSzhFeHV0LXpBNmppX3REal8wWXZJdmdHcUVsY2V2QWRBWWNHZ0ZIUTZoclNjdS1fclljOHFRZVotMThBRjFOWGhRc29uLWljUzZIckZESUtvV3UwemE3QTFOVEwtNFhHRTdWM0RUeXk4UUdyTU9ER0FHNWVCak9RcnUtM3ZoSThQVERROXBJYTJLSkd6UEhLQXN3TmJn?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-30T15:37:58+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "bcdf4a889d9f",
+          "title": "NBA World Reacts to LeBron James\u2019 Performance vs. Rockets",
+          "original_title": "NBA World Reacts To LeBron James\u2019 Performance In Rockets-Lakers Game - heavy.com",
+          "summary": "LeBron James\u2019 effort in the Lakers\u2019 99\u201193 loss to the Houston Rockets sparked a wave of commentary across the NBA community. Fans and analysts highlighted his scoring output and leadership, while also noting the broader implications for the Lakers\u2019 playoff chances.",
+          "key_points": [
+            "LeBron posted 25 points in the Game 5 defeat.",
+            "Social media and pundits debated whether his performance was enough to carry the team.",
+            "The reaction underscored growing concerns about the Lakers\u2019 offensive consistency."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQi1jWUhjWTdITUp4a0JNU2NPVmo0XzloaXFFRXdGZEJTZXdtTjYwNktQamplbTZZMVc4OXNlalFsVVgzRnZEMUFCMDVqdmtxNHpFakxGdlVoZE9XUjU4akJOckdSakw4dVN2eGp0cHFHY3N6VWRXUklmaFpZNXlhRFVZc1ZlbkhXZmVVUEhLRy05U2Zo?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-30T15:26:36+00:00",
+          "topic": "Lakers News"
+        },
+        {
           "id": "5ea2e858c232",
           "title": "LeBron James Highlights Offensive Struggles After Lakers\u2019 Game 5 Loss",
           "original_title": "LeBron James Highlights Offensive Struggles After Lakers\u2019 Game 5 Loss",
-          "summary": "The Los Angeles Lakers blew a golden opportunity to end their first round playoff series, falling to the Houston Rockets 99-93 in Game 5. LeBron James led the way scoring wise with 25 points, but for a team that has been carried by their offense for most of the season, the Lakers were unable to [&#8230;]",
-          "key_points": [],
+          "summary": "The Lakers fell 99\u201193 to the Rockets in Game 5, missing the chance to close the first\u2011round series. Although LeBron James led the team with 25 points, the loss exposed the Lakers\u2019 reliance on offense and their inability to execute in critical moments.",
+          "key_points": [
+            "Lakers eliminated from the series with a 3\u20112 defeat.",
+            "LeBron\u2019s 25 points were the team\u2019s highest total, but overall scoring lagged.",
+            "Offensive inefficiency was identified as a key factor in the loss."
+          ],
           "link": "https://lakersnation.com/lebron-james-highlights-offensive-struggles-after-lakers-game-5-loss/",
           "source": "Lakers Nation",
           "published": "2026-04-30T15:15:47+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "ebe0f0669479",
-          "title": "What Is The 'Lakers In 5' Meme? Shannon Sharpe's Famous Catchphrase And The Viral NBA Edits Explained - Yahoo News Singapore",
-          "original_title": "What Is The 'Lakers In 5' Meme? Shannon Sharpe's Famous Catchphrase And The Viral NBA Edits Explained - Yahoo News Singapore",
-          "summary": "What Is The 'Lakers In 5' Meme? Shannon Sharpe's Famous Catchphrase And The Viral NBA Edits Explained&nbsp;&nbsp;Yahoo News Singapore",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBlNEVPUVo2ejNNZ3dYd1M3Nmp2bXZTaEFSNURlX0JzN19ScWRHWk8tUS1heFRrVjVCRkU5MkNqM1ktNHN3Q29CdzVSSTJ1cTFXUFVna2p6TE1JbUtEdFV0Q29ORl9XczA1d0pTVXpuY2x5Ql81Nlluanhn?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-30T15:15:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
           "id": "0ec3f4175a9d",
-          "title": "Kevin Durant has been ruled out for game 6 via Shams",
+          "title": "Kevin Durant Ruled Out for Game 6 vs. Lakers",
           "original_title": "Kevin Durant has been ruled out for game 6 via Shams",
-          "summary": "Kevin Durant will not play in Game 6 against the Lakers because of the ankle injury that has sidelined the Rockets star for most of Houston's first-round playoff series, sources told ESPN's Shams Charania.  &#32; submitted by &#32;  /u/G00n3r117   [link] &#32; [comments]",
-          "key_points": [],
+          "summary": "Houston\u2019s star forward Kevin Durant will miss Game 6 against the Los Angeles Lakers due to an ankle injury that has limited his participation throughout the first\u2011round series. The news was confirmed by ESPN\u2019s Shams Charania.",
+          "key_points": [
+            "Durant\u2019s ankle injury sidelines him for the decisive game.",
+            "His absence could impact the Rockets\u2019 chances of extending the series.",
+            "The update was reported by Shams Charania and shared on Reddit."
+          ],
           "link": "https://www.reddit.com/r/lakers/comments/1szy7dl/kevin_durant_has_been_ruled_out_for_game_6_via/",
           "source": "Reddit r/lakers",
           "published": "2026-04-30T14:47:44+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "076a1faa91f0",
-          "title": "Lakers Hit With Bad News Ahead of Game 6 vs. Rockets - heavy.com",
-          "original_title": "Lakers Hit With Bad News Ahead of Game 6 vs. Rockets - heavy.com",
-          "summary": "Lakers Hit With Bad News Ahead of Game 6 vs. Rockets&nbsp;&nbsp;heavy.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTGFLY1F3WGpmdWRBODNzU25ua1RLb3UzZ21GT3JvZExYVWhLVXZqWGNuR3Z0OW9GUzhkaEE5enUtb1pjLUhIaTMxSzJqUFI1QTBRR0lGZU96Y1lWT2otdXVhdnhEaUhuQlpiOVdaTGwxUkhobmpxUmpySV9MWGlJRVJHSktpZi1SYlYyZmpSQV8?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-30T14:34:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "1aca8663eec2",
-          "title": "Austin Reaves \u2018Felt Good\u2019 In Return Despite Game 5 Loss To Rockets",
-          "original_title": "Austin Reaves \u2018Felt Good\u2019 In Return Despite Game 5 Loss To Rockets",
-          "summary": "The Los Angeles Lakers got some good news prior to Game 5 against the Houston Rockets as it was announced that Austin Reaves had been cleared and would return for the first time in nearly a month from his left oblique strain. Reaves had been enjoying an excellent season prior to going down with the [&#8230;]",
-          "key_points": [],
-          "link": "https://lakersnation.com/austin-reaves-felt-good-in-return-despite-lakers-game-5-loss-to-rockets/",
-          "source": "Lakers Nation",
-          "published": "2026-04-30T14:10:42+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "88ebf855867d",
-          "title": "Rockets vs. Lakers Game 6 Picks and Predictions",
-          "original_title": "Houston Rockets vs Los Angeles Lakers picks, predictions for Game 6 - The Arizona Republic",
-          "summary": "The Arizona Republic previewed Game 6 of the playoff series between the Houston Rockets and the Los Angeles Lakers, offering betting picks and projection of outcomes. The article highlighted recent performance trends and key matchups that could decide the series.",
+          "id": "f540c1223e68",
+          "title": "Reddit Call\u2011to\u2011Action: Lakers Need a Win",
+          "original_title": "Lakers players we just have to win a game here ok that's it thank you!!! GO LAKERS",
+          "summary": "A Reddit post from the r/lakers community urges the team to secure a victory, emphasizing the fans\u2019 desire for a positive result. The message reflects the frustration and hope among supporters during the playoff stretch.",
           "key_points": [
-            "Experts favor the Rockets to win Game 6 and force a decisive Game 7.",
-            "Lakers\u2019 recent turnover issues and inconsistent defense are cited as major concerns.",
-            "Key player matchups, such as Jalen Green vs. LeBron James, are identified as potential game\u2011changers."
+            "Fans express a straightforward demand: win a game.",
+            "The post captures the emotional state of the Lakers\u2019 fanbase.",
+            "No additional details about game strategy or player performance are provided."
           ],
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZTRMc1FmSF9iNXNGd0huY1dRdC1Dc19qVndiTXpabkVod1VNS296ZHZCLXdrdlRySVExOGptMFh1a1ZpclVtQi1EbkQtTzdjX3R5Q2tDTHNwOUtQNVpVUFlkR0lhT2pyV0hyS3RpSzhfSnVSU0UyQmxqanZ4VUFyMnlkUm5wd1pzdGo5dDUtcXFxTEVzS0lsa01MS3U3bktHUmF1ODVDMm85MlpyVUZ0TmZjc1NiWTQzbnRyZS1SM3lIa1JJbWZVaHliVGFvNTNZektWN3hfZmFScVFM?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-04-30T14:03:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "e9b2e634be6c",
-          "title": "Daily Lakers Discussion Thread on Reddit",
-          "original_title": "Daily Lakers Discussion Thread",
-          "summary": "A Reddit thread on r/lakers invites fans to discuss the current season, share opinions, and engage in conversation about the team\u2019s performance. The post was automatically generated by the subreddit\u2019s moderation bot.",
-          "key_points": [
-            "Thread serves as a hub for fan dialogue about games, trades, and player news.",
-            "No specific news content; it is a community discussion platform.",
-            "Moderated by AutoModerator to keep conversation organized."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1szwy7o/daily_lakers_discussion_thread/",
+          "link": "https://www.reddit.com/r/lakers/comments/1szy3ld/lakers_players_we_just_have_to_win_a_game_here_ok/",
           "source": "Reddit r/lakers",
-          "published": "2026-04-30T14:01:03+00:00",
+          "published": "2026-04-30T14:44:00+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "625b054f2f0d",
-          "title": "Redick\u2019s Straightforward Take After Lakers Lose Game 5 to Rockets",
-          "original_title": "JJ Redick Delivers Matter-Of-Fact Message After Lakers Fail To Close Out Rockets In Game 5",
-          "summary": "Lakers Nation reported former player\u2011turned\u2011analyst JJ\u202fRedick delivering a blunt assessment of the Lakers\u2019 failure to close out the Rockets in Game 5, emphasizing turnover problems and missed opportunities. The loss forces the series to a Game\u202f6 in Houston.",
+          "id": "1d6326440112",
+          "title": "LeBron James Confronts Alperen \u015eeng\u00fcn Over \u2018Soft Call\u2019",
+          "original_title": "Lakers\u2019 LeBron James goes berserk on Alperen Sengun after \u2018soft a** call\u2019 complaint - ClutchPoints",
+          "summary": "During the Lakers\u2011Rockets matchup, LeBron James reacted strongly to a perceived soft foul call involving Alperen \u015eeng\u00fcn. The incident was highlighted by ClutchPoints, illustrating the intensity of the game\u2019s later moments.",
           "key_points": [
-            "Redick highlighted a critical second\u2011quarter stretch where the Lakers turned the ball over repeatedly.",
-            "The Lakers missed a chance to take a 3\u20111 series lead, extending the series to a sixth game.",
-            "Turnover issues and lack of execution were identified as primary reasons for the loss."
+            "James expressed frustration after a call he deemed soft on \u015eeng\u00fcn.",
+            "The confrontation added to the game\u2019s tension in its closing stages.",
+            "ClutchPoints reported the incident, noting its impact on the on\u2011court atmosphere."
           ],
-          "link": "https://lakersnation.com/jj-redick-delivers-matter-of-fact-message-after-lakers-fail-to-close-out-rockets-in-game-5/",
-          "source": "Lakers Nation",
-          "published": "2026-04-30T13:05:55+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "278f15d02fb6",
-          "title": "AR Returns After One\u2011Month Recovery \u2013 Fan Reaction",
-          "original_title": "AR in his 2nd game back from 1 month of recovery",
-          "summary": "A Reddit post in r/lakers discussed the return of player \u201cAR\u201d (likely Austin Reaves) after a month of injury recovery, noting optimism that the team still has untapped potential despite recent struggles. The user expressed confidence that the Lakers are not panicking and can improve.",
-          "key_points": [
-            "AR\u2019s comeback is seen as a boost for the Lakers\u2019 depth and morale.",
-            "Fans acknowledge recent poor performances but remain hopeful for a turnaround.",
-            "The post underscores the belief that the team still has \u201ca lot left in the tank.\u201d"
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1szu74b/ar_in_his_2nd_game_back_from_1_month_of_recovery/",
-          "source": "Reddit r/lakers",
-          "published": "2026-04-30T12:07:26+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "7968a1e37d99",
-          "title": "This Day in Lakers History: Kobe Bryant\u2019s Overtime Game\u2011Winner vs. Suns",
-          "original_title": "This Day In Lakers History: Kobe Bryant Sinks Overtime Game-Winner Against Suns",
-          "summary": "Lakers Nation recapped Kobe Bryant\u2019s iconic overtime buzzer\u2011beater against the Phoenix Suns, a moment that came after the Lakers missed the playoffs the previous season and marked Bryant\u2019s return to form. The piece highlighted the significance of the shot in Lakers lore.",
-          "key_points": [
-            "Kobe\u2019s clutch overtime jumper secured a win over the Suns.",
-            "The shot symbolized Bryant\u2019s resurgence after a playoff\u2011missed season.",
-            "It remains one of the most memorable moments in Lakers franchise history."
-          ],
-          "link": "https://lakersnation.com/this-day-in-lakers-history-kobe-bryant-sinks-overtime-game-winner-against-suns/",
-          "source": "Lakers Nation",
-          "published": "2026-04-30T12:00:11+00:00",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbEtYem81Vk1VT0htTWUtc21nYjBrUWNPckJiZEM3Nm5CQ2ZJTVRpbG8xV2JkLXJ5SVRXd3VyLWtIS0tvV293S19UVDhLeGJGS3BSck9Oal8tYWlWYjR6NXdrTEprMS0wb09TSkVPZ3Q2QXJDM094U1ZTazBaUWZwRFJiOTNVTEhIRGFoenlqNnRZcVhoNGhYZ1hHNW84TnItS3lZLTY4X3VZMnBvLWhuOVRUeFBaY296?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-04-30T14:18:43+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -141,14 +161,44 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "9992442e7649",
-          "title": "Bucks Could Be Postseason\u2019s Biggest Winners If Teams Chase Giannis",
-          "original_title": "Potential playoff suitors for Giannis Antetokounmpo? Why the Bucks could be postseason's big winners",
-          "summary": "Yahoo Sports notes that several teams now view the Milwaukee Bucks as a viable championship contender if they can acquire Giannis Antetokounmpo. The article suggests that the Bucks\u2019 roster and coaching give them the potential to capitalize on any trade that brings Giannis to a new market, making them a possible postseason powerhouse.",
+          "id": "97eff23dbb63",
+          "title": "Former Florida Center Olivier Rioux Chooses Transfer Destination",
+          "original_title": "Olivier Rioux \u2014 tallest player ever in college basketball \u2014 picks transfer destination",
+          "summary": "Olivier Rioux, the tallest player in college basketball history, announced his next school after leaving Florida. The 7\u2011foot\u20117 forward will continue his collegiate career at a new program, though the specific institution was not disclosed in the brief.",
           "key_points": [
-            "Teams are positioning themselves as \u201cone Giannis away\u201d from title contention.",
-            "Milwaukee\u2019s roster depth and coaching staff make the Bucks an attractive destination.",
-            "A trade for Antetokounmpo could instantly elevate the Bucks into a top playoff seed."
+            "Rioux holds the record as the tallest player ever in NCAA basketball.",
+            "He departed the University of Florida after the season.",
+            "His new transfer destination has been selected but not publicly named."
+          ],
+          "link": "https://sports.yahoo.com/articles/olivier-rioux-tallest-player-ever-155509094.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-30T15:55:09+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "e202e2e3e348",
+          "title": "Rockets Become Near Favorites to Complete First 3\u20110 Comeback Over Lakers",
+          "original_title": "Rockets Nearly 2-to-1 Odds to Pull NBA\u2019s First 3-0 Comeback Against Lakers",
+          "summary": "The Houston Rockets, having won two straight games without Kevin Durant, entered Game\u202f6 of the series as -3.5 favorites on their home court. Betting odds suggest they are close to a historic 3\u20110 comeback against the Los Angeles Lakers.",
+          "key_points": [
+            "Rockets are -3.5 points favorites in Game\u202f6.",
+            "They have won the last two games without Kevin Durant.",
+            "A 3\u20110 series comeback would be the first in NBA history."
+          ],
+          "link": "https://sports.yahoo.com/articles/rockets-nearly-2-1-odds-155100196.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-04-30T15:51:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "9992442e7649",
+          "title": "Why the Bucks Could Be the Playoff\u2019s Biggest Winners Around Giannis",
+          "original_title": "Potential playoff suitors for Giannis Antetokounmpo? Why the Bucks could be postseason's big winners",
+          "summary": "Analysts note that several teams believe adding Giannis Antetokounmpo would instantly make them title contenders. The article discusses how Milwaukee\u2019s success could elevate the perception of other clubs seeking to pair themselves with the MVP.",
+          "key_points": [
+            "Giannis is viewed as a franchise-altering talent.",
+            "Multiple teams are positioning themselves as potential \u201cGiannis\u2011plus\u201d contenders.",
+            "The Bucks\u2019 performance may influence trade and free\u2011agency narratives."
           ],
           "link": "https://sports.yahoo.com/nba/article/potential-playoff-suitors-for-giannis-antetokounmpo-why-the-bucks-could-be-postseasons-big-winners-153446677.html",
           "source": "Yahoo Sports NBA",
@@ -157,13 +207,13 @@
         },
         {
           "id": "9566c36345bd",
-          "title": "Wolves Hit Injury Crunch as Dosunmu and Hyland Listed Questionable",
+          "title": "Wolves Face Injury Crunch as Dosunmu and Hyland Listed Questionable",
           "original_title": "[Borman] Ayo Dosunmu has been gameday downgraded to questionable with right calf soreness. Certainly not a good sign for the Wolves with Bones Hyland already questionable. Will need to be a huge night for Julius Randle, Jaden McDaniels, Rudy Gobert and TJ Shannon to close out the Nuggets.",
-          "summary": "A Reddit post reports that Ayo Dosunmu has been downgraded to questionable with right calf soreness, adding to the Minnesota Timberwolves\u2019 injury woes alongside Bones Hyland\u2019s questionable status. The thread warns that the team may need exceptional performances from Julius Randle, Jaden McDaniels, Rudy Gobert, and TJ Shannon to secure a win against the Nuggets.",
+          "summary": "Minnesota Timberwolves forward Ayo Dosunmu was downgraded to questionable with right calf soreness, joining Bones Hyland, who is also questionable. The injuries raise concerns for the Wolves as they approach the season\u2019s final stretch.",
           "key_points": [
-            "Dosunmu\u2019s calf soreness moves him to questionable for the upcoming game.",
-            "Bones Hyland is also listed as questionable, deepening the Wolves\u2019 injury list.",
-            "Winning may require standout contributions from Randle, McDaniels, Gobert, and Shannon."
+            "Dosunmu\u2019s calf issue moves him to questionable status.",
+            "Bones Hyland is already listed as questionable.",
+            "The roster strain could impact the Timberwolves\u2019 competitiveness in upcoming games."
           ],
           "link": "https://www.reddit.com/r/nba/comments/1szzkje/borman_ayo_dosunmu_has_been_gameday_downgraded_to/",
           "source": "Reddit r/nba",
@@ -171,123 +221,18 @@
           "topic": "NBA League News"
         },
         {
-          "id": "8a9f286b4eb4",
-          "title": "Knicks vs. Hawks Game 6 Player Prop Projections Released",
-          "original_title": "Knicks vs Hawks Computer Picks: Our Best Player Prop Projections for Game 6",
-          "summary": "Yahoo Sports provides six player prop picks for the Knicks\u2011Hawks Game 6 matchup, highlighting CJ\u202fMcCollum\u2019s three\u2011point shooting total among the key bets. The projections are based on recent performance trends and statistical models.",
+          "id": "44961425456a",
+          "title": "Cavaliers\u2011Raptors Same\u2011Game Parlay Preview for Playoff Game\u202f6",
+          "original_title": "Cavaliers vs Raptors Same-Game Parlay for Friday's NBA Playoffs Game 6",
+          "summary": "The preview highlights Donovan Mitchell\u2019s three\u2011point shooting as a key factor in the Cleveland Cavaliers\u2019 matchup against the Toronto Raptors. It offers parlay picks and predictions for the May\u202f1 Game\u202f6 of the Eastern Conference playoffs.",
           "key_points": [
-            "Six player prop picks are offered for the game, focusing on scoring and shooting totals.",
-            "CJ\u202fMcCollum\u2019s three\u2011point total is a featured prop.",
-            "Projections rely on recent player data and matchup analysis."
+            "Mitchell\u2019s long\u2011range shooting is central to the parlay strategy.",
+            "The article provides specific same\u2011game parlay selections.",
+            "Game\u202f6 is scheduled for Friday, May\u202f1."
           ],
-          "link": "https://sports.yahoo.com/articles/knicks-vs-hawks-computer-picks-151900154.html",
+          "link": "https://sports.yahoo.com/articles/cavaliers-vs-raptors-same-game-153000459.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-04-30T15:19:00+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "ac1cb72b9725",
-          "title": "SportsLine Model Highlights Top Playoff Prop Bets for April 30",
-          "original_title": "NBA player prop picks, odds: Model reveals three best 2026 NBA Playoffs prop bets for Thursday, April 30",
-          "summary": "CBS Sports reports that the SportsLine analytics model has identified three optimal NBA playoff player prop bets for Thursday, April\u202f30. The model also supplies broader game predictions for the day\u2019s playoff action.",
-          "key_points": [
-            "Three premier player prop bets are recommended by the SportsLine model.",
-            "Model predictions cover multiple playoff games scheduled for the date.",
-            "Odds and suggested wagers are based on statistical modeling."
-          ],
-          "link": "https://www.cbssports.com/nba/news/nba-player-prop-picks-odds-model-reveals-three-best-2026-nba-playoffs-prop-bets-for-thursday-april-30/",
-          "source": "CBS Sports NBA",
-          "published": "2026-04-30T15:18:27+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "f821bcae5e52",
-          "title": "Kevin Durant Out for Game 6 as Rockets Fight Elimination",
-          "original_title": "Rockets' Kevin Durant will reportedly miss Game 6 with ankle injury as Houston tries to stave off elimination",
-          "summary": "CBS Sports notes that Kevin Durant will miss Game\u202f6 due to an ankle injury, leaving the Houston Rockets without their leading scorer as they attempt to stave off elimination by the Los Angeles Lakers. The Rockets have won the previous two games in the series without Durant.",
-          "key_points": [
-            "Durant is sidelined with an ankle injury for Game\u202f6.",
-            "Houston has won the last two games against the Lakers without him.",
-            "The Rockets face elimination and must find alternative scoring options."
-          ],
-          "link": "https://www.cbssports.com/nba/news/rockets-kevin-durant-injury-lakers-elimination/",
-          "source": "CBS Sports NBA",
-          "published": "2026-04-30T15:13:15+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "729c4d5e9055",
-          "title": "Josh Hart Questionable for Knicks Game 6 vs. Hawks",
-          "original_title": "Knicks' Josh Hart questionable for Game 6 against Hawks with lower back contusion",
-          "summary": "The New York Knicks listed guard/forward Josh Hart as questionable for Game 6 of their first\u2011round series against the Atlanta Hawks due to a lower\u2011back contusion. Hart has been a key contributor on defense and rebounding throughout the series.",
-          "key_points": [
-            "Hart suffered a lower\u2011back contusion and may miss the decisive Game 6.",
-            "He has provided strong perimeter defense and board work for the Knicks in Round 1.",
-            "His availability could impact the Knicks' ability to contain the Hawks' wing players."
-          ],
-          "link": "https://sports.yahoo.com/nba/article/knicks-josh-hart-questionable-for-game-6-against-hawks-with-lower-back-contusion-150923468.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-04-30T15:09:23+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "970838790544",
-          "title": "John Wall Hired as President of Basketball Operations for Howard University",
-          "original_title": "Howard taps John Wall to be new president of basketball operations",
-          "summary": "Former NBA point guard John Wall has been appointed president of basketball operations for Howard University's men\u2019s basketball program. The hire marks Wall\u2019s return to Washington, D.C., transitioning from his playing career to a front\u2011office role.",
-          "key_points": [
-            "Wall will oversee all basketball\u2011related operations at Howard University.",
-            "The move brings a high\u2011profile former NBA player to a historically Black college program.",
-            "Howard aims to leverage Wall\u2019s experience to enhance recruiting and program development."
-          ],
-          "link": "https://sports.yahoo.com/articles/howard-taps-john-wall-president-150910469.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-04-30T15:09:10+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "35a550979179",
-          "title": "SportsLine Releases 2026 NBA Playoff Predictions and 3\u2011Way Parlay Odds",
-          "original_title": "2026 NBA playoff predictions, odds, picks for April 30: This 3-way parlay returns over +600",
-          "summary": "CBS Sports reports that SportsLine completed 10,000 Monte Carlo simulations to generate its 2026 NBA playoff predictions, odds, and picks for April\u202f30. The model highlights a three\u2011team parlay that offers a payout of over +600.",
-          "key_points": [
-            "Predictions are based on 10,000 simulated playoff scenarios.",
-            "The highlighted parlay combines three specific game outcomes for a high return.",
-            "Odds and picks are presented for bettors and fans ahead of the upcoming playoff round."
-          ],
-          "link": "https://www.cbssports.com/nba/news/2026-nba-playoff-predictions-odds-picks-april-30-parlay/",
-          "source": "CBS Sports NBA",
-          "published": "2026-04-30T14:59:58+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "bdf15630af28",
-          "title": "Cavaliers vs. Raptors Game 6 Prediction and Picks",
-          "original_title": "Cavaliers vs Raptors Prediction, Picks & Odds for NBA Playoffs Game 6",
-          "summary": "Yahoo Sports provides a preview of Game 6 between the Cleveland Cavaliers and Toronto Raptors, emphasizing that forward Evan Mobley has been a profitable pick in their model. The article offers odds and betting recommendations for the May\u202f1 matchup.",
-          "key_points": [
-            "Evan Mobley\u2019s performance is a focal point of the prediction model.",
-            "The article supplies specific odds and recommended bets for the game.",
-            "Cavaliers and Raptors are tied in the series, making Game\u202f6 a pivotal contest."
-          ],
-          "link": "https://sports.yahoo.com/articles/cavaliers-vs-raptors-prediction-picks-145200104.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-04-30T14:52:00+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "ace5ae0ca7c2",
-          "title": "Celtics vs. 76ers Game 6 Odds and Picks from SportsLine Model",
-          "original_title": "Celtics vs. 76ers odds, prediction, time: 2026 NBA playoff picks, Game 6 best bets by proven model",
-          "summary": "CBS Sports outlines SportsLine\u2019s projected outcomes for Game 6 of the Boston Celtics\u2011Philadelphia 76ers series, including odds and recommended bets. The model\u2019s picks are based on its proprietary analytics and simulation data.",
-          "key_points": [
-            "SportsLine\u2019s model delivers specific odds for the Celtics\u201176ers Game\u202f6.",
-            "Betting recommendations are provided based on the model\u2019s simulations.",
-            "The series is tied, and the game will determine which team advances."
-          ],
-          "link": "https://www.cbssports.com/nba/news/celtics-76ers-odds-prediction-time-2026-nba-playoff-picks-game-6-best-bets/",
-          "source": "CBS Sports NBA",
-          "published": "2026-04-30T14:51:39+00:00",
+          "published": "2026-04-30T15:30:00+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -296,153 +241,113 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "fe75f8c42de5",
-          "title": "Rockets Unfazed by Labeling LeBron 'Old'",
-          "original_title": "The Rockets apparently aren't scared of calling LeBron old - Chron",
-          "summary": "A recent piece notes that the Houston Rockets are openly referring to LeBron James as an older player, but the organization shows no concern about the comment. The article suggests the Rockets remain focused on their own roster development rather than engaging in age\u2011related debates about NBA stars.",
-          "key_points": [
-            "Houston Rockets publicly called LeBron James \"old\" in commentary.",
-            "The team indicated the remark does not affect their competitive plans.",
-            "Focus remains on building the Rockets' roster and future prospects."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYVprVm9lc1hVZ3lNdTAyUE42QTNzc0xfNHQ5dHcxNThqX1dwYW1FUGFNNms2ekh4bXJ3UTdqdkNrcldCYlNyeDZOOHJVUlVkdmttR1h3Szc1dWNLN2FnMmMzMU9xZnB3eXBtQUprQVN6TnN4dDR4a01XaWc3Y0pySmNWZ3QwdWY4dndZ?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-30T15:29:33+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "1ba3c55c2493",
-          "title": "LeBron James Calls Alperen \u015eeng\u00fcn 'Soft' During Free\u2011Throw Incident",
-          "original_title": "LeBron James Destoys Alperen Sengun During Free Throws, 'Soft Ass Tall Guy' - TMZ",
-          "summary": "During a recent game, LeBron James confronted Alperen \u015eeng\u00fcn at the free\u2011throw line, using the phrase \"soft ass tall guy\" to describe him. The exchange was highlighted by TMZ, emphasizing the on\u2011court tension between the two players.",
-          "key_points": [
-            "LeBron James verbally challenged \u015eeng\u00fcn at the free\u2011throw line.",
-            "The incident was reported by TMZ with a focus on the insult used.",
-            "No disciplinary action was mentioned in the coverage."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMFFYMkYyUmlmS1loc3AydElPTUphQnNYNjNUMmhqV1VUNGprUjFEaVhUZXdsOTh0RUt1UnJBMV9TdW9SMHRDLXFqLUdVQXR5WWtFUzNGZ2hFY01VblhGZ1pfU0pjWXYtVkYxbEU5SnNmaDlWQ3hBbmhqUU15THdiT3dNOXo2ay1HWUxQYQ?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-04-30T15:03:31+00:00",
+          "id": "21fdd0660e9c",
+          "title": "When is Luka Doncic returning? What we know about Lakers star's injury - USA Today",
+          "original_title": "When is Luka Doncic returning? What we know about Lakers star's injury - USA Today",
+          "summary": "When is Luka Doncic returning? What we know about Lakers star's injury&nbsp;&nbsp;USA TodayLuka Doncic Return: Lakers Get New Development as Ugly Game 5 Loss Shifts Focus&nbsp;&nbsp;heavy.comAustin Reaves running out of time as Lakers stare down historic collapse&nbsp;&nbsp;New York Post",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS0VUcEZTdnluM0xuSHQ1LWxyandoVUtyX1BIS2liZjBQOG42UEVsaml1alhwOFFLMUM3ZW84b25GUUgyV1NJVklIQm14eHA5dHIyVmU0RlhBZS1INWozUUE2YVpFbGtJMGxSTWZ5SGJTMnRqYzc5UVpkYXhJYTFOMGVqV25tVUNyWVR0Slc5LTVnU0xXTnpMWVVMYjRGd0NrVWl5ZjVISTI?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-04-30T16:19:00+00:00",
           "topic": "Lakers Players"
         },
         {
           "id": "64fee9c5c55d",
-          "title": "Lakers Receive Harsh Luka Don\u010di\u0107 Assessment After Game 5 Defeat",
+          "title": "Lakers Get Brutal Luka Don\u010di\u0107 Update After Game 5 Loss - heavy.com",
           "original_title": "Lakers Get Brutal Luka Don\u010di\u0107 Update After Game 5 Loss - heavy.com",
-          "summary": "Following a Game 5 loss, the Los Angeles Lakers were presented with a critical update on Luka Don\u010di\u0107's performance and impact. The heavy.com article outlines the challenges the Lakers face when matching up against Don\u010di\u0107 and the Dallas Mavericks.",
-          "key_points": [
-            "Lakers suffered a Game 5 loss that prompted analysis of Don\u010di\u0107's play.",
-            "The report describes Don\u010di\u0107 as a significant obstacle for Los Angeles.",
-            "Strategic adjustments are suggested to better contend with his skill set."
-          ],
+          "summary": "Lakers Get Brutal Luka Don\u010di\u0107 Update After Game 5 Loss&nbsp;&nbsp;heavy.com",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ3pMaHExcFVCRk03bExYNUVPaHhrcXA5MnpDYUtydzJ3WTdDWjZ0QzVxQlcwZkUzcGZPWVFHMEhoWTloTlFpOHhSdHo2RWxNcTZ1aGpjTE1kYmNNS09nZ3ctOW9ORGc0VkJPSVVBMlZ4X2tYanBUMnpqU19vRmJSTkxCbmR1NUxucUZvYzFxaEY?oc=5",
           "source": "Google News - Luka",
           "published": "2026-04-30T14:59:23+00:00",
           "topic": "Lakers Players"
         },
         {
+          "id": "076a1faa91f0",
+          "title": "Lakers Hit With Bad News Ahead of Game 6 vs. Rockets - heavy.com",
+          "original_title": "Lakers Hit With Bad News Ahead of Game 6 vs. Rockets - heavy.com",
+          "summary": "Lakers Hit With Bad News Ahead of Game 6 vs. Rockets&nbsp;&nbsp;heavy.com",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTGFLY1F3WGpmdWRBODNzU25ua1RLb3UzZ21GT3JvZExYVWhLVXZqWGNuR3Z0OW9GUzhkaEE5enUtb1pjLUhIaTMxSzJqUFI1QTBRR0lGZU96Y1lWT2otdXVhdnhEaUhuQlpiOVdaTGwxUkhobmpxUmpySV9MWGlJRVJHSktpZi1SYlYyZmpSQV8?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-04-30T14:34:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
           "id": "5ec7111a3058",
-          "title": "LeBron\u2019s F\u2011Bomb Doesn\u2019t Diminish His GOAT Status, Says AOL Letter",
+          "title": "So what if he dropped an F bomb? LeBron is still the GOAT | Letter - AOL.com",
           "original_title": "So what if he dropped an F bomb? LeBron is still the GOAT | Letter - AOL.com",
-          "summary": "An opinion piece on AOL argues that despite LeBron James using profanity in a recent interview, his standing as the greatest of all time remains intact. The writer emphasizes that on\u2011court achievements outweigh off\u2011court language.",
-          "key_points": [
-            "LeBron James used an expletive in a public setting, drawing media attention.",
-            "The author contends the incident does not affect his GOAT credentials.",
-            "Focus remains on James' career accomplishments and legacy."
-          ],
+          "summary": "So what if he dropped an F bomb? LeBron is still the GOAT | Letter&nbsp;&nbsp;AOL.com",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mNlBtVHFmT0RDQjlJVVBpVlZtZDNqOFlNanlmdEpGRHk5ME1rWnpGd1RoQUFyZkxrYVpFQUVrV3FNQUtTTzRGVkZvdF9sNmtNZmpmeWpNUFYyTWJCb1V1N0p5NzdGN3BCeFhnZ2FhMVR4OWxNVmc?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-04-30T14:22:41+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "75b0975f077e",
-          "title": "Trade Report Reveals Hidden Details Behind Luka Don\u010di\u0107\u2013Anthony Davis Deal Rumors",
-          "original_title": "Lakers trade report reveals there was more to Luka Doncic-Anthony Davis trade than fans thought - Yahoo Sports",
-          "summary": "Yahoo Sports reports that discussions surrounding a potential Luka Don\u010di\u0107 and Anthony Davis trade involved more complexity than publicly known. The article outlines additional factors and considerations that influenced the negotiations.",
-          "key_points": [
-            "Reports suggest multiple layers to the rumored Don\u010di\u0107\u2011Davis trade.",
-            "Factors such as salary cap implications and roster fit were examined.",
-            "The piece indicates that fan speculation captured only a portion of the full picture."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVldrNXotc1VJdnItODVZdG43Tmlka0RkeF9JS0RNM1NmRUNZN1ZBYXlqS2hTQnp2VFFyTmhwY0VZWjdURFh5a0MyZzdBaWFsdFRhZG11ODN0cW43TnlhZWx4dWlGRVA2NVVZU3VFZU45R0ZlVVRSci1KM0hFVlJzTEhPWkhPcUgy?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-04-30T14:00:01+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "9268a91ea4b1",
-          "title": "Austin Reaves Running Out of Time as Lakers Face Historic Collapse",
-          "original_title": "Austin Reaves running out of time as Lakers stare down historic collapse - New York Post",
-          "summary": "The New York Post reports that the Lakers are in danger of a historic playoff collapse, with Austin Reaves highlighted as a player whose minutes and impact are dwindling. The article emphasizes the urgency for the team to find a solution before the series slips away.",
-          "key_points": [
-            "Lakers are on the brink of a potential historic playoff collapse.",
-            "Austin Reaves' playing time and effectiveness have sharply declined.",
-            "Coaching staff must adjust rotations or strategies to avoid elimination."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeFdYeW9pUDZNZVpKWHEwWE5QbFc0QnpwVTRmU2RNQ3NhQ1Y5a0JHaHd5eUE0Z2tYeU9oUHNmSVpuN1llYkhXQjExbHpuQ3lHem9oUTJ4NGI3bTBQTlBzazhnNElmQzN2VmpCWlp3YjRBd3UyZ1lDcUo2QndBcmUyNnNhVWVKQVBQV1BOY19MVzVpa2RtX1VPTmY5azBSU3FtQ25vVkUxc28?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-04-30T13:53:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "ab9cdb075a4f",
-          "title": "Stephen A. Smith Reveals Origin of LeBron James' Grudge",
+          "id": "a9ff965cd5de",
+          "title": "Stephen A. Smith reveals origin of LeBron James grudge - Awful Announcing",
           "original_title": "Stephen A. Smith reveals origin of LeBron James grudge - Awful Announcing",
-          "summary": "Awful Announcing details Stephen A. Smith's explanation of the personal history behind LeBron James' lingering grudge toward a specific opponent or situation. The piece outlines the incident that sparked the tension and how it continues to influence James on the court.",
-          "key_points": [
-            "Smith traces the grudge back to a past playoff encounter.",
-            "LeBron's competitive drive is linked to that earlier dispute.",
-            "The grudge remains a motivating factor in his current play."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ3lNN1RSSkx0eTZNUzJHZGllVmFzYmJ2QkFmV2UzSWl3ZHN6TEtUR0kzdU8yLS10bHRYUnl4SnNhYV9oT3o3SXdsWjE0NlNRM1V1OVRaU0VXVG0yd0w0SDVPUFdnSmNod0xkSGYtTmpFUE5CVGlsUmRud1lyamhKbkpmNEN3dw?oc=5",
+          "summary": "Stephen A. Smith reveals origin of LeBron James grudge&nbsp;&nbsp;Awful Announcing",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ3lNN1RSSkx0eTZNUzJHZGllVmFzYmJ2QkFmV2UzSWl3ZHN6TEtUR0kzdU8yLS10bHRYUnl4SnNhYV9oT3o3SXdsWjE0NlNRM1V1OVRaU0VXVG0yd0w0SDVPUFdnSmNod0xkSGYtTmpFUE5CVGlsUmRud1lyamhKbkpmNEN3d9IBiwFBVV95cUxOSF85ZDNXb19hQmo1d180UG4xZnBXMVFaUm1Gd3RyTFZKYUJNN1l0dDZXVjJBaUxXY2hDWjlFUFBXbXFMVGZIeWo5clNVcmNJM2Q3Q3JSQldQdHBxS0FZdVI4MzcwLVYxZkluc0ZGYm1lV1FYUEpTbjhrWXBOVE01MkRHeE5SUWl0UkZz?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-04-30T13:39:55+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "377c78183245",
-          "title": "Nick Young Slams LeBron After Lakers Miss Series Closing Opportunity",
-          "original_title": "Nick Young goes off on LeBron James after Lakers fail to close out series: \"You got a bald dumba\u2013 head - Yahoo Sports",
-          "summary": "Yahoo Sports reports former Laker Nick Young publicly criticized LeBron James, calling him a \"bald dumba\u2011head\" after the team failed to close out a playoff series. Young's comments reflect frustration with the Lakers' execution in the final games.",
-          "key_points": [
-            "Nick Young used harsh language to criticize LeBron's leadership.",
-            "The Lakers missed a chance to end the series in regulation.",
-            "The outburst underscores growing tension surrounding the team's performance."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaWNkZ3RfaF9ubmlPSGMyVWNsNzRPYkpnWnF5UjRhc2hJTmFxbnZfa3RBWHRNMHRfN19aZ3dQWWI3bXdwSDlrZjNCZHdBSFJhR095TnEyQWpET0haT21QZnI3QjExY2UyZ1J3eENfclZVbnBHZlBKRjNyWG1Pbl9TQQ?oc=5",
+          "id": "9c7be34d7172",
+          "title": "Lakers' LeBron James: Strikes for game-high 25 in loss - CBS Sports",
+          "original_title": "Lakers' LeBron James: Strikes for game-high 25 in loss - CBS Sports",
+          "summary": "Lakers' LeBron James: Strikes for game-high 25 in loss&nbsp;&nbsp;CBS Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS1o0LUlwUXBYTUR1V2M0S3I0MHN3WFpzWk1YR09ORUZiTE9LRWdvUklyV0dBSWhiTE1HY1duaV9SX0ZEU3JlUVdEVllpYlhWWnhJOEhIb0pFU0pnbXBsR09Gb3JoRDQ4bmQ0c3cxQXdZNlJUMmdFWGRGeU9iUXFETVd5aEthNlhFSFV1NGVjdThEVGs5dG5YNEwzU0hxSFlIZlFqQURB?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-04-30T12:24:12+00:00",
+          "published": "2026-04-30T13:11:09+00:00",
           "topic": "Lakers Players"
         },
         {
           "id": "9c75d6fdd6be",
-          "title": "LeBron James, Austin Reaves and Lakers Search for Answers After Game 5 Loss",
+          "title": "LeBron James, Austin Reaves and the Lakers look for answers after Game 5 loss - The New York Times",
           "original_title": "LeBron James, Austin Reaves and the Lakers look for answers after Game 5 loss - The New York Times",
-          "summary": "The New York Times examines the Lakers' reaction to a Game 5 defeat, focusing on LeBron James and Austin Reaves as central figures in the team's search for solutions. The article discusses strategic adjustments and the pressure on both stars to elevate their play.",
-          "key_points": [
-            "Game 5 loss puts the Lakers in a precarious series position.",
-            "LeBron and Reaves are identified as key pieces needing improvement.",
-            "Coaches are considering lineup changes and tactical tweaks."
-          ],
+          "summary": "LeBron James, Austin Reaves and the Lakers look for answers after Game 5 loss&nbsp;&nbsp;The New York Times",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObWdtSWlTcXFLRmR6N09QRzFzTF8yZkJqNUFaenVzRDNyYkdrTmYta3dKTHgyclNGSWg1RWc1M01EUnFyTFBVNzlRcGgwLU1DLTladlNqN0FCZUFzMHFWaS1XSGNJMnQwZ1RnVURwRndibExYcU1ZV0k5Vk8zbHZMTF9QdWlxNFhieUJ3OQ?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-04-30T11:15:22+00:00",
           "topic": "Lakers Players"
         },
         {
+          "id": "e6d5c2f68d2a",
+          "title": "LeBron James shrugs off Jabari Smith Jr.\u2019s \u2018we\u2019re better\u2019 comments: \u2018I\u2019m too old for that s\u2014\u2019 - The New York Times",
+          "original_title": "LeBron James shrugs off Jabari Smith Jr.\u2019s \u2018we\u2019re better\u2019 comments: \u2018I\u2019m too old for that s\u2014\u2019 - The New York Times",
+          "summary": "LeBron James shrugs off Jabari Smith Jr.\u2019s \u2018we\u2019re better\u2019 comments: \u2018I\u2019m too old for that s\u2014\u2019&nbsp;&nbsp;The New York TimesCommentary: Lakers need another ageless LeBron James performance after Game 5 loss&nbsp;&nbsp;Los Angeles TimesLeBron James Destoys Alperen Sengun During Free Throws, 'Soft Ass Tall Guy'&nbsp;&nbsp;TMZ",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdEN2MkZuT21aQjkzcUUwTWpYQ3NCRDRyUTZLc0pNODZ0RzduZ1MyNFNvYkIwMnQyQ0ZxeEFCckYxQ2RDNDBjVHR5QXdRYkdfaE5SVDlJdTF6endpWVQ0cjE3bkhRcFVDQlJRTVhmVVNsVG1MclJnbzFFQVRVdjJza0ZmMlNLRzY3TUxVTWlfOTRwQXhpcW1ZWFNWRE0wbWNObV9tWA?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-04-30T11:07:06+00:00",
+          "topic": "Lakers Players"
+        },
+        {
           "id": "98a16d88c8a8",
-          "title": "LeBron James Delivers Perfect Reply to Alperen \u015eeng\u00fcn's Foul Complaint",
+          "title": "LeBron James had the perfect response to Alperen Sengun's foul gripe - Yahoo Sports",
           "original_title": "LeBron James had the perfect response to Alperen Sengun's foul gripe - Yahoo Sports",
-          "summary": "Yahoo Sports recounts a moment when Alperen \u015eeng\u00fcn complained about a foul, and LeBron James responded with a calm, effective retort that defused the situation. The exchange highlighted James' veteran poise under pressure.",
-          "key_points": [
-            "\u015eeng\u00fcn voiced frustration over a perceived foul on him.",
-            "LeBron responded with a measured, confident answer that settled the dispute.",
-            "The incident showcased James' leadership and composure during games."
-          ],
+          "summary": "LeBron James had the perfect response to Alperen Sengun's foul gripe&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUjRpWkVuV0RqMUhGVVdvcmNOSkNhUUEya3dVLTU0RWplNWlSSTNYNkJ3Q2NQcmltRngxdmVFbWZfVU1TNVRfS0FaUTN0bUVJTGtncmlxSGEyR1BHVVhkMmpVUkRUR0Y0LVByQlNmX2VYbmRKdURxSE4xMTlLSmhhTUlMaVZmYm1qRnc?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-04-30T10:48:08+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "94148068f1e8",
+          "title": "LeBron James isn't worried yet after Lakers lose 2nd straight potential series clincher to Rockets - San Francisco Chronicle",
+          "original_title": "LeBron James isn't worried yet after Lakers lose 2nd straight potential series clincher to Rockets - San Francisco Chronicle",
+          "summary": "LeBron James isn't worried yet after Lakers lose 2nd straight potential series clincher to Rockets&nbsp;&nbsp;San Francisco Chronicle",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTUtseTJ6Z3FYT2g2T3BIMm0xVHVpRDAxWnpDZDZqR0RzajRaT250d25kMzN6NzdoRlBKeG5NNGpDVDh3SzBUbmQzOFlYa1AyUmFjZmZMb3dwM2VXdHVjcS1UV0JlQm5KMGNPSW1xdkE5SnNOUlFnSjFtTlNsTVpmOGljTE9WZjN4QWd4dFVMMFo4Z1BLVDI0eW5Yc0xmaF9NVnpVMVRUOA?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-04-30T06:50:36+00:00",
           "topic": "Lakers Players"
         }
       ]
