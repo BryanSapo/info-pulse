@@ -1,138 +1,158 @@
 {
-  "generated_at": "2026-05-01T17:07:14.203003+00:00",
-  "total_articles": 30,
+  "generated_at": "2026-05-01T19:24:23.907698+00:00",
+  "total_articles": 25,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
-          "id": "21074853903a",
-          "title": "Boogie Cousins Believes Lakers Do Not Need Luka Doncic Unless Series Goes to Game 7 - Sports Illustrated",
-          "original_title": "Boogie Cousins Believes Lakers Do Not Need Luka Doncic Unless Series Goes to Game 7 - Sports Illustrated",
-          "summary": "Boogie Cousins Believes Lakers Do Not Need Luka Doncic Unless Series Goes to Game 7&nbsp;&nbsp;Sports Illustrated",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTFFKbWNUWUNQNHlPaE4zejg4Q0FuNkZUMXo3eURySVJ0TGhNNDlJRXRlcnVJcGNVV2xsOG5BN3A0Y21udjhZa2FzRV9DclduSUZYc0otc2NoSEV3Y3J1VzhQV0FGaGJ5YzRHdG5hN0w2MW9ZOHZMSGo2NExmY3I4SklOQ2RHN293M2tWT0kyZmptc3pVQzBiMVRNbmMzbGRwbS1SR0FzOWJHYUtvckNzVmQtZE0wb2o2VHc?oc=5",
+          "id": "36a4aa6c5eaa",
+          "title": "Udoka Earns Credit for Rockets' Comeback vs. Lakers",
+          "original_title": "Ime Udoka Deserves Praise for the Rockets' Series Comeback Against the Lakers - Sports Illustrated",
+          "summary": "Coach Ime Udoka was praised for orchestrating the Houston Rockets' dramatic comeback in their recent series against the Los Angeles Lakers. The article highlights his strategic adjustments and the team's resilience that turned a deficit into a win.",
+          "key_points": [
+            "Udoka's in\u2011game adjustments sparked a momentum shift for the Rockets.",
+            "The comeback marked a rare series victory for Houston over the Lakers.",
+            "Analysts credit Udoka's leadership and tactical acumen for the turnaround."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWXl6SElNd2pBZ3JhQUhXYm9ZMFZoV2RLVHVHeUFaYmJfWi1mR09ZX05SMmZsWjNkYlJxR1Mtb2REWHpTSHdkUmxQSGEwUmxfejAyVVRxZ0FMd0N0RDNRYXpLN0FDakVxbHpGVTZhbE1adFllMEJVX251ck5nVWhqdGNyU05kemZ6ek5ZUkhRWFdfLXlvM3dQcll6alUzOGVqNlIzei1MeERWZE1tYjN2RWpn?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-05-01T16:56:23+00:00",
+          "published": "2026-05-01T19:00:01+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "9f8c46aea2a8",
+          "title": "LeBron James Says Foot & Ankle Aren\u2019t the Same Since 2021 Injury",
+          "original_title": "LeBron James Reveals Foot & Ankle Haven\u2019t Been Same Since Solomon Hill Injury In 2021",
+          "summary": "LeBron James discussed how his foot and ankle feel different after the 2021 Solomon Hill injury, noting that age and accumulated wear have increased his susceptibility to aches and bruises during the 2025\u201126 season. He emphasized the need for careful management to stay effective on the court.",
+          "key_points": [
+            "James attributes lingering foot and ankle issues to the 2021 injury and aging.",
+            "He has experienced more frequent nicks, bruises, and minor ailments this season.",
+            "The veteran stresses proactive care to maintain performance levels."
+          ],
+          "link": "https://lakersnation.com/lebron-james-reveals-foot-ankle-havent-been-same-since-solomon-hill-injury-in-2021/",
+          "source": "Lakers Nation",
+          "published": "2026-05-01T19:00:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "1f8a9d41b862",
+          "title": "Make It Happen, Scott \u2013 Fan Post on r/lakers",
+          "original_title": "Make it happen Scott",
+          "summary": "A Reddit user posted a brief comment titled \u201cMake it happen Scott,\u201d expressing support or a request directed at someone named Scott, likely related to Lakers news or a roster move. No additional context or details were provided in the excerpt.",
+          "key_points": [
+            "Post originates from the r/lakers community.",
+            "Content is limited to a short, supportive statement.",
+            "No substantive news or analysis is included."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1t123r1/make_it_happen_scott/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-01T18:43:11+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "d185ea49e5f0",
+          "title": "Lakers Rumored to Target $58M Finals Champion in Trade Talks",
+          "original_title": "Lakers predicted to trade for $58M Finals champion, 10X All-Star, perfect Luka Doncic lob threat - Yahoo Sports",
+          "summary": "Yahoo Sports reports that the Los Angeles Lakers are rumored to be exploring a trade for a high\u2011salary player\u2014a recent Finals champion worth about $58\u202fmillion, described as a 10\u2011time All\u2011Star and a lethal lob threat akin to Luka Don\u010di\u0107. The piece outlines the speculative nature of the deal and potential cap implications.",
+          "key_points": [
+            "Trade speculation involves a $58\u202fM contract and a player with multiple All\u2011Star selections.",
+            "The target is characterized as a premier lob\u2011shooting threat comparable to Luka Don\u010di\u0107.",
+            "No official confirmation from the Lakers front office has been given."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMlFLNlNFXzBhNzB1c3RZeDdXYmw3V0xYUGhUa2JUcWxBU0xVZHJuVVBoNVl4U0RobFVrN1dHU0Zrc3NiTGdzZElCelV0M0hNRzJmT003eWk5dWtqYURma0RDUDB6TFdha0ZOYkhCWTVtUlBOWUlFeXlHMkt2Mzh5Nzc2Y3lpNElFNFE?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-01T18:20:04+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "ed9e8183cee8",
+          "title": "Former Laker Rick Fox Involved in Heated Clash at Bahamas Rally",
+          "original_title": "Ex-Lakers star Rick Fox caught in heated clash at Bahamas campaign rally - MARCA",
+          "summary": "MARCA reports that ex\u2011Los Angeles Lakers star Rick Fox was caught up in a heated confrontation during a political campaign rally in the Bahamas. The incident drew media attention but is unrelated to his basketball career.",
+          "key_points": [
+            "Rick Fox was present at a Bahamas campaign event when a dispute erupted.",
+            "The clash was reported by MARCA and highlighted Fox's involvement.",
+            "The incident does not pertain to NBA or Lakers activities."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbXU4OXhYNklOenJoQXJhNUNUVzhfUUdnYVIzcUxVX2J1RGJzVmQ0aTkxeU40a1RFTXNyZ0JtUlA5Y2d4TVVqb0xwY1dzTld0dm0xeUhiMi1hcXdiMGZ4WDNEUTNTc2ptMkMtclV6MmtMOFVqWm9Yamc3QnFiQTd3QXNaalFTbWtrVERWSDBVWDRIdFVuVVcwa0VGVFNFQ2U4c1pMTm5wX2hqZE5WSzRCS1pCbnYydjY5VHE4bWtjTjVSOW8wVmU1X2lSR1A0TUhVZ09mRnhoUzd5TVRaUzVPbdIB4AFBVV95cUxORVFsTVVNT1BudHg1a1hMN1c4ejBfQWlyT25vRE81NkZ6V1hZeGRFWmhLdmthcExmUHdWbGNSdDVyeU5lT1BNNVJTUVAwZFl2S2c2cDJOUUotdUk5cjVmS3dxRFRvbXg2UDk1SDdRNE4zSnExM3luVVE5cU9BdVRDZkhGc2RyS2doZ2hidEF3dm1mNVRvZVpKRWxkMnlGaUFKYzBSTXY5TlZfZDJxY3hDN1lIMjFrRFNwTDh0amlxV3JMbXVyYjl0ZjdCY2VHeVcyYVVZVmdPLW9Eem1GelAtRA?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-01T18:18:48+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "c5912546637b",
+          "title": "LeBron Confronts Alperen \u015eeng\u00fcn Over Complaints in Game 5",
+          "original_title": "Lakers Video: LeBron James Takes Offense At Alperen Sengun Complaining",
+          "summary": "During Game 5 of the Lakers\u2011Rockets series, LeBron James was seen confronting Houston forward Alperen \u015eeng\u00fcn after the latter complained about a call. The incident highlighted the growing tension in a physically intense playoff matchup.",
+          "key_points": [
+            "LeBron approached \u015eeng\u00fcn on the court after the latter voiced a grievance about a referee decision.",
+            "The series has been notably physical, with both teams exchanging hard fouls.",
+            "The moment was captured on video and is being discussed as a sign of rising animosity between the clubs."
+          ],
+          "link": "https://lakersnation.com/lakers-video-lebron-james-takes-offense-at-alperen-sengun-complaining/",
+          "source": "Lakers Nation",
+          "published": "2026-05-01T17:50:57+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "a5bfbfac6604",
+          "title": "Bronny James Shows Steady Shooting Improvement",
+          "original_title": "Bronny Should Get More Mins\u2026I\u2019m Serious",
+          "summary": "A Reddit user points out that Bronny James is gradually developing into a reliable 3\u2011and\u2011D player, citing a jump in his shooting percentages from the previous season. While his minutes remain limited, the statistical gains suggest tangible progress.",
+          "key_points": [
+            "Last season: 31.3% FG, 28.1% 3PT, 78.6% FT; this season: 40.9% FG, 38.6% 3PT, 85.7% FT.",
+            "The improvement occurs despite a small role off the bench.",
+            "The user argues Bronny deserves more playing time based on his shooting development."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1t10kpb/bronny_should_get_more_minsim_serious/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-01T17:48:37+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "aea9a6b941c0",
+          "title": "Reddit Discussion: Preview of Lakers vs. Rockets Game 6",
+          "original_title": "Lakers Vs Rockets Game 6 Tonight! Thoughts?",
+          "summary": "A Reddit thread invites fans to share thoughts and predictions ahead of Game 6 between the Los Angeles Lakers and Houston Rockets. The post includes a link to the game details and encourages community comments.",
+          "key_points": [
+            "The thread serves as a forum for fan speculation and analysis before the matchup.",
+            "No specific content beyond the invitation to comment is provided in the source.",
+            "It reflects ongoing fan engagement surrounding the playoff series."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1t10h5w/lakers_vs_rockets_game_6_tonight_thoughts/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-01T17:45:01+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "5a99c962db66",
+          "title": "LeBron and Smart Stress Urgency for Lakers in Game 6",
+          "original_title": "LeBron James, Marcus Smart know the Lakers need to \u2018play desperate\u2019 in Game 6",
+          "summary": "LeBron James and Marcus Smart emphasized that the Lakers must play with a sense of desperation in Game 6 after the Rockets won the previous two games, including a blowout in Game 4 and a close win in Game 5. The article notes the Rockets' heightened urgency and the need for the Lakers to respond.",
+          "key_points": [
+            "Houston has played with season\u2011on\u2011the\u2011line intensity, winning Games 4 and 5.",
+            "LeBron and Smart warned that the Lakers need to elevate effort and urgency.",
+            "Game 6 is positioned as a must\u2011win for Los Angeles to stay alive in the series."
+          ],
+          "link": "https://www.silverscreenandroll.com/lakers-news/115916/lakers-lebron-james-marcus-smart-2026-nba-playoffs-rockets",
+          "source": "Silver Screen and Roll",
+          "published": "2026-05-01T17:06:44+00:00",
           "topic": "Lakers News"
         },
         {
           "id": "b6f0f18608ef",
-          "title": "We have Jaden McDaniels at home",
+          "title": "Reddit User Compares Prospects to Jaden McDaniels",
           "original_title": "We have Jaden McDaniels at home",
-          "summary": "      Hopefully this time next year we\u2019ll be saying this. He has the tools to be exactly like McDaniels. He plays very fast right now just like when Randle came in. With reps and time I think he can be a big time 3 and D guy.  &#32; submitted by &#32;  /u/reppin_415   [link] &#32; [comments] ",
-          "key_points": [],
+          "summary": "A Reddit contributor argues that a young Lakers player possesses the skill set to develop into a player like Jaden McDaniels, emphasizing speed and potential as a 3\u2011and\u2011D contributor. The post suggests that with more reps, the player could become a significant perimeter defender and shooter.",
+          "key_points": [
+            "The user sees parallels between the Lakers prospect and Jaden McDaniels' style of play.",
+            "Highlights the player's current speed and defensive potential.",
+            "Suggests that increased playing time could unlock a reliable 3\u2011point and defensive role."
+          ],
           "link": "https://www.reddit.com/r/lakers/comments/1t0yp8c/we_have_jaden_mcdaniels_at_home/",
           "source": "Reddit r/lakers",
           "published": "2026-05-01T16:41:45+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "65ca95998803",
-          "title": "How Much Are The Los Angeles Lakers Paying Bronny James? Contract Details Revealed - heavy.com",
-          "original_title": "How Much Are The Los Angeles Lakers Paying Bronny James? Contract Details Revealed - heavy.com",
-          "summary": "How Much Are The Los Angeles Lakers Paying Bronny James? Contract Details Revealed&nbsp;&nbsp;heavy.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSzR0V2JVVmxfNklLeVlSTV9FSndkX2I1RjdWTXdnMGxfNGRNYjRHMkliY2ZYRlhoMjFsMzZQcnlHeXJ2Q3BsbDJSemxrNzBzYWh5WlUybVdjcEFqNFZ3UkVwN1VoS2FaTnUyY042WktpTFdNaURyZVN5V1RwMFllbGttQk9KbU1HQmJONHBIemw?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-01T16:26:40+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "585843fe9600",
-          "title": "Los Angeles Lakers COVER against Houston Rockets in Friday's NBA Playoff Betting Action - WLTX",
-          "original_title": "Los Angeles Lakers COVER against Houston Rockets in Friday's NBA Playoff Betting Action - WLTX",
-          "summary": "Los Angeles Lakers COVER against Houston Rockets in Friday's NBA Playoff Betting Action&nbsp;&nbsp;WLTX",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNQ1VXNXBfbUdTT2lIVmxFc0Y0MFYzVTVSaUZZandITnhVNnJrdkRwbkJIQkZ2Z0pvLXdsUE42WVFHWERqY0ZyNlNwY3BYdXVocVlUQXp4Uzc5S3NKN2VGM1JadnMwVm5FaHh5QzJwUDBoeVNDcFdZcVpKN2hucjFxUmlfVW0yc0dOZmxRdlczYmZaUTlGMHpuUGVpTk5UZVRQNXN6Rnd5TWFHSng2VzlpQlVFek1QS3ZWb1E5Si1ncUg0OGZockt0aVdlT04xWjFmUFhHdWs3Q2QyT29SZEVld3Jwc1loajRuNGpTSTdtaTZPVnc?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-01T16:26:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "b8df3548b80c",
-          "title": "Happy birthday GiGI",
-          "original_title": "Happy birthday GiGI",
-          "summary": "      &#32; submitted by &#32;  /u/Gucciipad   [link] &#32; [comments] ",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/lakers/comments/1t0y3zl/happy_birthday_gigi/",
-          "source": "Reddit r/lakers",
-          "published": "2026-05-01T16:20:28+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "a230f2140783",
-          "title": "Lakers Aim to Keep Sharpshooter Luke Kennard in Free Agency",
-          "original_title": "Lakers Rumors: Desire To Retain Luke Kennard In Free Agency",
-          "summary": "The Lakers acquired Luke Kennard by swapping Gabe Vincent\u2019s expiring contract, a move initially viewed as marginal. Kennard\u2019s three\u2011point shooting and veteran presence have exceeded expectations, prompting the team to consider re\u2011signing him in free agency.",
-          "key_points": [
-            "Kennard was obtained in a trade that sent Gabe Vincent\u2019s contract to the Warriors.",
-            "His shooting has provided a significant boost to the Lakers\u2019 perimeter offense.",
-            "Management is now evaluating a new contract to retain him for the upcoming season."
-          ],
-          "link": "https://lakersnation.com/lakers-rumors-desire-to-retain-luke-kennard-in-free-agency/",
-          "source": "Lakers Nation",
-          "published": "2026-05-01T16:20:05+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "756b83234dff",
-          "title": "Reddit Users Warn Lakers Players of High Stakes in Upcoming Game",
-          "original_title": "Huge game Tonight : the most important game in this rosters/ coaches careers.",
-          "summary": "A Reddit post on r/lakers stresses that players such as Smart, Vando, Hayes, Kennard, Reaves, and Rui must deliver their best performances or risk being traded by the new front office. The thread highlights the perceived pressure on the roster and uncertainty surrounding LeBron James\u2019 future.",
-          "key_points": [
-            "Fans believe the upcoming game could determine the roster\u2019s future.",
-            "The post suggests the front office may move on players who underperform.",
-            "LeBron James\u2019 long\u2011term status with the team is described as uncertain."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1t0xwzn/huge_game_tonight_the_most_important_game_in_this/",
-          "source": "Reddit r/lakers",
-          "published": "2026-05-01T16:13:44+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "ef48155bd125",
-          "title": "Live Updates: Rockets vs. Lakers on Yahoo Sports",
-          "original_title": "Houston Rockets @ Los Angeles Lakers: Live game updates, stats, play-by-play - Yahoo Sports",
-          "summary": "Yahoo Sports provided real\u2011time play\u2011by\u2011play, statistics, and game updates for the matchup between the Houston Rockets and the Los Angeles Lakers. The coverage included scoring runs, player contributions, and key moments throughout the contest.",
-          "key_points": [
-            "Live play\u2011by\u2011play commentary tracked each possession.",
-            "Statistical leaders for points, rebounds, and assists were highlighted.",
-            "The feed offered instant updates on scoring runs and game\u2011changing plays."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ3BFZnVYUUJUeG5nMHAwUElkUmN6TkVfbVk3SHdrNWY4RU1QYzZHbVlNWl96bTJrRlZaS3c5RUo0S2R0MXRiOFAzMVREUHVoU0ROdVBpNnhXQ2RWam5DZ0xhMWxmWWlWUVB1VWc3TUcxeDVjclM0RUxLa0RwMWVHTQ?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-01T15:28:45+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "437f6f81d64b",
-          "title": "Luka Don\u010di\u0107 Injury Update Ahead of NBA Playoffs",
-          "original_title": "When is Luka Doncic coming back? Injury update for Lakers star in NBA playoffs - USA Today",
-          "summary": "USA Today reported on Luka Don\u010di\u0107\u2019s injury status as the Dallas Mavericks prepare for the playoffs, noting that his return timeline remains uncertain. The article outlines the nature of his injury and its potential impact on the Mavericks\u2019 postseason outlook.",
-          "key_points": [
-            "Don\u010di\u0107 suffered a lower\u2011body injury that could sideline him for several games.",
-            "Medical staff are monitoring his progress but have not set a definitive return date.",
-            "His absence would affect the Mavericks\u2019 offensive production in the early rounds."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNW5FV2NwZFBQbzNHcnk4ZEZXc00zeFV0YXdxUWpBRTR2c0F1RXBrOHFkUVBDdjNCZVpYNk9TSnZBRkhPclNZMk40cDBmTndTZVlUTlRyZ2NTay16MWNSRzFaZnF3T2tiWV9lRFBpaldaUld5WGd0VUZBZ2ZNTXZuOFlhT1NmRzNGSWlvaTJ6VVh1MHBpWmU3d3JEUjE3Q0ttaDV3eVN2X0xPR1RlU2Izbw?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-01T15:22:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "e6150a89cda7",
-          "title": "Lakers Face Worrying Development Before Critical Game 6 in Houston",
-          "original_title": "Lakers Receive Worrying Development Before Critical Game 6 in Houston - heavy.com",
-          "summary": "Heavy.com reported a concerning development for the Los Angeles Lakers ahead of Game 6 in Houston, though specifics were not detailed in the excerpt. The piece suggests the issue could influence the team\u2019s chances in the decisive playoff matchup.",
-          "key_points": [
-            "A new problem emerged for the Lakers just before Game 6.",
-            "The development is described as \u201cworrying,\u201d implying potential negative impact.",
-            "The timing coincides with a pivotal moment in the Western Conference series."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObV9YUTdqR3pIUURCNVdEWnlxcjBoX2lQTG9BX3R5eG1kd2pvVzc2aUY0Q05qUEhlQmk4YktEWDJST2w3TVZ2cnpMTU9SRVRRWmhJQzkwQWRlRkZjWGNNMjUyTm9DMDlBQ20tcnV6blp5U0RTSE52XzdPQ3FJX2Y1YWlfbTJ2Y184TnVz?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-01T15:21:13+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -141,113 +161,153 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "b19a2f1a3e7f",
-          "title": "Paul Pierce on media inconsistencies: \"Let's not sugarcoat this because if this was LeBron at the peak of his powers, he would've been getting scolded. If you're the best player in the league, you're not supposed to lose in the first round\"",
-          "original_title": "Paul Pierce on media inconsistencies: \"Let's not sugarcoat this because if this was LeBron at the peak of his powers, he would've been getting scolded. If you're the best player in the league, you're not supposed to lose in the first round\"",
-          "summary": "      &#32; submitted by &#32;  /u/infalliBee   [link] &#32; [comments] ",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/nba/comments/1t0yf1p/paul_pierce_on_media_inconsistencies_lets_not/",
-          "source": "Reddit r/nba",
-          "published": "2026-05-01T16:31:19+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "db6919250284",
-          "title": "LeBron James, Victor Wembanyama and the stars who have defined the first round of the NBA playoffs",
-          "original_title": "LeBron James, Victor Wembanyama and the stars who have defined the first round of the NBA playoffs",
-          "summary": "Let's salute the players who have stuck out in this opening round as we enter its closing weekend.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/nba/article/lebron-james-victor-wembanyama-and-the-stars-who-have-defined-the-first-round-of-the-nba-playoffs-160244722.html",
+          "id": "5d7f2f233df0",
+          "title": "Celtics, 76ers Set for Game 7 in Boston",
+          "original_title": "Celtics, 76ers will add to their long playoff history with a Game 7 matchup in Boston",
+          "summary": "The Boston Celtics moved within one win of a second\u2011round berth after a 32\u2011point road victory in Game 4 against Philadelphia. A loss in Game 7 would mark the No.\u202f2 seed\u2019s earliest playoff exit since the 2020\u201121 season.",
+          "key_points": [
+            "Celtics lead series 3\u20111 after dominant Game 4 win in Philadelphia.",
+            "Game 7 will decide whether Boston advances or suffers its quickest exit since 2021.",
+            "Jayson Tatum has been a focal point of the Celtics\u2019 success, now just 22 games into the season."
+          ],
+          "link": "https://sports.yahoo.com/articles/celtics-76ers-add-long-playoff-190715125.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-05-01T16:02:44+00:00",
+          "published": "2026-05-01T19:07:15+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "732ab12f29a1",
-          "title": "Malachi Moreno among 3 Wildcats invited to NBA Combine; Milan Momcilovic among other notables",
-          "original_title": "Malachi Moreno among 3 Wildcats invited to NBA Combine; Milan Momcilovic among other notables",
-          "summary": "There are a few names worth keeping an eye on here.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/malachi-moreno-among-3-wildcats-160216270.html",
+          "id": "4cb225a93a01",
+          "title": "Six Arizona Wildcats Invited to 2026 NBA Draft Combine",
+          "original_title": "6 former Arizona men\u2019s basketball players invited to NBA Draft combine",
+          "summary": "Arizona\u2019s Final Four roster produced six draft\u2011eligible players, with four receiving invitations to the NBA Draft Combine. Seniors Tobe Awaka and Jaden Bradley, along with freshmen Brayden Burries and Koa\u202fPeat, join a field of 73 prospects vying for NBA attention.",
+          "key_points": [
+            "Six Wildcats are eligible for the 2026 NBA Draft; four are Combine invitees.",
+            "Invitees include seniors Tobe Awaka and Jaden Bradley and freshmen Brayden Burries and Koa\u202fPeat.",
+            "The Combine will feature 73 players from across college basketball."
+          ],
+          "link": "https://sports.yahoo.com/articles/6-former-arizona-men-basketball-190000568.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-05-01T16:02:16+00:00",
+          "published": "2026-05-01T19:00:00+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "941b3bf529cc",
-          "title": "Franz Wagner injury status: Will Magic forward return for Game 6 vs. Pistons?",
-          "original_title": "Franz Wagner injury status: Will Magic forward return for Game 6 vs. Pistons?",
-          "summary": "The Orlando Magic have ruled out forward Franz Wagner for Friday's pivotal Game 6 against the Detroit Pistons.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/franz-wagner-injury-status-magic-153235834.html",
+          "id": "a6872180c2e2",
+          "title": "76ers Seek to End Celtics Curse in Game 7",
+          "original_title": "76ers playing with house money in Game 7 against the Celtics, with decades of history working against them",
+          "summary": "Joel Embiid expressed frustration with the Philadelphia 76ers\u2019 repeated playoff losses to Boston. Game 7 offers the Sixers a chance to finally break the decades\u2011long losing streak against the Celtics.",
+          "key_points": [
+            "Embiid is \u201ctired of losing\u201d to Boston and wants to change the narrative.",
+            "The series history heavily favors the Celtics, adding pressure on Philadelphia.",
+            "Game 7 is positioned as a pivotal moment to overturn the historical trend."
+          ],
+          "link": "https://www.cbssports.com/nba/news/76ers-celtics-game-7-playoffs-tradition/",
+          "source": "CBS Sports NBA",
+          "published": "2026-05-01T18:45:58+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "11d2981ce918",
+          "title": "First\u2011Round Playoff Reactions and Spurs\u2011Wolves Preview",
+          "original_title": "NBA Playoff round one reactions, Spurs-Wolves preview + WNBA preseason debuts",
+          "summary": "Analysts Nekias Duncan and Steve Jones break down the opening round of the NBA playoffs, offering insights on recent games and previewing the upcoming Spurs vs. Wolves matchup. The segment also touches on recent WNBA preseason debuts.",
+          "key_points": [
+            "Duncan and Jones provide post\u2011game analysis of first\u2011round action.",
+            "A preview highlights key storylines for the Spurs\u2011Wolves series.",
+            "The discussion includes notable WNBA preseason performances."
+          ],
+          "link": "https://sports.yahoo.com/nba/article/nba-playoff-round-one-reactions-spurs-wolves-preview--wnba-preseason-debuts-182107003.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-05-01T15:32:35+00:00",
+          "published": "2026-05-01T18:21:07+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "005f6a1e7d5e",
-          "title": "When is Luka Doncic coming back? Injury update for Lakers star in NBA playoffs",
-          "original_title": "When is Luka Doncic coming back? Injury update for Lakers star in NBA playoffs",
-          "summary": "Lakers guard Luka Doncic will not be available for the team's Game 6 first-round matchup against the Rockets with a hamstring injury.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/luka-doncic-coming-back-injury-152257199.html",
+          "id": "e9f57c8cc97d",
+          "title": "Lakers vs. Rockets Game 6 Prediction and Picks",
+          "original_title": "Lakers vs Rockets Prediction, Picks & Best Bets for Tonight's NBA Playoffs Game 6",
+          "summary": "Yahoo Sports offers betting predictions and picks for the Lakers\u2019 Game 6 matchup against the Rockets in the NBA playoffs. The preview outlines key factors that could influence the outcome on May\u202f1.",
+          "key_points": [
+            "Expert picks and betting lines are provided for the Lakers\u2011Rockets Game\u202f6.",
+            "Analysis focuses on recent performance trends and matchup advantages.",
+            "The article aims to guide fans on the most promising bets for the contest."
+          ],
+          "link": "https://sports.yahoo.com/articles/lakers-vs-rockets-prediction-picks-195500530.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-05-01T15:22:57+00:00",
+          "published": "2026-05-01T18:02:00+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "7f74894b4ec8",
-          "title": "Best NBA Player Props Today for May 1: King of Points",
-          "original_title": "Best NBA Player Props Today for May 1: King of Points",
-          "summary": "Tom Oldfield's NBA player props for Friday, May 1 are calling for a big scoring night for LeBron James, and much more.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/best-nba-player-props-today-151200049.html",
+          "id": "09003376371e",
+          "title": "76ers vs. Celtics Same-Game Parlay Picks for Game 7",
+          "original_title": "76ers vs Celtics Same-Game Parlay for Saturday's NBA Playoffs Game 7",
+          "summary": "Yahoo Sports outlines its recommended same\u2011game parlay selections and overall predictions for the decisive Game\u202f7 between Philadelphia and Boston on May\u202f2. The article highlights key betting angles and projected outcomes for the series finale.",
+          "key_points": [
+            "Provides a set of parlay bets covering spreads, totals, and player props for Game\u202f7.",
+            "Offers a concise series recap to contextualize the betting recommendations.",
+            "Emphasizes the high\u2011stakes nature of a Game\u202f7, noting potential upside for bettors."
+          ],
+          "link": "https://sports.yahoo.com/articles/76ers-vs-celtics-same-game-174900213.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-05-01T15:12:00+00:00",
+          "published": "2026-05-01T17:49:00+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "85dca6c76370",
-          "title": "Scott Foster, aka The Extender, has officially been assigned as Crew Chief for Game 6 of Lakers-Rockets.",
-          "original_title": "Scott Foster, aka The Extender, has officially been assigned as Crew Chief for Game 6 of Lakers-Rockets.",
-          "summary": "Adam Silver saw the ratings and made the call. Game 7 is already locked in. We\u2019re just playing this one for fun. Real talk though as a Lakers fan I have no idea what to expect from a Foster Game 6. Source: https://official.nba.com/referee-assignments/  &#32; submitted by &#32;  /u/Luka77GOATic   [link] &#32; [comments]",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/nba/comments/1t0w2mr/scott_foster_aka_the_extender_has_officially_been/",
-          "source": "Reddit r/nba",
-          "published": "2026-05-01T15:07:29+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "418a8a16703f",
-          "title": "Lakers vs Rockets Props & NBA Playoffs Game 6 Best Bets",
-          "original_title": "Lakers vs Rockets Props & NBA Playoffs Game 6 Best Bets",
-          "summary": "Alperen Sengun shares the rock in our favorite Lakers vs. Rockets prop picks and NBA predictions for May 1.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/lakers-vs-rockets-props-nba-135700791.html",
+          "id": "c9b31636da5b",
+          "title": "Cavaliers vs. Raptors Game 6 Prediction and Picks",
+          "original_title": "Cavaliers vs Raptors Prediction, Picks & Odds for Tonight's NBA Playoffs Game 6",
+          "summary": "Yahoo Sports presents its Game\u202f6 outlook for the Cleveland\u2011Toronto playoff matchup, spotlighting Evan Mobley's impact as a primary factor in the Cavaliers' chances on May\u202f1. The piece includes odds, pick recommendations, and a brief analysis of both teams' recent performance.",
+          "key_points": [
+            "Evan Mobley highlighted as the player most likely to generate betting value.",
+            "Provides recommended money\u2011line, spread, and over/under selections.",
+            "Notes the Raptors' recent adjustments and the series context heading into Game\u202f6."
+          ],
+          "link": "https://sports.yahoo.com/articles/cavaliers-vs-raptors-prediction-picks-145200104.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-05-01T15:01:00+00:00",
+          "published": "2026-05-01T17:32:00+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "cc11d51eb6a8",
-          "title": "Fantasy Basketball Exit Interview: Nuggets' early exit turned a contender into a pretender",
-          "original_title": "Fantasy Basketball Exit Interview: Nuggets' early exit turned a contender into a pretender",
-          "summary": "Fantasy basketball analyst Dan Titus recaps the Nuggets' season and what the future holds for the team.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/fantasy/article/fantasy-basketball-exit-interview-nuggets-early-exit-turned-a-contender-into-a-pretender-145606644.html",
+          "id": "c8de86ce2748",
+          "title": "Trade and Free\u2011Agent Rumors: Anthony Davis and Luke Kennard",
+          "original_title": "NBA Offseason Trade/Free Agent Rumors 2026: Anthony Davis traded again? Luke Kennard stays with Lakers?",
+          "summary": "Amid the ongoing playoffs, Yahoo Sports circulates off\u2011season speculation, including the possibility of Anthony Davis being moved again and whether Luke Kennard will remain with the Los Angeles Lakers. The article aggregates various sources but makes no definitive claims.",
+          "key_points": [
+            "Rumors suggest Davis could be part of a multi\u2011team trade before free agency.",
+            "Luke Kennard's future with the Lakers is uncertain, with reports of both interest and retention.",
+            "The piece underscores that these are early\u2011season whispers, not confirmed moves."
+          ],
+          "link": "https://sports.yahoo.com/articles/nba-offseason-trade-free-agent-172846009.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-05-01T14:56:06+00:00",
+          "published": "2026-05-01T17:28:46+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "17e5bf0af92f",
-          "title": "Fantasy Basketball Exit Interview: Hawks get trounced in record fashion, what's next?",
-          "original_title": "Fantasy Basketball Exit Interview: Hawks get trounced in record fashion, what's next?",
-          "summary": "Fantasy basketball analyst Dan Titus recaps the Hawks' season and what the future holds for the team.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/fantasy/article/fantasy-basketball-exit-interview-hawks-get-trounced-in-record-fashion-whats-next-144043030.html",
+          "id": "a40b2afa49de",
+          "title": "2026 NBA Draft Combine Invites: Full List of 73 Prospects",
+          "original_title": "2026 NBA Draft Combine: Full list of 73 prospects \u2014 and biggest snubs",
+          "summary": "Yahoo Sports releases the official roster of 73 players invited to the 2026 NBA Draft Combine in Chicago, noting notable inclusions and surprising omissions. The list offers teams and fans a preview of the talent pool that will be evaluated ahead of the draft.",
+          "key_points": [
+            "All 73 invited prospects will undergo physical tests, skill drills, and interviews.",
+            "The article points out several high\u2011profile players who were left off the invite list.",
+            "Combines data from the event will likely influence draft stock and team scouting."
+          ],
+          "link": "https://sports.yahoo.com/articles/2026-nba-draft-combine-full-172747601.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-05-01T14:40:43+00:00",
+          "published": "2026-05-01T17:27:47+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "20945fa4c8b4",
+          "title": "Game\u202f7 Preview: Tatum, Embiid and the Unpredictable Sixers\u2011Celtics Series",
+          "original_title": "76ers vs. Celtics Game 7: Jayson Tatum, Joel Embiid and the unpredictable series",
+          "summary": "Yahoo Sports previews the decisive Game\u202f7 between Philadelphia and Boston, focusing on star performances from Jayson Tatum and Joel Embiid and the series' volatile momentum swings. The article recaps the back\u2011and\u2011forth nature of the matchup and sets the stage for the final showdown.",
+          "key_points": [
+            "Highlights Tatum's scoring ability and Embiid's interior dominance as pivotal factors.",
+            "Recalls the series' swing\u2011by\u2011swing nature, emphasizing its unpredictability.",
+            "Notes the high stakes and historical significance of a Game\u202f7 between these two franchises."
+          ],
+          "link": "https://sports.yahoo.com/nba/article/76ers-vs-celtics-game-7-jayson-tatum-joel-embiid-and-the-unpredictable-series-170904117.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-01T17:09:04+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -256,153 +316,58 @@
       "name": "Lakers Players",
       "articles": [
         {
+          "id": "e695be6c1148",
+          "title": "LeBron James Reveals Foot & Ankle Haven\u2019t Been Same Since Solomon Hill Injury In 2021 - Lakers Nation",
+          "original_title": "LeBron James Reveals Foot & Ankle Haven\u2019t Been Same Since Solomon Hill Injury In 2021 - Lakers Nation",
+          "summary": "LeBron James Reveals Foot & Ankle Haven\u2019t Been Same Since Solomon Hill Injury In 2021&nbsp;&nbsp;Lakers Nation",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMEpFLVhqQURhMDkxM3VQblF4WWJIWU1xZDU4Smw0R0dZaDlyRWJFWkRTdlFwUG1lSmRfbld6amIyRG0wZzBSNy1PX1VqMEsxWmo1X0hXN3hoR3FXb2cyY1l2ZDVXVW1sSjhRbndyOHlkZzVuVGNGdjRHa2pXYWQ5Qnh5dEkydzJLVHBOR05KVEJyY2pDYXAzMGthb3JjczVudktlT0pCQ1ZLUUh3?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-01T18:45:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "83b6049d2486",
+          "title": "Rich Paul Says LeBron James' Legacy Wouldn't Be Impacted if Lakers Blow 3-0 NBA Playoffs Lead - Bleacher Report",
+          "original_title": "Rich Paul Says LeBron James' Legacy Wouldn't Be Impacted if Lakers Blow 3-0 NBA Playoffs Lead - Bleacher Report",
+          "summary": "Rich Paul Says LeBron James' Legacy Wouldn't Be Impacted if Lakers Blow 3-0 NBA Playoffs Lead&nbsp;&nbsp;Bleacher Report",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMEdoV1NDQVhESHFEVVdPZmRJQlJVbG5IU215WHZSQUFhOXEwMVZKUVhCWkpWV1puMzg3aDQ0amdOZUhKRGdIUVZ0UEtWaURyWlBnektrbXBRQ3JhZXhWRUhzdXk5Q2dRY3Q4R2tka1NsNVhEeHdRU1BSWmktRUVibk9Pa3VFOUhycEsxWGZVUVZiMy02dF93TVoyZW5NTHFHN0NtV2xwX1RnUmxXeC13R0VnbU5SWU00Mm5uSll6Q2pLM2piZ2Q4ZXVscG91aHEwVlE?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-01T17:31:07+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "ddeb4de15dd0",
+          "title": "LeBron James sent stark warning by Stephen A. Smith amid Rockets series - hitc.com",
+          "original_title": "LeBron James sent stark warning by Stephen A. Smith amid Rockets series - hitc.com",
+          "summary": "LeBron James sent stark warning by Stephen A. Smith amid Rockets series&nbsp;&nbsp;hitc.com",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQllKM1p2UmF6MW5URTU0X2Z6ZU9YR0hUcDFReDNLMTNFaTVwOGVlaF85aDM1Ung1Umdza0dCNzlBRUVMaXlCVGw5eXZIaGVKakdNdVk2UjZGR1dpaTRPaEtPYXdVaExndGk2MFI0dmRXYm9ibVB0bWUwb3Y4TUNiWDdLVnlvWUZRWGRfdElxTnBTSUNSSmtv?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-01T17:30:21+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "ac18bf12d5ca",
+          "title": "LeBron James, Marcus Smart know the Lakers need to \u2018play desperate\u2019 in Game 6 - Silver Screen and Roll",
+          "original_title": "LeBron James, Marcus Smart know the Lakers need to \u2018play desperate\u2019 in Game 6 - Silver Screen and Roll",
+          "summary": "LeBron James, Marcus Smart know the Lakers need to \u2018play desperate\u2019 in Game 6&nbsp;&nbsp;Silver Screen and Roll",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT2VGRFFyT2pvM3Z4VTJ5SUd2ZnVCZklIZW9OYXpyUHBCeDRmbVFQSEM0cVhwUXdMX2V0UlB6MkpoSnB6REtXRi1oUmlkRnhOdGJFZUZBSW5jTFNiZWxXbjJ0MTFOZ3hxSGRRSUh0Ti1McUQ2WlJyRkxPU0VKU21zbjlMSnNKVUhGYjlVUHZldWFhczVkTEpWN2FSVUVCbGh5ZUotMW9KcnVyX2lIMTRjYVNlbw?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-01T17:06:44+00:00",
+          "topic": "Lakers Players"
+        },
+        {
           "id": "402040564e22",
-          "title": "Luka Doncic Listed on Lakers Injury Report for Game 6 vs. Rockets",
+          "title": "Luka Doncic headlines Lakers injury report for Game 6 vs. Rockets - Yahoo Sports",
           "original_title": "Luka Doncic headlines Lakers injury report for Game 6 vs. Rockets - Yahoo Sports",
-          "summary": "The Lakers submitted their official injury report ahead of Game 6 against the Rockets, noting that star guard Luka Doncic is dealing with a minor injury. The report did not specify the nature of the issue, but the team will assess his status before the game.",
-          "key_points": [
-            "Luka Doncic appears on the Lakers' injury report for Game 6.",
-            "The injury is described as minor; details were not disclosed.",
-            "Lakers will determine his availability shortly before tip\u2011off."
-          ],
+          "summary": "Luka Doncic headlines Lakers injury report for Game 6 vs. Rockets&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWl9XV1BEczF4cHR3LThqbEN0SGpZdzBWeGh5a1g0RVpNZlBDak1NWFNwVWNPMGxEcTVnN25ZYURUdWFzNF91Y0x4a2NkYkhhZnhTYUh3MU1zdnlaTm9YWUtJa1oyRHUtbDRqbmd6bURORlJwNjdlZi1kcGdFeVh0SXFyMENmMHpFNEZ6Ng?oc=5",
           "source": "Google News - Luka",
           "published": "2026-05-01T16:27:44+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "9bfe25b83bae",
-          "title": "LeBron James Credits Michael Jordan\u2019s 90s Championships for Shaping His Own Greatness",
-          "original_title": "\"Everything worked that way\" - LeBron James reveals the \"perfect\" timeline of how MJ\u2019s 90s titles fueled his own greatness - Basketball Network",
-          "summary": "LeBron James explained how Michael Jordan\u2019s dominance in the 1990s created a benchmark that motivated his own career trajectory. He described the timeline of Jordan\u2019s titles as a \u201cperfect\u201d catalyst for his development into an NBA legend.",
-          "key_points": [
-            "LeBron cites Jordan\u2019s six championships as a key influence.",
-            "He describes a clear timeline linking Jordan\u2019s success to his own aspirations.",
-            "The interview emphasizes respect for Jordan\u2019s impact on the modern game."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORGFZSVNOYTJSR2NfbDRhcl81d0l0ejRMbzhud3V6ZlFzSWNUOUhTbGlPVTNmaUdJTk10WWxoanRJUGlZRU9yRU1fVlJQbjRXT2FQYk1KRjNacjBtc2xNaWU3aWpCMExDWXF6RnhIR3FscDU4eC0yNVRadWo4ZEsyWmo2YkVTa2NEcXc0T3VvZFctX1A1RlhtbXNEZmh0ako2clUwUFFXbG5ZUENzWDlLdFVUNGp3bVNmaFk4Nl9zN3pJSGU4Zm1KQjhwSjJRSWc?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-01T15:43:57+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "b725275ba889",
-          "title": "Experts Urge Lakers to Rethink Luka Doncic\u2019s Return Ahead of Game 6",
-          "original_title": "Lakers Urged To \u2018Reconsider Everything\u2019 On Luka Doncic Injury Return Ahead of Game 6 - heavy.com",
-          "summary": "Analysts and former players have publicly urged the Los Angeles Lakers to reconsider playing Luka Doncic in Game 6 after his recent injury. They argue that rushing his return could jeopardize both his health and the team\u2019s long\u2011term success.",
-          "key_points": [
-            "Calls for a cautious approach to Doncic\u2019s comeback.",
-            "Concern that premature play could worsen the injury.",
-            "Emphasis on prioritizing player health over short\u2011term gain."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR0h4bzI3YkFfS1FfSlVuUGhIZFBtdEZ5aV9RQWd0b0NHRnYyUHh0ZFhjWUxiMF9PeE5qQlJVdmJXMm5xbklLUnFWZnM2WW01QXY4UDFqcE1Oa1NYc1pfLWc0bXdReWJ5VnV6MXo4c2JJRzcyZnJmYUJ0RS1YMHdOTG9rYUd2d0p1dTdRRFZQZWhvdFJT?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-05-01T15:07:01+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "68b9d119afb4",
-          "title": "Lakers\u2019 Ideal Luka Doncic Partner Identified Before Playoffs Ended",
-          "original_title": "Lakers' dream Luka Doncic partner became obvious before playoffs even ended - Lake Show Life",
-          "summary": "A recent analysis highlighted a potential teammate who would complement Luka Doncian\u2019s skill set perfectly, suggesting the partnership could elevate the Lakers\u2019 championship odds. The piece outlines the player\u2019s attributes and how they mesh with Doncic\u2019s style.",
-          "key_points": [
-            "Identification of a player whose game fits Doncic\u2019s needs.",
-            "Discussion of complementary strengths such as shooting and defense.",
-            "Implication that the pairing could boost the Lakers\u2019 playoff prospects."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVTVUay1Sbk84eDdzOXJocllwY2x5di1YdndVRzlSUXNmb1BHSmlQNkVqeUN0bGxSWUdsdFJYUDh6cTV3OFltdmJPNUtncV9fX1ozdnExQUJVRVR0cDl6MjB3N1pfdFJab3hOaUZ5ZWtIaGFDYTRwa09OWmNBYkVYT1l0d2VQN2J3MGdlSXdLbFN2U3ZaeDMyMTU1cTJhbnZC?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-05-01T15:00:01+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "5861c565cafb",
-          "title": "LeBron James Says Retired Wife Savannah Will Have More Time for Him",
-          "original_title": "LeBron James says wife Savannah is \u2018going to get a lot of time\u2019 when he finally retires from NBA - TheGrio",
-          "summary": "LeBron James revealed that once he retires from the NBA, his wife Savannah will finally have ample free time to spend together. He noted that his demanding schedule has limited their shared moments throughout his career.",
-          "key_points": [
-            "LeBron anticipates a lifestyle change after retirement.",
-            "Savannah will have increased availability for family time.",
-            "The comment reflects the personal sacrifices of an NBA career."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS1htRUpPM0QzcDVEdFZXMTYzLW00ZDFHVWk5NmtQeWx4R3R4OVBnSW9fQ3U2U0xzamUxRHRfWXVZcXRTODZLRHM5RHdwdlJqNWM1cGlvdDAwTHBTS09PZEM5MGxZZEIxSXAzNzdZTlZjVnV0WVdUUzZVUDYycWdZS0NlVQ?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-01T14:51:27+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "9a180f847e45",
-          "title": "LeBron James Hopes He\u2019s Made Michael Jordan Proud",
-          "original_title": "LeBron James says he hopes he\u2019s made Michael Jordan \u2018proud\u2019 - ChiCitySports",
-          "summary": "LeBron James reflected on his career and expressed a desire to have lived up to the standards set by Michael Jordan. He discussed the influence Jordan has had on his own approach to the game and his legacy. The comments were made during a recent interview with ChiCitySports.",
-          "key_points": [
-            "LeBron cited Jordan as a benchmark for greatness.",
-            "He emphasized respect for Jordan\u2019s work ethic and competitive drive.",
-            "James hopes his achievements will be viewed favorably by Jordan."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQem1UY1E4Zmo3cmZXZzhSNkJUOVNvMXNaaVNUOVlWSXZEcUczcG5HdmJiNzNWQnBOT0ExMXZmaTVoNkxZS0VSNk54NUdwa3ZibWpsVUJhWEFZR2xYNXB4cEllU0xwRmNZYjhMSnZGTk1QNzJMa1ZhRXBPWjR1LWVnRnA5aE9uZmRfa2hzY3l1Qmg?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-01T13:45:12+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "4c40d6301f6c",
-          "title": "Lakers vs. Rockets Game 6 Injury Update",
-          "original_title": "Lakers vs. Rockets Game 6 injury report: Kevin Durant, Luka Doncic status - BasketNews.com",
-          "summary": "Ahead of Game 6, the Lakers received an injury report that listed the status of key opponents Kevin Durant and Luka Don\u010di\u0107. The report indicated both players were questionable, affecting the matchup dynamics. The update was provided by BasketNews.com.",
-          "key_points": [
-            "Kevin Durant listed as questionable for the game.",
-            "Luka Don\u010di\u0107 also listed as questionable, creating uncertainty for the Rockets.",
-            "Lakers\u2019 own injury list remained largely unchanged."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa0FWVC1SWmxES2JNcEk2OFI1LUs5c0FNYzF2TGhoWWRVT3haUDdPMnd2SGZoT1BiSUNzRlJJd29UbEVQYXRfcVBXemhLNmhydS1qQ1R3aXBneTlkOGttdnlpOEJ5UDFicjR4bjhLdEZqOUtiQlZIN05nTXFaOHh0UVNXVjE5VmR2MU5aS1hZS2d2QW5PTjM5UFdYc0tQek50d2Q1YUh0cEJYZkE?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-05-01T11:34:13+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "342ece17a123",
-          "title": "Bronny and LeBron James Could Face Historical Scrutiny",
-          "original_title": "Bronny James and LeBron James could end up on wrong side of history - Trojans Wire",
-          "summary": "The Trojans Wire examined potential controversies surrounding Bronny James and his father LeBron, suggesting they could be viewed negatively in future historical assessments. The article highlighted recent off\u2011court incidents and public perception issues. It called for both players to consider their broader impact on the sport.",
-          "key_points": [
-            "Analysis of recent incidents that may affect their reputations.",
-            "Discussion of how media narratives shape historical legacy.",
-            "Calls for proactive community and charitable engagement."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaGppc2dvZlZzLWFReWtXRGQ4aVdSOU5ydVd1eW9hVjdCazJiVXBZOTAzY29pd0F2UXBLc1pmQUxHaDhrTjVGaTB1Rk1kMVZVMWZRMmlldHZ6d2EtZVJFTi1WSjZUdl9jZHlqaTk3TlNKUWNLMlRKdFY3UmpleG56SzBKaWVPbGJmNFBiRVlneWlWeWk3YlVLUmt2N05OREY0QnVKbXltczN3ek81M0xZc19RUVItNE9Xc2tvU3lzdXlEZ2VxTEZvQVd3VWxvbnkwOTRER0JCNDljS1BKQ2ZZVGFPOThqT3Nz?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-01T11:31:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "46baf94c4473",
-          "title": "LeBron James\u2019 Legacy Said to Be on the Line",
-          "original_title": "It\u2019s shocking but LeBron James\u2019 legacy is on the line - Yahoo Sports",
-          "summary": "Yahoo Sports published a piece arguing that recent events have placed LeBron James\u2019 legacy under scrutiny. The article referenced performance expectations, off\u2011court controversies, and comparisons to past NBA greats. It concluded that how James navigates these challenges will influence his long\u2011term standing.",
-          "key_points": [
-            "Performance and playoff outcomes are intensifying scrutiny.",
-            "Off\u2011court issues, including business and social media activity, are highlighted.",
-            "Future perception will depend on both on\u2011court success and personal conduct."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM1pRVjZ4alZ5eFQ5NHJxSTFhU0tKOHhSVVk4LUR1Ukp3RWxLOFI3WVBkR2d1NTZNTmtxeXQ3MjdFQ3ZTLWhwdlg4ejR1WGZxSXBmaktvUlAxencwblg3QzNkdVRGSEFhV1ZsYmFuaklUc0hlUWY2N2k2dnVLZF9RS2VmYWk2MGNwS0E?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-01T11:00:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "ab3bb0a1621a",
-          "title": "LeBron James\u2019 Legacy Said to Be on the Line",
-          "original_title": "It\u2019s shocking but LeBron James\u2019 legacy is on the line - New York Post",
-          "summary": "The New York Post echoed similar concerns, stating that LeBron James\u2019 legacy is at a critical juncture. It examined his statistical achievements alongside recent criticisms and the evolving narrative around his career. The piece emphasized the importance of upcoming seasons for cementing his place in NBA history.",
-          "key_points": [
-            "Statistical milestones remain impressive but are being re\u2011evaluated.",
-            "Recent criticism focuses on perceived declines and off\u2011court matters.",
-            "Upcoming playoff performance could be decisive for his historical ranking."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSnlraHVRUmY1Uk5QT1lWUnhSWUNwVjlPVUxYYVRZalA4S1hWV3F5cTBuRXBxNDBqcjV0bDBlNEVKZFl6TllkNWhnWGhVT1hpWkpiaFMza0hpNjFHTGFKMEVhWjJ0c042VEVhZ0Izb0ZoNWFzVmdPXzRiNkJCT3F1SFZDeUZWWklaeDB4c00tTTlTQ0JsQUw0YzI5Yw?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-01T11:00:00+00:00",
           "topic": "Lakers Players"
         }
       ]
