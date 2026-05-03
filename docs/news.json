@@ -1,32 +1,89 @@
 {
-  "generated_at": "2026-05-03T03:35:01.901930+00:00",
-  "total_articles": 25,
+  "generated_at": "2026-05-03T06:32:07.541004+00:00",
+  "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
+          "id": "6275ade1e155",
+          "title": "Amen Thompson given Flagrant 1 foul after league review for dirty play on Austin Reaves",
+          "original_title": "Amen Thompson given Flagrant 1 foul after league review for dirty play on Austin Reaves",
+          "summary": "There are two ways a team can lose to end the season: graciously and how the Rockets went out. With the result sealed for pretty much the whole fourth quarter, Houston had plenty of time to make a few questionable decisions. And to be fair, it was less the Rockets as a whole and more [&#8230;]",
+          "key_points": [],
+          "link": "https://www.silverscreenandroll.com/lakers-news/116081/amen-thompson-austin-reaves-lakers-rockets-flagrant-foul-dirty-injury-arm",
+          "source": "Silver Screen and Roll",
+          "published": "2026-05-03T05:22:40+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "79600ae6b4ae",
+          "title": "MONEY SPREAD",
+          "original_title": "MONEY SPREAD",
+          "summary": "      &#32; submitted by &#32;  /u/Silent_Wizard5597   [link] &#32; [comments] ",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/lakers/comments/1t2ayso/money_spread/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-03T04:04:34+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "f7333ebeff32",
+          "title": "New vando spam post \ud83d\ude02",
+          "original_title": "New vando spam post \ud83d\ude02",
+          "summary": "      &#32; submitted by &#32;  /u/gguntharr   [link] &#32; [comments] ",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/lakers/comments/1t2aqvd/new_vando_spam_post/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-03T03:53:33+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "7b037f6827dc",
+          "title": "JJ Redick locker room talk after they close out Houston on Game 6",
+          "original_title": "JJ Redick locker room talk after they close out Houston on Game 6",
+          "summary": "      &#32; submitted by &#32;  /u/flugelcort   [link] &#32; [comments] ",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/lakers/comments/1t2akj1/jj_redick_locker_room_talk_after_they_close_out/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-03T03:44:17+00:00",
+          "topic": "Lakers News"
+        },
+        {
           "id": "911d8bcc6eef",
-          "title": "Lakers Fans Express Frustration with Celtics",
+          "title": "The celtics turned off their comments\ud83d\ude2d fuck Boston",
           "original_title": "The celtics turned off their comments\ud83d\ude2d fuck Boston",
-          "summary": "A Reddit post from r/lakers contains a brief, profanity\u2011filled comment expressing displeasure toward the Boston Celtics. No specific game details or statistics are provided.",
-          "key_points": [
-            "Post reflects emotional reaction rather than factual reporting.",
-            "No concrete information about recent Lakers\u2011Celtics matchups is included."
-          ],
+          "summary": "      &#32; submitted by &#32;  /u/just_me_11_   [link] &#32; [comments] ",
+          "key_points": [],
           "link": "https://www.reddit.com/r/lakers/comments/1t29nxd/the_celtics_turned_off_their_comments_fuck_boston/",
           "source": "Reddit r/lakers",
           "published": "2026-05-03T02:58:45+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "d4b9056884ae",
-          "title": "Fans Praise Lakers\u2019 First\u2011Round Playoff Performance",
-          "original_title": "Perfect Round one playoffs",
-          "summary": "A Reddit user posted a short, enthusiastic remark describing the Lakers\u2019 first\u2011round playoff series as \u201cperfect.\u201d The comment lacks any supporting details or analysis.",
+          "id": "f882a0621f2f",
+          "title": "Boston Chokes After Losing 3-1 Lead to Sixers",
+          "original_title": "Boston choked!!",
+          "summary": "The Boston Celtics surrendered a 3-1 series advantage against the Philadelphia 76ers, ending their postseason run. The loss follows widespread preseason praise of Boston's depth and matchup advantages.",
           "key_points": [
-            "Positive sentiment toward the Lakers\u2019 early\u2011round performance.",
-            "No specific game data, player contributions, or series outcomes are mentioned."
+            "Celtics held a 3-1 lead before dropping the series to the Sixers.",
+            "Preseason commentary highlighted Boston's balanced roster and favorable matchups.",
+            "The defeat is being described by fans as a major choke."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1t29ejh/boston_choked/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-03T02:46:07+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "d4b9056884ae",
+          "title": "Perfect Round One Playoffs (Reddit Discussion)",
+          "original_title": "Perfect Round one playoffs",
+          "summary": "A Reddit post titled \u201cPerfect Round one playoffs\u201d was submitted by user OrganicHunt952, linking to a discussion thread. No additional content or analysis was provided in the source material.",
+          "key_points": [
+            "Post originates from r/lakers and references a perfect first\u2011round playoff performance.",
+            "The submission includes a link and comment section but lacks substantive details.",
+            "No specific information about teams or games is available."
           ],
           "link": "https://www.reddit.com/r/lakers/comments/1t29c1p/perfect_round_one_playoffs/",
           "source": "Reddit r/lakers",
@@ -34,13 +91,29 @@
           "topic": "Lakers News"
         },
         {
-          "id": "1986885c4742",
-          "title": "Lakers Fan Celebrates Celtics Defeat",
-          "original_title": "BOSTON TEARS TASTE SO SWEET",
-          "summary": "A Reddit submission celebrates a Celtics loss with the phrase \u201cBoston tears taste so sweet.\u201d The post provides no context about the game or its significance.",
+          "id": "6984bb0f3ed4",
+          "title": "OKC Thunder Praise LeBron James' Longevity Ahead of Playoffs",
+          "original_title": "Ahead of NBA playoff series, OKC Thunder marvel at LeBron James' longevity - OKC Thunder Wire",
+          "summary": "In a preview piece from the OKC Thunder Wire, Oklahoma City players and staff expressed admiration for LeBron James' durability and sustained performance as the Lakers head into the postseason. The article underscores James' ability to compete at a high level despite his age.",
           "key_points": [
-            "Expresses satisfaction at a Celtics defeat.",
-            "Absent of factual details such as score, date, or player impact."
+            "Thunder personnel highlighted James' longevity as a notable factor entering the playoffs.",
+            "The piece emphasizes his continued elite play into his late 30s.",
+            "No specific game outcomes or predictions are included."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYWhtMkNCX1YxT1hrdkNXeENTNXhmTFh1QXUwWGFRS1NLZUtEQ0RhakhzNUR2eWpzeFBHSVJZa1FvVm02YXBiZ0otQU9tVkxWNHM2SlU1MDExY0JQTGxDOUpGYzlyWTRBQkhrYk1yQjVmRnpwUzdwSjRZeW1Kb2xJTWcwX3BjRG9QTVdYZVNrck9vNEktNEFGaXRxRy1YTnZnRWd2T005UUJJTVBRQ2lrQjhaYjQ1YktCMU5pRjV2TzZhRnJBSzlsdG5vV0RfbmxzWFdEU0phZjB1UFZjVTlFUkI3dzZ4dDFFNENIQ19R?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-03T02:30:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "1986885c4742",
+          "title": "Boston Tears Taste Sweet (Reddit Post)",
+          "original_title": "BOSTON TEARS TASTE SO SWEET",
+          "summary": "A Reddit submission titled \u201cBoston tears taste sweet\u201d was posted by user ngmathew1234. The entry contains only a link and comment placeholder, offering no further narrative.",
+          "key_points": [
+            "Post appears to celebrate a Lakers victory over Boston.",
+            "No additional context or details are provided in the source.",
+            "The content is limited to a link and comment prompt."
           ],
           "link": "https://www.reddit.com/r/lakers/comments/1t28x1w/boston_tears_taste_so_sweet/",
           "source": "Reddit r/lakers",
@@ -48,107 +121,18 @@
           "topic": "Lakers News"
         },
         {
-          "id": "e4967a7f3f7a",
-          "title": "Comparing LeBron James to Celtics Success",
-          "original_title": "Bro channeled the LBJ aura to father the Celtics",
-          "summary": "A Reddit user claims a player \u201cchanneled the LBJ aura\u201d and somehow \u201cfathered the Celtics,\u201d suggesting a metaphorical link between LeBron James and Boston\u2019s performance. No concrete evidence or statistics are offered.",
-          "key_points": [
-            "Uses figurative language linking LeBron James to Celtics outcomes.",
-            "Lacks any factual information about recent games or player performance."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1t28qwc/bro_channeled_the_lbj_aura_to_father_the_celtics/",
-          "source": "Reddit r/lakers",
-          "published": "2026-05-03T02:14:32+00:00",
-          "topic": "Lakers News"
-        },
-        {
           "id": "536c36802787",
-          "title": "Celtics Embarrass Lakers Amid Pat Riley Statue Unveiling",
+          "title": "Celtics Embarrass Lakers After Pat Riley Statue Unveiling",
           "original_title": "The Celtics embarrassed the Lakers on an afternoon we unveiled Pat Riley\u2019s statue with a ton Laker legends in the building earlier in the season. The same Celtics just blew a 3-1 lead, at home, while the Lakers are moving on to the second round.",
-          "summary": "A Reddit post alleges that the Celtics embarrassed the Lakers during a game that coincided with the unveiling of Pat Riley\u2019s statue, while also noting the Celtics later squandered a 3\u20111 series lead at home. The comment repeats profanity without providing game specifics.",
+          "summary": "A Reddit user lamented a recent loss to the Boston Celtics, noting that the defeat came shortly after the Lakers honored Pat Riley with a statue. The post expresses frustration but provides no statistical breakdown.",
           "key_points": [
-            "Mentions a Lakers loss occurring on the same night as Pat Riley\u2019s statue ceremony.",
-            "References the Celtics blowing a 3\u20111 series lead, implying a later playoff context.",
-            "No detailed scores, dates, or player information are included."
+            "Lakers were defeated by the Celtics in a game following Pat Riley\u2019s statue unveiling.",
+            "The author uses strong language to convey disappointment.",
+            "No specific scores, dates, or performance metrics are included."
           ],
           "link": "https://www.reddit.com/r/lakers/comments/1t28o8p/the_celtics_embarrassed_the_lakers_on_an/",
           "source": "Reddit r/lakers",
           "published": "2026-05-03T02:11:13+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "f042ea263821",
-          "title": "109-100 Celtics go to Cancun (early to reflect on life\u2026)",
-          "original_title": "109-100 celtics go to Cancun (early to reflect on life\u2026",
-          "summary": "A Reddit post from r/lakers notes the Celtics' 109-100 victory, which sends Boston to Cancun for a brief break before the next round. No additional details about the game or implications for the Lakers are provided.",
-          "key_points": [
-            "Celtics won 109-100 and are heading to Cancun for a short rest.",
-            "Post originates from a Lakers fan community, offering no analysis.",
-            "No specific information about the Lakers' situation is included."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1t28kpm/109100_celtics_go_to_cancun_early_to_reflect_on/",
-          "source": "Reddit r/lakers",
-          "published": "2026-05-03T02:06:38+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "7e1a56021011",
-          "title": "Boston Choketics choke a 3-1 series lead! Everyone get in here!!!!",
-          "original_title": "BOSTON CHOKETICS CHOKE A 3-1 SERIES LEAD! EVERYONE GET IN HERE!!!!",
-          "summary": "A highly emotional Reddit post celebrates Boston's loss after holding a 3\u20111 series lead, using profanity and mocking the Celtics. The author references the Lakers' earlier win over the Rockets without LeBron and expresses frustration toward Boston.",
-          "key_points": [
-            "Boston lost a series after leading 3\u20111, according to the fan post.",
-            "The author highlights the Lakers' recent playoff win against the Rockets.",
-            "The tone is hostile and contains profanity; no factual game details are provided."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1t28j0o/boston_choketics_choke_a_31_series_lead_everyone/",
-          "source": "Reddit r/lakers",
-          "published": "2026-05-03T02:04:28+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "49daf7182146",
-          "title": "Lakers Fans after the LAKERS WIN and advance to Round 2 and the CELTICS LOSE and advance to Cancun:",
-          "original_title": "Lakers Fans after the LAKERS WIN and advance to Round 2 and the CELTICS LOSE and advance to Cancun:",
-          "summary": "A Reddit submission shares a reaction from Lakers fans celebrating the team's advancement to the second round while noting the Celtics' loss and subsequent trip to Cancun. No further context or statistics are included.",
-          "key_points": [
-            "Lakers advanced to the second round of the playoffs.",
-            "Celtics lost and are traveling to Cancun.",
-            "Post is purely fan reaction without additional analysis."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1t28hpl/lakers_fans_after_the_lakers_win_and_advance_to/",
-          "source": "Reddit r/lakers",
-          "published": "2026-05-03T02:02:47+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "5a9745c599bb",
-          "title": "Generational Hate Watch, Good Night, Fuck Boston",
-          "original_title": "GENERATIONAL HATE WATCH, GOOD NIGHT, FUCK BOSTON",
-          "summary": "A brief Reddit post expresses strong dislike for Boston, labeling the sentiment as a \"generational hate watch.\" The message contains profanity and offers no substantive information about recent games or playoff outcomes.",
-          "key_points": [
-            "The author conveys intense animosity toward Boston.",
-            "No factual details about the Celtics' performance are included.",
-            "The post is a venting statement rather than a news report."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1t28gvl/generational_hate_watch_good_night_fuck_boston/",
-          "source": "Reddit r/lakers",
-          "published": "2026-05-03T02:01:42+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "3df0c49bd1f9",
-          "title": "Clippers, Nuggets and Boston out my playoffs",
-          "original_title": "Clippers, Nuggets and Boston out my playoffs",
-          "summary": "A Reddit user declares that the Clippers, Nuggets, and Celtics are eliminated from their personal playoff bracket. The comment provides no evidence or context regarding the actual status of those teams in the NBA playoffs.",
-          "key_points": [
-            "User claims the Clippers, Nuggets, and Celtics are out of their playoffs.",
-            "No supporting data or official results are cited.",
-            "The statement reflects personal bracket predictions rather than confirmed outcomes."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1t28fl0/clippers_nuggets_and_boston_out_my_playoffs/",
-          "source": "Reddit r/lakers",
-          "published": "2026-05-03T02:00:13+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -157,133 +141,113 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "a88001c8e9c1",
-          "title": "Celtics Overachieved All Season, but Collapse vs. 76ers Raises Long\u2011Term Questions",
-          "original_title": "The Celtics overachieved all season, but their collapse against the 76ers raises big long-term questions",
-          "summary": "CBS Sports argues that the Boston Celtics exceeded expectations during the regular season, yet their recent loss to Philadelphia exposed vulnerabilities that could affect future success. The piece suggests that while acquiring Giannis Antetokounmpo might seem like a solution, the path to improvement is more complex.",
-          "key_points": [
-            "Celtics performed above preseason expectations but fell short in the playoff series against the 76ers.",
-            "The defeat highlights strategic and roster concerns that may hinder long\u2011term competitiveness.",
-            "Trading for Giannis Antetokounmpo is presented as a tempting but not straightforward fix."
-          ],
-          "link": "https://www.cbssports.com/nba/news/celtics-overachieved-questions-giannis-antetokounmpo-trade/",
+          "id": "02d4a41ed0ae",
+          "title": "Cavaliers, Raptors set for game 7 matchup",
+          "original_title": "Cavaliers, Raptors set for game 7 matchup",
+          "summary": "Toronto Raptors (46-36, fifth in the Eastern Conference) vs. Cleveland Cavaliers (52-30, fourth in the Eastern Conference)Cleveland; Sunday, 7:30 p.m. EDTLINE: Cavaliers -8.5; over/under is 211.5EASTERN CONFERENCE FIRST ROUND: Series tied 3-3BOTTOM LINE: The Toronto Raptors visit the Cleveland Cavaliers in game seven of the Eastern Conference first round. The Raptors defeated the Cavaliers 112-110 in overtime in the last matchup on Friday. Scottie Barnes led the Raptors with 25 points, and Evan ",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/cavaliers-raptors-set-game-7-060243986.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-03T06:02:43+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "d9852ebb4dcf",
+          "title": "Randle and the Timberwolves visit San Antonio to begin second round",
+          "original_title": "Randle and the Timberwolves visit San Antonio to begin second round",
+          "summary": "Minnesota Timberwolves (49-33, sixth in the Western Conference) vs. San Antonio Spurs (62-20, second in the Western Conference)San Antonio; Monday, 9:30 p.m. EDTLINE: Spurs -13.5; over/under is 216.5WESTERN CONFERENCE SECOND ROUND: Spurs host first series matchupBOTTOM LINE: The San Antonio Spurs host the Minnesota Timberwolves to start the Western Conference second round. Minnesota went 2-1 against San Antonio during the regular season. The Spurs won the last regular season matchup 126-123 on S",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/randle-timberwolves-visit-san-antonio-060243738.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-03T06:02:43+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "c3462e2325a0",
+          "title": "Pistons, Magic set for game 7 matchup",
+          "original_title": "Pistons, Magic set for game 7 matchup",
+          "summary": "Orlando Magic (45-37, eighth in the Eastern Conference) vs. Detroit Pistons (60-22, first in the Eastern Conference)Detroit; Sunday, 3:30 p.m. EDTLINE: Pistons -8.5; over/under is 202.5EASTERN CONFERENCE FIRST ROUND: Series tied 3-3BOTTOM LINE: The Detroit Pistons host the Orlando Magic in game seven of the Eastern Conference first round. The Pistons defeated the Magic 93-79 in the last matchup on Friday. Cade Cunningham led the Pistons with 32 points, and Desmond Bane led the Magic with 17.The ",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/pistons-magic-set-game-7-060242406.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-03T06:02:42+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "90d2438fe939",
+          "title": "Despite blowing 3-1 lead after standout regular season, the Celtics remain unfazed: 'We stick to the process'",
+          "original_title": "Despite blowing 3-1 lead after standout regular season, the Celtics remain unfazed: 'We stick to the process'",
+          "summary": "Boston opted for a big-picture view after just about everything went wrong at home in Game 7.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/nba/article/despite-blowing-3-1-lead-after-standout-regular-season-the-celtics-remain-unfazed-we-stick-to-the-process-054019829.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-03T05:40:19+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "9986828b691f",
+          "title": "Jaylen Brown: Joel Embiid was 'flopping around' and 'got some extra calls' in 76ers' Game 7 win over Celtics",
+          "original_title": "Jaylen Brown: Joel Embiid was 'flopping around' and 'got some extra calls' in 76ers' Game 7 win over Celtics",
+          "summary": "After falling behind 3-1, Embiid and the 76ers rallied to upset the Celtics in seven",
+          "key_points": [],
+          "link": "https://www.cbssports.com/nba/news/jaylen-brown-joel-embiid-flopping-76ers-celtics/",
           "source": "CBS Sports NBA",
-          "published": "2026-05-03T02:58:39+00:00",
+          "published": "2026-05-03T04:52:43+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "4ed68feadecc",
-          "title": "Embiid Leads 76ers Past Celtics in Historic 3\u20111 Comeback",
-          "original_title": "Joel Embiid's big night, Boston's missed 3s help 76ers complete 3-1 comeback, take series",
-          "summary": "Joel Embiid delivered a dominant performance as Philadelphia rallied to defeat Boston, completing the first 3\u20111 comeback in franchise history and the first series win over the Celtics since 1982. The victory gave the 76ers a 4\u20111 series edge.",
-          "key_points": [
-            "Embiid scored a career\u2011high night, propelling the 76ers to a series\u2011clinching win.",
-            "Boston missed crucial three\u2011point attempts, contributing to the loss.",
-            "The win marks the 76ers' first series victory over the Celtics in 44 years."
-          ],
-          "link": "https://sports.yahoo.com/articles/joel-embiids-big-night-bostons-025248772.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-03T02:52:48+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "87b115bb9e19",
-          "title": "Sixers Fans Chant 'We Want Boston' After Game 7, Commentator Fires Back",
-          "original_title": "Sixers fans chanting \"We Want Boston\" during the Celtics postgame show after Game 7, Celtics commentator responds \"You Are Ugly\"",
-          "summary": "During the Celtics' post\u2011game broadcast, some Philadelphia fans chanted \"We Want Boston,\" prompting a Celtics commentator to reply, \"You are ugly.\" The exchange was posted on Reddit's r/nba.",
-          "key_points": [
-            "Fans expressed frustration by chanting a provocative slogan after the Celtics' Game 7 loss.",
-            "A Celtics commentator responded with a personal insult on air.",
-            "The incident sparked discussion on social media about fan behavior and broadcast professionalism."
-          ],
-          "link": "https://www.reddit.com/r/nba/comments/1t291p3/sixers_fans_chanting_we_want_boston_during_the/",
-          "source": "Reddit r/nba",
-          "published": "2026-05-03T02:29:01+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "5608cccd344d",
-          "title": "2026 Playoffs: 76ers Eliminate Celtics in Game 7, Advance to Face Knicks",
-          "original_title": "2026 NBA playoff bracket: Matchups, schedule as 76ers eliminate Celtics, advance to face Knicks",
-          "summary": "CBS Sports outlines the Eastern Conference bracket after Philadelphia defeated Boston in the first of three Game 7s, moving on to a series against the New York Knicks. The win ends the Celtics' postseason run.",
-          "key_points": [
-            "Philadelphia won Game 7 in Boston, eliminating the Celtics from the playoffs.",
-            "The 76ers will meet the New York Knicks in the next round.",
-            "The matchup is the opening of a three\u2011Game\u20117 sequence in the Eastern Conference."
-          ],
-          "link": "https://www.cbssports.com/nba/news/2026-nba-playoff-bracket-matchups-schedule/",
+          "id": "8403cee3e8b0",
+          "title": "Joel Embiid, 76ers finally vanquish their Celtics demons in historic -- and cathartic -- Game 7 win",
+          "original_title": "Joel Embiid, 76ers finally vanquish their Celtics demons in historic -- and cathartic -- Game 7 win",
+          "summary": "Embiid returned from an appendectomy to lead an improbable 3-1 series comeback and overcome his own playoff demons",
+          "key_points": [],
+          "link": "https://www.cbssports.com/nba/news/joel-embiid-76ers-celtics-comeback-nba-playoffs/",
           "source": "CBS Sports NBA",
-          "published": "2026-05-03T02:26:52+00:00",
+          "published": "2026-05-03T04:27:22+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "b2afcb214a83",
-          "title": "2026 NBA Championship Odds: Thunder Lead, East Wide Open After Celtics Exit",
-          "original_title": "2026 NBA Championship Odds: Sixers Rally from Down 3-1; Boston's Elimination Makes East Wide Open",
-          "summary": "Yahoo Sports updates the championship betting odds, noting the Oklahoma City Thunder now hold the shortest odds at -150. With Boston's elimination, the Eastern Conference is considered wide open, while the San Antonio Spurs and New York Knicks also appear as long\u2011shot contenders.",
-          "key_points": [
-            "Oklahoma City Thunder are the favorites to win the 2026 title at -150.",
-            "Boston's exit makes the Eastern Conference highly competitive and unpredictable.",
-            "San Antonio (+350) and New York (+900) are highlighted as notable underdogs."
-          ],
-          "link": "https://sports.yahoo.com/articles/2026-nba-championship-odds-thunder-150100421.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-03T02:15:00+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "a86e1c5dcaa7",
-          "title": "Embiid has won more series against 51+ win teams than Nicola Jokic",
-          "original_title": "Embiid has won more series against 51+ win teams than Nicola Jokic",
-          "summary": "Embiid has won more series against 51+ win teams than Nicola Jokic. Embiid won against the 56-26 Boston Celtics and Jokic has never beaten a team with over 50 in his career. Tell me what you think? Edit: Nikola  &#32; submitted by &#32;  /u/Kindly_Letterhead_98   [link] &#32; [comments]",
+          "id": "32b30506cc28",
+          "title": "Joel Embiid: \u201cI have a message for our fans. Last time we played the Knicks, it felt like (Philadelphia) was Madison Square Garden East. We\u2019re going to need the support. Don\u2019t sell your tickets. This is bigger than you ... If you need money, I got you.\u201d",
+          "original_title": "Joel Embiid: \u201cI have a message for our fans. Last time we played the Knicks, it felt like (Philadelphia) was Madison Square Garden East. We\u2019re going to need the support. Don\u2019t sell your tickets. This is bigger than you ... If you need money, I got you.\u201d",
+          "summary": "&#32; submitted by &#32;  /u/YujiDomainExpansion   [link] &#32; [comments]",
           "key_points": [],
-          "link": "https://www.reddit.com/r/nba/comments/1t28qhh/embiid_has_won_more_series_against_51_win_teams/",
+          "link": "https://www.reddit.com/r/nba/comments/1t2beua/joel_embiid_i_have_a_message_for_our_fans_last/",
           "source": "Reddit r/nba",
-          "published": "2026-05-03T02:14:01+00:00",
+          "published": "2026-05-03T04:26:46+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "b755b3f44a16",
-          "title": "Rookie sensation VJ Edgecombe in his first-ever game 7: 23 points (8-17 FG; 5-11 3FG; 2-2 FT), 6 rebounds, 4 assists, game-best +/- of +19!",
-          "original_title": "Rookie sensation VJ Edgecombe in his first-ever game 7: 23 points (8-17 FG; 5-11 3FG; 2-2 FT), 6 rebounds, 4 assists, game-best +/- of +19!",
-          "summary": " 23 points (8-17 FG; 5-11 3FG; 2-2 FT), 6 rebounds, 4 assists, game-best +/- of +19! 23 points (8-17 FG; 5-11 3FG; 2-2 FT), 6 rebounds, 4 assists, game-best +/- of +19!  source  &#32; submitted by &#32;  /u/Pyromania1983   [link] &#32; [comments]",
+          "id": "4ab75f9c9b43",
+          "title": "Embiid on Payton Pritchard: \"It also helps when I saw #11 on their team, before I came back, he said they didn't care if I was playing or not, and they hadn't adjusted or had some sort of game plan for me. So I think it also helps when the other team doesn't worry about you. I thank #11 for that.\u201d",
+          "original_title": "Embiid on Payton Pritchard: \"It also helps when I saw #11 on their team, before I came back, he said they didn't care if I was playing or not, and they hadn't adjusted or had some sort of game plan for me. So I think it also helps when the other team doesn't worry about you. I thank #11 for that.\u201d",
+          "summary": "&#32; submitted by &#32;  /u/YujiDomainExpansion   [link] &#32; [comments]",
           "key_points": [],
-          "link": "https://www.reddit.com/r/nba/comments/1t28lhd/rookie_sensation_vj_edgecombe_in_his_firstever/",
+          "link": "https://www.reddit.com/r/nba/comments/1t2bd4r/embiid_on_payton_pritchard_it_also_helps_when_i/",
           "source": "Reddit r/nba",
-          "published": "2026-05-03T02:07:38+00:00",
+          "published": "2026-05-03T04:24:16+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "5c0bf50cfabf",
-          "title": "[Highlight] The Philadelphia 76ers defeat the Boston Celtics 109-100 in Game 7 to win their series. Philadelphia overcomes a 3-1 series deficit for the first time in franchise history and will face the New York Knicks in the Eastern Conference Semifinals.",
-          "original_title": "[Highlight] The Philadelphia 76ers defeat the Boston Celtics 109-100 in Game 7 to win their series. Philadelphia overcomes a 3-1 series deficit for the first time in franchise history and will face the New York Knicks in the Eastern Conference Semifinals.",
-          "summary": "      &#32; submitted by &#32;  /u/nba   [link] &#32; [comments] ",
+          "id": "7dc912fcbdaf",
+          "title": "Jaylen Brown accuses Joel Embiid of 'flopping around,' points to refs after Celtics' Game 7 loss to Sixers",
+          "original_title": "Jaylen Brown accuses Joel Embiid of 'flopping around,' points to refs after Celtics' Game 7 loss to Sixers",
+          "summary": "Joel Embiid's great night came with a caveat, according to Jaylen Brown.",
           "key_points": [],
-          "link": "https://www.reddit.com/r/nba/comments/1t28kdg/highlight_the_philadelphia_76ers_defeat_the/",
-          "source": "Reddit r/nba",
-          "published": "2026-05-03T02:06:13+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "4ff0a2102365",
-          "title": "Knicks' full postseason schedule for 2026 Eastern Conference Semifinals against 76ers",
-          "original_title": "Knicks' full postseason schedule for 2026 Eastern Conference Semifinals against 76ers",
-          "summary": "Here is the Knicks\u2019 second-round schedule as they are set to host the Philadelphia 76ers.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/knicks-full-postseason-schedule-2026-020416164.html",
+          "link": "https://sports.yahoo.com/mlb/article/jaylen-brown-accuses-joel-embiid-of-flopping-around-points-to-refs-after-celtics-game-7-loss-to-sixers-042322556.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-05-03T02:04:16+00:00",
+          "published": "2026-05-03T04:23:22+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "9e882638cf28",
-          "title": "76ers complete comeback against Jayson Tatum-less Celtics in Game 7, setting up clash with Knicks",
-          "original_title": "76ers complete comeback against Jayson Tatum-less Celtics in Game 7, setting up clash with Knicks",
-          "summary": "The Sixers completed the 14th 3-1 comeback in NBA playoff history at the expense of the Celtics.",
+          "id": "91d9ab1a7dfb",
+          "title": "East playoff takeaways: 76ers outlast Celtics in G...",
+          "original_title": "East playoff takeaways: 76ers outlast Celtics in G...",
+          "summary": "Here's what has stood out from the latest playoff games of the Eastern Conference's first round.",
           "key_points": [],
-          "link": "https://sports.yahoo.com/nba/article/76ers-complete-comeback-against-jayson-tatum-less-celtics-in-game-7-setting-up-clash-with-knicks-020403118.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-03T02:04:03+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/48506456/2026-nba-playoffs-eastern-conference-round-one-takeaways",
+          "source": "ESPN NBA",
+          "published": "2026-05-03T03:49:09+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -292,14 +256,89 @@
       "name": "Lakers Players",
       "articles": [
         {
+          "id": "d0a43637b711",
+          "title": "Why Lakers vs. Thunder Ranks Among the Worst Matchups in NBA Playoff History",
+          "original_title": "Why Lakers vs. Thunder Ranks Among the Worst Matchups in NBA Playoff History - AOL.com",
+          "summary": "An AOL analysis argues that the Los Angeles Lakers\u2011Oklahoma City Thunder series is one of the least competitive matchups ever seen in the NBA playoffs. The piece cites the teams' contrasting styles, low offensive output, and historical lack of excitement as reasons for the poor ranking.",
+          "key_points": [
+            "The series featured mismatched pacing and defensive schemes that limited scoring.",
+            "Both franchises have struggled to generate compelling storylines or close games.",
+            "Statistical comparisons place the matchup near the bottom of all playoff series in NBA history."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZUjljSURPWVlWenBKUUxPNjBaa05SLXRBN1Azb2hna1pwbnAyakRENXlmOXFYUWJ0YTAwYm5qUkM4YmNaa1NBVWNHV0pZTUR0N0xJTm9yU0l0MzZEVGlDcEcwZEZUZHo3WlNLTHpNWTlrNTRqVVlBY19obw?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-05-03T04:25:26+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "e7e2aab5715b",
+          "title": "Luka Doncic Not Close to Returning for Lakers",
+          "original_title": "Luka Doncic reportedly isn't close to returning for Lakers - LeBron Wire",
+          "summary": "The LeBron Wire reports that Luka\u202fDoncic, who is currently injured, is far from being ready to join the Los Angeles Lakers. The article emphasizes that his recovery timeline remains uncertain and that the Lakers will continue without him for the foreseeable future.",
+          "key_points": [
+            "Doncic\u2019s injury recovery is progressing slowly.",
+            "No specific return date has been set.",
+            "The Lakers must adjust their roster and game plan without him."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOUhOSTlQcUt4eENaM0Rpb2FDNkV6elkzMll4OENDUWthUHFpRHpobGc5WGxWMC1FRTN2UzF5NkY4Zloxa3o5X1BMTGNObWxURkNHNXVYUGk2c0hNb1l0MnV2VVFzdUpXdDFjdFM4bDZJYnpKbml3blBrZ1lhZTNMZXVqVUlxVUg0MUZzY1lWMDh0VmxsOEE2SWVtXzFnZnVGOU5zc2Y0VldXY1Z2cVU1Ml9nR1MyYkpQTG9EWDYwa2RGMmUwZkdyalNB?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-05-03T02:28:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "4ffd9f95186f",
+          "title": "Luka Don\u010di\u0107 Making Slow Progress, Not Close to Return from Injury",
+          "original_title": "Luka Don\u010di\u0107 making slow progress, not close to return from injury - Yahoo Sports",
+          "summary": "Yahoo Sports details Luka\u202fDon\u010di\u0107\u2019s gradual rehabilitation, noting that his improvement is slower than expected and he remains unlikely to play soon. The report underscores the impact of his absence on the team\u2019s performance.",
+          "key_points": [
+            "Recovery is slower than anticipated.",
+            "Medical staff do not expect an imminent return.",
+            "The team continues to navigate games without their star player."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTi10WVVlNWZOdWlJRUZvWkJhVzR0RE9QUXhZZFRQOC1yTVNpd1V0cUpmZUVhaWhFNEJBZEEtQWJrTktHbWQ2dnBaQVlwTmFLQVhfLWdlcGF4S2xGa1A3YmF6SFJBLTVpYzNFQ2s3UXlaUVZvRzJ1YVFiMlZXeDRqMlFjbkw?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-05-03T00:59:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "4e8b02d9bb32",
+          "title": "LeBron James Thanks RJ Barrett for Extra Rest and Golf Time",
+          "original_title": "LeBron James thanked RJ Barrett for giving him extra rest and time to golf - Silver Screen and Roll",
+          "summary": "Silver Screen and Roll recount LeBron James expressing gratitude to New York Knicks forward RJ Barrett for allowing him additional rest during a recent game, which gave James the opportunity to enjoy a round of golf. The anecdote highlights the camaraderie between{players across teams. }",
+          "key_points": [
+            "James received unexpected rest after Barrett\u2019s defensive effort.",
+            "He used the downtime to play golf, a rare leisure activity during the season.",
+            "James publicly praised Barrett\u2019s sportsmanship."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU0tteTRxWk5FbnpORmlOdWRzLVpHSFZ5MXpnZDBxNENUSkdPQk5MUDQ1aWkxOGNiWFM1dE52SkI2WGNlSlZnRnoySlhkWEQzSGI1Njh5ODdVWFZvWlRqaW9UV2htNWZUcU83Wnk4UEMxM3RaRG5Tb0VSNlc1TDlCdVFsNDhKWGxTdElVY0JtUE1aT0hjUFcyelpOdVBPcWxNNVJWUWkzX2lGZHZkTzQySU5jY2lXMFdia2c?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-03T00:06:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "fe157aabffab",
+          "title": "LeBron James Thanks RJ Barrett{\u2019}s Defensive Play for Extra Rest and Golf Time",
+          "original_title": "LeBron James thanked RJ Barrett for giving him extra rest and time to golf - Yahoo Sports",
+          "summary": "Yahoo Sports covers the same incident as the Silver Screen and Roll piece, noting LeBron James publicly thanked RJ Barrett for a defensive stop that gave him a brief rest period, which he spent golfing. The story underscores the light\u2011hearted interaction between the two players.",
+          "key_points": [
+            "Barrett\u2019s defensive contribution led to a short break for James.",
+            "James took the opportunity to play golf, an unusual mid\u2011season activity.",
+            "Both outlets highlighted James\u2019s appreciation for Barrett\u2019s effort."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ3loNEhIdDV3QWlHN1k3M0Z1WC12a01wWXBZREZrWnFHbFRuek9QOWJ4YllLZWhqOXdrV253WjA3ZkxlVF91ODVpbVNZWVNnSDc5TmJtdldkRlNRR3FVQVpBa3NfQXJ6SC1vNzJYMllKTHczRGRLdkxJZUI5dklaOE1DeGZzZDQ?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-03T00:06:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
           "id": "c5dc33b63b9b",
           "title": "Lakers Hit with Brutal News Before Thunder Series",
           "original_title": "Lakers Hit with Brutal News Before Thunder Series - heavy.com",
-          "summary": "The Los Angeles Lakers received unsettling news ahead of their playoff series against the Oklahoma City Thunder. Details of the report suggest a significant setback that could affect the team's preparation and morale heading into the matchup.",
+          "summary": "Just before the Western Conference semifinals against the Oklahoma City Thunder, the Lakers received unsettling news that could affect their roster and depth. The report details the nature of the news and its potential impact on the team's preparation for the series.",
           "key_points": [
-            "Negative development disclosed just before the Thunder series.",
-            "Potential impact on roster health or lineup stability.",
-            "Raises concerns for Lakers' playoff readiness."
+            "The Lakers learned of a significant injury/availability issue right before Game 1 of the Thunder series.",
+            "The news could limit the team's rotation and affect match\u2011up strategies.",
+            "Coaches and medical staff are evaluating options to mitigate the setback."
           ],
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWkM5TDhwQlZNeWszLXB6Y3k4ZjRrUEplckVkN1RSeHExOUs4bmFKN1Z2WElwX09ObHAtbFU2aFhnV1dkYmV2Q3QtZ21FQW1tekJSRFpKeml0Zks5dnVLUFJEeVJEODRpUnVqTTdoX0ZKTC1VbjYxcjNfam9uVTRSUDJMOWpoM0NoRjZfU25TMVpCMkNaX2c?oc=5",
           "source": "Google News - Luka",
@@ -307,29 +346,14 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "e15a7c915bb1",
-          "title": "Lakers Look Smarter by the Day for Letting Luka Doncic's Closest Teammate Walk",
-          "original_title": "Lakers look smarter by the day for letting Luka Doncic's closest teammate walk - Lake Show Life",
-          "summary": "The Lakers' front office made a strategic decision to part ways with a player closely linked to Dallas star Luka Doncic, signaling a more calculated approach to roster construction. The move is presented as a sign of growing savvy within the organization.",
-          "key_points": [
-            "Lakers released a player connected to Luka Doncic's inner circle.",
-            "Decision framed as a smarter, long\u2011term roster move.",
-            "Highlights the front office's evolving strategic mindset."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTWtUSnIxbUZSQ211VUd0Y3BBeGFiVFlzXzVGWUpQUXpKM2NEQnJTOVAxUlM0dVY2RFphaC12Y3A0SUJBVWJ2NTA3bDNzZ0hkYnc1RFc4YWJ3VGFsWXhVY0ZTa1NRb3BTT2ZGT2owYk1LOWFqUHl1ajhhSnh3ell1X0wzZ0ZfcTR1WGU0U1RaeDY3RGdXVlVZcGZ1MEdRYktfRDFLdDd6cjJ2M3VIbkJxZllLUjNVa3QtQzN6ZEhrNA?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-05-02T22:00:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
           "id": "2a3112e998f2",
           "title": "LeBron James Beat One Thunder Big Three, but Do His Lakers Stand a Chance vs. OKC Again?",
           "original_title": "LeBron James beat one Thunder Big Three, but do his Lakers stand a chance vs. OKC again? - The Oklahoman",
-          "summary": "LeBron James helped the Lakers overcome a key component of Oklahoma City\u2019s \u2018Big Three\u2019 in their recent game, but analysts question whether the Lakers can consistently compete against the Thunder in a series. The article weighs LeBron\u2019s performance against the broader team matchup.",
+          "summary": "The Oklahoman examines LeBron James' performance against a core group of Oklahoma City players, noting his success in neutralizing one of the trio. The article questions whether the Lakers can replicate that effort in a potential series rematch.",
           "key_points": [
-            "LeBron neutralized a major Thunder player in the latest win.",
-            "Series outlook remains uncertain for the Lakers.",
-            "Discussion centers on depth and consistency against OKC."
+            "LeBron effectively limited one member of the Thunder's \"Big Three\" in the recent matchup.",
+            "Analysts debate the Lakers' ability to contain the rest of the Thunder's star group in a series.",
+            "Key factors include defensive schemes, supporting cast contributions, and health status."
           ],
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ3U4aWpBU0x6X1k4aUFxTlV3LU5McTZRdFRCbGo3Q2JnZHc0blhLTmRaMTRWMUswRXpuOExMSzBac0l0anZSYkd4YlphSy1jZGE3d3FkdEpHYmNoUjlrUEFZRFAtdmMybmM0UGZ1a1RxZ1otYS04c0tEandkMTU0LUdjekZWaWJsclhaV0Q3N2lKem1BV0tLaUQtNkI5VWE1dXhkMUM2dzJnczFwTGtvaTdiQzNhLVdwLUpDbWtOMWt4LUxQakE?oc=5",
           "source": "Google News - LeBron",
@@ -340,11 +364,11 @@
           "id": "0042cc8a37e0",
           "title": "Luka Doncic Injury Update: Lakers Receive Lukewarm Update Before Thunder Clash",
           "original_title": "Luka Doncic injury update: Lakers receive lukewarm update before Thunder clash - MARCA",
-          "summary": "Ahead of the playoff series with Oklahoma City, the Lakers got a tentative health report on Luka Doncic, indicating he may not be at full strength. The ambiguous update leaves the team uncertain about his availability and effectiveness in the upcoming games.",
+          "summary": "MARCA reports that the Lakers have received a tentative health update on Luka Doncic ahead of their upcoming game against the Thunder. The information suggests that while there is no immediate clearance, the outlook is not entirely negative.",
           "key_points": [
-            "Injury status of Luka Doncic remains unclear.",
-            "Update described as \u201clukewarm,\u201d suggesting limited readiness.",
-            "Potential implications for Lakers' game plan against the Thunder."
+            "Doncic's injury status remains uncertain, with no definitive return timeline.",
+            "The Lakers are preparing for the Thunder game without counting on his immediate availability.",
+            "Medical staff will continue monitoring his condition and provide further updates."
           ],
           "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORHdNT3FtZUp0SDAyMEVqNEpubTYwUzZ4U3AxcTAyZVpZS2JELTRyTHBiOVhCcXBhZlJ0ZlFnUWFDQ1htdGVYTXZITzNqMGtMOGhDNkkyOS1HY21sVk1LUWdZWW9QV2FSZi1SRFlMSFVKNldwYURyak90cDdqQWdQNWdya3h3QXRtN2Q4RTdOd1NKeDBhR2hzaFdiTnVHMWtBbjd0OWhFWmxzZmFGUndJUUhjakVlemlJZG1peWFpTUlhaEFPWjhMUTc4Y08yb2NpYVo2dWhXRnkwLXJZcEhVRm53QkdGOFnSAecBQVVfeXFMTjRFRmRXSWVhYnZZdkw2R3Q4N190QTQ5bkdEbmZTOUNhMm1rcVctTWUxRmczQnQ3N3ZqZXhjVWloSkQybGE4R3BPbmdyMUlXeWhDWlY0a2xJLTdpWjNsdVR1QW5Rc09OTUNUSlFFZkZPTXNmcEtGei1WX2Z2RTR1a3FXVXY3eEl0QnU4TVZDRVIwOG9MeFdVUjRqMV82Qms4Y1EwM0FOTWhmS2hsazBSNVl5WktnQjZCRXV6UUhhdG5YU0ltei1SSDJmMnhVbVZfemNMMnNYVmV4RFVKQ19hbTBKQWVDRVpZ?oc=5",
           "source": "Google News - Luka",
@@ -353,17 +377,32 @@
         },
         {
           "id": "87d67e09d174",
-          "title": "Lakers' Luka Doncic Return Date Named for Thunder Game 5, Sports Doc Says",
+          "title": "Luka Doncien Return Date Named for Thunder Game 5, Sports Doc Says",
           "original_title": "Lakers Luka Doncic Return Date Named for Thunder Game 5, Sports Doc Says - heavy.com",
-          "summary": "A sports physician has announced a projected return date for Luka Doncac, indicating he could be back for Game 5 of the Lakers\u2011Thunder series. The timeline provides the Lakers with a clearer picture of roster availability for the decisive matchup.",
+          "summary": "Heavy.com cites a sports physician who has projected a specific return date for Luka Doncic, indicating he could be back for Game 5 of the Lakers\u2011Thunder series. The timeline aligns with the team's playoff schedule and could influence roster planning.",
           "key_points": [
-            "Projected return set for Game 5 of the series.",
-            "Medical source provides specific timeline for Doncic\u2019s recovery.",
-            "Lakers can plan rotations with his anticipated comeback."
+            "A sports doctor estimates Doncic could return by Game 5 of the series.",
+            "His return would give the Lakers a boost in the latter part of the matchup.",
+            "The projection depends on his rehabilitation progress and clearance from medical staff."
           ],
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ1ZEV0pBcl9zcjFEemtoNDN6aE1neGJGblkwYk9pQjNnT2pQem5HejV6RVMzbnJBUllPcnBBd25Hd0JodmxtSk9ONTZKTlRpYUctYlYzamRoV1Z3UXJzWmNWYnpMVU9SWGc2amlZV2h0eXV5ZENWUkJjVmIxMV9iTndSWmpJWC1LakhCUjZpMHE?oc=5",
           "source": "Google News - Luka",
           "published": "2026-05-02T19:58:55+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "64a823b0e4d2",
+          "title": "LeBron James and NBA React to RJ Barrett\u2019s Game 6 Winning Shot",
+          "original_title": "LeBron James, rest of NBA react to RJ Barrett\u2019s Game 6-winning shot - CTV News",
+          "summary": "CTV News captures LeBron James' and other NBA figures' reactions to RJ Barrett's buzzer\u2011beating shot that clinched Game 6. The responses highlight respect for Barrett's performance and its significance in the playoff context.",
+          "key_points": [
+            "RJ Barrett hit a game\u2011winning shot in Game 6, drawing praise from LeBron James.",
+            "NBA players and analysts commended the clutch play and its impact on the series.",
+            "The moment is noted as a defining highlight of the postseason."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYUdCdUc3WkVLSHljcUdrRWRqV0RxWHppS3VxbVg3SjNvZkRVN1RTaDA3OE9ldTJBcXJKTmhxRHBxTHBNOVQ4dkF0OWZla055RHBEUWt2NEtCNWhxa1BNZkRJUlZvYlJOX1VJUkw4RHI5eVZlSTg5ejZQUWpZN2tpRUJvM3dKd0xKNllTNlVKemxqcHdyTmdaR1RNRFhPZ2Y4YUZHQm9raHNXVWs?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-02T19:29:16+00:00",
           "topic": "Lakers Players"
         }
       ]
