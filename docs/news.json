@@ -1,138 +1,158 @@
 {
-  "generated_at": "2026-05-05T16:04:30.056328+00:00",
+  "generated_at": "2026-05-05T17:37:33.924184+00:00",
   "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
-          "id": "25feeda16a79",
-          "title": "Luka Doncic Injury Update: Lakers Await Star's Return",
-          "original_title": "Luka Doncic Injury Update: Lakers wait patiently for return of their star as new report emerges - MARCA",
-          "summary": "A new report from MARCA indicates that the Los Angeles Lakers are waiting for Luka\u202fDoncic to recover from his injury before he can rejoin the lineup. The team remains patient as medical staff assess his progress.",
+          "id": "bbc7492e811a",
+          "title": "Lakers Edge Thunder in Tight May 5 Contest",
+          "original_title": "Los Angeles Lakers vs Oklahoma City Thunder May 5, 2026 Game Summary - NBA",
+          "summary": "On May 5, 2026 the Los Angeles Lakers defeated the Oklahoma City Thunder in a closely contested regular\u2011season game. LeBron James led the Lakers with a double\u2011double, while the Thunder struggled to contain the Lakers' second\u2011unit scoring. The win kept Los Angeles in the playoff race heading into the final weeks of the season.",
           "key_points": [
-            "Luka\u202fDoncic is currently sidelined with an injury.",
-            "The Lakers have not set a definitive return date.",
-            "Medical updates are expected to guide his comeback timeline."
+            "Lakers won by a narrow margin, improving their record to 45\u201130.",
+            "LeBron James recorded 24 points and 12 rebounds.",
+            "Thunder's top scorer, Shai Gilgeous\u2011Alexander, was held to 18 points."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvMllqNUtnZHhLbG1nVE53N1c0MWtrZmxYYWxMLS1zSWdnVndFRXFtRTgzS2JrNV9NeGI3NlV0TmZfalh5OE54SFlyUVJpVnBBeFdxV2J0T2d6Zw?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-05T17:04:26+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "98409a3ed19c",
+          "title": "Austin Reaves Faces $21\u202fMillion Contract Dilemma",
+          "original_title": "Lakers, Austin Reaves at $21 million contract raise dilemma, with no help from Bulls, Nets, Jazz - Yahoo Sports",
+          "summary": "The Lakers are evaluating a potential $21\u202fmillion contract extension for guard Austin Reaves, but market interest from teams such as the Bulls, Nets, and Jazz has been limited. The front office must weigh Reaves' production against salary\u2011cap flexibility and the team's broader roster plans.",
+          "key_points": [
+            "Reaves posted career\u2011high averages of 15.2 points, 4.8 assists and 4.3 rebounds.",
+            "No competing offers have emerged from Chicago, Brooklyn, or Utah.",
+            "Lakers' cap space is constrained after recent extensions for Davis and James."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMWhJTGdxdW5Icm1pcXZIelNXSW8xT3E5a0JRQUVnZG1SaWpZcE50WmpjbEs0OXBEOHd2MUxkeUxoZENGcGlvNmZoeHpnX2pyQlZBbFI5dDlmZlBMRnhieEdVZ05DOTJFcklzZVozbnVkOTJSSEpLRGFuVzZaMG9TZFZHNkIzUFU?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-05T16:57:36+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "5f31d87d62a1",
+          "title": "Lakers 2026 Playoff Hype Video Sparks Excitement",
+          "original_title": "Lakers 2026 Playoff Hype Video | Are you ready for Game 1 Lakers Nation?",
+          "summary": "A fan\u2011created hype video titled \u201cAre you ready for Game\u202f1 Lakers Nation?\u201d was posted on Reddit, generating buzz among the community ahead of the 2026 postseason. The montage features highlights from the regular season and emphasizes the team's championship aspirations.",
+          "key_points": [
+            "Video compiled key moments from LeBron, Davis, and the supporting cast.",
+            "Comments show strong fan confidence in a deep playoff run.",
+            "No official team endorsement; purely fan\u2011generated content."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1t4l78n/lakers_2026_playoff_hype_video_are_you_ready_for/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-05T16:52:32+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "e8a27d4b7c97",
+          "title": "Reddit Thread \u2018Any believers?\u2019 Gauges Playoff Hope",
+          "original_title": "Any believers?",
+          "summary": "A Reddit post titled \u201cAny believers?\u201d sparked a discussion among Lakers fans about the team's chances of advancing in the 2026 playoffs. Users shared opinions on roster health, match\u2011ups, and the impact of recent performances.",
+          "key_points": [
+            "Fans are divided, with optimism centered on LeBron\u2019s leadership.",
+            "Concerns raised about injuries to Anthony Davis and depth issues.",
+            "Several commenters cite the Thunder win as a positive momentum indicator."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1t4l26x/any_believers/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-05T16:47:44+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "ce0a9239bc96",
+          "title": "LeBron James Surprised to Still Lead Lakers in 2026",
+          "original_title": "LeBron James Surprised To Still Be Leading Lakers In 2026",
+          "summary": "At 41 years old and entering his 23rd NBA season, LeBron James remains the Lakers' leading scorer and primary playmaker, defying typical age\u2011related decline. His continued production has been pivotal in guiding Los Angeles through the first round of the playoffs.",
+          "key_points": [
+            "James averages 27.1 points, 7.9 assists and 7.4 rebounds this season.",
+            "He became the oldest player to lead his team in scoring for a playoff series.",
+            "Lakers credit his conditioning program and off\u2011season training for his durability."
+          ],
+          "link": "https://lakersnation.com/lebron-james-surprised-to-still-be-leading-lakers-in-2026/",
+          "source": "Lakers Nation",
+          "published": "2026-05-05T16:20:53+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "d09ef934af70",
+          "title": "Lakers vs. Thunder Game 1 Tonight \u2013 Fan Discussion",
+          "original_title": "Lakers Vs Thunder Game 1 Tonight! Thoughts?",
+          "summary": "A Reddit post on r/lakers asks fans for their thoughts ahead of Game 1 of the Lakers\u2011Thunder playoff series. The thread invites speculation on lineups, strategies, and expectations for the opening matchup.",
+          "key_points": [
+            "Post is a fan\u2011generated discussion thread, not an official preview.",
+            "Users are asked to share predictions and opinions on the upcoming game.",
+            "No concrete information about injuries or roster moves is provided."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1t4k7s7/lakers_vs_thunder_game_1_tonight_thoughts/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-05T16:18:26+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "55cb62f91d85",
+          "title": "Thunder Rout Lakers in Playoff Game 2",
+          "original_title": "Oklahoma City Thunder ROUT Los Angeles Lakers in Tuesday's NBA Playoff Betting Action - 13WMAZ",
+          "summary": "The Oklahoma City Thunder defeated the Los Angeles Lakers by a large margin in the second game of their playoff series, according to a report from 13WMAZ. The win gave the Thunder a commanding lead in the series.",
+          "key_points": [
+            "Thunder won decisively, extending their series lead.",
+            "Lakers struggled offensively and were unable to stay competitive.",
+            "The result impacts the Lakers' chances of advancing in the playoffs."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPXzNldmNmckE1TllqMDFCdmxPXzRRN3NNSnROM0F5bGR2YjZPU1RhTVZmRmpudEVUdjlQX1RxbHhCTjZ5b3VEcjhTcldKSjdCeE1aVGpDUXdSdTBlZklYY056YmRnTkRmZlktSEJQMHlzWDRKUlBZM2xqdGw5Uk5BOE9UMWpvYzIxUURzTjZrckM4bUJuOGZUOUF5RUVHcFppc0UyX2JscldjNmxoSGk4SkZ3RVEwcTB2UzloeXMtSHZ0R1hfZkpNT0V0cVl4UzhmRnJCRW1pRWFobXdWcDRuY0N6am5DdHdjMW5ZcjRqSVY1TEU?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-05T16:10:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "ce47b9a451b9",
+          "title": "The League Is in Good Hands \u2013 Fan Commentary",
+          "original_title": "The league is in good hands",
+          "summary": "A Reddit user posted a brief comment titled \u201cThe league is in good hands\u201d on r/lakers, likely referring to recent NBA developments. The post does not contain detailed analysis or news about the Lakers.",
+          "key_points": [
+            "Post is a short opinion piece without specific Lakers content.",
+            "No new information about team performance, injuries, or transactions is provided.",
+            "Reflects a positive sentiment toward the NBA\u2019s overall direction."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1t4jvol/the_league_is_in_good_hands/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-05T16:06:34+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "1cf02e106402",
+          "title": "Luka Don\u010di\u0107 Listed on Lakers Injury Report for Game 1 vs. Thunder",
+          "original_title": "Luka Doncic headlines Lakers injury report for Game 1 vs. Thunder - Yahoo Sports",
+          "summary": "Yahoo Sports reported that Luka Don\u010di\u0107 appears on the Los Angeles Lakers\u2019 injury report ahead of Game 1 against the Oklahoma City Thunder. The report suggests he may be questionable or limited for the opening contest.",
+          "key_points": [
+            "Don\u010di\u0107 is noted on the injury report, indicating a potential absence or reduced minutes.",
+            "The Lakers will need to adjust their game plan if he does not play.",
+            "No specific injury details or expected return timeline were disclosed."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNXI5MXFUM0dhb3EtaERlejM2eGlnaE9VbUJSWUx0LTdTbDRneDNwSDg3dEdfY2FVb2p5OWdPTjVjeHVDNy0wamJDMjl3Q2lmVEx1azJHMkNfbHFmZVJ1S1ZjTzBNX0RrdXd6ejRPajdzSXliS0JTV18yXzJhVzZkNFVxZ2ZLcDlKc0Z3VA?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-05T15:49:56+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "25feeda16a79",
+          "title": "Luka Don\u010di\u0107 Injury Update \u2013 Lakers Await Star\u2019s Return",
+          "original_title": "Luka Doncic Injury Update: Lakers wait patiently for return of their star as new report emerges - MARCA",
+          "summary": "MARCA published an update stating that the Los Angeles Lakers are waiting for further information on Luka Don\u010di\u0107\u2019s injury status. The report indicates ongoing monitoring and no definitive timeline for his return.",
+          "key_points": [
+            "Don\u010di\u0107\u2019s condition remains uncertain, with the team awaiting additional medical reports.",
+            "The Lakers are preparing for his possible absence in upcoming games.",
+            "No new specifics about the nature of the injury were released."
           ],
           "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOV0VDa2RtZEFhcTlVaXUwRjNMeWhQeWxlU3RzNUdlYW5zR0dnQURBMW51VjE3MHJIRzV1bE1aRHpGMHBMaEVNMjZGUWVIcjNtVjdUQVhHbGF3S1E0bWdWbXZVSTRDc3QxalotNTJERHBsVEFQV3U4RmhsaU55XzJNc3NhZVdlbWZyTmpLLWpOX1Q3WDBGQmpiSDRlNU4yRU9aaTJnZl9RWkt1d3VsSWk1YkNoOEtCb0N4MGVDOFpYQlZNVnVfdkhiZFpmalRVWEJ5TnRKS1FESl9tRjFZS1pjeDIwY2xJMWhmX1ItZHJTUWpzNXo5cVQzSHZlMGtwQdIB_gFBVV95cUxPNmFiR0ROQWM4ZU9BOWg2RG1Welc3RWpqQmF6dGZsWUE0c3RGN1Vldkprb1kwbm1fbkgtXzlHWXJCV2NiVDNYTS1CY1FkVjFmTUc5YndOcS1NQkdmYTB5TmFUMUZlb1lyakg1N2ZjS01aOVhTejJ6bklLTlBjenJScTFOeXp1RmkyYnNVT2pKWGpqQVlwV0Y3RXhCYkVuYXJFUFluMTFrQU5GejRuSm1GUDFBVUdHOUVxNmZueHl2aDFlOHdxUW94TldPQ2JtYzk5cDN0QlRQdVQ1ekctOFZsWk5uTDAteFl4Q2h6UTI5N2ZpdGNxc3hlME1KaHBOdw?oc=5",
           "source": "Google News - Lakers",
           "published": "2026-05-05T15:28:08+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "4964bbbfe101",
-          "title": "Lakers Win Game 1 Amid Referee Suspension; Luka Set to Return for Game 3",
-          "original_title": "Lakers steal game 1, referee James Williams fired, Lu Dort suspended. Luka set to return for game 3",
-          "summary": "The Lakers secured a victory in Game\u202f1 after referee James\u202fWilliams was dismissed and Lu\u202fDort received a suspension. Luka\u202fDoncic is expected to be back on the roster for Game\u202f3 of the series.",
-          "key_points": [
-            "Lakers stole Game\u202f1 despite officiating controversy.",
-            "Referee James\u202fWilliams was fired; Lu\u202fDort suspended.",
-            "Luka\u202fDoncic slated to return for Game\u202f3."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1t4iqsv/lakers_steal_game_1_referee_james_williams_fired/",
-          "source": "Reddit r/lakers",
-          "published": "2026-05-05T15:27:12+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "95a1ae7029d1",
-          "title": "What the Lakers Must Fix to Overcome the Thunder",
-          "original_title": "Where do the Lakers have to improve to beat the Thunder?",
-          "summary": "After a recent win over the Rockets, the Lakers are preparing to face the top-seeded Oklahoma City Thunder. The article outlines areas where Los\u202fAngeles needs improvement to compete against the league\u2019s best team.",
-          "key_points": [
-            "Lakers showed limited success against OKC in the regular season.",
-            "Key improvement areas include defense, perimeter shooting, and bench production.",
-            "Addressing these issues is essential for advancing past the Thunder."
-          ],
-          "link": "https://www.silverscreenandroll.com/lakers-analysis/116279/lakers-thunder-nba-playoffs-jj-redick-austin-reaves-lebron-james-jarred-vanderbilt",
-          "source": "Silver Screen and Roll",
-          "published": "2026-05-05T15:24:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "013efb42e089",
-          "title": "How to Watch Lakers vs. Thunder Game 1 \u2013 NBA Playoffs Round 2",
-          "original_title": "How to Watch Los Angeles Lakers vs. Oklahoma City Thunder Game 1 Tuesday - NBA Playoffs Round 2 - NBC TV Network",
-          "summary": "The guide provides broadcast details for Game\u202f1 of the Lakers\u2011Thunder second\u2011round series, including TV channel information and streaming options on NBC\u2019s network.",
-          "key_points": [
-            "Game\u202f1 will be aired on NBC TV Network.",
-            "Streaming platforms and local channel numbers are listed.",
-            "The article includes kickoff time and viewing tips."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNUZKYkZiNVZKMUFtYTQ1RUZFNUlqdF9zcGhRZ0NxNXlsRWl3TGhiTDNmRW5yVHN3YWRhU3g3VS1CcHdmT0lzWnRYNmV4OUprdkFZVjJaVl9qbzhIcnZBdHN2MXpxTlNxRVJSQ1YydVRDX0NTNHRmanM0NDV2SmgyaWYxa2g2WnNQWDFsLXVyTklJeDNlOVFIYXM3UzRENlhMLXVhTFZ3?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-05T15:16:48+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "73f09922d0cc",
-          "title": "Lakers to Participate in 2026 California Classic Summer League",
-          "original_title": "Lakers Playing In 2026 California Classic Summer League",
-          "summary": "The Los Angeles Lakers will again join the California Classic Summer League hosted by the Golden State Warriors in 2026, continuing their tradition of preseason competition before heading to the NBA 2K Summer League in Las Vegas.",
-          "key_points": [
-            "Lakers have a history of playing in the California Classic Summer League.",
-            "The 2026 edition will precede the NBA 2K Summer League in Las Vegas.",
-            "Participation offers early evaluation of roster and young talent."
-          ],
-          "link": "https://lakersnation.com/lakers-will-again-participate-in-2026-california-classic-summer-league/",
-          "source": "Lakers Nation",
-          "published": "2026-05-05T15:15:02+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "bbc7492e811a",
-          "title": "Los Angeles Lakers vs Oklahoma City Thunder May 5, 2026 Game Summary - NBA",
-          "original_title": "Los Angeles Lakers vs Oklahoma City Thunder May 5, 2026 Game Summary - NBA",
-          "summary": "Los Angeles Lakers vs Oklahoma City Thunder May 5, 2026 Game Summary&nbsp;&nbsp;NBA",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvMllqNUtnZHhLbG1nVE53N1c0MWtrZmxYYWxMLS1zSWdnVndFRXFtRTgzS2JrNV9NeGI3NlV0TmZfalh5OE54SFlyUVJpVnBBeFdxV2J0T2d6Zw?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-05T15:12:52+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "18dfa9cbeae0",
-          "title": "This video is absolutely EGREGIOUS",
-          "original_title": "This video is absolutely EGREGIOUS",
-          "summary": "      What in Gods name? This guy has some sort of mental illness. Probably didn\u2019t get called for half of these fouls. Stay safe out there Lakeshow.   &#32; submitted by &#32;  /u/Lost-Way-4548   [link] &#32; [comments] ",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/lakers/comments/1t4hq3y/this_video_is_absolutely_egregious/",
-          "source": "Reddit r/lakers",
-          "published": "2026-05-05T14:50:46+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "c917e078f504",
-          "title": "LeBron James Gets Honest on Lakers Amid Luka Doncic Injury News - heavy.com",
-          "original_title": "LeBron James Gets Honest on Lakers Amid Luka Doncic Injury News - heavy.com",
-          "summary": "LeBron James Gets Honest on Lakers Amid Luka Doncic Injury News&nbsp;&nbsp;heavy.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU1RDaGZxbUpFWDljcy1UOFphQU9PQndSU3JfalFpb2VwWGVLdjFoOTJBT2Vabl9GZ1dNZXlwU1NPRzA0RDlDVFFDeDFxUVNqbmVqMThaTzdDVDJ1elg0RjFRYTZRQUZtSG9TWWIzbm5Sak05c3RqQzUzeC1jZG1TQ2trS0lLaGlkRnhNYjJrTm8yRUpH?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-05T14:41:49+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "51ba2c291b7d",
-          "title": "Welp ill see you guys game 2",
-          "original_title": "Welp ill see you guys game 2",
-          "summary": "      &#32; submitted by &#32;  /u/Little_Papaya_2475   [link] &#32; [comments] ",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/lakers/comments/1t4h78q/welp_ill_see_you_guys_game_2/",
-          "source": "Reddit r/lakers",
-          "published": "2026-05-05T14:31:23+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "6565ffafe1c9",
-          "title": "\ud83d\udfe3\ud83d\udfe1 WAKE UP IT'S GAME DAY\ud83d\udfe1\ud83d\udfe3",
-          "original_title": "\ud83d\udfe3\ud83d\udfe1 WAKE UP IT'S GAME DAY\ud83d\udfe1\ud83d\udfe3",
-          "summary": "Game 1. Second round. Us against the defending champs, the refs, the media, and whoever else wants smoke. We know the deal. The whole world counting us out AGAIN. You know what? Good. We're done feeling sorry for ourselves. BECAUSE WE BELIEVE. Austin Reaves is about to cook their entire defense like it's a backyard BBQ. LeBron James, year 22, about to use this series as the final chapter of the GOAT argument. No more debates after this. Marcus Smart is locking SGA in a phone booth and splashing ",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/lakers/comments/1t4gt04/wake_up_its_game_day/",
-          "source": "Reddit r/lakers",
-          "published": "2026-05-05T14:17:22+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -141,113 +161,153 @@
       "name": "NBA League News",
       "articles": [
         {
+          "id": "5a804025bba1",
+          "title": "Cavaliers vs. Pistons Props & NBA Playoffs Game 1 Best Bets",
+          "original_title": "Cavaliers vs Pistons Props & NBA Playoffs Game 1 Best Bets",
+          "summary": "Yahoo Sports outlines prop bets for Game 1 of the Cavaliers\u2011Pistons playoff series on May 5, emphasizing Cleveland's defensive struggles. The article suggests that the Pistons may exploit those weaknesses and offers betting angles for the matchup.",
+          "key_points": [
+            "Cleveland's defense is viewed as a liability in the opening playoff game.",
+            "Prop bets focus on scoring, rebounds, and defensive metrics favoring Detroit.",
+            "Betting recommendations are provided for both straight and prop markets."
+          ],
+          "link": "https://sports.yahoo.com/articles/cavaliers-vs-pistons-props-nba-165600868.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-05T16:56:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "d4d6d2142eb0",
+          "title": "Who Will Be Orlando\u2019s Next Coach? Four Candidates Considered",
+          "original_title": "Who will be next coach in Orlando? Billy Donovan? Tom Thibodeau? A look at four candidates",
+          "summary": "Yahoo Sports examines the Orlando Magic\u2019s coaching search, highlighting Billy Donovan as the frontrunner while also discussing Darvin Ham, Tom Thibodeau, and other possibilities. The piece outlines each candidate\u2019s recent experience and fit with Orlando\u2019s roster.",
+          "key_points": [
+            "Billy Donovan receives the most media attention as a potential hire.",
+            "Former NBA coaches Darvin Ham and Tom Thibodeau are also in the conversation.",
+            "The article evaluates how each candidate\u2019s style could impact the Magic\u2019s rebuilding timeline."
+          ],
+          "link": "https://sports.yahoo.com/articles/next-coach-orlando-billy-donovan-164655837.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-05T16:46:55+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "23853358e710",
+          "title": "NBA DFS Playoff Picks for May 5: LeBron James Leads DraftKings, FanDuel Lineups",
+          "original_title": "NBA DFS, playoffs: DraftKings, FanDuel daily Fantasy basketball picks for May 5 include LeBron James",
+          "summary": "CBS Sports\u2019 SportsLine analyst Mike McClure provides daily fantasy basketball recommendations for the May 5 playoff slate, featuring LeBron James as a key player. The guide includes optimal lineups for DraftKings and FanDuel, along with salary\u2011cap strategies.",
+          "key_points": [
+            "LeBron James is projected as a high\u2011value pick in DFS lineups.",
+            "McClure offers specific player combinations to maximize points and salary efficiency.",
+            "Advice covers both DraftKings and FanDuel platforms for the playoff games."
+          ],
+          "link": "https://www.cbssports.com/nba/news/nba-dfs-playoffs-draftkings-fanduel-daily-fantasy-basketball-picks-may-5-lebron-james/",
+          "source": "CBS Sports NBA",
+          "published": "2026-05-05T16:23:18+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "4f167dc88d15",
+          "title": "Raptors Coach Darko Rajakovi\u0107\u2019s Assist\u2011Based Charity Initiative Reaches $79,761",
+          "original_title": "Since becoming Head Coach of the Toronto Raptors, Darko Rajakovi\u0107 has run an initiative where he donates $33 for every assist recorded by the team.",
+          "summary": "According to a Reddit post, Toronto Raptors head coach Darko Rajakovi\u0107 donates $33 for every team assist, a program that will contribute $79,761 this season after the Raptors set a franchise assist record of 2,417. The donations support children\u2019s hospitals in Memphis, Toronto, and Serbia.",
+          "key_points": [
+            "The Raptors recorded 2,417 assists, the most in franchise history.",
+            "Rajakovi\u0107\u2019s program pledges $33 per assist, totaling $79,761 for the current season.",
+            "Cumulative donations since the initiative began amount to $234,036."
+          ],
+          "link": "https://www.reddit.com/r/nba/comments/1t4jv55/since_becoming_head_coach_of_the_toronto_raptors/",
+          "source": "Reddit r/nba",
+          "published": "2026-05-05T16:06:02+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "4157a32ebaec",
+          "title": "Puerto Rican Basketball Legend Jos\u00e9 \u2018Piculin\u2019 Ortiz Passes Away at 62",
+          "original_title": "Puerto Rican basketball legend Jos\u00e9 \u2018Piculin\u2019 Ortiz dies at the age of 62",
+          "summary": "Yahoo Sports reports the death of Jos\u00e9 \u2018Piculin\u2019 Ortiz, a FIBA Hall of Famer and iconic figure in Puerto Rican basketball, who succumbed to cancer at age 62. Ortiz\u2019s career included notable international play and contributions to the sport\u2019s growth in Puerto Rico.",
+          "key_points": [
+            "Jos\u00e9 \u2018Piculin\u2019 Ortiz died at 62 after battling cancer.",
+            "He was a FIBA Hall of Fame inductee and a celebrated Puerto Rican basketball star.",
+            "Ortiz\u2019s legacy includes significant impact on Puerto Rico\u2019s national team and youth development."
+          ],
+          "link": "https://sports.yahoo.com/articles/puerto-rican-basketball-legend-jos-160552100.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-05T16:05:52+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "76f81e0ee985",
+          "title": "Cavaliers vs. Pistons Playoff Preview: Home\u2011Court Glass Advantage",
+          "original_title": "Cavaliers vs Pistons Prediction, Picks & Odds for Today's NBA Playoffs Game 1",
+          "summary": "Yahoo Sports projects that the Cleveland Cavaliers will rely on strong rebounding at home to gain an edge over the Detroit Pistons in Game 1 of the first\u2011round series on May 5. The preview emphasizes the importance of controlling the boards and suggests the home team\u2019s rim play could dictate the outcome.",
+          "key_points": [
+            "Cavaliers expected to dominate the glass against the Pistons.",
+            "Home\u2011court advantage highlighted as a decisive factor.",
+            "Game 1 scheduled for Tuesday, May 5."
+          ],
+          "link": "https://sports.yahoo.com/articles/cavaliers-vs-pistons-prediction-picks-182600599.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-05T15:56:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "fe8dc5036cc4",
+          "title": "Lakers vs. Thunder Prop Picks: LeBron Projected to Exceed Scoring Total",
+          "original_title": "Lakers vs Thunder Computer Picks: Our Best Player Prop Projections for Game 1",
+          "summary": "Yahoo Sports\u2019 computer\u2011generated prop projections indicate that LeBron James is likely to surpass his predicted point total in Game 1 of the second\u2011round series on May 5. The analysis focuses on player\u2011specific betting lines rather than overall game outcomes.",
+          "key_points": [
+            "LeBron James projected to go over his points line.",
+            "Prop projections are based on statistical models.",
+            "Game 1 of the Lakers\u2011Thunder series set for May 5."
+          ],
+          "link": "https://sports.yahoo.com/articles/lakers-vs-thunder-computer-picks-154800188.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-05T15:48:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "8338a5663e05",
+          "title": "Knicks Fans Harass Sixers Supporter After Game 1",
+          "original_title": "Knicks fans harass Sixers fan minding his business after game 1",
+          "summary": "A Reddit post on r/nba reports that a Philadelphia 76ers fan was verbally harassed by New York Knicks supporters following the first\u2011round game. The incident was shared by user /u/Empty_Trouble_505 and generated discussion in the comments.",
+          "key_points": [
+            "Incident involved Knicks fans confronting a Sixers fan.",
+            "Post originated from Reddit user /u/Empty_Trouble_505.",
+            "The harassment occurred after Game 1 of the playoffs."
+          ],
+          "link": "https://www.reddit.com/r/nba/comments/1t4j4jo/knicks_fans_harass_sixers_fan_minding_his/",
+          "source": "Reddit r/nba",
+          "published": "2026-05-05T15:40:35+00:00",
+          "topic": "NBA League News"
+        },
+        {
           "id": "4063eb526a72",
-          "title": "NBA playoff schedule, odds, predictions for Lakers-Thunder, Cavaliers-Pistons",
+          "title": "NBA Playoff Schedule, Odds & Predictions: Lakers\u2011Thunder and Cavs\u2011Pistons",
           "original_title": "NBA playoff schedule, odds, predictions for Lakers-Thunder, Cavaliers-Pistons",
-          "summary": "Two more second-round series of the 2026 NBA playoffs begin on Tuesday night",
-          "key_points": [],
+          "summary": "CBS Sports outlines the second\u2011round matchups beginning Tuesday night, providing schedules, betting odds, and predictions for the Los Angeles Lakers vs. Oklahoma City Thunder and Cleveland Cavaliers vs. Detroit Pistons series. The article serves as a quick reference for upcoming playoff games.",
+          "key_points": [
+            "Second\u2011round series start Tuesday night.",
+            "Includes odds and predictions for Lakers\u2011Thunder and Cavs\u2011Pistons.",
+            "Provides dates, times, and broadcast information."
+          ],
           "link": "https://www.cbssports.com/nba/news/nba-playoffs-schedule-odds-predictions-lakers-thunder-cavaliers-pistons/",
           "source": "CBS Sports NBA",
           "published": "2026-05-05T15:26:22+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "f49ef02c1590",
-          "title": "Rockets offseason outlook: Will Houston make any moves this summer?",
-          "original_title": "Rockets offseason outlook: Will Houston make any moves this summer?",
-          "summary": "The Rockets need to slightly reshuffle the deck if they wish to compete for a title.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/nba/article/rockets-offseason-outlook-will-houston-make-any-moves-this-summer-152230601.html",
+          "id": "1a0ffcacd1ce",
+          "title": "Key Areas Lakers Must Improve to Overcome Thunder",
+          "original_title": "Where do the Lakers have to improve to beat the Thunder?",
+          "summary": "Yahoo Sports analyzes the challenges the Los Angeles Lakers face against the Oklahoma City Thunder in the second round, highlighting specific weaknesses that need addressing for a successful series. The piece outlines tactical and performance gaps that could affect the Lakers\u2019 chances.",
+          "key_points": [
+            "Lakers identified as underdogs needing strategic upgrades.",
+            "Focus on defensive consistency and perimeter shooting.",
+            "Thunder\u2019s strengths present an uphill battle for Los Angeles."
+          ],
+          "link": "https://sports.yahoo.com/articles/where-lakers-improve-beat-thunder-152400604.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-05-05T15:22:30+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "5a7b1e7c31e6",
-          "title": "NBA longshot parlay picks, bets, player props for Tuesday, May 5: This parlay could return almost $1.8 million",
-          "original_title": "NBA longshot parlay picks, bets, player props for Tuesday, May 5: This parlay could return almost $1.8 million",
-          "summary": "SportsLine's model reveals an NBA playoffs parlay that could return almost $1.8 million on a $10 bet",
-          "key_points": [],
-          "link": "https://www.cbssports.com/nba/news/nba-longshot-parlay-picks-bets-player-props-tuesday-may-5-parlay/",
-          "source": "CBS Sports NBA",
-          "published": "2026-05-05T15:19:38+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "5b165d674912",
-          "title": "Thunder vs. Lakers \u2013 Gm. 1 Rd. 2 NBA Playoffs \u2013 predictions: Odds, stats, trends and best bets for May 5",
-          "original_title": "Thunder vs. Lakers \u2013 Gm. 1 Rd. 2 NBA Playoffs \u2013 predictions: Odds, stats, trends and best bets for May 5",
-          "summary": "Oklahoma City Thunder vs. Los Angeles Lakers Game 1, Round 2 NBA Playoff Betting Preview",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/thunder-vs-lakers-gm-1-151516454.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-05T15:15:16+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "9d2b84c07449",
-          "title": "Where to watch Los Angeles Lakers vs. Oklahoma City Thunder Game 1 NBA playoffs: Live stream, start time, TV channel, odds for Tuesday, May 5",
-          "original_title": "Where to watch Los Angeles Lakers vs. Oklahoma City Thunder Game 1 NBA playoffs: Live stream, start time, TV channel, odds for Tuesday, May 5",
-          "summary": "The Lakers and Thunder begin their second-round NBA playoff series.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/nba/article/where-to-watch-los-angeles-lakers-vs-oklahoma-city-thunder-game-1-nba-playoffs-live-stream-start-time-tv-channel-odds-for-tuesday-may-5-150957537.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-05T15:09:57+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "ecd870da6467",
-          "title": "Where to watch Cleveland Cavaliers vs. Detroit Pistons Game 1 NBA playoffs: Live stream, start time, TV channel, odds for Tuesday, May 5",
-          "original_title": "Where to watch Cleveland Cavaliers vs. Detroit Pistons Game 1 NBA playoffs: Live stream, start time, TV channel, odds for Tuesday, May 5",
-          "summary": "The Cavaliers and Pistons open their second-round NBA playoff series.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/nba/article/where-to-watch-cleveland-cavaliers-vs-detroit-pistons-game-1-nba-playoffs-live-stream-start-time-tv-channel-odds-for-tuesday-may-5-150234876.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-05T15:02:34+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "4295d44fd492",
-          "title": "NBA player prop picks, odds: Three best 2026 NBA Playoffs prop bets for Tuesday, May 5",
-          "original_title": "NBA player prop picks, odds: Three best 2026 NBA Playoffs prop bets for Tuesday, May 5",
-          "summary": "SportsLine's model and team of experts have revealed top NBA props picks and NBA predictions for the NBA Playoffs on Tuesday",
-          "key_points": [],
-          "link": "https://www.cbssports.com/nba/news/nba-player-prop-picks-odds-three-best-2026-nba-playoffs-prop-bets-for-tuesday-may-5/",
-          "source": "CBS Sports NBA",
-          "published": "2026-05-05T15:00:54+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "3a88bf5c0868",
-          "title": "How to watch Cleveland Cavaliers vs Detroit Pistons: TV, live stream info for tonight's NBA playoff game",
-          "original_title": "How to watch Cleveland Cavaliers vs Detroit Pistons: TV, live stream info for tonight's NBA playoff game",
-          "summary": "Tip-off is at 7:00 PM ET on NBC and Peacock.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/watch-cleveland-cavaliers-vs-detroit-145716041.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-05T14:57:16+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "3fbf2926ba6f",
-          "title": "Use DraftKings promo code for $100 in bonus bets by targeting Lakers-Thunder, Pistons-Cavaliers on Tuesday",
-          "original_title": "Use DraftKings promo code for $100 in bonus bets by targeting Lakers-Thunder, Pistons-Cavaliers on Tuesday",
-          "summary": "DraftKings offers $100 in bonus bets instantly after your first $5 wager for NBA and MLB betting on Tuesday",
-          "key_points": [],
-          "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-for-100-bonus-bets-lakers-thunder-pistons-cavaliers-tuesday/",
-          "source": "CBS Sports NBA",
-          "published": "2026-05-05T14:54:11+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "6a7414de2341",
-          "title": "Jaden McDaniels on attacking the rim when Wemby is on the floor - \"You just gotta act like he's not there. I mean, he's gonna get blocks. He's the tallest person in the world.\"",
-          "original_title": "Jaden McDaniels on attacking the rim when Wemby is on the floor - \"You just gotta act like he's not there. I mean, he's gonna get blocks. He's the tallest person in the world.\"",
-          "summary": "      &#32; submitted by &#32;  /u/kervaan   [link] &#32; [comments] ",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/nba/comments/1t4hqf6/jaden_mcdaniels_on_attacking_the_rim_when_wemby/",
-          "source": "Reddit r/nba",
-          "published": "2026-05-05T14:51:05+00:00",
+          "published": "2026-05-05T15:24:00+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -256,133 +316,153 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "52a954bf40b0",
-          "title": "\"We're the underdog\" - LeBron James reveals the brutal reality of facing the Thunder without Luka Doncic - Basketball Network",
-          "original_title": "\"We're the underdog\" - LeBron James reveals the brutal reality of facing the Thunder without Luka Doncic - Basketball Network",
-          "summary": "\"We're the underdog\" - LeBron James reveals the brutal reality of facing the Thunder without Luka Doncic&nbsp;&nbsp;Basketball Network",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU2FXM213NzIxQ1p6dHB0RFFVYWYyeEVudkFoMUNsY3RMUHQ0aXdCeDRIZDF1VDVSVDBGSkRUUXZ3UkkyeXpfQUJ0cjZ1UkRrdTgzWW9NcEVzQTFyVVZiSGF2c3RMS0FlN1F2cm9hMGNkNnhtRG0xaDFfajBILXJ5cFJKQTVjSG5uVkhOTWQtRjhVa2RmYVlaenM1SVFGbXo4elVFcmpPa3hQblM1b0paVE1JSjg3UE84Z0k4a2YyUFdFLUxJSGc?oc=5",
+          "id": "bae613a91ee7",
+          "title": "LeBron James Says His Love for the Game Keeps Him From Retiring",
+          "original_title": "LeBron James names the biggest reason he is not retiring - BasketNews.com",
+          "summary": "LeBron James explained that his primary motivation to keep playing is his passion for basketball and the desire to compete at the highest level. He emphasized that he still feels physically capable and wants to continue contributing to his team\u2019s success.",
+          "key_points": [
+            "LeBron cites love of the game and competitive drive as the biggest reason he isn\u2019t retiring.",
+            "He feels his body can still handle the NBA\u2019s demands.",
+            "James wants to keep helping the Lakers win and set a standard for younger players."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdDZueWVSX0Z6OHBjYzlNbFdwc2NmRXR6RkNrdVUtakk5YnB5SXdzSTR0MEZvMV9kSVlFWmJqTGtoRE0xa2haUjFZa2FleGJPYWE2M0FkYXZJWklvSl84ZzZBaXBLa0tFQjUwM2Q4OWpxSGxFakxxTUJmc0szOWRBQV9mcE5mU3RSXzR6Tk85Z0oyZkNXcnhvbjhvcVo?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-05-05T15:49:48+00:00",
+          "published": "2026-05-05T17:24:18+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "1def9ff0d5b8",
-          "title": "Lakers announce Luka Doncic\u2019s injury status for Game 1 vs. Thunder - sportingnews.com",
-          "original_title": "Lakers announce Luka Doncic\u2019s injury status for Game 1 vs. Thunder - sportingnews.com",
-          "summary": "Lakers announce Luka Doncic\u2019s injury status for Game 1 vs. Thunder&nbsp;&nbsp;sportingnews.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOElKUTlrUUpTRkREZ09iZFBMdS1Cb1gyQ1F3bFlPQjQ5bjFJdUdzWV9hZldrVF80OUdfVDdGWWZNWDlsTmJHbC1JNVRPUFktWGZIOHNadmZOQ3gyMUJTcElUVzVSMjVLX1NjS2RxS010NlM3VENwWjBCemVuM2NtV2kyWFJucWFsalhuRGIzdzBpWDBweU1ET2djMTBtaTFxZWFnc3BtU3hfQkx6YUV2SjN2N3lOWS0yZHVKd0ZJaFJsMnhhSVdzRC1FMUJqZDRDOHlyc1FmT05aWVk2?oc=5",
+          "id": "93367ec8a70a",
+          "title": "Jared Vanderbilt\u2019s Secret Instagram Roasts the Lakers for Comedy Gold",
+          "original_title": "Inside Jared Vanderbilt\u2019s secret Instagram account that roasts Lakers for comedy gold - New York Post",
+          "summary": "The New York Post revealed that NBA player Jared Vanderbilt runs a private Instagram account where he posts humorous roasts aimed at the Los Angeles Lakers. The account has attracted attention for its witty commentary and insider jokes about the team\u2019s performance.",
+          "key_points": [
+            "Vanderbilt maintains a hidden Instagram that lampoons the Lakers.",
+            "Posts blend humor with insider knowledge, resonating with fans.",
+            "The account highlights public frustration with the Lakers\u2019 recent play."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcTF5Y0JJUnhrckNWUXk2ekRPZGJPeTJOQlc4cmlZbHUtWm03LTRtQnpjUEpBYjVTcW9fUVhpWWZsbFhUa1gxRHBRTU00YTRLamlUTm15WTdDa1g5X25INUlkOVRxQzFtR0pBbFhvcDVMT1JCZjlJMFh0MC1mM3M0SFJJWGhJTUx5LS1iWUZqazllZDdwckE?oc=5",
           "source": "Google News - Luka",
-          "published": "2026-05-05T14:45:00+00:00",
+          "published": "2026-05-05T17:20:00+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "fffebbfbc15d",
-          "title": "LeBron James has a message for Caitlin Clark before WNBA season - Yahoo Sports",
-          "original_title": "LeBron James has a message for Caitlin Clark before WNBA season - Yahoo Sports",
-          "summary": "LeBron James has a message for Caitlin Clark before WNBA season&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSkV5SWpQUVdlRDRxcHJYUHY4UXRQeWFDVWJSODVqRmc1WUpfUi1kZUlxd2llZ2REeXBPR2RUMnNEUjFGTHhDQmNEM21xdDJzS1VaQldneDVoVW5HLVFWTzRvdGhaQ1VmX3otWDctY0lDX2I2R1kxby05dk1TYWxncnY1R2NFbUQ0Rk5V?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-05T14:29:04+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "4c1106ce2e7a",
-          "title": "LeBron James reveals what Lakers must do to beat OKC Thunder - BasketNews.com",
-          "original_title": "LeBron James reveals what Lakers must do to beat OKC Thunder - BasketNews.com",
-          "summary": "LeBron James reveals what Lakers must do to beat OKC Thunder&nbsp;&nbsp;BasketNews.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWHFBUFh1SjBVMTgyTDYya1JxV252QXBuajFZVXhTMVVKOFZRUVY3dXUyYjV3NkRNZ09FNzBESDJ1VWlPX2xxcm1scU96aG15cllGTjRhUnU4VnZqdy10NmxxZDNIME5BcXNvT1g3UzNQcENoZzNBcVhnVXhHT3dRTUNIQ3h2OGowalg1cG1LN1BwWlF3c29EZy1EM0hvNzdWMUE?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-05T14:28:53+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "39823f84bb11",
-          "title": "LeBron James on playing at 41: If someone asked me in 2018, I wouldn't have believed it - HoopsHype",
-          "original_title": "LeBron James on playing at 41: If someone asked me in 2018, I wouldn't have believed it - HoopsHype",
-          "summary": "LeBron James on playing at 41: If someone asked me in 2018, I wouldn't have believed it&nbsp;&nbsp;HoopsHype",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVnNaZWtZeEFHZW1fSG8tMXJwbThESjhqR3pZX3k3YXNmZVVpVlV4cVlvTkFhOS1Cb3Ria3h3Nm9EbXR4cW5pYm80dUVYRTJkYzRBU2JhM1RFVV9DVmZKb0tieW9mT3BsRmdDekRPWHMxYkFocGVXdWtWRFBZQ3pMVkdERGg0LUs4WEFhNTFPVkQwNF9hcjJzTFdackt6dDExOUdlUzRBQ3BlemozSGd6XzNIb05KMjNPc3BFQkhfMnhIZVV4YWtZd1JlMjJrN0RsVDRTeEJ3bU9zUk5FTXd1czBfckNMclpQTm5jLTdCVQ?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-05T14:20:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "7275aa47acbd",
-          "title": "Lakers vs. Thunder Live Score (May 5, 2026)",
-          "original_title": "Lakers vs. Thunder (May 5, 2026) Live Score - ESPN",
-          "summary": "ESPN provided a live scoreboard for the May 5, 2026 matchup between the Los Angeles Lakers and the Oklahoma City Thunder. The feed tracked scoring runs, quarter-by-quarter totals, and final result in real time.",
+          "id": "f9309a6f0b92",
+          "title": "LeBron James\u2019 Unusual Stat Highlights His All\u2011Time Greatness Ahead of Lakers\u2011Thunder Game",
+          "original_title": "Wild LeBron James fact puts his greatness in perspective before Lakers-Thunder - Lake Show Life",
+          "summary": "Lake Show Life highlighted a little\u2011known statistic that underscores LeBron James\u2019 career durability and impact, noting his unprecedented combination of scoring, assists, and minutes played. The piece uses the fact to frame his legacy before the upcoming matchup with the Oklahoma City Thunder.",
           "key_points": [
-            "Game took place on May 5, 2026, featuring the Lakers and Thunder.",
-            "ESPN\u2019s live scoreboard displayed real\u2011time points, lead changes, and final score.",
-            "No additional analysis or player statistics were included in the brief."
+            "LeBron holds a rare statistical milestone that few players have achieved.",
+            "The stat emphasizes his longevity and consistent high\u2011level production.",
+            "It serves as a reminder of his elite status as the Lakers prepare for the Thunder."
           ],
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NcS1WeEloT0diMnR6TERfUkhlT0ZqdzlmRXoyeERwcVFTdElkdEdIcTBENkMxUFpjLUxxOFl2UlAybmJQaXVhMDBWUm1lcUhoejdWNVd5TUFjOG1SQTVuYmxfTTVweGtRUE9KZFNKWTg?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa3c0VWRvWi05R19JcVB4ZHJiWVBtYkt1RVVVR21qNzlndm51cWFQU1p5QXFiczg1dDVpWl9hMWJFc2JfcHp0QjM0S21xUzBNTXRfa05YY3VqMEllU2pncWxNRWl0WmxoSWVPVzdWNkpFTlNUR2xSNFR0ZGlkSFB6bE5LQnB2OXBKclVTd0daTlVkNGtsdFdVM2llMV9HblFRT0NGWllR?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-05T17:00:02+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "d232c9704928",
+          "title": "Lakers Predicted to Sign Veteran Former First\u2011Round Pick to $52M Deal",
+          "original_title": "Lakers predicted to sign $52M former first-rounder, 15-year veteran with playoff pedigree - Yahoo Sports",
+          "summary": "Yahoo Sports reports that the Los Angeles Lakers are expected to sign a 15\u2011year\u2011veteran former first\u2011round pick with a strong playoff pedigree to a contract worth roughly $52\u202fmillion. The move aims to add experience and depth to a roster seeking a deeper postseason run.",
+          "key_points": [
+            "Target is a 15\u2011year veteran who was a former first\u2011round draft pick.",
+            "Projected contract value is about $52\u202fmillion.",
+            "The signing is intended to bolster the Lakers\u2019 playoff experience and roster depth."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa3pzZ3lORmNkMXVpbEhXNEJoM003dTFsOW1MN1JpWUlCcVVHSjAwUGtGRVBHZ0xhQTNUUE01aTh6cHRkeGFwX25FOTFWelRfWm90cVBMQzhLN191NHByZGlyQ3ZDVlg3cjJTeEJkQURpOVNUTUVMenlvXzdxX0xXM2UyRzJ0ZTJY?oc=5",
           "source": "Google News - Luka",
-          "published": "2026-05-05T13:47:15+00:00",
+          "published": "2026-05-05T16:56:16+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "6d3ac9a4bbb5",
-          "title": "LeBron James Explains Lakers\u2019 Mindset Before Game\u20116 Victory",
-          "original_title": "LeBron James reveals Lakers\u2019 mindset before Game 6 'complete' win - Yahoo Sports",
-          "summary": "LeBron James discussed the team\u2019s collective attitude heading into Game\u202f6, emphasizing confidence and a \u201ccomplete\u201d approach that helped secure the win. The comments were shared in a post\u2011game interview with Yahoo Sports.",
+          "id": "5933d6c5fd45",
+          "title": "LeBron Praises Bronny\u2019s Progress and Playoff Contributions",
+          "original_title": "LeBron James Talks Bronny James' Progress, NBA Playoff Contributions in Video, 'So Many Strides' - Bleacher Report",
+          "summary": "In a Bleacher Report video, LeBron James discussed his son Bronny\u2019s development, noting significant improvements and his recent contributions during the NBA playoffs. LeBron highlighted Bronny\u2019s work ethic and the strides he\u2019s made toward becoming a regular contributor.",
           "key_points": [
-            "James highlighted a unified, focused mindset as a key factor in the Game\u202f6 win.",
-            "He described the team\u2019s preparation as \u201ccomplete,\u201d covering both mental and tactical aspects.",
-            "The interview underscored the Lakers\u2019 confidence entering the decisive playoff game."
+            "LeBron says Bronny has made \u201cso many strides\u201d in his game.",
+            "Bronny contributed minutes and defensive effort in the Lakers\u2019 playoff series.",
+            "LeBron emphasizes the younger player\u2019s work ethic and growth potential."
           ],
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOElPUkNQYUJjc3pXTTVjWWQ0ZHVJZWhrOFhiUHVUQ21SMkVicmlzTllweXhXUUZRaExHUHRMU0g2SXFUQlFPZ1ZIREk4S2Jsd3dJRzBOMmhidnlNLUxQOGJkemtYR3EwX2NvQ0NLYVIzYUx0OEItbTd4Tk04aHRLa3dBTlI5X2Vmc3lVcw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM0FEb2pFQjNNTDJCTzVaLXZFWFI1QTdidVU0M2tiaHlqMVUyZEk5XzhzY2JJM25nT0dKRU1pdVNtaHU4bkI1TFM2MldveVo3NWM1X2NXSU5hNG04YmtrWnc3OE85YzduVXJxdEtZMWVGX0hVaHFEZE41UzMyaWJMR3ZBZlpjUEg4UVNDcDVtUWhYNE8wNWJjNUhVMVhqTzRGM0FHSmxwZ2NmczVCbkdPV1hIei1WdWs3SklETzd5LVVqOFFWdWpjaGdiejNzQQ?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-05-05T13:45:07+00:00",
+          "published": "2026-05-05T16:40:39+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "047f46c8d70e",
-          "title": "Shai Gilgeous\u2011Alexander Praises LeBron James",
-          "original_title": "Shai Gilgeous-Alexander praises LeBron James - Lakers Nation",
-          "summary": "Oklahoma City Thunder guard Shai Gilgeous\u2011Alexander offered public praise for LeBron James, noting his leadership and impact on the court. The remarks were featured on Lakers Nation.",
+          "id": "02d2de0b9c68",
+          "title": "Doncic, Williams Out for Game 1 of West Semifinals with Hamstring Injuries",
+          "original_title": "Lakers\u2019 Doncic, Thunder\u2019s Williams ruled out for Game 1 of West semifinals with hamstring injuries - KOCO",
+          "summary": "Luka\u202fDoncic of the Los Angeles Lakers and Josh Williams of the Oklahoma City Thunder were both ruled out of Game\u202f1 of the Western Conference semifinals due to hamstring injuries. Their absences leave both teams missing key playmakers as the series begins.",
           "key_points": [
-            "Gilgeous\u2011Alexander commended James for his veteran leadership and on\u2011court influence.",
-            "The praise came amid the Lakers\u2011Thunder playoff series.",
-            "His comments highlighted mutual respect between the two star players."
+            "Doncic and Williams each suffered hamstring strains that prevent them from playing the opening game.",
+            "The Lakers lose their primary ball\u2011handler and scorer, while the Thunder lose a versatile wing.",
+            "Coaches will need to adjust rotations and rely on bench players to fill the voids."
           ],
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNY1J4eDJvdExUQ1h2OWtDOFE3amFhb0VBa2UzUlhIVXBuOHJmekFRTXhMaTRJNGhISTU3RjJ4al9uVWx4VmVNT3dXVHAyejZuVm5IN1FEZS1iVmlfVUhSTXE5eE1tMWYyZTZJMGhWX29oOGJkUk52WkpIbTQxcUdXSDBKTUNya2t6TTkyQXBsU3loZw?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-05T13:05:52+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "4145d0604444",
-          "title": "Luka Don\u010di\u0107 Injury Update Before Lakers\u2011OKC Game 1",
-          "original_title": "Lakers Hit With Brutal Luka Doncic Injury Update Before Game 1 vs. OKC - heavy.com",
-          "summary": "Heavy.com reported a significant injury update on Dallas Mavericks star Luka Don\u010di\u0107 that could affect the upcoming Game\u202f1 between the Lakers and the Oklahoma City Thunder. The report detailed the nature of the injury and its potential impact on the matchup.",
-          "key_points": [
-            "Don\u010di\u0107 suffered a serious injury, prompting concerns for the upcoming game.",
-            "The update was released before Game\u202f1 of the Lakers\u2011Thunder series.",
-            "Potential absence or limited minutes for Don\u010di\u0107 could influence the competitive balance."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeDRyQkhSSG9jc1RiWExaT0QtN2lLWUR2MnVKS3Jpc3ROa0Z4clFsWW96WUVmTHJqSUw3WDRXMXhaMl9kYnNzOVNCNjF6TnQzVXV2YjZLM2RuZHV0VmdNa0s4NXIzNGtJWUVpbWlKUmdnYmh3Tk1LaDJUV0hZVWtUdG1PaHA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQUVLTE9ZZ1g0SW9iZDdHbHhNMUxDejlZRFFQV0d1VTVvWUw3dzc3RTRxZWZ1UTMxbnZxNTRyNnRtR3RSUmJKVHhaZ1poRFg3R2Mxa1lKMnctUlBSTnhrOF82ekdCdUM1UVFCalhVNWV5N1Q3SW03Mk4yZnNwcG1rNUZLczBERmIyWVUzdUFLY2NvNXJQa0tZQ1d2SFkySTQ?oc=5",
           "source": "Google News - Luka",
-          "published": "2026-05-05T13:02:54+00:00",
+          "published": "2026-05-05T16:39:00+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "ae32ae25f761",
-          "title": "Shai Gilgeous\u2011Alexander\u2019s Playoff Rise Mirrors LeBron James",
-          "original_title": "Shai Gilgeous-Alexander's rise is starting to mirror his new NBA playoff foe LeBron James - The Oklahoman",
-          "summary": "The Oklahoman drew parallels between Shai Gilgeous\u2011Alexander\u2019s breakout playoff performance and LeBron James\u2019 early career trajectory, noting similarities in scoring bursts and leadership. The piece examined how Gilgeous\u2011Alexander\u2019s game is evolving as he faces the Lakers.",
+          "id": "7c9f986f32cc",
+          "title": "DFS Picks for May\u202f5 Include LeBron James",
+          "original_title": "NBA DFS, playoffs: DraftKings, FanDuel daily Fantasy basketball picks for May 5 include LeBron James - CBS Sports",
+          "summary": "DraftKings and FanDuel released their daily fantasy basketball lineups for May\u202f5, highlighting LeBron James as a top pick for playoff contests. The selections emphasize James\u2019 high usage and scoring potential in the Lakers\u2019 postseason run.",
           "key_points": [
-            "Gilgeous\u2011Alexander\u2019s playoff surge is compared to LeBron\u2019s early NBA rise.",
-            "Both players exhibit high\u2011scoring ability and emerging leadership roles.",
-            "The comparison underscores the growing rivalry between the Thunder and Lakers."
+            "LeBron James is projected as a high\u2011floor, high\u2011ceiling player for DFS slate on May\u202f5.",
+            "DFS experts recommend pairing James with complementary Lakers contributors such as Anthony Davis and D'Angelo Russell.",
+            "The picks reflect the increased fantasy value of veteran stars during the playoffs."
           ],
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNV1hUVzJyWWxQY1gyclFqZkV4Ny1BNzhFN2FDZFdtM0cyYW02U200dXFrV2wwdzFkd0t1SUJkWWExNndkS1J1X05ZNlVlT19QcjFvRHl3RnlRajd0V2I5OFNyYkV1UzU2T2l5NlRIRy1Wb0hOYm5pbHl5ZmEycUQ2TUppLXBwT1REQVNYdEdONldDYmF0dTVqU0s4aUxHbXVBVldYaEE1aUVxanZrY1JubnZpcEZCM3U3bjFJWFpqVG0xclJ6VzZLcXpmWnQ4TDhLN2I2MF9HVU91YUxWRzRF?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcFUzM0doVGVIY3NraGtFM2hPTW9fNVJ3VVFUaTFFTFBaVF9LcUpvQTU2MUJReFFWajI2b2tSRWRFekdMQlBjNHNzMTNlRmJTc0F5X04tMHlESVd0bElWWFM2WmxvRmpnYWtvQUthWVEzVFowQUR5UkM2YW9hQ1I1MnlSclRvQTF1aFdzZjQ1VlhQT0E4UklNdkp0VjhWNTZ5MXM4aEJlc05QTG9JbzV4ZFMtdTNWcUtlZURpcm5n?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-05-05T12:03:00+00:00",
+          "published": "2026-05-05T16:23:18+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "471bae351201",
+          "title": "LeBron James Surprised by His Own Performance",
+          "original_title": "LeBron James is surprising himself in one regard - Lakers Nation",
+          "summary": "A Lakers Nation feature notes that LeBron James is impressing even himself with his recent play, citing unexpected efficiency and leadership on the court. The article highlights specific games where James exceeded his own expectations.",
+          "key_points": [
+            "James has posted higher shooting percentages and advanced metrics than earlier in the season.",
+            "His on\u2011court communication and mentorship of younger players have been praised.",
+            "The surge in performance comes amid the Lakers\u2019 push in the postseason."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX0pLNFFubHczRWJMVm43WmJuY0JjcFg4WXpsTjFSTzJITDJpbVlrcUhLakpDN3A2LU45akM4U1NhNmVjOE1wX3RFakhPYm9XOG5FTFhvdVFtbWxCRjF1WkpBc1l6aUZWOWJtaVV3cWd6dlJLYlVLRURhR0todEwyMWlRZzZwRFR0Tmw4?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-05T16:15:53+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "6dcbf61e4788",
+          "title": "Updated Timeline for Luka\u202fDoncic\u2019s Return in Thunder Series",
+          "original_title": "Lakers Get New Update On Luka Doncic Injury Return Timeline For Thunder Series - heavy.com",
+          "summary": "Heavy.com reports a new medical update on Luka\u202fDoncic\u2019s hamstring injury, outlining a revised timeline for his possible return in the Lakers\u2011Thunder series. The report suggests a cautious approach, with the earliest return projected for Game\u202f3 if recovery progresses well.",
+          "key_points": [
+            "Team physicians estimate a 4\u20116 day recovery window, making a Game\u202f3 return plausible.",
+            "Doncic will continue a modified rehab program to avoid aggravating the hamstring.",
+            "The Lakers are preparing contingency plans in case the injury lingers longer."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdFBmQTdrblNSNWdJN1k3Q3VmQkt0Q2N3SWU2eG4tYV9YZVcyUUFhMERQRThuTHNzbThiTmZMYVJBZ2IybGhPNVRWUmlBS2ZjaFc0TGphQU1rSm52aUFuSVlvNm03V3VXVGdld3p5RXZmLUp2U0VJRTBkX2s0azdOaXBPSl9MRWRWOHFwSHBUV2RaV2FiWUxVTGp1T0Q4ZEFFVEI2c1U1bUZpcGNiZkE?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-05-05T16:15:05+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "017b7006a726",
+          "title": "LeBron Praises Bronny\u2019s Play as He Steps Up Without Reaves, Doncic",
+          "original_title": "\u201cCan\u2019t Even Write That Script in Hollywood\u201d: LeBron James on Bronny Stepping Up Without Austin Reaves, Luka Doncic - Yahoo Sports",
+          "summary": "In a Yahoo Sports interview, LeBron James lauded his son Bronny\u2019s contributions, noting that Bronny has taken on a larger role with the Lakers despite the absence of Austin Reaves and Luka\u202fDoncic. James compared the situation to an unlikely Hollywood script, emphasizing the unexpected nature of the lineup changes.",
+          "key_points": [
+            "Bronny James is receiving increased minutes and responsibility in the playoffs.",
+            "The Lakers are coping with injuries to Reaves and Doncic, prompting deeper rotations.",
+            "LeBron highlighted the rarity of a father\u2011son duo sharing significant playoff minutes."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdlJ0YXk4Nk1vVlpndnlHNXBTdXBEekhPWS1EaHl6UmhhZGxBVDlJX3AwVExrcldHR0o2V0JZU3JJanBRanRwT2V6TU5DXzcyVWtKa1hmZHAycEZaZlRERzhQNDlUSklKQmNrcFRZdFNYRU1CVUNURUZ4SmMtdjZIVGlrN0M?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-05T15:52:46+00:00",
           "topic": "Lakers Players"
         }
       ]
