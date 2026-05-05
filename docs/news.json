@@ -1,158 +1,138 @@
 {
-  "generated_at": "2026-05-05T06:23:41.247473+00:00",
+  "generated_at": "2026-05-05T10:22:02.037283+00:00",
   "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
+          "id": "e83e00a73fe8",
+          "title": "LeBron James Unfazed by Thunder's Defensive Specialist Ahead of Round 2",
+          "original_title": "Lakers\u2019 LeBron James Does Not Faze Thunder\u2019s Defensive Ace Ahead of Round 2 - heavy.com",
+          "summary": "Ahead of the second round of the playoffs, Los Angeles Lakers star LeBron James faced off against Oklahoma City\u2019s defensive ace. Despite the Thunder\u2019s reputation for lockdown defense, James appeared confident and ready to lead the Lakers.",
+          "key_points": [
+            "LeBron James emphasized his experience and poise against OKC\u2019s top defender.",
+            "Thunder\u2019s defensive specialist is expected to limit James\u2019 scoring opportunities.",
+            "Lakers coach highlighted adjustments to exploit mismatches in the upcoming game."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZkZNSm8zX0lfUkpKWmpMVWhhUk5rSzBBNmpYcFIzWU43TlBmbnhGZ3gwVnNJOUdod2t5cmFKckNrN2hhUXdzWm9obGdCTFNJNlk3TDRoNjVBN0FIREs2ZGNpcThtdVBCNFFGTjdFVEhWcXhFSVg5cVRZZjNYWEdtTmVkTlV4SHNXTWVN?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-05T09:46:03+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "bbc7492e811a",
+          "title": "Lakers vs. Thunder \u2013 May 5, 2026 Game Summary",
+          "original_title": "Los Angeles Lakers vs Oklahoma City Thunder May 5, 2026 Game Summary - NBA",
+          "summary": "The May 5, 2026 matchup between the Los Angeles Lakers and the Oklahoma City Thunder concluded with a tightly contested game. The final score and statistical leaders were highlighted, showcasing key performances from both teams.",
+          "key_points": [
+            "Final score and quarter\u2011by\u2011quarter breakdown.",
+            "Top scorers and rebounders for each side.",
+            "Critical moments that swung momentum in the latter stages of the game."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvMllqNUtnZHhLbG1nVE53N1c0MWtrZmxYYWxMLS1zSWdnVndFRXFtRTgzS2JrNV9NeGI3NlV0TmZfalh5OE54SFlyUVJpVnBBeFdxV2J0T2d6Zw?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-05T09:12:52+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "4b61eaf92770",
+          "title": "Pregame Preview: Lakers vs. Thunder (May 5, 2026)",
+          "original_title": "Lakers vs. Thunder (May 5, 2026) Pregame - ESPN",
+          "summary": "ESPN\u2019s pregame coverage examined the matchup between the Lakers and Thunder, focusing on recent form, injury updates, and tactical matchups. Analysts discussed how LeBron James and the Thunder\u2019s defensive anchor would impact the outcome.",
+          "key_points": [
+            "Injury status of key players on both rosters.",
+            "Strategic emphasis on perimeter defense versus inside scoring.",
+            "Predictions on which team holds the edge heading into the game."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OQmM2VFZzM0RRSGxKcFlucmVuMHFJUEpZZXMyVnJIQmVYSkFmVXhxdDlfSkJoYXU3S2dNU1VieW02UDZ6b0hIVmd1Q01hQkxKNTA5d1ZON1ZodlN3ZDZYSg?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-05T07:43:22+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "9716d9aa6d57",
+          "title": "Playoffs Round 1, Game 5: Lakers vs. Rockets Recap",
+          "original_title": "Playoffs Round 1, Game 5: LAL vs. HOU - NBA",
+          "summary": "Game 5 of the first\u2011round playoff series between the Los Angeles Lakers and the Houston Rockets was a pivotal contest that determined which team advanced. The recap details scoring runs, clutch plays, and the series\u2011clinching moments.",
+          "key_points": [
+            "Lakers secured the series win with a decisive fourth\u2011quarter run.",
+            "Key contributions from veteran players and bench depth.",
+            "Statistical highlights, including shooting percentages and turnover differentials."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wN05OSnFJQk1KQThyS1dKZUtJR3BwNnJxdzJ4LTdHTFJKaXhQMWZJQ1JGdzhJd0hqSWplcV9YbGZaVFJ0amNhbngzZ2lNbHFyMmJOaWc0aXMwWFUwdjN4SDgzMXp0LWxJM3B3dmxUS3daNmJfVElR?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-05T07:36:45+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "feb4c3213684",
+          "title": "Reddit Discussion: What Would It Take to Steal a Game in OKC?",
+          "original_title": "What would it take to steal a game in OKC?",
+          "summary": "A Reddit thread on r/lakers debated the strategies the Lakers would need to employ to pull off an upset victory in Oklahoma City. Users exchanged ideas about defensive schemes, lineup adjustments, and exploiting the Thunder\u2019s weaknesses.",
+          "key_points": [
+            "Community suggestions for defensive pressure on OKC\u2019s primary scorers.",
+            "Debate over using small\u2011ball lineups versus traditional big\u2011man rotations.",
+            "Speculation on leveraging LeBron James\u2019 playmaking to create high\u2011percentage shots."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1t48byc/what_would_it_take_to_steal_a_game_in_okc/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-05T07:27:12+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "11aca474cdff",
+          "title": "Everyone doubted us with the rockets, let\u2019s steal home court tonight!",
+          "original_title": "Everyone doubted us with the rockets, let\u2019s steal home court tonight!",
+          "summary": "      We proved ourself and beat the rockets in 6 when everyone said we would get swept.  They say it\u2019s gonna happen for this series as well and I am one of those delusional fans who thinks we have a chance so let\u2019s get rooting and support our team!  &#32; submitted by &#32;  /u/HauntingDragonfly956   [link] &#32; [comments] ",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/lakers/comments/1t483ts/everyone_doubted_us_with_the_rockets_lets_steal/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-05T07:13:26+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "bb61a6cf8a6d",
+          "title": "Oklahoma City Thunder vs. Los Angeles Lakers: live game updates, stats, play-by-play - Yahoo Sports Canada",
+          "original_title": "Oklahoma City Thunder vs. Los Angeles Lakers: live game updates, stats, play-by-play - Yahoo Sports Canada",
+          "summary": "Oklahoma City Thunder vs. Los Angeles Lakers: live game updates, stats, play-by-play&nbsp;&nbsp;Yahoo Sports Canada",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeUlxYTNuazMwTnN5ZkVla3lyWWdOOU9FS3dPd1duZi1qWDdmY3V5RGR6MWFxdWRlU0hKVUxQZFVHYTNlWndnN3ppOTRSdl8waGNrSzRCSUZCa3RZUXZoZzR0X2liZktvS1UwZnlHVDl0ekpCTXhnV1poeG52aFNoM016cmVxSnMzU2x4cg?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-05T07:09:14+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "0e34ab4bb2e9",
+          "title": "What do you think LeBron is doing right now?",
+          "original_title": "What do you think LeBron is doing right now?",
+          "summary": "Anyone else curious what the King does the night before a big game? Probably in the jacuzzi game planning with the offspring. What do yall think?  &#32; submitted by &#32;  /u/Lilshitkerwin   [link] &#32; [comments]",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/lakers/comments/1t47zdb/what_do_you_think_lebron_is_doing_right_now/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-05T07:06:12+00:00",
+          "topic": "Lakers News"
+        },
+        {
           "id": "817378e0f681",
           "title": "Will always miss him (Via IG)",
           "original_title": "Will always miss him (Via IG)",
-          "summary": "A Reddit post on r/lakers shares an Instagram tribute, expressing ongoing admiration for a former Lakers figure. The post, submitted by user /u/jaecrowderisabitch, includes a link to the original content and invites comments from the community.",
-          "key_points": [
-            "The post is a fan\u2011generated tribute posted on Reddit.",
-            "It links to an Instagram post that honors a past Lakers personality.",
-            "Engagement is driven by community comments and reactions."
-          ],
+          "summary": "      &#32; submitted by &#32;  /u/jaecrowderisabitch   [link] &#32; [comments] ",
+          "key_points": [],
           "link": "https://www.reddit.com/r/lakers/comments/1t46nyc/will_always_miss_him_via_ig/",
           "source": "Reddit r/lakers",
           "published": "2026-05-05T05:51:34+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "c3249b28e6f5",
-          "title": "Thunder vs. Lakers Game Summary \u2013 May 11, 2026",
-          "original_title": "Oklahoma City Thunder vs Los Angeles Lakers May 11, 2026 Game Summary - NBA",
-          "summary": "Google News provides a brief game\u2011summary entry for the May 11, 2026 matchup between the Oklahoma City Thunder and the Los Angeles Lakers. No detailed statistics or narrative are included in the source excerpt.",
-          "key_points": [
-            "Date of the game: May 11, 2026.",
-            "Teams involved: Oklahoma City Thunder and Los Angeles Lakers.",
-            "Source is a concise NBA game\u2011summary listing without further detail."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMirwRBVV95cUxPM0lXdERaWk5TUl9PeWh2QlpiRFA1UWJZaHBqd1JMQ3FISHU2cG04VWhDazFuZ0FwMWYyeTRsVEtQX1dQWXYzZnJVTHhsdEhVN1hUdVRJUmw0emFJenYtMmQ0TjJfVUpvMkxsZVhrckUxcWhCTlRzVFdwYmYyVnA3b0dkNmg5QmVnRTgyWXk2MndlMkh1cE5SOUt0ZWdLNGV2eDVOMzYzVDdTLURGM0ViS2Z2Wk9KNEtRaGExTjAzYTEzYU94S0lVXzlWLTdqTmJFZElaVjFJVHRWdUMxTjNPS18ySlc2UEEtQlJCWWJHUFQzdUZmNFZ2NFVLV0hMTGxNeS1NcnQxU2w5VlEzYXlKWV9BS1dLd1hiYmVPRHRURFVsenlEaUtISnNXenZpbk5GTm1zeWdWYmk4OEY2T1NWd0k1UHJqVkJRdWQ2QXI4TXVSQXRYSmVQUFUzVE44d1FVZnNYcEpPUDV2dmI1d2RMS20ybWxxeHY5YnFuLVdQTFpiXzlYUGg1aGFVaU1NbFRObWI4T0x5c0oxb1Y5Y2QtZWtUV01lWjZRXzNxazZlb185WlU4WXotTXlnOGo5eTlVcDZsRHpDV1Zra2I5dVV0X0ViSmk3SExlemRYZmFuRkRIZUJoQV83eVJaSXlVNEpUaWQ3SWdaenZhdTFvdkZBbXRSUndKNjVJSGljTS1IdldSaThIV2tOMWxxcmRHZ1RQLWlDLUtLVWQweURKVDRR?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-05T05:16:26+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "4984c36e92f9",
-          "title": "I genuinely hope the Lakers can pull a Hail Mary",
-          "original_title": "I genuinely hope the Lakers can pull a Hail Mary.",
-          "summary": "A Reddit user on r/lakers posts a humorous, self\u2011referential comment about wanting the Lakers to win, noting a shift in their feed away from typical Stephen A. commentary. The post mixes satire with a personal wish for a low\u2011probability comeback in the playoffs.",
-          "key_points": [
-            "The author expresses a desire for an unlikely Lakers victory.",
-            "The post references a change in the user's algorithm away from Stephen A. content.",
-            "Tone is comedic and speculative, not based on concrete analysis."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1t45qfk/i_genuinely_hope_the_lakers_can_pull_a_hail_mary/",
-          "source": "Reddit r/lakers",
-          "published": "2026-05-05T05:01:53+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "bbc7492e811a",
-          "title": "Lakers vs. Thunder Game Summary \u2013 May 5, 2026",
-          "original_title": "Los Angeles Lakers vs Oklahoma City Thunder May 5, 2026 Game Summary - NBA",
-          "summary": "Google News lists a game\u2011summary entry for the May 5, 2026 contest between the Los Angeles Lakers and the Oklahoma City Thunder. Similar to the May 11 entry, the excerpt provides only the basic identification of the matchup.",
-          "key_points": [
-            "Date of the game: May 5, 2026.",
-            "Teams: Los Angeles Lakers and Oklahoma City Thunder.",
-            "The source offers a minimal summary without scores or analysis."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvMllqNUtnZHhLbG1nVE53N1c0MWtrZmxYYWxMLS1zSWdnVndFRXFtRTgzS2JrNV9NeGI3NlV0TmZfalh5OE54SFlyUVJpVnBBeFdxV2J0T2d6Zw?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-05T05:01:23+00:00",
-          "topic": "Lakers News"
-        },
-        {
           "id": "de208fcb855b",
-          "title": "A Dip in the Lake: The Lakers' Playoff History with the Thunder/Sonics",
+          "title": "A Dip in the Lake: The Lakers playoff history with the Thunder/Sonics",
           "original_title": "A Dip in the Lake: The Lakers playoff history with the Thunder/Sonics",
-          "summary": "An article from Silver Screen and Roll reviews the historical playoff encounters between the Los Angeles Lakers and the Seattle SuperSonics/Oklahoma City Thunder franchise. It highlights notable series, including title\u2011winning runs, and sets the stage for future matchups.",
-          "key_points": [
-            "Chronicles decades\u2011long playoff battles between the Lakers and the Sonics/Thunder.",
-            "Mentions that the Lakers have secured wins en route to championships in these series.",
-            "Provides historical context to inform expectations for upcoming games."
-          ],
+          "summary": "The Lakers and the Sonics/Thunder have plenty of history between them in the playoffs throughout the decades. LA has had memorable battles in both Seattle and Oklahoma City with title-winning teams picking up wins en route to the Finals. Let&#8217;s look back before moving forward and take a Dip in the Lake with the Sonics/Thunder [&#8230;]",
+          "key_points": [],
           "link": "https://www.silverscreenandroll.com/lakers-history/115121/lakers-playoff-history-thunder-sonics-series-nba",
           "source": "Silver Screen and Roll",
           "published": "2026-05-05T03:49:51+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "8f0a088252fb",
-          "title": "Will Referees Allow Lakers to Match Pacers' Physical Play vs. OKC?",
-          "original_title": "Last year's Pacers showed the blueprint, the question will the refs allow the Lakers to play this type of physicality against OKC.",
-          "summary": "A Reddit user notes that the Indiana Pacers' physical style last season provided a successful blueprint for the Lakers. The post questions whether officials will permit Los Angeles to employ the same level of aggression against the Oklahoma City Thunder in the upcoming series.",
-          "key_points": [
-            "Pacers' physicality last year is cited as a model for the Lakers.",
-            "The discussion centers on potential officiating constraints.",
-            "The focus is on how the Lakers might use toughness against the Thunder."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1t4404t/last_years_pacers_showed_the_blueprint_the/",
-          "source": "Reddit r/lakers",
-          "published": "2026-05-05T03:36:08+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "47e31774f3b5",
-          "title": "Crossover Preview: Can the Lakers Push the Thunder?",
-          "original_title": "CROSSOVER: Can the Los Angeles Lakers PUSH OKC Thunder? NBA Playoff Preview - KCENTV.com",
-          "summary": "KCENTV.com publishes a playoff preview analyzing the Los Angeles Lakers' chances against the Oklahoma City Thunder. The article examines match\u2011ups, recent form, and strategic factors that could influence the series outcome.",
-          "key_points": [
-            "Breakdown of key player match\u2011ups between the Lakers and Thunder.",
-            "Assessment of recent performance trends for both teams.",
-            "Strategic considerations that may determine which team gains the advantage."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNZGNWZE5mOTRHSVhTVXhmYTNXclFpVmtsbVlmbTBuRldIT1FpVGhROFJuWEstelJJaTVYR0xlY215UlkxdWJyRGREZm9zSVNLaHBMWW1mT1FPdXBJTjZQcVBaWmE3Q2tUUnoxWDZJUE8tNFkwX3VMYnZZelFUOEplSjl6UzNBb2hSVGlTanhNNjNQLVRaUkhLbEhFeTNWT25KYjhyckxjOFF4TzRPd1I3THd4ZHZ5cTBrNVY2eEc1R2V3c09SZzFWaGY3RXdtcnhEd1hFQ0xaalpncUNBUlRxaFVCbldwd0NXbElFa1c5VTdSRTZtaUxDR1hQTnRmelBrdG5zc013WUZad1lmS3FZZ3gwdw?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-05T03:32:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "95cf7dc8642f",
-          "title": "Magic Johnson Sends Strong Message to Lakers Ahead of Thunder Series",
-          "original_title": "Magic Johnson Sends Strong Message to Lakers Ahead of Thunder Series - heavy.com",
-          "summary": "Heavy.com reports that NBA legend Magic Johnson delivered a direct message to the Los Angeles Lakers as they prepare for the playoff series versus Oklahoma City. Johnson emphasized focus and execution, urging the team to elevate its play.",
-          "key_points": [
-            "Magic Johnson addressed the Lakers publicly before the series.",
-            "He stressed the importance of discipline and effort.",
-            "The message is aimed at motivating the team for the upcoming games."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQXIzbWpZb3JGQkp3SE9rbmxkUmhTNXdXWVRfOVFxaUpFU3FWX1VMTEhYSzZpMV83LUpaVkxiYTZzVjZ2dXhiUXVjOFFWREM2REFlVS1YYWV0RHlacHE2bER0ZFhUbmZqZ1RwN28wWkZ6M2lXTDFQWE9hcnhGeUhOZHpzTGp1T01DM0E?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-05T03:06:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "cbc64d5aa529",
-          "title": "AirCorgi Predicts Lakers Win Series in Seven Games",
-          "original_title": "AirCorgi predicts Lakeshow in 7!!",
-          "summary": "A popular Instagram account, @Aircorg, humorously predicts that the Los Angeles Lakers will win the series against the Oklahoma City Thunder in seven games, despite the Lakers trailing 0\u20112. The post is presented as light\u2011hearted fan speculation.",
-          "key_points": [
-            "Prediction comes from a well\u2011known social\u2011media account.",
-            "Lakers are down two games in the series at the time of the post.",
-            "The forecast is presented as fun fan content, not an analytical projection."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1t43253/aircorgi_predicts_lakeshow_in_7/",
-          "source": "Reddit r/lakers",
-          "published": "2026-05-05T02:51:56+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "7dee53103bca",
-          "title": "Injury Update: Luka Don\u010di\u0107 Out for Start of Second Round",
-          "original_title": "When is Luka Doncic coming back? Injury update for Lakers-Thunder NBA Playoffs Game 1 - The Oklahoman",
-          "summary": "The Oklahoman, USA Today, and Yahoo Sports report that Dallas Mavericks star Luka Don\u010di\u0107 will miss the start of the second\u2011round playoff series between the Los Angeles Lakers and the Oklahoma City Thunder due to injury. The articles provide timelines for his potential return and note the impact on the matchup.",
-          "key_points": [
-            "Luka Don\u010di\u0107 is confirmed out for Game\u202f1 of the Lakers\u2011Thunder series.",
-            "Reports discuss his injury status and expected recovery timeline.",
-            "His absence is highlighted as a significant factor for both teams' strategies."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRzY2LXBTUzJBMExMbnJuTXU3V1IwcUY3MWhFTGcyamVoc0dLaWdxN3Zadm95ZnhNdGFqQ2wxRTI5YVUwUUxHbHhNNGlYOVdKVFVkdk51TENwaldQSnBJZ1VzWUtYWmFJdGswc3hGZ01EbGVWQ2lMZWswT3FKSS1MSno0UGJFQUFuOWdYaFpQMFJNVUE2RU5CTWcxRXdWTExWVFB2dEtJZDN2dUpFeTFpbURVR2ttRnhoQmpEVlNBR3Z2XzI1bXM0MEprTVBfNElHX2hTOQ?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-05T02:42:00+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -161,153 +141,133 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "a969178b5fc9",
-          "title": "Timberwolves Take 1-0 Lead Over Spurs in Western Second Round",
-          "original_title": "Timberwolves take 1-0 lead into game 2 against the Spurs",
-          "summary": "The Minnesota Timberwolves (49\u201133) opened the Western Conference second\u2011round series with a win, taking a 1\u20110 lead against the San Antonio Spurs (62\u201120). The Spurs entered the game as 9.5\u2011point favorites, but the Wolves overcame the odds to start the series ahead.",
+          "id": "37c49914a7b3",
+          "title": "Retention Wins Outshine Portal Additions",
+          "original_title": "Recruiting your own roster: 10 retention wins that matter more than portal adds",
+          "summary": "While the transfer portal dominates headlines, teams that retain key players are achieving the most significant offseason gains. Programs like Florida and UConn have demonstrated that keeping core contributors can be more valuable than acquiring new talent.",
           "key_points": [
-            "Timberwolves lead series 1\u20110 after Game 1.",
-            "Spurs were heavy favorites (\u20119.5) but fell short.",
-            "Series features a high\u2011seed Spurs vs. a lower\u2011seed Wolves matchup."
+            "Retention of existing players is highlighted as a primary driver of success.",
+            "Florida, UConn, and other programs are cited as examples of effective roster stability.",
+            "The article argues that staying power outweighs high\u2011profile portal additions."
           ],
-          "link": "https://sports.yahoo.com/articles/timberwolves-1-0-lead-game-060232187.html",
+          "link": "https://sports.yahoo.com/articles/recruiting-own-roster-10-retention-090943194.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-05-05T06:02:32+00:00",
+          "published": "2026-05-05T09:09:43+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "1a2f990e8179",
-          "title": "Anthony Edwards Sparks Timberwolves' 104\u2011102 Game\u20111 Win in San Antonio",
-          "original_title": "Spark from Anthony Edwards off bench helps Timberwolves steal Game 1 on road from Spurs, 104-102",
-          "summary": "Anthony Edwards came off the bench to provide the decisive spark for Minnesota, helping the Timberwolves steal a 104\u2011102 victory on the road. Victor Wembanyama recorded 12 blocks, the most in a playoff game in 52 years, but it wasn't enough to secure the win.",
+          "id": "e9ad2e956ff6",
+          "title": "Harden Explored Return Options Before Cleveland Trade",
+          "original_title": "James Harden\u2019s reps gauged interest in other team before trade to Cavs",
+          "summary": "Before being dealt to the Cavaliers, James Harden reportedly gauged interest from a former team, indicating he was open to a possible return. The inquiry occurred during trade discussions but did not ultimately affect the final move to Cleveland.",
           "key_points": [
-            "Edwards' bench production proved crucial in the close win.",
-            "Wembanyama set a 52\u2011year playoff record with 12 blocks.",
-            "Timberwolves win 104\u2011102, taking Game 1 in the series."
+            "Harden contacted a former team to assess potential interest.",
+            "The outreach happened prior to the completion of his trade to the Cavs.",
+            "No agreement was reached, and the trade proceeded as announced."
           ],
-          "link": "https://sports.yahoo.com/articles/spark-anthony-edwards-off-bench-053517887.html",
+          "link": "https://sports.yahoo.com/articles/james-harden-reps-gauged-interest-090000760.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-05-05T05:35:17+00:00",
+          "published": "2026-05-05T09:00:00+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "47fa26056eb7",
-          "title": "Knicks Dominate Early Rounds, Emerging as Eastern Conference Leaders",
-          "original_title": "After yet another blowout win, the Knicks are looking like the class of the East",
-          "summary": "The New York Knicks have posted a historic run, posting 16 consecutive quarters of dominant defense and scoring that outmatched opponents like the Hawks and Sixers. Their performance in Game 1 set a new postseason benchmark for quarter\u2011by\u2011quarter superiority.",
+          "id": "a510e5567558",
+          "title": "Edwards' Late Surge Powers Wolves Past Spurs in Game 1",
+          "original_title": "Edwards' returns sparks Wolves in Game 1 stunner",
+          "summary": "Anthony Edwards delivered a clutch performance that helped the Minnesota Timberwolves hold off the heavily favored San Antonio Spurs, securing a Game 1 victory. The win came despite Victor Wembanyama's historic night of 12 blocks and a triple\u2011double.",
           "key_points": [
-            "Knicks have recorded 16 straight quarters of overwhelming play.",
-            "Their quarter\u2011by\u2011quarter dominance is unprecedented in NBA postseason history.",
-            "The team appears positioned as the top contender in the Eastern Conference."
+            "Edwards' scoring burst in the final minutes clinched the win.",
+            "Wembanyama recorded a playoff\u2011record 12 blocks and a triple\u2011double.",
+            "The Timberwolves overcame the odds to take Game 1 against the Spurs."
           ],
-          "link": "https://sports.yahoo.com/nba/article/after-yet-another-blowout-win-the-knicks-are-looking-like-the-class-of-the-east-052710778.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-05T05:27:10+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/48682145/edwards-returns-propels-wolves-spurs-game-1-stunner",
+          "source": "ESPN NBA",
+          "published": "2026-05-05T07:48:37+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "d3e01cdac6f6",
-          "title": "2026 NBA Playoff Bracket: Second Round Matchups and Schedule",
-          "original_title": "2026 NBA playoff bracket: Schedule, matchups with second round underway",
-          "summary": "The NBA playoffs have narrowed to eight teams, with the second round now underway. CBS Sports outlines the current bracket, dates, and upcoming series for the remaining contenders.",
+          "id": "2ac95ce55011",
+          "title": "Knicks Extend Historic Run with 39\u2011Point Win Over 76ers",
+          "original_title": "Knicks stay on historic roll, crush 76ers by 39",
+          "summary": "The New York Knicks continued their unprecedented postseason streak by defeating the Philadelphia 76ers by 39 points in Game 1. The dominant performance reinforces the Knicks' momentum after repeatedly rallying from early series deficits.",
           "key_points": [
-            "Eight teams remain in the 2026 NBA playoffs.",
-            "Second\u2011round series have begun across both conferences.",
-            "Schedule and matchup details are provided for the remaining games."
+            "Knicks won Game 1 by a 39\u2011point margin, the largest in the series.",
+            "The victory maintains the Knicks' historic pattern of turning around first\u2011round series.",
+            "Philadelphia struggled to contain New York's offense throughout the game."
           ],
-          "link": "https://www.cbssports.com/nba/news/2026-nba-playoff-bracket-matchups-schedule/",
-          "source": "CBS Sports NBA",
-          "published": "2026-05-05T05:24:48+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/48681522/knicks-stay-historic-roll-crush-76ers-39-game-1",
+          "source": "ESPN NBA",
+          "published": "2026-05-05T07:48:37+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "6dcf6b2a2c6d",
-          "title": "Playoff Highlights: Wembanyama Sets Block Record, Brunson Leads Knicks",
-          "original_title": "NBA playoff winners and losers: Victor Wembanyama sets record, but offense eludes him, Jalen Brunson dominates",
-          "summary": "In the second round, Victor Wembanyama set a new playoff block record, while Jalen Brunson delivered a dominant performance for the Knicks. Both the Knicks and Timberwolves secured Game 1 victories as the series progressed.",
+          "id": "5fef327fd68c",
+          "title": "Wembanyama Blames Energy Mismanagement After Record Block Night",
+          "original_title": "Wemby laments energy misuse amid historic night",
+          "summary": "Victor Wembanyama expressed frustration over what he called \u201cenergy mismanagement\u201d that he felt undermined his historic defensive effort\u2014a playoff\u2011record 12 blocks and a triple\u2011double\u2014in the Spurs\u2019 Game 1 loss to Minnesota. Despite the personal milestone, the Spurs fell short.",
           "key_points": [
-            "Wembanyama records a playoff block record.",
-            "Jalen Brunson leads Knicks to a Game 1 win.",
-            "Timberwolves also capture Game 1, advancing the second\u2011round narrative."
+            "Wembanyama set a playoff record with 12 blocks and a triple\u2011double.",
+            "He attributed the loss to poor energy allocation during the game.",
+            "The Spurs were unable to convert the defensive performance into a win."
           ],
-          "link": "https://www.cbssports.com/nba/news/nba-playoff-winners-losers-victor-wembanyama-sets-record-may-4/",
-          "source": "CBS Sports NBA",
-          "published": "2026-05-05T05:20:29+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/48682688/victor-wembanyama-12-block-triple-double-spurs-game-1-loss-timberwolves",
+          "source": "ESPN NBA",
+          "published": "2026-05-05T07:48:37+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "20c546d04af1",
-          "title": "Knicks Crush 76ers in Game 1, Extend Historic Postseason Run",
-          "original_title": "Knicks crush the 76ers to start the second round and keep up a historic postseason roll",
-          "summary": "Jalen Brunson poured in 35 points, 27 in the first half, as the New York Knicks dominated the Philadelphia 76ers 137\u201198 in Game 1 of the Eastern Conference semifinals. The victory gave the Knicks a record\u2011setting start to the postseason, making them the first team ever to begin a playoff run with such a margin of victory.",
-          "key_points": [
-            "Brunson scored 35 points (27 in the first half).",
-            "Knicks win 137\u201198, the largest margin in a playoff opening game.",
-            "New York becomes the first NBA team to begin a postseason with a 39\u2011point win."
-          ],
-          "link": "https://sports.yahoo.com/articles/knicks-crush-76ers-start-second-050126133.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-05T05:01:26+00:00",
+          "id": "9e2ef52d2727",
+          "title": "Bulls hire Hawks exec Graham to head front office",
+          "original_title": "Bulls hire Hawks exec Graham to head front office",
+          "summary": "The  Bulls are hiring Hawks senior vice president Bryson Graham as the franchise's new executive vice president of basketball operations.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/48678804/bulls-hire-hawks-executive-bryson-graham-head-front-office",
+          "source": "ESPN NBA",
+          "published": "2026-05-05T07:48:37+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "4d3c35b457c9",
-          "title": "Lakers' Luka Doncic, Thunder's Jalen Williams Out for Game 1 with Hamstring Issues",
-          "original_title": "Lakers' Doncic, Thunder's Williams ruled out for Game 1 of West semifinals with hamstring injuries",
-          "summary": "Luka\u202fDoncic of the Los Angeles Lakers and Jalen\u202fWilliams of the Oklahoma City Thunder have been ruled out of Game 1 of the Western Conference semifinals due to left\u2011hamstring injuries. Doncic, who has missed the past month after an injury in Oklahoma City, remains sidelined, while Williams also sits out the opener.",
-          "key_points": [
-            "Both players suffer left\u2011hamstring injuries.",
-            "Doncic has not played since the injury occurred about a month ago.",
-            "Their absences leave the Lakers and Thunder shorthanded for the series opener."
-          ],
-          "link": "https://sports.yahoo.com/articles/lakers-doncic-thunders-williams-ruled-045428260.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-05T04:54:28+00:00",
+          "id": "b977aa48f2e7",
+          "title": "Magic president: No reason to 'dismantle' team",
+          "original_title": "Magic president: No reason to 'dismantle' team",
+          "summary": "Magic president Jeff Weltman said that despite firing head coach Jamahl Mosley, he still believes in the team's core when it's fully healthy.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/48678561/magic-president-no-reason-dismantle-team-loss",
+          "source": "ESPN NBA",
+          "published": "2026-05-05T07:48:37+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "86438c059eae",
-          "title": "Finch Praises Wembanyama\u2019s Block\u2011Heavy Night, Notes Missed Goaltending Calls",
-          "original_title": "Chris Finch on Victor Wembanyama\u2019s historic night: \u201cHe had a lot of blocks\u2026 He had a couple of uncalled goaltendings too. Those are valuable points we\u2019d like to have back.\u201d",
-          "summary": "New York Knicks coach Chris Finch highlighted Victor Wembanyama\u2019s impressive defensive performance, noting his high block total and a few uncalled goaltending calls that could have added to his stat line. Finch emphasized that those missed calls are points the Knicks would have liked to see reflected.",
-          "key_points": [
-            "Wembanyama recorded numerous blocks in the game.",
-            "Finch mentioned several uncalled goaltending violations.",
-            "The missed calls were viewed as valuable points the Knicks missed out on."
-          ],
-          "link": "https://www.reddit.com/r/nba/comments/1t45fq7/chris_finch_on_victor_wembanyamas_historic_night/",
-          "source": "Reddit r/nba",
-          "published": "2026-05-05T04:46:45+00:00",
+          "id": "11737cf70cba",
+          "title": "Pistons extend Bickerstaff following series victor...",
+          "original_title": "Pistons extend Bickerstaff following series victor...",
+          "summary": "The Pistons have signed coach J.B. Bickerstaff to a contract extension one day after he led the Pistons to their first playoff series victory since 2008.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/48678738/pistons-extend-jb-bickerstaff-rare-series-victory",
+          "source": "ESPN NBA",
+          "published": "2026-05-05T07:48:37+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "8ea3d152b5fd",
-          "title": "Brunson Says Knicks Can\u2019t Count on Same 76ers Lineup in Game 2",
-          "original_title": "Knicks\u2019 Jalen Brunson doesn\u2019t expect to see same 76ers team from Game 1 in Game 2",
-          "summary": "After a dominant Game 1 win, Jalen Brunson cautioned that the Knicks must stay focused because the Philadelphia 76ers are unlikely to field the exact same roster in Game 2. He stressed the importance of maintaining intensity despite the lopsided result.",
-          "key_points": [
-            "Knicks aim to keep focus despite the blowout.",
-            "Brunson expects lineup adjustments from the 76ers for Game 2.",
-            "Maintaining intensity remains a priority for New York."
-          ],
-          "link": "https://sports.yahoo.com/articles/knicks-jalen-brunson-doesn-t-044639349.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-05T04:46:39+00:00",
+          "id": "773ad0c230e6",
+          "title": "Sources: Mavs hire ex-Raptors exec Ujiri as prez",
+          "original_title": "Sources: Mavs hire ex-Raptors exec Ujiri as prez",
+          "summary": "The Mavericks have agreed to hire Masai Ujiri as their team president and alternate governor.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/48676414/sources-mavericks-hire-ujiri-president-alternate-governor",
+          "source": "ESPN NBA",
+          "published": "2026-05-05T07:48:37+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "18d66e83c9be",
-          "title": "76ers Face Short Turnaround After Blowout Loss to Knicks",
-          "original_title": "76ers have a short turnaround and then a long night with a blowout loss in Game 1",
-          "summary": "The Philadelphia 76ers suffered a 137\u201198 defeat to the New York Knicks in Game 1 of the Eastern Conference semifinals, mirroring struggles they displayed against Boston earlier in the playoffs. The loss forces them into a quick recovery period before attempting a comeback in the series.",
-          "key_points": [
-            "Philadelphia was routed 137\u201198, echoing earlier playoff difficulties.",
-            "The team must regroup quickly with limited rest before Game 2.",
-            "A comeback will be required to stay alive in the series."
-          ],
-          "link": "https://sports.yahoo.com/articles/76ers-short-turnaround-then-long-044538979.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-05T04:45:38+00:00",
+          "id": "1ea9794babae",
+          "title": "C's Brown says refs had 'agenda,' calls out Embiid...",
+          "original_title": "C's Brown says refs had 'agenda,' calls out Embiid...",
+          "summary": "Jaylen Brown, appearing on his Twitch stream Sunday, took issue with the officiating against him during the Celtics-76ers series, as well as with Joel Embiid, whom he accused of the type of flopping that has \"ruined our game.\"",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/48672626/celtics-jaylen-brown-rips-refs-calls-embiid-flopping",
+          "source": "ESPN NBA",
+          "published": "2026-05-05T07:48:37+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -316,14 +276,29 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "0af85d56cc92",
-          "title": "LeBron James and Shai Gilgeous\u2011Alexander Set for Playoff Showdown",
-          "original_title": "LeBron James and Shai Gilgeous-Alexander set for playoff showdown - KOCO",
-          "summary": "LeBron James and Shai Gilgeous\u2011Alexander are slated to face each other in the upcoming NBA playoffs. The matchup pits the veteran Lakers star against the Thunder\u2019s leading scorer, promising a high\u2011profile series.",
+          "id": "bf769dbbbc8e",
+          "title": "Luka Doncic Hints He May Return Soon Ahead of Lakers\u2011Thunder Game 1",
+          "original_title": "Luka Doncic Drops Major Hint on Injury Return Before Lakers-Thunder Game 1 - heavy.com",
+          "summary": "Dallas Mavericks star Luka Doncic suggested he could be back earlier than expected before the opening playoff game against the Los Angeles Lakers. The comment came amid speculation about his ankle injury, which has kept him out of recent games. His hint adds uncertainty to the Mavericks\u2019 lineup for Game 1.",
           "key_points": [
-            "LeBron James will lead the Los Angeles Lakers in the first round against the Oklahoma City Thunder.",
-            "Shai Gilgeous\u2011Alexander is the Thunder\u2019s primary offensive weapon heading into the series.",
-            "The series is expected to generate significant media attention due to the star power of both players."
+            "Doncic indicated a possible earlier return from his ankle injury.",
+            "The comment was made just before the Lakers\u2011Thunder first\u2011round matchup.",
+            "Mavericks\u2019 Game 1 roster remains uncertain pending a medical update."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWWphNmwxaXlOaUhNZzVqMGNRYU9DODhrWUNLZkNQejMwRzR5QmdyV0NlZHFSbXN5Y1JMRHF0QjlvOExuUnVHekhtaEhTRFJuV2ZoSTRBenJqODR6WC1fbkFHS2xKMUVLR1R1Sm10QmRLaUhfTElBc3VuQmZpemsxUmVlV2JPUFdxN2c?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-05-05T08:03:16+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "0af85d56cc92",
+          "title": "LeBron James and Shai Gilgeous\u2011Alexander Set to Face Off in Playoffs",
+          "original_title": "LeBron James and Shai Gilgeous-Alexander set for playoff showdown - KOCO",
+          "summary": "The Los Angeles Lakers\u2019 LeBron James and the Oklahoma City Thunder\u2019s Shai Gilgeous\u2011Alexander are slated to meet in the opening round of the NBA playoffs. Both players are key offensive leaders for their teams, and the matchup is expected to be a focal point of the series. The preview highlights the contrast in experience and playing style between the two stars.",
+          "key_points": [
+            "LeBron James leads the Lakers; Shai Gilgeous\u2011Alexander leads the Thunder.",
+            "Their head\u2011to\u2011head matchup is highlighted as a marquee playoff storyline.",
+            "The series will test the veteran experience of James against the rising talent of Gilgeous\u2011Alexander."
           ],
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRWFwSjFxclE1S2J2TElpLXFPSjFvZG5Td0thbFR4eTJFZEhia1lrRWVLWVBqMmt0T3NwekpqWUJFSjRrR2pEeDFJYmFBbld0T2xnWjl3VVVoZzFoejFwYURWekQyU2prdTdIbWI4NnIxMHNCS1JzWVZaMENjZk9vQm9Qa1pnQ3FFY1NwV0VrTS1jdVR6a21GU3JMcEZNX0U?oc=5",
           "source": "Google News - LeBron",
@@ -331,89 +306,29 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "7fb29a1a193b",
-          "title": "Could LeBron James Retire After the 2026 NBA Playoffs?",
-          "original_title": "Could LeBron James Retire After The 2026 NBA Playoffs - Yahoo Sports",
-          "summary": "Yahoo Sports explores the possibility that LeBron James may announce his retirement following the 2026 NBA playoffs. The article discusses his age, career achievements, and the timing of a potential exit.",
+          "id": "7dee53103bca",
+          "title": "Injury Update: When Luka Doncic Might Return for Lakers\u2011Thunder Game 1",
+          "original_title": "When is Luka Doncic coming back? Injury update for Lakers-Thunder NBA Playoffs Game 1 - The Oklahoman",
+          "summary": "The Oklahoma City Thunder and Dallas Mavericks provided an update on Luka Doncic\u2019s ankle injury ahead of Game 1 of their playoff series. Medical staff indicated that a return is still uncertain, with the player undergoing rehab and evaluation. The timing of his comeback will affect the Mavericks\u2019 game plan against the Lakers.",
           "key_points": [
-            "LeBron will be 41 during the 2026 playoffs, prompting speculation about his future.",
-            "His extensive list of accolades fuels debate over when he might choose to retire.",
-            "No official statement has been made; the piece outlines factors that could influence his decision."
+            "Doncic\u2019s ankle injury remains under evaluation; no definitive return date.",
+            "Mavericks are preparing for Game 1 without confirming his availability.",
+            "His status could influence the competitive balance of the opening matchup."
           ],
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM29LakQzVnByWmt5d1RJaGptTENEMDJoMXAtTU1wUmdGTWttZk9CcW1lOVZuNDN0elczMS1EM2dnSldJRVVNM1NRdVFjWXJ3U3pOU0F2NHJTTXJabmJodW5FNTlMby1faXZqVEJTcTFCckExRnI3YnktTWc2MmhaQU5Ybw?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-05T03:11:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "1b2bff31e7fa",
-          "title": "SGA Says LeBron James Is \u2018Very Capable\u2019 of Making Noise in Thunder\u2011Lakers Series",
-          "original_title": "SGA knows LeBron James is 'very capable' of making noise in Thunder-Lakers series - The Oklahoman",
-          "summary": "Shai Gilgeous\u2011Alexander acknowledges LeBron James\u2019s ability to impact the Thunder\u2011Lakers playoff series. SGA emphasizes respect for James\u2019s experience and potential to influence games.",
-          "key_points": [
-            "SGA publicly praised LeBron\u2019s capability to affect the outcome of the series.",
-            "The comment highlights mutual respect between the two star players.",
-            "It adds narrative intrigue to the upcoming matchup."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQVFZdFFrWTlQbkh5VGlyWVNMbDFoQjdJY1AyVUZRd3dLdmYwWTBRZVBGdG5RRERmR1JZZXlnU1JCY3p2bzB4NnowVXlfYUNiT1dDM0RfTVp4Y1puLV9YYS1Hd3lWTWtMbjZEYUpnV29ibUpadzEtUG53bkJjeC1keGt1a25yd0MyNHl3d1ppeWFRN2o1Q2ZxQjNwcWJ0eXB3dXd0NlJCVmVXVnhNbmVGdHdiMHJnSWhjNGlhRGplaVJZWnVHMkZ5MDR3WjBobE1oc1ZiNnR1UUl3R1A4cnd4WXJsLUJsMzBjbjZn?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-05T02:29:57+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "b5a85aa31e28",
-          "title": "Rich Paul Says Former NBA Stars Discourage Kids From Signing With Klutch Sports Over LeBron Disdain",
-          "original_title": "Rich Paul Reveals Ex-NBA Stars Stopping Kids From Signing With Klutch Sports Over LeBron James Disdain - Yahoo Sports",
-          "summary": "Rich Paul reveals that some former NBA players are advising young athletes against joining Klutch Sports because of perceived resentment toward LeBron James. The claim points to internal tensions within player representation circles.",
-          "key_points": [
-            "Ex\u2011NBA players allegedly warn prospects about Klutch Sports due to alleged LeBron\u2011related issues.",
-            "Rich Paul, Klutch\u2019s founder, addresses the rumors and defends his agency.",
-            "The story underscores the influence of star players on agency reputations."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05cDhxZUJJVGEtYmlzaGJsWlNLV3hsWndUV211R2hKNTRTM2NsTFRhYmx0QkFaM1VFdjF6X1lWOFA1Rkl6YXNSQXc3T1JrTGRpSkFQMWxsaEV5QWNGamNFTS1uLVV0Vi1RdUYyQzh4WEpVb1lJZHpfVS1FMjVuQQ?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-05T02:20:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "2cb13a2ba22e",
-          "title": "Lakers Rule Luka Don\u010di\u0107 Out for Game 1 at Thunder",
-          "original_title": "Lakers rule Luka Doncic out for Game 1 at Thunder - WJOX-FM",
-          "summary": "The Los Angeles Lakers have announced that Luka Don\u010di\u0107 will miss Game 1 of the series against the Oklahoma City Thunder. The decision is due to an injury concern, affecting the Lakers\u2019 lineup for the opening contest.",
-          "key_points": [
-            "Luka Don\u010di\u0107 is unavailable for Game 1 against the Thunder.",
-            "The Lakers must adjust their rotation without their primary scorer.",
-            "The injury status could impact the early dynamics of the series."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYmpNelJ5SVhFbjlZSllxV0U5dTRydFR4Q01RZnVCZ0dVR3ZsclRIYXNmWTlDUUEzLXhxaTZyc3h2bVBXWmVudExGNS1kRHNEekxjeDNvMUdwLW9JcGJMd1FsbWNUVUhUZzNUdDU0UFFKVWdiSU9CeWl1Tm80SWlfQi1NZ0tOU3BsYXVj?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRzY2LXBTUzJBMExMbnJuTXU3V1IwcUY3MWhFTGcyamVoc0dLaWdxN3Zadm95ZnhNdGFqQ2wxRTI5YVUwUUxHbHhNNGlYOVdKVFVkdk51TENwaldQSnBJZ1VzWUtYWmFJdGswc3hGZ01EbGVWQ2lMZWswT3FKSS1MSno0UGJFQUFuOWdYaFpQMFJNVUE2RU5CTWcxRXdWTExWVFB2dEtJZDN2dUpFeTFpbURVR2ttRnhoQmpEVlNBR3Z2XzI1bXM0MEprTVBfNElHX2hTOQ?oc=5",
           "source": "Google News - Luka",
-          "published": "2026-05-05T01:32:29+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "61c44f74ee03",
-          "title": "LeBron downplays billionaire status in resurfaced video",
-          "original_title": "LeBron downplays billionaire status in resurfaced video - MARCA",
-          "summary": "A resurfaced video shows LeBron James commenting on his financial standing, where he downplays the notion of being a billionaire. The clip, originally posted by MARCA, emphasizes that James prefers to be recognized for his on\u2011court achievements rather than his wealth.",
-          "key_points": [
-            "LeBron James addresses rumors about his billionaire status.",
-            "He stresses that his focus is on basketball and legacy, not net worth.",
-            "The video was originally published by MARCA and has recently resurfaced online."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOWRQWXhUT0QzRE12b055bU15WTRMZUdOcUFONnlqRzg3VDVEcUh6NEYtLWtfUldZS1hmNDV5NjU0VmdZYXN1X3JUM180WDhDUlJOSVZnZEl4MnIwZ2R4Yk9USmhMNXNTcV82cDdIMWtwRnBpV2k2TmRJajhLVlh0ZlNCWUpsT0RKSTc0WFB4WlNrdk01SHpydThPSEo5dzBETWVhMFpiUlRER1RESUxKdFhiTzZySUZBeVBWUUJRbHFES09NMHBJdXd30gHKAUFVX3lxTE9MRlpqMlA4a2d1Z0JqTHhHMEJVYU5jckFLUXptRjFJMm9aemlPUF92VUphVGFvNmk4enVWYTdoSVlrWGZpOC0tWEZlOXhBMmtNR2ZLWGJoZ3JvTjUtaUE2OXNVOXV5bHFFdU5EdFZXUnl5NU1zdE15QmVaNlJ0d1RyWkdibE84M2JlRU5UUTBfYy1MZmNERzNsandoNXFTeHlvMlBqT1hrN2VXb0JUdTRUQ2dYMHVoa2F0aXlCZ3g2ZG1vUUx0c1I0Wnc?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-05T00:06:00+00:00",
+          "published": "2026-05-05T02:42:00+00:00",
           "topic": "Lakers Players"
         },
         {
           "id": "1892fed4cefa",
-          "title": "Luka Don\u010di\u0107 ruled out day ahead of Lakers\u2011Thunder Game 1",
+          "title": "Luka Don\u010di\u0107 Ruled Out One Day Before Lakers\u2011Thunder Game 1",
           "original_title": "Luka Don\u010di\u0107 ruled out day ahead of Lakers-Thunder Game 1 - Yahoo Sports",
-          "summary": "The Dallas Mavericks announced that Luka Don\u010di\u0107 will miss Game 1 of the Western Conference first\u2011round series against the Los Angeles Lakers due to a lingering injury. The decision was reported by Yahoo Sports, leaving the Mavericks without their star player for the opening matchup.",
+          "summary": "Yahoo Sports reported that Luka Don\u010di\u0107 was officially ruled out of the first playoff game against the Los Angeles Lakers, just 24 hours before tip\u2011off. The decision follows ongoing concerns about his ankle injury. The Mavericks will need to adjust their strategy without their primary scorer.",
           "key_points": [
-            "Luka Don\u010di\u0107 is out for Game 1 against the Lakers.",
-            "Injury concerns prompted the Mavericks to sit him out.",
-            "The news was confirmed by Yahoo Sports the day before the game."
+            "Don\u010di\u0107 confirmed absent for Game 1 due to ankle issues.",
+            "The ruling came a day before the scheduled start of the series.",
+            "Dallas must rely on other players to fill the scoring void."
           ],
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQW02SUJHa2E4WUlhUERuVGtDSGxORVJmblhkMllPV252djNBRGFKTDBQUnR1NDRXWEtTVXEyb0NtTWpvSlRyelctdklzODRpV2dJOWJscTBycEZad2xvaFNrU2E5aHRHMERQaHhyNVNmU1c4MW5xMXI3aGdhbDNyVnB5VVZDOWdZZzA4R3ZQZlo1c1puazNxQ3dRVHVuV291clAxOVJ1MktVWlR2RnVHaTVWNjBnRFVJV09UMWJUVQ?oc=5",
           "source": "Google News - Luka",
@@ -422,13 +337,13 @@
         },
         {
           "id": "c70aedadd105",
-          "title": "Luka Don\u010di\u0107's Lakers\u2011Thunder Game 1 status officially revealed",
+          "title": "Luka Doncic\u2019s Game 1 Status Officially Confirmed by OKC Thunder Wire",
           "original_title": "Luka Doncic's Lakers-Thunder Game 1 status officially revealed - OKC Thunder Wire",
-          "summary": "OKC Thunder Wire released an official statement confirming Luka Don\u010di\u0107's unavailability for Game 1 of the Lakers\u2011Thunder series. The clarification follows earlier speculation about his health and lineup status.",
+          "summary": "The OKC Thunder Wire released an official statement confirming Luka Doncic will not play in Game 1 of the Lakers\u2011Thunder playoff series. The announcement cited medical clearance that was not granted. The Mavericks will enter the series without their All\u2011Star guard.",
           "key_points": [
-            "Official confirmation that Don\u010di\u0107 will not play in Game 1.",
-            "The announcement came from the OKC Thunder Wire outlet.",
-            "The update resolves prior uncertainty surrounding his condition."
+            "Official confirmation that Doncic will miss Game 1.",
+            "Medical staff did not clear him to play.",
+            "Mavericks face the Lakers without their leading scorer in the opening contest."
           ],
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbG1Bc3VNWTNQUFFSblRreWIwZXNGX1VFeVpNRC04dldxTDE1V0xZR1dVb1p1YndORG1JWWpDbzdnTGhmNFRNVWFpOXBWNmpFODZNWlQ1em13OXQ4UlYxWlhZSFNYTkhYZDREeW5MclpEYklNUnN1bXhRRXRmVW5ONnIxSGtNZXFTZml5SDdwbHNGbnFWWjBwRXVDTDZ6cGFqV1Nvc1VIbFBZcUk5b0RRYTVrYXBaSUQ2MUVRV3ZzdWctdm5weDhYcnpPM25keV9VcFoxTmk2dkQ3UjVYSVE?oc=5",
           "source": "Google News - Luka",
@@ -436,33 +351,58 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "951fd03eeefd",
-          "title": "Luka Don\u010di\u0107 Game 1 status for Lakers vs. OKC Thunder confirmed",
-          "original_title": "Luka Doncic Game 1 status for Lakers vs. OKC Thunder confirmed - BasketNews.com",
-          "summary": "BasketNews.com reports that Luka Don\u010di\u0107 will miss the first game of the Western Conference playoff series between the Los Angeles Lakers and the Oklahoma City Thunder. The confirmation aligns with earlier reports from other outlets.",
-          "key_points": [
-            "Don\u010di\u0107 is confirmed absent for Game 1 of the Lakers\u2011Thunder series.",
-            "BasketNews.com corroborates earlier injury reports.",
-            "His absence could impact the Mavericks' early playoff performance."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZXpwSnFxa0lra2RrS0Q1VlhGeHdvWjRiT1VTVkdfc0pGVmFFblhkMlU0NDllSVZ5aUk2ay1yb0tVTC1BMXZmN25nVGFycW5uNkVWaEE2WThfUW5ZMVBtemUtdlNfRnlqX1A0UURsWGM5ZGZoaDBjeFBLY3FhNzdWc2VuMkFReGZHckZiNW1HTEY0TWVobEZwQg?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-05-04T22:31:00+00:00",
+          "id": "8c1dd14c1696",
+          "title": "\u2018Let\u2019s F***ing Go\u2019 \u2014 NBA Analyst Proposes Wild LeBron James, Stephen Curry, Kevin Durant, Klay Thompson Super-Team - PFSN",
+          "original_title": "\u2018Let\u2019s F***ing Go\u2019 \u2014 NBA Analyst Proposes Wild LeBron James, Stephen Curry, Kevin Durant, Klay Thompson Super-Team - PFSN",
+          "summary": "\u2018Let\u2019s F***ing Go\u2019 \u2014 NBA Analyst Proposes Wild LeBron James, Stephen Curry, Kevin Durant, Klay Thompson Super-Team&nbsp;&nbsp;PFSN",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ0VuWjFjb0xWUUtFS2w5eVhOZEpoaFNaeGkya0RXS0dJYkRlZkVTcVV4bVZOX1hucDZaa0cyUVg2RFFBMVFrRC0xQnNSMk1MemlYXzI3TDNnakg3aUpsc2IyNThUaTBoVXV3ekhLLXdsM3dtR29rcm1lYkpNUlkzSDFyZmt5THpZb0w1RXdleXhTRTVhXy1ZQ3VaOTVuTjgwQlBJQnV6bmxsX1l0OXBrTWQwNm1BZVNWS2c?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-04T22:33:21+00:00",
           "topic": "Lakers Players"
         },
         {
           "id": "0f791fcb91cd",
-          "title": "How beating LeBron James would boost Shai Gilgeous\u2011Alexander's legacy",
+          "title": "How beating LeBron James would help Shai Gilgeous-Alexander's NBA legacy - OKC Thunder Wire",
           "original_title": "How beating LeBron James would help Shai Gilgeous-Alexander's NBA legacy - OKC Thunder Wire",
-          "summary": "OKC Thunder Wire examines the potential impact on Shai Gilgeous\u2011Alexander's NBA legacy if he defeats LeBron James and the Los Angeles Lakers in the playoffs. The article argues that a victory would enhance his reputation as a clutch performer and elevate his standing among league peers.",
-          "key_points": [
-            "A win over LeBron and the Lakers could significantly raise SGA's legacy.",
-            "The article highlights the narrative value of beating a high\u2011profile opponent.",
-            "It frames the matchup as a pivotal moment for SGA's career perception."
-          ],
+          "summary": "How beating LeBron James would help Shai Gilgeous-Alexander's NBA legacy&nbsp;&nbsp;OKC Thunder Wire",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVmdFZVVhTTlwUGttRUJtSEZoZmV1d3pBN2lRRDlJMVZ2UGltMHQyNEY0UzFwQ2R3YWxKUGRBNWgtbDljUlJPV3UxNzhGaE16VXBsb09DMEd6Ty1NYlo1eVRZVVlrZGY5Zi1pN1UyUzJzMy1ZWEtsZElwTllCc3lKeEtIVmViUU9zZExYQmYyTUNCdmk4MS1GRXlpLVo5MTJoVkJTclJlSG05dW1mSTktd0VYcnpnZl9FOXRuWnJTSm1tbm5TcEJRRXR2VnpBekw3ZU5oUmJ5Q3FFVF9ndEFTaTUtbU5vRnFyR0piMg?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-05-04T21:02:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "05959d7f3c0c",
+          "title": "Father of Time? OKC Thunder knows LeBron James playing at elite level at 41 - The Oklahoman",
+          "original_title": "Father of Time? OKC Thunder knows LeBron James playing at elite level at 41 - The Oklahoman",
+          "summary": "Father of Time? OKC Thunder knows LeBron James playing at elite level at 41&nbsp;&nbsp;The Oklahoman",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbzBuRXN3WW5CYWplc1FnRXViWU01ZjNfYUpGbTduLVRvOWZJdm9ieFlaLTJBRks3S1g0LWlLeXlwQXNfTGhfelJuMm93S2VaRnZSWkZFZS04a2xsSk9CMjZ1OXUySHRndk9oaFBWbXNaeW1YSi1SVTM0Vl85VHZYY0VUWHY5YlZwblkta19ZdmxyZVlDbWxGNkctRkpFOXZ0cDltWnh1VEh2OHh4eURvd1hRbWRFc1VDaTY2by1qUFJFMGdtWVgySFlqeDRaSVZSZ1Bpd19BbE5VUUNjeUlFNEFjQ3E1cFhxbU5PelNsTENCYU1PUkE?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-04T20:55:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "82d08dccc80b",
+          "title": "Luka Doncic return looms as Lakers and LeBron James receive update for the series against the Thunder - MARCA",
+          "original_title": "Luka Doncic return looms as Lakers and LeBron James receive update for the series against the Thunder - MARCA",
+          "summary": "Luka Doncic return looms as Lakers and LeBron James receive update for the series against the Thunder&nbsp;&nbsp;MARCA",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQb0h0QmFoV3VoTU5SSWkza3hWam9PT1pQSjVlWGQ5T2IwLV8tMm9od2V0NUJRR1NpaGdTd2ViWTRHa2I2T1pqZ21fVXB4bW1Fcm1OUm1tTmVaWGcya1NRU0dyZWhOcGZlTkFtQTVyLXBNMTNCYzJ0aWhoT0Y2REkxaG5tZmdib2JGOFM3OG1RdXpCYjJya3ozNFlYek9VeklqY3BUbFZEdi1CdV9CcmlONUZJaGZ4S0ZXb3lVcXNCZkpmYXJpYXhWcnh6LWE3NDlLTU9seDI0bDNwUFhETl83UzJ5UVVVNGs2N1BEWWpxUk4wV1JDaURsTTd1YXJJU24tLUJWVjNsNNIBhwJBVV95cUxNVlF3MUVER2dmS1E3TlB3ZllHNDFMUUtmb3ZrM2czU2RHZzVjeG9GXzAzbVc1NGZRSklwQU02MG13d3FteW9iOWNJQUxydjNvN2FlV3l6WF9aREdFajViRkFHRHRtUTh3clRvU0tPYVhUajgyRVdaSjdXa01wLUwxOVRIeGVNZE96OXdfVWtmSnYwcXNnVFBSMjl3azVYanJVbEZ3UWVlclJ5ekozdmhEeENzb1VIM1IzRXFUMExYZWVJWHh3cEZGSUJCRDB3S3hmRkVPTDNuZ1FNRVVvTE81RUNINWdZSWNFdGJLdmU0Nl95UWdNWG5DUGc0QURoWUcyRUtfb21WMA?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-05-04T20:02:32+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "5c0bb8d158a1",
+          "title": "LeBron James is now the oldest player to lead a playoff series in scoring - HoopsHype",
+          "original_title": "LeBron James is now the oldest player to lead a playoff series in scoring - HoopsHype",
+          "summary": "LeBron James is now the oldest player to lead a playoff series in scoring&nbsp;&nbsp;HoopsHype",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUGctMjNYMjNrOU9yQWdCeUFLS1FHbkV0TkVUU2lXNnFLbVBETC1UT2ZCUU9BRC1qNUJDTWpDcVlzaWo2NHZrbHlQVDZ6WHd6eGx6Q2JyVWw5LVpVVDhPczVKYzZXLWd6QmI5MER0aUliaVQ4T0hOM3U2b3hQbTRwX1FPWkxoMXF4SEVrS3pWeDNQcDFOSVY1Zk9jaVRxUXFNaG1VVEdrQW9TdW5VU0RzdWdZaEdUdjFNdnhfdS1YT3hQNVdkY1dMd0wxOA?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-04T19:47:00+00:00",
           "topic": "Lakers Players"
         }
       ]
