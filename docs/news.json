@@ -1,19 +1,104 @@
 {
-  "generated_at": "2026-05-06T21:22:00.916241+00:00",
+  "generated_at": "2026-05-06T23:12:47.463523+00:00",
   "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
-          "id": "0c956473f206",
-          "title": "Luka Doncic Begins Running but Still Not Cleared for Full Contact",
-          "original_title": "Luka Doncic Has Begun Running But Still Not Cleared For Full Contact",
-          "summary": "The Los Angeles Lakers remain without Luka Doncic for the postseason after he suffered a left hamstring strain at the end of the regular season. Although he has started light running, medical staff have not given him clearance for full-contact practice, making his return during the playoffs unlikely.",
+          "id": "371bb992a34c",
+          "title": "Jarred Vanderbilt doubtful, Luke Kennard questionable for Game 2 vs. Thunder",
+          "original_title": "Jarred Vanderbilt doubtful, Luke Kennard questionable for Game 2 vs. Thunder",
+          "summary": "While losing Game 1 against the Thunder was tough for the Lakers, winning Game 2 won\u2019t get much easier. The team released its injury report ahead of their next contest, listing Jarred Vanderbilt as doubtful and Luke Kennard as questionable. For Vando, not being automatically ruled out is actually good news. He suffered a gruesome [&#8230;]",
+          "key_points": [],
+          "link": "https://www.silverscreenandroll.com/lakers-injury-report/116546/lakers-injury-report-jarred-vanderbilt-doubtful-luke-kennard-questionable-2026-nba-playoffs-status-update-luka-doncic-thunder",
+          "source": "Silver Screen and Roll",
+          "published": "2026-05-06T22:29:38+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "1101f09a284c",
+          "title": "Which of you is this",
+          "original_title": "Which of you is this",
+          "summary": "      &#32; submitted by &#32;  /u/shandefardigoyim   [link] &#32; [comments] ",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/lakers/comments/1t5s281/which_of_you_is_this/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-06T22:27:13+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "913bdedd2ab0",
+          "title": "Thunder shirts revealed ahead of Game 2 against Los Angeles Lakers - KOCO",
+          "original_title": "Thunder shirts revealed ahead of Game 2 against Los Angeles Lakers - KOCO",
+          "summary": "Thunder shirts revealed ahead of Game 2 against Los Angeles Lakers&nbsp;&nbsp;KOCO",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY2NuZWk5bmRid1JnV3NBcGhPVHNOOXZBZVYybzFiank0ekxDSG9JS1R3cFdBNV81MnAtYVdSODhTZzg0YWp6V1RCSmQweWlsSUotQjdiQlpSbEpiUlduT1BEN3NQa0VoZm9USDdadkV0WnpHcE9GblBwN1lZaC00WUJDWVh3T3RjZkhsRDFVOUpUbVUyakc2OFk2NVk3TTY5c0VtSg?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-06T22:21:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "ac01832ca26a",
+          "title": "Los Angeles Lakers Announce Intriguing Injury Report For Thunder Game - heavy.com",
+          "original_title": "Los Angeles Lakers Announce Intriguing Injury Report For Thunder Game - heavy.com",
+          "summary": "Los Angeles Lakers Announce Intriguing Injury Report For Thunder Game&nbsp;&nbsp;heavy.com",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbGJXMHIyUFFMOUxNVWpmaVRza3lLYjdoLTBFVXJ1aTF2Q1lqMm95VHpsSGFuU25mcEtIYl8xRkJ0OEpnU2l2cWdZdm5XV1JKRDRtVXdEQktEeWZ2SHViSVdPTkRxeE1UUW5xYW1jX0thNUhVeUhiWFkzYnZiVnBnSmhub3J0WGdVWmt0TnZjRXpmd2Z6WGlFeU5YMmxtb2xHUms0?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-06T22:15:03+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "e01ad2a06167",
+          "title": "Lakers Injury Report: Luke Kennard And Jarred Vanderbilt Possibly Missing Game 2 Vs. Thunder",
+          "original_title": "Lakers Injury Report: Luke Kennard And Jarred Vanderbilt Possibly Missing Game 2 Vs. Thunder",
+          "summary": "The Los Angeles Lakers are trailing in a series for the first time in the playoffs this year and now face the prospect of being more shorthanded than already expected for Game 2 against the Oklahoma City Thunder. Luka Doncic remains out as he tries to recover from a Grade 2 left hamstring strain, Luke [&#8230;]",
+          "key_points": [],
+          "link": "https://lakersnation.com/lakers-injury-report-luke-kennard-beck-jarred-vanderbilt-finger-possibly-missing-game-2-thunder/",
+          "source": "Lakers Nation",
+          "published": "2026-05-06T22:09:48+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "ec02280fc668",
+          "title": "Lakers\u2019 Injury Report for Game 2 vs. OKC",
+          "original_title": "Lakers\u2019 injury report for Game 2 vs. OKC",
+          "summary": "The Los Angeles Lakers released their injury status ahead of Game 2 against the Oklahoma City Thunder. The report lists players who are questionable, doubtful, or out, giving fans a clear picture of the roster available for the matchup.",
           "key_points": [
-            "Doncic suffered a left hamstring strain in the final regular\u2011season game.",
-            "He has started running but is not yet cleared for full-contact drills.",
-            "His availability for the upcoming playoff series is doubtful."
+            "Specific players\u2019 health designations (e.g., Q, D, O) for Game 2.",
+            "Potential impact on the Lakers\u2019 rotation and minutes distribution.",
+            "No major new injuries reported beyond existing list."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1t5rk5q/lakers_injury_report_for_game_2_vs_okc/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-06T22:07:51+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "e1961110da46",
+          "title": "Ric Flair Faces Backlash for Comments About Injured Lakers Star Luka Don\u010di\u0107",
+          "original_title": "Ric Flair gets backlash for ripping injured Lakers star Luka Doncic - USA Today",
+          "summary": "Former wrestling star Ric Flair was criticized after making remarks that appeared to mock Luka Don\u010di\u0107\u2019s injury situation. The comments sparked a wave of negative reactions on social media and from NBA observers.",
+          "key_points": [
+            "Flair\u2019s remarks were perceived as insensitive toward Don\u010di\u0107\u2019s hamstring injury.",
+            "Fans and media quickly condemned the comments as inappropriate.",
+            "No official response from the Lakers or Don\u010di\u0107\u2019s camp was noted."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN25xNXU0eGtkNHNRY3R1QWQyTnhvXzUzdlEzR0pKZFp0dUZpeTZvc3BDODZxVERFcHQ3T0ltTHBpRlVJY25tRDBXaW1IN1J0X1FsRXpqVTdDSHRFTGVCQi1vVVBoZDBkdWJadVlKYUVlbjBVZW91Q3FQQUEzLWZQM2hBSmVoOVlSQUZaWFp4NlJKcS1tQmx0R1JJOTNuUzVwOHdBS3JWdml2Nlk?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-06T21:05:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "0c956473f206",
+          "title": "Luka Don\u010di\u0107 Begins Running but Not Cleared for Full Contact",
+          "original_title": "Luka Doncic Has Begun Running But Still Not Cleared For Full Contact",
+          "summary": "Luka Don\u010di\u0107, who suffered a left hamstring strain at the end of the regular season, has started light jogging but remains unavailable for full-contact play. The Lakers\u2019 postseason hopes are dampened as his recovery timeline remains uncertain.",
+          "key_points": [
+            "Don\u010di\u0107 is limited to non\u2011contact activity and has not received medical clearance for games.",
+            "His hamstring strain continues to sideline him for the playoffs.",
+            "The Lakers must adjust their lineup without their star player."
           ],
           "link": "https://lakersnation.com/luka-doncic-has-begun-running-but-still-not-cleared-for-full-contact/",
           "source": "Lakers Nation",
@@ -21,118 +106,33 @@
           "topic": "Lakers News"
         },
         {
-          "id": "6a8ad2981805",
-          "title": "Luka Doncic Calls Playoff Injury 'Very Frustrating'",
-          "original_title": "Luka Doncic says being injured during Lakers' playoff run has been 'very frustrating' - CTPost",
-          "summary": "Luka Doncac expressed frustration about being sidelined during the Lakers' playoff run, describing the situation as \"very frustrating.\" The comment underscores his disappointment at missing critical postseason games due to injury.",
+          "id": "ab8d82ec1abf",
+          "title": "Lakers Warned Over Austin Reaves Contract Situation After Game 1",
+          "original_title": "Lakers Strongly Warned Over Austin Reaves Contract Situation After Game 1 - heavy.com",
+          "summary": "Following Game 1 of the postseason, the Lakers received a strong warning from league officials regarding the handling of guard Austin Reaves\u2019 contract. The issue centers on compliance with salary\u2011cap and contract\u2011extension rules.",
           "key_points": [
-            "Doncic is unable to play because of a hamstring injury.",
-            "He publicly stated his frustration with the timing of the injury.",
-            "The comment highlights the impact of his absence on the Lakers' playoff aspirations."
+            "League officials flagged potential violations in Reaves\u2019 contract negotiations.",
+            "The warning could affect the Lakers\u2019 roster flexibility moving forward.",
+            "No penalties have been imposed yet, but the team must address the concerns promptly."
           ],
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRG9aRXVNR253NXFvSWIwQVZvWkdkaTNOOG5VMEdRbzJETURGRFp3dFFPVU5pWDJ3UDNzQnNkV3c4MUx4OGVTM2dtbWFadnZyN1JYOW03cWhVeEZLaGMyU19jUVIyMml2UVpVeUFiSzJWLVFFNFpYcnlNOUo5SkwwUTRiYTlhNGRUNElVa0pHRnB3dDE1SFV0dGpyYw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ3BDV3BaYl9rNTk4M0lRTUw1MmUtWUdOQmVRUVZsYzJMdERIcWZGaC00aVIzTXNUXzkta0hESHBrSUtjVEZGdGFicWxjbGtkY0hpUks2emgxZWE4SUgxS1V5LUZ5a0FTNm5jb3FLcjVOUEE2WS02bGtuWlRLOFJLOExrTjA3bHprWVhrUmZ3?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-05-06T20:53:44+00:00",
+          "published": "2026-05-06T20:46:01+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "31de140be99d",
-          "title": "Ayton and Rui Stepped Up in Playoffs After Fan Criticism",
-          "original_title": "These two got fried the most by fans during the regular season but stepped up for the playoffs. Respect to Ayton and Rui",
-          "summary": "Two players, Deandre Ayton and Rui Hachimura, who were heavily criticized by fans during the regular season, delivered strong performances in the playoffs, earning respect for their contributions. The Reddit post highlights their resilience and improved play when it mattered most.",
+          "id": "38d04abbcfe4",
+          "title": "Luka Don\u010di\u0107 Calls Playoff Injury \u2018Very Frustrating\u2019",
+          "original_title": "Luka Doncic says being injured during Lakers\u2019 playoff run has been \u2018very frustrating\u2019 - WKBN.com",
+          "summary": "Luka Don\u010di\u0107 expressed his frustration about being sidelined with a hamstring injury during the Lakers\u2019 playoff run. He emphasized how the setback hampers both his performance and the team\u2019s championship aspirations.",
           "key_points": [
-            "Both Ayton and Hachimura faced intense fan scrutiny during the regular season.",
-            "They elevated their games in the postseason, providing key minutes and production.",
-            "Their performances helped the Lakers stay competitive despite earlier criticism."
+            "Don\u010di\u0107 described the injury as \u201cvery frustrating\u201d for himself and the team.",
+            "The comment highlights the impact of his absence on the Lakers\u2019 playoff competitiveness.",
+            "No new timeline for his return was provided."
           ],
-          "link": "https://www.reddit.com/r/lakers/comments/1t5p8bw/these_two_got_fried_the_most_by_fans_during_the/",
-          "source": "Reddit r/lakers",
-          "published": "2026-05-06T20:41:50+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "e38600619c73",
-          "title": "Lakers Guard Luka Doncic Frustrated and Unsure of Return",
-          "original_title": "Lakers G Luka Doncic frustrated and unsure of return - Reuters",
-          "summary": "Reuters reports that Luka Doncic is frustrated with his injury situation and remains uncertain about when he will be able to rejoin the Lakers. The lack of a clear timeline adds to the team's challenges heading into the playoffs.",
-          "key_points": [
-            "Doncic's hamstring injury continues to keep him out of action.",
-            "He expressed frustration over the uncertain recovery timeline.",
-            "The Lakers must navigate the playoffs without their star guard."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQk5vdTc0STd6NlhuYmJOOTI3eU5sS1pjcTNHVGJxWVh5TTZBN184TTc2NUJRQXRLLS1YdmxacTNUbWhLNm9UbVpnUEJZN0t6YWxFaU53MVV6R1h6bVdoWXlzY2NrcW9mVDBSMmhfQm9FSFg2Z0NrUkZMYWltSWlGaUJEeDhjWlQ3NzdsempIY09LOUJiTmpCTg?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONGg5c09CRTVUZUI5WWlzQzZ4Ti1nVnk4Wm56c0QyYTZlZGtlb2ZTckxKRUxERnhrOEYxQmg4QTdjcURkY003X1ZvNS1hcExFMzVvaU9ZOXhIdUZEcXpfNjBITDhURWpOZV9oeGRRSW1qUEJJWEFMdm9BS0pQYkZva01BUTdiZzB0WUtQMm9DY1VTRG0zYkFiSkpKRzIxS0t1cHdpcXc4WHFtcUN5bWtyMXJSbThxUFFDX1VFdnRjcHExUdIBxwFBVV95cUxOT3BZNlNqbUIwOTZvUm5WdkYzOEZqWXJFOTFDZk9BbV9iYWx5NTZPb0pyN2hMeS12WkVzalBvN1pFLU5TTDdIQkNzOG1pTE41Q2dFdjVieVVESTdBazVOdjlEaDJtMkxPOHBqU0pWbkZFZnhEQThHRV9tLW1DUW42dUtDd2RGbHVsRS1zeXNySTVlQjNVd0xxR1hkcTA3UFVDNXBXRWRLa281Q3VHbmNuWEdKU0hsTE5ZMGlYX1lWMUF5dHBPWlA0?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-05-06T20:21:43+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "e7edade6e812",
-          "title": "Luka Doncic Gives Expected Return Timeline Ahead of Thunder Game 2",
-          "original_title": "Luka Doncic Reveals Expected Return Timeline Before Game 2 Against Thunder - Yahoo Sports",
-          "summary": "Yahoo Sports reports that Luka Doncic outlined an anticipated timeline for his return before Game 2 against the Oklahoma City Thunder. While he did not commit to a specific date, he indicated progress toward a possible comeback later in the series.",
-          "key_points": [
-            "Doncic discussed his rehabilitation progress before the Thunder matchup.",
-            "He suggested a potential return later in the series, though no exact date was set.",
-            "The update offers a glimpse of hope for the Lakers' playoff outlook."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNUlHOXIxLUpyU2hBX2VXaWpYSVltTzFPLTVtRVY3dTB2Qjc1Y25Na3NueWFRUlVVTmtBX2VYNjBDNk9HaHhuemRLbEthQnBNeGxnXzJtTURFMVVrU3FhTnAxQi1DODR3aUVndzNHc2ZWOHJMWjU5SEhHdHBNY2FVTkd4d0pVTkVzaFgteg?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-06T20:21:08+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "2d36fa9d3b5c",
-          "title": "Sad, but true \ud83d\ude02",
-          "original_title": "Sad, but true \ud83d\ude02",
-          "summary": "      &#32; submitted by &#32;  /u/dragonballa   [link] &#32; [comments] ",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/lakers/comments/1t5ocxm/sad_but_true/",
-          "source": "Reddit r/lakers",
-          "published": "2026-05-06T20:10:23+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "4589c9477bfa",
-          "title": "I\u2019d rather see Bronny on the court than Laravia",
-          "original_title": "I\u2019d rather see Bronny on the court than Laravia",
-          "summary": "I think Bronny deserves Laravia\u2019s minutes. Laravia is a lost puppy out there committing turnovers out of intimidation, Bronny has great upside as a perimeter defender this series  &#32; submitted by &#32;  /u/AintNoPolititian   [link] &#32; [comments]",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/lakers/comments/1t5nvja/id_rather_see_bronny_on_the_court_than_laravia/",
-          "source": "Reddit r/lakers",
-          "published": "2026-05-06T19:53:40+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "2b5ed92cf381",
-          "title": "LeBron doing it all for Lakers in postseason - NBC Sports",
-          "original_title": "LeBron doing it all for Lakers in postseason - NBC Sports",
-          "summary": "LeBron doing it all for Lakers in postseason&nbsp;&nbsp;NBC Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ0k1blpZVVdxNlJWQS1POG8xeGRuR0pJV2RvUHB4UUtPbGRLblBwdkM2VDlydnlVMGRjUTU1cWtnc2hfa0g3eC1ad3o4X2ducW1yTGRzYWRvR29nT2RCOXdYVFR5Y2N5U2hGczFZNHNibWJDTnd3djhyTnVZazBNcllPVFQ1U09oYjhSbGdJdFJfNnRpX1JwMDdoNWhsNW1rRTJWdFRObTJ2SjQ?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-06T19:52:06+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "faf503070619",
-          "title": "LeBron James Defends Austin Reaves After Rough Game 1 Vs. Thunder",
-          "original_title": "LeBron James Defends Austin Reaves After Rough Game 1 Vs. Thunder",
-          "summary": "Despite being massive underdogs, the Los Angeles Lakers remained competitive for much of the night with the Oklahoma City Thunder in Game 1 of their second-round playoff series. LeBron James was outstanding, but Austin Reaves struggled mightily, finishing with just eight points on 3-of-16 shooting in the 18-point loss. Reaves garnered a ton of criticism [&#8230;]",
-          "key_points": [],
-          "link": "https://lakersnation.com/lebron-james-defends-austin-reaves-after-rough-game-1-vs-thunder/",
-          "source": "Lakers Nation",
-          "published": "2026-05-06T19:50:37+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "f1a1b3834fb7",
-          "title": "Luka Doncic explains why he went to Spain for hamstring injury",
-          "original_title": "Luka Doncic explains why he went to Spain for hamstring injury",
-          "summary": "Because we live in a world of 24/7 media coverage, there\u2019s bound to be lots of really bad takes. The latest involved Luka Don\u010di\u0107 and his trip to Spain. After suffering his hamstring injury, Luka pretty quickly jetted to Europe for injections in hopes of accelerating his return to the court. However, as we now [&#8230;]",
-          "key_points": [],
-          "link": "https://www.silverscreenandroll.com/lakers-news/116516/luka-doncic-lakers-injury-hamstring-spain-brian-windhorst-prp",
-          "source": "Silver Screen and Roll",
-          "published": "2026-05-06T19:19:51+00:00",
+          "published": "2026-05-06T20:44:55+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -141,153 +141,153 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "1542d59997ae",
-          "title": "Stevens denies Brown-Celtics rift, says 'I love JB...'",
-          "original_title": "Stevens denies Brown-Celtics rift, says 'I love JB...",
-          "summary": "Brad Stevens dismissed reports of a rift between Jaylen Brown and the Boston Celtics, stating that Brown did not express any frustration toward the organization in a recent conversation. The veteran guard remains focused on the team\u2019s goals, and no internal conflict was confirmed.",
+          "id": "9333f7c9b485",
+          "title": "Knicks Lose Backup Center Mitchell Robinson to Illness for Game 2",
+          "original_title": "Knicks without key backup Mitchell Robinson in Game 2 because of an illness",
+          "summary": "Mitchell Robinson was sidelined with an illness for the Knicks' Game 2 against the Philadelphia 76ers, leaving both teams without a center. The 76ers also entered the game without Joel Embiid, who was ruled out with a sprained ankle and sore hip.",
           "key_points": [
-            "Stevens said Brown did not vent any displeasure about the Celtics.",
-            "Rumors of a growing rift were downplayed as unfounded.",
-            "The conversation suggests continued cohesion within Boston\u2019s core."
+            "Robinson's illness forced the Knicks to play without a backup big man.",
+            "Joel Embiid was unavailable for the 76ers due to a sprained ankle and hip soreness.",
+            "Both teams entered the matchup without a traditional center."
           ],
-          "link": "https://www.espn.com/nba/story/_/id/48694411/jaylen-brown-not-vented-frustration-celtics-brad-stevens-says",
-          "source": "ESPN NBA",
-          "published": "2026-05-06T21:47:53+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "1542d59997ae",
-          "title": "Cavs' Merrill undergoes MRI on left hamstring",
-          "original_title": "Stevens denies Brown-Celtics rift, says 'I love JB...",
-          "summary": "Cleveland Cavaliers reserve guard Sam Merrill underwent an MRI after injuring his left hamstring during the team's Game 1 loss to Detroit. The scan will determine the severity of the injury and his expected timeline for return.",
-          "key_points": [
-            "Merrill suffered a left\u2011hamstring injury in Game 1 versus the Pistons.",
-            "An MRI was performed to assess the damage.",
-            "Recovery timeline will be set after medical evaluation."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48694411/jaylen-brown-not-vented-frustration-celtics-brad-stevens-says",
-          "source": "ESPN NBA",
-          "published": "2026-05-06T21:47:53+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "1542d59997ae",
-          "title": "Bulls CEO: Graham hire a step in 'right direction'",
-          "original_title": "Stevens denies Brown-Celtics rift, says 'I love JB...",
-          "summary": "Chicago Bulls CEO Michael Reinsdorf took responsibility for the franchise\u2019s recent lack of success and praised the hiring of Bryson Graham as vice president of basketball operations. Reinsdorf described the move as a positive step toward rebuilding the organization.",
-          "key_points": [
-            "Reinsdorf accepted accountability for the team\u2019s performance.",
-            "Bryson Graham was hired as VP of basketball operations.",
-            "The hire is viewed as a constructive move toward future improvement."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48694411/jaylen-brown-not-vented-frustration-celtics-brad-stevens-says",
-          "source": "ESPN NBA",
-          "published": "2026-05-06T21:47:53+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "1542d59997ae",
-          "title": "Thunder roll past Lakers in Game 1 of West semis",
-          "original_title": "Stevens denies Brown-Celtics rift, says 'I love JB...",
-          "summary": "The Oklahoma City Thunder opened the Western Conference semifinals with a decisive win over the Los Angeles Lakers. Although Shai Gilgeous\u2011Alexander scored fewer points and turned the ball over more than any game this season, the Thunder maintained control throughout.",
-          "key_points": [
-            "Thunder defeated the Lakers to start the series.",
-            "SGA recorded a career\u2011high turnover count and lower scoring output.",
-            "Los Angeles struggled to contain Oklahoma City\u2019s balanced attack."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48694411/jaylen-brown-not-vented-frustration-celtics-brad-stevens-says",
-          "source": "ESPN NBA",
-          "published": "2026-05-06T21:47:53+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "1542d59997ae",
-          "title": "Pistons pull away from Cavs to take Game 1",
-          "original_title": "Stevens denies Brown-Celtics rift, says 'I love JB...",
-          "summary": "In Game 1 of the second\u2011round series, the Detroit Pistons beat the Cleveland Cavaliers 111\u2011101. Cade Cunningham led Detroit with 23 points, while Tobias Harris contributed 20 for the Cavs.",
-          "key_points": [
-            "Detroit won the opening game of the series, 111\u2011101.",
-            "Cade Cunningham scored 23 points for the Pistons.",
-            "Tobias Harris added 20 points for Cleveland."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48694411/jaylen-brown-not-vented-frustration-celtics-brad-stevens-says",
-          "source": "ESPN NBA",
-          "published": "2026-05-06T21:47:53+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "7f6cee87a4f9",
-          "title": "Embiid Out for Game 2 with Ankle and Hip Injuries",
-          "original_title": "Embiid out for Game 2 due to multiple injuries",
-          "summary": "Philadelphia 76ers forward Joel Embiid has been ruled out of Game 2 against the New York Knicks due to injuries to his ankle and hip. The loss removes the team's leading scorer and defensive anchor for the upcoming matchup.",
-          "key_points": [
-            "Embiid will miss Game 2 versus the Knicks.",
-            "Injuries cited: ankle and hip soreness.",
-            "Philadelphia loses its primary offensive and defensive option for the game."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48694635/76ers-star-joel-embiid-game-2-due-multiple-injuries",
-          "source": "ESPN NBA",
-          "published": "2026-05-06T21:47:52+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "193f4df9e8e1",
-          "title": "Luka Doncic Uncertain About Return Date After Hamstring Strain",
-          "original_title": "'Frustrating': Luka still unsure when he'll return...",
-          "summary": "Los Angeles Lakers guard Luka Doncic confirmed he still does not know when he will be cleared to play after suffering a Grade 2 hamstring strain in early April. The injury has kept him out of recent games, leaving the Lakers without their leading scorer.",
-          "key_points": [
-            "Doncic is dealing with a Grade 2 hamstring strain.",
-            "No definitive timeline for his return has been provided.",
-            "His absence continues to impact the Lakers' offensive production."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48695018/lakers-luka-doncic-unsure-return-injury",
-          "source": "ESPN NBA",
-          "published": "2026-05-06T21:47:52+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "ee28f124289e",
-          "title": "Wolves Coach Questions Validity of Wembanyama\u2019s 12 Blocks",
-          "original_title": "Swat attack: Wolves questioning Wemby's blocks",
-          "summary": "Minnesota Timberwolves head coach Chris Finch argued that at least four of Victor Wembanyama\u2019s 12 blocks in Game 1 should be considered goaltending. The comment highlights ongoing debate over the rookie\u2019s defensive impact and officiating consistency.",
-          "key_points": [
-            "Finch claims four of Wembanyama\u2019s blocks were illegal goaltending.",
-            "Wembanyama recorded a total of 12 blocks in the game.",
-            "The statement underscores scrutiny of defensive calls involving the rookie."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48687535/wolves-say-victor-wembanyama-goaltending-calls-being-missed",
-          "source": "ESPN NBA",
-          "published": "2026-05-06T21:47:52+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "49e5e8d50a9e",
-          "title": "Offseason Buzz: Updates on Durant\u2019s Ankle and Other NBA News",
-          "original_title": "\ud83d\udc1d Latest buzz ahead of the offseason, draft",
-          "summary": "NBA insiders share the latest offseason and draft developments, including an update that Kevin Durant continues to manage a lingering ankle issue. The report compiles reactions and speculation from multiple sources.",
-          "key_points": [
-            "Kevin Durant is still dealing with an ankle injury.",
-            "The article aggregates recent insider commentary on the upcoming offseason and draft.",
-            "No new decisions on Durant\u2019s health status or future team moves were announced."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
-          "source": "ESPN NBA",
-          "published": "2026-05-06T21:47:52+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "fdf9c6a02eb2",
-          "title": "Ric Flair Criticized for Mocking Injured Lakers Star Luka Doncic",
-          "original_title": "Ric Flair gets backlash for ripping injured Lakers star Luka Doncic",
-          "summary": "Wrestling legend Ric Flair faced backlash after posting on X (formerly Twitter) a disparaging comment about Lakers guard Luka Doncic\u2019s hamstring injury. The reaction highlighted sensitivity around athletes\u2019 health issues.",
-          "key_points": [
-            "Ric Flair posted a negative remark about Luka Doncic\u2019s injury.",
-            "Fans and media responded with criticism toward Flair\u2019s comments.",
-            "The incident underscores the broader conversation about respecting injured players."
-          ],
-          "link": "https://sports.yahoo.com/articles/ric-flair-gets-backlash-ripping-210538761.html",
+          "link": "https://sports.yahoo.com/articles/knicks-without-key-backup-mitchell-225620776.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-05-06T21:05:38+00:00",
+          "published": "2026-05-06T22:56:20+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "b5fa04774b86",
+          "title": "Cavaliers Aim to Even Series in Game 2 vs. Pistons",
+          "original_title": "Cavs at Pistons Game 2: How to watch, odds, and injury report",
+          "summary": "After a disappointing opening loss, the Cleveland Cavaliers are looking to bounce back and tie the first-round series against the Detroit Pistons in Game 2. The preview includes broadcast details, betting odds, and the latest injury updates for both squads.",
+          "key_points": [
+            "Cavaliers seek to even the series after a frustrating Game 1.",
+            "Article provides how to watch the game, current odds, and injury reports.",
+            "Both teams are expected to be at near-full strength for the matchup."
+          ],
+          "link": "https://sports.yahoo.com/articles/cavs-pistons-game-2-watch-223000496.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-06T22:30:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "208c982d635c",
+          "title": "Ujiri\u2019s 2014 \u2018Fuck Brooklyn\u2019 Outburst Resurfaces as He Becomes Kidd\u2019s Boss",
+          "original_title": "In 2014, Raptors GM Ujiri went viral by yelling \"Fuck Brooklyn!\" at a rally before a TOR-BKN playoff game. The Nets coach at the time was Jason Kidd. Postgame, Kidd said, \"I don\u2019t even know who that is, so I could [not] care less what they think about Brooklyn.\" Ujiri is now Kidd's boss in Dallas.",
+          "summary": "In 2014, Raptors GM Masai Ujiri famously shouted \u201cFuck Brooklyn\u201d before a playoff game, prompting a dismissive response from Nets coach Jason Kidd. Years later, Ujiri secured the Dallas Mavericks presidency, making Kidd his subordinate as the team\u2019s GM.",
+          "key_points": [
+            "Ujiri\u2019s viral rant targeted the Brooklyn Nets during a 2014 playoff series.",
+            "Jason Kidd responded indifferently at the time, saying he didn\u2019t know who Ujiri was.",
+            "Ujiri now holds the Mavericks\u2019 top executive role, with Kidd serving as the franchise\u2019s GM."
+          ],
+          "link": "https://www.reddit.com/r/nba/comments/1t5rwns/in_2014_raptors_gm_ujiri_went_viral_by_yelling/",
+          "source": "Reddit r/nba",
+          "published": "2026-05-06T22:21:02+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "147ed198288d",
+          "title": "Nick Nurse Returns to 76ers After Brother\u2019s Funeral, Cites Late Father\u2019s Wishes",
+          "original_title": "Nick Nurse rejoins 76ers after brother's funeral, says Steve Nurse would want him to coach",
+          "summary": "Head coach Nick Nurse rejoined the Philadelphia 76ers for Game 2 of the Eastern Conference semifinals after traveling to Iowa for his brother\u2019s funeral. He said his late brother, Steve Nurse, would have wanted him on the bench, reinforcing his commitment to the team.",
+          "key_points": [
+            "Nurse missed the day between Games 1 and 2 to attend his brother\u2019s funeral.",
+            "He returned to coach the 76ers in Game 2, citing his brother\u2019s support.",
+            "The series continues against the New York Knicks in the Eastern semifinals."
+          ],
+          "link": "https://sports.yahoo.com/articles/nick-nurse-rejoins-76ers-brothers-221858902.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-06T22:18:58+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "de09066856f2",
+          "title": "DFS Experts Reveal Playoff Picks for May 6, Highlight Paul George",
+          "original_title": "NBA DFS, playoffs: DraftKings, FanDuel daily Fantasy basketball picks for May 6 include Paul George",
+          "summary": "SportsLine\u2019s DFS veteran Mike McClure shares his optimal DraftKings and FanDuel lineups for the NBA playoff games on May 6, emphasizing Paul George as a key value play. The advice targets daily fantasy players looking to maximize winnings during the postseason.",
+          "key_points": [
+            "Mike McClure provides lineup recommendations for DraftKings and FanDuel.",
+            "Paul George is highlighted as a standout pick for the day's contests.",
+            "The guidance is tailored for the NBA playoff slate on May 6."
+          ],
+          "link": "https://www.cbssports.com/nba/news/nba-dfs-playoffs-draftkings-fanduel-daily-fantasy-basketball-picks-may-6-paul-george/",
+          "source": "CBS Sports NBA",
+          "published": "2026-05-06T22:04:32+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "29679a5a48a3",
+          "title": "Austin Reaves posts lowest playoff FG% in Lakers history (min 15 attempts)",
+          "original_title": "Lowest FG% by a Laker in a playoff game this century (min. 15 attempts): 18.8% - Austin Reaves (2026), 20.0% - Kobe Bryant (2000), 20.8% - Kobe Bryant (2009), 21.1% - Kobe Bryant (2004), 23.8% - Kobe Bryant (2002), 25.0% - Kobe Bryant (2010), 25.0% - Austin Reaves (2026)",
+          "summary": "Austin Reaves shot 18.8% from the field in a 2026 playoff game, the lowest percentage recorded by a Laker with at least 15 attempts this century. The performance trails only a handful of low\u2011efficiency outings by Kobe Bryant, who posted percentages ranging from 20.0% to 25.0% in various playoff games.",
+          "key_points": [
+            "Reaves went 3\u2011for\u201116 (18.8%) in the 2026 postseason, setting a new low for the franchise.",
+            "The previous worst mark belonged to Kobe Bryant, who never shot below 20% in a playoff game with 15+ attempts.",
+            "The statistic highlights an unusually poor shooting night for the Lakers' bench scorer."
+          ],
+          "link": "https://www.reddit.com/r/nba/comments/1t5rfik/lowest_fg_by_a_laker_in_a_playoff_game_this/",
+          "source": "Reddit r/nba",
+          "published": "2026-05-06T22:03:05+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "d17854977294",
+          "title": "Live game thread: 76ers vs. Knicks, Playoff Game 1 (May 6, 2026)",
+          "original_title": "Game Thread: Philadelphia 76ers (0-1) vs New York Knicks (1-0) Live Score | NBA Playoffs | May 6, 2026",
+          "summary": "A Reddit thread provided live updates and discussion for the opening playoff matchup between the Philadelphia 76ers and the New York Knicks on May 6, 2026. The post served as a hub for fans to follow the score, key plays, and reactions in real time.",
+          "key_points": [
+            "The thread tracked the 76ers' 0\u20111 start against the Knicks' 1\u20110 record in the series.",
+            "User\u2011generated commentary offered play\u2011by\u2011play details and post\u2011game analysis.",
+            "The content was hosted on Reddit\u2019s new interface, with a link to the original post for full access."
+          ],
+          "link": "https://www.reddit.com/r/nba/comments/1t5rcsc/game_thread_philadelphia_76ers_01_vs_new_york/",
+          "source": "Reddit r/nba",
+          "published": "2026-05-06T22:00:15+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "39a23885a769",
+          "title": "Kentucky coach Mark Pope addresses recruiting, NIL, and roster concerns",
+          "original_title": "Mark Pope addresses Kentucky Basketball roster, Malachi Moreno NBA decision, and more",
+          "summary": "Kentucky head coach Mark Pope responded to fan questions about the program\u2019s recruiting strategy, name\u2011image\u2011likeness (NIL) policies, and roster construction as the team heads into its third year under his leadership. Pope emphasized a focus on player development and maintaining competitive balance while navigating the evolving NIL landscape.",
+          "key_points": [
+            "Pope defended recent recruiting decisions and outlined plans to attract top talent.",
+            "He discussed how NIL opportunities are being integrated without compromising team culture.",
+            "The coach highlighted the importance of roster depth and player fit for sustained success."
+          ],
+          "link": "https://sports.yahoo.com/articles/mark-pope-addresses-kentucky-basketball-215135658.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-06T21:51:35+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "35ce954215cf",
+          "title": "BetMGM promo: $1,500 bonus bets for 76ers\u2011Knicks and Spurs\u2011Timberwolves",
+          "original_title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for 76ers-Knicks, Spurs-Timberwolves on Wednesday",
+          "summary": "BetMGM released a promotional code (CBSSPORTS) that offers bettors up to $1,500 in bonus bets if their first wager on Wednesday\u2019s NBA or MLB games loses. The offer applies to the 76ers\u2011Knicks and Spurs\u2011Timberwolves matchups, among other events.",
+          "key_points": [
+            "Use code CBSSPORTS to qualify for the bonus bet protection.",
+            "The promotion covers both NBA and MLB betting lines for the specified games.",
+            "Bonus bets are credited only if the initial wager does not win."
+          ],
+          "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-76ers-knicks-spurs-timberwolves-wednesday/",
+          "source": "CBS Sports NBA",
+          "published": "2026-05-06T21:41:21+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "20245abf6c73",
+          "title": "Joel Embiid out for Game 2 vs. Knicks due to injury",
+          "original_title": "76ers' Joel Embiid out for Game 2 vs. Knicks as Philadelphia looks to even second-round playoff series",
+          "summary": "Philadelphia 76ers center Joel Embiid will miss Game 2 of the second\u2011round playoff series against the New York Knicks after aggravating hip soreness on top of an existing right ankle sprain. His absence forces the Sixers to adjust their rotation and rely on other front\u2011court players to maintain competitiveness.",
+          "key_points": [
+            "Embiid\u2019s injury combines hip soreness with a right ankle sprain sustained earlier in the week.",
+            "The Sixers must reconfigure their lineup for the upcoming game without their star center.",
+            "Philadelphia\u2019s goal remains to even the series despite the loss of Embiid."
+          ],
+          "link": "https://www.cbssports.com/nba/news/76ers-joel-embiid-injury-update-knicks-nba-playoffs-game-2/",
+          "source": "CBS Sports NBA",
+          "published": "2026-05-06T21:39:11+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -296,33 +296,105 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "e1961110da46",
-          "title": "Ric Flair gets backlash for ripping injured Lakers star Luka Doncic - USA Today",
-          "original_title": "Ric Flair gets backlash for ripping injured Lakers star Luka Doncic - USA Today",
-          "summary": "Ric Flair gets backlash for ripping injured Lakers star Luka Doncic&nbsp;&nbsp;USA Today",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN25xNXU0eGtkNHNRY3R1QWQyTnhvXzUzdlEzR0pKZFp0dUZpeTZvc3BDODZxVERFcHQ3T0ltTHBpRlVJY25tRDBXaW1IN1J0X1FsRXpqVTdDSHRFTGVCQi1vVVBoZDBkdWJadVlKYUVlbjBVZW91Q3FQQUEzLWZQM2hBSmVoOVlSQUZaWFp4NlJKcS1tQmx0R1JJOTNuUzVwOHdBS3JWdml2Nlk?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-05-06T21:05:00+00:00",
+          "id": "7c6650a02d6b",
+          "title": "Lakers Must Resolve LeBron James Dilemma Before Game 2",
+          "original_title": "Lakers face difficult LeBron James dilemma they must solve before Game 2 - Lake Show Life",
+          "summary": "The Los Angeles Lakers face a critical decision regarding LeBron James' health and playing time ahead of Game 2 of their series. Coaching staff must balance James' minutes with the risk of aggravating his injury while maintaining competitive edge.",
+          "key_points": [
+            "LeBron James is dealing with a lingering injury that could limit his effectiveness.",
+            "Coach Darvin Ham is evaluating whether to start James or limit his minutes.",
+            "The decision will impact the Lakers' strategy and chances in the upcoming game."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOVAyOENpcUhyYVp6WEJickE0dlBWOG9hdWJCYi1ETXAwb1J2Y3pNbE1kQ2pTZDVuRlVfVnpPcDB2eHpNN1dZXzFRY3JSZm5KVlFWZzUyemFxM3VGR3dRdFFoT3Z4WjJZd0lfRXVLMDBROVd5T1JFLVlaazFiOVBMZEZsT0ZFSGYySnNVaTBhcS1KTGo0RXBLTDZZUlFGZw?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-06T22:49:20+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "5f9dd808370f",
-          "title": "Luka Doncic says being injured during Lakers' playoff run has been 'very frustrating' - WFTV",
-          "original_title": "Luka Doncic says being injured during Lakers' playoff run has been 'very frustrating' - WFTV",
-          "summary": "Luka Doncic says being injured during Lakers' playoff run has been 'very frustrating'&nbsp;&nbsp;WFTV",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82SkpsajQyOG5QVnV3TmdJWm5OWkVlZS1XOVhTNUJfS1pILWYtTThqUmtIWGNqMnlQWjZMd2UxUmJ6SjJGSWVhaUFSaG00TFBZb2VqTjBRNDNPVkRBQWpxX0U5a0d4Tl9GVy1KTEM3ZUVfSGxRcWZ5eFljNFrSAZABQVVfeXFMT3ZKcjdPZXlRSXVhYzlBSnFvM3BCLVBZOE1XSmtucUhHOFdfUEhhU05QNFZDQk5wQ096S05LNDlCb3lMNkFvaWtfY0hidUhvMW5qdnBUejdhUmFEcl9mTGJtdGEwUS1jYUd3SEtTdTRMbW05bnpSQ0FtdEp4N1BjQnVTWGhyOHdEaUk1RzNnTVFl?oc=5",
+          "id": "0e38f25c746b",
+          "title": "Luka Don\u010di\u0107 Addresses Postseason Injury Absence",
+          "original_title": "Lakers' Luka Doncic breaks silence regarding postseason injury absence - Yahoo Sports",
+          "summary": "Luka Don\u010di\u0107 broke his silence about the injury that kept him out of the postseason, explaining the nature of the setback and his recovery timeline. He emphasized his commitment to returning at full strength for the Lakers.",
+          "key_points": [
+            "Don\u010di\u0107 suffered a hamstring issue that sidelined him during the playoffs.",
+            "He clarified that the injury is healing but requires careful management.",
+            "The player expressed confidence in rejoining the roster once fully recovered."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPb1NjWDRQQUZBZGk0bHJ6MEgwR2FVY0RSV1ZfZG0xZVEwY0xOY2JRckE3OEhRZEJIVnY3Nm5yQ0ttc0ZBbWdlRDEwR0hLRE9RY0lPWU43cVByTHFickdubHBlQTZac0tLbk84T3Byc2pRVWluYW1OV1ltRnRaS0dNdFdEMVNQZkdJenc?oc=5",
           "source": "Google News - Luka",
-          "published": "2026-05-06T20:44:55+00:00",
+          "published": "2026-05-06T21:55:39+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "3acce35a9547",
+          "title": "Jalen Brunson's Playoff Dominance Compared to Curry and LeBron",
+          "original_title": "Jalen Brunson's domination over 76ers enters Steph Curry, LeBron territory - Daily Knicks",
+          "summary": "Jalen Brunson delivered a series of performances against the Philadelphia 76ers that analysts say rival the scoring efficiency of Stephen Curry and LeBron James. His clutch play has elevated the Knicks' postseason prospects.",
+          "key_points": [
+            "Brunson posted multiple high\u2011scoring games with exceptional shooting percentages.",
+            "His impact is being measured alongside NBA superstars Curry and James.",
+            "The performance underscores Brunson's emergence as a playoff leader."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTWl5VkZ1ZkNhSHRqUkJYZGtHX0lvRmNZS3VuNXg4cW9aemR5VFZpS3NybFpHVkE0ZHFGa3o3aHNienRaYzg3WVo2OEZ1WVl4Mmp1MlR2a1Bqc2E4a2hhVGpCaEZqeS03UUtGNXFEd0Fpa3dNTXZWdXRhcFZFTVNOTlBMVjVzdHVSczFlRVl1ZFpDcm1fRGxNcWVmamRDZWhac3Vubm1vUDk2QQ?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-06T21:42:23+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "963e98a78141",
+          "title": "Don\u010di\u0107 Reveals Ongoing Limitation Despite Recovery Progress",
+          "original_title": "Luka Doncic reveals significant limitation despite recent progress in recovery - Lakers Nation",
+          "summary": "Luka Don\u010di\u0107 disclosed that, although his hamstring is improving, he still experiences a significant limitation that affects his explosiveness on the court. The Lakers must adjust rotations while he continues rehab.",
+          "key_points": [
+            "Recovery is advancing, but full range of motion remains restricted.",
+            "The limitation could affect Don\u010di\u0107's scoring and defensive capabilities.",
+            "Lakers coaching staff are monitoring his workload closely."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWndkWUtvc0lUSjRlR1NpblFXaFVqSXN4QXBORUNBRjllb3pRWlN4SWJKTzhxTVk1dWptRXZiWDl0QTlTWkUxQmhHWHBmUDAwUHhvaEZsWXBTTDczQ19BYlRvNUVDT2dBc1RqUVlVXzVVR0kwd1lkYnlGTnAzODcxd2ljRWR0U01NRUE0ZDM0N2p6S2tna0xGTUtR?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-05-06T21:02:34+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "6aa6fb7b7257",
+          "title": "Don\u010di\u0107 Announces Hamstring Setback, Warns Lakers of Bad News",
+          "original_title": "Luka Doncic Breaks Silence on Hamstring Injury, Delivers Bad News to LeBron James, Lakers - Yahoo Sports",
+          "summary": "Luka Don\u010di\u0107 publicly confirmed a hamstring injury that will keep him out of action for the foreseeable future, delivering disappointing news to LeBron James and the Lakers organization. He outlined the expected timeline and rehabilitation plan.",
+          "key_points": [
+            "The hamstring injury is more severe than initially thought.",
+            "Don\u010di\u0107 is projected to miss several weeks of play.",
+            "Lakers will need to find alternative scoring options in his absence."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSDlYSTZHSkstazJvZXVncVBzWXZXQzNnUGlOTVl4ZFpQWGxld3NueEd1ODA2V2lYVmxXbmpMS3prNkJSdHlLWm1uX0lLem9KX2k4WURNSlZPbEtubVpGUDFSNzRmRmZzRDlpQmVOOU9iMFRvdDdSVy0tSDVGbVgtWWNCX2pSUVM4Vm13ZDl3?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-05-06T20:28:57+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "e7edade6e812",
+          "title": "Luka Doncic Gives Expected Return Timeline Ahead of Game 2 vs. Thunder",
+          "original_title": "Luka Doncic Reveals Expected Return Timeline Before Game 2 Against Thunder - Yahoo Sports",
+          "summary": "Luka Doncic discussed his projected recovery schedule before the Lakers' Game 2 against the Oklahoma City Thunder. He indicated the approximate date he expects to be back at full strength, giving fans and the team a clearer picture of his availability.",
+          "key_points": [
+            "Doncic outlined a tentative timeline for returning to full competition.",
+            "The timeline was shared prior to the Lakers' Game 2 matchup with the Thunder.",
+            "His update helps the Lakers plan rotations and manage expectations."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNUlHOXIxLUpyU2hBX2VXaWpYSVltTzFPLTVtRVY3dTB2Qjc1Y25Na3NueWFRUlVVTmtBX2VYNjBDNk9HaHhuemRLbEthQnBNeGxnXzJtTURFMVVrU3FhTnAxQi1DODR3aUVndzNHc2ZWOHJMWjU5SEhHdHBNY2FVTkd4d0pVTkVzaFgteg?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-05-06T20:21:08+00:00",
           "topic": "Lakers Players"
         },
         {
           "id": "a095854490cf",
-          "title": "LeBron James Defends Austin Reaves After Rough Game 1 Vs. Thunder - Lakers Nation",
+          "title": "LeBron James Defends Austin Reaves After Tough Game 1 Loss to Thunder",
           "original_title": "LeBron James Defends Austin Reaves After Rough Game 1 Vs. Thunder - Lakers Nation",
-          "summary": "LeBron James Defends Austin Reaves After Rough Game 1 Vs. Thunder&nbsp;&nbsp;Lakers Nation",
-          "key_points": [],
+          "summary": "Following a difficult opening loss to the Oklahoma City Thunder, LeBron James publicly defended teammate Austin Reaves, emphasizing his effort and potential. James sought to shield Reaves from criticism and keep team morale high.",
+          "key_points": [
+            "LeBron praised Reaves' hustle despite the team's poor performance.",
+            "James addressed media criticism directed at Reaves after Game 1.",
+            "The defense aimed to maintain confidence within the young roster."
+          ],
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTm1SdVp4T1RoMTJFTDNWb0RaS3FLQ05MX3VfTXhCa3puV0hqYm1YMUZ0a3Z6M1hMUG9makpMTVVwcm5wckVES3BUdE1GZS0zdFdsMk5KeTkwcWd5WlNlaG1qVjZDR21mWWsyaE9tcWEwTk9aUWVRdTFuVWVIN0hBcUNvSldKZ3FCQmJUUEJMMmhTQ29M?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-05-06T19:50:37+00:00",
@@ -330,10 +402,14 @@
         },
         {
           "id": "34e420958653",
-          "title": "LeBron James Points to Luka Doncic After Lakers Lose Game 1 - Athlon Sports",
+          "title": "LeBron James Points to Luka Doncic After Lakers' Game 1 Defeat",
           "original_title": "LeBron James Points to Luka Doncic After Lakers Lose Game 1 - Athlon Sports",
-          "summary": "LeBron James Points to Luka Doncic After Lakers Lose Game 1&nbsp;&nbsp;Athlon Sports",
-          "key_points": [],
+          "summary": "After the Lakers fell short in Game 1, LeBron James highlighted Luka Doncic's impact on the opposing team, noting his scoring and playmaking as key factors in the loss. James used the comment to underscore the challenge the Lakers face without a fully healthy roster.",
+          "key_points": [
+            "James identified Doncic as a primary reason for the Thunder's victory.",
+            "He stressed the difficulty of competing against a star player while dealing with injuries.",
+            "The remark set the tone for the Lakers' focus on adjustments moving forward."
+          ],
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV1A4V1VnMDI4X2I1OWdjdzdvRDd3a1N6bDQyWlpMSGxFNDFobm9PbTFoOUJaYWZtZVN5QmE4VDFjMFkta2R6Y0ptcFhfcUx0U2dTb0RkckRXS1NUZVk3WnZaWmVpc2U4RFQwVFlLczgzUEtKTHhNdGUyR0gyNDBxZF9relh4c0pNT1JqS3dwQWY1akljamRvLWFn?oc=5",
           "source": "Google News - Luka",
           "published": "2026-05-06T19:09:38+00:00",
@@ -341,88 +417,32 @@
         },
         {
           "id": "b73f8d676579",
-          "title": "LeBron James Congratulates J.R. Smith on College Graduation, Won NBA Titles Together on Lakers, Cavs - Bleacher Report",
+          "title": "LeBron James Congratulates J.R. Smith on College Graduation and Shared NBA Titles",
           "original_title": "LeBron James Congratulates J.R. Smith on College Graduation, Won NBA Titles Together on Lakers, Cavs - Bleacher Report",
-          "summary": "LeBron James Congratulates J.R. Smith on College Graduation, Won NBA Titles Together on Lakers, Cavs&nbsp;&nbsp;Bleacher Report",
-          "key_points": [],
+          "summary": "LeBron James publicly congratulated former teammate J.R. Smith on completing his college degree, recalling the two NBA championships they won together with the Lakers and the Cavaliers. The message highlighted Smith's off\u2011court achievement and their shared history.",
+          "key_points": [
+            "James praised Smith for earning his college diploma.",
+            "He referenced their championship wins with both the Lakers and Cavaliers.",
+            "The congratulatory note underscored the importance of education for athletes."
+          ],
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdFhpY0NBWDVsZ1F6TndOcmJFSU03RlNMcDRUMFlaeWxkeTdrdFppclI1SFBtYzM1bUNQd3Q2SFBVNE9PSlhkeFAzTWZUSEtvRFBhUGtELTItUGU2WUd0RnNERmZsZWJveFNLS2lhZU5JNE1HY25pcUJDSzF3bzRJSVZOT0M3d0VmQUdrT2p6TlFsa1lvNFR6OGl6NklxNUJJSzVnQzRtRmt2aUFZNFhoZ3JUaUJfOUhYOTdUbHFoaGY2bzRfR2RuNnJmOWpJaDdF?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-05-06T18:25:31+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "d2a07eed6558",
-          "title": "Luka Don\u010di\u0107 Addresses Hamstring Injury",
-          "original_title": "Lakers star Luka Doncic breaks silence on hamstring injury - New York Post",
-          "summary": "Luka Don\u010di\u0107 broke his silence regarding the hamstring strain that sidelined him for the Lakers. He explained the nature of the injury, the treatment he\u2019s receiving, and his confidence in returning to full strength.",
-          "key_points": [
-            "The injury is a Grade\u20111 hamstring strain, not a tear.",
-            "Don\u010di\u0107 is undergoing a structured rehab program with the team\u2019s medical staff.",
-            "He expects to be back in practice soon, but did not give a specific return date."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUFllaWd6ZXVtRjRRUFdBRzlBYXBvcGkyV1hNS2FLaGpqT1F3U3IxOWRRZFdyZ09HVUoxcjNHRkZMZHJKN2VpUnZFSVJiMEEzMkpCTFA0bnNoOEIwdWxoTGRmalg4VTBJMzdlSkdNLTgxdk1COEFxWXN5S1B2OEt6ejZUNXI5OWtKenI5WDczbEI4WUZyRXgydm5PMF82RHc?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-05-06T18:19:40+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "651aac109ece",
-          "title": "Thunder Exploit Lakers\u2019 Errors in Game\u20111 Rout",
-          "original_title": "Thunder shows how big its margin for error is vs. Lakers in Game 1 rout - The Oklahoman",
-          "summary": "Oklahoma City capitalized on the Lakers\u2019 defensive lapses and turnover trouble to secure a dominant win in the opening playoff game. The margin of error for Los Angeles proved minimal as the Thunder built a sizable lead early and never looked back.",
-          "key_points": [
-            "Lakers committed 18 turnovers, 9 more than the Thunder.",
-            "Oklahoma City shot 55% from the field and out\u2011rebounded the Lakers 48\u201138.",
-            "The loss highlighted the Lakers\u2019 need for better ball security and defensive communication."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYVhRZXloU1dnRjRjb1RtdjJfbk96b29qX3pvdEV5SHlQWkg2LTlCQzJWYXZqVHZVOV9WY19tQ2VsWHktVmZqNTM1WHp6ZTZ5QTFaZkNwX2lGMmlCREZDdndlcFJTODlBeUt0NUU0Q0FfaWRldXdiTDFmV1VfNXJZMTVxUXJlYmxtbUxvdHItSE9sdTdwX2lsRWg4MWVSZ3VFT05DRzM1RS1CSEVJRmRRSFFSN0g0X0R0MVhZNTlaaFFCU0QzY1VjWERfYnBIOHdNcWFlaEt6OTdlWVA1ZXpWWQ?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-05-06T18:18:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
           "id": "c3d1483e3ac5",
-          "title": "Don\u010di\u0107 Enters Next Phase of Rehab",
+          "title": "Luka Doncic Begins Next Phase of Rehab, CBS Sports Reports",
           "original_title": "Lakers' Luka Doncic: Begins next phase of rehab - CBS Sports",
-          "summary": "CBS Sports reported that Luka Don\u010di\u0107 has moved into the next stage of his hamstring rehabilitation, focusing on sport\u2011specific drills and conditioning. The progression suggests the Lakers are optimistic about his availability for the remainder of the series.",
+          "summary": "CBS Sports reported that Luka Doncic has entered a new stage in his rehabilitation program, signaling progress toward a return to the court. The update details the focus of this phase, which includes increased conditioning and skill work.",
           "key_points": [
-            "Rehab now includes low\u2011impact agility work and light shooting drills.",
-            "Team trainers are monitoring his response to increased load before clearance.",
-            "Don\u010di\u0107\u2019s participation in upcoming practices will be evaluated daily."
+            "Doncic is moving into a more advanced rehab stage after initial recovery.",
+            "The new phase emphasizes conditioning and basketball-specific drills.",
+            "Progress suggests a potential earlier return for the Lakers' star guard."
           ],
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOHgtWXEwT3dvemY4MVduUU1la0RPZ0xEc1RtejdwNnRXbTU1T01nMzBBMnJHSU1XRFBkME1MdFJaY2s0XzY1US16QU9GUVFXU3pTRzFQUXhJbEdJSjBsXzhXVnd4MUo0a3JJN1FGYUVwZVBwV0dDSV9YSU1HQklXeWkyZ1JSa0xjX05aRVpMaHZtYmYzSWhwX3VFdVA?oc=5",
           "source": "Google News - Luka",
           "published": "2026-05-06T18:09:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "1c2f723414d7",
-          "title": "Injury Timeline: When Don\u010di\u0107 Could Return vs. Thunder",
-          "original_title": "Luka Don\u010di\u0107 Injury Timeline: When Lakers Star Could Return for Thunder Playoff Series - Sports Illustrated",
-          "summary": "Sports Illustrated outlined a projected timeline for Luka Don\u010di\u0107\u2019s return based on typical recovery rates for his type of hamstring strain. The analysis suggests a possible comeback within the next 7\u201110 days, potentially in time for a later playoff game.",
-          "key_points": [
-            "Grade\u20111 hamstring strains generally heal in 7\u201110 days with proper rehab.",
-            "Lakers\u2019 medical staff is proceeding cautiously to avoid re\u2011injury.",
-            "If cleared, Don\u010di\u0107 could rejoin the rotation for Game 3 or 4, depending on his progress."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeU5tOUhKWTdlRFBNbXNCWi1ZRXJ5YUp2bmk3cUdaZ2stZlF6X3ctZXVIV3AyX2xkTnJ5dFkxRERYYTQ3azVKQTJaTmNwV3I1Mm9leS15bDFwNU9jSVRiLVdUd0QwaXhxWWh4ZV9JN1dMM3hINDczNVBJWW9zS0w4T3dfN2Vmc2wtQ01WRmlkVHlONUxmZ3V4cnM0VG9seFFCNHRVX0ZMbw?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-05-06T18:07:48+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "f1bfdc9653a9",
-          "title": "Don\u010di\u0107 Gives Hamstring Update Before Game 2",
-          "original_title": "Luka Doncic gives injury update on hamstring before Lakers-Thunder NBA Playoffs Game 2 - The Oklahoman",
-          "summary": "Ahead of the second playoff matchup, Luka Don\u010di\u0107 provided a brief status report on his hamstring, indicating he feels \u201cgood\u201d but is still limited in practice. He emphasized that the team is focused on staying competitive regardless of his minutes.",
-          "key_points": [
-            "Don\u010di\u0107 reported no pain during light movement but is not at 100% capacity.",
-            "Coaches plan to manage his minutes and possibly use him in a reduced role.",
-            "The Lakers will rely on other scoring options while monitoring his recovery."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUGN0RHROSFZKNWg5N1h0RjhuVmNrRUNvcFZLeVV0cmJUWFJwd2lVUGhSQ1ktQTV0TDV1MGpiYVRzZnRqM2xzZ1lTaWVERXBGNndnNGtVSS1iZWItM3A4OThRdlp5RjZyTk1rVUZONmxtQ1M0RFR4OVBlVzZUcXNTdGxlN0NJcTVxZlU3WmpIMnZOSkdCRmFFMjhzOG5ZTVBoUkJUczlkaThWMU43dm5ndHpBUkpSN2w4YVRJOU5GUkhaUnh3NC1IempZQ21ST05tMmFjZVFyT1lGT1pXcFE?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-05-06T18:03:00+00:00",
           "topic": "Lakers Players"
         }
       ]
