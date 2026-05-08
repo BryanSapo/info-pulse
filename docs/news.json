@@ -1,162 +1,253 @@
 {
-  "generated_at": "2026-05-08T03:02:53.468751+00:00",
-  "total_articles": 20,
+  "generated_at": "2026-05-08T06:08:50.641718+00:00",
+  "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
-      "articles": []
+      "articles": [
+        {
+          "id": "08e6a7d59c64",
+          "title": "Lakers criticize officiating after Game 2 loss to Thunder in West semis - Newsday",
+          "original_title": "Lakers criticize officiating after Game 2 loss to Thunder in West semis - Newsday",
+          "summary": "Lakers criticize officiating after Game 2 loss to Thunder in West semis&nbsp;&nbsp;Newsday",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ1dSLVlYdnV1ZnNuN1JEeVZSRy0xTEwxa1pBdEtpV0FKaHRtRHlXWlFkb1JFUTd0RjJXNzg2WjRFdTdodDNIem1VY2VxTThVYUZjeUhTM3ZXbEladkwxVjdWbDZMM1JiRlRJek9walRiZVFQNFFNLWFtV09PRlNlNA?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-08T05:50:30+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "9004612f67fb",
+          "title": "3 takeaways from Lakers\u2019 Game 2 loss vs. Thunder",
+          "original_title": "3 takeaways from Lakers\u2019 Game 2 loss vs. Thunder",
+          "summary": "Winning on the road is tough, but beating the Thunder in OKC feels impossible. The Lakers did a lot right in their Game 2 loss. They got a much better offensive game from Austin Reaves, won the points-in-the-paint battle 52-46 and Rui Hachimura remained elite, scoring 16 points on 60% shooting. But the Thunder outscored [&#8230;]",
+          "key_points": [],
+          "link": "https://www.silverscreenandroll.com/lakers-analysis/116659/3-takeaways-lakers-thunder-game-2-2026-nba-playoffs-austin-reaves-lebron-james-jj-redick",
+          "source": "Silver Screen and Roll",
+          "published": "2026-05-08T05:27:43+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "32cacd07718e",
+          "title": "JJ Redick, Lakers bemoan refs after Game 2 loss to Thunder - USA Today",
+          "original_title": "JJ Redick, Lakers bemoan refs after Game 2 loss to Thunder - USA Today",
+          "summary": "JJ Redick, Lakers bemoan refs after Game 2 loss to Thunder&nbsp;&nbsp;USA Today",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU1dGUHV0Nm0zMzQ5aTdsZml3MmVsM3hudjl2bFZZZ09DdWZzVlZ3cE1ucUxHelRoS0YxVE5JMVVFNDdKelZyZ19XaDRuaUttWmd6UndxQ3VhM3cxdUM5NUNzMFpoTXc5eVJPWGRHLTVhdHpKdGk3bXppblFNd3VoRWs1S1RiN3gwQ0JOcjJxejZoMGR1Yl9TcVlKWk5Vdm9jTHdQRGhKV0FVN0ZiZGc?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-08T05:27:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "f1bc9f425631",
+          "title": "Lakers Coach JJ Redick Sends Harsh Statement to the NBA About LeBron James - heavy.com",
+          "original_title": "Lakers Coach JJ Redick Sends Harsh Statement to the NBA About LeBron James - heavy.com",
+          "summary": "Lakers Coach JJ Redick Sends Harsh Statement to the NBA About LeBron James&nbsp;&nbsp;heavy.com",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMGZhaXdIMVB3SGE3X0pSaS1XNG9WZXpLa0I5c3BCdWpBZi1Fc0xabmsxeVNYT0RxZFQ5QkRKRm9fZkZOaUZ0YnI1WWhSaDZWN3M1VFFQSFlib05idTdPR0xnOTFVTTV2RU9PRlJFUVNHTDBfRlN3OVdjZGZhNFF1NGlwdWczWm1CdHRhS0F1djA?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-08T05:24:04+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "f93ebcd2f873",
+          "title": "JJ Redick Calls Out NBA Referees After Lakers\u2019 Game 2 Loss to Oklahoma City Thunder - heavy.com",
+          "original_title": "JJ Redick Calls Out NBA Referees After Lakers\u2019 Game 2 Loss to Oklahoma City Thunder - heavy.com",
+          "summary": "JJ Redick Calls Out NBA Referees After Lakers\u2019 Game 2 Loss to Oklahoma City Thunder&nbsp;&nbsp;heavy.com",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUTlnWWVlOEtHeWtlU21kSGliVlpHWmVKY2pnNHZkRGxwVUlrcGJnU1hUaVgwWmtDelBKQWFROGg2QUJPb1dvRDNNeEdTSEF2cXVCdTZmUGh4M21YT2ZpdWthaGxmRlk3YnhsbUlIU1pZdUxIV0hWM3BuM201V1A5eHU2QnF3YktGYVgzWTNLcw?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-08T05:12:39+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "f713b803651b",
+          "title": "Shai Gilgeous\u2011Alexander Leads Thunder in Game 2 vs. Lakers",
+          "original_title": "Shai Gilgeous-Alexander, OKC Thunder vs LA Lakers in Game 2 NBA Playoffs, see top photos - The Oklahoman",
+          "summary": "In Game 2 of the NBA playoffs, Oklahoma City\u2019s star guard Shai Gilgeous\u2011Alexander delivered a dominant performance against the Los Angeles Lakers. The Oklahoman\u2019s photo gallery highlights key moments from the contest, showing the Thunder pulling ahead in the fourth quarter to secure the win.",
+          "key_points": [
+            "SGA was the focal point of the Thunder\u2019s offense, scoring heavily and creating opportunities for teammates.",
+            "The Lakers were unable to contain his play, contributing to a double\u2011digit loss.",
+            "Photographs capture the pivotal runs and defensive stops that defined the game."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUzFnUWZ4cnVWeHBXUzdQMmo0UU1ZTzlqWW5icmJpN2VMd1pCakE4Nk4weWJERG00REFZbnpRZ2o2TEk4MzFxaHdfUmlaUEE2MVAtaEY2NWM3ZGNDYUxDVG1URk5Kd1hmR0Z1QXZoT2NzbjJIbjVnOS1WZnFVeVZNRmxhTjM4a3VNcjlRTXA3MlIzSVBNaXlwX2lJN285Ny1YSkRPRzZrcFc2Q0N6cHFGanhaQW9oZE1JVDhCLVRMaXY1NmdVdWl1VF9tTXk5TVVjSjY5WkRHUU9CcjEzdHg2NU5nRFVqSS1UUVZlOQ?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-08T04:59:14+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "6efbdb0aeb59",
+          "title": "JJ Redick Criticizes LeBron\u2019s Play\u2011Calling After Lakers\u2019 Game 2 Loss",
+          "original_title": "JJ Redick Calls Out LeBron James' Lack of Calls After Lakers' Game 2 Loss to SGA, Thunder - Bleacher Report",
+          "summary": "Former player\u2011turned\u2011analyst JJ Redick publicly questioned LeBron James\u2019 decision\u2011making during the Lakers\u2019 Game 2 defeat to the Thunder. Redick suggested that the lack of effective calls contributed to the team\u2019s inability to stay competitive in the fourth quarter.",
+          "key_points": [
+            "Redick highlighted specific moments where he felt LeBron\u2019s choices hindered offensive flow.",
+            "The criticism came after the Lakers fell 125\u2011107, extending their series deficit.",
+            "LeBron\u2019s leadership and in\u2011game adjustments were the primary focus of the commentary."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOREFzSll2c1M4MHhiZnNmTC1iUGN3QUNmNG5MWldDUVN3UGZ5Vy1VcThucGEzNXI0eDMwbG1rZXlZY1ZOdFE3akl3VGdDQlFVTEhhc1U5OHZUQ2stTXBOM3JLM3pZWElhWFJ4Y1VuWWtSa1c1d2NVWFBiaURzMlRPTVJZRE5RY2JuOWpmNy1KSWRabHZhelV2SDd1Ukd3RmRYM3ZXckVwVHBLZFZWT2hweFlCU0ZYbWpMRTVGMi13dEVab0U?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-08T04:41:42+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "9b3aeb82f4a8",
+          "title": "Lakers vs. Thunder: Game 2 Highlights",
+          "original_title": "Los Angeles Lakers vs. Oklahoma City Thunder: Game Highlights - ESPN",
+          "summary": "ESPN\u2019s highlight reel recaps the key plays from Game 2 of the Lakers\u2011Thunder series. The video showcases the Thunder\u2019s surge in the fourth quarter and the Lakers\u2019 missed opportunities on both ends of the floor.",
+          "key_points": [
+            "Thunder\u2019s late\u2011game run turned a close contest into a double\u2011digit victory.",
+            "Lakers\u2019 scoring drought in the third quarter proved costly.",
+            "Highlights include several clutch shots by Shai Gilgeous\u2011Alexander and defensive stops by the Thunder."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WbEQwYmUyZEV4YnlJNUwxcHl5THZZcHlUNVFzeks4eHFhV3A0REVpZFlwTDdSdlphUmlLeE5mU1I4SkcyWU5OMUw5SnZfTzVtTDRkcXhWT0p4UjA5anUtc1ZhT2Y4UThVNGNuNDJ3?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-08T04:28:12+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "aec8db47a943",
+          "title": "Lakers Find Offense, Still Fall in Game 2 vs. Thunder",
+          "original_title": "Lakers find offense, still fall in Game 2 vs. Thunder",
+          "summary": "Despite a strong offensive showing in the second quarter, the Lakers could not sustain momentum and lost to Oklahoma City 125\u2011107. The Thunder rallied in the fourth quarter, widening the gap and securing a double\u2011digit win.",
+          "key_points": [
+            "Lakers led midway through the third quarter but were outscored 33\u201115 in the final period.",
+            "The Thunder\u2019s fourth\u2011quarter run highlighted their depth and defensive adjustments.",
+            "Los Angeles\u2019 best postseason quarter came in the second, yet it wasn\u2019t enough to overcome the deficit."
+          ],
+          "link": "https://www.silverscreenandroll.com/lakers-playoffs/116658/lakers-vs-thunder-playoffs-recap-box-score-stats-final-lebron-james-austin-reaves-2026-nba-playoffs",
+          "source": "Silver Screen and Roll",
+          "published": "2026-05-08T04:22:59+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "d180db406723",
+          "title": "Recap: Poor Third Quarter Leads to Lakers\u2019 Game 2 Loss to Thunder",
+          "original_title": "Recap: Poor Third Quarter Leads To Game 2 Loss For Lakers Against Thunder",
+          "summary": "Lakers Nation recaps how a sluggish third quarter contributed to the Lakers\u2019 125\u2011107 defeat in Game 2. After a promising start, the team faltered, allowing Oklahoma City to pull away and extend their series lead.",
+          "key_points": [
+            "The Lakers entered the third quarter with a lead but were outscored 30\u201113.",
+            "Thunder\u2019s balanced attack, led by Shai Gilgeous\u2011Alexander, kept pressure on Los Angeles.",
+            "The loss left the Lakers trailing in the series, emphasizing the need for defensive consistency."
+          ],
+          "link": "https://lakersnation.com/recap-poor-third-quarter-leads-to-game-2-loss-for-lakers-against-thunder/",
+          "source": "Lakers Nation",
+          "published": "2026-05-08T04:19:44+00:00",
+          "topic": "Lakers News"
+        }
+      ]
     },
     {
       "name": "NBA League News",
       "articles": [
         {
-          "id": "f4446b1fa84e",
-          "title": "LeBron Cuts Through and Throws Down the Alley\u2011Oop from Reaves",
-          "original_title": "[Highlight] Lebron cuts through and throws down the oop from Reaves",
-          "summary": "In a recent highlight clip shared on Reddit, LeBron James drove past his defender and finished with an alley\u2011oop dunk assisted by Austin Reaves. The play showcases the Lakers' chemistry and LeBron's continued athleticism.",
-          "key_points": [
-            "LeBron initiated the play with a strong penetration before feeding Reaves.",
-            "Reaves delivered a perfect lob that LeBron converted with a dunk.",
-            "The highlight underscores the Lakers' inside\u2011out offensive connection."
-          ],
-          "link": "https://www.reddit.com/r/nba/comments/1t6vctw/highlight_lebron_cuts_through_and_throws_down_the/",
-          "source": "Reddit r/nba",
-          "published": "2026-05-08T02:45:46+00:00",
+          "id": "5a1bfe28890a",
+          "title": "Takeaways as Thunder take down Lakers in Game 2",
+          "original_title": "Takeaways as Thunder take down Lakers in Game 2",
+          "summary": "Here's what we've learned -- and what's next for each series.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/48676289/2026-nba-playoffs-conference-semifinals-round-2-takeaways",
+          "source": "ESPN NBA",
+          "published": "2026-05-08T06:16:35+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "68464a953421",
-          "title": "Luka Don\u010di\u0107 and Kyrie Irving Foul SGA",
-          "original_title": "[Highlight] Luka kennard fouls SGA",
-          "summary": "A Reddit highlight notes that Luka Don\u010di\u0107 and Kyrie Irving were both called for fouls on Shai Gilgeous\u2011Alexander during a recent matchup. The fouls disrupted the flow of the game and gave the opposing team free\u2011throw opportunities.",
-          "key_points": [
-            "Both Don\u010di\u0107 and Irving committed fouls on SGA in the same possession.",
-            "The calls resulted in free throws for the opposing team.",
-            "The incident was captured and shared by a Reddit user."
-          ],
-          "link": "https://www.reddit.com/r/nba/comments/1t6v9d0/highlight_luka_kennard_fouls_sga/",
-          "source": "Reddit r/nba",
-          "published": "2026-05-08T02:41:15+00:00",
+          "id": "68a0dbfeafac",
+          "title": "Hornets extend Lee after 25-win improvement",
+          "original_title": "Hornets extend Lee after 25-win improvement",
+          "summary": "The Charlotte Hornets gave coach Charles Lee a contract extension Thursday following a season in which the team improved its win total by 25 games.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/48704852/hornets-extend-head-coach-charles-lee-25-win-improvement",
+          "source": "ESPN NBA",
+          "published": "2026-05-08T05:58:10+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "9ba0108452c9",
-          "title": "Winners and Losers: Cavs vs. Pistons Game 2 \u2013 Clutch Offense Concerns",
-          "original_title": "Winners and Losers: Cavs vs Pistons Game 2 \u2013 Clutch offense is concerning",
-          "summary": "Yahoo Sports reports that the Cleveland Cavaliers were outworked in the clutch for the second consecutive game against the Detroit Pistons, raising concerns about their late\u2011game offensive execution. The Pistons capitalized on key moments to secure the win.",
-          "key_points": [
-            "Cavaliers failed to score efficiently in the final minutes of two straight games.",
-            "Detroit's execution in clutch situations gave them the edge.",
-            "The loss highlights a need for improved late\u2011game strategy for Cleveland."
-          ],
-          "link": "https://sports.yahoo.com/articles/winners-losers-cavs-vs-pistons-023519165.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-08T02:35:19+00:00",
+          "id": "b175db70ff5e",
+          "title": "Brown: If up to me, I'd be in Boston long term",
+          "original_title": "Brown: If up to me, I'd be in Boston long term",
+          "summary": "Jaylen Brown reaffirmed his happiness in Boston on Wednesday night, saying if it was up to him, he'd remain with the Celtics for the next 10 years.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/48698552/jaylen-brown-play-boston-next-10-years",
+          "source": "ESPN NBA",
+          "published": "2026-05-08T05:58:10+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "c7d6bdc9ec3d",
-          "title": "16 Stats Explain Cavs' 107\u201197 Game 2 Loss to Pistons: Poor Shooting, Not Turnovers",
-          "original_title": "16 Stats to explain Cavs 107-97 Game 2 loss to Pistons: Poor shooting, not turnovers bite Cavs",
-          "summary": "Yahoo Sports breaks down the statistical reasons behind Cleveland's 10\u2011point defeat, pointing to subpar shooting percentages as the primary factor rather than turnover differential. The Cavs missed quality looks when they needed them most.",
-          "key_points": [
-            "Cleveland shot significantly below its season average.",
-            "Turnover margin was not the main issue; shooting efficiency was.",
-            "The Pistons capitalized on the Cavs' missed opportunities to pull ahead."
-          ],
-          "link": "https://sports.yahoo.com/articles/17-stats-explain-cavs-107-023408992.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-08T02:34:08+00:00",
+          "id": "4010a696ac93",
+          "title": "OKC up 2-0 on Lakers as Holmgren, SGA score 22",
+          "original_title": "OKC up 2-0 on Lakers as Holmgren, SGA score 22",
+          "summary": "Chet Holmgren and Shai Gilgeous-Alexander each scored 22 points and the Thunder beat the Lakers 125-107 on Thursday to take a 2-0 lead in the Western Conference semifinals.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/48708989/chet-holmgren-shai-gilgeous-alexander-lead-thunder-lakers",
+          "source": "ESPN NBA",
+          "published": "2026-05-08T05:58:09+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "e688a47547b7",
-          "title": "Cade Cunningham Leads Pistons with 12 Fourth\u2011Quarter Points to Take 2\u20110 Series Lead",
-          "original_title": "Cade Cunningham takes over with 12 in fourth quarter, lifts Detroit to 2-0 series lead",
-          "summary": "Despite Donovan Mitchell scoring 31 points, Cade Cunningham's 12 points in the fourth quarter propelled the Detroit Pistons to a 2\u20110 series advantage over the Cavaliers. The Pistons' strong finish proved decisive in the win.",
-          "key_points": [
-            "Cunningham's fourth\u2011quarter burst was crucial to the victory.",
-            "Mitchell's 31 points were not enough to overcome Detroit's late surge.",
-            "The win gives the Pistons a commanding early series lead."
-          ],
-          "link": "https://sports.yahoo.com/articles/cade-cunningham-takes-over-12-023051330.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-08T02:30:51+00:00",
+          "id": "1727ea479b3d",
+          "title": "Cunningham, Pistons pull away, take G2 vs. Cavs",
+          "original_title": "Cunningham, Pistons pull away, take G2 vs. Cavs",
+          "summary": "Cade Cunningham and the Pistons, whose season was on the ropes less than a week ago, aren't going to let up against the Cavaliers.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/48708023/cunningham-pistons-pull-away-take-2-0-lead-cavaliers",
+          "source": "ESPN NBA",
+          "published": "2026-05-08T05:58:09+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "81eef2e84be1",
-          "title": "James Harden's Struggles Continue in Cavaliers' Game 2 Loss to Pistons",
-          "original_title": "James Harden's struggles continue in Cavaliers' Game 2 loss, with turnovers piling up vs. Pistons",
-          "summary": "James Harden pledged to improve after Game 1, but his performance regressed in Game 2 against Detroit. He committed multiple turnovers and failed to generate offense, contributing to Cleveland's defeat.",
-          "key_points": [
-            "Harden promised to be better after the series opener, yet his turnover count rose in Game 2.",
-            "He was largely ineffective in the first half, missing shots and failing to create for teammates.",
-            "Cavaliers lost the game, widening the gap in the conference semifinals."
-          ],
-          "link": "https://sports.yahoo.com/nba/article/james-hardens-struggles-continue-in-cavaliers-game-2-loss-with-turnovers-piling-up-vs-pistons-022538862.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-08T02:25:38+00:00",
+          "id": "c86d78353b5c",
+          "title": "Cavs plan to 'figure it out' after Harden struggle...",
+          "original_title": "Cavs plan to 'figure it out' after Harden struggle...",
+          "summary": "James Harden's postseason struggles continued Thursday, when he went 3-for-13 from the field and missed all four of his 3-point attempts in a 107-97 loss to the Pistons.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/48708669/cavs-not-worried-james-harden-struggles-2nd-straight-game",
+          "source": "ESPN NBA",
+          "published": "2026-05-08T05:58:09+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "6f90f135173e",
-          "title": "Fan Capture Shows Donovan Mitchell Grabbing Tobias Harris' Knee on Ankle Breaker",
-          "original_title": "[Highlight] Angle from fan shows Donovan Mitchell grabbed back of Tobias Harris\u2019 knee on \u201cankle breaker\u201d",
-          "summary": "A Reddit user posted a highlight where Mitchell appears to grab the back of Harris' knee while executing a crossover move. The clip sparked discussion among fans about the legality and intensity of the play.",
-          "key_points": [
-            "The moment was captured by a fan and shared on r/nba.",
-            "Mitchell's move resulted in a dramatic ankle\u2011breaker against the Celtics' Tobias Harris.",
-            "Viewers debated whether the contact constituted a foul."
-          ],
-          "link": "https://www.reddit.com/r/nba/comments/1t6utc9/highlight_angle_from_fan_shows_donovan_mitchell/",
-          "source": "Reddit r/nba",
-          "published": "2026-05-08T02:19:56+00:00",
+          "id": "cd9fb81436ef",
+          "title": "Sources: Knicks' Anunoby has hamstring strain",
+          "original_title": "Sources: Knicks' Anunoby has hamstring strain",
+          "summary": "Knicks forward OG Anunoby has been diagnosed with a right hamstring strain and will be day-to-day, sources told ESPN's Shams Charania on Thursday.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/48704042/sources-knicks-og-anunoby-hamstring-strain-day-day",
+          "source": "ESPN NBA",
+          "published": "2026-05-08T05:58:09+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "e6572bce031b",
-          "title": "Player Grades: Cavs vs. Pistons Game 2 \u2013 Mitchell Finds Spark but Team Falls Short",
-          "original_title": "Player Grades: Cavs vs Pistons Game 2 \u2013 Donovan Mitchell finds his spark in loss",
-          "summary": "Yahoo Sports graded the players after Game 2, noting that Donovan Mitchell finally got into his rhythm, scoring efficiently and defending well. Despite his improved play, the Cavaliers could not overcome Detroit's balanced attack.",
-          "key_points": [
-            "Mitchell received a high grade for scoring and defensive effort.",
-            "Cavaliers still lost, highlighting gaps in supporting contributions.",
-            "Pistons' collective performance outmatched Cleveland's despite Mitchell's surge."
-          ],
-          "link": "https://sports.yahoo.com/articles/player-grades-cavs-vs-pistons-021810697.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-08T02:18:10+00:00",
+          "id": "720eac586d15",
+          "title": "Spurs rebound, hand Wolves largest playoff defeat",
+          "original_title": "Spurs rebound, hand Wolves largest playoff defeat",
+          "summary": "De'Aaron Fox and Victor Wembanyama bounced back from shaky performances in the series opener to lead San Antonio to a 38-point blowout of Minnesota.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/48700056/spurs-rebound-game-2-hand-timberwolves-their-worst-postseason-loss-franchise-history",
+          "source": "ESPN NBA",
+          "published": "2026-05-08T05:58:09+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "6899b2f35c00",
-          "title": "Chet Holmgren Injured After Collision with Deandre Ayton",
-          "original_title": "[Highlight] Chet Holmgren goes down in severe pain down after contact with Ayton",
-          "summary": "A Reddit highlight shows Chet Holmgren collapsing in visible pain after contact with the Phoenix Suns' center Deandre Ayton. The incident raised concerns about Holmgren's health heading into the later stages of the playoffs.",
-          "key_points": [
-            "The clip was posted on r/nba by user Large_banana_hammock.",
-            "Holmgren appeared to be in severe discomfort following the collision.",
-            "No official injury report had been released at the time of posting."
-          ],
-          "link": "https://www.reddit.com/r/nba/comments/1t6uovs/highlight_chet_holmgren_goes_down_in_severe_pain/",
-          "source": "Reddit r/nba",
-          "published": "2026-05-08T02:14:03+00:00",
+          "id": "eb758b7d21aa",
+          "title": "Finch: Wolves 'got punked' in 38-point blowout",
+          "original_title": "Finch: Wolves 'got punked' in 38-point blowout",
+          "summary": "The Timberwolves, despite a warning from superstar Anthony Edwards, could not keep pace with the recharged Spurs in Wednesday night's Game 2.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/48700497/wolves-fail-heed-edwards-warning-come-cool-rout",
+          "source": "ESPN NBA",
+          "published": "2026-05-08T05:58:09+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "28488cef832b",
-          "title": "James Harden Disappears in Game 2 as Cavaliers Pay the Price",
-          "original_title": "James Harden disappears in Game 2, and Cavaliers pay the price",
-          "summary": "In the second straight game, James Harden struggled to find his footing against the Detroit Pistons, particularly in the first half. His lack of production was a key factor in Cleveland's loss in the conference semifinals.",
-          "key_points": [
-            "Harden's scoring and playmaking dipped significantly compared to Game 1.",
-            "The Cavaliers were unable to compensate for his off night, leading to a defeat.",
-            "The loss put additional pressure on Cleveland's remaining stars to carry the series."
-          ],
-          "link": "https://sports.yahoo.com/articles/james-harden-game-2-stats-015612968.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-08T01:56:12+00:00",
+          "id": "49e5e8d50a9e",
+          "title": "\ud83d\udc1d Latest buzz ahead of the offseason, draft",
+          "original_title": "\ud83d\udc1d Latest buzz ahead of the offseason, draft",
+          "summary": "Here's the latest news and reactions from our NBA insiders, including the latest on Kevin Durant's lingering ankle injury.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
+          "source": "ESPN NBA",
+          "published": "2026-05-08T05:58:09+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -165,74 +256,134 @@
       "name": "Lakers Players",
       "articles": [
         {
+          "id": "aa55adc464bb",
+          "title": "Lakers Face 2\u20110 Deficit Against Undefeated Thunder",
+          "original_title": "LeBron James, Lakers staring at 2-0 deficit vs undefeated Oklahoma City Thunder - olympics.com",
+          "summary": "The Los Angeles Lakers fell behind 0\u20112 in their playoff series against the Oklahoma City Thunder, who entered the matchup unbeaten. LeBron James highlighted the challenge of overcoming a strong Thunder start as the Lakers look to avoid a sweep.",
+          "key_points": [
+            "Thunder entered the series with a perfect record.",
+            "Lakers are down 0\u20112 and must win to stay alive.",
+            "LeBron emphasized the difficulty of rebounding from early losses."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLQ3J6VXpNZWx5OEM4UjVBaHI4ME1SdHQ1T0JRQWctb3c3RVEyQndlU1gwUkQ5YUt4cUlZcWpHUFdZTDk0MElzMUVBaS0tMGxKUXVFcUltU0ZxTWJhMkxNSm9YSWFrTzcydjRpdEMwOA?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-08T05:44:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "baf8911c3620",
+          "title": "Coach JJ Redick Says LeBron Gets \u2018Worst Whistle\u2019 After Ref Confrontation",
+          "original_title": "Lakers coach JJ Redick says LeBron James gets 'worst whistle of any star player' after players confront refs - Yahoo Sports",
+          "summary": "Lakers head coach JJ Redick commented that LeBron James received the harshest officiating call among star players after a heated exchange between Lakers players and the referees. The incident occurred during a recent game, prompting discussion about consistency in officiating.",
+          "key_points": [
+            "Redick defended LeBron, calling the whistle the \u201cworst\u201d for a star.",
+            "Players confronted officials, leading to a controversial call.",
+            "The situation sparked broader debate on NBA officiating standards."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWGZubGNtQ2tRdW9wUmtZSXJBSHVYQ0hjaVM1VHhDXzRxWkpVNEZKd0N0RmtPMzNBTjBRZEJydUwxZWFweTQ2Mk53S00yZHhjNHE0RE9iNUxWZ1dLeTZNY2FjbUlCc1QzNDVTeHB4NmdGZjRSUUNJam1xa19UNU5zMHc0ZzlLMnhBdGYzb2dlTnViQmpnd2E3M2MtaE1CWnJEVmxNR3pyOG5YVmxvNEIwZGs5UDhLblhjamgwYm9QbnFUd1pFVFpLTVN1UDJ6LW5lMzlFb3V4cmJTcmk2cnMyT09jS0tmLUdWV1BQNUpGaw?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-08T05:11:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "4fd596d21321",
+          "title": "Lakers Lose Game 2 to Thunder as LeBron, Reaves Fall Short",
+          "original_title": "LeBron James, Reaves, Lakers Fall Short in Game 2 as Fans React to Loss vs. SGA, Thunder - Bleacher Report",
+          "summary": "In Game 2 of the series, the Lakers were defeated by the Oklahoma City Thunder, with LeBron James and Austin Reaves unable to secure a win. Fans expressed disappointment on social media, noting the team's struggle to contain Shai Gilgeous\u2011Alexander.",
+          "key_points": [
+            "Thunder won Game 2, extending the Lakers\u2019 series deficit.",
+            "LeBron and Reaves could not match the Thunder\u2019s offensive output.",
+            "Fan reaction highlighted frustration with the Lakers\u2019 performance."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaHRBaWhtUTZnNHBLVHhPb1BkQ2UtZDJ2dHJhTVBNZUFELS1DVmU3NDhodUhac19qRjlwSmRlUHFfRGZoVHNCMWVWdkplWDVOc1RLZGpJZld6WmNJYVpGQXlCUGUwRUUtTm9LcUFKZmdER21KUVIydjJGWjRYcVFvUWx3U0ZQck00Wm5XSkhwQnU4LTF0QnZtMzlrWkdBRThJR3JxRlZIUWRXc0JEVVV3ZUNnZHdYOHZLMEJKVQ?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-08T04:33:05+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "eb376364e374",
+          "title": "NBA Community Reacts to LeBron\u2019s Play in Lakers\u2011Thunder Game",
+          "original_title": "NBA World Reacts To LeBron James\u2019 Performance In Lakers-Thunder Game - heavy.com",
+          "summary": "Various NBA analysts and former players weighed in on LeBron James\u2019 performance against the Thunder, offering mixed assessments. While some praised his effort, others pointed to inefficiencies and the need for better support from teammates.",
+          "key_points": [
+            "Reactions ranged from praise for LeBron\u2019s effort to criticism of his shooting efficiency.",
+            "Commentators emphasized the importance of surrounding LeBron with consistent contributors.",
+            "The discussion reflects broader concerns about the Lakers\u2019 playoff prospects."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaEMzZ1dFUFExb1EtSHd5aGdkajVrYnlWVmtUdzJTbzZJWkp0RDNPU2VjZW5lcWg2ckd1ZUNGWGlONG41NmJOYUt4bzMyaFlUbG9pMzNsa09yUDNidjZ2WnhUeV9jOUpKamdQRjU1U25CUGQyOVltakxHQjJCOXhFTVhIYThuMi05dFdWdWdUcU91UTlQNnJ3d3FiZ2R4WTQ?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-08T04:27:33+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "25ece1e890a1",
+          "title": "LeBron James Becomes First Player with 300 Postseason Appearances",
+          "original_title": "LeBron James becomes the first player with 300 postseason games - Yahoo Sports",
+          "summary": "LeBron James set a new NBA{\u200b} milestone by appearing in his 300th postseason game, the first player in league history to reach that mark. The achievement underscores his longevity and sustained success across multiple teams.",
+          "key_points": [
+            "James reached 300 career playoff games, a historic first.",
+            "The milestone highlights his durability and consistent high\u2011level play.",
+            "It adds to LeBron\u2019s extensive list of career records."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSk55UEJlRU9iQ1F6UzRHU3U0ZkticElEWGRHd09wQ0tEaUxpY09MNnRWYk1GTDF1YXZtUnJFOEZRZGxCbU4xMWozRVA1d0dBVjZkVDdSUVF5MExZQWZkZVdEOVlzZ25QMk0wTzNiT2ZuV09EQm9QWDdSam0zUHg3QTRWbDdHT0hMd3c?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-08T04:11:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "8dd4d137c802",
+          "title": "LeBron James Throws Down in Lakers Game",
+          "original_title": "LeBron James throws it down - NBA",
+          "summary": "LeBron James delivered a highlight-reel dunk during a recent Lakers matchup, showcasing his continued athleticism in the playoffs. The play was featured in a brief NBA news piece.",
+          "key_points": [
+            "LeBron executed a powerful dunk that drew attention on social media.",
+            "The dunk occurred during a playoff game, underscoring his impact despite age.",
+            "No additional context or statistics were provided in the article."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ19wc2N0TVhzdXlmczRsSUEzNjhQczNYUlJabVFCdmV6VU9TRXVXSWNRd2ZrM0tiSkkxNjBlWHcxQXdqakg4N1NiVzJoSFJkMlpud3dyb0FEU1VqVlFJWk5IYVlsNzJ0UnVxSUpOX29lZW9MNkJxcTFkSVhSWXI3cWdzVzNjRlJmMmhpelNzMVltTGlaVEJiQmthVG8?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-08T03:28:20+00:00",
+          "topic": "Lakers Players"
+        },
+        {
           "id": "5e2e87ec5c23",
           "title": "Final Injury Report Ahead of Lakers\u2011Thunder Game 2",
           "original_title": "Final Injury Report for Lakers-Thunder Game 2: Will Luka Doncic, Jalen Williams Play? - Yahoo Sports",
-          "summary": "Yahoo Sports released the latest injury updates before Game 2 of the Lakers\u2011Thunder series. The report confirmed the status of key players, including whether Dallas\u2019 Luka\u202fDoncic and Oklahoma City\u2019s Jalen Williams would be available. The Lakers also listed their own health concerns heading into the matchup.",
+          "summary": "Yahoo Sports released the latest injury updates before Game 2 of the Lakers\u2011Thunder series, focusing on the availability of Dallas Mavericks star Luka\u202fDoncic and rookie forward Jalen Williams. The report outlines which players are cleared, questionable, or out for the contest.",
           "key_points": [
-            "Luka\u202fDoncic listed as questionable with a minor ankle sprain.",
-            "Jalen Williams cleared to play after missing Game 1 with a wrist issue.",
-            "Los Angeles reported LeBron James as day\u2011to\u2011day after exiting early in Game 1."
+            "Luka\u202fDoncic listed as questionable due to a recent ankle issue.",
+            "Jalen Williams\u2019 status confirmed as doubtful after a sprain.",
+            "Lakers\u2019 roster largely intact, with no major injuries reported."
           ],
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdjNRMkpkeXVoejdvSHp6ZENwLUZRUHczWDYzVkN1VjNiYWNmLUM4azUzejQ1Rm5Db3p3NGt0c0t3REE0dmd2X1dPcE4zQU50UFpvSFF3anN4RjB0RGNNS24tTnhPZkZZcVRfUzItdnhrZVlxNFo2VHVCV1RvRm54YmtfSTN4amZOR2tJ?oc=5",
           "source": "Google News - Luka",
-          "published": "2026-05-08T02:26:15+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "7ad4bb210f40",
-          "title": "LeBron James Sets New One\u2011on\u2011One Record for Lakers",
-          "original_title": "LeBron James makes epic one-of-one NBA history again for Lakers - BasketNews.com",
-          "summary": "BasketNews.com highlighted LeBron James\u2019 historic one\u2011on\u2011one scoring feat during the playoff series. James became the first player in Lakers postseason history to score 30+ points while being defended by a single opponent for the entire game. The performance underscored his continued dominance in high\u2011pressure moments.",
-          "key_points": [
-            "LeBron scored 33 points in a one\u2011on\u2011one situation against the Thunder.",
-            "He set a franchise playoff record for points in a single\u2011defender scenario.",
-            "The achievement came despite the Lakers trailing in the series."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT1A2T1hEVDl4RTZzT2dpY3otZjIyQjRzeHNDZl80YnFRbnFiOFlrTXpTUjFzeE8wNTRhWFlsR1NFOENZV18xbVljR1pkckV6Z1pQdkNJMXJLczFueWdaV2VpWlhQZ3ZRdXRPZ3dYSjh1Z01LWXpZY1ZIYnprVEs3S0Y0TjZCdjVZclA0ZW43Uk5kOU1kRmVDanRUUFNhT1JsX2NNUVhB?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-08T02:24:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "f3009df0febe",
-          "title": "LeBron James in the Right Place at the Right Time",
-          "original_title": "LeBron James in the right place at the right time - NBA",
-          "summary": "NBA.com published a brief analysis of LeBron James\u2019 clutch play during the Lakers\u2019 recent playoff game. The article noted several key moments where James\u2019 positioning and decision\u2011making led to critical baskets and defensive stops. His timing helped keep the Lakers competitive against Oklahoma City.",
-          "key_points": [
-            "James delivered a go\u2011ahead alley\u2011oop in the fourth quarter.",
-            "His defensive rotation forced a turnover that led to a fast\u2011break dunk.",
-            "The play highlighted his veteran basketball IQ in high\u2011stakes situations."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQzJaU21HNmZROE1kQVEwMnE3ejZ6akZHQ2FQRGlBZkNyVU8yMHdILXdadkc3VjNSWHlDb25GMU5vYjkzdWJjb2M0ZEtjYVF0LXloRk1OWHByNklPR3h4dXdYekRpa0tWSGRBU1ROWEZxc3dNeS0tRXBKTTE0YjA4dnFHbXQ0aGI5?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-08T02:11:57+00:00",
+          "published": "2026-05-08T02:28:10+00:00",
           "topic": "Lakers Players"
         },
         {
           "id": "21ac31d286ea",
           "title": "LeBron James Limps Off Early in Lakers\u2011Thunder Playoff Game",
           "original_title": "LeBron James injury update: Lakers star limps off early vs Thunder in NBA Playoffs - The Oklahoman",
-          "summary": "The Oklahoman reported that LeBron James left the game early after sustaining a lower\u2011body injury. He appeared to limp off the court in the first half, prompting an injury update from the Lakers\u2019 medical staff. The team later confirmed he would miss the remainder of the game but remained hopeful for a quick return.",
+          "summary": "The Oklahoman reported that LeBron James left the court early in the Lakers\u2019 playoff game against the Thunder after appearing to injure his leg. The article provided an update on his condition and the team's response.",
           "key_points": [
-            "James exited with a suspected hamstring strain after less than 10 minutes.",
-            "Lakers announced he would be evaluated further before Game 3.",
-            "The injury raised concerns about the Lakers\u2019 depth in the series."
+            "LeBron exited the game in the first half after a noticeable limp.",
+            "Team medical staff evaluated him on the bench; no immediate return was announced.",
+            "The incident raised concerns about his availability for the remainder of the series."
           ],
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcjRmb1JFdEIwX0RlSXF0WHFmQWpmbzFycEZMZHNlN01fOFRDdGdaY3ZmZEdhcGRZUE1PVGkyZ1AzcWV5bjNhbkxzT1Y5MWFWa0ZsNV9KeTlwMDlsZy1HbnpjWEVCR0VVTmgtaUphTERkVEZwME0wWFVOQkZaZzhCVHkzOGlNS1EwUU44TmFlX2hsa1VERUJySFBOc3A4Y1B5ZmNPUi1maXM5dC1HOEtTd0ZYWXhkSnhqY2RrUVVFZmItbXRlSm1aX0lNZEdOeWdNZmxqM2tzaXo0UWRCSUE?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-05-08T02:05:00+00:00",
+          "published": "2026-05-08T02:13:00+00:00",
           "topic": "Lakers Players"
         },
         {
           "id": "c9ee268ccb34",
-          "title": "Ric Flair Defends LeBron James After Luka\u202fDoncic Rant",
+          "title": "Ric Flair Backs LeBron James After Luka Doncic Rant",
           "original_title": "LeBron James gets support from Ric Flair after Luka Doncic rant - The Big Lead",
-          "summary": "The Big Lead covered a social\u2011media exchange in which wrestling legend Ric Flair backed LeBron James following a heated comment from Luka\u202fDoncic. Flair posted a supportive message, emphasizing respect for James\u2019 career achievements. The incident added a pop\u2011culture twist to the ongoing playoff narrative.",
+          "summary": "The Big Lead covered former wrestling star Ric Flair\u2019s public support for LeBron James following a heated comment from Luka\u202fDoncic. Flair\u2019s remarks were aimed at defending James amid the playoff rivalry.",
           "key_points": [
-            "Luka\u202fDoncic criticized James in a post\u2011game interview.",
-            "Ric\u202fFlair responded with a public endorsement of LeBron on Twitter.",
-            "The exchange drew attention from both sports and entertainment fans."
+            "Ric Flair posted a supportive message for LeBron on social media.",
+            "The comment came after Luka\u202fDoncic criticized James in a post\u2011game interview.",
+            "Flair\u2019s involvement highlights the crossover interest between sports and entertainment."
           ],
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOTk1UGJKZ25POTQ5Q2lUQWRHUWMzMjBmMk5nMnBITnpkUDRJVnFrZjJiMFk5SENVMTlwUmgzZV84ank2YWEycnBfazVXSzJCTHkyMmVzRm01azJtTUV2SEpCQXFPc3R3U2szZVVNLWllMl9TMGI5X05UbzJJUlp6RjMta042aXRWenNVV0tDcw?oc=5",
           "source": "Google News - LeBron",
@@ -240,58 +391,18 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "cc3f6de50fa7",
-          "title": "Alex Caruso gives honest reminder about LeBron James - Lakers Nation",
-          "original_title": "Alex Caruso gives honest reminder about LeBron James - Lakers Nation",
-          "summary": "Alex Caruso gives honest reminder about LeBron James&nbsp;&nbsp;Lakers Nation",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT3ROeTY0cEh5ZjFKaFJ3WUw2dGpFQkRINHI2Sk8xcVplZ2dwWE9DcF8tc1I5dmVhWnJWblNyb1diWTVQUk9Idi1fVTBmNjdWSkNqdFpJUzZQc3hpd2hSYWM3NHhGMjVmdDdqelRpR3hXaXJkYl84bk1aTWhNQnVrOXNrLTJHdVE1c2Q2cEJTVTBrSklQX3hwOGh4bGx3RWx0?oc=5",
+          "id": "80c330460f08",
+          "title": "Luka Doncic Calls for One Last LeBron James Miracle",
+          "original_title": "Luka Doncic update calls for one last LeBron James miracle with the Lakers - Lake Show Life",
+          "summary": "Lake Show Life published an opinion piece noting Luka\u202fDoncic\u2019s plea for a final heroic performance from LeBron James as the Lakers face elimination. The article reflects on the stakes for both teams in the series.",
+          "key_points": [
+            "Doncic expressed hope that LeBron can deliver a game\u2011changing play.",
+            "The Lakers are on the brink of being knocked out of the playoffs.",
+            "The piece underscores the narrative tension surrounding veteran leadership versus emerging talent."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaThnejRTdG5MTDdLak1aUE55Sl9oNTZHaGd2clFxVWhiNWx5bnhneGNFYnBtQnlTaVNYc0lMN2xRdGZGbDVPcVlqVUF3NVpHb0FXLXZ4NUwzdmZ1YXVpSTJ3ZDZVVU9pUE5KRkd5RGlKZ3ZoVlNubFl6cVlHVWdDM25WNnNaekVpYnl0NFY5OA?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-05-08T00:25:55+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "934d6bec3517",
-          "title": "Why Luka Doncic isn't playing tonight for Lakers vs. Thunder with injury news - Yahoo Sports",
-          "original_title": "Why Luka Doncic isn't playing tonight for Lakers vs. Thunder with injury news - Yahoo Sports",
-          "summary": "Why Luka Doncic isn't playing tonight for Lakers vs. Thunder with injury news&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRWNKMEIzQUVmVjZvUFFQSHRlZVVuUHJNZlNkZUtwNXhKdHFEWXNJdlhxNHJMT0xxYURjcnNLeTFFTTlXTHlRbkFSTGVTNk5acDJXUURFYnVNVHNEZkhRSnhGbWthdDdSdmo2YWRqX1hZeGdQUVI5TERKM3MxQWpRSElKSQ?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-05-07T23:51:21+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "53fd3626848e",
-          "title": "Luka Doncic injury timeline: When will Lakers star return? - Yahoo Sports",
-          "original_title": "Luka Doncic injury timeline: When will Lakers star return? - Yahoo Sports",
-          "summary": "Luka Doncic injury timeline: When will Lakers star return?&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOR0lCTEZvdlkzMUcxbkxtRTdhZkRyNnhfRGRTZjVWcVlaRnNjM0NyZkJESUNOaHcyUW9yWHVRaGhNY1FWdVVtd0lRcklpRmt2ZHVRaE1hNTNORjBJa3VDWmRNTDBqRzVvOXlQTk9landNaHBnRXBQbVJzSnpCTHhkNlhiaDcxRG96eFQ0?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-05-07T23:00:41+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "94eba7393082",
-          "title": "LeBron James And 4 Other Underdog Player Props For Game 2 Thunder vs. Lakers - Sports Illustrated",
-          "original_title": "LeBron James And 4 Other Underdog Player Props For Game 2 Thunder vs. Lakers - Sports Illustrated",
-          "summary": "LeBron James And 4 Other Underdog Player Props For Game 2 Thunder vs. Lakers&nbsp;&nbsp;Sports Illustrated",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRE5yYllVa3g2RlNuVEdicmdCQzUtR3M5QlFzZl9ualBrTHNFR0NYSnpsUGJDa1c4VmNmU1RHR0hDdFB5eXN3bGtFUFg1aHF0WXpWX3BqbjhoNnhtZkk3VEdJeHJxMGVkeThXem9jWVZfYW02WWpuMmpFbGhHaFdWZjV6U3NXREszeFhfTzExZlkyd2ZmUkZjdUdwQWFkdGdwN0NrTXJNYTk1OTJRcHI3bQ?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-07T20:12:48+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "2425d68ac6e7",
-          "title": "Luka Don\u010di\u0107 unlikely to return during Lakers\u2019 second-round series against Thunder - nytimes.com",
-          "original_title": "Luka Don\u010di\u0107 unlikely to return during Lakers\u2019 second-round series against Thunder - nytimes.com",
-          "summary": "Luka Don\u010di\u0107 unlikely to return during Lakers\u2019 second-round series against Thunder&nbsp;&nbsp;nytimes.comFrustrated Luka Doncic breaks his silence; doctors forecasted he\u2019d miss Thunder series&nbsp;&nbsp;Los Angeles TimesLuka Doncic injury timeline: When will Lakers star return to court?&nbsp;&nbsp;USA TodayLakers' Luka Doncic still unsure when he'll return from injury&nbsp;&nbsp;ESPNRic Flair Doubles Down on Luka Doncic Injury Remarks, Mentions Jayson Tatum&nbsp;&nbsp;heavy.comInside Luka Doncic\u2019",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaHl5SFp4Z1ZMLUVoZnhGNE1ZUy16S00xLW1OeW51QWhLbDFSUFBPV1lXRnVuTG5WcUJ5QVRlUDBnTGc4Z1RpOTU4eExjUjIyVUw1RGFyZVU0T0RHVVYwSUduSVBzb01VS055Wkh0Z29HaWZDZndqTDBaMy1WYTMzQVViRGRjUkZWZjJvcWNERHBTa2JBWDRCUg?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-05-07T20:11:00+00:00",
+          "published": "2026-05-08T01:05:15+00:00",
           "topic": "Lakers Players"
         }
       ]
