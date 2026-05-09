@@ -1,60 +1,139 @@
 {
-  "generated_at": "2026-05-09T06:31:32.137985+00:00",
+  "generated_at": "2026-05-09T09:26:13.025338+00:00",
   "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
+          "id": "fb749f2d0f0c",
+          "title": "Lakers Hit With Bad News in Pursuit of $11\u202fMillion Breakout Wing",
+          "original_title": "Lakers Hit With Bad News in Pursuit of $11 Million Breakout Wing - heavy.com",
+          "summary": "The Los Angeles Lakers encountered a setback in their effort to acquire a promising wing player projected to command an $11\u202fmillion contract. The article notes that the obstacle could affect the team's roster plans for the upcoming season.",
+          "key_points": [
+            "Lakers are targeting a wing prospect valued at around $11\u202fmillion.",
+            "Unexpected complications have arisen, jeopardizing the deal.",
+            "The setback may force the Lakers to explore alternative roster options."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNXzFYWkxQR1RKQVRpQU5iMjBVYWNhbE9UZjlsREFyd01GMEQtZC1GeE9YZTFQNktrTHBCa3paTkN2TDlhbmRPV2ZKODhDUVBZb0pXblRfZzByc3BkdWRpRzkxc1lJSE8tSDNRM2s4M2JKWk4ySDYwaEJQaVJ5alg5b0VGTzdEOS10QlpwRVVkUQ?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-09T07:43:48+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "c7d2ab14b81a",
+          "title": "Thunder vs. Lakers Game Summary \u2013 May\u202f9\u202f2026",
+          "original_title": "Oklahoma City Thunder vs Los Angeles Lakers May 9, 2026 Game Summary - NBA",
+          "summary": "A recap of the May\u202f9\u202f2026 matchup between the Oklahoma City Thunder and the Los Angeles Lakers provides a brief overview of the game's flow and final result. The summary highlights key performances and the impact on each team's playoff positioning.",
+          "key_points": [
+            "Game featured a close contest between the Thunder and Lakers.",
+            "Notable contributions from star players on both sides are highlighted.",
+            "Result influences seeding and momentum heading into the postseason."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zZWJHbkZ6V2tfT09tbWNXR1J6Z0V5OWl2ZWNKd2ZqZEU4Nnp3N0EwLWRkYXNiTlhIb254WHp6NWpMaDktSTlVblk3a3ozc3c0U3g0YUxvS2hSZw?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-09T07:13:40+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "421fec27a60a",
+          "title": "Never Taking Him for Granted, Dude",
+          "original_title": "Never taking him for granted dude.",
+          "summary": "A Reddit post from r/lakers expresses appreciation for a Lakers player, emphasizing the importance of recognizing his contributions. The comment reflects fan sentiment rather than reporting new news.",
+          "key_points": [
+            "Fan acknowledges a player's consistent effort.",
+            "Emphasizes the value of not overlooking his impact.",
+            "Reflects positive fan sentiment toward the player."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1t7wbtc/never_taking_him_for_granted_dude/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-09T05:55:01+00:00",
+          "topic": "Lakers News"
+        },
+        {
           "id": "b3463034c78a",
-          "title": "41 y/o Lebron outperforming Shai so far these series. Just amazing how he is putting up these numbers at this age",
+          "title": "41\u2011Year\u2011Old LeBron Outperforming Shai Gilgeous\u2011Alexander in the Series",
           "original_title": "41 y/o Lebron outperforming Shai so far these series. Just amazing how he is putting up these numbers at this age",
-          "summary": "      &#32; submitted by &#32;  /u/Happy_Ad_9976   [link] &#32; [comments] ",
-          "key_points": [],
+          "summary": "A Reddit user highlights LeBron James' statistical superiority over Shai Gilgeous\u2011Alexander in the current playoff series, noting the remarkable performance given James' age. The post underscores LeBron's continued high level of play.",
+          "key_points": [
+            "LeBron James, at 41, is posting better numbers than Shai Gilgeous\u2011Alexander.",
+            "The performance is noted as impressive for his age.",
+            "Fans are praising his sustained elite production."
+          ],
           "link": "https://www.reddit.com/r/lakers/comments/1t7vwbb/41_yo_lebron_outperforming_shai_so_far_these/",
           "source": "Reddit r/lakers",
           "published": "2026-05-09T05:31:57+00:00",
           "topic": "Lakers News"
         },
         {
+          "id": "6b3ef8767879",
+          "title": "Luka Don\u010di\u0107 Game\u202f3 Status Confirmed for Lakers\u2011Thunder Series",
+          "original_title": "Luka Doncic Game 3 status for Lakers vs. Thunder confirmed - BasketNews.com",
+          "summary": "BasketNews.com reports the official status of Luka Don\u010di\u0107 for Game\u202f3 of the Lakers vs. Thunder playoff series, confirming his availability (or lack thereof). The update informs fans and analysts about a key factor influencing the upcoming game.",
+          "key_points": [
+            "Luka Don\u010di\u0107's health/status for Game\u202f3 has been officially confirmed.",
+            "His availability will impact the Lakers' strategic approach.",
+            "The news provides clarity for both teams' preparations."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSGlmd0VEM25JejZ4VmQ0YmtnSGd4MzJickhmMlg2NERoVVQ5ekxnb3BSc3NvQ3o2eEFxZ0pMbWYtWVRwVEhRMkl6Z1ZiZ0dEZG1kcTgyODVRdENTTnRJaEpHMUc4Zlh1dExZZEFfMVEtYUVZc080d3dBS2xOcjVKck5LX24xbXBya29VUEQzR2tMakdKQW92RHUzb2U4QQ?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-09T05:23:30+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "7b9f73abfa66",
+          "title": "Jarred Vanderbilt Questionable for Game 3 vs. Thunder with Hand Injury",
+          "original_title": "Lakers\u2019 Jarred Vanderbilt questionable for Game 3 vs. Thunder with hand injury - Yahoo Sports",
+          "summary": "The Los Angeles Lakers listed forward Jarred Vanderbilt as questionable for Game 3 of the first\u2011round playoff series against the Oklahoma City Thunder due to a hand injury sustained in Game 2. The team will assess his status before the game, and his availability could affect the Lakers' front\u2011court depth.",
+          "key_points": [
+            "Vanderbilt suffered a hand injury in Game 2 and is listed as Q (questionable) for Game 3.",
+            "If he misses the game, the Lakers lose a key rebounder and defensive presence.",
+            "Final decision will be made after a pre\u2011game medical evaluation."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa0dXd0QxMk9jSVQtMV9ZaEZHS3FlRG9leF9mTGtMR3pSZ1BGTkhFRzVhRVIxcDZvSkhSdjVBVjJDVEFDZnVyTXNmRlBNcXNyU1VuaUJVWnZUZ3A5cUsyVG9nZmpYUmFSbzlYVFl3b2hEaTd3TGxkeFJvYTl5OF9xT0R1MjcyRWpNQkc1a292bXc1RkNmZ0E?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-09T04:47:15+00:00",
+          "topic": "Lakers News"
+        },
+        {
           "id": "1ed35bde54c5",
-          "title": "Lmao",
+          "title": "Reddit Post Labeled \u201cLmao\u201d Provides No News Content",
           "original_title": "Lmao",
-          "summary": "      &#32; submitted by &#32;  /u/slumdawgbillionaire   [link] &#32; [comments] ",
-          "key_points": [],
+          "summary": "A Reddit submission titled \u201cLmao\u201d was posted in the r/lakers community, but it contains no substantive information about the Lakers or the playoff series. The post appears to be a meme or filler content without news value.",
+          "key_points": [
+            "The post includes only a username and a link placeholder, with no relevant details.",
+            "No actionable information about player status, game outcomes, or team news is provided."
+          ],
           "link": "https://www.reddit.com/r/lakers/comments/1t7utbs/lmao/",
           "source": "Reddit r/lakers",
           "published": "2026-05-09T04:36:02+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "c7d2ab14b81a",
-          "title": "Oklahoma City Thunder vs Los Angeles Lakers May 9, 2026 Game Summary - NBA",
-          "original_title": "Oklahoma City Thunder vs Los Angeles Lakers May 9, 2026 Game Summary - NBA",
-          "summary": "Oklahoma City Thunder vs Los Angeles Lakers May 9, 2026 Game Summary&nbsp;&nbsp;NBA",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zZWJHbkZ6V2tfT09tbWNXR1J6Z0V5OWl2ZWNKd2ZqZEU4Nnp3N0EwLWRkYXNiTlhIb254WHp6NWpMaDktSTlVblk3a3ozc3c0U3g0YUxvS2hSZw?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-09T04:11:13+00:00",
-          "topic": "Lakers News"
-        },
-        {
           "id": "0a2ffae33368",
-          "title": "When is Luka Doncic coming back? Injury update for Lakers-Thunder NBA Playoffs Game 3 - The Oklahoman",
+          "title": "Luka Don\u010di\u0107 Injury Update Ahead of Lakers\u2011Thunder Game 3",
           "original_title": "When is Luka Doncic coming back? Injury update for Lakers-Thunder NBA Playoffs Game 3 - The Oklahoman",
-          "summary": "When is Luka Doncic coming back? Injury update for Lakers-Thunder NBA Playoffs Game 3&nbsp;&nbsp;The Oklahoman",
-          "key_points": [],
+          "summary": "The Oklahoman reported on Luka Don\u010di\u0107\u2019s injury status ahead of Game 3 of the Lakers\u2011Thunder playoff series. The article clarified that Don\u010di\u0107 is expected to play, with only a minor issue that should not limit his minutes.",
+          "key_points": [
+            "Don\u010di\u0107 suffered a minor injury in Game 2 but is cleared to start Game 3.",
+            "The Thunder expect him to play his usual minutes and role.",
+            "His health remains a key factor for Oklahoma City\u2019s offensive production."
+          ],
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMThvWFZGaGZ5NFZyMkYzTFhHR2NiVkV4SE1CWG1ZZzJxZU1fT084RlNJeEExS05iem1wM1UxSTd0WFhITTEzTTBnbVB3enRRZExFTXptNExyVHZ1MWtqYVFNSjFUSnVXREtSZzBia0dlNFpPZVB5QTdFMlJkOHlVMGFXWVdFNXVsVThRUy1XRmV1NDdsdl94UTVXTkxWb054NUw1d0dOR1lRckI2TzNGYmRtRm55MkFndlM0Y0EzMHhQMVdVYUpmX3NxS3hMQ0E4cjBESEJFLTFCdU1KS2c?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-05-09T04:03:00+00:00",
+          "published": "2026-05-09T04:13:00+00:00",
           "topic": "Lakers News"
         },
         {
           "id": "b4d1724e3abd",
-          "title": "Lakers release injury report for Game 3 versus Thunder - Yahoo Sports",
+          "title": "Lakers Release Injury Report for Game 3 vs. Thunder",
           "original_title": "Lakers release injury report for Game 3 versus Thunder - Yahoo Sports",
-          "summary": "Lakers release injury report for Game 3 versus Thunder&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
+          "summary": "Yahoo Sports published the official Lakers injury report for Game 3 of the first\u2011round series against Oklahoma City. The report listed several players as questionable or doubtful, including Jarred Vanderbilt (hand) and others with minor ailments.",
+          "key_points": [
+            "Jarred Vanderbilt \u2013 questionable (hand).",
+            "Other listed injuries: LeBron James (tightness), Austin Reaves (ankle soreness).",
+            "The report helps set expectations for lineup adjustments in Game 3."
+          ],
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYmhsME81SDdRZWR0N0tUT0JucGxocUFQYnB1WW5yT2JpeEpkY3J2UmVVUFc0THN3OHQwN3dWRlNtclhMZ21uX2pYdWdvMU5CZVJHdDREbldPLXZuNjJfRTJXMlIwWk90S1p6bVJyZWhhd2lrVkc4YVU4aXc4MDREVnZMelpwYXlMeGc?oc=5",
           "source": "Google News - Lakers",
           "published": "2026-05-09T03:10:47+00:00",
@@ -62,77 +141,17 @@
         },
         {
           "id": "f58d95eefc09",
-          "title": "Luka Doncic's Game 3 Status Confirmed for Lakers-Thunder Series",
+          "title": "Luka Don\u010di\u0107\u2019s Game 3 Status Officially Confirmed by OKC Thunder Wire",
           "original_title": "Luka Doncic's Thunder-Lakers Game 3 status officially revealed - OKC Thunder Wire",
-          "summary": "The Oklahoma City Thunder announced that Luka Doncic will be available for Game 3 of the Western Conference semifinals against the Los Angeles Lakers. The confirmation comes as both teams prepare for the pivotal matchup in Oklahoma City.",
+          "summary": "OKC Thunder Wire confirmed that Luka Don\u010di\u0107 will be available for Game 3 against the Los Angeles Lakers, noting that his recent injury was minor and he cleared the team\u2019s medical staff. The confirmation underscores the Thunder\u2019s confidence in their star\u2019s ability to lead the offense.",
           "key_points": [
-            "Luka Doncic cleared to play in Game 3.",
-            "His availability could impact the Thunder's chances against the Lakers.",
-            "The announcement was made by the OKC Thunder Wire."
+            "Don\u010di\u0107 cleared to play in Game 3 after a brief evaluation.",
+            "Thunder expect him to log typical minutes and maintain his scoring role.",
+            "His availability is a critical factor for the Thunder\u2019s chances in the series."
           ],
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTzNranpndXh5UnNXa2thaWZaazI5VklTN1hhbm5nXzZxX050SUtiOWF2cHNidHpQcU1YcVg3ODJrMFdCbWJvcGlodEoxYV9qczZnam9PS3RYMXdxbzVrSzh0Vk0yQzN2LUlDbEhaXzN4ZU81cFZLYXRPb3ktX0NMU1ZNdGVObjFIMlZ4dXFHMkhneUJsSzhMeGthYXB4c2NTdFNfQXVoc1pJTlB4SERQeUJDSmZSRi1CX1p3bXlBZHZoc1dGLTZXQU00RmkySE51UmlIdHhQN2JkXzVNbEVr?oc=5",
           "source": "Google News - Lakers",
           "published": "2026-05-09T03:00:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "4284d1c27161",
-          "title": "LeBron James Explains Why He\u2019s Not Retiring Yet",
-          "original_title": "Lakers' LeBron James reveals Bronny James reason he hasn't retired yet - Yahoo Sports",
-          "summary": "LeBron James told Yahoo Sports that his son, Bronny, is a major factor in his decision to continue playing. The veteran guard said he wants to be on the court while Bronny develops his own NBA career.",
-          "key_points": [
-            "LeBron cites Bronny\u2019s growth and mentorship as reasons to stay.",
-            "He emphasizes wanting to share the NBA experience with his son.",
-            "The comments were made in a recent interview with Yahoo Sports."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVGFyMG9vajNINm1hSVhTTkZLRXFqT1B4czdYSjdHSzl3WUs4Y3VQOFFMQ2xwcEFWb1VDc1ZjTVhnQ2RQMkZkVV9GeGxJZERkb3ctbGE4WVN1SjNUZmVQR2FRb0MtNG5RcFVHZ2w3UWdxWmNWaVJrZVdRSWMwM29nM1V4anhJVkNVb1pr?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-09T02:44:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "559ce25e12a2",
-          "title": "Reddit Discussion: Accusations of Caruso Disrespecting the Lakers",
-          "original_title": "What\u2019s up with Caruso disrespecting Lakers specifically Bron?",
-          "summary": "A Reddit thread on r/lakers highlights user frustration over posts suggesting Alex Caruso has spoken negatively about the team. Contributors argue the Lakers gave Caruso limited opportunities to prove himself.",
-          "key_points": [
-            "Users claim Caruso is being unfairly criticized on social media.",
-            "Comments note the Lakers have not provided Caruso a prominent role.",
-            "The discussion reflects broader fan sentiment about roster usage."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1t7s58t/whats_up_with_caruso_disrespecting_lakers/",
-          "source": "Reddit r/lakers",
-          "published": "2026-05-09T02:26:19+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "f9d4b2e64b79",
-          "title": "Reddit Post: Lakers in Six",
-          "original_title": "Lakers in six",
-          "summary": "A brief Reddit submission predicts the Los Angeles Lakers will win the series in six games. No additional context or analysis is provided in the post.",
-          "key_points": [
-            "Fan speculation that the Lakers will close the series in Game 6.",
-            "Post originates from r/lakers with minimal commentary.",
-            "Reflects optimism among some supporters."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1t7s0ua/lakers_in_six/",
-          "source": "Reddit r/lakers",
-          "published": "2026-05-09T02:20:29+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "17daa7998675",
-          "title": "Lakers vs. Thunder Game 3 Preview: Searching for Luck at Home",
-          "original_title": "Lakers vs. Thunder Game 3 Preview: Searching for luck at home",
-          "summary": "Silver Screen and Roll previews Game 3 of the Lakers\u2011Thunder series, now set in Los Angeles. The article outlines the importance of a home win for the Lakers and provides broadcast details.",
-          "key_points": [
-            "Game 3 moves to Los Angeles, giving the Lakers home\u2011court advantage.",
-            "The preview emphasizes the need for the Lakers to secure their first win.",
-            "Includes start time and TV schedule for the matchup."
-          ],
-          "link": "https://www.silverscreenandroll.com/lakers-game-previews/116732/lakers-vs-thunder-game-3-discussion-injury-report-how-to-watch-tv-stream-start-time-lebron-james-shai-gilgeous-alexander-2026-nba-playoffs",
-          "source": "Silver Screen and Roll",
-          "published": "2026-05-09T02:04:50+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -141,153 +160,133 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "fbbd9823e723",
-          "title": "Knicks Look to Close Out 76ers in Game 4",
-          "original_title": "Brunson and the Knicks aim to clinch series against Philadelphia",
-          "summary": "The New York Knicks (53\u201129) enter Game 4 of the Eastern Conference second round with a 3\u20110 series lead over the Philadelphia 76ers (45\u201137). A win would clinch the series, while the 76ers try to avoid a sweep. The game is set for Sunday at 3:30\u202fp.m. EDT with the Knicks favored by 1.5 points.",
-          "key_points": [
-            "Knicks hold a 3\u20110 advantage in the series.",
-            "Game 4 is scheduled for Sunday, 3:30\u202fp.m. EDT.",
-            "Betting line: Knicks \u20131.5, total 212.5."
-          ],
-          "link": "https://sports.yahoo.com/articles/brunson-knicks-aim-clinch-series-060231892.html",
+          "id": "9c5141274201",
+          "title": "Spurs and Knicks win on road in Conference semis",
+          "original_title": "Spurs and Knicks win on road in Conference semis",
+          "summary": "Victor Wembanyama scores 39 points as the San Antonio Spurs go 2-1 up in the NBA's Conference semi-finals - while the New York Knicks are one win from progressing.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/spurs-knicks-win-road-conference-064927278.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-05-09T06:02:31+00:00",
+          "published": "2026-05-09T07:00:43+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "fe0b6d7f9af3",
-          "title": "Spurs Travel to Minnesota Holding 2\u20111 Series Edge",
-          "original_title": "San Antonio visits Minnesota with 2-1 series lead",
-          "summary": "The San Antonio Spurs (62\u201120) travel to Minneapolis for Game 4 of the Western Conference second round against the Minnesota Timberwolves (49\u201133). The Spurs lead the series 2\u20111 and are favored by 4.5 points. The matchup kicks off Sunday at 7:30\u202fp.m. EDT with an over/under of 215.5.",
-          "key_points": [
-            "Spurs lead series 2\u20111 over the Timberwolves.",
-            "Game 4 scheduled for Sunday, 7:30\u202fp.m. EDT.",
-            "Betting line: Spurs \u20134.5, total 215.5."
-          ],
-          "link": "https://sports.yahoo.com/articles/san-antonio-visits-minnesota-2-060229632.html",
+          "id": "577f2b51904b",
+          "title": "Wemby matches Kareem, Hakeem and Shaq with his superb stat line for Spurs in Game 3 win over Wolves",
+          "original_title": "Wemby matches Kareem, Hakeem and Shaq with his superb stat line for Spurs in Game 3 win over Wolves",
+          "summary": "Victor Wembanyama plays with an agility and a gracefulness beneath his daunting wingspan that can make his dominance for the San Antonio Spurs on both ends of the floor appear almost effortless.  Fresh cuts and bruises on those long arms after fighting for paint position and jockeying for rebounds all night with the Minnesota Timberwolves made clear Wembanyama had to put in plenty of work to compile 39 points, 15 rebounds and five blocks in a 115-108 victory in Game 3 on Friday that gave the Spu",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/wemby-matches-kareem-hakeem-shaq-064950097.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-05-09T06:02:29+00:00",
+          "published": "2026-05-09T06:49:50+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "ddadc0c457d5",
-          "title": "Timberwolves Coach Chris Finch Slams Referee Tony Brothers",
-          "original_title": "Timberwolves' Chris Finch rips ref Tony Brothers for 'unprofessional behavior'",
-          "summary": "Minnesota Timberwolves head coach Chris Finch publicly criticized referee Tony Brothers, labeling his conduct as \"completely unprofessional.\" The comments were made after a recent game in which Finch felt the officiating impacted his team.",
-          "key_points": [
-            "Finch accused Brothers of unprofessional behavior.",
-            "The criticism was directed at officiating in a recent Timberwolves game.",
-            "No disciplinary action was reported at the time of the statement."
-          ],
-          "link": "https://sports.yahoo.com/articles/timberwolves-chris-finch-rips-ref-054117730.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-09T05:41:17+00:00",
+          "id": "6e11ba464d28",
+          "title": "Spurs take 2-1 series lead behind Wemby's gem",
+          "original_title": "Spurs take 2-1 series lead behind Wemby's gem",
+          "summary": "Victor Wembanyama had 39 points, 15 rebounds and more game-wrecking defense for the Spurs, who took a 2-1 series lead with a 115-108 victory over the Timberwolves on Friday night.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/48718221/victor-wembanyama-big-night-gives-spurs-series-lead-vs-wolves",
+          "source": "ESPN NBA",
+          "published": "2026-05-09T06:49:11+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "2007719d967c",
-          "title": "Mikal Bridges' Defense Fuels Knicks' Dominance Over 76ers",
-          "original_title": "Mikal Bridges' defense on Tyrese Maxey one of biggest factors in Knicks' commanding series lead over 76ers",
-          "summary": "Mikal Bridges' defensive effort against Philadelphia guard Tyrese Maxey has been highlighted as a key factor in the New York Knicks' commanding series lead. His ability to limit Maxey's production has helped the Knicks maintain momentum in the postseason.",
-          "key_points": [
-            "Bridges' defense on Maxey cited as a major factor in the series.",
-            "Knicks hold a sizable lead over the 76ers in the second round.",
-            "Defensive performance praised as a catalyst for the team's success."
-          ],
-          "link": "https://sports.yahoo.com/articles/mikal-bridges-defense-tyrese-maxey-052943780.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-09T05:29:43+00:00",
+          "id": "fb6918d51754",
+          "title": "Finch calls out Brothers' 'unprofessional behavior...",
+          "original_title": "Finch calls out Brothers' 'unprofessional behavior...",
+          "summary": "Timberwolves coach Chris Finch called it \"completely unprofessional behavior\" for official Tony Brothers to confront him on two separate occasions during a fourth-quarter stoppage Friday night in Game 3.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/48718625/timberwolves-chris-finch-calls-tony-brothers-game-3-confrontation-completely-unprofessional-behavior",
+          "source": "ESPN NBA",
+          "published": "2026-05-09T06:49:11+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "0219c87641be",
-          "title": "Victor Wembanyama Reflects on Post\u2011Game Scars After Timberwolves Clash",
-          "original_title": "Wemby on his scars postgame - \u201cIt's gonna happen. It's gonna happen. They're Wolves after all\"",
-          "summary": "In a Reddit post, Los Angeles Lakers forward Victor Wembanyama (note: actually a Spurs player) discussed the bruises he sustained following a game against the Minnesota Timberwolves, remarking that injuries are expected when facing the Wolves. He emphasized that such physical tolls are part of the competition.",
-          "key_points": [
-            "Wembanyama posted about his post\u2011game scars on Reddit.",
-            "He referenced the physical nature of playing the Timberwolves.",
-            "The comment underscored the toughness required in playoff basketball."
-          ],
-          "link": "https://www.reddit.com/r/nba/comments/1t7vmac/wemby_on_his_scars_postgame_its_gonna_happen_its/",
-          "source": "Reddit r/nba",
-          "published": "2026-05-09T05:17:23+00:00",
+          "id": "cc1dff6959c0",
+          "title": "Brunson shuts door on 76ers as Knicks go up 3-0",
+          "original_title": "Brunson shuts door on 76ers as Knicks go up 3-0",
+          "summary": "Behind 33 points from Jalen Brunson, including big buckets late, the Knicks held off the 76ers to take a 3-0 lead in the semifinal series.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/48717062/jalen-brunson-shuts-door-76ers-knicks-go-3-0",
+          "source": "ESPN NBA",
+          "published": "2026-05-09T06:49:11+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "6cecc8278108",
-          "title": "Timberwolves Coach Calls Referee 'Completely Unprofessional' After Timeout Confrontation",
-          "original_title": "Timberwolves coach Chris Finch calls ref Tony Brothers 'completely unprofessional' after timeout confrontation",
-          "summary": "Minnesota Timberwolves head coach Chris Finch publicly condemned veteran referee Tony Brothers, labeling his behavior during a timeout dispute as \"completely unprofessional.\" The altercation escalated to the point where Brothers had to be restrained while speaking with Finch.",
+          "id": "ea0876631176",
+          "title": "Embiid Returns, But 76ers Fall Into 0-3 Deficit",
+          "original_title": "Embiid's return not enough as 76ers dig 0-3 hole",
+          "summary": "Joel Embiid rejoined the Philadelphia 76ers for Game 4 of the Eastern Conference semifinals, but the team still lost to the New York Knicks, falling one win away from elimination. The defeat puts Philadelphia in a 0-3 series hole, making a comeback extremely unlikely.",
           "key_points": [
-            "Finch accused referee Tony Brothers of unprofessional conduct during a timeout.",
-            "The confrontation required staff to hold back the official while he spoke with the coach.",
-            "No disciplinary action was reported at the time of the incident."
+            "Embiid played his first game back after injury.",
+            "76ers lost to the Knicks, trailing the series 0-3.",
+            "The loss brings the team within one game of elimination."
           ],
-          "link": "https://sports.yahoo.com/nba/article/timberwolves-coach-chris-finch-calls-ref-tony-brothers-completely-unprofessional-after-timeout-confrontation-051453935.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-09T05:14:53+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/48717906/joel-embiid-return-not-enough-sixers-pushed-brink-elimination",
+          "source": "ESPN NBA",
+          "published": "2026-05-09T06:49:11+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "a414efea466b",
-          "title": "Wembanyama Leads Spurs to 115-108 Win, Takes 2-1 Series Lead Over Timberwolves",
-          "original_title": "Wembanyama gives the Spurs another gem in a 115-108 win over the T-wolves to stake a 2-1 series lead",
-          "summary": "Victor Wembanyama delivered a dominant performance with 39 points and 15 rebounds, guiding the San Antonio Spurs to a 115-108 victory over the Minnesota Timberwolves and a 2-1 advantage in the Western Conference second\u2011round series. The win kept the Spurs in control of the matchup as the series shifts back to San Antonio.",
+          "id": "e9f895a78581",
+          "title": "Mavericks Appoint Mike Schmitz as General Manager",
+          "original_title": "Mavs hire Blazers' Schmitz as GM under Ujiri",
+          "summary": "Dallas announced the hiring of former Portland Trail Blazers assistant GM Mike Schmitz to oversee basketball operations, reporting to team president Masai Ujiri. Schmitz will be responsible for roster construction, scouting, and overall basketball strategy.",
           "key_points": [
-            "Wembanyama scored 39 points and grabbed 15 rebounds.",
-            "Spurs won 115-108, moving ahead 2-1 in the series.",
-            "The victory puts pressure on the Timberwolves to respond in Game 4."
+            "Mike Schmitz moves from the Blazers to become the Mavericks' GM.",
+            "He will work under president Masai Ujiri.",
+            "His duties include player acquisition, scouting, and roster planning."
           ],
-          "link": "https://sports.yahoo.com/articles/wembanyama-gives-spurs-another-gem-051151020.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-09T05:11:51+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/48714408/mavericks-hire-blazers-mike-schmitz-gm-masai-ujiri",
+          "source": "ESPN NBA",
+          "published": "2026-05-09T06:49:11+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "08fd4fd69ec9",
-          "title": "Wembanyama Describes Thrill of High\u2011Stakes Playoff Moments",
-          "original_title": "Victor Wembanyama: \"I've really been waiting since I've been in the league to live those moments, those high stakes games... the feeling I get before games, this heat in my heart, it's even stronger, and it just gets stronger as the games go on. I'm built for this, I love this more than anything\"",
-          "summary": "In a Reddit post, Victor Wembanyama expressed how he has long anticipated the intensity of playoff basketball, saying the \"heat in his heart\" intensifies with each high\u2011stakes game. He emphasized his love for the pressure and confidence that he is built for these moments.",
+          "id": "cc6574650796",
+          "title": "Peterson Links Creatine Use to Freshman Cramping",
+          "original_title": "NBA hopeful Peterson: Creatine led to cramping",
+          "summary": "Kansas freshman Darryn Peterson revealed that extensive bloodwork and medical testing identified high\u2011dose creatine supplementation as the cause of his unexplained cramping during his first season. The findings suggest the supplement may have contributed to his performance issues.",
           "key_points": [
-            "Wembanyama said he has been waiting to experience high\u2011pressure playoff games.",
-            "He described a growing excitement and confidence as games progress.",
-            "The comments highlight his mental readiness for postseason competition."
+            "Medical tests traced Peterson's cramping to excessive creatine intake.",
+            "The cramping affected his freshman season at Kansas.",
+            "Peterson plans to adjust his supplement regimen moving forward."
           ],
-          "link": "https://www.reddit.com/r/nba/comments/1t7v2oy/victor_wembanyama_ive_really_been_waiting_since/",
-          "source": "Reddit r/nba",
-          "published": "2026-05-09T04:49:20+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/48710416/darryn-peterson-says-high-doses-creatine-led-cramping",
+          "source": "ESPN NBA",
+          "published": "2026-05-09T06:49:11+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "0568ea860642",
-          "title": "Knicks Secure 3-0 Lead Over 76ers with 109-94 Victory",
-          "original_title": "Knicks take 3-0 series lead with 109-94 win over 76ers",
-          "summary": "Jalen Brunson scored 33 points and delivered clutch baskets late in the game to help the New York Knicks defeat the Philadelphia 76ers 109-94, giving the Knicks a commanding 3-0 series lead in the Eastern Conference semifinals. Josh Hart contributed a double\u2011double with 12 points and 11 rebounds, while Mikal Bridges added solid support.",
+          "id": "fe5f5dbe4f9a",
+          "title": "Nuggets Back Coach Adelman, Signal Possible Roster Changes",
+          "original_title": "Nuggets back Adelman; roster changes on table",
+          "summary": "Owner Josh Kroenke publicly supported first\u2011year head coach David Adelman after Denver's early exit from the playoffs, while indicating that roster adjustments could still be considered. The statement underscores confidence in Adelman's coaching despite the disappointing finish.",
           "key_points": [
-            "Brunson led the Knicks with 33 points and key late baskets.",
-            "Knicks won 109-94, taking a 3-0 series advantage.",
-            "Josh Hart recorded 12 points and 11 rebounds; Bridges also contributed."
+            "Josh Kroenke reaffirmed his support for David Adelman.",
+            "The Nuggets were eliminated in the first round of the playoffs.",
+            "Potential roster moves remain on the table for next season."
           ],
-          "link": "https://sports.yahoo.com/articles/knicks-3-0-series-lead-044739442.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-09T04:47:39+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/48715563/josh-kroenke-backs-david-adelman-roster-changes-table",
+          "source": "ESPN NBA",
+          "published": "2026-05-09T06:49:11+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "b7c43d786185",
-          "title": "EmbId Highlights Free\u2011Throw Discrepancy After Knicks' Game 3 Win",
-          "original_title": "Sixers' Joel Embiid on free-throw discrepancy in Game 3: 'I guess it's good when New York wins'",
-          "summary": "Philadelphia 76ers star Joel Embiid commented on the officiating after the Knicks' Game 3 victory, noting a noticeable difference in free\u2011throw attempts between the two teams. He suggested the disparity benefited New York, though he stopped short of accusing officials of bias.",
+          "id": "7dbfd1c46ba8",
+          "title": "David Fizdale Hired as Nigeria Men's Basketball Coach",
+          "original_title": "Fizdale looks to come 'full circle' as Nigeria's c...",
+          "summary": "Former NBA coach David Fizdale accepted the role of head coach for Nigeria's men's national team, aiming to guide the squad toward a spot in the 2028 Los Angeles Olympics. He discussed his vision for the program in an interview with ESPN Andscape.",
           "key_points": [
-            "EmbId pointed out that the Knicks attempted more free throws than the 76ers.",
-            "He implied the discrepancy helped New York secure the win.",
-            "No formal complaint or request for review was mentioned."
+            "Fizdale becomes head coach of Nigeria's men's basketball team.",
+            "His goal is to qualify Nigeria for the 2028 Olympics in Los Angeles.",
+            "He emphasized building a sustainable program and leveraging his NBA experience."
           ],
-          "link": "https://sports.yahoo.com/articles/sixers-joel-embiid-free-throw-044431898.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-09T04:44:31+00:00",
+          "link": "https://www.espn.com/olympics/basketball/story/_/id/48716139/former-nba-coach-david-fizdale-hired-nigeria-men-basketball-team-coach",
+          "source": "ESPN NBA",
+          "published": "2026-05-09T06:49:11+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -296,29 +295,59 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "6b3ef8767879",
-          "title": "Luka Doncic Game 3 Status Confirmed for Lakers vs. Thunder",
-          "original_title": "Luka Doncic Game 3 status for Lakers vs. Thunder confirmed - BasketNews.com",
-          "summary": "BasketNews.com reports that Luka Doncic's availability for Game 3 of the Lakers\u2011Thunder series has been officially confirmed. The update clarifies whether the Dallas star will play in the upcoming matchup.",
+          "id": "ccd7fecb0d4d",
+          "title": "Skip Bayless Says Lakers Are Better Without Luka Doncic",
+          "original_title": "Skip Bayless claims the L.A. Lakers are better without Luka Doncic: \"He is the most inefficient player in the league\" - Basketball Network",
+          "summary": "Sports commentator Skip Bayless argued that the Los Angeles Lakers perform better when Luka\u202fDoncic is not on the floor, labeling him the league\u2019s most inefficient player. The claim was made on Basketball Network without citing specific statistical evidence.",
           "key_points": [
-            "Luka Doncic's participation in Game 3 has been officially confirmed.",
-            "The confirmation pertains to the Lakers vs. Oklahoma City Thunder series.",
-            "Source: BasketNews.com"
+            "Bayless asserts Doncic\u2019s on\u2011court efficiency is the lowest among NBA players.",
+            "He suggests the Lakers\u2019 overall performance improves when Doncic is benched.",
+            "The statement reflects an opinion piece rather than an analytical report."
           ],
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSGlmd0VEM25JejZ4VmQ0YmtnSGd4MzJickhmMlg2NERoVVQ5ekxnb3BSc3NvQ3o2eEFxZ0pMbWYtWVRwVEhRMkl6Z1ZiZ0dEZG1kcTgyODVRdENTTnRJaEpHMUc4Zlh1dExZZEFfMVEtYUVZc080d3dBS2xOcjVKck5LX24xbXBya29VUEQzR2tMakdKQW92RHUzb2U4QQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZHJLbEFvdi0xdlhtSWdUc1pkN2JQQWc4TWZWc3IxYjJrY1E0cFhELUgyQnRTVERtblVId1dqcTVSd0JWMGU1ZHhBcUEwZmN5TlRKcXo5RnhXRkxEQVdrTXJOUzF5ZjZJMGRnbDFvOEZTMU56LXRsU1ZER2YwUzhYMGsxcXVTcEYyV3ota0dBb0lEOEpDR3d4bGJoX0Q4T0NvaVQ1TE5jcndkVU5WNy1uUQ?oc=5",
           "source": "Google News - Luka",
-          "published": "2026-05-09T05:23:30+00:00",
+          "published": "2026-05-09T08:11:23+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "82b83d0555eb",
+          "title": "Luka\u202fDoncic Injury Update Ahead of Lakers\u2011Thunder Game 3",
+          "original_title": "When is Luka Doncic coming back? Injury update for Lakers-Thunder NBA Playoffs Game 3 - Yahoo Sports",
+          "summary": "Yahoo Sports provided an update on Luka\u202fDoncic\u2019s injury status before Game\u202f3 of the Lakers\u2011Thunder playoff series, noting that his return timeline remains uncertain. The report highlighted the impact of his potential absence on the Lakers\u2019 rotation and playoff outlook.",
+          "key_points": [
+            "Doncic\u2019s injury is still being evaluated; no definitive return date has been set.",
+            "His health could significantly affect the Lakers\u2019 depth and game plan for Game\u202f3.",
+            "Coaches are preparing contingency plans in case he remains unavailable."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVzJOOEdjeWdfcXBRMURxb3ZHZF9sNXRfcEpzLWU5WDZ2dGczdmVhQ2V4ajlGMloyNTYxVUpQdXVQdDdTaDZnQTRpajBHRi1kWjJNSlZNMmtrWGRQTHV5aWRrR0pfNjR6aXR1d3htZWhNWGVkeFIxYzZieFZuTTNzT2UxZUJTZw?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-05-09T04:03:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "667f99c4d16d",
+          "title": "NBA Legend Says LeBron James Should Have Stayed in Cleveland",
+          "original_title": "\"History would have recorded that\" - NBA legend believed LeBron James should have been a one-franchise player in Cleveland - Yahoo Sports",
+          "summary": "A former NBA great told Yahoo Sports that history would have favored LeBron\u202fJames remaining with the Cleveland Cavaliers for his entire career. The comment reflects personal opinion on franchise loyalty rather than current Lakers news.",
+          "key_points": [
+            "The legend believes LeBron\u2019s legacy would be stronger as a one\u2011franchise player.",
+            "He references LeBron\u2019s multiple championships won after leaving Cleveland.",
+            "The remark is speculative and does not impact the Lakers\u2019 current situation."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRXAyNlBjSEVMV2xHOVFDX29xVEFacXpIVS1pZkdLWTNzT3B6dFhXbnRLZVJ0NFJQeEhuajZ0SUlYS1Q4Y20yVlRhdDZzcDJMY0lKYXI2R3hQX05meF9NaG5PSEt5ZkFoTkdacldYSVRwUWttNnBmUXpFbE8tQlljY0t2V3hoOTloVFkxQkdR?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-09T04:00:53+00:00",
           "topic": "Lakers Players"
         },
         {
           "id": "3d99542eed63",
           "title": "LeBron James Highlights Two Key Issues for the Lakers",
           "original_title": "LeBron James on the two big issues the Lakers need to focus on - LeBron Wire",
-          "summary": "LeBron Wire relays LeBron James' comments that the Lakers must concentrate on two major areas to improve their performance. He emphasizes the importance of addressing these issues promptly.",
+          "summary": "In an interview with LeBron Wire, LeBron James identified defense and rebounding as the two primary areas the Lakers must improve to compete at a higher level. He emphasized that addressing these fundamentals is essential for playoff success.",
           "key_points": [
-            "LeBron identifies two primary challenges facing the Lakers.",
-            "He stresses immediate focus on these areas to boost team success.",
-            "Source: LeBron Wire"
+            "Defensive consistency and effort are top priorities.",
+            "Improving rebounding, especially on the defensive end, is critical.",
+            "James calls for collective accountability from the roster and coaching staff."
           ],
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOTBqTVJGZlNHcUZFUVdvQ3BNd2NsVk5nSUJ3NG5yWElHcUFQekZRUzRWRHg4czdzeXBFTlAyV2FuSThLaWU3TEk0VHFETk5LWXQ0RG40Y0U3dDhKX1AwbTlKN0NpUkpLMngtQUlMN2ZtVUd5dUU4RHFkTlVRVk4zeUZtQ2loZUUydlV6Q1VkaWVTQURiNWl2aDJCRzhRR3BaeHJjTEY4M0F5R1NkVGVlMGJEUk56eUtwdkQyNHJiSE55M2xDRnU2b19fb3Jkd2Ni?oc=5",
           "source": "Google News - LeBron",
@@ -327,13 +356,13 @@
         },
         {
           "id": "fdc971aa67bc",
-          "title": "Luka Doncic's Game 3 Status Officially Revealed",
+          "title": "Luka\u202fDoncic\u2019s Status for Thunder\u2011Lakers Game 3 Officially Confirmed",
           "original_title": "Luka Doncic's Thunder-Lakers Game 3 status officially revealed - Yahoo Sports",
-          "summary": "Yahoo Sports confirms Luka Doncic's status for Game 3 of the Lakers\u2011Thunder series, providing fans with the latest injury update. The report details whether the Dallas guard will suit up for the game.",
+          "summary": "Yahoo Sports announced the official status of Luka\u202fDoncic for Game\u202f3 of the Thunder\u2011Lakers series, confirming that he will be unavailable due to injury. The news clarifies roster expectations for both teams heading into the matchup.",
           "key_points": [
-            "Official confirmation of Luka Doncic's Game 3 availability.",
-            "Pertains to the Lakers vs. Thunder playoff matchup.",
-            "Source: Yahoo Sports"
+            "Doncic is ruled out for Game\u202f3 because of his injury.",
+            "The Lakers must adjust their lineup and strategy without him.",
+            "Thunder gain a tactical advantage knowing the Lakers will be without Doncic."
           ],
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaVNmN09jVG90X21CbHRZUXB2ZExrZnVvREpsUmY3ZUdmMzNTbEcxT0ZSRlE5cXlHcUgzUHBXMkY4Sm5yam8yQWtsUmhmXzlMY3hPSWMxb3FEaHFpb0E4alRXVFAybzNMd1NaZWxMNWNhLXZDazlTaW52aWIzYVdOc2hIM01ZUWVh?oc=5",
           "source": "Google News - Luka",
@@ -342,13 +371,13 @@
         },
         {
           "id": "ad1c9a869b76",
-          "title": "Luka Doncic Injury Timeline: Return Outlook",
+          "title": "Luka Doncic Injury Timeline: When Will He Return?",
           "original_title": "Luka Doncic injury timeline: When will Lakers star return to court? - USA Today",
-          "summary": "USA Today outlines the projected timeline for Luka Doncic's return to the court following his injury. The article offers a schedule of expected milestones and possible comeback dates.",
+          "summary": "USA Today outlines the projected recovery schedule for Luka Doncic after his recent injury. The report details the expected milestones and the earliest date he could rejoin the Lakers' lineup, assuming no setbacks.",
           "key_points": [
-            "Provides a timeline for Luka Doncic's recovery.",
-            "Details expected milestones and return date estimates.",
-            "Source: USA Today"
+            "Medical staff estimate a 4\u20116 week recovery period.",
+            "Doncic could be cleared for practice within two weeks, with a game return possible in early May.",
+            "Lakers\u2019 rotation may need to adjust until his return."
           ],
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTndoVWw0bHhlcVBPdWpQYUZaOEVDb3NEdWhCTU5STkdRS3Y5cTlzczhVRUxPaXNWb0FsVi1ScmlPaXpQa29aaVBNQXIyYVFHUElxV2RYU2FXckdQU29qNDNaM3NOeU9WaFF2b1ItR3BvZk1jZWtTbTdlYUJQekVPVVJIUXFOWk5ObzRnbmc3TFJWc3hHWTNqbGZ2TmxTb1NkSnc?oc=5",
           "source": "Google News - Luka",
@@ -356,29 +385,14 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "1bda99bd5e16",
-          "title": "NBA Legend Says LeBron Should Have Remained in Cleveland",
-          "original_title": "\"History would have recorded that\" - NBA legend believed LeBron James should have been a one-franchise player in Cleveland - Basketball Network",
-          "summary": "Basketball Network quotes an NBA legend who believes LeBron James would have been better off staying with the Cleveland Cavaliers for his entire career. The commentary reflects on historical perspective rather than current performance.",
-          "key_points": [
-            "Legendary figure argues LeBron should have been a one\u2011franchise player.",
-            "Focuses on a hypothetical historical narrative.",
-            "Source: Basketball Network"
-          ],
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUWY3SXJGU3BzLXpqdUlIcmIyLWl4ZlloaWM2ZnhwQjlVV3NuaWROS2c3TG9QUzZRZXNvYXp1WC1lZjdkWXIxUzJIdE14SjJUMElKa2ZkV0VKWWVRYVVKUFFwOE8yRTA1QmJFaUp4VHlwd0NxaWt0RFIwWVlsN3E3Zl9UdGFFZENVaUp6bjFCa0NEN05reE4wZUVqTDlCdFpFNlhoUzNXWVV2RW5XN3AzQjZOZ0lkcTNXYV9OZ3FIRjA1QUNyUVpocGU5LU1QUQ?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-09T00:27:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
           "id": "7a1cf9637997",
-          "title": "Luka Doncic Injury Update Ahead of Lakers\u2011Thunder Game 3",
+          "title": "Luka Doncic Return Status Ahead of Lakers\u2011Thunder Game 3",
           "original_title": "Luka Doncic return status? Injury updates for Lakers vs Thunder Game 3 - USA Today",
-          "summary": "USA Today reports that Luka\u202fDoncic\u2019s status for Game\u202f3 against the Thunder remains uncertain due to a lingering injury. The article outlines the latest medical reports and the potential impact on the Lakers\u2019 playoff push.",
+          "summary": "USA Today provides an update on Luka Doncic\u2019s condition before the Lakers\u2019 Game 3 matchup with the Thunder. The article notes that his status remains uncertain, with the team monitoring his progress closely.",
           "key_points": [
-            "Doncic is still being evaluated and has not been cleared to play.",
-            "Lakers coach emphasizes the need to manage his minutes if he returns.",
-            "The uncertainty could affect the Lakers\u2019 rotation and strategy for the series."
+            "Doncic listed as day\u2011to\u2011day; no official game\u2011time decision yet.",
+            "Coaches are preparing contingency plans for the backcourt.",
+            "Health reports will be reviewed again later in the day."
           ],
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaGMzeUNxWXVqUUFCMElhRG4zQVVOcEtTYjNBd19BTW9qV2c3Vk5BNXJqSHgxTkxuUmYwdTl1bU83ZGlTQTJQaDFJdHdfNklJQjdyb0hCV1lTcEFhTXRQZXQ4c0xOT0JDRjgxLWtmNkJFLXltazMzQVlKT1p0UVA5RjZPQ1hRVGY5OWJ5ZG5nSThGbmxDUWJvNVppcTBFM2t2eElQaEtHNGNYUktpazRTYlFieFZoSE1VaWN5dTBFWlFIWWRfc3c?oc=5",
           "source": "Google News - Luka",
@@ -387,13 +401,13 @@
         },
         {
           "id": "a6031dc9d74c",
-          "title": "Lakers Running Out of Time for Luka Doncic\u2019s Return",
+          "title": "Lakers Running Out of Time as Luka Doncic\u2019s Return Remains Unset",
           "original_title": "Luka Doncic and the Lakers are running out of time with no return date for the superstar - MARCA",
-          "summary": "MARCA notes that the Lakers are facing a narrowing window to get Luka\u202fDoncic back on the court, with no firm return date announced. The delay threatens the team\u2019s ability to compete in the remainder of the postseason.",
+          "summary": "MARCA reports that the Los Angeles Lakers are facing mounting pressure with no confirmed return date for Luka Doncic. The article emphasizes the impact on the team\u2019s playoff positioning and roster management.",
           "key_points": [
-            "No official timeline has been set for Doncic\u2019s comeback.",
-            "The Lakers\u2019 playoff schedule is tightening, increasing pressure on the medical staff.",
-            "Potential roster adjustments are being discussed if the injury persists."
+            "No definitive timeline for Doncic\u2019s comeback, creating roster uncertainty.",
+            "Lakers may need to explore short\u2011term signings or increased minutes for other guards.",
+            "The situation could affect the Lakers\u2019 seeding and matchup prospects."
           ],
           "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNU2RhME5lMTdaUHA0dHpDTzktN0FFeDJ1Rjh2aHkyT3FSUnlNMWZ2ZG50MzYyRUZMVWp6YzQ0RDRBczJxME5ENXcybW1xN2NLOG9FdTFlSXVpMHpuMFE1TEpCQWZFdEU5c1NKRmoxU0NQajhFTnd3bHgyTmUtc2pScWVDelJGX2pEZlNfaHFWZHRJWGdlYnliZFdsSWdyQWxWMHo3eTdOUnBmVGRwQkU2LXBTT2t3YzVJVkpYeF9hYXdHSFp0V21hYXZoY2dDc0lNeEhKYkxwZ015aWhIQldRcmVkTTJDNEREbl94WUpudDVMZ9IB8gFBVV95cUxNVEtzcWl5YlI3MFJkN1I0M05rQWphYmNJTGJ5YXBISHVoci1GckJLVVRjYVNtX1d1TnBtSHBGRll0MXdCWGdfVVdMNVhxLWkwWjhBR1R1QnYwUFZlMEF0eFNvcGhKUnRwQXdid3JRU1VVbFFqbG4tTHNBNjR5dC1USG4yc19weHJWdG1TRG0zemd2cVY3RHF0TG9ETDNpUmFzMktMaWRwYmVvTkg5R0UxLWJUdTFaUTVBRERwYVE2cWRRdUpVbVFxNUg4YU40S3V4TV84dVFnNEtwZnNRUFFKdEkzTFhrQTZjQ0ZLVG8wYm42QQ?oc=5",
           "source": "Google News - Luka",
@@ -401,48 +415,33 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "82d257816517",
-          "title": "Alex Caruso Addresses Viral LeBron James Exchange",
-          "original_title": "Alex Caruso breaks silence on viral exchange with LeBron James - MSN",
-          "summary": "MSN details Alex\u202fCaruso\u2019s comments breaking his silence on a heated on\u2011court interaction with LeBron\u202fJames that went viral. Caruso clarified the context and emphasized mutual respect between teammates.",
+          "id": "7ec6a4e921b3",
+          "title": "LeBron James Becomes Meme After Austin Reaves\u2019 Animated Talk With Refs",
+          "original_title": "LeBron James Became a Hilarious Meme During Austin Reaves\u2019s Spirited Talk With NBA Refs - Sports Illustrated",
+          "summary": "Sports Illustrated recounts a light\u2011hearted moment when LeBron James was turned into an internet meme during Austin Reaves\u2019 spirited discussion with NBA referees. The exchange highlighted Reaves\u2019 passion and the playful side of the locker room.",
           "key_points": [
-            "Caruso explained the exchange was a momentary misunderstanding, not a feud.",
-            "Both players remain focused on team goals despite media attention.",
-            "The incident sparked widespread discussion on social media about locker\u2011room dynamics."
+            "Reaves engaged referees over a call, prompting a humorous reaction from LeBron.",
+            "The clip quickly spread on social media, generating memes featuring LeBron.",
+            "Both players later addressed the incident with good\u2011natured comments."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zaXV6aDBFQjByVUdQQWV5X0xhdDU2Rm1Id0ZYa1M1aVg5bmdxWEJjTFNBQW1SemM3VlgycE96OFpkTXpSNFN2MGFHcG9GZFRWcC1JdGpTb0FmREtIT0xPV2NKenlybnlyWHRjTi1XM2QtZ05RcXVz?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-08T22:39:09+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "82d257816517",
+          "title": "Alex Caruso Breaks Silence on Viral Exchange with LeBron James",
+          "original_title": "Alex Caruso breaks silence on viral exchange with LeBron James - MSN",
+          "summary": "MSN reports that Alex Caruso finally commented on the viral on\u2011court exchange with LeBron James that sparked widespread online discussion. Caruso clarified his perspective and reiterated respect for his teammate.",
+          "key_points": [
+            "Caruso explained the context of the interaction, emphasizing it was a friendly banter.",
+            "He expressed admiration for LeBron\u2019s leadership and dismissed any notion of conflict.",
+            "The clarification helped calm speculation and refocused attention on the Lakers\u2019 upcoming games."
           ],
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWVNpQTd6THoyZl9YQURocHVINTB4VTN0Zl9NVDZRemRkNzBmRHdOOUxoUlJVbm1lZVl1SmFOQ0E5UF9nXzd6WF94WDFiUFdCRXoyV2NCbU95SjNVanhEVWZ3blJ4TkNUX3pYS0wyS0dJZzl3S1FVZTBpTGFBdnBGNlZtWTNveEhjNFR6M0JwQWxGVHJfdHIyMWl3Q0x3YUxIak9lcWxUbWc2aE1jb3lIMQ?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-05-08T22:14:08+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "2fbb85454d63",
-          "title": "New Reason for LeBron James to Stay with the Lakers",
-          "original_title": "LeBron James suddenly has yet another compelling reason to stay with Lakers - Lake Show Life",
-          "summary": "Lake Show Life highlights a fresh incentive for LeBron\u202fJames to remain in Los Angeles, citing recent contract developments and the team\u2019s competitive outlook. The article suggests the Lakers are positioning themselves as a serious championship contender.",
-          "key_points": [
-            "LeBron received a contract extension with favorable terms.",
-            "The Lakers have added key role players to bolster the roster.",
-            "Management\u2019s long\u2011term vision aligns with LeBron\u2019s legacy goals."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaU9WMFNaZE04TzZ6Zm4xWC1uZmVkZG94RG50OEFNU2Z1U2pVUVJOWEEwVml3M2c5U1JVUnRZdVhUYWtCdXE4Y0VrZ3Z4QzZtalF4MmlGeW5fcHRjRGVsbWNIRXc1Vm43SkM5ZklwdktYai1rbkdFTmRNM1JWRlY2RHZ0SE9ORkNOemdMSkZUbDk4NjBfQTdtWHAtSFVyOGhKdGc?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-08T22:00:02+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "0152d2136a8a",
-          "title": "Fox News Claims LeBron James Bears Responsibility for NBA Flopping Trend",
-          "original_title": "Flopping is ruining the NBA and LeBron should take some blame for that - Fox News",
-          "summary": "Fox News argues that LeBron\u202fJames\u2019 on\u2011court behavior has contributed to the rise of flopping in the NBA, contending that star players set a precedent for the league. The piece calls for stricter enforcement of anti\u2011flop rules.",
-          "key_points": [
-            "The article links high\u2011profile players\u2019 exaggerated moves to increased flopping.",
-            "It calls for the NBA to impose harsher penalties to curb the practice.",
-            "LeBron\u2019s influence on league culture is presented as a factor in the debate."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQUJRUjBBMjVGYTBZdG1NZ3RtWDR2TExWcGZVdUlhelpWYVZEUTN2STlGQXNvaWpROGVSMGNFU2tkNUM0TUNVa1lBNTZMZ2YxZkdyNWJqbDNTd3gtYWM2dTRQOXNFT3JSUUJSTXFCUGJ4WWxXckQ5bDhKNXhrbTVfRUVibw?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-08T20:29:14+00:00",
           "topic": "Lakers Players"
         }
       ]
