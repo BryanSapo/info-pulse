@@ -1,19 +1,105 @@
 {
-  "generated_at": "2026-05-09T13:28:08.431219+00:00",
-  "total_articles": 30,
+  "generated_at": "2026-05-09T14:58:31.607478+00:00",
+  "total_articles": 25,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
-          "id": "4da26f375f3c",
-          "title": "NBA playoff bracket, scores, schedule: Knicks and Spurs win, Lakers vs. Thunder - USA Today",
-          "original_title": "NBA playoff bracket, scores, schedule: Knicks and Spurs win, Lakers vs. Thunder - USA Today",
-          "summary": "NBA playoff bracket, scores, schedule: Knicks and Spurs win, Lakers vs. Thunder&nbsp;&nbsp;USA Today",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ09TbDQxYWdPaFZUeGhydHZvQV83RnFYbWprLWdUaGtZbERYWDZPT2J4el9mclVLWlZyWS1JQk51TDMtQ0k4U2VZZ2piR0NWTndTNUsyNDZLM3hQUE1fSnk5ZmQ4b1R0Szd2VWJxdFZDeThxeE9OOG9rb0FkdVR5MGxIRjhmSlFOQ2ZMRFlXOHZiT2c1WC1EVU9pNGlIcjAwZGViTzlRTm0wdw?oc=5",
+          "id": "3831aeeebe31",
+          "title": "Luka Doncic Injury Update Ahead of Thunder-Lakers Game 3",
+          "original_title": "When is Luka Doncic coming back? Injury update for Thunder-Lakers Game 3 - USA Today",
+          "summary": "USA Today reports that Dallas Mavericks star Luka\u202fDoncic remains sidelined as the Thunder prepare to host the Los Angeles Lakers in Game\u202f3. The article outlines his current injury status, expected timeline for return, and how his absence could affect the series dynamics.",
+          "key_points": [
+            "Doncic is still out with a lower\u2011body injury; no definitive return date has been set.",
+            "His absence leaves the Mavericks without their primary playmaker for the upcoming game.",
+            "The Thunder and Lakers will need to adjust strategies, potentially opening opportunities for other players to step up."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUDJYN01EN0ZVX3VQcFlWaVljN0ZjZUpvelZVek1PN05rdmk2bVE1LWlFMlVIVWRnbkdtejh1YUllY2dWOXp0T3owMWptaEtiY1FsTFRXb1ZGd0wxTzEyTjl2MjlTVFlLMEVwWFZzOHA0bENvZ0cwRmdEMGxmOXljMDFBbXNOZk9Oc0R3eFBEc3pTSFFqRWVQY3M3U3ZyOG93Mmo4Y3BZb1FoeVk2UExUVEFvcU1hZHdTbEVRdmlfMndFMm92bEE?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-05-09T13:09:00+00:00",
+          "published": "2026-05-09T14:30:55+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "08ad05d390c9",
+          "title": "Thunder Aim to Stifle Lakers in Los Angeles",
+          "original_title": "The Thunder Can't Allow The Lakers To Find Their Stride In Los Angeles - Sports Illustrated",
+          "summary": "Sports Illustrated analyzes how Oklahoma City plans to prevent the Los Angeles Lakers from gaining momentum in the series opener on the West Coast. The piece highlights defensive schemes, matchup advantages, and the importance of controlling the tempo early in the game.",
+          "key_points": [
+            "Oklahoma City will focus on limiting LeBron James' isolation opportunities.",
+            "Defensive pressure on the Lakers' perimeter shooters is a priority to disrupt their rhythm.",
+            "Winning the first two games in LA could give the Thunder a decisive series edge."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYlBVU0ZHUFpmX0pGaWExQXNzamtmenBiWDFtYmo5aFBsYlBmTnUxZVRSaGNDRUl4RF9uV05IQ3Q3QkRyR0s5azRCMFE0X0R5dHE2TzRSczR3TXFPRkpJZ1pQYW1zbkR1QnRkRDUtVTZxR3p2SUxxaWJ0eHh6NDgtODFJNVJGUHdlbE0tdGotdGVOUHN3UVR4Z05fN1V3ZkVVQVdWb3FQanlWdw?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-09T14:30:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "48a4174e173d",
+          "title": "Luke Kennard Offers Advice on Halting Thunder Scoring Runs",
+          "original_title": "Luke Kennard Explains How Lakers Can Stop Thunder Scoring Runs",
+          "summary": "Lakers Nation quotes forward Luke Kennard discussing the Lakers' performance in Game\u202f2 against Oklahoma City, noting both positive moments and critical lapses that contributed to a 2\u20110 series deficit. Kennard shares specific adjustments the team can make to stop the Thunder's momentum.",
+          "key_points": [
+            "Kennard emphasized the need for consistent defensive rotations to prevent easy baskets.",
+            "Improving transition defense and limiting second\u2011chance points were highlighted as key fixes.",
+            "He praised the team's effort but stressed that execution on both ends must tighten to stay competitive."
+          ],
+          "link": "https://lakersnation.com/luke-kennard-explains-how-lakers-can-stop-thunder-scoring-runs/",
+          "source": "Lakers Nation",
+          "published": "2026-05-09T14:05:14+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "abc4098f8503",
+          "title": "Reddit Suggests \u2018Poor Officiating\u2019 Mode for NBA2K",
+          "original_title": "NBA2k Poor Officiating Option",
+          "summary": "A Reddit user on r/lakers proposes adding a \u201cPoor Officiating\u201d option to NBA2K that would randomly favor one team, mimicking perceived officiating inconsistencies in recent games. The suggestion is presented humorously but reflects fan frustration with call discrepancies.",
+          "key_points": [
+            "The proposed feature would simulate varying levels of officiating bias, from minor errors to extreme calls.",
+            "Commenters discuss recent games where they felt officiating impacted outcomes, especially Game\u202f2 of the Lakers\u2011Thunder series.",
+            "The idea is speculative and not an official statement from NBA2K developers."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1t85usv/nba2k_poor_officiating_option/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-09T14:02:18+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "0290c5e3d31b",
+          "title": "Daily Lakers Discussion Thread Opens on Reddit",
+          "original_title": "Daily Lakers Discussion Thread",
+          "summary": "The r/lakers community launches a daily thread for fans to discuss the Los Angeles Lakers' season, recent games, and related topics. The moderator post invites conversation ranging from game analysis to player news.",
+          "key_points": [
+            "The thread serves as a hub for real\u2011time fan interaction and debate.",
+            "Users are encouraged to share opinions on the team's performance, roster moves, and upcoming schedule.",
+            "It reflects ongoing fan engagement as the Lakers navigate the current NBA season."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1t85tqk/daily_lakers_discussion_thread/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-09T14:01:11+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "0c06a3ba496e",
+          "title": "ESPN analyst doubts Lakers can win with Luka Doncic and Austin Reaves - LeBron Wire",
+          "original_title": "ESPN analyst doubts Lakers can win with Luka Doncic and Austin Reaves - LeBron Wire",
+          "summary": "ESPN analyst doubts Lakers can win with Luka Doncic and Austin Reaves&nbsp;&nbsp;LeBron Wire",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQemdSakUyQWE5QlpySkw1Z2ZRcVlZSHdianZ4akRqR0xjM1JobVd4TjZEMTlWZ1doZ0tRRG90U3dLek95eFNTUEtBWFJLblk2QlRqc0ltZVlVZ0M5UHJPcWhHM0dkbVFzZWQzbFY4cTlVNTJheFFiLWpBNzdodmVuMEc1ZEQ0bDJxRDYyTmhRdHlKNjVybjViXzZicHRXS1h4LUU1cEVpc2x0UHZoRkdiTWpXaTV0RzZOYy1LVXNyWUZUaW1GaVk4UnNrZ1MwbEtjeE9heERoWTg1QQ?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-09T14:01:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "d38d1a7d3903",
+          "title": "bruh\ud83d\ude05",
+          "original_title": "bruh\ud83d\ude05",
+          "summary": "      &#32; submitted by &#32;  /u/WhenMachinesCry   [link] &#32; [comments] ",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/lakers/comments/1t84qg1/bruh/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-09T13:15:23+00:00",
           "topic": "Lakers News"
         },
         {
@@ -39,100 +125,14 @@
           "topic": "Lakers News"
         },
         {
-          "id": "b58e9789e22a",
-          "title": "Injury Report: OKC Thunder and Lakers Stars Still Listed Out for Game 3 - Sports Illustrated",
-          "original_title": "Injury Report: OKC Thunder and Lakers Stars Still Listed Out for Game 3 - Sports Illustrated",
-          "summary": "Injury Report: OKC Thunder and Lakers Stars Still Listed Out for Game 3&nbsp;&nbsp;Sports Illustrated",
+          "id": "4be8556ab9c2",
+          "title": "A better whistle won\u2019t solve Lakers\u2019 real problems against Thunder - The New York Times",
+          "original_title": "A better whistle won\u2019t solve Lakers\u2019 real problems against Thunder - The New York Times",
+          "summary": "A better whistle won\u2019t solve Lakers\u2019 real problems against Thunder&nbsp;&nbsp;The New York Times",
           "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRW1BcjZRYTJxaE1yem5LSmdEYkJTMjBEZWtxcjRiRFEtT2dZOTg4OTZKZjBJVU9sTWFfMnhQZmNReGRLSmFnR1gzVE0wOVNCWVlkU0VZa2pNQW1SRVZQemw3MjBzY2YtdUsxcTRmdmZKUEhYVFlvbC1VUVdiLTg5MmNQN3lpWHV5dXdzN3pxdFJhWlJLX21tbjNEV0lrLUh4QnVMbF9sOHY3UQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWnZzUGU0UG5VTXVzblAxNWRVQVlrYUdSbEtvN1hSVGs1Y0hqdVAtZlhDSzgzV1czSDc5UldsQ3FtTVhqNlUzQjZmTGFveEtxUTQ1UHN3WlpzclFJU3FSV0dnVDBBYUVOOFp4YmpLYjdDQVRMOW14ZHpEcWxmRWhKTmlXbms1NGNEVnlrSWlyTk5rYl94QXRhbw?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-05-09T12:00:03+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "99ae64fb696d",
-          "title": "Lakers Receive Brutal Message Before Game 3 vs. Thunder - heavy.com",
-          "original_title": "Lakers Receive Brutal Message Before Game 3 vs. Thunder - heavy.com",
-          "summary": "Lakers Receive Brutal Message Before Game 3 vs. Thunder&nbsp;&nbsp;heavy.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT2Rpd3BrU0JaMl9QOHkwT1NTQVE2SG5KQUNNeEVidHhGaGhtU2w2cE5ZZW01YVkyOF9iME0zdjd0Q0hlTlRSbGxwNGMzQ0FlbDltLUpOSmdaZGVPSDFVMkFwQnZ0anZ3LW5xY2tsS3Z2T2l0d3pLc3psYzAtSUZUUEZGQWJWbnR5SXhLQjJB?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-09T11:45:28+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "64883e5cbe32",
-          "title": "Skip Bayless Says Lakers Better Off Without Luka Don\u010di\u0107",
-          "original_title": "Skip Bayless claims the L.A. Lakers are better without Luka Doncic: \"He is the most inefficient player in the league\" - Yahoo Sports",
-          "summary": "Sports commentator Skip Bayless argued that the Los Angeles Lakers perform better when Luka Don\u010di\u0107 is not on the floor, labeling him the league\u2019s most inefficient player. The claim was made in a Yahoo Sports piece and reflects Bayless\u2019s view on Don\u010di\u0107\u2019s impact on the team\u2019s offense.",
-          "key_points": [
-            "Bayless asserts Don\u010di\u0107 is the most inefficient player in the NBA.",
-            "He suggests the Lakers\u2019 overall performance improves when Don\u010di\u0107 is off the court.",
-            "The statement is an opinion piece, not based on new statistical analysis."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOTlwLXA0LWMyUE4wLW9XTVZ6SENkbWpBc3NXcEg1UF9NZUtEOGtpQWU2TWkzLXZkTkNxT18tS0VDQ0NRek5scmxKSENqY0dULVNQajN0X2doYk83YWgwNnNYaDhCSEdqZ3llb1dycWFfNE1KakJ6WEZXNUZtZ1lHeDJHcw?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-09T11:35:26+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "25edb5693f11",
-          "title": "Lakers Need Role Players to Elevate Game as Series Shifts to Los Angeles",
-          "original_title": "Lakers role players need to step up, especially with series moving to LA - New York Post",
-          "summary": "The New York Post highlights that the Lakers must rely on their supporting cast as the playoff series moves to home court. With star players facing increased pressure, contributions from bench players are portrayed as essential for advancing.",
-          "key_points": [
-            "Emphasis on increased responsibility for role players in upcoming home games.",
-            "Potential matchup advantages when the series returns to Los Angeles.",
-            "Calls for consistent production beyond the team\u2019s star athletes."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUDdRSkU0dk1nUXA5MGtoM0F0MjB2YkI0VWFmRXdKU2xSWkZ3ZGdGZU5GMThqY21lNXBJNnNEY3lCS2xld0oyUHB1QlhnNXlSZ1FQVmw4M1ZqTWROYVpxRkYtQUZCVGFMM3d3MXE5aXVDZlJ0VldYWHU3eC04MFRMckVWXzB4SF9TZWljMG1SRC00Z3ZMUk1oY3E3aHpTNDdNTnM0UHNfNFB0TnFmRXc?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-09T11:30:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "571af91a14c3",
-          "title": "Reddit User Reflects on Historic 73\u20119 Teams and Playoff Upsets",
-          "original_title": "I\u2019ve witnessed a 73-9 team lose after being up 3-1. Nothing is impossible. Just here to witness greatness and enjoy the ups and the downs.",
-          "summary": "A Reddit post by user /u/iamtoolazytosleep shares personal observations that even dominant teams, such as those with a 73\u20119 record, have lost after leading a series 3\u20111. The comment underscores the unpredictable nature of the NBA playoffs.",
-          "key_points": [
-            "Historical reference to a 73\u20119 team losing a 3\u20111 series lead.",
-            "Emphasis on the unpredictability and excitement of playoff basketball.",
-            "User expresses a desire to witness both triumphs and setbacks."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1t820rh/ive_witnessed_a_739_team_lose_after_being_up_31/",
-          "source": "Reddit r/lakers",
-          "published": "2026-05-09T11:08:27+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "667098d81cba",
-          "title": "Lakers\u2019 Game\u20112 Controversy Sparks Divergent Opinions in LA Times Letters",
-          "original_title": "Letters to Sports: Two sides to Lakers crying foul after Game 2 - Los Angeles Times",
-          "summary": "The Los Angeles Times publishes letters to the editor presenting two opposing viewpoints on the Lakers\u2019 complaints after Game\u202f2. One side argues the team was fouled unfairly, while the other contends the grievances are unfounded.",
-          "key_points": [
-            "Letters reflect split fan sentiment regarding alleged fouls in Game\u202f2.",
-            "One perspective defends the Lakers\u2019 claim of being wronged; the other disputes it.",
-            "The piece showcases community engagement without taking a definitive stance."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQajBoU3hDaWtJQWpvd3RTNVhmdWF3alNvRVAwc3RJR3Y1MVQ3cWhpUWx3NmlXcnh4UU5NWUNodGtCRjB6UHN6ei1pS0JqNXBqR2VhU1ZDc2Jic1JsVHJSNzgtcS1BSGFPRHJMd0tNY1N2LU80eFRWMGdhZEtjVG5zT3lteFhLSXRUMEZkVzNaVzRBV3JseXcxZ1BMOHdYNnhDQWxGeThtX3FIaWs?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-09T11:00:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "c7d2ab14b81a",
-          "title": "Thunder Defeat Lakers in May 9, 2026 Regular\u2011Season Game",
-          "original_title": "Oklahoma City Thunder vs Los Angeles Lakers May 9, 2026 Game Summary - NBA",
-          "summary": "The NBA\u2019s official game summary details Oklahoma City\u2019s victory over Los Angeles on May\u202f9,\u202f2026. The recap includes final scores, key statistical leaders, and notable moments from the matchup.",
-          "key_points": [
-            "Oklahoma City Thunder emerged as the winning team.",
-            "Statistical highlights feature top scorers and rebounders for both sides.",
-            "The game is part of the regular\u2011season schedule leading into the postseason."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zZWJHbkZ6V2tfT09tbWNXR1J6Z0V5OWl2ZWNKd2ZqZEU4Nnp3N0EwLWRkYXNiTlhIb254WHp6NWpMaDktSTlVblk3a3ozc3c0U3g0YUxvS2hSZw?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-09T10:16:58+00:00",
+          "published": "2026-05-09T12:44:00+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -141,153 +141,58 @@
       "name": "NBA League News",
       "articles": [
         {
+          "id": "e70050ee1f8f",
+          "title": "NBA combine primer: What to watch for and who coul...",
+          "original_title": "NBA combine primer: What to watch for and who coul...",
+          "summary": "The NBA draft combine begins Monday, with dozens of prospects competing to raise their stock. Here's everything you need to know.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/48694379/2026-nba-draft-combine-preview-players-workouts-watch-chicago-dybantsa-peterson-boozer-wilson",
+          "source": "ESPN NBA",
+          "published": "2026-05-09T13:17:07+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "3b1a022bd442",
+          "title": "2026 NBA Draft Lottery: Odds for No. 1 pick, live stream, TV channel, watch online, start time, top prospects",
+          "original_title": "2026 NBA Draft Lottery: Odds for No. 1 pick, live stream, TV channel, watch online, start time, top prospects",
+          "summary": "The NBA Draft Lottery on Sunday will determine the draft order for this year; here is everything you need to know ahead of this weekend",
+          "key_points": [],
+          "link": "https://www.cbssports.com/nba/news/2026-nba-draft-lottery-where-to-watch-live-stream-tv-channel-online-start-time/",
+          "source": "CBS Sports NBA",
+          "published": "2026-05-09T13:16:09+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "990545de69b9",
+          "title": "[Crosspost] Heya /r/movies, Tyree Dillihay here, the director of GOAT. Ask me anything!",
+          "original_title": "[Crosspost] Heya /r/movies, Tyree Dillihay here, the director of GOAT. Ask me anything!",
+          "summary": "I organized an AMA/Q&amp;A with Tyree Dillihay, director of Sony's new animated movie GOAT. It's an animated basketball movie that was out in theaters earlier this year (made almost $200M!) and is out on digital. It's produced by Steph Curry, and stars Caleb McLaughlin, Gabrielle Union, Aaron Pierre, David Harbour, Nick Kroll, Adam Pally, Jennifer Hudson. It also has voice roles/cameos from Steph Curry, Andre Iguodala, Dwayne Wade, Angel Reese, A'ja Wilson, Kevin Love, and more. It's live here n",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/nba/comments/1t84qho/crosspost_heya_rmovies_tyree_dillihay_here_the/",
+          "source": "Reddit r/nba",
+          "published": "2026-05-09T13:15:26+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "86796f26c852",
+          "title": "NBA Finals MVP Odds 2026: Wembanyama Shortens Odds as Spurs Take Lead on Wolves",
+          "original_title": "NBA Finals MVP Odds 2026: Wembanyama Shortens Odds as Spurs Take Lead on Wolves",
+          "summary": "A look at the NBA Finals MVP odds, with Shai Gilgeous-Alexander leading the field as the betting favorite to take home the award once again.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/2025-nba-finals-mvp-odds-121536297.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-09T12:47:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
           "id": "d3e01cdac6f6",
-          "title": "2026 NBA Playoff Bracket: Second Round in Full Swing",
+          "title": "2026 NBA playoff bracket: Schedule, matchups with second round underway",
           "original_title": "2026 NBA playoff bracket: Schedule, matchups with second round underway",
-          "summary": "Eight teams remain in the 2026 NBA playoffs as the second round progresses. The Oklahoma City Thunder and New York Knicks have emerged as the dominant forces in their respective series.",
-          "key_points": [
-            "Only eight teams are left in the postseason.",
-            "Thunder and Knicks are leading their second\u2011round matchups.",
-            "The bracket now shows potential conference finals line\u2011ups."
-          ],
+          "summary": "Eight teams are left in the 2026 NBA playoffs, and the Thunder and Knicks have been dominant in the second round",
+          "key_points": [],
           "link": "https://www.cbssports.com/nba/news/2026-nba-playoff-bracket-matchups-schedule/",
           "source": "CBS Sports NBA",
           "published": "2026-05-09T12:39:30+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "5a307958e978",
-          "title": "2026 NBA Championship Odds Shift After Recent Wins",
-          "original_title": "NBA Championship Odds 2026: Spurs, Knicks Shorten Up After Latest Wins",
-          "summary": "Betting lines for the 2026 NBA title have been updated as the second round continues. The Oklahoma City Thunder are now -165 favorites, while the San Antonio Spurs sit at +325 and the New York Knicks at +700.",
-          "key_points": [
-            "Thunder become the clear betting favorite at -165.",
-            "Spurs and Knicks see odds improve but remain long shots.",
-            "Odds reflect recent performances in the second round."
-          ],
-          "link": "https://sports.yahoo.com/articles/2026-nba-championship-odds-thunder-150100421.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-09T12:32:00+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "3e659a98ce61",
-          "title": "Spurs Unlock Wembanyama\u2019s Scoring with Simple Adjustment",
-          "original_title": "How Spurs unlocked Victor Wembanyama's offense with a simple change in series-flipping win vs. Wolves",
-          "summary": "A tactical tweak helped San Antonio defeat the Minnesota Wolves in Game 3, with Victor Wembanyama erupting for 39 points on 13\u2011of\u201118 shooting. The change sparked a series\u2011flipping win for the Spurs.",
-          "key_points": [
-            "Wembanyama scored 39 points, shooting 72% from the floor.",
-            "Spurs altered their offensive scheme to free Wembanyama in the paint.",
-            "The victory gave San Antonio a 2\u20111 series lead over Minnesota."
-          ],
-          "link": "https://www.cbssports.com/nba/news/spurs-victor-wembanyamas-offense-simple-change-wolves/",
-          "source": "CBS Sports NBA",
-          "published": "2026-05-09T12:30:11+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "ffa6a91f558e",
-          "title": "Harden Expected to Bounce Back in Pistons\u2011Cavaliers Game 3",
-          "original_title": "Pistons vs Cavaliers Prediction, Picks & Odds for Today's NBA Playoffs Game 3",
-          "summary": "After a subpar performance in Game 2, James Harden is projected to rebound with a stronger scoring night in the upcoming Game 3 of the playoffs between Detroit and Cleveland on May 9. Analysts cite his experience and the Pistons\u2019 defensive lapses as factors.",
-          "key_points": [
-            "Harden had a low\u2011output Game 2 and is due for a rebound performance.",
-            "Cavaliers aim to capitalize on Detroit\u2019s inconsistent defense.",
-            "Predictions favor a higher scoring output for Harden in Game 3."
-          ],
-          "link": "https://sports.yahoo.com/articles/pistons-vs-cavaliers-prediction-picks-203900369.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-09T12:05:00+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "c0fc280c1d1c",
-          "title": "Which Teams Are Most Desperate for the No.\u202f1 Draft Pick?",
-          "original_title": "NBA Draft 2026: Which lottery team is most desperate for the No. 1 pick?",
-          "summary": "Yahoo Sports ranks NBA franchises based on how urgently they need the top lottery selection in the 2026 draft. The list considers recent performance, roster depth, and rebuilding timelines.",
-          "key_points": [
-            "Teams are evaluated on current competitiveness and rebuild status.",
-            "The ranking highlights the franchises with the greatest incentive to win the lottery.",
-            "Desperation levels may influence trade activity and draft\u2011day strategies."
-          ],
-          "link": "https://sports.yahoo.com/articles/nba-draft-2026-lottery-team-120000143.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-09T12:00:00+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "9b8b94160d0e",
-          "title": "Thunder vs. Lakers: Game 3 Odds and Prediction",
-          "original_title": "Thunder vs. Lakers odds, prediction, time: 2026 NBA playoff picks, Game 3 best bets from proven model",
-          "summary": "SportsLine\u2019s predictive model released its picks for Game 3 of the 2026 NBA playoffs between the Oklahoma City Thunder and the Los Angeles Lakers. The model\u2019s odds and recommended bets are outlined for bettors looking to capitalize on the matchup.",
-          "key_points": [
-            "SportsLine provides specific odds and a win\u2011prediction for Game 3.",
-            "The model is based on a proven statistical framework used throughout the playoffs.",
-            "Betting recommendations focus on point spread, money line, and total points."
-          ],
-          "link": "https://www.cbssports.com/nba/news/thunder-lakers-odds-spread-prediction-time-2026-nba-playoff-picks-game-3-best-bets/",
-          "source": "CBS Sports NBA",
-          "published": "2026-05-09T11:53:43+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "7bc57ef6cfc1",
-          "title": "Pistons vs. Cavaliers: Game 3 Odds and Prediction",
-          "original_title": "Pistons vs. Cavaliers odds, prediction, time: 2026 NBA playoff picks, Game 3 best bets from proven model",
-          "summary": "SportsLine\u2019s analytics platform released its Game 3 betting outlook for the Detroit Pistons versus the Cleveland Cavaliers in the 2026 NBA playoffs. The article details the model\u2019s projected odds and suggested wagers.",
-          "key_points": [
-            "Model forecasts the likely winner and point differential.",
-            "Provides recommended bets for spread, money line, and over/under.",
-            "Highlights statistical factors influencing the Pistons\u2011Cavaliers matchup."
-          ],
-          "link": "https://www.cbssports.com/nba/news/pistons-cavaliers-odds-prediction-spread-time-2026-nba-playoff-picks-game-3-best-bets/",
-          "source": "CBS Sports NBA",
-          "published": "2026-05-09T11:38:41+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "1e0aa1ed112a",
-          "title": "Reddit Post\u2011Game Discussion Thread (May 8, 2026)",
-          "original_title": "[SERIOUS NEXT DAY THREAD] Post-Game Discussion (May 08, 2026)",
-          "summary": "A Reddit thread on r/nba invites users to discuss the previous night\u2019s games with a focus on tactical analysis (x\u2019s and o\u2019s). The post emphasizes keeping memes and reactions separate and restricts replies to the main thread.",
-          "key_points": [
-            "Designed for in\u2011depth, game\u2011by\u2011game discussion.",
-            "Comments must stay within the designated sub\u2011threads; off\u2011topic replies are removed.",
-            "Encourages analytical conversation over casual chatter."
-          ],
-          "link": "https://www.reddit.com/r/nba/comments/1t81up0/serious_next_day_thread_postgame_discussion_may/",
-          "source": "Reddit r/nba",
-          "published": "2026-05-09T11:00:01+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "bb100ae82593",
-          "title": "Letters to Sports: Lakers Crying Foul After Game 2",
-          "original_title": "Letters to Sports: Two sides to Lakers crying foul after Game 2",
-          "summary": "Yahoo Sports publishes reader letters reacting to the Los Angeles Lakers\u2019 Game 2 loss, with opinions on players like Austin Reaves and LeBron James, as well as broader sports references including Mike Trout and the Angels. The piece reflects a range of fan sentiments.",
-          "key_points": [
-            "Fans express frustration over perceived officiating issues in Game 2.",
-            "Comments discuss individual performances of Reaves, James, and other Lakers.",
-            "Letters also touch on unrelated sports topics, showing broader fan engagement."
-          ],
-          "link": "https://sports.yahoo.com/articles/letters-sports-two-sides-lakers-110000350.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-09T11:00:00+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "84004517b610",
-          "title": "Open Thread: Implications of the Spurs Winning Game 3",
-          "original_title": "Open Thread: The ramifications of the Spurs taking Game 3",
-          "summary": "Yahoo Sports hosts an open discussion about the San Antonio Spurs taking a 2\u20111 series lead. The thread invites speculation on how the result could affect the remainder of the series and both teams\u2019 strategies.",
-          "key_points": [
-            "Spurs lead the series 2\u20111 after Game 3 victory.",
-            "Fans debate potential adjustments for the Lakers moving forward.",
-            "The thread serves as a platform for broader series\u2011wide analysis."
-          ],
-          "link": "https://sports.yahoo.com/articles/open-thread-ramifications-spurs-taking-110000809.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-09T11:00:00+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -296,11 +201,90 @@
       "name": "Lakers Players",
       "articles": [
         {
+          "id": "521eb0842b89",
+          "title": "Caitlin Clark Reveals Golf Dream with LeBron James",
+          "original_title": "Indiana Fever star Caitlin Clark reveals her golf dream with LeBron James - Yahoo Sports",
+          "summary": "Indiana Fever rookie Caitlin Clark told Yahoo Sports that she and LeBron James share a bucket\u2011list goal of playing a round of golf together. The comment highlights a personal connection between the WNBA star and the NBA legend beyond basketball.",
+          "key_points": [
+            "Clark expressed a desire to hit the links with LeBron James.",
+            "The anecdote underscores a growing friendship between the two athletes.",
+            "The story was reported by Yahoo Sports."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYjJzeEU2cDd1TmF3dnpkUXc3OFJmTWhnZHBFblhhZmdTTEJIUTEyR0QzaThqeF8yVHY2VFZHMTI0RXR0RndQS1duZVh5aWNJbFYxVVFPWTNJM2VrMzBoN0Y3QUd3QXNRdmFoOWhSRlRvYm5CYnRVb25vbDN3QlJkMlJaUlQ1ZFdR?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-09T14:30:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "352b53e98ba1",
+          "title": "Clark and LeBron Share Surprising Non\u2011Basketball Bucket\u2011List Dream",
+          "original_title": "Caitlin Clark and LeBron James share surprising bucket-list dream away from basketball - Yahoo Sports",
+          "summary": "Caitlin Clark and LeBron James discussed a shared, off\u2011court aspiration: playing golf together. The revelation, covered by Yahoo Sports, adds a human\u2011interest angle to both players' public personas.",
+          "key_points": [
+            "Both athletes mentioned a mutual desire to play golf.",
+            "The interview focused on life goals outside of basketball.",
+            "Published by Yahoo Sports."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSl9KcUFMWE5KWTlUNXppcnRpZFFLcTRCMjdCNWZ5ZUVRQ2NiU0s2cjhkVHphbURxUmd6LXA3Q2RCdUlJUHNRd2R5dUhZRUlWc091NGFOQk42OFlyeC14LTdGenVhSnE2WmFPMDg1c2tLZTNRZVhFZWYweE5CN0E2T0cyb3JsNzd1?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-09T13:52:50+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "203f29c5c6b5",
+          "title": "LeBron Leads All\u2011Time Playoff Wins Without All\u2011Star Support Over Jokic",
+          "original_title": "Only LeBron James has more playoff wins than Nikola Jokic without All-Star help - Yahoo Sports UK",
+          "summary": "Yahoo Sports UK reported that LeBron James holds more playoff victories than Nikola Jokic when neither player received assistance from All\u2011Star teammates. The statistic emphasizes James' sustained postseason success throughout his career.",
+          "key_points": [
+            "LeBron has more playoff wins without All\u2011Star help than Jokic.",
+            "The comparison highlights James' longevity and consistency.",
+            "Source: Yahoo Sports UK."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObmlIWEx1QTFyMC1fcnhsOVlMN29vR05zdkRmU3RrSzc4X2xSbjk4ZG4tcW5mbm5oMC1ON3ZSYjJTc1h0VlNheXZiYUl0YTA4VHZjdFpFVUdUQ29jMkxoZE1IdFdNa1lQcTFaLVQ0bVNDT05jWjhhek1FUjF4RnlOY1Z3ZE4?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-09T13:38:29+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "04afa82fc397",
+          "title": "LeBron Holds Playoff Win Edge Over Jokic Without All\u2011Star Aid",
+          "original_title": "Only LeBron James has more playoff wins than Nikola Jokic without All-Star help - HoopsHype",
+          "summary": "HoopsHype echoed the finding that LeBron James surpasses Nikola Jokic in total playoff wins when neither benefited from All\u2011Star teammates. The metric underscores James' historic postseason impact.",
+          "key_points": [
+            "LeBron leads Jokic in playoff wins without All\u2011Star contributions.",
+            "The data point reinforces James' elite postseason r\u00e9sum\u00e9.",
+            "Reported by HoopsHype."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPd200MU1SaUd0Z040cWNfd0JWVUxuLVVxMDNKb3FwcTN0cGF1alJfd2FaaWVBTFhQeF9yRlYtWE9QajJRT2FyZ0JkZHZWWGVEa2dlRzNnMjN3YXNGTFlqZ1pwb1FhSnlTTFI1R251RW42c3JZemJ4Tkl5QnlRUFNhX3lyVUR3cXZfRk9UNHBhaGdvWHlUcFlBMDRjOHRaMVNXaGE5amdHZnhEb1dJU2N5d0lyWkVEajE5ald6NFVucC0yZ1ZNVHZTWXZvQWJTSDBhUnFqbTJJcmZvSHVnV0dR?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-09T13:38:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "8ba2b9d58af3",
+          "title": "LeBron James Takes on Mentorship Role for Caitlin Clark",
+          "original_title": "LeBron James Taking On Mentorship Role For Caitlin Clark - The Spun",
+          "summary": "The Spun detailed how LeBron James is actively mentoring WNBA star Caitlin Clark, offering guidance on handling fame, media, and professional growth. Their relationship reflects James' broader influence beyond the NBA.",
+          "key_points": [
+            "LeBron is providing mentorship to Clark.",
+            "Focus areas include media handling and career development.",
+            "Story published by The Spun."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVmhEeFhuN2VlVXJLVGNPQmhJcEZpVUJqZ2kyblV0ZzNuWVhMdHM4RHl2MzM1eDJkRS03b3hXZ08wUEF2dHhwcnNtZXNlcmpHVmlMd1NJVUk3LVVsZm5WalhxdWN0SG9MVEJmMk13NjlpblBLYjQ1WHdaRTZ4SWlKa1FoWDNSNkZZ?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-09T13:30:22+00:00",
+          "topic": "Lakers Players"
+        },
+        {
           "id": "06f1fe624d98",
-          "title": "MrBeast Reacts to Luka Doncic News Before Lakers-Thunder Game 3 - heavy.com",
+          "title": "MrBeast Reacts to Luka Doncic News Before Lakers-Thunder Game 3",
           "original_title": "MrBeast Reacts to Luka Doncic News Before Lakers-Thunder Game 3 - heavy.com",
-          "summary": "MrBeast Reacts to Luka Doncic News Before Lakers-Thunder Game 3&nbsp;&nbsp;heavy.com",
-          "key_points": [],
+          "summary": "YouTube star MrBeast posted a reaction video discussing recent news about Dallas Mavericks guard Luka\u202fDoncic ahead of the Lakers\u2011Thunder Game\u202f3. The clip highlights fan interest in Doncic\u2019s health and performance as the matchup approaches.",
+          "key_points": [
+            "MrBeast\u2019s reaction video went viral, showing the crossover between pop culture and NBA coverage.",
+            "He addressed rumors about Doncic\u2019s injury status and its potential impact on the game.",
+            "The content underscores the growing influence of influencers on sports discourse."
+          ],
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObkFMU0NGaXREekhGNlUyQ3JNb0pna1dJeTVFLXJ0S2hVeTlMX0g0WkhaNDFubzNjNWhDMFlweEFmYmlPMEQ3Q1Y5OU93UThUaHlGbmVxQURXdm80RjFRbUJWSnJEeWNYSjdfdFNWNUZ2SVI1ZlNwNkRUNUhwUzVwaGNn?oc=5",
           "source": "Google News - Luka",
           "published": "2026-05-09T13:22:56+00:00",
@@ -308,43 +292,29 @@
         },
         {
           "id": "2bb5ea781740",
-          "title": "Doctor blames Lakers over weak Luka Doncic treatment: Should already be back - BasketNews.com",
+          "title": "Doctor Blames Lakers Over Weak Luka Doncic Treatment: Should Already Be Back",
           "original_title": "Doctor blames Lakers over weak Luka Doncic treatment: Should already be back - BasketNews.com",
-          "summary": "Doctor blames Lakers over weak Luka Doncic treatment: Should already be back&nbsp;&nbsp;BasketNews.com",
-          "key_points": [],
+          "summary": "A medical professional criticized the Los Angeles Lakers\u2019 handling of Luka\u202fDoncic\u2019s injury, stating that the player\u2019s recovery protocol was insufficient and that he should have returned to play by now. The comment was published on BasketNews.com amid ongoing concerns about the team\u2019s medical decisions.",
+          "key_points": [
+            "The doctor claims the Lakers\u2019 treatment plan delayed Doncic\u2019s return.",
+            "Criticism focuses on the perceived lack of aggressive rehab measures.",
+            "The statement adds pressure on the Lakers\u2019 medical staff ahead of upcoming games."
+          ],
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVHk0cERmWFYzVkcybFdPMnJMWVlpN3pGcU9pOUxrZHphVVFfd2ZxRlcyQjBlSTNsemdhN29PR0tVRkRHUm16bllnbWlMZTAxZExUUklpeDNJT1BmSm1NN2Rzb2VKQ3dmLUFuQW5NRmNwRWJrX1pzeENxNDJZUUFPMVBlZTBnWXpONDZnaUQtaGdGRjRwMnZ2bA?oc=5",
           "source": "Google News - Luka",
           "published": "2026-05-09T12:32:23+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "0b9680c0a684",
-          "title": "Caitlin Clark reveals LeBron James\u2019 important message to her during injury-riddled season - Yahoo Sports UK",
-          "original_title": "Caitlin Clark reveals LeBron James\u2019 important message to her during injury-riddled season - Yahoo Sports UK",
-          "summary": "Caitlin Clark reveals LeBron James\u2019 important message to her during injury-riddled season&nbsp;&nbsp;Yahoo Sports UK",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUk9QaHJmUEZlMl9FZzY4TTNXSXJZY0V6NDc0Y0cxMmN2Z1JKVmlWMlQ4eThsN003ekJwLUZZVmw0Y1NJRHJRdTZ3M1YxX3l6QU1pSHE1WnF0TE1ySHJzbElwdmFiWkFCMlp2c25zTzVlbUMxQmc1cExJN1RYYnBuSzhvYkJiUFNjb0E?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-09T12:00:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "eeb1fb2942c9",
-          "title": "Peter\u2019s Points: NBA Best Bets Today (Predictions, Prop Bets for LeBron James, Pistons-Cavs, Jalen Duren) - Sports Illustrated",
-          "original_title": "Peter\u2019s Points: NBA Best Bets Today (Predictions, Prop Bets for LeBron James, Pistons-Cavs, Jalen Duren) - Sports Illustrated",
-          "summary": "Peter\u2019s Points: NBA Best Bets Today (Predictions, Prop Bets for LeBron James, Pistons-Cavs, Jalen Duren)&nbsp;&nbsp;Sports Illustrated",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY0gtQnVTTkV6bldINkZ6OTBIcGhNaXdqYnJKTXdYMXhHa2ctVktpTDBHQ3F5d0p3QmZmTV9nNVd0d1o4N01SQVJwTzhVTUFoZ0ZKT1J1UzVfMGUtMEVwWlZvaGhqeUNDZm9LaE5YLVo2Y2JPY3FheUVJdUtYN19BNDFPZUE4eUZxeUpJc3l3bUh5TkNOV2xvb0tYNTY4OE5JMXRXTmJJMHY0ZEd5Vzc4?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-09T10:02:20+00:00",
-          "topic": "Lakers Players"
-        },
-        {
           "id": "97b2eb230751",
-          "title": "How LeBron James Found His Forever MVP in Wife Savannah James - E! News",
+          "title": "How LeBron James Found His Forever MVP in Wife Savannah James",
           "original_title": "How LeBron James Found His Forever MVP in Wife Savannah James - E! News",
-          "summary": "How LeBron James Found His Forever MVP in Wife Savannah James&nbsp;&nbsp;E! News",
-          "key_points": [],
+          "summary": "E! News profiles LeBron James\u2019 marriage to Savannah James, describing her as his \u201cforever MVP\u201d for her support throughout his career. The article details their meeting, family life, and Savannah\u2019s role in LeBron\u2019s personal and professional success.",
+          "key_points": [
+            "Savannah James is credited with providing stability and motivation for LeBron.",
+            "The piece highlights key moments in their relationship, including marriage and children.",
+            "It emphasizes the partnership\u2019s impact on LeBron\u2019s performance on and off the court."
+          ],
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQakxOMGFZTHRjTzk1V1NqSHpCOHViTkVXMTQ4Y3BVenBQVy15VG5QaDd3TEVMLVJYQlNyWXFqbVBSbUtneXlOVW5oLV9keWNPR1RsQ0t5Y0NnQkQ3dm4zZTVsSDQyazRVU3pSemF0ZFc3OTNGNEx2MGNyNTV2SDFUelhIQUk1QmJxYUtpQkhiaG13SzltdC1MMTBR?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-05-09T10:00:00+00:00",
@@ -352,57 +322,32 @@
         },
         {
           "id": "ccd7fecb0d4d",
-          "title": "Skip Bayless claims the L.A. Lakers are better without Luka Doncic: \"He is the most inefficient player in the league\" - Basketball Network",
+          "title": "Skip Bayless Claims Lakers Are Better Without Luka Doncic, Calls Him Most Inefficient Player",
           "original_title": "Skip Bayless claims the L.A. Lakers are better without Luka Doncic: \"He is the most inefficient player in the league\" - Basketball Network",
-          "summary": "Skip Bayless claims the L.A. Lakers are better without Luka Doncic: \"He is the most inefficient player in the league\"&nbsp;&nbsp;Basketball Network",
-          "key_points": [],
+          "summary": "Sports commentator Skip Bayless asserted that the Los Angeles Lakers perform better when Luka\u202fDoncic is not on the floor, labeling the guard the league\u2019s most inefficient player. The claim was made on Basketball Network and sparked debate among analysts and fans.",
+          "key_points": [
+            "Bayless argues Doncic\u2019s on\u2011court efficiency harms the Lakers\u2019 overall performance.",
+            "He cites statistical comparisons to support his \u201cmost inefficient\u201d label.",
+            "The statement has generated discussion about Doncic\u2019s role and the Lakers\u2019 lineup strategy."
+          ],
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZHJLbEFvdi0xdlhtSWdUc1pkN2JQQWc4TWZWc3IxYjJrY1E0cFhELUgyQnRTVERtblVId1dqcTVSd0JWMGU1ZHhBcUEwZmN5TlRKcXo5RnhXRkxEQVdrTXJOUzF5ZjZJMGRnbDFvOEZTMU56LXRsU1ZER2YwUzhYMGsxcXVTcEYyV3ota0dBb0lEOEpDR3d4bGJoX0Q4T0NvaVQ1TE5jcndkVU5WNy1uUQ?oc=5",
           "source": "Google News - Luka",
           "published": "2026-05-09T08:11:23+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "fdc971aa67bc",
-          "title": "Luka Doncic's Thunder-Lakers Game 3 status officially revealed - Yahoo Sports",
-          "original_title": "Luka Doncic's Thunder-Lakers Game 3 status officially revealed - Yahoo Sports",
-          "summary": "Luka Doncic's Thunder-Lakers Game 3 status officially revealed&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaVNmN09jVG90X21CbHRZUXB2ZExrZnVvREpsUmY3ZUdmMzNTbEcxT0ZSRlE5cXlHcUgzUHBXMkY4Sm5yam8yQWtsUmhmXzlMY3hPSWMxb3FEaHFpb0E4alRXVFAybzNMd1NaZWxMNWNhLXZDazlTaW52aWIzYVdOc2hIM01ZUWVh?oc=5",
+          "id": "b4d1724e3abd",
+          "title": "Lakers Release Injury Report for Game 3 Versus Thunder",
+          "original_title": "Lakers release injury report for Game 3 versus Thunder - Yahoo Sports",
+          "summary": "Yahoo Sports published the Los Angeles Lakers\u2019 official injury report ahead of Game\u202f3 against the Oklahoma City Thunder. The list details players\u2019 status, including any questionable or doubtful designations.",
+          "key_points": [
+            "The report confirms which Lakers players are unavailable or limited for the game.",
+            "It provides updates on recent injuries and expected return timelines.",
+            "The information helps fans and analysts gauge the team\u2019s depth for the matchup."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYmhsME81SDdRZWR0N0tUT0JucGxocUFQYnB1WW5yT2JpeEpkY3J2UmVVUFc0THN3OHQwN3dWRlNtclhMZ21uX2pYdWdvMU5CZVJHdDREbldPLXZuNjJfRTJXMlIwWk90S1p6bVJyZWhhd2lrVkc4YVU4aXc4MDREVnZMelpwYXlMeGc?oc=5",
           "source": "Google News - Luka",
-          "published": "2026-05-09T03:00:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "bc04fa23b541",
-          "title": "Officiating controversy erupts: Are the NBA Playoffs rigged against LeBron and the Lakers? - MARCA",
-          "original_title": "Officiating controversy erupts: Are the NBA Playoffs rigged against LeBron and the Lakers? - MARCA",
-          "summary": "Officiating controversy erupts: Are the NBA Playoffs rigged against LeBron and the Lakers?&nbsp;&nbsp;MARCA",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWElKeEF5TXZ6dXEzcmthbmhuNGN4bFJqaUxOdHNJV0J3YzNwQ0NKN2dsYmdkNmNFMGplYnFuanh4RU1kYkIyX3JWT0t4Rnh4bjNMdERDaUtnTlMwV0l1WjY0Z0Z1TUsxTUZYNE5rampYdXZZcWl3SnZmc25qdk1KMTBmRkNpaVYwUGdWWEV6X2RoOWhxeHdvV0NTWmdOakNHR0lpX0tWRm5ieVgtSzNEQnpCcU84TTFtOU9qdEx5emhtOHc0UjBuS0xVM3dJaDBvalpBQ1V2SmlMbEVyR2ozYkducUp6MURTamlURnlaZE95TEUzT1HSAfYBQVVfeXFMTUwwZmFGVGo0bUZTdGxuU2VyTGc0bXhoNkU3eDd4ZWJHZXRrZDhza0RTMmZFeVFYbnBscUNRTGJqVTNMclVzbXdOLUIwcTJMUzRraGY5VnR1ZUhMLTYwT1dmZktjMFdNMFZSWThocV9DMEhOYlJnWDl4MGZpZU1DdlgyVWZJeEg2Q3RwNU94a3hQbVBlUkc5ODlNTS1jVWhuWHoyQmJKOENURFh2WjQxRTdlbHdKcmFXb0dGS182ODZaNWF1SDhYZzN4eTRodXhUVmlhY1pxTFZpdmM5b3FkMFR2d1BfUlFOQnkwWFJ3TllhWFJRQ0ZB?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-09T00:31:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "7a1cf9637997",
-          "title": "Luka Doncic return status? Injury updates for Lakers vs Thunder Game 3 - USA Today",
-          "original_title": "Luka Doncic return status? Injury updates for Lakers vs Thunder Game 3 - USA Today",
-          "summary": "Luka Doncic return status? Injury updates for Lakers vs Thunder Game 3&nbsp;&nbsp;USA Today",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaGMzeUNxWXVqUUFCMElhRG4zQVVOcEtTYjNBd19BTW9qV2c3Vk5BNXJqSHgxTkxuUmYwdTl1bU83ZGlTQTJQaDFJdHdfNklJQjdyb0hCV1lTcEFhTXRQZXQ4c0xOT0JDRjgxLWtmNkJFLXltazMzQVlKT1p0UVA5RjZPQ1hRVGY5OWJ5ZG5nSThGbmxDUWJvNVppcTBFM2t2eElQaEtHNGNYUktpazRTYlFieFZoSE1VaWN5dTBFWlFIWWRfc3c?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-05-09T00:15:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "a6031dc9d74c",
-          "title": "Luka Doncic and the Lakers are running out of time with no return date for the superstar - MARCA",
-          "original_title": "Luka Doncic and the Lakers are running out of time with no return date for the superstar - MARCA",
-          "summary": "Luka Doncic and the Lakers are running out of time with no return date for the superstar&nbsp;&nbsp;MARCA",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNU2RhME5lMTdaUHA0dHpDTzktN0FFeDJ1Rjh2aHkyT3FSUnlNMWZ2ZG50MzYyRUZMVWp6YzQ0RDRBczJxME5ENXcybW1xN2NLOG9FdTFlSXVpMHpuMFE1TEpCQWZFdEU5c1NKRmoxU0NQajhFTnd3bHgyTmUtc2pScWVDelJGX2pEZlNfaHFWZHRJWGdlYnliZFdsSWdyQWxWMHo3eTdOUnBmVGRwQkU2LXBTT2t3YzVJVkpYeF9hYXdHSFp0V21hYXZoY2dDc0lNeEhKYkxwZ015aWhIQldRcmVkTTJDNEREbl94WUpudDVMZ9IB8gFBVV95cUxNVEtzcWl5YlI3MFJkN1I0M05rQWphYmNJTGJ5YXBISHVoci1GckJLVVRjYVNtX1d1TnBtSHBGRll0MXdCWGdfVVdMNVhxLWkwWjhBR1R1QnYwUFZlMEF0eFNvcGhKUnRwQXdid3JRU1VVbFFqbG4tTHNBNjR5dC1USG4yc19weHJWdG1TRG0zemd2cVY3RHF0TG9ETDNpUmFzMktMaWRwYmVvTkg5R0UxLWJUdTFaUTVBRERwYVE2cWRRdUpVbVFxNUg4YU40S3V4TV84dVFnNEtwZnNRUFFKdEkzTFhrQTZjQ0ZLVG8wYm42QQ?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-05-08T23:42:21+00:00",
+          "published": "2026-05-09T03:10:47+00:00",
           "topic": "Lakers Players"
         }
       ]
