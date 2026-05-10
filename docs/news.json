@@ -1,52 +1,19 @@
 {
-  "generated_at": "2026-05-10T11:12:02.780930+00:00",
-  "total_articles": 30,
+  "generated_at": "2026-05-10T13:32:38.598668+00:00",
+  "total_articles": 25,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
-          "id": "1caba1641802",
-          "title": "Without Luka Doncic, Thunder series is a lose-lose for Lakers - Los Angeles Times",
-          "original_title": "Without Luka Doncic, Thunder series is a lose-lose for Lakers - Los Angeles Times",
-          "summary": "Without Luka Doncic, Thunder series is a lose-lose for Lakers&nbsp;&nbsp;Los Angeles Times",
+          "id": "d9fddd73d1e8",
+          "title": "NBA champ says Lakers series is over, points to LeBron's body language - BasketNews.com",
+          "original_title": "NBA champ says Lakers series is over, points to LeBron's body language - BasketNews.com",
+          "summary": "NBA champ says Lakers series is over, points to LeBron's body language&nbsp;&nbsp;BasketNews.com",
           "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdGs5Z0Y2TjBZMmUySGgweW9IdjV1bjA1b1djSHVUUE1MaGhPaHhCQ2JBVEZlZ0xVZ1pTSDBxSnR2T3dIdU1zUzFsYzFQeFp2Qk85cVVIUEhTVDh0M25uYmRXNVg3S2c0bkU0VXotcWIteTJSR0ZMczZEaXA5TU9jWVh3YUFtOGQ0bGxSUW9aUEZjSm8za013ZDdzeFF4N0swdnNlOTRrbWtIYlh2dlpxRg?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT1pKaW1CZTlfNGEyZEppTUNSQzE3NUZaMzI1UWFxbDhDcGtMOGwyOXc4aHQwTHNfaTdUUHVxUGhLTGhXWEJBVUhmN0hmUnVXNTlpd0M0a1FKLVk0M19fbWhFZDV5ZGVmaV9zSnpubG45cl81TnZ0d2U1X0F1UmhqQTU4UEg5alVRN1J5Y1hWdUlPMHhEV2laWUFSZnpya1dZbXdwekszTUlPWi1j?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-05-10T11:00:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "7d330474ba80",
-          "title": "'Get the big fella involved': Lakers' Deandre Ayton disappearing against Thunder - Yahoo Sports",
-          "original_title": "'Get the big fella involved': Lakers' Deandre Ayton disappearing against Thunder - Yahoo Sports",
-          "summary": "'Get the big fella involved': Lakers' Deandre Ayton disappearing against Thunder&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNanhJSHRSaUR2dFBFYzFiUEYxY1FvcURBUjRoSS1JcWlzaUlody10Z1NiaXVXYlpqUFlXbFA4aThidjFDdjJEano1TXRDcEVCb0p2ZTNFaTVxTUswZFh6WGtjRDI4cXdXSmZnOVU1NmpVT3VDbFdFUEdaMllmM2ZCbEdaM3p0UDF5eWc?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-10T10:00:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "7bdd1e23b027",
-          "title": "Commentary: Where\u2019s LeBron? As Laker season vanishes, he again disappears - Los Angeles Times",
-          "original_title": "Commentary: Where\u2019s LeBron? As Laker season vanishes, he again disappears - Los Angeles Times",
-          "summary": "Commentary: Where\u2019s LeBron? As Laker season vanishes, he again disappears&nbsp;&nbsp;Los Angeles Times",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa2FwbDNSSnRpNWVDQ2V0YWszOHFWcUZNczJ1eGZBSVNSZnZGVnk3TGpSaVdUT1FHdUpkdnJKQTV1MHNYcGNkUzAyZW1pXzlJeEJQRlRjbVpzY3M4RmpHX2MzaFFYZElEdHJGOTFjWHl3OHdzRmtVMTR0VEw5OFlqX2FWQWY4RURMMVdGRFF1WnNjTjNyVnFwbjBRZ19HMWNfWWd5bjBRcWpsbjEwOUs0eGJ3?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-10T10:00:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "adad2d9777c2",
-          "title": "OKC Thunder bury LA Lakers to take 3-0 NBA Playoff series lead - Al Jazeera",
-          "original_title": "OKC Thunder bury LA Lakers to take 3-0 NBA Playoff series lead - Al Jazeera",
-          "summary": "OKC Thunder bury LA Lakers to take 3-0 NBA Playoff series lead&nbsp;&nbsp;Al Jazeera",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOREdVZml2NDBJRUp4d1dMRUtCdXEyX1cwdU9mLWp2czNZZmZzUktWYUdTY295dXQzSHpuOEExRy1yOGk5cmFfQnFkWHhzTjBnaDh4VmppQUtpdU9ScmI0VTNoYVlkNC1tSGs2N09ZZ05WNWRqZndvSmVoUzRIRUN0b0R0ajJGRGVSeUoxUElNWVBlUWFKbHp6WjZNU0wtTjBzSVlqOWNpZ0rSAa4BQVVfeXFMT1NxczNGSlhMZzl5VjJ6N2dLdmctbWJsVXdWUTlaUDdPMGREOUtQNEJmZHZkbDhEeW5maFFuWDVUNVltaDhHTGtQWDctQ3JKenhjVFgweVBrODh4bHlFa0ltNWhWSkstNHo3cVVHMUwwcmxOWGhDWEo0a3N0Y0NFTGRpb1FyMUdaZEdESmdWal9TYUFHMWdGLTV6c0pEeTVYdVlsaXZrOWc1S0kzSy13?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-10T09:04:53+00:00",
+          "published": "2026-05-10T09:00:59+00:00",
           "topic": "Lakers News"
         },
         {
@@ -61,30 +28,11 @@
           "topic": "Lakers News"
         },
         {
-          "id": "04e1f5fc6a9e",
-          "title": "Three Lakers Most to Blame for 131-108 Game 3 Loss to Thunder",
-          "original_title": "3 Lakers most to blame for 131-108 Game 3 loss to Thunder - ClutchPoints",
-          "summary": "The Los Angeles Lakers fell 131-108 to the Oklahoma City Thunder in Game 3 of the Western Conference semifinals. ClutchPoints identified three players whose performances were the biggest contributors to the defeat.",
-          "key_points": [
-            "The loss marked a 23\u2011point defeat, putting the Lakers on the brink of elimination.",
-            "Three Lakers were singled out for poor shooting, turnovers, and defensive lapses.",
-            "The article suggests the team must adjust rotations and defensive schemes moving forward."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcm1QX0xrTFZtQmRER0RSODlyNlBvSTBzOEt0MER2cTlOSmFfSXVhU1AyV0FEYzlJcUlMaVd6OGdQWXZXemJRRTQzQmVLekdOUmJMOFBCLVFkZmNVNVF5R3BKM2J5MGdzUVhaX2NCVDBJMk1RLUdPdUtPaWNIZmg4VjEwUGtudm1iQUdrdGRkNkN3dw?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-10T06:55:28+00:00",
-          "topic": "Lakers News"
-        },
-        {
           "id": "f7bda328b14c",
-          "title": "Lakers One Game from Elimination as Thunder and Cavs Win",
+          "title": "NBA play-offs: LA Lakers one game from exit as Thunder and Cavs win - BBC",
           "original_title": "NBA play-offs: LA Lakers one game from exit as Thunder and Cavs win - BBC",
-          "summary": "BBC reports that the Lakers are now just one win away from being eliminated from the playoffs after consecutive losses to the Thunder and the Cavaliers. The series deficit heightens pressure on Los Angeles to respond in Game 4.",
-          "key_points": [
-            "The Thunder's 131-108 victory gave them a 3\u20111 series lead.",
-            "Cleveland's win over the other Western Conference opponent adds to the Lakers' playoff woes.",
-            "Coach Darvin Ham faces criticism over lineup choices and defensive adjustments."
-          ],
+          "summary": "NBA play-offs: LA Lakers one game from exit as Thunder and Cavs win&nbsp;&nbsp;BBC",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10emZDcEpjUnYtMWZCZDZRUnNXV2c3SExiNjBPVEJYTTZDc0YyYjdUeEczQThuMmgzLVNJVThBNTJVbTV5XzBDSzVta1JoY0pxUW5Dci1BUFRXVnd3UFFoX25TanpQaGlnclE?oc=5",
           "source": "Google News - Lakers",
           "published": "2026-05-10T06:53:37+00:00",
@@ -92,14 +40,10 @@
         },
         {
           "id": "edc22adbd036",
-          "title": "Reddit Discussion: Defending Deandre Ayton\u2019s Role in the Playoffs",
+          "title": "Guys hating on Ayton but we\u2019re not beating rockets in the first round without him he only makes 8m",
           "original_title": "Guys hating on Ayton but we\u2019re not beating rockets in the first round without him he only makes 8m",
-          "summary": "A Reddit user argues that criticism of Deandre Ayton is unwarranted, noting his importance in helping the Lakers reach the second round despite occasional motor issues. The commenter compares Ayton\u2019s impact to that of backup centers from the previous season.",
-          "key_points": [
-            "Ayton is described as a \"buy\u2011out\" player who contributed significantly to the team's playoff run.",
-            "The user highlights Ayton\u2019s defensive presence and rebounding as key factors.",
-            "Criticism is framed as overlooking his overall value compared to past backup options."
-          ],
+          "summary": "I don\u2019t understand hating on Ayton he\u2019s a buy-out guy we know he has motor issues at times and is inconsistence however he was a big part in why we\u2019re in the second round anyways. If we had only Jaxon hayes and jamiron sharpe or whoever we had last year as backup c we would\u2019ve been cooked long ago. He\u2019s probably not the best option going forward would rather him of the bench however he shouldn\u2019t be scapegoated.  &#32; submitted by &#32;  /u/OrganicHunt952   [link] &#32; [comments]",
+          "key_points": [],
           "link": "https://www.reddit.com/r/lakers/comments/1t8z6o6/guys_hating_on_ayton_but_were_not_beating_rockets/",
           "source": "Reddit r/lakers",
           "published": "2026-05-10T06:33:49+00:00",
@@ -107,32 +51,13 @@
         },
         {
           "id": "2545a7919986",
-          "title": "Three Takeaways from Lakers\u2019 Game 3 Loss vs. Thunder",
+          "title": "3 takeaways from Lakers\u2019 Game 3 loss vs. Thunder",
           "original_title": "3 takeaways from Lakers\u2019 Game 3 loss vs. Thunder",
-          "summary": "Silver Screen and Roll breaks down the Lakers\u2019 131-108 defeat, emphasizing the lack of a cohesive strategy, ineffective lineups, and defensive shortcomings. The analysis points to systemic issues that need addressing before the series continues.",
-          "key_points": [
-            "The Lakers failed to establish a clear offensive identity.",
-            "Rotational changes did not improve on\u2011court chemistry.",
-            "Defensive breakdowns allowed the Thunder to score at will, especially in transition."
-          ],
+          "summary": "The Lakers headed into Game 3 in search of proof. Proof that they could find a strategy that worked. Proof that they could find a lineup that clicked. Proof that they could beat the Oklahoma City Thunder. By the end of Saturday night, the only proof they had was that they could not do any [&#8230;]",
+          "key_points": [],
           "link": "https://www.silverscreenandroll.com/lakers-analysis/116894/3-takeaways-lakers-thunder-austin-reaves-lebron-james-jj-redick-nba-playoffs-game-3",
           "source": "Silver Screen and Roll",
           "published": "2026-05-10T06:27:11+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "5355ea8aca7c",
-          "title": "Thunder 131-108 Lakers Game Recap (May 9, 2026)",
-          "original_title": "Thunder 131-108 Lakers (May 9, 2026) Game Recap - ESPN",
-          "summary": "ESPN\u2019s recap details the Thunder\u2019s dominant performance, highlighting their balanced scoring and the Lakers\u2019 struggles on both ends of the floor. Key statistics and standout moments are provided.",
-          "key_points": [
-            "Oklahoma City shot 55% from the field and out\u2011rebounded Los Angeles 48\u201130.",
-            "LeBron James recorded 22 points but struggled with turnovers and missed shots.",
-            "Shai Gilgeous\u2011Alexander led the Thunder with 34 points and 9 assists."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WS0JKSzg4by1iTDBCTDBFSDlDNVMxZDF2WHlpU3hXU1FYQ1ViLXdjLVA5bzhzRjAwejNxVjMwU0VScEZ3OXdPQXQyRGFLc2JjUU1GT2VQTXU3N1U?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-10T05:38:56+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -141,153 +66,133 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "8456b61ce585",
-          "title": "Post\u2011Game Discussion Thread (May 9, 2026)",
-          "original_title": "[SERIOUS NEXT DAY THREAD] Post-Game Discussion (May 09, 2026)",
-          "summary": "A Reddit thread on r/nba invites users to discuss the previous night\u2019s NBA games with a focus on X\u2019s and O\u2019s. The post directs readers to specific comment threads for each game and states that direct replies will be removed.",
+          "id": "9268705850c8",
+          "title": "Thunder Build 3-0 Series Lead Over Cavaliers",
+          "original_title": "Takeaways: The Thunder take a 3-0 lead, the Cavs w...",
+          "summary": "Oklahoma City took a commanding 3-0 advantage in their playoff series against Cleveland. The win puts the Thunder one victory away from advancing, while the Cavaliers face elimination.",
           "key_points": [
-            "Serves as a hub for detailed tactical analysis of May 8 games.",
-            "Links to individual game discussion threads are provided in a table.",
-            "All off\u2011topic replies to the main post will be deleted."
+            "Oklahoma City leads the series 3-0.",
+            "Cavaliers must win the next game to stay alive.",
+            "Thunder\u2019s performance positions them to move on to the next round."
           ],
+          "link": "https://www.espn.com/nba/story/_/id/48676289/2026-nba-playoffs-conference-semifinals-round-2-takeaways",
+          "source": "ESPN NBA",
+          "published": "2026-05-10T14:08:17+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "a6e34a200f1b",
+          "title": "Knicks vs. 76ers Game 4 Picks from SportsLine Model",
+          "original_title": "Knicks vs. 76ers odds, prediction, time: 2026 NBA playoff picks, Game 4 best bets from proven model",
+          "summary": "SportsLine released its predictions and betting odds for Game 4 of the Knicks\u201176ers playoff series. The model highlights the most likely outcomes and recommended wagers for Sunday\u2019s matchup.",
+          "key_points": [
+            "SportsLine provides odds and a pick for Game 4.",
+            "The analysis is based on the model\u2019s historical data and current series trends.",
+            "Betting recommendations are aimed at informed wagering on the upcoming game."
+          ],
+          "link": "https://www.cbssports.com/nba/news/knicks-76ers-odds-prediction-time-2026-nba-playoff-picks-game-4-best-bets/",
+          "source": "CBS Sports NBA",
+          "published": "2026-05-10T13:20:28+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "3b1a022bd442",
+          "title": "2026 NBA Draft Lottery Details and Top Prospects",
+          "original_title": "2026 NBA Draft Lottery: Odds for No. 1 pick, live stream, TV channel, watch online, start time, top prospects",
+          "summary": "The NBA Draft Lottery will be held on Sunday to set the order for the 2026 draft. The article outlines the odds for each team, broadcast information, and a preview of the leading draft prospects.",
+          "key_points": [
+            "Lottery determines the draft order for the 2026 NBA Draft.",
+            "Odds for each team are listed, with the top prospects highlighted.",
+            "Live stream and TV channel details are provided for fans."
+          ],
+          "link": "https://www.cbssports.com/nba/news/2026-nba-draft-lottery-where-to-watch-live-stream-tv-channel-online-start-time/",
+          "source": "CBS Sports NBA",
+          "published": "2026-05-10T13:00:30+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "73e126e16dc0",
+          "title": "Fans Share Favorite Playoff Moments from Tar Heel Alumni",
+          "original_title": "What\u2019s your favorite NBA Playoffs moment from a Tar Heel?",
+          "summary": "Yahoo Sports invites readers to recall the most memorable NBA playoff performances by former North Carolina Tar Heels. The piece encourages fan engagement by asking for personal favorite moments.",
+          "key_points": [
+            "Call for fan submissions about Tar Heel alumni playoff highlights.",
+            "Focus on memorable performances in recent NBA playoffs.",
+            "Engagement-driven content without new game analysis."
+          ],
+          "link": "https://sports.yahoo.com/articles/favorite-nba-playoffs-moment-tar-130000253.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-10T13:00:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "6eadf8fd0b12",
+          "title": "2026 NBA Championship Odds: Thunder Lead, Cavaliers Rise",
+          "original_title": "NBA Championship Odds 2026: Mitchell & Co. Have Entered the Chat",
+          "summary": "Current championship betting odds show the Oklahoma City Thunder as the favorites at -165. The Cleveland Cavaliers improved their odds after a Game 3 victory, moving them higher in the betting market.",
+          "key_points": [
+            "Thunder hold the top championship odds at -165.",
+            "Cavaliers\u2019 odds improve following a win in Game 3.",
+            "Odds reflect recent playoff performance and market adjustments."
+          ],
+          "link": "https://sports.yahoo.com/articles/2026-nba-championship-odds-thunder-150100421.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-10T12:34:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "7b37f2e6d6de",
+          "title": "Spurs vs Timberwolves Prediction, Picks & Odds for Today's NBA Playoffs Game 4",
+          "original_title": "Spurs vs Timberwolves Prediction, Picks & Odds for Today's NBA Playoffs Game 4",
+          "summary": "Anthony Edwards is without a minutes restriction, and our expert Game 4 NBA playoff predictions expect the Timberwolves star to stuff the sheet Sunday against the Spurs.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/spurs-vs-timberwolves-prediction-picks-134200305.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-10T12:31:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "d18075ec163e",
+          "title": "Sunday\u2019s Brotherhood Playoff Notes & Links",
+          "original_title": "Sunday\u2019s Brotherhood Playoff Notes & Links",
+          "summary": "The Thunder are 7-0 in the playoffs so far, but Wemby looms.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/monday-brotherhood-playoff-notes-links-122100445.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-10T12:21:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "72b157e3c9dd",
+          "title": "Knicks vs 76ers Prediction, Picks & Odds for NBA Playoffs Game 4",
+          "original_title": "Knicks vs 76ers Prediction, Picks & Odds for NBA Playoffs Game 4",
+          "summary": "Jalen Brunson has been a series-deciding superstar since joining the Knicks. Our expert Game 4 predictions expect another strong scoring night for the Knicks guard.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/knicks-vs-76ers-prediction-picks-144400715.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-10T12:16:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "8456b61ce585",
+          "title": "[SERIOUS NEXT DAY THREAD] Post-Game Discussion (May 09, 2026)",
+          "original_title": "[SERIOUS NEXT DAY THREAD] Post-Game Discussion (May 09, 2026)",
+          "summary": "Here is a place to have in depth, x's and o's, discussions on yesterday's games. Post-game discussions are linked in the table, keep your memes and reactions there. Please keep your discussion of a particular game in the respective comment thread. All direct replies to this post will be removed.   Away Home Score GT PGT     Detroit Pistons  Cleveland Cavaliers 109 - 116 No GT Found Link    Oklahoma City Thunder  Los Angeles Lakers 131 - 108 No GT Found Link    Looking for another place to talk b",
+          "key_points": [],
           "link": "https://www.reddit.com/r/nba/comments/1t93u6t/serious_next_day_thread_postgame_discussion_may/",
           "source": "Reddit r/nba",
           "published": "2026-05-10T11:00:01+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "137198c93884",
-          "title": "Knicks vs. 76ers Game 4: How to Watch, Tipoff Time & Schedule",
-          "original_title": "New York Knicks vs. Philadelphia 76ers: Where to watch Game 4 today, tipoff time, second round schedule and more",
-          "summary": "Yahoo Sports outlines the broadcast options, start time, and series schedule for Game 4 of the Eastern Conference second\u2011round matchup between New York and Philadelphia. The article provides streaming and TV channel details for fans.",
-          "key_points": [
-            "Game 4 tip\u2011off time and date are listed.",
-            "TV networks and streaming platforms carrying the game are identified.",
-            "Series schedule and context for the matchup are included."
-          ],
-          "link": "https://sports.yahoo.com/nba/article/new-york-knicks-vs-philadelphia-76ers-where-to-watch-game-4-today-tipoff-time-second-round-schedule-and-more-101500118.html",
+          "id": "b4c40f6815ec",
+          "title": "Open Thread: The Spurs moms have been visible this season",
+          "original_title": "Open Thread: The Spurs moms have been visible this season",
+          "summary": "Happy Mother\u2019s Day! I realize today is Game 4 and there are options for discussion, but for now, let\u2019s be grateful for those women who enrich our lives. Whether it\u2019s your mother, or the mother of your children, or that nurturing aunt or neighbor, this is a great day to reach out and remind that [\u2026]",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/open-thread-spurs-moms-visible-110000286.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-05-10T10:15:00+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "fa4510a3e7a2",
-          "title": "Kings Projected No.\u202f5 Pick in 2026 NBA Draft Mock Roundups",
-          "original_title": "Sacramento Kings mock draft roundup: Expert picks ahead of NBA draft lottery",
-          "summary": "Yahoo Sports compiles expert mock drafts and simulation data indicating the Sacramento Kings are expected to hold the fifth overall selection in the 2026 NBA Draft. The piece highlights the consensus among analysts.",
-          "key_points": [
-            "Consensus mock drafts place the Kings at the No.\u202f5 slot.",
-            "Analysts discuss potential prospects the Kings might target.",
-            "The projection is based on current lottery odds and expert simulations."
-          ],
-          "link": "https://sports.yahoo.com/articles/sacramento-kings-mock-draft-roundup-100314540.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-10T10:03:14+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "11432e06eddf",
-          "title": "Warriors Mock Draft Outlook: Targeting a Ready\u2011Now Player",
-          "original_title": "Golden State Warriors mock draft roundup: Expert picks before NBA draft lottery",
-          "summary": "Yahoo Sports aggregates expert mock drafts showing the Golden State Warriors are likely to select a player who can contribute immediately in the 2026 NBA Draft. The article notes the team\u2019s preference for an impact rookie.",
-          "key_points": [
-            "Experts predict the Warriors will choose a prospect ready to play right away.",
-            "Mock drafts suggest several candidates who fit the Warriors\u2019 immediate\u2011need profile.",
-            "The focus reflects Golden State\u2019s desire to add depth for upcoming seasons."
-          ],
-          "link": "https://sports.yahoo.com/articles/golden-state-warriors-mock-draft-100055709.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-10T10:00:55+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "0ff3c17ea451",
-          "title": "Lakers\u2019 Deandre Ayton Fails to Influence Game vs. Thunder",
-          "original_title": "'Get the big fella involved': Lakers' Deandre Ayton disappearing against Thunder",
-          "summary": "Yahoo Sports reports that Deandre Ayton struggled to make a significant impact for the Los Angeles Lakers against the Oklahoma City Thunder, particularly when matched up with Chet Holmgren and Isaiah Hartenstein. The article calls for greater involvement from the 7\u2011footer.",
-          "key_points": [
-            "Ayton was ineffective as a scoring and defensive presence against the Thunder\u2019s frontcourt.",
-            "Lakers coaches and analysts suggest increasing his minutes and role.",
-            "The performance highlights a need for a more dominant interior option for Los Angeles."
-          ],
-          "link": "https://sports.yahoo.com/articles/big-fella-involved-lakers-deandre-100000263.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-10T10:00:00+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "15786932a5cc",
-          "title": "Cavaliers Show Physicality in Game 4 Win Over Pistons",
-          "original_title": "10 Takeaways from Cavs Game 4 win over Pistons: Cleveland shows they can match Detroit\u2019s physicality",
-          "summary": "Cleveland defeated Detroit in Game 4, demonstrating that the Cavaliers can match the Pistons' physical style of play. The win puts the series at a pivotal point, with Cleveland needing to repeat the effort in three of the next four games to advance.",
-          "key_points": [
-            "Cavaliers overcame the Pistons with a gritty, physical performance.",
-            "Series now hinges on Cleveland's ability to sustain this level in upcoming games.",
-            "Coaches highlighted the need for consistency across the next four contests."
-          ],
-          "link": "https://sports.yahoo.com/articles/10-takeaways-cavs-game-4-100000999.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-10T10:00:00+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "901ebb9cdf2a",
-          "title": "Plaschke Questions LeBron\u2019s Absence as Lakers\u2019 Season Falters",
-          "original_title": "Plaschke: Where's LeBron? As Laker season vanishes, he again disappears",
-          "summary": "Columnist Bill Plaschke critiques LeBron James for missing key moments as the Los Angeles Lakers\u2019 playoff hopes dwindle. The article notes the Oklahoma City Thunder\u2019s dominant win, emphasizing the contrast between the Thunder\u2019s performance and the Lakers\u2019 struggles.",
-          "key_points": [
-            "LeBron James\u2019 limited impact is highlighted amid the Lakers\u2019 decline.",
-            "Thunder delivered a convincing victory over the Lakers.",
-            "The piece underscores growing concerns about the Lakers\u2019 postseason outlook."
-          ],
-          "link": "https://sports.yahoo.com/articles/plaschke-wheres-lebron-laker-season-100000588.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-10T10:00:00+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "738842649562",
-          "title": "YouTube Gold: The Courage of Isiah Thomas",
-          "original_title": "YouTube Gold: Isiah Thomas",
-          "summary": "A YouTube feature examines Isiah Thomas\u2019s career, emphasizing that while his talent was evident, his courage played a crucial, often overlooked role in his success. The video explores moments where Thomas\u2019s bravery influenced key outcomes on the court.",
-          "key_points": [
-            "Thomas\u2019s skill set is complemented by his willingness to take risks.",
-            "Courage is presented as a defining attribute in his legacy.",
-            "The feature uses archival footage to illustrate his decisive plays."
-          ],
-          "link": "https://sports.yahoo.com/articles/youtube-gold-isiah-thomas-095500352.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-10T09:55:00+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "dc21f9e348dc",
-          "title": "Spurs Aim for 3\u20111 Lead in Game Four vs. Timberwolves",
-          "original_title": "Game Four Preview: San Antonio Spurs vs. Minnesota Timberwolves",
-          "summary": "The San Antonio Spurs travel to Minnesota seeking a road win that would give them a 3\u20111 series advantage over the Timberwolves. The preview outlines the Spurs\u2019 recent form and the challenges they face against a resilient Wolves squad.",
-          "key_points": [
-            "Spurs target a crucial victory to shift series momentum.",
-            "Winning on the road would put San Antonio up 3\u20111.",
-            "Timberwolves are expected to rely on strong defense and veteran leadership."
-          ],
-          "link": "https://sports.yahoo.com/articles/game-four-preview-san-antonio-070000832.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-10T07:00:00+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "80ea83e3b573",
-          "title": "Thunder Edge Lakers, Push Toward Western Conference Finals",
-          "original_title": "Lakers one game from exit as Thunder and Cavs win",
-          "summary": "Oklahoma City delivered a dominant performance against the Los Angeles Lakers, moving the Thunder to the brink of another Western Conference Finals appearance. The loss leaves the Lakers one game away from elimination.",
-          "key_points": [
-            "Thunder\u2019s victory was marked by high efficiency on both ends of the floor.",
-            "Lakers face elimination with the series now at a critical juncture.",
-            "The result intensifies speculation about the Lakers\u2019 playoff viability."
-          ],
-          "link": "https://sports.yahoo.com/articles/lakers-one-game-exit-thunder-065343424.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-10T06:53:43+00:00",
+          "published": "2026-05-10T11:00:00+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -296,36 +201,47 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "53a14673f1b6",
-          "title": "Plaschke: Where's LeBron? As Laker season vanishes, he again disappears - Yahoo Sports",
-          "original_title": "Plaschke: Where's LeBron? As Laker season vanishes, he again disappears - Yahoo Sports",
-          "summary": "Plaschke: Where's LeBron? As Laker season vanishes, he again disappears&nbsp;&nbsp;Yahoo Sports",
+          "id": "664679c8de30",
+          "title": "LeBron James reveals concerning opinion about Lakers from Game 3 - Lakers Nation",
+          "original_title": "LeBron James reveals concerning opinion about Lakers from Game 3 - Lakers Nation",
+          "summary": "LeBron James reveals concerning opinion about Lakers from Game 3&nbsp;&nbsp;Lakers Nation",
           "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc3ZScUxfdGdCTXlOMmloOEdUbm9keGJtSlB3N3VtaWs2TnN3Vi1xNi03VjZnZndJUlFsTkFYUXFjYU53UF9DTW04R0NocGZtbm1QVEUtcVYzdW9GbXBhazZMc01QalpYWjlQUWJmSmd3RXRSdjdQV3NHbkEtaHdsRHZCWFZ5VmJCZ1F4aQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX3BDZ1JLNy1qUnB5RFgxV1RsZ2xiRnVFMzRmOWNGaHJYVGxvdEhwY1ZfUk1QeWpvNko5bWFOZXcwSGFqbC14eHZOQ1lKbzhXUUpNM1BWMG1VNHBaWEhFRUJUOC1YMHdfTnloX0MxbkNaM2NkQU85emU5Uk5DZE5hU05GVWxYSHptaFZTYk5sTXVZdFI1UEYyTFZNY1NJMnVmXzdMY25RUDFySjBqTDY5NA?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-05-10T10:00:00+00:00",
+          "published": "2026-05-10T13:05:57+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "d9fddd73d1e8",
-          "title": "NBA champ says Lakers series is over, points to LeBron's body language - BasketNews.com",
-          "original_title": "NBA champ says Lakers series is over, points to LeBron's body language - BasketNews.com",
-          "summary": "NBA champ says Lakers series is over, points to LeBron's body language&nbsp;&nbsp;BasketNews.com",
+          "id": "cd322bb15ac3",
+          "title": "Warriors' Steve Kerr news means it's time to talk about LeBron James with Steph Curry - Yahoo Sports Canada",
+          "original_title": "Warriors' Steve Kerr news means it's time to talk about LeBron James with Steph Curry - Yahoo Sports Canada",
+          "summary": "Warriors' Steve Kerr news means it's time to talk about LeBron James with Steph Curry&nbsp;&nbsp;Yahoo Sports Canada",
           "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT1pKaW1CZTlfNGEyZEppTUNSQzE3NUZaMzI1UWFxbDhDcGtMOGwyOXc4aHQwTHNfaTdUUHVxUGhLTGhXWEJBVUhmN0hmUnVXNTlpd0M0a1FKLVk0M19fbWhFZDV5ZGVmaV9zSnpubG45cl81TnZ0d2U1X0F1UmhqQTU4UEg5alVRN1J5Y1hWdUlPMHhEV2laWUFSZnpya1dZbXdwekszTUlPWi1j?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOG1FVnlzbHVFcVRzYWU2SGdvZTFGemNxTFduSU5keHZ3Q1ZTWmo5SldhZWJJQlNNZEJtaUd1TWpqZmt4cmhxNVkxWDl0alZ6SGhvWC1CMVVReFVJTVpfbWtSRFJMYTlwem8zYUZuR0VWSHQ3VmlxMnh4eEVsUmlXZXVqSXk?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-05-10T09:00:59+00:00",
+          "published": "2026-05-10T12:31:04+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "2d2aaecc284e",
-          "title": "Why Lakers\u2019 LeBron James isn\u2019t \u2018angry or disappointed\u2019 down 3-0 to the Thunder - Yahoo Sports",
-          "original_title": "Why Lakers\u2019 LeBron James isn\u2019t \u2018angry or disappointed\u2019 down 3-0 to the Thunder - Yahoo Sports",
-          "summary": "Why Lakers\u2019 LeBron James isn\u2019t \u2018angry or disappointed\u2019 down 3-0 to the Thunder&nbsp;&nbsp;Yahoo Sports",
+          "id": "e98f86cf1b19",
+          "title": "LeBron James Has One More Decision to Make: When to Call it Quits - WSJ",
+          "original_title": "LeBron James Has One More Decision to Make: When to Call it Quits - WSJ",
+          "summary": "LeBron James Has One More Decision to Make: When to Call it Quits&nbsp;&nbsp;WSJ",
           "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUzQ5d1FQQUp0c1hraTFHNkE4MjJ6Z1pqTU4yWlhIOC1PLW9waUUtWlNSblpsVG9sVUdEcHlpdV8tN09oRzU3UlozZFBaWGhMNFg4b1h0ZFlKTk84V0VQUWlqb3BHYTRGT21wQXJRdURUNGZORlFBbF9qS2hkTjYwcTRn?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9TM0NWTDBMMWxDRGE4aHR5QThVLWozcVBBWlJaM2dNbGhOckN3dUVXOEZqMHIzLVkyV1pLb0FabjIzdHh4YUZWRDBaektzR0tVRndLZG9tYVlLNUQxMHd6Sy0xTlJKUVhuYzByVkthbmxGelQ3clV4ZTdzMXhzdw?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-05-10T08:54:09+00:00",
+          "published": "2026-05-10T12:00:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "23014e18fe51",
+          "title": "LeBron James Breaks Silence After Lakers Fall Behind Thunder 3-0 - heavy.com",
+          "original_title": "LeBron James Breaks Silence After Lakers Fall Behind Thunder 3-0 - heavy.com",
+          "summary": "LeBron James Breaks Silence After Lakers Fall Behind Thunder 3-0&nbsp;&nbsp;heavy.com",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORmtMU213cVdOSUh0QVNQRDRiOUEyOHBRWXQyWUdzRS1zODVzMnU0LWZ6bE9OQlZHUXpEeS01dWplT05XYUFQaTA4V1ZReWNZcXBvNl9fM00xQ3hvM1drZXoxWUxodjRvUjFnaTE1dDcxa0VDOTQ5SklRVkI3ZDRKT25R?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-10T11:22:52+00:00",
           "topic": "Lakers Players"
         },
         {
@@ -351,14 +267,25 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "4a635a416170",
-          "title": "The Lakers are playing as well as they can \u2014 and it doesn't matter against the Thunder - Yahoo Sports",
-          "original_title": "The Lakers are playing as well as they can \u2014 and it doesn't matter against the Thunder - Yahoo Sports",
-          "summary": "The Lakers are playing as well as they can \u2014 and it doesn't matter against the Thunder&nbsp;&nbsp;Yahoo Sports",
+          "id": "62cd35bb53ad",
+          "title": "Could Game 4 be LeBron James' last with Lakers? What we know with LA down 3-0 - USA Today",
+          "original_title": "Could Game 4 be LeBron James' last with Lakers? What we know with LA down 3-0 - USA Today",
+          "summary": "Could Game 4 be LeBron James' last with Lakers? What we know with LA down 3-0&nbsp;&nbsp;USA Today",
           "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQR2t5YUYyUHBBSVBNQng5NVF2YktKWHA0MklKLUVIZlBTaEhYN3QzQ2lSaElDU0c4T0NMdEVQUVd0ZXdLVUd0cnBIbUdsQktRcnJUcUV2am1zdm94X0xOMkxNOVFMZzZBSGpDeGNtUVpnblNkWTVEZlNtYVE4TWhidW9EZkZnd1hFaFlkOEt3SzlFR09EbEhEXzNLczFTRE9zTTJVMnJIcDNNOTJOV2RzUnZvdF9mY0ZodTVMQm8taWVuZGFRZzdoRXhuQi1raDdmS1E?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-05-10T05:06:00+00:00",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQzUyVkgyT19fZkhqdHdURUtJQUY1dWxldjJMdk5LZld0UEJhNjh5VXFVWVhEVlNOckZuSjRPbEM0OUlhNGdXWGZmRjUzcGl0UUN3cXM3aGFDRUZ6ZTVENFhXeEtqV01tdl9KZ2VndnFlQ25CN0tEOGdOR3hmV0YxRGd6eGljQVBsbXJyMUVEZVFMd0YzaGJ0ZzNxWHpleUlGRmhZZHU5TzN2TXZ0RURHM0xZdVNGN0dz?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-10T05:15:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "1fefb5576cae",
+          "title": "LeBron James gets honest on OKC being compared to Jordan Bulls, Durant Warriors - BasketNews.com",
+          "original_title": "LeBron James gets honest on OKC being compared to Jordan Bulls, Durant Warriors - BasketNews.com",
+          "summary": "LeBron James gets honest on OKC being compared to Jordan Bulls, Durant Warriors&nbsp;&nbsp;BasketNews.com",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRkhRT2pId05UQVRzNlpIWW8wYmQ4U0ZjSnc2VmdTYjd1SDg0Ukp4QnQ5ZGlLWDlxWXBSSHJERnFuWjhVbzc3dUpRTC03ZzF6b0FqNWVXbUxYcGZaU3d6bXljMVh6R05lZUpURXRsNWV2NTY1VmdJVS1UWWtFeDJXYmxMUDgzU1h5MW9Va25yNEpYMGR2TEp3ZUY5TlBzWjRDdDV0b3BRMTBZcjFXRUNiWk5yOEJNTmEtSHc?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-10T04:18:00+00:00",
           "topic": "Lakers Players"
         },
         {
@@ -381,28 +308,6 @@
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVnRhMjJBTWVJYXVsQlR4LTEyczd2T2cxUkVxclJQcFdGMGVWb2NEcDdEcXcwQ0pJR0VyWWhmYWQ3RS1uSFBuRmlGZUhCeVh6MnQ0M05QTDdkNVU0djhvWDVaNzVQeWVXMWlxSlJfRVdhYkZ1VVFnS2xYd0k3ZmtpOGdBQmRIaWF6YXBwenlJb3BOSlRXWlFHaHhEZWJMWVVBWGVvdUtKNXh3aDlXNnhscm5QSzdPZTB3eEE?oc=5",
           "source": "Google News - Luka",
           "published": "2026-05-10T03:31:13+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "9f608e150c7e",
-          "title": "Panic in L.A.? LeBron, Lakers fall into 3-0 hole against Thunder: Game 3 takeaways - The New York Times",
-          "original_title": "Panic in L.A.? LeBron, Lakers fall into 3-0 hole against Thunder: Game 3 takeaways - The New York Times",
-          "summary": "Panic in L.A.? LeBron, Lakers fall into 3-0 hole against Thunder: Game 3 takeaways&nbsp;&nbsp;The New York Times",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa1NacHFLelJXeXg1Y0ZncVFreXh3R25XejZqaWlZSUd0eWZ2RTBjOEVMbDZrLUFKTWJvZHNxTE81elFQWWgyZ2xPaEk5LXp1dFNiSVpLRk1HenpyaFdDd0JJejJ5ZFlMcUZuSEZjVmNHanpZT19EX3pENkY3WXNONGw0a05JUURxVmp4NURUaGNGYlQtWHNhSVVsTFIxNVdiRnk4dHF2bjdsOEFRVG00?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-10T03:29:48+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "47a14e709e45",
-          "title": "What a shot by LeBron James - Yahoo Sports",
-          "original_title": "What a shot by LeBron James - Yahoo Sports",
-          "summary": "What a shot by LeBron James&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ySGktN3EtUDVOQloxY3lKUUF4VjRlUzctaDdZNjVNc2s4Z3FlRVlTNFBhVVJoZ19KY0EyTVRfVGkwUWFSWGQ3QnZYdkxOQS1UMmxQTEZUaFYtbHpfdDVJZVpncV9FaTczb3lNblNPRzRIUQ?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-10T03:26:00+00:00",
           "topic": "Lakers Players"
         }
       ]
