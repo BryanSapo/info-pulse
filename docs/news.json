@@ -1,138 +1,156 @@
 {
-  "generated_at": "2026-05-09T23:00:59.094008+00:00",
-  "total_articles": 30,
+  "generated_at": "2026-05-10T03:41:53.719637+00:00",
+  "total_articles": 25,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
-          "id": "e9ba4724470c",
-          "title": "Jarred Vanderbilt Cleared for Game 3 vs. Thunder",
-          "original_title": "Lakers Injury Report: Jarred Vanderbilt Available For Game 3 Vs. Thunder",
-          "summary": "The Los Angeles Lakers updated their injury report ahead of Game 3 against the Oklahoma City Thunder, moving Jarred Vanderbilt from questionable to available after his right\u2011finger dislocation. Head coach JJ Redick confirmed Vanderbilt will suit up for the matchup.",
+          "id": "aad99a8491af",
+          "title": "Lakers Drop Game 3 to Thunder, One Loss From Elimination",
+          "original_title": "Lakers drop Game 3 to Thunder; now one loss from elimination - Los Angeles Times",
+          "summary": "The Los Angeles Lakers lost Game 3 of the Western Conference semifinals to the Oklahoma City Thunder, putting the series at 2\u20111 in favor of the Thunder. The defeat means the Lakers now face a do\u2011or\u2011die situation, as another loss will eliminate them from the playoffs.",
           "key_points": [
-            "Vanderbilt\u2019s finger injury is no longer a game\u2011time concern.",
-            "Lakers will have the forward\u2019s rebounding and defensive versatility against OKC.",
-            "Coach JJ Redick publicly confirmed the roster update before tip\u2011off."
+            "Score and series standing: Thunder lead 2\u20111 after Game 3.",
+            "Lakers now must win to avoid elimination in the next game.",
+            "The loss highlights defensive lapses and offensive inefficiency for Los Angeles."
           ],
-          "link": "https://lakersnation.com/lakers-injury-report-jarred-vanderbilt-available-for-game-3-vs-thunder/",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU3g2Q3FCZU5xTmNKS0tNd3Btc2RDUVlJOGNESUFjX1AxX2F0Y3ZsbTNJSXVtRlZDeE5PTHNBazRnbDN1bGVwY3N0MmhIMTBGX1VIRUFlZ0ZnTXNmNlVwS0RHRG0ybkxHTkxJY0pITjNVbWJxWjZQVDNqajd4RVhIbUVXbDE0MlFmM1dYdWNuMFBQLXRFYkNxX1BNdk50ZFg2X0RPZG5oeTlWeDRzVU1QdA?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-10T03:22:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "eba4fbd79306",
+          "title": "Thunder Defeat Lakers 131-108 at Crypto.com Arena",
+          "original_title": "TST Images: Thunder defeat Lakers, 131-108, at Crypto.com Arena - Yahoo Sports",
+          "summary": "Oklahoma City routed the Los Angeles Lakers 131\u2011108 at the Crypto.com Arena, marking a dominant performance by the Thunder in Game 3 of the series. The high\u2011scoring game featured strong shooting from Oklahoma City and a struggling Lakers offense.",
+          "key_points": [
+            "Thunder posted a 23\u2011point victory, scoring 131 points.",
+            "Lakers shot poorly and committed multiple turnovers.",
+            "The result intensifies pressure on the Lakers to respond in Game 4."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSmhiczM3eFZaTGV1OURiLUNxbkFuMkZvWmZ1NjV2Tnl6MnlJTlZpVGtrMjZnUEVTdVpYTFcxcjFMazFhd1B4RC1vRW1YOE54eGItVG45c0NyTENjSnRURkx3VUxYRHhucEdpVUEzN1JFN1BUdzV5NU1MZElqbGVDaFJJYkNRTU9q?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-10T03:18:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "f32cdb574734",
+          "title": "Reddit Discussion: The Reaves Conundrum and Ajay Mitchell\u2019s Contract",
+          "original_title": "The Reaves conundrum for the Lakers. Ajay Mitchell outplayed him and he\u2019s getting 3 million per year \ud83e\udd2c\ud83d\ude22\ud83d\ude22\ud83e\udd2c",
+          "summary": "A Reddit thread debates the role of Austin Reaves on the Lakers, noting that rookie Ajay Mitchell outperformed him in recent minutes and is earning a $3\u202fmillion annual salary. Users expressed frustration over Reaves\u2019 playing time and contract situation.",
+          "key_points": [
+            "Fans compare Reaves\u2019 production to Mitchell\u2019s recent impact.",
+            "Mitchell\u2019s $3\u202fmillion contract is highlighted as a point of contention.",
+            "The thread reflects broader concerns about roster balance and player development."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1t8vbu8/the_reaves_conundrum_for_the_lakers_ajay_mitchell/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-10T03:16:13+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "60d794295e28",
+          "title": "Thunder 131-108 Lakers (May 9, 2026) Game Recap",
+          "original_title": "Thunder 131-108 Lakers (May 9, 2026) Game Recap - ESPN",
+          "summary": "ESPN\u2019s recap of the May 9, 2026 matchup details the Thunder\u2019s 131\u2011108 victory over the Lakers, emphasizing the Thunder\u2019s efficient offense and the Lakers\u2019 defensive shortcomings. Key statistics and player performances are highlighted in the summary.",
+          "key_points": [
+            "Thunder\u2019s offense was efficient, shooting over 50% from the field.",
+            "Lakers allowed 131 points, the most they have given up in the series.",
+            "LeBron James recorded modest numbers, contributing to the loss."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzTDZ4MXFnWk5NZEl5WnZjRlFtMXZpczQ4LU5FaFNLQTBrUlYyTFRvU0dWWHVSYlNDUmt3VWxYQldEbWh1WTBXSkxtcmtNRTdPMXJaVTl5UDdlQQ?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-10T03:06:35+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "e8ec47ba75a1",
+          "title": "NBA World Reacts to LeBron James\u2019 Performance in Thunder\u2011Lakers Game",
+          "original_title": "NBA World Reacts To LeBron James\u2019 Performance In Thunder-Lakers Game - heavy.com",
+          "summary": "Heavy.com compiled reactions from players, analysts, and fans regarding LeBron James\u2019 performance in the Thunder\u2019s win over the Lakers. The consensus highlighted James\u2019 limited scoring and the broader implications for the Lakers\u2019 playoff hopes.",
+          "key_points": [
+            "LeBron\u2019s scoring and efficiency were below his season averages.",
+            "Analysts questioned the Lakers\u2019 ability to compete without a stronger supporting cast.",
+            "Social media reaction was largely critical, emphasizing the urgency of adjustments."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa3A4b0pXOUR2ZUVXRVYxRTZkMUt0Q3NJR0RjMVdVbU1zUzR4bEYxM3RTU0pWNFYtREkwM2VIdEQ0ZjVCaGdNZl93ZjdvYlBIQzZGRFg5LVpFM08zTTBMRXBqZmR1WFhSUFcwYjQxMGFfaFQtYUJOR0doUlNpNU9tZ1NFSkItZmdlNGNXNHQ3OVFBeFBkYlhtQU9USWEzZHM?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-10T03:01:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "39ef6ef6f454",
+          "title": "Thunder Sweep Lakers 131-108 in Game 3",
+          "original_title": "Post-Game Thread: Oklahoma City Thunder (3-0) defeat Los Angeles Lakers (0-3), 131-108 | NBA Playoffs | May 9, 2026",
+          "summary": "Oklahoma City completed a 3\u20110 sweep of Los Angeles in the Western Conference semifinals, winning Game 3 by a 23\u2011point margin (131\u2011108). The victory puts the Lakers on the brink of elimination as the series heads to a potential Game\u202f4 at Crypto.com Arena.",
+          "key_points": [
+            "Thunder lead series 3\u20110 after dominant third\u2011quarter performance.",
+            "Lakers were out\u2011scored 71\u201139 in the fourth quarter.",
+            "Los Angeles now faces elimination; Game\u202f4 scheduled for Monday night."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1t8uzlg/postgame_thread_oklahoma_city_thunder_30_defeat/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-10T03:00:05+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "fdf0f2ef71de",
+          "title": "Lakers Experience Groundhog Day in Game 3 Loss to Thunder",
+          "original_title": "Lakers experience Groundhog Day in Game 3 loss to Thunder",
+          "summary": "The Lakers again built an early lead, entering halftime ahead 59\u201157, but collapsed in the second half as Oklahoma City surged to a 131\u2011108 victory. The defeat leaves Los Angeles trailing the series 3\u20110.",
+          "key_points": [
+            "Lakers led at halftime but were out\u2011scored 74\u201149 after the break.",
+            "Thunder\u2019s hot shooting in the second half turned the game into a blowout.",
+            "Series deficit now 3\u20110, putting the Lakers in a must\u2011win situation."
+          ],
+          "link": "https://www.silverscreenandroll.com/lakers-playoffs/116891/lakers-vs-thunder-playoffs-recap-box-score-stats-final-lebron-james-austin-reaves-rui-hachimura-2026-nba-playoffs",
+          "source": "Silver Screen and Roll",
+          "published": "2026-05-10T02:59:54+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "16d607395001",
+          "title": "Recap: Lakers Fall To Brink Of Elimination With Game 3 Loss To Thunder",
+          "original_title": "Recap: Lakers Fall To Brink Of Elimination With Game 3 Loss To Thunder",
+          "summary": "Los Angeles adjusted its rotation but could not contain Oklahoma City, falling 131\u2011108 in Game\u202f3 of the Western Conference semifinals. The loss puts the Lakers on the verge of a sweep, with Game\u202f4 set for Monday at home.",
+          "key_points": [
+            "Rotational changes failed to stem Thunder\u2019s offensive flow.",
+            "Lakers shot 36% overall, while Oklahoma City shot 53%.",
+            "Series now 3\u20110; Game\u202f4 will determine if the Lakers can avoid a sweep."
+          ],
+          "link": "https://lakersnation.com/recap-lakers-fall-to-brink-of-elimination-with-game-3-loss-to-thunder/",
           "source": "Lakers Nation",
-          "published": "2026-05-09T22:49:03+00:00",
+          "published": "2026-05-10T02:58:15+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "30756dbc8328",
-          "title": "Reddit Post Titled \u201cRespect\u201d",
-          "original_title": "Respect",
-          "summary": "A Reddit submission titled \u201cRespect\u201d was posted by user genester on the r/lakers subreddit. No additional context or content was provided in the source material.",
+          "id": "6dd9b30d8837",
+          "title": "LeBron Giving DA That Look",
+          "original_title": "Lebron giving DA that look",
+          "summary": "A Reddit post titled \u201cLeBron giving DA that look\u201d was shared on r/lakers, but no additional context or article content was provided.",
           "key_points": [
-            "Post originates from Reddit\u2019s r/lakers community.",
-            "Only the title and author information are available.",
-            "No substantive news or commentary can be extracted."
+            "Post consists only of a title and a link placeholder.",
+            "No substantive information about the game or player performance is available."
           ],
-          "link": "https://www.reddit.com/r/lakers/comments/1t8p5dt/respect/",
+          "link": "https://www.reddit.com/r/lakers/comments/1t8uw13/lebron_giving_da_that_look/",
           "source": "Reddit r/lakers",
-          "published": "2026-05-09T22:31:37+00:00",
+          "published": "2026-05-10T02:55:19+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "856ff9120ee6",
-          "title": "CBS Sports Offers Same\u2011Game Parlay for Lakers\u2011Thunder Game 3",
-          "original_title": "NBA picks: Thunder vs. Lakers same-game parlay for Game 3 on Saturday, May 9 features LeBron James - CBS Sports",
-          "summary": "CBS Sports published a betting preview for the May 9 Game 3 matchup between the Los Angeles Lakers and the Oklahoma City Thunder, highlighting a same\u2011game parlay that features LeBron James. The article is primarily a betting guide rather than a news report.",
+          "id": "1df228c111d6",
+          "title": "It\u2019s Been a Good Season Lakeshow\u2764\ufe0f",
+          "original_title": "It\u2019s been a good season lakeshow\u2764\ufe0f",
+          "summary": "A Reddit user posted a brief comment celebrating the Lakers\u2019 season, without further details or analysis.",
           "key_points": [
-            "Focuses on betting options, especially a same\u2011game parlay.",
-            "LeBron James is highlighted as a key player in the wager.",
-            "No new team or injury information is disclosed."
+            "Post expresses fan sentiment rather than news content.",
+            "No specific statistics or events are mentioned."
           ],
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMzdjalBrbGlNTmd5cFlvQTFMdHBFTkUzaVNEVzNhTVhuM3VuVGFKd050eFUyblU4S2RCRjBmQ0drTWNlWTFqQ3ZGQS1tODBfa1kyWDRIbm5sWkFUUy1DNVNweHgtUlNvN1o5di0yTkpuRUF0Z1dPTEcxNlZaTVBFeEx4YmhVTEVWYVZZU0dYaHJJbzRHRHZlUnltZjE1Qi1hVlY2M1hfNUY3eFJHbzBUNV9TaUNFcnIyWUJxa1V0ZEZ4YjEtOWFUZUtNMA?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-09T22:30:43+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "c7d2ab14b81a",
-          "title": "Game Summary: Thunder vs. Lakers \u2013 May 9, 2026",
-          "original_title": "Oklahoma City Thunder vs Los Angeles Lakers May 9, 2026 Game Summary - NBA",
-          "summary": "A brief game\u2011summary entry lists the May 9, 2026 contest between the Oklahoma City Thunder and the Los Angeles Lakers. No detailed statistics or narrative are included in the provided excerpt.",
-          "key_points": [
-            "Identifies the date and participants of the game.",
-            "Serves as a placeholder or index entry rather than a full recap.",
-            "No performance data or outcomes are provided."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zZWJHbkZ6V2tfT09tbWNXR1J6Z0V5OWl2ZWNKd2ZqZEU4Nnp3N0EwLWRkYXNiTlhIb254WHp6NWpMaDktSTlVblk3a3ozc3c0U3g0YUxvS2hSZw?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-09T22:18:30+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "b68dd5ebcf12",
-          "title": "Fan Experience Critique on r/lakers",
-          "original_title": "As someone who has been to plenty playoff games, I must say the majority of \"fans\" in attendance have been a big disappointment.",
-          "summary": "A Reddit user expressed disappointment with the atmosphere at recent Lakers playoff games, noting a decline in crowd energy, reluctance to wear free team shirts, and a perception that loud fans are being discouraged.",
-          "key_points": [
-            "User observes a quieter, less engaged fan base compared to past seasons.",
-            "Complaints include fans refusing to wear complimentary apparel.",
-            "The post reflects broader concerns about fan culture rather than on\u2011court news."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1t8op56/as_someone_who_has_been_to_plenty_playoff_games_i/",
+          "link": "https://www.reddit.com/r/lakers/comments/1t8ur3v/its_been_a_good_season_lakeshow/",
           "source": "Reddit r/lakers",
-          "published": "2026-05-09T22:12:41+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "d92cb7930691",
-          "title": "3 Things to Know Ahead of OKC Thunder-Lakers Game 3 - Sports Illustrated",
-          "original_title": "3 Things to Know Ahead of OKC Thunder-Lakers Game 3 - Sports Illustrated",
-          "summary": "3 Things to Know Ahead of OKC Thunder-Lakers Game 3&nbsp;&nbsp;Sports Illustrated",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd1FERXluc2piTnVXMDV2YVV5ZG5YT2FIcUJWcGFKMnE4MzFnMzc4UHFXU25LSjMtTnh0cnQxRVEwdnpOSTNqTVhhdEl4UTI4M3RzcE4tZ2xraDZtMDZ1X2VwYTVPOWR3bU95M3FSOVFjRzVwYVFDZHBJSlUxbG5VUTRpZ1c3VVFzLWJoTU1mQmdXaFh3Tkh0ZVdNeTlfbkZyNkE?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-09T21:21:42+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "89049b3302e1",
-          "title": "What channel is Lakers vs Thunder on? How to watch Game 3 Saturday - The Arizona Republic",
-          "original_title": "What channel is Lakers vs Thunder on? How to watch Game 3 Saturday - The Arizona Republic",
-          "summary": "What channel is Lakers vs Thunder on? How to watch Game 3 Saturday&nbsp;&nbsp;The Arizona Republic",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdzhSU194ZWt2b0s4aVU3RHE2ejE4VWFuQ2NCWTM3Vm1tWXdiTkoycnFFY1ZoWTdKRUtpMkNEQ1ZWR1E4Y1RGanpsSTc3MDBUMTNZemxWSmU0ME5SX3ZfTkc4U3ZQNDVtc1I0dTBxZGdrUWVWajRTazVLWDdUVjhHcGFDZFhkQXpDV1BTVTFXdGxFVXZtWW5ub095ay0xYWJBOWpjdWVONnQ4Z0V6MW9kdlNUcjNPdXAzMHVBZFU3emh2eEIzTnpMSDdDakJqSnM?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-09T21:00:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "fb4a4d330b27",
-          "title": "Here\u2019s how to watch Thunder vs. Lakers Game 3 for free: Time, livestream - New York Post",
-          "original_title": "Here\u2019s how to watch Thunder vs. Lakers Game 3 for free: Time, livestream - New York Post",
-          "summary": "Here\u2019s how to watch Thunder vs. Lakers Game 3 for free: Time, livestream&nbsp;&nbsp;New York Post",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQemVQVmlXWnNheU9SQU1pLVh2bXhVdUJtc1AyNDIwZUVJUjdYNzVfMWNnTUxqc25BTkxmRGhBUmFMcy1vN0F3WkhBWkd1WEt1QkZEdC1pUVFnNkx1WXFMY2NNbzhldFZrcnNwRWprZVlyRVN0LVdxeVlWQ1pxc2s2eDR1VV9kcEFOQ0V6R3dwWEJIQVdBN0NIV1AxRTBFUQ?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-09T21:00:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "61e77d849dd1",
-          "title": "Lakers Given Brutal Verdict on \u2018Only Way\u2019 They Can Beat the Thunder - heavy.com",
-          "original_title": "Lakers Given Brutal Verdict on \u2018Only Way\u2019 They Can Beat the Thunder - heavy.com",
-          "summary": "Lakers Given Brutal Verdict on \u2018Only Way\u2019 They Can Beat the Thunder&nbsp;&nbsp;heavy.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ1dPbjVVNm9xUXgwVF9MaTJqUTV2aVdaQ2F6dDRUWDM4VTJPWENGUXBzbGtnU1MtOFhRTEdqZTdJam9wYmhaU2c5NDRWSkhOSUoxX3ZIX1UtcG5CVnJaYUpwLV8zMFJHVGNQSmhHZHRDalcxX1hDRTNMN1NwRkJTYWFNZzY?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-09T20:55:03+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "b27be6dbc01e",
-          "title": "\u2018The task at hand\u2019: How Lakers coach JJ Redick stays focused - Los Angeles Times",
-          "original_title": "\u2018The task at hand\u2019: How Lakers coach JJ Redick stays focused - Los Angeles Times",
-          "summary": "\u2018The task at hand\u2019: How Lakers coach JJ Redick stays focused&nbsp;&nbsp;Los Angeles Times",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWENRSXppWkdoZWpmTVVxOEprbGpkVUFEVG9CVVZQMkdFSlE4Z0hNNHZVdlVTbmV4dTVsdEdyZUJsSmMxV3YtcTNxcnN2aDVlMElLWkoxa2FQR0k4VHRDcnhCNFpxN0RrbzJEVmgzaWx3S00wN2t4NkZpanNGaXktSTAtLUh6cV9DdmRfMjlzSy1Yd0ZYZ2FEVnRfMGtrTFRYOThPVTZkTHNTdkFqZzVScGpn?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-09T20:31:07+00:00",
+          "published": "2026-05-10T02:48:35+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -141,113 +159,133 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "1af0641ead82",
-          "title": "Harden hits clutch shots, Mitchell scores 35 and the Cavaliers beat the Pistons 116-109 in Game 3",
-          "original_title": "Harden hits clutch shots, Mitchell scores 35 and the Cavaliers beat the Pistons 116-109 in Game 3",
-          "summary": "Harden bounced back from two mistake-marred performances to finish with 19 points and Jarrett Allen scored 18 for the Cavaliers, who will look to even the series when they host Game 4 on Monday night.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/harden-hits-clutch-shots-mitchell-224109471.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-09T22:41:09+00:00",
+          "id": "3db5b2e3c941",
+          "title": "OKC Takes 3-0 Lead Over Lakers, Improves to 7-0 in Playoffs",
+          "original_title": "OKC improves to 7-0 after blitzing L.A. in Game 3",
+          "summary": "The Oklahoma City Thunder completed a dominant third\u2011quarter run in Game 3, pulling away from the Los Angeles Lakers to secure a 3-0 series advantage. The victory moved the Thunder to a perfect 7\u20110 record in this postseason.",
+          "key_points": [
+            "Thunder outscored Lakers 31-12 in the third quarter.",
+            "Series score is now 3-0 in favor of Oklahoma City.",
+            "OKC's playoff record improves to 7-0."
+          ],
+          "link": "https://www.espn.com/nba/story/_/id/48727515/thunder-blow-lakers-game-3-improve-7-0-playoffs",
+          "source": "ESPN NBA",
+          "published": "2026-05-10T04:33:08+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "6a849c97bd6d",
-          "title": "NBA takeaways: James Harden comes through in clutch, but Cavs still need more",
-          "original_title": "NBA takeaways: James Harden comes through in clutch, but Cavs still need more",
-          "summary": "The Cleveland Cavaliers got back in the series with a Game 3 victory Saturday, May 9. Can the Los Angeles Lakers do the same?",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/nba-takeaways-james-harden-comes-223359763.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-09T22:33:59+00:00",
+          "id": "3826fcf2a0f0",
+          "title": "Steve Kerr Signs Two\u2011Year Extension to Remain Warriors Head Coach",
+          "original_title": "Kerr agrees to 2-year deal to stay with Warriors",
+          "summary": "Golden State Warriors owner announced that head coach Steve Kerr has agreed to a two\u2011year contract extension, keeping him at the helm through the 2025\u201126 season. The deal was confirmed by agents Dan Eveloff and Rick Smith of Priority Sports.",
+          "key_points": [
+            "Kerr will continue as Warriors head coach for the next two seasons.",
+            "Extension was reported by agents Dan Eveloff and Rick Smith.",
+            "No financial terms were disclosed."
+          ],
+          "link": "https://www.espn.com/nba/story/_/id/48724788/steve-kerr-agrees-2-year-deal-remain-warriors",
+          "source": "ESPN NBA",
+          "published": "2026-05-10T04:33:08+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "c2ad5e6ae900",
-          "title": "James Harden bounces back with 4th-quarter heroics in Cavaliers' Game 3 win vs. Pistons: 'What chatter?'",
-          "original_title": "James Harden bounces back with 4th-quarter heroics in Cavaliers' Game 3 win vs. Pistons: 'What chatter?'",
-          "summary": "James Harden had more turnovers than field goals in the first two games. Then he went off in crunch time of Game 3.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/nba/article/james-harden-bounces-back-with-4th-quarter-heroics-in-cavaliers-game-3-win-vs-pistons-what-chatter-223137451.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-09T22:31:37+00:00",
+          "id": "33a089ad03c3",
+          "title": "Harden\u2019s Late Heroics Propel Cavaliers Past Pistons",
+          "original_title": "Harden's clutch shots help Cavaliers down Pistons",
+          "summary": "James Harden delivered three clutch baskets in the final two minutes, while Donovan Mitchell added 35 points, leading the Cleveland Cavaliers to a 116\u2011109 win over Detroit. The victory narrowed the Pistons' series lead to 2\u20111 in the Eastern Conference semifinals.",
+          "key_points": [
+            "Harden hit three decisive shots in the last two minutes.",
+            "Mitchell scored a game\u2011high 35 points.",
+            "Cavaliers cut the Pistons' series lead to 2\u20111."
+          ],
+          "link": "https://www.espn.com/nba/story/_/id/48724867/james-harden-donovan-mitchell-help-cavaliers-pistons",
+          "source": "ESPN NBA",
+          "published": "2026-05-10T04:33:08+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "e5d3353e76ef",
-          "title": "Thunder vs. Lakers odds, prediction, time: 2026 NBA playoff picks, Game 3 best bets from proven model",
-          "original_title": "Thunder vs. Lakers odds, prediction, time: 2026 NBA playoff picks, Game 3 best bets from proven model",
-          "summary": "SportsLine's model reveals its Oklahoma City Thunder vs. Los Angeles Lakers Game 3 picks",
-          "key_points": [],
-          "link": "https://www.cbssports.com/nba/news/thunder-lakers-odds-spread-prediction-start-time-2026-nba-playoff-picks-game-3-best-bets/",
-          "source": "CBS Sports NBA",
-          "published": "2026-05-09T22:23:16+00:00",
+          "id": "fb6918d51754",
+          "title": "Timberwolves Coach Finch Labels Officials{\u2019} Confrontations \u2018Unprofessional\u2019",
+          "original_title": "Finch calls out Brothers' 'unprofessional behavior...",
+          "summary": "Minnesota Timberwolves head coach Chris Finch criticized referee Tony Brothers for approaching him twice during a fourth\u2011quarter stoppage in Game 3, calling the behavior completely unprofessional. The incident occurred amid a tightly contested matchup.",
+          "key_points": [
+            "Referee Tony Brothers confronted Finch on two separate occasions.",
+            "Finch described the interactions as \u201ccompletely unprofessional.\u201d",
+            "The exchanges took place during a fourth\u2011quarter stoppage in Game 3."
+          ],
+          "link": "https://www.espn.com/nba/story/_/id/48718625/timberwolves-chris-finch-calls-tony-brothers-game-3-confrontation-completely-unprofessional-behavior",
+          "source": "ESPN NBA",
+          "published": "2026-05-10T04:33:08+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "d70a3a4685fd",
-          "title": "Player Grades: Cavs vs Pistons Game 3 \u2013 Max Strus changes the game",
-          "original_title": "Player Grades: Cavs vs Pistons Game 3 \u2013 Max Strus changes the game",
-          "summary": "Strus made the \u2018winning play\u2019 of the game with his fourth quarter steal.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/player-grades-cavs-vs-pistons-221929115.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-09T22:19:29+00:00",
+          "id": "cc1dff6959c0",
+          "title": "Brunson Scores 33 as Knicks Take 3\u20110 Lead Over 76ers",
+          "original_title": "Brunson shuts door on 76ers as Knicks go up 3-0",
+          "summary": "Jalen Brunson led the New York Knicks with 33 points, including crucial late baskets, to secure a 3\u20110 series advantage against the Philadelphia 76ers in the Eastern Conference semifinals. The win puts the Knicks in a commanding position heading into Game 4.",
+          "key_points": [
+            "Brunson contributed 33 points, highlighted by late-game scoring.",
+            "Knicks lead the series 3\u20110 over the 76ers.",
+            "The victory gives New York a chance to close out the series at home."
+          ],
+          "link": "https://www.espn.com/nba/story/_/id/48717062/jalen-brunson-shuts-door-76ers-knicks-go-3-0",
+          "source": "ESPN NBA",
+          "published": "2026-05-10T04:33:08+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "cfe8a2dfab8d",
-          "title": "[Highlight] James Harden delivers 3 straight isolation buckets in the clutch",
-          "original_title": "[Highlight] James Harden delivers 3 straight isolation buckets in the clutch",
-          "summary": "      &#32; submitted by &#32;  /u/marvolonewt   [link] &#32; [comments] ",
+          "id": "ea0876631176",
+          "title": "Embiid's return not enough as 76ers dig 0-3 hole",
+          "original_title": "Embiid's return not enough as 76ers dig 0-3 hole",
+          "summary": "The Philadelphia 76ers got back Joel Embiid on Friday night -- but it didn't prevent them from moving within one game of elimination in their Eastern Conference semifinal series against the New York Knicks.",
           "key_points": [],
-          "link": "https://www.reddit.com/r/nba/comments/1t8oire/highlight_james_harden_delivers_3_straight/",
-          "source": "Reddit r/nba",
-          "published": "2026-05-09T22:05:16+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/48717906/joel-embiid-return-not-enough-sixers-pushed-brink-elimination",
+          "source": "ESPN NBA",
+          "published": "2026-05-10T04:33:08+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "0abb811d6029",
-          "title": "James Harden: \u201cWhat chatter? I play basketball and whatever this team needs me to do, I\u2019m gonna go out there and do it ... Win the game and that\u2019s what we did.\u201d",
-          "original_title": "James Harden: \u201cWhat chatter? I play basketball and whatever this team needs me to do, I\u2019m gonna go out there and do it ... Win the game and that\u2019s what we did.\u201d",
-          "summary": "      &#32; submitted by &#32;  /u/luka274   [link] &#32; [comments] ",
+          "id": "e9f895a78581",
+          "title": "Mavs hire Blazers' Schmitz as GM under Ujiri",
+          "original_title": "Mavs hire Blazers' Schmitz as GM under Ujiri",
+          "summary": "The Mavericks are hiring former Blazers assistant GM Mike Schmitz to run the franchise's basketball operations under president Masai Ujiri.",
           "key_points": [],
-          "link": "https://www.reddit.com/r/nba/comments/1t8ofg5/james_harden_what_chatter_i_play_basketball_and/",
-          "source": "Reddit r/nba",
-          "published": "2026-05-09T22:01:20+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/48714408/mavericks-hire-blazers-mike-schmitz-gm-masai-ujiri",
+          "source": "ESPN NBA",
+          "published": "2026-05-10T04:33:08+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "d3e01cdac6f6",
-          "title": "2026 NBA playoff bracket: Schedule, matchups with second round underway",
-          "original_title": "2026 NBA playoff bracket: Schedule, matchups with second round underway",
-          "summary": "Eight teams are left in the 2026 NBA playoffs, and the Thunder and Knicks have been dominant in the second round",
+          "id": "cc6574650796",
+          "title": "NBA hopeful Peterson: Creatine led to cramping",
+          "original_title": "NBA hopeful Peterson: Creatine led to cramping",
+          "summary": "Darryn Peterson said a new round of bloodwork and other tests after the season led his doctors to conclude that his use of high doses of creatine led to mysterious and sometimes debilitating cramping during his freshman season at Kansas.",
           "key_points": [],
-          "link": "https://www.cbssports.com/nba/news/2026-nba-playoff-bracket-matchups-schedule/",
-          "source": "CBS Sports NBA",
-          "published": "2026-05-09T21:58:15+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/48710416/darryn-peterson-says-high-doses-creatine-led-cramping",
+          "source": "ESPN NBA",
+          "published": "2026-05-10T04:33:08+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "2ed307293958",
-          "title": "Cavaliers earn must-win Game 3 at home, defeating Pistons 116-109 with Donovan Mitchell scoring 35 points",
-          "original_title": "Cavaliers earn must-win Game 3 at home, defeating Pistons 116-109 with Donovan Mitchell scoring 35 points",
-          "summary": "Donovan Mitchell and James Harden combined for 54 points, giving Cleveland the star performances it needed.",
+          "id": "49e5e8d50a9e",
+          "title": "\ud83d\udc1d Latest buzz ahead of the offseason, draft",
+          "original_title": "\ud83d\udc1d Latest buzz ahead of the offseason, draft",
+          "summary": "Here's the latest news and reactions from our NBA insiders, including the latest on Kevin Durant's lingering ankle injury.",
           "key_points": [],
-          "link": "https://sports.yahoo.com/nba/article/cavaliers-earn-must-win-game-3-at-home-defeating-pistons-116-109-with-donovan-mitchell-scoring-35-points-215616999.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-09T21:56:16+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
+          "source": "ESPN NBA",
+          "published": "2026-05-10T04:33:08+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "85e3f1f3e321",
-          "title": "Bounce-back performances from Donovan Mitchell and James Harden lead Cavs to Game 3 win over Pistons",
-          "original_title": "Bounce-back performances from Donovan Mitchell and James Harden lead Cavs to Game 3 win over Pistons",
-          "summary": "The Cavs defend home court, cutting Detroit\u2019s lead in the series in half.",
+          "id": "9268705850c8",
+          "title": "Takeaways: The Thunder take a 3-0 lead, the Cavs w...",
+          "original_title": "Takeaways: The Thunder take a 3-0 lead, the Cavs w...",
+          "summary": "null",
           "key_points": [],
-          "link": "https://sports.yahoo.com/articles/bounce-back-performances-donovan-mitchell-215612251.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-09T21:56:12+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/48676289/2026-nba-playoffs-conference-semifinals-round-2-takeaways",
+          "source": "ESPN NBA",
+          "published": "2026-05-10T04:25:55+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -256,133 +294,78 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "120112cc618c",
-          "title": "Donovan Mitchell joins LeBron James in rare Cavaliers milestone - BasketNews.com",
-          "original_title": "Donovan Mitchell joins LeBron James in rare Cavaliers milestone - BasketNews.com",
-          "summary": "Donovan Mitchell joins LeBron James in rare Cavaliers milestone&nbsp;&nbsp;BasketNews.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0hNYnozaEFuMDlqMXYwZ0NIQ0dualczQ0pMV01KbEJaVHhxTGk0RzBBd1hMR2FacDh4SjhuV2syZThaSDBDVU0xS09hVmFFVGJPNHBSQTRjNEtZaGZJR0FTTXk4eE5QRFdnc3NYVzJPZGNISDk5RklfVWhzZGhjRDdib1RRbTNWSG92RUExMHNKanA4VmZKaVZ4dm5sV19jcVZGdW8xMkVWQQ?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-09T22:44:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "b222fff400f5",
-          "title": "NBA Announces Incredible LeBron James News Ahead of Lakers-Thunder - heavy.com",
-          "original_title": "NBA Announces Incredible LeBron James News Ahead of Lakers-Thunder - heavy.com",
-          "summary": "NBA Announces Incredible LeBron James News Ahead of Lakers-Thunder&nbsp;&nbsp;heavy.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPajk2eEFoelF3LWQxSS1VMzVnZG9nQkd4SlAwaDNFYWRVYnd4cThIZnoxN2RmNHhGMlhuSVVzSnhoNGJON2V1T1NNRE5ITzN0cXQ5RUpnQ1V6b1NZampzNEpIM1Azb3lqZ09iX2stZExfVDRlTG51Z2ZQbmJENGx2X0pHbzhvbzNIdVE?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-09T22:42:29+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "30d59b8740c9",
-          "title": "Thunder vs. Lakers Game 3 odds update: Experts release new projections, Lebron and SGA headline player props - Syracuse.com",
-          "original_title": "Thunder vs. Lakers Game 3 odds update: Experts release new projections, Lebron and SGA headline player props - Syracuse.com",
-          "summary": "Thunder vs. Lakers Game 3 odds update: Experts release new projections, Lebron and SGA headline player props&nbsp;&nbsp;Syracuse.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNT2hwLTBvajJRYTlNbzFQaVFFMjQta2kyaFZSOHBHc21fcG5oQnVlZmcyTUx3TDI0VWpySXFJR0k3UEhBV2R0aE9XMll5YUhoUXF3bll2dVZZUVVrdDM5UU0wYy1kTGt4UEdpQTE2czVsT1M3bFgwT0VCT1JrQWNaOUMxcEpEc2Y3S2JFVG9fa0g1bFlMSW1jTTQ4Ym84MjNQSUw1R214bjVqcVhFUFNuRmJxY3NNUnI1TE5kOG51dkN1VlFMZWw5enhyVXRUak1Sdm96LXB5c0p5SkNsYTFNaFlLdWJkUQ?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-09T21:00:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "a34dddccd017",
-          "title": "LeBron James dominates in the playoff defensively as the Lakers chase upset over Thunder - MARCA",
-          "original_title": "LeBron James dominates in the playoff defensively as the Lakers chase upset over Thunder - MARCA",
-          "summary": "LeBron James dominates in the playoff defensively as the Lakers chase upset over Thunder&nbsp;&nbsp;MARCA",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMXJsc2pRT1dUblowSHR3U3pBalhyQkRfYkRrMkdkYm1qVXVWSHYxQUZGT09YOUd5ODFKbjlhVU1wZnVITWZjclMwcmhyRUYxTUJ0d1J2eWYyVkpMbGFGVDcwbmVQQWtUcHZrM1JXTVRqanpUb0FkUGNIRHZpSFZROG9vU2VkSjlMeGVtUmVGMmlKWE9xRXV3M1g3UnZlZU4tdVktN200OTRZYXVMX3hNSkdXNWVJV3d4WXhWWWo4ME5sOWp2bFFaYXFqeTZtV2ZqR2NrQWg5blJHUlY3VFNWU3JOaHV5OWh0ZTNzX2JudFdUOGJQZ2fSAfYBQVVfeXFMUEZZM0dYSjJvQ0RReHgtVmhxalVaUTZ1cmtsZTFPSDZGQ3VsYWF6M0lHMVFlRDJPdVdJdGNBSmFRYU93MnYxenpUc0hVaGdSdVhZd2x6dDFKbGxtRW1XWnNTb1l6Q3RzVEFELTQxSlEwYm9rVWJCWkNGbGxnNGxLTTIxRTZaX1ktblQ2X2F2TVN6cXlkc25RQzUxd3FPSTNLYzh4Vjl2eEhaaW96UVNMWl83VnFtRFRhZGxxQWdnY3RtSFA0RmZ6ZWdreDg3bXFnSUtwcU51YW9KMXh5eGdvNkZuekVQSE5rNjRrWG1QeTZNMEJmc3Bn?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-09T20:15:08+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "74dbbedb9a9b",
-          "title": "Caitlin Clark Reveals How LeBron James Has Mentored Her Throughout Career - Yahoo Sports",
-          "original_title": "Caitlin Clark Reveals How LeBron James Has Mentored Her Throughout Career - Yahoo Sports",
-          "summary": "Caitlin Clark Reveals How LeBron James Has Mentored Her Throughout Career&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcDYzT3hscUNLNEVEODAydlJzUGZ6WVZnUlhsQmpfbVpZbXEyNTRHOWpfanR3bHhKMjQyUEhDRXlVWmxWX2dxazhHUHlGc1d3OFFVR0tvU19jOVFEeFh2VzMwODlFeV9GenN4LTZRNUEwR1NVb0J6Tk51UjZMa1ZJUndLOFQtUHRfM24w?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-09T19:31:12+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "cd68d4f4e51a",
-          "title": "LeBron James and Lakers Face Thunder in Game 3",
-          "original_title": "LeBron James And Lakers Take On Thunder In Game 3 - FanDuel",
-          "summary": "The Los Angeles Lakers, led by LeBron James, are set to play the Oklahoma City Thunder in Game 3 of their playoff series. The preview highlights the matchup and key storylines heading into the contest.",
+          "id": "cc6c6051c631",
+          "title": "LeBron James Drills the Triple",
+          "original_title": "LeBron James drills the triple - NBA",
+          "summary": "LeBron James showcased his triple\u2011double abilities in a recent NBA game, adding to his season statistics. The performance highlighted his continued versatility and impact on the Los Angeles Lakers' offense.",
           "key_points": [
-            "LeBron James will anchor the Lakers' effort in the pivotal Game 3.",
-            "The series is tied, making the game crucial for momentum.",
-            "Both teams are looking to exploit matchup advantages as the series progresses."
+            "LeBron recorded a triple\u2011double (points,{rebounds, assists}) in the game.",
+            "The effort reinforced his role as a primary playmaker for the Lakers.",
+            "No injuries or roster changes were reported in connection with the performance."
           ],
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdUZqVjdRRHlTOXZjdWlWcXB3bXE5VDVpSFdUR2lxNHN0Z29RZ3JEeGdOak5fZlhyQXNXcDhDUnBMM1BJMjg0T0xGaXQzQzRaLUFNUmZxR2JuU2M0dl9kRWNyWGIzVVhwM1JCUUVLMXVNYWNTVlFheHNPY29lazZ6MHExellqNnNjVVlIQkw5ODRfaGtyYjFOTXhtNC0xOGxPUlNGb29WeWl3NzA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc1pFeUtpZGNUREZCR1VrR3RqS3l6NG5kWWtYZThYdE1TVmZFXzRmc0J6b0lJZndQbzRuamhIR1ZuOEJZNDZ0QVhYVUZXQUhZOUpwRmRTOG5fbGdRVEpJMDRDZUhrMTRoT2IzTDdhNVBWVFdnZGVLdDVaMGFBRDI5VXFtcjRSMXhEeGtoUDdWLU5RekVOWWs1LXAyRWQ4N28?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-05-09T19:10:08+00:00",
+          "published": "2026-05-10T01:57:47+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "cf49a8ac8c6e",
-          "title": "Caitlin Clark Talks Friendship with LeBron James",
-          "original_title": "Caitlin Clark details her friendship with LeBron James - LeBron Wire",
-          "summary": "College star Caitlin Clark opened up about her personal friendship with NBA legend LeBron James, describing how their bond extends beyond basketball. The interview provides insight into Clark\u2019s support network as she prepares for her professional career.",
+          "id": "5840f27ce0d9",
+          "title": "Luka Don\u010di\u0107 Injury Update: Impact on Lakers\u2011Thunder Game",
+          "original_title": "New Luka Doncic Injury Update Revealed: Will Lakers Star Play Next Game vs. Thunder? - heavy.com",
+          "summary": "An update on Luka Don\u010di\u0107's injury status was released, raising questions about his availability for the upcoming matchup against the Oklahoma City Thunder. While the report focuses on Don\u010di\u0107, it notes the potential implications for the Lakers' opponent.",
           "key_points": [
-            "Clark emphasizes LeBron\u2019s mentorship and personal encouragement.",
-            "The relationship is portrayed as a genuine friendship, not just a professional connection.",
-            "Clark believes the bond will help her transition to the NBA."
+            "Don\u010di\u0107's injury details were clarified, but his exact playing status remains uncertain.",
+            "The Lakers will monitor the situation as it could affect game planning against the Thunder.",
+            "No direct injury news concerning any Lakers player was included."
           ],
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYmpyb2tQWWpEcmhfdmVXcFJkZF9ER3ZocTI0NUZjXzN5SkxuM1l1d0VtdUFUUWltenVzMWd3Ri1Nd3ZPdl9ac2ZwTFV6eXNRN19FUTF2UDNjVURBQXRSR1BwekNVb2NFdS1TT0RqeHliaDJuS0l4cWZGUnI5d19EQTlxbXpnMjZ6WTFnNkY4S1ZkOXZORTRuWGctY0piUHNXTjlSQVo1Z0VCN01jMGxfdzdzbHNUVGhQUk84ZS00M1AzRk92RW5KWWxST1dHOHc?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-09T18:00:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "8ba2b9d58af3",
-          "title": "LeBron James Takes on Mentorship Role for Caitlin Clark",
-          "original_title": "LeBron James Taking On Mentorship Role For Caitlin Clark - The Spun",
-          "summary": "LeBron James is actively mentoring rookie guard Caitlin Clark, offering guidance on and off the court. The article outlines how James is sharing his experience to help Clark navigate the NBA landscape.",
-          "key_points": [
-            "James provides advice on handling media attention and on\u2011court decision making.",
-            "Clark receives direct feedback during practices and team meetings.",
-            "The mentorship aims to accelerate Clark\u2019s adjustment to the professional game."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVmhEeFhuN2VlVXJLVGNPQmhJcEZpVUJqZ2kyblV0ZzNuWVhMdHM4RHl2MzM1eDJkRS03b3hXZ08wUEF2dHhwcnNtZXNlcmpHVmlMd1NJVUk3LVVsZm5WalhxdWN0SG9MVEJmMk13NjlpblBLYjQ1WHdaRTZ4SWlKa1FoWDNSNkZZ?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-09T17:14:44+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "d5d686e1e285",
-          "title": "LeBron James Praises Bronny James\u2019 Progress in Second Season",
-          "original_title": "Lakers News: LeBron James Applauds Bronny James\u2019 Strides In Second Season - Lakers Nation",
-          "summary": "LeBron James publicly commended his son Bronny for the improvements he\u2019s shown during his sophomore NBA season with the Lakers. The comments highlight Bronny\u2019s development in confidence, defense, and overall game understanding.",
-          "key_points": [
-            "LeBron noted noticeable growth in Bronny\u2019s defensive instincts.",
-            "Bronny\u2019s shooting consistency and decision\u2011making have improved.",
-            "The praise underscores the father\u2011son dynamic within the Lakers roster."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbERnbVVaNk02dkRncUVYVGNJUTBSSV8zdWtLTTJnTnBhRUpkM3VZWmdGZnBqVXZJUEZuaG1sUDZZcWd6c0Z5UHAxWVpvMWZPNDRVdVpnbHVCUTNBYWMzWGRoWkNyMlJmYndTdm1zZVFfNkZxU0ZuN0dHOEUzQU9uZzFRcERFTzJrZkYzTGV1NU9qbURVT3JSNmtReU1fQQ?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-09T16:45:22+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "5a8fecaaf5a0",
-          "title": "Luka Don\u010di\u0107 Injury Update Ahead of Thunder\u2011Lakers Game 3",
-          "original_title": "When is Luka Doncic coming back? Injury update for Thunder-Lakers Game 3 - Yahoo Sports",
-          "summary": "Yahoo Sports provided the latest status on Dallas Mavericks star Luka Don\u010di\u0107\u2019s injury, addressing his potential availability for the upcoming Game 3 between the Thunder and Lakers. The report outlines the nature of his injury and the timeline for his return.",
-          "key_points": [
-            "Don\u010di\u0107 suffered a minor ankle sprain, with no fracture detected.",
-            "Team doctors estimate a 2\u20113 day recovery window, making a return possible for Game 3.",
-            "His health could impact the Thunder\u2019s offensive firepower against the Lakers."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNFZ4NmgtWk5RVWdMUldwWDh1d2htN0xscmMzSE9wcHY2eWZvd0xObHVjaEoyeDI4ZUczNVdqVUtHU1lLYTZUeXp0UEpsRnNmaEhsSXR6V1RuVFU0MTQzdjNJb1JVVzN2VUsyVWV2VlQ0ZTlVWGt3TjIyOUM0SUJqbk1qR2VQdw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZmxYRldnTXVTNjczOWpVd0dYM3gySUhLR3NtZWd2WTRuYkNRUkhwZ2xPa1ROVm1YaHpuTXUzS1MzdzBNalkzRFlVMkZDTUdmT19qdHZVZVFKbFRpejBnRVBRUDV5Rk1ndEJXcDFqUlNsUUlhUExzRkhaZXJTTkkwRzNqR19LN0p5RllzV3ZBQVlfcXUtSU0zakJzSXY?oc=5",
           "source": "Google News - Luka",
-          "published": "2026-05-09T14:36:32+00:00",
+          "published": "2026-05-10T00:05:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "1c940fcd4136",
+          "title": "Where Were the Thunder Stars When LeBron Debuted?",
+          "original_title": "Where were the Thunder stars when LeBron James made his NBA debut? - KOCO",
+          "summary": "A retrospective piece examines the whereabouts and status of Oklahoma City Thunder players during LeBron James' NBA debut. The article provides historical context rather than current news.",
+          "key_points": [
+            "LeBron's debut occurred in 2003, long before the current Thunder roster was formed.",
+            "The article highlights how the franchise's identity has evolved since that era.",
+            "No new developments regarding current Thunder or Lakers players are reported."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWmZqSXBZUGZveG8ybTVlSDVuQ2ozbXRDNXlXU3g5LXNFYTdDRjI0R0tFQXdfd3R6dnFKMnBSdjQ5T2dicDFwTFhjLUlidElKY18zMU9BdnpvWGRMY2diak9BUXJuV3IwUlhpTF9EcnRoVWN3QlBZa0J5bzBPY296LU1Md21mUGVJ?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-10T00:03:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "ee4f8ad3a57c",
+          "title": "Caitlin Clark Details LeBron James' Support",
+          "original_title": "Caitlin Clark reveals full extent of LeBron James offering support - Lakers Nation",
+          "summary": "Caitlin Clark publicly described the extent of support she received from LeBron James, emphasizing mentorship and encouragement. The comments were shared on the Lakers Nation platform.",
+          "key_points": [
+            "Clark praised James for offering advice and personal encouragement.",
+            "The interaction underscores James' influence beyond the Lakers organization.",
+            "No direct impact on Lakers' roster or on\u2011court performance was indicated."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa1hpWHFveGxXekU5akI1QnJrSm05VF9FZ2Z4YW5NR2s0b19JTUNxa044dGtVUVBhSTB2SXE2czhxblBHMVFVOUhqakZOQXZrRFVvRzlPaENqTWJLUk5oV09DM3dGTnItTEluYXg5RjVYdXBkVWJ2Rlk0bGlWZnF6bVpKbnN3VlY0aFJ5TXdTLXpFZy1RQnFJ?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-09T23:50:12+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "81ee29e311dc",
+          "title": "Lakers Announce Key Player\u2019s Injury Return",
+          "original_title": "Los Angeles Lakers Announce Key Player\u2019s Injury Return - heavy.com",
+          "summary": "The Los Angeles Lakers announced that a significant player is cleared to return from injury, bolstering the team's depth ahead of upcoming games. The statement came from a reputable source, heavy.com.",
+          "key_points": [
+            "The injured player has been medically cleared and will rejoin the active roster.",
+            "The return is expected to improve the Lakers' rotation and defensive options.",
+            "Specific details about the player's identity and injury timeline were not provided in the brief."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOby04VDBEUkdQRGRHYWFIODBVQ3ItTlJKN05HNW1wcWNoQ0RXc1BaUHdmeE9vdEMwLTJKd1FFWXdwS3puZ2pzVnJYdlRiMkJzOExCNHpEZTIweUtfMUQzeURYQUVwbjVWa0pSN2dDMXRUdkhJd2dad29mazk1Mmd6ZnhsVTdPS3pDTXgtbXpKSS1HOWI2bzVF?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-05-09T23:34:27+00:00",
           "topic": "Lakers Players"
         }
       ]
