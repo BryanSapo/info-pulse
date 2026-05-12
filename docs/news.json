@@ -1,138 +1,118 @@
 {
-  "generated_at": "2026-05-12T10:47:21.683002+00:00",
-  "total_articles": 20,
+  "generated_at": "2026-05-12T14:39:40.927314+00:00",
+  "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
-          "id": "b1e5c28eeb81",
-          "title": "Lakers Should Avoid Giannis Antetokounmpo",
-          "original_title": "Just say no. Lakers should learn their lesson, avoid Giannis Antetokounmpo - Los Angeles Times",
-          "summary": "The Los Angeles Times argues that the Lakers need to learn from past matchups and steer clear of facing Giannis Antetokounmpo in future playoffs. It suggests that the team's roster construction and defensive schemes are ill\u2011suited to contain his versatility.",
-          "key_points": [
-            "Past games against Giannis have exposed defensive weaknesses for the Lakers.",
-            "The article recommends strategic roster moves rather than relying on short\u2011term fixes.",
-            "Avoiding a matchup with the Bucks could improve the Lakers' postseason outlook."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcmNjM2Y1ZlE1N3hicHVPUTRTdkNqRHJBakhWalZ6RWo5cFQ2YjJKWFNxZzg0T3JFUUJqQUdNcm1QelAyUWF6WGpMdjdHYTFhSnZFUjFFUnBTRFAtSDJYdzlTVmVyRDEteFNOd295Y25aMGhIeV9fdk1DN2tXR01iNGtkV2d0bjdhc2RqTFRrQWljZWo3eTl3WmlpeklRRDNfRmxnQkpvOFE0VkE1bGcyWmJmbjlNZw?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-12T10:00:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "cb5a2297a0b6",
-          "title": "LeBron James Says His NBA Future Is Uncertain After Playoff Exit",
-          "original_title": "LeBron James admits future in NBA is unclear after Lakers' playoff exit - Fox News",
-          "summary": "Following the Lakers' elimination, LeBron James told Fox News that he has not decided whether he will continue playing beyond the upcoming season. The veteran star emphasized that his decision will depend on his health and the team's direction.",
-          "key_points": [
-            "LeBron has not ruled out retirement but has not committed to staying either.",
-            "Health and the Lakers' roster composition are primary factors in his decision.",
-            "The playoff loss adds pressure on the organization to present a clear plan."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTDhSWTlXSF9obHlGVVlqRzBTOW9pYXpPYmNXZXJ1b3d2MXJQTWszWndpa0lqODJUV3dnTldZelBva0JUcGxpMlJRbUVuMHlDRDQzUmlyd1REUW53Nmk2OExkbmtNSEdKckpnOEY0UGh5RHlWd3VXSFQtY3BLLVlldEdQNTVBXzRKTUlmdUhPSjE5RlHSAZgBQVVfeXFMTmNCOWZRTHNhUk5kWVVlbW5wVDNhZDVKRUUzZVg4OEtvRGtxTEg5V1dGQnZHYllqUkJoTG5GWkdaM00wWmtkX0NVMFVZMUxKOTJuTUpEdW9ja0hJVTMzb2ZxVlRCcHBWTVdsRmMtcmxCNnJSQ0R1S01FOGNhcEM5VXJ0Z3IzbGJLLUNnVkFSVUpZWThuUGljS3E?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-12T09:53:48+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "9f51afcd983d",
-          "title": "Luka Don\u010di\u0107 Announces Personal Milestone After Lakers\u2019 Elimination",
-          "original_title": "Luka Doncic Makes Personal Announcement After Lakers\u2019 Elimination - Yahoo Sports",
-          "summary": "Yahoo Sports reports that Dallas Mavericks star Luka Don\u010di\u0107 used the Lakers\u2019 playoff exit to share a personal announcement, revealing a charitable initiative tied to his upcoming birthday. The news came amid the broader postseason discussion surrounding Los Angeles.",
-          "key_points": [
-            "Don\u010di\u0107 announced a new charitable foundation focused on youth basketball.",
-            "The announcement coincided with the Lakers' second\u2011round sweep.",
-            "It highlights the growing off\u2011court influence of NBA superstars."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOGtWbXlQVTYzSnhPQURjTmM2YjA5TVY5Y2lBeklZVzVHaENrUDFHSTdwLVlwZUw5anQyUVlkYmJNT2JuUlRydHdsNk9teGJIZXFXV3Z3MUhTVXpLd0xiZk12UlItby1fVlhMUEt2TzJhdUFwenRWSTdSTXQtcmxLY3pVZ1RmQXpLc2oxT1Vhc0FsQQ?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-12T09:46:14+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "c9d2abb6d4e3",
-          "title": "LeBron James Remains Noncommittal on Future After Lakers\u2019 Elimination",
-          "original_title": "LeBron James Remains Noncommittal On Future After Playoff Elimination",
-          "summary": "Lakers Nation notes that LeBron James became the first player to appear in 23 NBA seasons, but after the team was swept by the Oklahoma City Thunder, he gave no clear answer about his next steps. The article underscores the uncertainty surrounding the Lakers' long\u2011term plan.",
-          "key_points": [
-            "James made NBA history with 23 seasons played.",
-            "The Lakers were eliminated in a 2\u20110 sweep by the Thunder.",
-            "James offered no definitive timeline for retirement or continuation."
-          ],
-          "link": "https://lakersnation.com/lakers-lebron-james-noncommittal-on-future-after-playoff-elimination/",
+          "id": "2cc042bb9da4",
+          "title": "Lakers News: Austin Reaves Taking Things \u2018Day-By-Day\u2019 Ahead Of Potential Free Agency",
+          "original_title": "Lakers News: Austin Reaves Taking Things \u2018Day-By-Day\u2019 Ahead Of Potential Free Agency",
+          "summary": "Now that the Los Angeles Lakers\u2019 season has come to an end after being swept by the defending-champion Oklahoma City Thunder in the second round, Austin Reaves has a lot to think about regarding his future. Reaves has a player option for next season at $14.9 million that he is surely going to decline coming [&#8230;]",
+          "key_points": [],
+          "link": "https://lakersnation.com/lakers-news-austin-reaves-taking-things-day-by-day-ahead-of-potential-free-agency/",
           "source": "Lakers Nation",
-          "published": "2026-05-12T09:20:40+00:00",
+          "published": "2026-05-12T14:20:48+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "25021dae9f2f",
-          "title": "Why the Lakers Need to Build Around Luka Don\u010di\u0107",
-          "original_title": "Lakers must build around Luka Don\u010di\u0107. What does it mean for LeBron and Austin Reaves? - The New York Times",
-          "summary": "The New York Times argues that the Lakers should consider constructing their roster around Luka Don\u010di\u0107, analyzing how such a move would affect LeBron James and Austin Reaves. The piece explores potential roster strategies and the implications for the franchise\u2019s future.",
-          "key_points": [
-            "A Don\u010di\u0107\u2011centered core could reshape the Lakers' offensive identity.",
-            "LeBron\u2019s role might shift to a mentorship or reduced\u2011minute capacity.",
-            "Austin Reaves could benefit from playing alongside a premier playmaker."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWVZXM0hrUnpCd2RlOUNvOXRBdFVwZWhpVGc3U2dhVW5PMTNiS2xUekpCQktYXzlwTTJDTVlMQVBoWC1objh5cnZfdjFGbF9TMDAyZnp3VncwT1JJaUE3bHMxeTdRMmVla01BSHhjeFkwUlZFRHBKWVBVN1czTXFXMk5YZjNfMzdobVI2SF94LTI0THVQV0oxYXIxTHlqQVFjLV9pRHoxZjNBZEZSbTZJQXpn?oc=5",
+          "id": "4278b953f30a",
+          "title": "How Shai Gilgeous-Alexander's impact against Lakers went beyond box score - OKC Thunder Wire",
+          "original_title": "How Shai Gilgeous-Alexander's impact against Lakers went beyond box score - OKC Thunder Wire",
+          "summary": "How Shai Gilgeous-Alexander's impact against Lakers went beyond box score&nbsp;&nbsp;OKC Thunder Wire",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPaW9HZy1mdnlESEtfMGJnODNFRHBxVmNXVWdQdjJjQ3lOMG9SSkRHZ1dqY0FHTWJjTVlsQ3hnTDZERGlLSlQzOVFtT1YtZ2dxS3U4Q3NXdEp1Vlhsb1hEd0Y0NlZpNXQ5djhHWWVtNC1yZ2R5cDRHN0pzUzZkWjBaYWl2dm9jMnE2aWNORHJ1cFhEU0dvUGNxbzFWV0FJTTc0SVFzaXNQMmhBVDBHSXlpZERzblNNVlV0ZFdMOFJkeGo1MUU3TncwUjJKUG1mcjdUeDR3ZDFLQ09QVzBqNHlHa0pJVWZNVFd0aWZFSFlR?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-05-12T09:00:39+00:00",
+          "published": "2026-05-12T14:01:00+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "239ebf42199b",
-          "title": "The Lakers can proud of how they went out against Thunder",
-          "original_title": "The Lakers can proud of how they went out against Thunder",
-          "summary": "LOS ANGELES &#8211;&#160;Entering Monday\u2019s contest, it was clear that the Thunder were a better team than the Lakers. Oklahoma City had won every playoff game against LA in blowout fashion and swept the regular-season series 4-0. The only question left was whether the Lakers would put up a fight in Game 4. In their most [&#8230;]",
+          "id": "a7a46d15e26c",
+          "title": "Daily Lakers Discussion Thread",
+          "original_title": "Daily Lakers Discussion Thread",
+          "summary": "Lakers season is back! Talk about whatever you want.  &#32; submitted by &#32;  /u/AutoModerator   [link] &#32; [comments]",
           "key_points": [],
-          "link": "https://www.silverscreenandroll.com/lakers-analysis/117102/lakers-thunder-nba-playoff-jj-redick-lebron-james",
-          "source": "Silver Screen and Roll",
-          "published": "2026-05-12T08:16:36+00:00",
+          "link": "https://www.reddit.com/r/lakers/comments/1tb2ivl/daily_lakers_discussion_thread/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-12T14:00:36+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "de05ce3efae8",
-          "title": "\u2018I don\u2019t know.\u2019 LeBron James unsure if he\u2019ll return for 24th season or retire - Los Angeles Times",
-          "original_title": "\u2018I don\u2019t know.\u2019 LeBron James unsure if he\u2019ll return for 24th season or retire - Los Angeles Times",
-          "summary": "\u2018I don\u2019t know.\u2019 LeBron James unsure if he\u2019ll return for 24th season or retire&nbsp;&nbsp;Los Angeles Times",
+          "id": "4c6e19ecd3ca",
+          "title": "What's next for LeBron James? Setting odds for his next team, plus why retirement seems like real possibility - CBS Sports",
+          "original_title": "What's next for LeBron James? Setting odds for his next team, plus why retirement seems like real possibility - CBS Sports",
+          "summary": "What's next for LeBron James? Setting odds for his next team, plus why retirement seems like real possibility&nbsp;&nbsp;CBS Sports",
           "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTUx2X1dYcDJuVGdpbk02WUZyOUJOb09nbkJ6bkhGMlFJbVJxQnlMZnI1NDFpYXZyZ3Zta2pDUEpWbl9nRGRQR3BNNGJnRGt0RkxyRVU1Wll5ekVNZ0tTR21aTE5VQ0x4WE1BR0V0aFhxQ2hLQ0l3SnRHWTBpSE9vaTRyVWZZRnlLelNmT3ExWjFiNjlGNy1SNXJoWmkxM0c0ZFVLT01JOGh1MmVTZGdn?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81SF92MTNUcVpsWGd2LTZzS2JPd1dUR3FhUGkxYld1dmlBSERjdm1reDZiSFJuMUIxcXVubTcxMFVFeEhsd3lvY1Q2eFhENzRYMElBZGZtRlJHemlWQzlUZEpFNkt4eDIyVzlMMkhqTlZTMEExakRQNmh1YkJ5V3c?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-05-12T08:10:50+00:00",
+          "published": "2026-05-12T13:25:00+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "9208c6bc5857",
-          "title": "Luka Doncic Withdraws From 2027 FIBA World Cup Qualifiers",
-          "original_title": "Luka Doncic Withdraws From 2027 FIBA World Cup Qualifiers",
-          "summary": "A strained left hamstring prevented Luka Doncic from being on the court when the Los Angeles Lakers had their season come to an end, and an ongoing custody battle for his two daughters is going to prevent the proud Slovenian from representing his country this summer. Immediately after the Lakers were swept by the Oklahoma [&#8230;]",
+          "id": "7be3cb3166d7",
+          "title": "LeBron James Predicted To Join Former NBA Finals Rival After Potential Lakers Exit - heavy.com",
+          "original_title": "LeBron James Predicted To Join Former NBA Finals Rival After Potential Lakers Exit - heavy.com",
+          "summary": "LeBron James Predicted To Join Former NBA Finals Rival After Potential Lakers Exit&nbsp;&nbsp;heavy.com",
           "key_points": [],
-          "link": "https://lakersnation.com/luka-doncic-withdraws-fiba-world-cup-qualifiers-slovenia/",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc2F1UUQySVhYUUgwbEFFc3pwUzl2aWl4d3JsWV9SS190MDdNbGtmSGVXSnBEVmlMQlFrNW9ReVFOeUQtV2RrSUYzc0Iwb3Z4Y3R3TTRVSkZkZm9IdHF4WWtaTDlKRnprdXB4b3FYWFBxTjJleWtiSkp6QUg5ZlBTSjhnNjBZOW9rdlRodk5Ra1paOXBGbExn?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-12T12:45:35+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "46ef23ba31e1",
+          "title": "Story of LeBron's career",
+          "original_title": "Story of LeBron's career",
+          "summary": "      &#32; submitted by &#32;  /u/Swimming-Community-5   [link] &#32; [comments] ",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/lakers/comments/1tb0813/story_of_lebrons_career/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-12T12:31:53+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "79f8e810707a",
+          "title": "Ric Flair takes another verbal chop at Lakers star over injury absence - Fox News",
+          "original_title": "Ric Flair takes another verbal chop at Lakers star over injury absence - Fox News",
+          "summary": "Ric Flair takes another verbal chop at Lakers star over injury absence&nbsp;&nbsp;Fox News",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa2syVDIxd2dPNFZTRGpHM2tENGNWY0tZNnBERmVhZ1NUZnRfbWV5anBEbDFVSFNqX2pUaUZMcFJ4TW1XNGpuVm1zelk5VGJ3UnhkcUtUZGFaSGp3cjBkbkktUF9TZTFOeUozYm1vOURHRVVHd0pTM0NHcUp2SzRSTkNPOFFHMHhoSGs0MV9hSjJkLW5WaUprSNIBngFBVV95cUxOdU1oYU1mZlg2aVpIcTFDTGVTWi1DWFRWcloydTh2VkhNVnFNMktUT3BDcExGMkl1bWtpV1ZXWXZzODE2UXN0TFpHUHBkd1o4aElpbV9oVWV6UWtHeEpqOG1iMmp0OWpGWUdwNThvblUwV2ZYWF9lR2k0N3RONzJpcEJENVdoSGJta1hnRWpsQjJSYXVKTVVhLUVsME03dw?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-12T12:02:24+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "3fe3f423a57d",
+          "title": "JJ Redick Credits Lakers Fans And Players Alike For Effort In Game 4 Loss To Thunder",
+          "original_title": "JJ Redick Credits Lakers Fans And Players Alike For Effort In Game 4 Loss To Thunder",
+          "summary": "Los Angeles Lakers fans often draw plenty of criticism stemming from narratives that have formed about the environment at Crypto.com Arena. But with the Lakers facing elimination against the Oklahoma City Thunder on Monday night, there was an inspiring presence felt from the fanbase even as the defending NBA champion came away victorious. \u201cI think [&#8230;]",
+          "key_points": [],
+          "link": "https://lakersnation.com/jj-redick-credits-lakers-fans-and-players-alike-for-effort-in-game-4-loss-to-thunder/",
           "source": "Lakers Nation",
-          "published": "2026-05-12T08:00:49+00:00",
+          "published": "2026-05-12T12:00:34+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "edc24667c75d",
-          "title": "Player Grades: Lakers vs. Thunder",
-          "original_title": "Player Grades: Lakers vs. Thunder",
-          "summary": "In a season defined by their resiliency, the Lakers ended the year in a fitting manner. With their backs firmly against the wall, the team responded with its stiffest punch. LA knocked OKC back on its heels in the third quarter for the first time this series, then went toe-to-toe with them in the fourth. [&#8230;]",
+          "id": "5ccded3585d2",
+          "title": "Lakers Offseason Preview: Free Agency, Draft Assets, LeBron James, Austin Reaves and More - Sports Illustrated",
+          "original_title": "Lakers Offseason Preview: Free Agency, Draft Assets, LeBron James, Austin Reaves and More - Sports Illustrated",
+          "summary": "Lakers Offseason Preview: Free Agency, Draft Assets, LeBron James, Austin Reaves and More&nbsp;&nbsp;Sports Illustrated",
           "key_points": [],
-          "link": "https://www.silverscreenandroll.com/lakers-analysis/117130/player-grades-lakers-thunder-stats-box-score-recap-lebron-james-austin-reaves-rui-hachimura-nba-playoffs",
-          "source": "Silver Screen and Roll",
-          "published": "2026-05-12T07:30:42+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "f9a0e8385991",
-          "title": "LeBron James doesn't 'know what the future holds' after Lakers eliminated - USA Today",
-          "original_title": "LeBron James doesn't 'know what the future holds' after Lakers eliminated - USA Today",
-          "summary": "LeBron James doesn't 'know what the future holds' after Lakers eliminated&nbsp;&nbsp;USA Today",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNd1dlN0x2MW1oWmxqcS00N0dFa1cxTnoxNl93bmlrRzZ4N21vRDBKTlVtNDRja2NFNW5WQ3R6ZEZ1QlRDRmlVQVI4OEJPSDhzMEx4amhJTVVFV2F2MF8tWWhnWlNWd0pWYjBCRld3bUZvV1gyaDZUZ2lCYzhyU3ltMlJjQkh6ak9TZ3FQUmgzdWR3UGhOai1xWU9WWTJQLW9mU2FTS1VMZW9hUExSQkt0SGhPVzRTWDNFZEVZM3NrUGxyOFlPdG83RVZ3?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOU13bW9tbEdvNDAzY3F0d0VWeHNxc0t6dUEzNU5XYTkyYzVTWGw4VThWdU1hTjRsbVlmMkZHVTRGMUFWdWZuNElpS0ZwRnpOUXRoTzRYb1JkekI0WTRLRDZyNjdybGFGeUhkbndWWFpxSXMyeUdmRUZpeU9lU2VXZUJkOVFDM1M0U1lhaQ?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-05-12T07:26:00+00:00",
+          "published": "2026-05-12T12:00:04+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "92e93ad04324",
+          "title": "LeBron James relishes leading Lakers. Would he accept lesser role again? - USA Today",
+          "original_title": "LeBron James relishes leading Lakers. Would he accept lesser role again? - USA Today",
+          "summary": "LeBron James relishes leading Lakers. Would he accept lesser role again?&nbsp;&nbsp;USA Today",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcFhqczkyNF9kSHhrVmdTd1cxeFN6VUp1eWZZblczLW5jSjBNSm01TkF6dHpVTl8xb1hOVmFCUGlrR1dkYnRGQklpUGNJcjVQc3lJclVYeWNkUGdCYlpYc2NVSTktLVhQNHgwZGlRajZLQ1FQXzEwU3JjQnhfcTJuMVVSZUZCX0FTbVlWZXVCdTBaLUpUM00yUjFGY2JkNW5JR3ZySGdvNm9XOWVQZWxaLTJYMER1OUl1dW1sQw?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-12T11:28:00+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -141,78 +121,113 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "3658f2aac5c1",
-          "title": "Bickerstaff deems free\u2011throw gap 'unacceptable' in Pistons' loss",
-          "original_title": "Bickerstaff calls FT disparity in loss 'unacceptab...",
-          "summary": "Detroit Pistons head coach J.B. Bickerstaff criticized the large disparity in free\u2011throw attempts between his team and the Cleveland Cavaliers after a Game 4 defeat. He labeled the difference \"unacceptable\" and emphasized the need for better discipline at the line.",
-          "key_points": [
-            "Pistons attempted far fewer free throws than the Cavaliers in the loss.",
-            "Bickerstaff called the gap unacceptable and a factor in the defeat.",
-            "Coach expects the team to improve free\u2011throw execution moving forward."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48747058/bickerstaff-calls-ft-disparity-game-4-loss-unacceptable",
-          "source": "ESPN NBA",
-          "published": "2026-05-12T09:21:10+00:00",
+          "id": "c5c24fa540f5",
+          "title": "Use DraftKings promo code for $100 in bonus bets by targeting Spurs-Timberwolves, Paul Skenes props on Tuesday",
+          "original_title": "Use DraftKings promo code for $100 in bonus bets by targeting Spurs-Timberwolves, Paul Skenes props on Tuesday",
+          "summary": "DraftKings offers $100 in bonus bets instantly after your first $5 wager for NBA and MLB betting on Tuesday",
+          "key_points": [],
+          "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-for-100-in-bonus-bets-targeting-spurs-timberwolves-paul-skenes-props-tuesday/",
+          "source": "CBS Sports NBA",
+          "published": "2026-05-12T14:10:42+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "ec3949b48fbf",
-          "title": "Wembanyama avoids further discipline, cleared for Game 5",
-          "original_title": "No discipline for Wemby elbow; he'll play Game 5",
-          "summary": "Spurs star Victor Wembanyama will not receive additional punishment for elbowing Minnesota's Naz Reid and is slated to play in Game 5 against the Timberwolves in San Antonio. Sources told ESPN the league decided no further action was necessary.",
-          "key_points": [
-            "Wembanyama elbowed Naz Reid in the previous game.",
-            "NBA officials decided no extra discipline was warranted.",
-            "He remains eligible for the upcoming Game 5."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48742211/no-discipline-wembanyama-reid-elbow-play-game-5",
-          "source": "ESPN NBA",
-          "published": "2026-05-12T09:21:10+00:00",
+          "id": "8d65d982cd8b",
+          "title": "LeBron James next team predictions: Lakers ready to dive into Luka Doncic era, but will James return?",
+          "original_title": "LeBron James next team predictions: Lakers ready to dive into Luka Doncic era, but will James return?",
+          "summary": "The King faces a major decision this summer and the Kalshi market on his future is heating up",
+          "key_points": [],
+          "link": "https://www.cbssports.com/betting/news/lebron-james-next-team-predictions-lakers-ready-to-dive-into-luka-doncic-era-but-will-james-return/",
+          "source": "CBS Sports NBA",
+          "published": "2026-05-12T14:02:05+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "66597e2ea267",
-          "title": "Bucks open trade talks for Giannis Antetokounmpo",
-          "original_title": "Sources: Bucks seeking trade offers for Giannis",
-          "summary": "Milwaukee Bucks are reportedly receptive to trade inquiries and offers involving Giannis Antetokounmpo, according to multiple sources. The front office is evaluating potential deals while keeping the superstar on the roster for now.",
-          "key_points": [
-            "Sources confirm the Bucks are entertaining trade proposals for Giannis.",
-            "The team has not committed to any move yet.",
-            "Giannis remains under contract and will continue to play for Milwaukee."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48741814/sources-bucks-seeking-trade-offers-giannis-antetokounmpo",
-          "source": "ESPN NBA",
-          "published": "2026-05-12T09:21:10+00:00",
+          "id": "1587f98011f8",
+          "title": "King me: Believe it or not, LeBron James is a Hall of Famer as a Laker alone",
+          "original_title": "King me: Believe it or not, LeBron James is a Hall of Famer as a Laker alone",
+          "summary": "If this is it for LeBron James as a Laker, he can walk away with pride.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/nba/article/king-me-believe-it-or-not-lebron-james-is-a-hall-of-famer-as-a-laker-alone-135858870.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-12T13:58:58+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "203bb5bb4b7e",
-          "title": "Spurs list De'Aaron Fox as questionable with ankle soreness",
-          "original_title": "Spurs' Fox (ankle) questionable for Game 5",
-          "summary": "San Antonio Spurs have designated guard De'Aaron Fox as questionable for Game 5 of the Western Conference semifinals due to right ankle soreness. The injury status will be updated before tip\u2011off at Frost Bank Center.",
-          "key_points": [
-            "Fox is dealing with right ankle soreness.",
-            "He is listed as questionable for the upcoming Game 5.",
-            "Final decision will be made closer to game time."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48746586/spurs-deaaron-fox-dealing-right-ankle-soreness",
-          "source": "ESPN NBA",
-          "published": "2026-05-12T09:21:10+00:00",
+          "id": "b78389b07a24",
+          "title": "LeBron James may be at retirement age, but everything else tells us he's not done yet",
+          "original_title": "LeBron James may be at retirement age, but everything else tells us he's not done yet",
+          "summary": "After the Lakers' elimination Monday night, James said he doesn't 'know what the future holds' for him yet",
+          "key_points": [],
+          "link": "https://www.cbssports.com/nba/news/lebron-james-retirement-age-body-talent/",
+          "source": "CBS Sports NBA",
+          "published": "2026-05-12T13:54:58+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "910d4c58de7b",
-          "title": "LaMelo Ball and partner welcome first child, launch fertility nonprofit",
-          "original_title": "\ud83c\udf7c LaOne: LaMelo, partner welcome first child",
-          "summary": "NBA star LaMelo Ball and his partner announced the birth of their first child and revealed they are founding I Am Fertility, a nonprofit aimed at supporting women navigating fertility and IVF challenges. The initiative reflects their personal commitment to the cause.",
-          "key_points": [
-            "LaMelo Ball and his partner have welcomed their first child.",
-            "They are launching I Am Fertility, a nonprofit for fertility support.",
-            "The organization will focus on assisting women through IVF and related journeys."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48734873/lamelo-ball-birth-first-child-laone",
-          "source": "ESPN NBA",
-          "published": "2026-05-12T09:21:10+00:00",
+          "id": "6d051efd6920",
+          "title": "2026 NBA Mock Draft: Clippers take a huge swing at No. 5, Darius Acuff falls to Kings at pick No. 7",
+          "original_title": "2026 NBA Mock Draft: Clippers take a huge swing at No. 5, Darius Acuff falls to Kings at pick No. 7",
+          "summary": "Testing and measurements are starting to roll in from the NBA Draft Combine. For this mock draft, the fun likely starts at pick No. 5 when the Clippers are on the clock",
+          "key_points": [],
+          "link": "https://www.cbssports.com/nba/news/2026-nba-mock-draft-darius-acuff/",
+          "source": "CBS Sports NBA",
+          "published": "2026-05-12T13:50:06+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "28d146a73e66",
+          "title": "What's next for LeBron James? Setting odds for his next team, plus why retirement seems like real possibility",
+          "original_title": "What's next for LeBron James? Setting odds for his next team, plus why retirement seems like real possibility",
+          "summary": "The 41-year-old superstar is a free agent, and every option is on the table, from a Lakers return to retirement",
+          "key_points": [],
+          "link": "https://www.cbssports.com/nba/news/lebron-james-odds-next-team-retirement/",
+          "source": "CBS Sports NBA",
+          "published": "2026-05-12T13:27:35+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "3d1fb8932d60",
+          "title": "Timberwolves vs Spurs Prediction, Picks & Odds for Today's NBA Playoffs Game 5",
+          "original_title": "Timberwolves vs Spurs Prediction, Picks & Odds for Today's NBA Playoffs Game 5",
+          "summary": "Victor Wembanyama is class on the glass in our Timberwolves vs Spurs predictions and NBA picks for Tuesday, May 12.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/timberwolves-vs-spurs-prediction-picks-230200641.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-12T13:06:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "c649728bfa39",
+          "title": "LeBron's future uncertain after Thunder sweep Lakers; red-hot Cubs poised to challenge champion Dodgers",
+          "original_title": "LeBron's future uncertain after Thunder sweep Lakers; red-hot Cubs poised to challenge champion Dodgers",
+          "summary": "Plus, the Pistons were buried by a 'Cavalanche' in Game 4",
+          "key_points": [],
+          "link": "https://www.cbssports.com/nba/news/lebrons-future-uncertain-after-thunder-sweep-lakers-red-hot-cubs-poised-to-challenge-champion-dodgers/",
+          "source": "CBS Sports NBA",
+          "published": "2026-05-12T13:00:51+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "72f6707c5543",
+          "title": "Should we be worried about Matt Able at the NBA Combine?",
+          "original_title": "Should we be worried about Matt Able at the NBA Combine?",
+          "summary": "Might have to sweat this one out",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/worried-matt-able-nba-combine-130000313.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-12T13:00:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "761799f7859a",
+          "title": "Greg Sankey backs March Madness expansion \u2014 with a caveat",
+          "original_title": "Greg Sankey backs March Madness expansion \u2014 with a caveat",
+          "summary": "SEC commissioner Greg Sankey\u2019s comments signal approval of expansion \u2014 and a belief the fundamentals of March Madness remain intact.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/greg-sankey-backs-march-madness-121945177.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-12T12:19:45+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -221,78 +236,113 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "928dd99873a1",
-          "title": "Luka Doncic Plans Family Time Amid Custody Dispute Over Slovenia Play",
-          "original_title": "Lakers' Luka Doncic plans to spend time with his kids while locked in custody battle over playing for Slovenia - Fox News",
-          "summary": "Dallas Mavericks star Luka Doncic said he will prioritize spending time with his children while he is involved in a custody battle that could affect his ability to play for the Slovenian national team. The legal dispute centers on travel restrictions and parental rights, and Doncic indicated his focus will be on family matters rather than basketball commitments.",
-          "key_points": [
-            "Doncic is dealing with a custody case that may limit his participation with Slovenia.",
-            "He emphasized the importance of being with his kids during this period.",
-            "The situation is personal and unrelated to his NBA performance."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZm1PODdGYm1zRC03Tm90Ty1pQWVnZXNLN0xpcnhiWG9wbjB6V2w4cmpxRmdTSnBQTU5NSGlJS2xLOGt3QTBBQXQwVDZmdWExMUNTeGFvbE0tLTMwLXdzX0RCLVV2ZE5meGtsa1hfRlBiZnVfUUlabzNCa2x5Z01JS25PX0RkT2lXWlhucloxMzZ5MWhYTVA4eklFdXI0UHJVenFFVXBJV3dZR1Z1TnI40gG0AUFVX3lxTE5peVgtbGx1MThTUkxVVktHUkFRcXdxWGdnUTN6aXhGS0hOa3RXZUE1MlpsdXUzN3BRcUNpZkVTMjJZSExERFV5U0dhN3hWYjZ5a25iSnNLdzBtekJaUFlZRUduaFpISF9wMzVNWnc4ODl6TnJoUVpLcW5zWFhaT1dlM09jV04xSzNYemJLcmg5cjZIc0dPbEo3dmphbEZ1Z2lMdkxLT0lQWEhwQ0xlMFJpT09ubw?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-05-12T10:14:26+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "4230046798c7",
-          "title": "LeBron James Unsure About Future NBA Retirement Plans",
-          "original_title": "LeBron James on possible NBA retirement: \u2018I don\u2019t know what the future holds\u2019 - The New York Times",
-          "summary": "LeBron James told The New York Times that he does not know what his future holds regarding retirement from the NBA. While acknowledging his age and the physical demands of the league, James said he will continue to evaluate his health and motivations before making any decisions.",
-          "key_points": [
-            "James expressed uncertainty about when\u2014or if\u2014he will retire.",
-            "He cited health, family, and love of the game as factors he will consider.",
-            "No concrete timeline or announcement was provided."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdmxsTE1aUjBRcm1rZVlTNGVLNUpSUFF5VHB0dE8xZi0xVUFIeUNnMVdqS05hbE1LV2lSZUlXRWZzd2lxNTFRejVmOUh5cXBLQ2FHOFNBblVfd1Y5ZGc2bVZqQVdGeGxXX19ucDFXazVHRFVvN1B1ekY5cnU4WmNJZ2htdGk2TURmNkJ1cXBBWGNjYUNVZ0E0Sw?oc=5",
+          "id": "0ff1864d5845",
+          "title": "\"I was put into positions I never played\" - LeBron James on why he doesn't view his 23rd season as a disappointment - Yahoo Sports",
+          "original_title": "\"I was put into positions I never played\" - LeBron James on why he doesn't view his 23rd season as a disappointment - Yahoo Sports",
+          "summary": "\"I was put into positions I never played\" - LeBron James on why he doesn't view his 23rd season as a disappointment&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd3ZMTEJXVjE2aXppVXlVRXZiWlRBS1pmcU1QQkR6X2tjSnV4NnRxUW1HYldNa21xc3JhX25vUlhPTWpxTjUyWGR4MGJrc2lIZUttdHRPT2dKSlZTWFhfdTFkQ0dJMnI4SWg5dG5GN2w2Y3JPTDE0cXVYMGFIU3JTb3k4RVRhc0lnTGc?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-05-12T09:30:45+00:00",
+          "published": "2026-05-12T14:32:11+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "ff9f02b63ada",
-          "title": "Draymond Green Criticizes Luka Doncic During Lakers\u2011Thunder Series",
-          "original_title": "Warriors\u2019 Draymond Green drops blunt Luka Doncic take amid Lakers-Thunder series - Yahoo Sports",
-          "summary": "Golden State Warriors forward Draymond Green made blunt comments about Luka Doncic while the Lakers faced the Thunder in the playoffs, as reported by Yahoo Sports. Green\u2019s remarks focused on Doncic\u2019s playing style and decision\u2011making, adding fuel to the ongoing rivalry narratives.",
-          "key_points": [
-            "Green delivered a candid assessment of Doncic\u2019s game during the series.",
-            "Comments were made in the context of the Lakers\u2011Thunder matchup, not a Warriors game.",
-            "The remarks sparked discussion among analysts about Doncic\u2019s impact on the Lakers."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3JLNFVzTW56NElZd3g5TWxZTmd0Yk1rMUYyemhyTGRoOUlLUXhhZlg5cTV1VmRuNG5WSFRxVUtYaVhldHFwSHRfN0tjVUU2bzlidW1EYTBfMHFhdGRhbEs1N1llV1paZWhyNHEtMUNFVFhpLWtkb2FDZmdMUVAzRDU1MXJUVGN6Skc3VA?oc=5",
+          "id": "948dbc0290e0",
+          "title": "LeBron James next team predictions: Lakers ready to dive into Luka Doncic era, but will James return? - CBS Sports",
+          "original_title": "LeBron James next team predictions: Lakers ready to dive into Luka Doncic era, but will James return? - CBS Sports",
+          "summary": "LeBron James next team predictions: Lakers ready to dive into Luka Doncic era, but will James return?&nbsp;&nbsp;CBS Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeDlvbE5la0M0aUJxUVZSQzV1VDh4a21lWkpXTWg1YndaZ3FTQ3p1YVptZHR4cGRyRzJQSFpYREtVeklrN0xzQWd2d3VvVllENjNuZFRIU1JkWDA5TUpuMlU1RXhhdnJiTEhwdXg5cEUyMVUyRVJDdGwyXzRPUkhfYUswZmJENm9Jczh4a2x3R2FkU3J1a0s2dTh1Zzg3eEVrRDUySFQ0ODV1MU11cUFpdEVORzVKUUJvWGNEMmhzbmxUS3BDSWZSS0RpZGZhTDJJSm80RA?oc=5",
           "source": "Google News - Luka",
-          "published": "2026-05-12T09:19:55+00:00",
+          "published": "2026-05-12T14:02:05+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "a65f877d1f61",
-          "title": "Luka Doncic Hints at Potential Lakers Off\u2011Season Moves",
-          "original_title": "Luka Doncic Drops Important Hint About Lakers\u2019 Offseason Roster Moves - heavy.com",
-          "summary": "Heavy.com reported that Luka Doncic dropped a subtle hint suggesting the Los Angeles Lakers may be considering significant roster changes in the upcoming off\u2011season. While the specifics were vague, the comment implied that the organization could be exploring trades or free\u2011agent signings to improve the squad.",
-          "key_points": [
-            "Doncic\u2019s comment was interpreted as a signal of upcoming roster activity.",
-            "No concrete details were given about which players might be involved.",
-            "The hint adds to speculation about the Lakers\u2019 strategy after a disappointing season."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUGczYTVQU3ZuTDhYRzRZMWJiVjVjZEplLWxkLTRDWWpxRGkzS04weHdqWGhKTkY2REFJOXdJcndDZFdybTI4Z3FQbFBvVlFhSXFMd0ZKbkZJeUF0aVBYZHhpa2JJTlUwc2IwTXBldUh4UEFtVlVadlZmbXpab2hCV3NoaUR1UWxZMVpaMFVDUjRKM3JzUWc?oc=5",
+          "id": "544de637f4ca",
+          "title": "Luka Doncic makes stance on the Lakers clear after Thunder complete sweep - Lake Show Life",
+          "original_title": "Luka Doncic makes stance on the Lakers clear after Thunder complete sweep - Lake Show Life",
+          "summary": "Luka Doncic makes stance on the Lakers clear after Thunder complete sweep&nbsp;&nbsp;Lake Show Life",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRmF6dGVnVlZIcVlGMUxuVzY0ZFdHdjV4YWlVTDdTemRJandLMlhWbmJOV0wzUldVN3lPVFJNbVo2V3BUTW8tdXcxWjM4VmFyTlUxOHZJQ3ZaLW5hMThhZ19ULWlDVTJTaEk1aFJ5bWlzM081TXljWnItaEwxbTR3eGtRaHV4UEFMTXByM2FJU1hmRm53bjVocXRCckJCWWI4aEU3ZEZ3?oc=5",
           "source": "Google News - Luka",
-          "published": "2026-05-12T09:14:43+00:00",
+          "published": "2026-05-12T14:00:01+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "d83c717a9bc7",
-          "title": "Luka Doncic Announces Major Personal News After Lakers Season Ends",
-          "original_title": "Luka Doncic Makes Major Personal Announcement Right After Lakers Season Ends - Sports Illustrated",
-          "summary": "Sports Illustrated covered Luka Doncic\u2019s major personal announcement made immediately after the Lakers\u2019 season concluded. The announcement, though not detailed in the brief, was highlighted as a significant moment for the player and the franchise.",
-          "key_points": [
-            "The announcement came right after the final game of the season.",
-            "It was described as a major personal development for Doncic.",
-            "Details of the announcement were not provided in the summary."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdHV5U21Pb3Axa0h2dklBc1dFNFE2SlpNV0ZKd1A4cmpIclhVN0ZDQnBDTGM1NUJOWGE0dE4xcW82UGpqTm55TzY1Mmp1Wmx5QW9PSUJDQklLMzlYQ3RsM2tDaUo0UmVkek44X2lTWkxHNVE4WFNrb0d1cUo4bVRXOXBsenBwbDhrM1AyQ3YxZ0F5Y0hvaGZSUGVJYUlKODlyRFpsc19FN05OVVhGUFNFUA?oc=5",
+          "id": "a12034729939",
+          "title": "LeBron James' biggest hater was courtside to potentially witness The King's last NBA game - Fox News",
+          "original_title": "LeBron James' biggest hater was courtside to potentially witness The King's last NBA game - Fox News",
+          "summary": "LeBron James' biggest hater was courtside to potentially witness The King's last NBA game&nbsp;&nbsp;Fox News",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR3B5NHBzN3FxLXFaOXREUThMX0NJcFE2SWtIRTdiWHdQbnQ5VkRueEJ3N3hhYlBhRU1WaWd0LVBER0pxbHo5SGJudjgyc2xMNkJGSVZDLVlwazJmNHc0d3hsRnprWkVqN083SnVnX1E3VGlFX2VrZG1zeUtOcVJtTXpTcU5fM0M3UHpIZkctaVg0UUpaTUJXNzhSc0k4WVBIc1hjV3lWNnBZQ1ZkbGdINS1XekNldw?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-12T13:35:55+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "52436fcf22a1",
+          "title": "Lakers Promised Luka Doncic Mavericks-like Roster Build - RealGM",
+          "original_title": "Lakers Promised Luka Doncic Mavericks-like Roster Build - RealGM",
+          "summary": "Lakers Promised Luka Doncic Mavericks-like Roster Build&nbsp;&nbsp;RealGM",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcWs0MUhsWTJXX2RZcXRyQV8tVVl5TEt6UXJrYUdJdXI5a0cwUDh4VjA1dFhnb2cwdEwxeEFXUXRRVjBDcEZtMFgtQTVVRmd2cUpLUXFGYzZ0aXhYZmJtQVhCQ3BmV2RaQWVWY3BZMmtYZzh4MGpzbTVPU245Z3RvUVp1cS16RTVvcXl6eTFCVFZyYjZibTdzN3FRcGJrVUl2UXc?oc=5",
           "source": "Google News - Luka",
-          "published": "2026-05-12T08:30:00+00:00",
+          "published": "2026-05-12T12:46:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "361d034bac7c",
+          "title": "LeBron James discusses his future after loss to Thunder - NBC Los Angeles",
+          "original_title": "LeBron James discusses his future after loss to Thunder - NBC Los Angeles",
+          "summary": "LeBron James discusses his future after loss to Thunder&nbsp;&nbsp;NBC Los Angeles",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN0dNRm9sRDlKOGdTdHlobVkwa1BrbDFhQUFWTWpqUmhweE1NazNNNmpsa3NKb2t4Qmg2S3lzQVZ1ZWNndDkwMWEzSG5Eakthendwdm13MzQ4SS1OcEFoUV9GSE1VT2Z4ekNuMmx1RnZueVlQanZ0bzVIZjFOS3VUR9IBiAFBVV95cUxNT3FEaDBjNk90X1VqYTRwLS1TV1pXM0ZYY2xNS2VaMXBiMWo0bzNFbnVhdllTZ0plMUlMX2VXM3FrUUM3bTVORFN6NDlJd056UVJYYlI3MHRDamdQdUZ2N203MThXcDRzM3U0alozbUFUSWdYbURxbmtTX2NGdXpZSkZWYzlEVUVW?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-12T12:29:47+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "69d375a71067",
+          "title": "Luka Doncic Reveals His Offseason Priority After Lakers\u2019 Playoff Exit - heavy.com",
+          "original_title": "Luka Doncic Reveals His Offseason Priority After Lakers\u2019 Playoff Exit - heavy.com",
+          "summary": "Luka Doncic Reveals His Offseason Priority After Lakers\u2019 Playoff Exit&nbsp;&nbsp;heavy.com",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS0VFaWtTWVp5eHZNOEZnbjZaZHJYNTc2ajJldS1iTlNZRmVvRU1ubHVScktIYVVfY0o1RVBEVkEtMllNd21hQ1Nwa3pKdVI3ODRFREZnbGJKRjJMelZHN2o5YXNYc012ZE8wc0sxUkQ2eXJGV1NQTkg0TEFSZzA1QUxDZ2VkT09DMno0U2JLQTRnUjg?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-05-12T12:22:28+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "a9709f50aadf",
+          "title": "Lakers\u2019 Luka Doncic won\u2019t play for Slovenian team amidst contentious custody battle - New York Post",
+          "original_title": "Lakers\u2019 Luka Doncic won\u2019t play for Slovenian team amidst contentious custody battle - New York Post",
+          "summary": "Lakers\u2019 Luka Doncic won\u2019t play for Slovenian team amidst contentious custody battle&nbsp;&nbsp;New York Post",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZVZlNnduTFpyNzZvNUJUc1p6elIzN2xzNXBibl9MWm1nY3lSVEUyR0k4MndzbEdzQ0pVVmhWM0lvejUtNFJEXzlGVmkxYU9ucllNZzJoN2JadUxwazBSeU5iZ3l4Z2Vvd3Jic1ZwaXhmR2Rpa2RPdXdPU2hWUzg2Q3A5SEsxS1MwODBSZFBVREpLMF9iVlE?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-05-12T12:11:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "9bcb4e554590",
+          "title": "Luka Doncic injury update: Will Lakers star play Game 4 tonight against OKC Thunder? - The Times of India",
+          "original_title": "Luka Doncic injury update: Will Lakers star play Game 4 tonight against OKC Thunder? - The Times of India",
+          "summary": "Luka Doncic injury update: Will Lakers star play Game 4 tonight against OKC Thunder?&nbsp;&nbsp;The Times of India",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSjFHU0dwejFsckJnUUpnV2VoQWN6cHVFSnJ0YTc5R0lEajZxbkswWlAtUjFNMlFfa3F6YzNIRjg2T3ZZcXZLcS1zOVBPWGFzU3B5V1h5REdDZko2Z1kyaWRUUmpXem92ZGlBZzZDMVMxdzZFZERZOEp0cVp3VldVXzh6OGdKa2tkOTVpTHhELWQxX0J3OTRQdFh6bVp6bDdvcDVFcnJXX2g3X0RlZWV3LTN3djZjYWhHOFZpWkFfUF9XQUNwM2ZUOW1OT1dQWjViMzdVS0VVcWhFXzgxblFTS1preGk1ekZwYVhKeVFLanF3OWpyNWstSVlJb9IBgAJBVV95cUxPVWVISllLTU1BLUhxZXJmd2h5a21oWlc0Y1hjNWY0clR5ek4zbUpqcDlIbXN6MC1ndVZFemZRelFoVGF0NndOVVlhLTVOUVJQVjJJcXd2SHBtWnluS2p3aWVLMDM3NHBpb2d2UlgwV2xnR1ByS1VnbTN0b3oyVkVTckxydGpGNVkwQmcxSDBjbUhSNDRENkhrMEVQZnlrelgtV1NxMmtxTmJ2cXdPdzBYeTMwT0ZuLXFwVFpySXpjU3hRWFZ0c0JzLU5DQ2RqOE5BWTQySnUzeXBTelZUZnhsRkZaMXZvX3hjcDJjRnl1T3NiOHNrQU9hTDVVdEVXMS16?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-05-12T12:04:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "374f5d834e41",
+          "title": "LeBron James unsure on what\u2019s next after Lakers swept in playoffs: \u2018My future? I don\u2019t know\u2019 - The Guardian",
+          "original_title": "LeBron James unsure on what\u2019s next after Lakers swept in playoffs: \u2018My future? I don\u2019t know\u2019 - The Guardian",
+          "summary": "LeBron James unsure on what\u2019s next after Lakers swept in playoffs: \u2018My future? I don\u2019t know\u2019&nbsp;&nbsp;The Guardian",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdWRaQjlGUU5FRkdPWkY3a19RcUJHLUpwWnlDdFUtdTNkN2RMV19vQ1lGMGFLZnpmQzhzNmJUV3NSR29YeUxwaFo1dmhMVGh5RnlRUzFoSzZSNklja2lPenJGWWJuWk9PRkVoVnVwUXZMaktEZGstOHZSLV9mNUROYUcwSjBINlRWT2ZWU3Vjdw?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-12T12:02:00+00:00",
           "topic": "Lakers Players"
         }
       ]
