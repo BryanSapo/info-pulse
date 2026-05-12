@@ -1,118 +1,158 @@
 {
-  "generated_at": "2026-05-12T18:06:15.018051+00:00",
-  "total_articles": 20,
+  "generated_at": "2026-05-12T20:12:06.953048+00:00",
+  "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
-          "id": "ccad77d01c95",
-          "title": "Rob Pelinka: Lakers & Austin Reaves Have Mutual Interest In Continuing Partnership",
-          "original_title": "Rob Pelinka: Lakers & Austin Reaves Have Mutual Interest In Continuing Partnership",
-          "summary": "After LeBron James, the longest tenured member of the Los Angeles Lakers roster is Austin Reaves, who has been with the franchise for five seasons. Reaves began his Lakers tenure as an undrafted player on a two-way contract, but has developed into a borderline All-Star in his time with the franchise. Reaves is now in [&#8230;]",
-          "key_points": [],
+          "id": "5260f555ca90",
+          "title": "Redick Wants Lakers\u2019 Core Trio Back Next Season",
+          "original_title": "JJ Redick Wants Core Trio Of Luka Doncic, Austin Reaves & LeBron James Back Next Season",
+          "summary": "Former Laker JJ Redick said the combination of Luka\u202fDoncic, Austin Reaves and LeBron\u202fJames showed flashes of elite chemistry after early\u2011season growing pains. He believes that once the trio clicks, they could be among the NBA\u2019s best units, and he hopes the team retains all three for the 2025\u201126 campaign.",
+          "key_points": [
+            "Redick praised the on\u2011court synergy of Doncic, Reaves and James after the season\u2019s rough start.",
+            "He emphasized that the trio\u2019s potential makes them a cornerstone for future success.",
+            "Redick urged the organization to keep the three players together for next year."
+          ],
+          "link": "https://lakersnation.com/jj-redick-wants-core-trio-of-luka-doncic-austin-reaves-lebron-james-back-next-season/",
+          "source": "Lakers Nation",
+          "published": "2026-05-12T19:50:37+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "ab8717f2ebda",
+          "title": "Lakers \u2018Love\u2019 Having LeBron James Return Next Season",
+          "original_title": "Lakers would &#8216;love&#8217; to have LeBron James back next season",
+          "summary": "LeBron James will enter unrestricted free agency for the first time since joining Los Angeles in 2018, leaving his future uncertain. The Lakers publicly expressed a strong desire to retain him, while acknowledging that all options\u2014including a move elsewhere\u2014remain on the table.",
+          "key_points": [
+            "James becomes an unrestricted free agent, ending his contract with the Lakers.",
+            "The organization stated it would \u201clove\u201d to keep him for the 2025\u201126 season.",
+            "Potential destinations include staying in LA, returning to Cleveland, or joining another contender."
+          ],
+          "link": "https://www.silverscreenandroll.com/lakers-news/117183/lakers-lebron-james-rob-pelinka-offseason-free-agency",
+          "source": "Silver Screen and Roll",
+          "published": "2026-05-12T19:07:20+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "6a2fe82eee68",
+          "title": "LeBron James Favored to Return, Yet May Leave Lakers \u2013 Reuters",
+          "original_title": "LeBron James favored to return next season, but leave Lakers - Reuters",
+          "summary": "Reuters reports that while LeBron James is the favorite to re\u2011sign with the Los Angeles Lakers, there is also a realistic possibility he could depart in free agency. The article highlights the uncertainty surrounding his decision and its impact on the franchise\u2019s planning.",
+          "key_points": [
+            "James is the leading candidate to stay with the Lakers for another year.",
+            "Analysts note a credible chance he could sign elsewhere, creating roster uncertainty.",
+            "The Lakers must prepare for both scenarios as they approach the offseason."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcTF0dUxGQnFtT0hqSEpLX3F4cTl4U0dWcjVMYzJVb2xMYTFFbjNiYVlZWkxMdDJXc1l5ekNxYWRWM2Y0NkF0RmxCQ2s3QWYtd3M3d29GdWdBR3JwT2ZEVVY0U3VEX2Yzb1hCX0FiMGRTZlhjTkdpTkNvVTNPVDc4NHgwdUdfaTNRVUk3bUJOdDUxUXpzVWZLWlk3LWduLWctYUE?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-12T18:59:41+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "38cac64a578a",
+          "title": "Doncic \u2018Wasn\u2019t Close\u2019 to Returning for Lakers Playoffs",
+          "original_title": "Lakers News: Luka Doncic \u2018Wasn\u2019t Close\u2019 To Returning In Playoffs",
+          "summary": "The Lakers\u2019 2025\u201126 season ended with a second\u2011round sweep by the Oklahoma City Thunder, a respectable run given Luka\u202fDoncic\u2019s Grade\u20112 left hamstring strain that sidelined him on April\u202f2. Despite his absence, the team reached the playoffs, but Doncic confirmed he was far from being able to play in the series.",
+          "key_points": [
+            "Luka\u202fDoncic suffered a Grade\u20112 left hamstring strain, ending his season on April\u202f2.",
+            "The Lakers still advanced to the second round, ultimately being swept by OKC.",
+            "Doncic stated he was not close to returning for the postseason."
+          ],
+          "link": "https://lakersnation.com/lakers-news-luka-doncic-wasnt-close-to-returning-in-playoffs/",
+          "source": "Lakers Nation",
+          "published": "2026-05-12T18:55:51+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "34a1d90b03de",
+          "title": "Game\u202f4 Exposes Urgent Offseason Need for Lakers",
+          "original_title": "How Game 4 revealed one urgent need for the Lakers this offseason",
+          "summary": "In Game\u202f4 of the Western Conference semifinals, the Oklahoma City Thunder completed a sweep of the Los Angeles Lakers, highlighting a critical deficiency in the Lakers\u2019 roster. The loss, despite a brief late\u2011game lead, underscored the urgency for the team to address specific weaknesses before the next season.",
+          "key_points": [
+            "Thunder closed the series with a 4\u20110 sweep, ending the Lakers\u2019 playoff run.",
+            "Lakers showed brief resilience but could not hold a one\u2011point lead in the final minute.",
+            "The defeat revealed a pressing need for roster upgrades in the upcoming offseason."
+          ],
+          "link": "https://www.silverscreenandroll.com/lakers-analysis/117173/lakers-thunder-jaxson-hayes-film-breakdown-center-nba-free-agency-trade",
+          "source": "Silver Screen and Roll",
+          "published": "2026-05-12T18:46:19+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "35e8db863575",
+          "title": "Shai Gilgeous\u2011Alexander lets OKC shine, then caps win over Lakers",
+          "original_title": "Sha Gilgeous-Alexander let OKC Thunder teammates shine, then he closed out Lakers - Yahoo Sports",
+          "summary": "Shai Gilgeous\u2011Alexander paced the Oklahoma City Thunder, sharing the ball with teammates throughout the game before delivering the decisive play that sealed a victory against the Los Angeles Lakers. The performance highlighted his ability to both facilitate and finish in high\u2011stakes moments.",
+          "key_points": [
+            "Gilgeous\u2011Alexander distributed the offense early, allowing multiple Thunder players to contribute.",
+            "He scored the game\u2011closing basket that gave OKC a win over the Lakers.",
+            "The outing underscored his dual role as a playmaker and clutch scorer."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV3U2Ni1ZTFJkYzdickZqMUQ5SmhJQ29vMm5LZGF0aUFzZldZZlc3WGdqMi1XOTNIdDNjXzUzUVotc2VON2VKSjN1WW5qeXpWalhRTk1LanBBMEk3MWk1YVV1S2pQQmJvYUxWZS1kRGl5VzdqSVJFUEhlQ09kOUdOVHQxMDY1UQ?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-12T18:34:54+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "cc0fa0041df6",
+          "title": "Luka Don\u010di\u0107 tells Lakers he wants to stay with Austin Reaves",
+          "original_title": "Luka Don\u010di\u0107 &#8216;made it clear&#8217; to Lakers he wants to continue playing with Austin Reaves",
+          "summary": "Luka Don\u010di\u0107 communicated to the Los Angeles Lakers that he wishes to continue his on\u2011court partnership with Austin Reaves, a duo that emerged as one of the league\u2019s most effective backcourts this season. Their chemistry helped Reaves elevate to All\u2011Star\u2011caliber play.",
+          "key_points": [
+            "Don\u010di\u0107 explicitly expressed a desire to keep playing alongside Reaves.",
+            "The Reaves\u2011Don\u010di\u0107 pairing became a top backcourt combination in the NBA.",
+            "Reaves\u2019 performance rose to near All\u2011Star level during their collaboration."
+          ],
+          "link": "https://www.silverscreenandroll.com/lakers-rumors/117180/luka-doncic-austin-reaves-lakers-nba-free-agency-contract",
+          "source": "Silver Screen and Roll",
+          "published": "2026-05-12T18:23:35+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "08eb5cc59dec",
+          "title": "Rob Pelinka proud but unsatisfied after Lakers\u2019 2025\u201126 season sweep",
+          "original_title": "Rob Pelinka Proud But Not Satisfied With Lakers\u2019 2025-26 Season",
+          "summary": "General manager Rob Pelinka reflected on the Lakers\u2019 2025\u201126 campaign, which ended with a sweep by the Oklahoma City Thunder. While he praised the roster built around Luka Don\u010di\u0107 as his best since the championship core, Pelinka acknowledged the season fell short of expectations.",
+          "key_points": [
+            "Lakers were eliminated by the Thunder in a predictable sweep.",
+            "Pelinka considers the roster constructed around Don\u010di\u0107 his strongest since the championship era.",
+            "Despite pride in the roster, Pelinka remains dissatisfied with the overall outcome."
+          ],
+          "link": "https://lakersnation.com/rob-pelinka-proud-but-not-satisfied-lakers-2025-26-season/",
+          "source": "Lakers Nation",
+          "published": "2026-05-12T18:10:21+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "ab629ea1e564",
+          "title": "Pelinka plans to add two assistant GMs for scouting and salary\u2011cap strategy",
+          "original_title": "[Murray] Rob Pelinka says that Lakers will hire two assistant general managers: - one for pro scouting/draft/evaluation - one for strategy/salary cap",
+          "summary": "Rob Pelinka announced that the Lakers will hire two assistant general managers: one focused on pro scouting, draft evaluation, and player assessment, and another dedicated to strategic planning and salary\u2011cap management. The move aims to address past missteps in player targeting while building on Pelinka\u2019s negotiation strengths.",
+          "key_points": [
+            "Two new assistant GM roles will be created \u2013 scouting/draft and strategy/cap management.",
+            "Pelinka\u2019s negotiation successes (e.g., Luka trade) are highlighted as strengths.",
+            "The hires are intended to improve player acquisition and overall roster strategy."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1tb9dei/murray_rob_pelinka_says_that_lakers_will_hire_two/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-12T17:58:27+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "e6c8e627b6de",
+          "title": "Lakers and Austin Reaves express mutual interest in continuing partnership",
+          "original_title": "Lakers & Austin Reaves Have Mutual Interest In Continuing Partnership",
+          "summary": "After five seasons with the Los Angeles Lakers, Austin Reaves, the longest\u2011tenured player after LeBron James, has emerged from an undrafted two\u2011way contract to a borderline All\u2011Star status. Both Reaves and the organization have indicated a desire to keep their partnership intact moving forward.",
+          "key_points": [
+            "Reaves progressed from undrafted two\u2011way player to near All\u2011Star level.",
+            "He is the longest\u2011tenured Laker after LeBron James, now in his fifth season.",
+            "Both the player and the franchise have shown interest in extending the relationship."
+          ],
           "link": "https://lakersnation.com/rob-pelinka-lakers-austin-reaves-have-mutual-interest-in-continuing-partnership/",
           "source": "Lakers Nation",
           "published": "2026-05-12T17:50:59+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "54cd642afd60",
-          "title": "Everything JJ Redick, Pelinka Said About LeBron James, Austin Reaves' Lakers Futures Ahead of NBA FA - Bleacher Report",
-          "original_title": "Everything JJ Redick, Pelinka Said About LeBron James, Austin Reaves' Lakers Futures Ahead of NBA FA - Bleacher Report",
-          "summary": "Everything JJ Redick, Pelinka Said About LeBron James, Austin Reaves' Lakers Futures Ahead of NBA FA&nbsp;&nbsp;Bleacher Report",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPd2RqUV9NVXE2Skl0WnVHcjhiN3hxUDhHWGdHVElJQlFnVGtpUU5xT3ZGbEc3VUNwcWljazdRNU5iaGtRbmFmWUJrNjg0dmVMak1adEJQZ3J1bnFUVElRREJKR2MwOW5NUmhmTHItMWRNSVlZZTgxeThlWVBLSDBpMDc4dTJzV1JOVFVGVmxCTjZndnNmQVF6THB3c051N29qUTBaelZYcXhwbkp2Z29mVlQ1RnMyTGJ6NG53WnFVTy1RcEZ0NDN1dFhHeDdEN21MTTlraE9B?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-12T17:48:45+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "81c5a2addde4",
-          "title": "[Woike] Rob Pelinka: \u201cAny team, including ours, would love to have LeBron James on their roster\u201d",
-          "original_title": "[Woike] Rob Pelinka: \u201cAny team, including ours, would love to have LeBron James on their roster\u201d",
-          "summary": "      &#32; submitted by &#32;  /u/denobino   [link] &#32; [comments] ",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/lakers/comments/1tb7zlq/woike_rob_pelinka_any_team_including_ours_would/",
-          "source": "Reddit r/lakers",
-          "published": "2026-05-12T17:11:05+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "fc30539bb6cc",
-          "title": "Lakers live updates: Pelinka, Redick speak as LA enters summer with LeBron uncertainty - USA Today",
-          "original_title": "Lakers live updates: Pelinka, Redick speak as LA enters summer with LeBron uncertainty - USA Today",
-          "summary": "Lakers live updates: Pelinka, Redick speak as LA enters summer with LeBron uncertainty&nbsp;&nbsp;USA Today",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdm1qTjliU2FEMVhDcjFla3B2aDFScjM3c3l5eW5aTTJxUGRlSHM2bE5HQ25vNDN2V1hiOFRxRi1sMFNSanNOWVlmam9GcUxSR3NFZ2VObzdkQXkzOWE4eWx3UVpyZHNxNjBPQmRRVFJpOE43QWRBUlVVUS1DQVZNSi1KZmNEU0RSbUhPbzFxQVN0ODhmeXJIRjJlSHJWVml4OTRrTDNhc1hCUjJNRl8yVVRwaVR0N21NZ2c5UUE5U2ZONkdwZlQ2Y3h6cGlJbXFZaW5z?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-12T17:05:24+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "904678a5988e",
-          "title": "LeBron James And Lakers Reportedly Share Interest In New Contract",
-          "original_title": "LeBron James And Lakers Reportedly Share Interest In New Contract",
-          "summary": "With the Los Angeles Lakers\u2019 season officially over at the hands of the Oklahoma City Thunder, attention now immediately turns to the offseason. And of course the biggest question surrounding the Lakers is the future of LeBron James. James is set to become an unrestricted free agent this summer, under the assumption of course that [&#8230;]",
-          "key_points": [],
-          "link": "https://lakersnation.com/lebron-james-future-lakers-interest-new-contract/",
-          "source": "Lakers Nation",
-          "published": "2026-05-12T17:00:13+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "e7c27ac28c81",
-          "title": "One of you has to save basketball",
-          "original_title": "One of you has to save basketball",
-          "summary": "      &#32; submitted by &#32;  /u/denobino   [link] &#32; [comments] ",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/lakers/comments/1tb7liu/one_of_you_has_to_save_basketball/",
-          "source": "Reddit r/lakers",
-          "published": "2026-05-12T16:58:08+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "dca7d49e3cee",
-          "title": "LeBron James, Lakers swept out of playoffs by Thunder: Highlights - USA Today",
-          "original_title": "LeBron James, Lakers swept out of playoffs by Thunder: Highlights - USA Today",
-          "summary": "LeBron James, Lakers swept out of playoffs by Thunder: Highlights&nbsp;&nbsp;USA Today",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeUNwMnZoaC1lXzFmM3F1R2xmbzhZOHpNT1FOVFNZM09QN2RVMV9JUS1EUXlXYWlXLUo0Qng0TG5sWFQ1OWpianFCb3FVNlVudmdhRllvTUpYRTZ2UEtsQUhaVnIxVVM0QjBlWVhGMWU0Q3poR3hjTGNwMThsbllyX016XzJTR1YwaGlSSld0Wk5IZ1hZV19QU0hiRnBGdURMeElzeUUyQXFMMlUtT0dBNkxqeXNmckNtRXBTNw?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-12T16:56:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "f9a0e8385991",
-          "title": "LeBron James doesn't 'know what the future holds' after Lakers eliminated - USA Today",
-          "original_title": "LeBron James doesn't 'know what the future holds' after Lakers eliminated - USA Today",
-          "summary": "LeBron James doesn't 'know what the future holds' after Lakers eliminated&nbsp;&nbsp;USA Today",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNd1dlN0x2MW1oWmxqcS00N0dFa1cxTnoxNl93bmlrRzZ4N21vRDBKTlVtNDRja2NFNW5WQ3R6ZEZ1QlRDRmlVQVI4OEJPSDhzMEx4amhJTVVFV2F2MF8tWWhnWlNWd0pWYjBCRld3bUZvV1gyaDZUZ2lCYzhyU3ltMlJjQkh6ak9TZ3FQUmgzdWR3UGhOai1xWU9WWTJQLW9mU2FTS1VMZW9hUExSQkt0SGhPVzRTWDNFZEVZM3NrUGxyOFlPdG83RVZ3?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-12T16:53:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "d4131c36f274",
-          "title": "The Lakers Thought LeBron James Could Do the Impossible - Bloomberg.com",
-          "original_title": "The Lakers Thought LeBron James Could Do the Impossible - Bloomberg.com",
-          "summary": "The Lakers Thought LeBron James Could Do the Impossible&nbsp;&nbsp;Bloomberg.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVGI0ZGQwaUR1REl6OXZKMi1Ca0VlSEN5STNBUG4yd2lqTENGbG9DYkhEX3NaUGFlcHZOTjBMRVpYUkZlR3l5ZGFyZEYxSjhvUmhjUEVxRkY0bkpQLVowN2Naa3ZDaGpzV3lnaTFzTVhpb3VqX3l5XzlkU05OT2tBYjdyMFlpbHBUWTZoMXk1STJ6dHJtdjVuYzlDX0ZlTThEMVFjSFc1QTlWNl9NUVE?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-12T16:31:29+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "9208c6bc5857",
-          "title": "Luka Doncic Withdraws From 2027 FIBA World Cup Qualifiers",
-          "original_title": "Luka Doncic Withdraws From 2027 FIBA World Cup Qualifiers",
-          "summary": "A strained left hamstring prevented Luka Doncic from being on the court when the Los Angeles Lakers had their season come to an end, and an ongoing custody battle for his two daughters is going to prevent the proud Slovenian from representing his country this summer. Immediately after the Lakers were swept by the Oklahoma [&#8230;]",
-          "key_points": [],
-          "link": "https://lakersnation.com/luka-doncic-withdraws-fiba-world-cup-qualifiers-slovenia/",
-          "source": "Lakers Nation",
-          "published": "2026-05-12T15:15:49+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -121,140 +161,271 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "fdc4c3f16263",
-          "title": "LeBron: 'I Don't Know What the Future Holds'",
-          "original_title": "LeBron: 'I don't know what the future holds'",
-          "summary": "LeBron James said he is undecided about his future after the Lakers were swept by the Oklahoma City Thunder in the second round, ending his record\u2011setting 23rd season with a 115\u2011110 loss in Game 4. The veteran star gave no indication whether he will stay in Los Angeles or explore other options.",
+          "id": "16908f91de1e",
+          "title": "Brandon Clarke's Death Under Investigation",
+          "original_title": "What happened to Brandon Clarke? Authorities investigating NBA player's death",
+          "summary": "Memphis Grizzlies forward Brandon Clarke was found dead at age 29. Authorities are conducting an investigation to determine the cause of death, and the NBA has confirmed the tragedy.",
           "key_points": [
-            "Lakers eliminated in a 4\u2011game sweep by the Thunder.",
-            "LeBron finished a historic 23\u2011season career with the loss.",
-            "He remained noncommittal about playing next season in L.A. or elsewhere."
+            "Clarke, 29, passed away unexpectedly.",
+            "The Grizzlies and NBA have announced his death.",
+            "Law enforcement is investigating the circumstances."
           ],
-          "link": "https://www.espn.com/nba/story/_/id/48747842/lakers-lebron-james-know-future-holds-me",
-          "source": "ESPN NBA",
-          "published": "2026-05-12T18:42:31+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "6c35f61cdc7c",
-          "title": "French Big Men Face Off in Playoff Series",
-          "original_title": "The French Connection: Gobert, Wemby put their fri...",
-          "summary": "French forwards Rudy Gobert and Victor Wembanyama, longtime friends, met on opposite sides of a 2\u20112 NBA playoff series. Their matchup highlights a decade\u2011long connection between the two players as they compete for their respective teams.",
-          "key_points": [
-            "Gobert and Wembanyama have known each other for about ten years.",
-            "They are now opponents in a best\u2011of\u2011seven series tied at 2\u20112.",
-            "The series showcases the growing impact of French talent in the NBA."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48742665/rivalry-friendship-rudy-gobert-victor-wembanyama-spurs-timberwolves-playoffs",
-          "source": "ESPN NBA",
-          "published": "2026-05-12T18:27:37+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "a5720b5939b2",
-          "title": "OKC Escapes Late L.A. Charge to Complete Sweep",
-          "original_title": "OKC escapes late L.A. charge to complete sweep",
-          "summary": "The Oklahoma City Thunder held off a late comeback by the Los Angeles Lakers to finish a 4\u20110 series sweep, improving to 8\u20110 in the postseason. Despite a valiant effort from the Lakers, the Thunder secured the win and advanced.",
-          "key_points": [
-            "Thunder completed a 4\u20110 sweep of the Lakers.",
-            "Los Angeles fought back late but could not overcome the deficit.",
-            "Oklahoma City moved to an 8\u20110 record in the 2024 playoffs."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48747206/thunder-escape-late-lakers-charge-complete-sweep",
-          "source": "ESPN NBA",
-          "published": "2026-05-12T18:13:21+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "479355d61814",
-          "title": "Mitchell's Record\u2011Tying 2nd\u2011Half 39 Points Even East Semis",
-          "original_title": "Mitchell's record-tying 2nd half evens East semis",
-          "summary": "Donovan Mitchell scored 39 points in the second half, tying an NBA playoff record, as the Cleveland Cavaliers beat the Detroit Pistons 112\u2011103 to even their second\u2011round series. The performance kept Cleveland alive in the Eastern Conference semifinals.",
-          "key_points": [
-            "Mitchell's 39 second\u2011half points matched the playoff record.",
-            "Cavaliers won 112\u2011103, tying the series 2\u20112 with Detroit.",
-            "The victory kept Cleveland's postseason hopes intact."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48746487/donovan-mitchell-ties-nba-playoff-record-39-points-second-half-cavaliers-even-series-vs-pistons",
-          "source": "ESPN NBA",
-          "published": "2026-05-12T18:13:21+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "3658f2aac5c1",
-          "title": "Bickerstaff Calls Free\u2011Throw Disparity 'Unacceptable' After Loss",
-          "original_title": "Bickerstaff calls FT disparity in loss 'unacceptab...",
-          "summary": "Pistons head coach J.B. Bickerstaff criticized the large gap in free\u2011throw attempts between his team and the Cavaliers following Detroit's Game 4 defeat. He labeled the disparity as unacceptable and emphasized the need for better execution at the line.",
-          "key_points": [
-            "Detroit attempted far fewer free throws than Cleveland in Game 4.",
-            "Coach Bickerstaff described the gap as unacceptable.",
-            "The free\u2011throw disparity contributed to the Pistons' loss."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48747058/bickerstaff-calls-ft-disparity-game-4-loss-unacceptable",
-          "source": "ESPN NBA",
-          "published": "2026-05-12T18:13:21+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "ec3949b48fbf",
-          "title": "No discipline for Wemby elbow; he'll play Game 5",
-          "original_title": "No discipline for Wemby elbow; he'll play Game 5",
-          "summary": "Spurs star Victor Wembanyama will not face any further discipline for elbowing Minnesota's Naz Reid and will play in Game 5 against the Timberwolves in San Antonio, sources told ESPN.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48742211/no-discipline-wembanyama-reid-elbow-play-game-5",
-          "source": "ESPN NBA",
-          "published": "2026-05-12T18:13:21+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "66597e2ea267",
-          "title": "Sources: Bucks seeking trade offers for Giannis",
-          "original_title": "Sources: Bucks seeking trade offers for Giannis",
-          "summary": "The Bucks are open for business on trade calls and offers for Giannis Antetokounmpo, sources told ESPN.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48741814/sources-bucks-seeking-trade-offers-giannis-antetokounmpo",
-          "source": "ESPN NBA",
-          "published": "2026-05-12T18:13:21+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "203bb5bb4b7e",
-          "title": "Spurs' Fox (ankle) questionable for Game 5",
-          "original_title": "Spurs' Fox (ankle) questionable for Game 5",
-          "summary": "The Spurs listed guard De'Aaron Fox as questionable for Tuesday's Game 5 of the Western Conference semifinals at Frost Bank Center because of right ankle soreness.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48746586/spurs-deaaron-fox-dealing-right-ankle-soreness",
-          "source": "ESPN NBA",
-          "published": "2026-05-12T18:13:21+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "9728ff1ece36",
-          "title": "\ud83c\udfc0 Post-lottery mock draft with all 60 picks",
-          "original_title": "\ud83c\udfc0 Post-lottery mock draft with all 60 picks",
-          "summary": "The Wizards, Jazz and Grizzlies have the top picks in the 2026 NBA draft. Here's Jeremy Woo's updated mock.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48713262/2026-nba-mock-draft-pick-projections-picks-post-lottery-dybantsa-peterson",
-          "source": "ESPN NBA",
-          "published": "2026-05-12T18:13:21+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "1547bc841de0",
-          "title": "All eyes on Wemby for Game 5 of Spurs-Timberwolves series, after his elbow merited Game 4 ejection",
-          "original_title": "All eyes on Wemby for Game 5 of Spurs-Timberwolves series, after his elbow merited Game 4 ejection",
-          "summary": "San Antonio's Victor Wembanyama is playing in Game 5 of the Spurs' Western Conference semifinal series against the Minnesota Timberwolves, after getting ejected early in Game 4 for throwing an elbow.  The Spurs are obviously relieved about that.  \u201cI know he was upset not being able to play that game,\" Vassell said at a shootaround attended by Spurs President Gregg Popovich, Spurs legend Manu Ginobili and former Spurs assistant Brett Brown, among others.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/eyes-wemby-game-5-spurs-175517271.html",
+          "link": "https://sports.yahoo.com/articles/happened-brandon-clarke-authorities-investigating-193839330.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-05-12T17:55:17+00:00",
+          "published": "2026-05-12T19:38:39+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "e0143b56e2ed",
+          "title": "Steve Kerr Signs Two\u2011Year Extension with Warriors",
+          "original_title": "Steve Kerr signs new two-year contract to continue coaching the Golden State Warriors",
+          "summary": "Golden State Warriors head coach Steve Kerr agreed to a new two\u2011year contract, keeping him behind the bench through the 2025\u201126 season. Kerr expressed gratitude for the opportunity to continue leading the team.",
+          "key_points": [
+            "Kerr's contract extension was announced Tuesday.",
+            "The deal covers the next two NBA seasons.",
+            "Kerr thanked the organization in a public statement."
+          ],
+          "link": "https://sports.yahoo.com/articles/steve-kerr-signs-two-contract-193650035.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-12T19:36:50+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "82a681b218d7",
+          "title": "Timberwolves vs. Spurs Game 5 Preview and Picks",
+          "original_title": "Timberwolves vs Spurs Prediction, Picks & Odds for Tonight's NBA Playoffs Game 5",
+          "summary": "Analysts highlight Victor Wembanyama's dominant rebounding as a key factor in the upcoming Game 5 of the NBA playoffs between Minnesota and San Antonio. Predictions and betting odds are provided for the matchup.",
+          "key_points": [
+            "Wembanyama is noted for his glass\u2011cleaning performance.",
+            "The article offers game predictions and betting lines.",
+            "Game 5 decides which team advances in the playoff series."
+          ],
+          "link": "https://sports.yahoo.com/articles/timberwolves-vs-spurs-prediction-picks-230200641.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-12T19:33:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "26c911fd8b6e",
+          "title": "NBA Confirms Brandon Clarke\u2019s Death at 29",
+          "original_title": "NBA player Clarke dies aged 29",
+          "summary": "The Memphis Grizzlies and the NBA have confirmed that forward Brandon Clarke died at the age of 29. No cause of death has been released pending an official investigation.",
+          "key_points": [
+            "Clarke\u2019s death was publicly confirmed by the team and league.",
+            "He was 29 years old at the time of his passing.",
+            "Details regarding the cause remain under investigation."
+          ],
+          "link": "https://sports.yahoo.com/articles/nba-player-clarke-dies-aged-191141660.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-12T19:32:17+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "5472666163bd",
+          "title": "Top Games and Betting Picks for Tuesday",
+          "original_title": "Today's top games to watch, best bets, odds: Timberwolves vs. Spurs Game 5, NHL playoffs, Braves vs. Cubs",
+          "summary": "CBS Sports outlines the marquee matchups for Tuesday, including the Timberwolves\u2011Spurs Game 5, NHL playoff action, and the Braves\u2011Cubs baseball game. The guide features expert odds, prop bets, and projections from the SportsLine model.",
+          "key_points": [
+            "Featured events: NBA playoffs, NHL playoffs, MLB rivalry.",
+            "Betting odds and prop recommendations are provided.",
+            "Insights come from SportsLine Projection Model and CBS experts."
+          ],
+          "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-timberwolves-vs-spurs-game-5-nhl-playoffs-braves-vs-cubs/",
+          "source": "CBS Sports NBA",
+          "published": "2026-05-12T19:30:38+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "ee5de6cb9ff6",
+          "title": "New Blazers owner Tom Dundon is reportedly \u201cruthless\u201d and will not hesitate to move the franchise to Nashville, Austin, or Kalamazoo if Portland politicians continue to treat the relocation threat as a \u201chollow bluff\"",
+          "original_title": "New Blazers owner Tom Dundon is reportedly \u201cruthless\u201d and will not hesitate to move the franchise to Nashville, Austin, or Kalamazoo if Portland politicians continue to treat the relocation threat as a \u201chollow bluff\"",
+          "summary": "Debunking the myths and misconceptions about Portland and the Trail Blazers\u2019 Moda Center deal by Bill Oram The artcle is paywalled. Source  &#32; submitted by &#32;  /u/AncientOneAurelius   [link] &#32; [comments]",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/nba/comments/1tbbjwg/new_blazers_owner_tom_dundon_is_reportedly/",
+          "source": "Reddit r/nba",
+          "published": "2026-05-12T19:12:45+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "073dc3110597",
+          "title": "Rob Pelinka: Lakers would 'love to have LeBron James' back, Austin Reaves wants to return; Luka Don\u010di\u0107 will have roster input",
+          "original_title": "Rob Pelinka: Lakers would 'love to have LeBron James' back, Austin Reaves wants to return; Luka Don\u010di\u0107 will have roster input",
+          "summary": "Whatever the Lakers do with their roster, it will be a 'collaborative process' with Luka Don\u010di\u0107'.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/nba/article/rob-pelinka-lakers-would-love-to-have-lebron-james-back-austin-reaves-wants-to-return-luka-doncic-will-have-roster-input-190901093.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-12T19:09:01+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "7d31da5d7c4d",
+          "title": "Who was Brandon Clarke? What to know about Grizzlies player after death",
+          "original_title": "Who was Brandon Clarke? What to know about Grizzlies player after death",
+          "summary": "The death of Grizzlies forward Brandon Clarke was announced Tuesday, May 12. Clarke played seven seasons in the NBA, all with Memphis.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/brandon-clarke-know-grizzlies-players-190802346.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-12T19:08:02+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "3ee80e47e950",
+          "title": "Grizzlies forward Brandon Clarke dies at 29: No. 21 pick in 2019 NBA Draft spent seven seasons with Memphis",
+          "original_title": "Grizzlies forward Brandon Clarke dies at 29: No. 21 pick in 2019 NBA Draft spent seven seasons with Memphis",
+          "summary": "'He was so unique in the joy he brought to all of those in his life,' his agency said in a statement",
+          "key_points": [],
+          "link": "https://www.cbssports.com/nba/news/grizzlies-brandon-clarke-dies-at-29/",
+          "source": "CBS Sports NBA",
+          "published": "2026-05-12T19:06:26+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "fdf1c0d19b63",
+          "title": "Brandon Clarke cause of death: What we know about passing of Grizzlies player",
+          "original_title": "Brandon Clarke cause of death: What we know about passing of Grizzlies player",
+          "summary": "Grizzlies PF Brandon Clarke died Monday night. Here's everything we know on the cause of death.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/brandon-clarke-cause-death-know-190353065.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-12T19:03:53+00:00",
           "topic": "NBA League News"
         }
       ]
     },
     {
       "name": "Lakers Players",
-      "articles": []
+      "articles": [
+        {
+          "id": "d84ae17b5230",
+          "title": "Pelinka: Lakers Want LeBron Back, Reaves Wants Return, Don\u010di\u0107 Gets Roster Say\u2011So",
+          "original_title": "Rob Pelinka: Lakers would 'love to have LeBron James' back, Austin Reaves wants to return; Luka Don\u010di\u0107 will have roster input - Yahoo Sports",
+          "summary": "General manager Rob Pelinka said the Lakers would love to have LeBron James return, while guard Austin Reaves has expressed a desire to stay with the team. Pelinka also noted that Luka Don\u010di\u0107 will have input on roster decisions, indicating a collaborative approach to future moves.",
+          "key_points": [
+            "LeBron James is a top free\u2011agency target for the Lakers.",
+            "Austin Reaves wants to remain with Los Angeles for the next season.",
+            "Luka Don\u010di\u0107 will be consulted on roster construction and player acquisitions."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNdDFQVWw2WWZMelRZN3liYjlfMnRJQ19rcXV3OVhrcnQwdTZEUlBLZXJaRXdnVVA3ZmFzLVl3aUViYTB3UV82ZVAzTkNEd3JBRlZsUGo0V3FRUlZVQXhSYXVuNC13cnNnR3NFQ0RJbGUtVjMwQmp3QlZwelFvY3VCbVJUeWh0ZVFYQ2VvZ19WTThnU1hjd0JacVFCemxqMF9OZWdyR0kzWUdsbFVWRGRpcWpCZjNnMnh0ZmNkSEJSb3UweFNBOHc2SWdMb0RpUk15U09ERGxDNVB2RkdNZU5ORjk3NFJxTmRfV1ZlT3B1Q0JobzBrZldHOFlIb0hTYmFVdGc?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-05-12T19:30:34+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "8803b94fec0f",
+          "title": "Don\u010di\u0107 Says He Was Close to Re\u2011Joining Lakers in Playoffs",
+          "original_title": "Luka Doncic reveals how close he was to returning in playoffs - Lakers Nation",
+          "summary": "Luka Don\u010di\u0107 revealed that he was nearly back with the Los Angeles Lakers for the postseason, indicating that negotiations came close to fruition before the playoffs began. The details of why the deal fell through were not disclosed.",
+          "key_points": [
+            "Don\u010di\u0107 was within striking distance of a playoff\u2011time return to LA.",
+            "Negotiations ended before the postseason started.",
+            "No specific reasons were given for the collapse of the deal."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPX3RsUnRGU3BZWnMzck9iVGROdHd4Z3pNR1RUb2tqRm85RDZvSEo3WmhrMzcyZjFULXNSNV93RDZRTWxqNFVvb0gwT0c2bnp2OHh0SDRaR3JXZ0M3VUFyQnlkTXExYkJxZGZGSGZnXzR0T29Ga0t0ZlZxMUxUdFpGUVd6cU5fQVhHdlRzMmRKdw?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-05-12T18:45:51+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "3adb4776bc40",
+          "title": "Don\u010di\u0107 Wants to Keep Playing With Austin Reaves, Says Lakers",
+          "original_title": "Luka Don\u010di\u0107 \u2018made it clear\u2019 to Lakers he wants to continue playing with Austin Reaves - Silver Screen and Roll",
+          "summary": "According to Silver Screen and Roll, Luka Don\u010di\u0107 made it clear to the Lakers organization that he prefers to continue playing alongside guard Austin Reaves. The statement underscores the chemistry between the two players and could influence future roster moves.",
+          "key_points": [
+            "Don\u010di\u0107 expressed a strong desire to stay on the court with Austin Reaves.",
+            "The preference may affect the Lakers' offseason planning.",
+            "Team chemistry between Don\u010di\u0107 and Reaves is highlighted as a priority."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbF9odVRhRlNUNjVpdVVGUjk1QWZJQUp6OGJUa05FV0tfX2tmNTRVMWtjbldFVnVsN2YwLUp2TnlRTndlLWg3WnlsWVdWSFpERGdkemI0WHhPbDFLVF9vTXJxTjZ3WXlCSkdUQUdVOWhRbG5hYktTM0twVzB3d05Tc0taU0hoZGhGekdOdG1uOU00aWVnV3FMbnR4ZGIxRGZLZlhWejRBSUtFd0Jmc016ZlkxMzI?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-05-12T18:23:35+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "92e93ad04324",
+          "title": "LeBron James Enjoys Leading Lakers, Open to Reduced Role",
+          "original_title": "LeBron James relishes leading Lakers. Would he accept lesser role again? - USA Today",
+          "summary": "USA Today reports that LeBron James relishes his leadership role with the Los Angeles Lakers and is willing to accept a smaller on\u2011court role if it benefits the team. The article explores how his mindset could shape roster decisions moving forward.",
+          "key_points": [
+            "James values his leadership and team\u2011first attitude.",
+            "He is open to playing fewer minutes or a reduced role.",
+            "His flexibility may influence the Lakers' strategy in the upcoming season."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcFhqczkyNF9kSHhrVmdTd1cxeFN6VUp1eWZZblczLW5jSjBNSm01TkF6dHpVTl8xb1hOVmFCUGlrR1dkYnRGQklpUGNJcjVQc3lJclVYeWNkUGdCYlpYc2NVSTktLVhQNHgwZGlRajZLQ1FQXzEwU3JjQnhfcTJuMVVSZUZCX0FTbVlWZXVCdTBaLUpUM00yUjFGY2JkNW5JR3ZySGdvNm9XOWVQZWxaLTJYMER1OUl1dW1sQw?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-12T16:57:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "0cc62afe95dc",
+          "title": "Perkins Suggests Knicks Could Be Viable Landing Spot for LeBron",
+          "original_title": "Could Knicks emerge as serious landing spot for LeBron James? Kendrick Perkins thinks so - Yahoo Sports",
+          "summary": "Former NBA player Kendrick Perkins speculated that the New York Knicks might emerge as a serious destination for LeBron James, citing the team's recent moves and market appeal. The comment adds another layer to the ongoing free\u2011agency chatter surrounding James.",
+          "key_points": [
+            "Perkins sees the Knicks as a potential fit for LeBron James.",
+            "Recent Knicks roster changes and market size are cited as factors.",
+            "The speculation contributes to the broader discussion of James' free\u2011agency options."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLTYwT0Z0c3lCXzVFWnE2MTJ3MVVfeXlrMmJNSVFza1Yxb0FoaHUwVThwQkJGUnpGd0s2SG9rU1JES1pmVGhNU2EyanEtd0hJeXJseFYtU3M5LTk4amhDTTZ1QlFWbHRXeDFOYU0wdVRkdUJzWkc1UzlYdE4xWThrR1ZuUjFma0dlbVJ3UQ?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-12T16:47:16+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "cd6ae643fe81",
+          "title": "Dillon Brooks on LeBron James: I don't think it's his last year, I think he has one more in him - USA Today",
+          "original_title": "Dillon Brooks on LeBron James: I don't think it's his last year, I think he has one more in him - USA Today",
+          "summary": "Dillon Brooks on LeBron James: I don't think it's his last year, I think he has one more in him&nbsp;&nbsp;USA Today",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYnJfbGF6cUNfaVZqSHBTZFZpc01WX0djNmtJN0taaDdZcTJZc1pYRzVzRVZoS1FEYzR1LWZKa3dRUktSc1BPX2ZaNzljcG5za0Nxd1VtMld2TktKNTNXQjkzYlZRdm9neUplcDE3Mng1WDN1aHBoTFBhY09ZWFdZekFfX3hZMTEtVno2djhOejVYdG13VnFkUkl2bFB5TFNUZGkwa1JXSUN3V1AtR0c3MUpJek1Ray1WRjBlVUptNHdhTU5YZHBpRGFSVHJpbWZPTXphR29MdEZJckw5aVZHaVpWWGFpTjhtTFE4TGR3?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-12T16:26:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "29904a18574d",
+          "title": "How the Lakers can build a championship roster around Luka Don\u010di\u0107 - CBS Sports",
+          "original_title": "How the Lakers can build a championship roster around Luka Don\u010di\u0107 - CBS Sports",
+          "summary": "How the Lakers can build a championship roster around Luka Don\u010di\u0107&nbsp;&nbsp;CBS Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWmppVV9UempuUUJ4WmI1QU1TekdXMDZZZlA1S0cwRHRyaXFiRVJkSHdndDhQSkRjdHJWbnFxVHkwSTdrYTNmdEFpamFLRFZVejdoUEd4T2pjV2tMNnZjTW1WelpjWWs2MndSNDZBY01CUG9HdjlFRlZQdkhpOEZnd3pUaFZwd3pXdHJ5N01UeVQ2WWVvaEE?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-05-12T16:16:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "cd93a1857900",
+          "title": "Shai Gilgeous-Alexander pays respect to LeBron James after Thunder sweep Lakers - OKC Thunder Wire",
+          "original_title": "Shai Gilgeous-Alexander pays respect to LeBron James after Thunder sweep Lakers - OKC Thunder Wire",
+          "summary": "Shai Gilgeous-Alexander pays respect to LeBron James after Thunder sweep Lakers&nbsp;&nbsp;OKC Thunder Wire",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPcmdRNTlzcVBvVmJheDlDWnZneXNqNDEwVld6eEU3aDFUQUdGWlN3RllYbGF4Mml5NHJwM3NjaHRPSjRTSURFNFc4VVRBa2xQYWtIWmQ2VnZBQk5yZnpIcFhrbzR2djl5cW80ckxCUXc0c0hXMWFIMUdRSW9fald6Yk1oVkxRdnQ4cGJzNVRUckpLeTNNY29kNmlRNDRsNnpnWmJhOFZxbkVvRlV0aFhzZ21ESjZnR0tKdEFXM2o3a2VoVC12b1ZLLTIxMmVRQ2JOcWozaWJfMzJHWGhzUmJuakdLMXdZU3VpX01TbGo1MDRPTmptVk5B?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-12T16:01:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "42411bed2373",
+          "title": "NBA villain Dillon Brooks taunts Lakers\u2019 LeBron James from courtside seats - New York Post",
+          "original_title": "NBA villain Dillon Brooks taunts Lakers\u2019 LeBron James from courtside seats - New York Post",
+          "summary": "NBA villain Dillon Brooks taunts Lakers\u2019 LeBron James from courtside seats&nbsp;&nbsp;New York Post",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcWR2WlBRbUZxS1k1TG9WNEt0S2xURGlrOHFMb0NITmJDclp6ZEp1eHljMnFjRU80bFJER1A0Q2Fqd0Y1ajdtdmpEeGlDdHJaVl8xMVlKVkJyMDVxMlNpNHRhaVotZWFSTVV1aWRVLWxPUEN2UWhzdUxkQkY4S3lMaWlidmt5dExScEd1N19UeDRRUnBsUi15OF9B?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-12T16:00:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "751b485a1abc",
+          "title": "Is LeBron James Retiring? What He Said after NBA Playoffs Elimination - NBC TV Network",
+          "original_title": "Is LeBron James Retiring? What He Said after NBA Playoffs Elimination - NBC TV Network",
+          "summary": "Is LeBron James Retiring? What He Said after NBA Playoffs Elimination&nbsp;&nbsp;NBC TV Network",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWEdhdXZkV2V6R1pUUEo4R0JCZU1rZlRPSExuX0FiZWdQQjQ5ekJhaEJWZVZka1hWeVlQQnlWT1BENXR3TXdjZkhGbHlwWE15ZHZQejZvYVBMZUZpYldLeVNGekZjNDR6bFFMT2QxbmlBSXV5U3NJUklXRXhBcTdheF9vNG1hVVI0azN0TkpnYUpNdW1fai10RHJnNld5RHlRZUE?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-12T15:52:03+00:00",
+          "topic": "Lakers Players"
+        }
+      ]
     }
   ]
 }
