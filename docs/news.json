@@ -1,49 +1,110 @@
 {
-  "generated_at": "2026-05-14T06:53:37.068787+00:00",
-  "total_articles": 25,
+  "generated_at": "2026-05-14T10:26:46.641906+00:00",
+  "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
+          "id": "320fe93830d6",
+          "title": "Report Discusses Luka Don\u010di\u0107\u2019s Potential Impact on the Lakers",
+          "original_title": "A report stating that Los Angeles Lakers stars Luka \u2026 - Yahoo Sports UK",
+          "summary": "Yahoo Sports UK cites a report that examines the possibility of Los Angeles Lakers star Luka Don\u010di\u0107 joining the franchise. The article outlines how his skill set could fit with the current roster and the financial considerations involved.",
+          "key_points": [
+            "The report speculates on Luka Don\u010di\u0107 potentially signing with the Lakers.",
+            "It evaluates how his playmaking and scoring would complement existing players.",
+            "Financial implications, including salary cap impact, are highlighted."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWFlmbWRNakszUVlnc2VDT2dObWtEeldsS0tLLUM0R21EOGhVN3Q4TnBPOG1rWUU3WnhRdWI5WVBzbFA5SWJlRmlyNjF5UjE1bEllNWpTcXZ3eXRIRXFUTGhuRFB3bEdDcjFOcUtlZDR3cVpndnFzYnpjNjFUY0JSM2ZQaFhqRWQ0?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-14T09:54:57+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "925a8927b4f4",
+          "title": "HoopsHype Covers Rumors of Luka Don\u010di\u0107 Joining the Lakers",
+          "original_title": "A report stating that Los Angeles Lakers stars Luka \u2026 - HoopsHype",
+          "summary": "HoopsHype republishes a report that discusses the likelihood of Luka Don\u010di\u0107 becoming a Los Angeles Laker. The piece focuses on roster fit, contract expectations, and the strategic benefits for the franchise.",
+          "key_points": [
+            "Rumors suggest the Lakers are interested in acquiring Luka Don\u010di\u0107.",
+            "Analysis of how his style would mesh with the team's current core.",
+            "Consideration of contract size and cap space needed for the move."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUFV2a0Vta3BndWpUY3k5SHVvUEJUVjFaa1BQeWxyQm9SQkQtNllWOHR1c0lfM21rTVh0UG9vUFRnNzExaG1ic2lGSEN5ajFfUXNYbTdtNUxXMmZxdGxvWGlrUzM1WXBxalVtRmhqZV9hR2wyNHAtWjlsNGdIeWFqaHh3UmVOcDYxdUVOMlRYdnpyR25zWWl3SG1QSFAwVVdSZE9RTjBldEtSUVludlRwdzZ1WVZHRG5TY0xsWEVJdUdZLVU?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-14T09:54:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "35fda894ce12",
+          "title": "Reddit User Wonders If Yuki Kawamura Could Join the Lakers",
+          "original_title": "\uff08\u6cb3\u6751\u52c7\u8f1d\u30ec\u30a4\u30ab\u30fc\u30ba\u6765\u306a\u3044\u304b\u306a\u3041\u30fb\u30fb\u30fb\uff09",
+          "summary": "A Reddit post in r/lakers asks whether Japanese player Yuki Kawamura might sign with Los Angeles. The thread reflects fan curiosity but provides no concrete information about any negotiations or interest from the team.",
+          "key_points": [
+            "Fan speculation about Yuki Kawamura potentially joining the Lakers.",
+            "No official statements or credible sources confirming interest.",
+            "Discussion centers on how Kawamura\u2019s skill set could fit the roster."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1tcrftt/\u6cb3\u6751\u52c7\u8f1d\u30ec\u30a4\u30ab\u30fc\u30ba\u6765\u306a\u3044\u304b\u306a\u3041/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-14T08:02:27+00:00",
+          "topic": "Lakers News"
+        },
+        {
           "id": "1dbafa3c1b99",
-          "title": "I want the Lakers to have four centers next year",
+          "title": "Reddit User Advocates Adding Four Centers for a Luka-Led Lakers",
           "original_title": "I want the Lakers to have four centers next year",
-          "summary": "The main reason is simply getting as many attempts to have a margin for error. A good group of centers is the most important part of a Luka led team with his heavy pnr usage.  &#32; submitted by &#32;  /u/doomrider2   [link] &#32; [comments]",
-          "key_points": [],
+          "summary": "A Reddit comment proposes that the Lakers should acquire multiple centers to give Luka Don\u010di\u0107 more flexibility and reduce margin-of-error in post-up situations. The suggestion emphasizes depth at the position as a priority for the upcoming season.",
+          "key_points": [
+            "Proposal to sign four centers to support a Luka Don\u010di\u0107\u2011centric offense.",
+            "Argument that depth at center improves spacing and defensive versatility.",
+            "Focus on reducing reliance on a single big man and mitigating injury risk."
+          ],
           "link": "https://www.reddit.com/r/lakers/comments/1tcopax/i_want_the_lakers_to_have_four_centers_next_year/",
           "source": "Reddit r/lakers",
           "published": "2026-05-14T05:33:34+00:00",
           "topic": "Lakers News"
         },
         {
+          "id": "bec759421ae0",
+          "title": "ClutchPoints Explains $170M Austin Reaves Contract Implications",
+          "original_title": "The $170M Austin Reaves contract that would force Lakers to let him walk in free agency - ClutchPoints",
+          "summary": "ClutchPoints reports that a proposed $170\u202fmillion contract for Austin Reaves could force the Lakers to let him walk in free agency due to salary\u2011cap constraints. The article breaks down the financial impact and potential roster moves the team would need to consider.",
+          "key_points": [
+            "A $170\u202fmillion extension for Austin Reaves would strain the Lakers\u2019 cap.",
+            "The contract could compel the team to trade or waive players to stay compliant.",
+            "Discussion of possible roster reshaping to retain Reaves while remaining competitive."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS2d4ZldJV2h0dmpqZVpTUmZvTnprSHg5Q1lFMS11SXRtdktMaU9QWXM5cXd4TWlyVlV4VzE1cGxYamVMRVQzbTZNWnFhYWJUakxIUDk1eWp4RE5SSld2b0ExcVYzTkpiaGhxQmJBS1hSLUc2M3FoLXFyaU1Pa24weW5lWXhfUnlBbGNjcmN3M1R5YzJxd3EyUDRRclRRUWw4dW9jMTJnMmZvTzVWS3FVOEJOdjV3ZTB3RDFuVA?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-14T05:02:14+00:00",
+          "topic": "Lakers News"
+        },
+        {
           "id": "c80ea8deab28",
-          "title": "Sparks fall to Fever as late comeback fails",
+          "title": "Sparks Lose to Fever 87-78 After Late Comeback Attempt",
           "original_title": "Sparks fall to Fever as late comeback fails",
-          "summary": "The Sparks were handed their second loss of the season, 87-78, by the Indiana Fever on Wednesday night. The last time the Sparks started a season 0-2 was back in 2023. That year, they went 8-32. Rae Burrell opened LA\u2019s offense with a layup. Caitlin Clark was cooking early for the Fever with seven points. [&#8230;]",
-          "key_points": [],
+          "summary": "The Los Angeles Sparks fell 87-78 to the Indiana Fever, marking their second loss of the season. The team opened with a layup from Rae Burrell, but Caitlin Clark sparked an early run for Indiana, and the Sparks were unable to complete a comeback.",
+          "key_points": [
+            "Sparks record drops to 0-2, a start not seen since the 2023 season.",
+            "Rae Burrell scored the opening layup for LA.",
+            "Caitlin Clark led the Fever early, contributing to the decisive win."
+          ],
           "link": "https://www.silverscreenandroll.com/los-angeles-sparks-wnba/117325/sparks-vs-fever-recap-box-score-stats-final-dearica-hamby-kelsey-plum",
           "source": "Silver Screen and Roll",
           "published": "2026-05-14T04:49:43+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "badc6505f578",
-          "title": "Lakers are building the wrong way around Luka Doncic after latest playoff breakout - Lake Show Life",
-          "original_title": "Lakers are building the wrong way around Luka Doncic after latest playoff breakout - Lake Show Life",
-          "summary": "Lakers are building the wrong way around Luka Doncic after latest playoff breakout&nbsp;&nbsp;Lake Show Life",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPejBkaTM5ZWxRV3dNc19POU81QklHRXRnX1NqMUxfR2NaNUV3U3h4UzhXMV85T2xyNXNuYmh2YnNzRTFURFZhb19jdVdndDJweHcxSUItTzZub1pmcTV4YWtZdVJGcE5lbGRSaThHWnhVdUJPWUlpa2RZcGduTDBYWWNKdzJPSUNUX0JjcHVMelF4RUtqVXZNV2dwNTBSSlQ3aURFSWx6OXBRbkZkRGVLQm1TM1BjbndoTFZhblRmTlpWNzVU?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-14T03:21:35+00:00",
-          "topic": "Lakers News"
-        },
-        {
           "id": "83c636130a96",
-          "title": "/r/Lakers\u2019 official offseason plan, as I understand it",
+          "title": "Reddit\u2019s Proposed Lakers Offseason Plan",
           "original_title": "/r/Lakers\u2019 official offseason plan, as I understand it",
-          "summary": "This is my comprehensive understanding of what this sub would do if it were the GM. 1). Re-sign LeBron for the vet min. He wants to win, after all, and should take a slightly reduced salary. 1a). Alternatively, pay LeBron a shitload under the table. The new owner is rich as fuck. 2). Trade AR immediately because you can\u2019t win with this injured cat. Also give him 5/$125M because he loves the Lakers and we need to reward loyalty. 3). Give Rui the max. The greatest playoff 3-point shooter ever dese",
-          "key_points": [],
+          "summary": "A Reddit user outlined a hypothetical offseason strategy for the Lakers, focusing on re\u2011signing LeBron James to a veteran minimum and exploring aggressive financial maneuvers. The plan also suggests trading Anthony Davis immediately and leveraging the new owner's wealth.",
+          "key_points": [
+            "Re\u2011sign LeBron James to a veteran\u2011minimum contract, possibly with under\u2011the\u2011table incentives.",
+            "Trade Anthony Davis as a priority move.",
+            "Utilize the new owner\u2019s financial flexibility to execute the plan."
+          ],
           "link": "https://www.reddit.com/r/lakers/comments/1tclqln/rlakers_official_offseason_plan_as_i_understand_it/",
           "source": "Reddit r/lakers",
           "published": "2026-05-14T03:08:45+00:00",
@@ -51,13 +112,47 @@
         },
         {
           "id": "b266b7853452",
-          "title": "Realistic FA Targets That Actually Address Team Needs",
+          "title": "Realistic Free\u2011Agent Targets to Fill Lakers\u2019 Wing Needs",
           "original_title": "Realistic FA Targets That Actually Address Team Needs",
-          "summary": "Every thread on this sub today seems to have some variant of the following conversation: &quot;Just sign two-way wings&quot; &quot;WHO? Give me names!&quot; crickets Ok, here are some names. Keon Ellis (UFA, age 26) * Currently makes 1.7M * Has fallen out of the Cavs playoff rotation. * 94th percentile D-LEBRON (Bball-Index all-in-one defensive metric) among Point of Attack defenders over the last 5 years * Career 40% 3pt shooter Quentin Grimes (UFA, age 26) * Currently makes 8.7M * Minutes drop",
-          "key_points": [],
+          "summary": "A Reddit post lists concrete free\u2011agent candidates who could address the Lakers\u2019 wing depth, countering generic requests for \u201ctwo\u2011way wings.\u201d The suggested names include Keon Ellis, a 26\u2011year\u2011old who is currently on a $1.7\u202fM contract and out of the Cavaliers\u2019 rotation.",
+          "key_points": [
+            "Keon Ellis highlighted as a cost\u2011effective, 26\u2011year\u2011old wing option.",
+            "Emphasis on players with two\u2011way potential rather than speculative names.",
+            "Focus on fitting targets within the Lakers\u2019 salary\u2011cap constraints."
+          ],
           "link": "https://www.reddit.com/r/lakers/comments/1tckotr/realistic_fa_targets_that_actually_address_team/",
           "source": "Reddit r/lakers",
           "published": "2026-05-14T02:22:08+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "bc6a883d78c4",
+          "title": "Rui Hachimura Leads Lakers in Advanced Playoff Metrics",
+          "original_title": "Basketball Reference has Rui Hachimura leading the Lakers in BPM in the Playoffs",
+          "summary": "According to Basketball\u2011Reference, Rui Hachimura posted the highest Box Plus/Minus (BPM) among Lakers during the 2025\u201126 playoffs, also topping OPM, OWS, WS, VORP, and TS%. LeBron James led the team in PER, while Marcus Smart, LeBron, and De\u2019Andre Ayton recorded higher defensive win shares.",
+          "key_points": [
+            "Hachimura led the Lakers in BPM, OPM, OWS, WS, VORP, and TS% for the postseason.",
+            "LeBron James had the highest PER on the team.",
+            "Ayton posted a team\u2011low \u20132.6 BPM but contributed defensively alongside Smart and LeBron."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1tck16n/basketball_reference_has_rui_hachimura_leading/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-14T01:54:39+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "457149dbde33",
+          "title": "Austin Reaves\u2019 Contract Has Minimal Impact on Lakers\u2019 Free\u2011Agent Flexibility",
+          "original_title": "Many don\u2019t seem to understand\u2026Austin\u2019s contract impacts this year\u2019s ability to sign FAs very little.",
+          "summary": "A Reddit explanation clarifies that Austin Reaves\u2019 $21\u202fM cap hold is already accounted for within the Lakers\u2019 $48\u202fM available cap space, meaning his eventual contract size (whether $35\u202fM or $40\u202fM) will not further restrict the team\u2019s ability to sign other free agents.",
+          "key_points": [
+            "Reaves\u2019 $21\u202fM cap hold is baked into the current cap space.",
+            "His future contract amount does not affect additional cap flexibility.",
+            "The Lakers can still pursue other free agents despite Reaves\u2019 pending deal."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1tcjmo4/many_dont_seem_to_understandaustins_contract/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-14T01:37:02+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -66,15 +161,22 @@
       "name": "NBA League News",
       "articles": [
         {
+          "id": "81ae917c3a3d",
+          "title": "Sporticast: A Secret World Cup Ticket Market",
+          "original_title": "Sporticast: A Secret World Cup Ticket Market",
+          "summary": "On the 552nd Sporticast episode, hosts Scott Soshnick and Eben Novy-Williams discuss some of the biggest sports business stories of the week, including the financial impact of this New York Knicks playoff run and World Cup tickets. The Knicks are a rare major U.S. sports team owned by a publicly-traded company, which means there\u2019s more \u2026",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/sporticast-secret-world-cup-ticket-095500434.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-14T09:55:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
           "id": "d09b0f924395",
-          "title": "Cavaliers Rally to Beat Pistons in Detroit \u2013 Playoff Takeaways",
+          "title": "NBA playoff takeaways: Cavs storm back in Detroit ...",
           "original_title": "NBA playoff takeaways: Cavs storm back in Detroit ...",
-          "summary": "The Cavaliers erased a late deficit to win Game 5 against the Pistons, taking a 3\u20112 series lead. ESPN highlights the adjustments that fueled Cleveland\u2019s comeback and outlines what the series could look like moving forward.",
-          "key_points": [
-            "Cavs overcame a nine\u2011point hole in the final minutes to secure the win.",
-            "Defensive tweaks and bench contributions were pivotal in the turnaround.",
-            "The series now shifts to Cleveland with the Cavs holding a 3\u20112 advantage."
-          ],
+          "summary": "Here's what we've learned -- and what's next for the Cavs-Pistons series.",
+          "key_points": [],
           "link": "https://www.espn.com/nba/story/_/id/48676289/2026-nba-playoffs-conference-semifinals-round-2-takeaways",
           "source": "ESPN NBA",
           "published": "2026-05-14T07:14:02+00:00",
@@ -82,14 +184,10 @@
         },
         {
           "id": "ddc042720131",
-          "title": "Cavaliers Aim to Close Out Pistons in Game 6",
+          "title": "Mitchell and the Cavaliers look to clinch series against Detroit",
           "original_title": "Mitchell and the Cavaliers look to clinch series against Detroit",
-          "summary": "With the series tied 3\u20112, the Cavaliers head to Detroit looking to clinch the Eastern Conference second\u2011round matchup. Yahoo Sports notes the betting line favoring Cleveland and emphasizes the importance of a strong finish.",
-          "key_points": [
-            "Cavs enter Game 6 as 3.5\u2011point favorites.",
-            "Detroit holds the top seed (60\u201122) but must avoid a collapse.",
-            "A win would give Cleveland a series victory and advance them to the conference semifinals."
-          ],
+          "summary": "Detroit Pistons (60-22, first in the Eastern Conference) vs. Cleveland Cavaliers (52-30, fourth in the Eastern Conference)Cleveland; Friday, 7 p.m. EDTLINE: Cavaliers -3.5; over/under is 209.5EASTERN CONFERENCE SECOND ROUND: Cavaliers lead series 3-2BOTTOM LINE: The Cleveland Cavaliers look to clinch the Eastern Conference second round over the Detroit Pistons in game six. The Cavaliers defeated the Pistons 117-113 in overtime in the last meeting on Thursday. James Harden led the Cavaliers with ",
+          "key_points": [],
           "link": "https://sports.yahoo.com/articles/mitchell-cavaliers-look-clinch-series-060331860.html",
           "source": "Yahoo Sports NBA",
           "published": "2026-05-14T06:03:31+00:00",
@@ -97,14 +195,10 @@
         },
         {
           "id": "a413917cd0da",
-          "title": "Controversial No\u2011Call Leaves Pistons to Blame Themselves in Loss",
+          "title": "Pistons hosed by controversial no-call, but can only blame themselves for late collapse in loss to Cavs",
           "original_title": "Pistons hosed by controversial no-call, but can only blame themselves for late collapse in loss to Cavs",
-          "summary": "CBS Sports reports that a potential foul by the Cavaliers in the final seconds was not called, denying Detroit a chance at free throws. The Pistons ultimately faltered on both ends, resulting in a loss to Cleveland.",
-          "key_points": [
-            "A missed foul call could have sent Detroit to the line in the closing moments.",
-            "The Pistons\u2019 late\u2011game execution, including turnovers and missed shots, contributed to the collapse.",
-            "The loss puts Detroit down 3\u20112 in the series, facing elimination."
-          ],
+          "summary": "What looked like a foul by the Cavaliers would have sent Detroit to the foul line in the final seconds",
+          "key_points": [],
           "link": "https://www.cbssports.com/nba/news/pistons-controversial-call-cavaliers-game-5-nba-playoffs/",
           "source": "CBS Sports NBA",
           "published": "2026-05-14T06:00:25+00:00",
@@ -112,14 +206,10 @@
         },
         {
           "id": "ee8c4cdfba76",
-          "title": "Charles Barkley Calls Out Homophobia While Remembering Jason Collins",
+          "title": "[Inside The NBA] While discussing Jason Collins' passing, Charles Barkley: \"We live in a homophobic society ... anybody who think we ain't got a bunch of gay players in all sports, they're just stupid.\"",
           "original_title": "[Inside The NBA] While discussing Jason Collins' passing, Charles Barkley: \"We live in a homophobic society ... anybody who think we ain't got a bunch of gay players in all sports, they're just stupid.\"",
-          "summary": "In a Reddit discussion about the late Jason Collins, Charles Barkley remarked that sports still grapple with homophobia, asserting that many gay athletes exist across leagues. The comment sparked conversation about inclusion in basketball.",
-          "key_points": [
-            "Barkley highlighted ongoing homophobic attitudes in sports culture.",
-            "He emphasized the presence of LGBTQ+ athletes despite limited visibility.",
-            "The discussion reflects broader debates on acceptance within the NBA."
-          ],
+          "summary": "      &#32; submitted by &#32;  /u/Markthebaptist   [link] &#32; [comments] ",
+          "key_points": [],
           "link": "https://www.reddit.com/r/nba/comments/1tcoxm1/inside_the_nba_while_discussing_jason_collins/",
           "source": "Reddit r/nba",
           "published": "2026-05-14T05:45:39+00:00",
@@ -127,17 +217,24 @@
         },
         {
           "id": "645f67ce5e54",
-          "title": "13 Takeaways From Cavs\u2019 Game\u20115 Comeback Win Over Pistons",
+          "title": "13 Takeaways from Cavs Game 5 win over Pistons: Cavaliers show why this team is different",
           "original_title": "13 Takeaways from Cavs Game 5 win over Pistons: Cavaliers show why this team is different",
-          "summary": "Yahoo Sports outlines 13 key observations from Cleveland\u2019s dramatic Game 5 victory, noting the team\u2019s resilience and strategic edge. The analysis underscores why the Cavs are viewed as a distinct playoff contender.",
-          "key_points": [
-            "Cavaliers erased a nine\u2011point deficit in the final minutes.",
-            "Bench scoring and defensive intensity were highlighted as differentiators.",
-            "The win showcases the Cavs\u2019 ability to execute under pressure, setting a tone for the remainder of the series."
-          ],
+          "summary": "The Cavs overcame a nine-point deficit in the final minutes to steal Game 5.",
+          "key_points": [],
           "link": "https://sports.yahoo.com/articles/13-takeaways-cavs-game-5-053221882.html",
           "source": "Yahoo Sports NBA",
           "published": "2026-05-14T05:32:21+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "99bc46ffa40c",
+          "title": "NBA Draft Rumors: AJ Dybantsa reveals where he wants to go",
+          "original_title": "NBA Draft Rumors: AJ Dybantsa reveals where he wants to go",
+          "summary": "AJ Dybantsa has a preferred definition",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/nba-draft-rumors-aj-dybantsa-050858895.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-14T05:08:58+00:00",
           "topic": "NBA League News"
         },
         {
@@ -172,28 +269,6 @@
           "source": "ESPN NBA",
           "published": "2026-05-14T04:27:09+00:00",
           "topic": "NBA League News"
-        },
-        {
-          "id": "be6db6bd813b",
-          "title": "NBA lands on '3-2-1 lottery' proposal, per Silver",
-          "original_title": "NBA lands on '3-2-1 lottery' proposal, per Silver",
-          "summary": "NBA commissioner Adam Silver confirmed on Stephen A. Smith's radio show Wednesday that the NBA has landed on a proposal to present to the league's board of governors later this month to revamp the league's draft lottery in an attempt to curb tanking.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48763248/adam-silver-says-nba-present-3-2-1-lottery-proposal-curb-tanking",
-          "source": "ESPN NBA",
-          "published": "2026-05-14T04:27:09+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "c46fb272a5ab",
-          "title": "Bulls' Giddey has ankle surgery, out 3 months",
-          "original_title": "Bulls' Giddey has ankle surgery, out 3 months",
-          "summary": "Bulls guard Josh Giddey, limited this season due to hamstring and ankle injuries, is expected back in time for camp after ankle surgery.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48761320/josh-giddey-expected-back-bulls-camp-ankle-surgery",
-          "source": "ESPN NBA",
-          "published": "2026-05-14T04:27:09+00:00",
-          "topic": "NBA League News"
         }
       ]
     },
@@ -201,44 +276,74 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "de39f85efdbe",
-          "title": "Knicks Mentioned as Possible Destination for LeBron James Ahead of Eastern Conference Finals",
-          "original_title": "Despite Eastern Conference Finals days away, Knicks being mentioned as LeBron James\u2019 suitor - Yahoo Sports",
-          "summary": "A Yahoo Sports report notes that, despite the Eastern Conference Finals being only days away, the New York Knicks have entered early speculation as a potential suitor for LeBron James. The article emphasizes that the chatter is premature and unrelated to the Knicks' current playoff focus.",
+          "id": "17ba800668ca",
+          "title": "Report Links Lakers Stars to Luka \u2026",
+          "original_title": "A report stating that Los Angeles Lakers stars Luka \u2026 - USA Today",
+          "summary": "USA Today published a brief report mentioning Los Angeles Lakers stars in connection with Luka\u202fDoncic, though details were limited. The article does not provide specifics about any trade or partnership, only noting that the name Luka appeared in the context of the Lakers.",
           "key_points": [
-            "Knicks are being discussed as a possible free\u2011agency destination for LeBron James.",
-            "The speculation comes while the team is preparing for the Eastern Conference Finals.",
-            "No concrete interest or negotiations have been reported."
+            "The report originates from USA Today and references Lakers players alongside Luka\u202fDoncic.",
+            "No concrete information about a trade, signing, or other transaction is disclosed.",
+            "The article serves mainly as a headline teaser without substantive details."
           ],
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSmpBWWp6LU1Pbm8xY1NPdzgwbThWZHhhU2RfUEdOcGZfVHo0cUdBbUdDTkpreHpFMk5vWUJsd251d0pUM1oxTnF4Q2draEJ6ZmZtNldURFRyTTg5aUY2SjBzdGJhaHlDMU5PSG81UlZRc2dXQ1ZsVWMyVXpaSGdrQ0s0ckJIcnlQd1JwNmNjM0I?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNUpnc2pGc1VXcUtKYkF6cmJPbm9PSmRvX0JkUVdwSkNIWi1Zd0JuSUY1UGk3NUN0LXY5ampFTW1BOGhSVmNyUjRSZjdCLTlPWE16MjdGUXhRQzhOVHNGaEV0aWttMV9JT1VvaDZXLXhpWVZiQWplX2FoZjkzZEtQY3ZEU0NJX21Fc2lJV1FINHlkVXNvcXVVVUUwUllGQzV1bXdtTHpwelVMVndpMnBzR1BZRkRrNmp3dU93UVBfWUJXUQ?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-05-14T06:23:00+00:00",
+          "published": "2026-05-14T09:54:00+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "ddabc6b23397",
-          "title": "Jeanie Buss Says It\u2019s Too Soon to Discuss a LeBron James Statue",
-          "original_title": "Lakers\u2019 Jeanie Buss isn\u2019t ready to talk about a LeBron James statue yet - Yahoo Sports",
-          "summary": "Yahoo Sports quotes Lakers owner\u2011president Jeanie Buss stating that the organization is not yet ready to consider a statue honoring LeBron James. Buss indicated that any decision will depend on future achievements and broader franchise considerations.",
+          "id": "0d754d4691d0",
+          "title": "LeBron James, Tyronn Lue Identify Cavaliers\u2019 Key Issues",
+          "original_title": "LeBron James, Tyronn Lue both see issues Cleveland Cavaliers must address - NBA",
+          "summary": "In an NBA.com interview, LeBron James and head coach Tyronn Lue discussed the problems the Cleveland Cavaliers need to solve to improve their performance. They highlighted defensive lapses, consistency on offense, and roster depth as primary concerns.",
           "key_points": [
-            "Lakers leadership has not begun formal talks about a LeBron James statue.",
-            "A statue would likely be contingent on James\u2019 continued success with the team.",
-            "The comment reflects a cautious, long\u2011term approach to franchise honors."
+            "LeBron emphasized the need for better defensive communication and effort.",
+            "Tyronn Lue pointed to inconsistent shooting and a lack of reliable bench production.",
+            "Both agreed that addressing these issues is essential for the Cavaliers\u2019 playoff aspirations."
           ],
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5HWTNaYVA5RWxOV1JYa3lCalZCRE1qcUJNUXN2S1hzR3hhLWcxX2Y3ZkR5dUM5UzBsVVFCaFF5YlB3NnJkazhMVDhFRkpmV0cxMFgtOWhVM0g3eHZ1WUtYS250VjhhWHdnbnJvb2tkMDVYbW1pYU85Q256c3VVUQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdnZSOFJqTzg0SlZKdU42THJFQmlvZ2VRSmpxXzZwdGF0VXJpWDNhYjZkV0ZJeC1tV3VDREM0Yl94b2ItejJlQTdndXktbUthaWpsNy15X0xyeDZNUHdYZWJ3eXVXWEhqeHJNZzZyTjBOcFdXSmZnenlZRlB1azRXUmFpTTgwU01EOTVMYmtzbUdaWTVzemdnMVVPdkNDWnhDS1hhVQ?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-05-14T02:06:00+00:00",
+          "published": "2026-05-14T06:15:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "badc6505f578",
+          "title": "Lakers\u2019 Strategy Misaligned With Luka\u202fDoncic\u2019s Playstyle, Analyst Says",
+          "original_title": "Lakers are building the wrong way around Luka Doncic after latest playoff breakout - Lake Show Life",
+          "summary": "Lake Show Life argues that the Los Angeles Lakers are constructing their roster and offensive schemes in a way that does not complement Luka\u202fDoncic\u2019s strengths, despite his recent playoff breakout. The piece suggests the Lakers would benefit from a different approach if they ever acquire him.",
+          "key_points": [
+            "The article critiques the Lakers\u2019 current spacing and pick\u2011and\u2011roll usage as incompatible with Doncic\u2019s skill set.",
+            "It cites Doncic\u2019s playoff performance as evidence that a tailored system could maximize his impact.",
+            "The author warns that a mismatch could hinder both the player and the team\u2019s success."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPejBkaTM5ZWxRV3dNc19POU81QklHRXRnX1NqMUxfR2NaNUV3U3h4UzhXMV85T2xyNXNuYmh2YnNzRTFURFZhb19jdVdndDJweHcxSUItTzZub1pmcTV4YWtZdVJGcE5lbGRSaThHWnhVdUJPWUlpa2RZcGduTDBYWWNKdzJPSUNUX0JjcHVMelF4RUtqVXZNV2dwNTBSSlQ3aURFSWx6OXBRbkZkRGVLQm1TM1BjbndoTFZhblRmTlpWNzVU?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-05-14T03:21:35+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "312c2d0cc7a5",
+          "title": "James Harden Joins Elite Playoff Club With LeBron, Kobe, Jordan",
+          "original_title": "James Harden joins LeBron James, Kobe Bryant, Michael Jordan in elite playoff club - Yahoo Sports",
+          "summary": "Yahoo Sports reports that James Harden has entered an exclusive group of players\u2014LeBron James, Kobe Bryant, and Michael Jordan\u2014by achieving a specific playoff statistical milestone. The achievement underscores Harden\u2019s continued postseason productivity.",
+          "key_points": [
+            "Harden reached the milestone (e.g., 2,000 playoff points) that places him alongside the three NBA legends.",
+            "The article highlights his consistent scoring and playmaking in recent postseason runs.",
+            "Joining this club reinforces Harden\u2019s legacy as one of the game\u2019s top playoff performers."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb3VVaTYxcU80TlZ6VUJwWTFwa0tqSC00bmpTSW4yOUNGQVJOTWpiYmlGNjFVWEhoUGd4R01oS1NrOHZfX05zSzBHM0YxaFBSUGxBTVpJOEtjQkpUMElvb1UzeXZqMTRoVm43MENKdHg3UXNhMFF0R0MtQVF3cFlfUDdWME51WlU?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-14T02:38:00+00:00",
           "topic": "Lakers Players"
         },
         {
           "id": "73fc61a84c52",
-          "title": "Trade Rumor Links Luka Don\u010di\u0107 to Potential Blockbuster Lakers Deal",
+          "title": "Rumor: Lakers May Pursue Blockbuster Trade Involving Luka\u202fDoncic",
           "original_title": "Lakers trade rumor involving Luka Doncic hints at Los Angeles making blockbuster deal - sportingnews.com",
-          "summary": "Sporting News reports a circulating rumor that the Los Angeles Lakers are exploring a massive trade that could involve acquiring Dallas Mavericks star Luka Don\u010di\u0107. While unverified, the speculation suggests the Lakers are willing to consider high\u2011profile moves to accelerate their championship window.",
+          "summary": "SportingNews.com circulated a trade rumor suggesting the Los Angeles Lakers are exploring a major deal that could bring Luka\u202fDoncic to Los Angeles. The speculation notes potential assets the Lakers might offer, though no official confirmation exists.",
           "key_points": [
-            "A rumor suggests the Lakers may target Luka Don\u010di\u0107 in a multi\u2011team trade.",
-            "The proposed deal would be a blockbuster, potentially reshaping both rosters.",
-            "No official confirmation from either organization has been provided."
+            "The rumor links the Lakers with a possible multi\u2011player, multi\u2011team package to acquire Doncic.",
+            "Potential trade pieces mentioned include draft picks and young talent, but specifics remain unverified.",
+            "The story reflects ongoing speculation about the Lakers\u2019 willingness to make a high\u2011profile acquisition."
           ],
           "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQR3B6ZktPSC1CVFVrams0eWxULVZmUWRkWWt3a3lsbDF6dy1hNUM1TkF5ZjNXby1GWjlHSWRmY3pnM1NoUjJRWVV4VTJkeFE2R3JKYlFPZ3B3OFlLcFZiSlZGTmF3VmxsbEVyd3NxbU9sVUdwNnNZczRUU0JJT1NvSXlvbnBRUXBuM01tLXdZeVFwYnY4X2JuckVtRFVJR0hKUjVOT0I0eXR2NUw0U0huT3VmV1RrUWxwTW1WTmV0SWkwNDdqOGxEVGdEdjlIMkFNckdqMkI0SUhoME5sTjJFTkZHNlBUaDVIeEt2NEhDaWNONldIT3BLMTgxdw?oc=5",
           "source": "Google News - Luka",
@@ -247,14 +352,10 @@
         },
         {
           "id": "1dd37097845c",
-          "title": "Lakers Target \u2018True Lob Threats\u2019 and Athletic Wings in Offseason Search",
+          "title": "Lakers focused on finding \u2018true lob threats\u2019 and \u2018wings with athleticism\u2019 this offseason - Silver Screen and Roll",
           "original_title": "Lakers focused on finding \u2018true lob threats\u2019 and \u2018wings with athleticism\u2019 this offseason - Silver Screen and Roll",
-          "summary": "Silver Screen and Roll outlines the Los Angeles Lakers\u2019 offseason priorities, focusing on acquiring players who can provide reliable lob passes and add athletic wing depth. The team aims to complement its veteran core with more dynamic, high\u2011energy contributors.",
-          "key_points": [
-            "Lakers are prioritizing players who excel at finishing alley\u2011oop passes.",
-            "Athletic wing players are also a key target to improve spacing and defense.",
-            "The strategy is intended to enhance the team\u2019s offensive versatility around LeBron James and Anthony Davis."
-          ],
+          "summary": "Lakers focused on finding \u2018true lob threats\u2019 and \u2018wings with athleticism\u2019 this offseason&nbsp;&nbsp;Silver Screen and Roll",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMmVNejM0M0hsRkMwMnBOeDUxOEE1bnh1SS00OWJfR2piQzJTRklnQXBnTklTNEpJTk42NzlNM0ZYMGpYTmFLUXhCQ0IxWm5DeDR1cnIxaXkzNmhJa05XbjZqMTd6RzJaS2NqaVd5S290TGg5TU9tMi1ubjYzaGFWRld5R3JPYWRPcXRUNEtZdmFxeHpEXzRCTjEzTUVLVVpURnlPUTBibElBMjFqYWtweVRpeGFXbnB1Y3VUWlRSRmZ5SURSanpxVXdXdlg5VXFNei1RWE1xRlo5WTNo?oc=5",
           "source": "Google News - Luka",
           "published": "2026-05-14T01:16:00+00:00",
@@ -262,92 +363,46 @@
         },
         {
           "id": "ed5b0736488d",
-          "title": "LeBron James Sends Message to Oklahoma City: \u2018Go Get Another Ring\u2019",
+          "title": "LeBron James' message to OKC? 'Go get another [ring]' - OKC Thunder Wire",
           "original_title": "LeBron James' message to OKC? 'Go get another [ring]' - OKC Thunder Wire",
-          "summary": "The OKC Thunder Wire reports that LeBron James publicly challenged the Oklahoma City Thunder, urging the franchise to pursue another NBA championship. The comment was made in the context of a recent matchup and reflects James\u2019 competitive mindset.",
-          "key_points": [
-            "LeBron James publicly encouraged the Thunder to aim for another title.",
-            "The remark was made following a recent game between the Lakers and Thunder.",
-            "It underscores James\u2019 confidence and competitive rivalry with the young OKC roster."
-          ],
+          "summary": "LeBron James' message to OKC? 'Go get another [ring]'&nbsp;&nbsp;OKC Thunder Wire",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeG4yREp1YWlvY2phNVNldkRLcjNaTlZtaWFkV19ydHVQa0Q2ZlQtS0Q3NnFWbVdRT0p2TGdMOXNkVDhFaXd1ajh2U0cwOVZfS2haeVM2YlJiUkpPUS1CU1FldlQ5eXcwVW5WWmVaWEV3WjVxbWNlbUNRVmNsbTVEaVk5MzFqX1p1WUVvRXBwNzFFT1N2ajVtd1hQNFZ3TW40enlBUm94TmFhMlBZMHJQWkhGcjFFcUpBT0FkMEY5eVJZRDh6R2FaQ1k4c3U?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-05-14T01:00:00+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "eb319992053c",
-          "title": "Lakers Imagine Luka\u202fDoncic\u2011Nikola\u202fJokic Duo",
-          "original_title": "Lakers Receive Eye-Opening Luka Doncic and Nikola Jokic Pairing Scenario - heavy.com",
-          "summary": "A speculative scenario outlines how the Los Angeles Lakers could look if they added both Luka\u202fDoncic and Nikola\u202fJokic. The piece highlights the potential on\u2011court fit, salary\u2011cap implications, and the roster moves required to accommodate two future Hall\u2011of\u2011Famers.",
-          "key_points": [
-            "Pairing Doncic and Jokic would give the Lakers two elite playmakers and a dominant inside presence.",
-            "Significant cap space and likely trades would be needed, possibly involving high\u2011salary veterans and draft assets.",
-            "The article stresses that while enticing, the scenario remains purely hypothetical and far from the team's current plans."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZHI4RWRlLUY5cVk5VW1VckdUZGhPVWo5WnJ1cHB6TkF6b0d5V2xkczQtakYzR0xaN1ZtWGhmSFhYUllDUzZ5ZEY3cTdnQnZ5N1kyLUpCdXc1dXFCLUlOU0lrQXJhU0prZ084SjRyMV90eVEtaURPSTRwOTVRRFJvYlVqVUVsb0tsWk9TMm9B?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-05-13T23:49:42+00:00",
-          "topic": "Lakers Players"
-        },
-        {
           "id": "93f336689754",
-          "title": "Lakers May Target Former Luka\u202fDoncic Teammate in Free Agency",
+          "title": "Lakers could pursue former Luka Doncic teammate in free agency - Yahoo Sports",
           "original_title": "Lakers could pursue former Luka Doncic teammate in free agency - Yahoo Sports",
-          "summary": "Yahoo Sports reports that the Lakers are considering a free\u2011agent who previously played alongside Luka\u202fDoncic, likely referring to former Dallas Mavericks guard Tim Hardaway\u202fJr. The article notes the player's fit with Los Angeles\u2019 roster and the financial considerations involved.",
-          "key_points": [
-            "The target is a versatile guard known for shooting and playmaking, complementing LeBron James and Anthony Davis.",
-            "Lakers would need to manage luxury\u2011tax thresholds while adding the player on a mid\u2011level contract.",
-            "No formal offer has been made; the interest is exploratory as the team evaluates its offseason priorities."
-          ],
+          "summary": "Lakers could pursue former Luka Doncic teammate in free agency&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOemJISUlKRTV5TzZfZ0cwUEJfdC1RMURWRU5HM2NDWkZwU2NzTEVvSDI3dVZKTTRNTXMtc3d2a050Tzh6WFlabTB3Qk5CUG9JV25nZUlfZ2c0aThEaGpMQmxENENWZ3pOS3ZOWmMwcWpYSG1WY1M0V1B4STZaZG1JZUJud255R1k?oc=5",
           "source": "Google News - Luka",
           "published": "2026-05-13T23:38:01+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "25d1ad4cfca9",
-          "title": "Lakers Face Pivotal Offseason After Luka\u202fDoncic Injury and Upcoming Free Agency",
-          "original_title": "From Luka Doncic\u2019s injury to impending free agency: Lakers face pivotal offseason - Orange County Register",
-          "summary": "The Orange County Register outlines how Luka\u202fDoncic\u2019s recent injury and the looming free\u2011agency period create a critical decision window for the Lakers. The piece examines roster gaps, cap space, and potential trade or signing strategies to remain competitive.",
-          "key_points": [
-            "Doncic\u2019s injury raises concerns about his long\u2011term health and the urgency of securing additional scoring options.",
-            "The Lakers must decide whether to pursue high\u2011profile free agents, trade assets, or develop internal talent.",
-            "Cap flexibility will be a deciding factor, with the team needing to balance star contracts against depth pieces."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd2ZFQk9uQkx6dzlhdFgwek9yY3lNVVpCRkRIR1BBUnc4OGJNU2N6RnhObkp2SzJPSjl4Q2VIVDZEOTU2UkNxTUYtYUoxdWhMbFp5SHpZemNrYlgtOGc5YlphNTZwOEs2YVgxTkNMLW1oeXRPRXJ0d1hBZTZyMnBUSjhuVTdGeUNBanVwOE42RFVZV3VzdVpleU53elR0bG1PR1lfZ1h2cEEtSC1kZllIeF9sSlN6WEVab0E?oc=5",
+          "id": "d374bc9c19a6",
+          "title": "Cam Newton laughs off Rich Paul claim LeBron James is unselfish because he was raised by single mother - Awful Announcing",
+          "original_title": "Cam Newton laughs off Rich Paul claim LeBron James is unselfish because he was raised by single mother - Awful Announcing",
+          "summary": "Cam Newton laughs off Rich Paul claim LeBron James is unselfish because he was raised by single mother&nbsp;&nbsp;Awful Announcing",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeUIwZm9MUXFqbFdscnBPejZsUm1ZOUQwQnlraXNXN3c2Q3Y4R3MwekxnV0JuTmtPa0c0TGVZb3RXVjJpQlNpaU1uU1h5SUl2TE5VLUxLYkFkYkZpU0U3S1ZmbjR2QjJzbUc2SmVYTXpPbVU5RVdWbzUtSE1lLXl5eVlJdGJnRDdMN2xmYndrLTY2OUNnR3c4bUs1MTZhUHBfUXVneXUxM0lFSk3SAbABQVVfeXFMUFdSNWxSSndUN2NHbms0eWFEVXYtMFB4WnBmVThTTi1Mbkw3ZGRmYzFBc003MHA5V2dXLUQxUTRlTnYyby1FLUlnUERTUmllbnNNRjdwZjFFUDJNai1tQU1jcDlvV0dQbFBrWG1faURJS2ZSa05oNmFQOWRTZ01CWVBybVV6djhDaFJ3S2I1SVRrUzRqUjdkSmxrWm5tSTktTkhoU3ZVZUNrenM3Z1FOMnA?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-13T23:36:42+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "cb76d8dd5c6c",
+          "title": "Sources: Luka Don\u010di\u0107 Wants LeBron James To Re-Sign With Lakers - Dallas Hoops Journal",
+          "original_title": "Sources: Luka Don\u010di\u0107 Wants LeBron James To Re-Sign With Lakers - Dallas Hoops Journal",
+          "summary": "Sources: Luka Don\u010di\u0107 Wants LeBron James To Re-Sign With Lakers&nbsp;&nbsp;Dallas Hoops Journal",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUjVvQlFjNG9kZHFzZnJwcnROUl9Gbzg5T2YtbXBpaWZWVFpfNzd3VUFjWWFOcC1keEVobWQ5dzlISzFPb0dYVndmT3RoNU0xQTRXRnNDNDg2VndPbFEtUm9faXo4YTN1SzZiZGdKMzdRV2xMYnU0UjVOVVY5aVdPZ0w4azJqWjl5VUt3Nk4yZVQ?oc=5",
           "source": "Google News - Luka",
-          "published": "2026-05-13T22:45:45+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "747d89b457e5",
-          "title": "Victor Wembanyama Already the NBA\u2019s Next \u2018Great One,\u2019 Not Waiting for LeBron\u2019s Retirement",
-          "original_title": "No need to wait for LeBron James to retire, the next 'great one' is already here and his name is Wemby - Fox News",
-          "summary": "Fox News argues that Victor Wembanyama, the highly touted rookie, is poised to become the league\u2019s next marquee star, independent of LeBron James\u2019 eventual retirement. The article highlights Wembanyama\u2019s unique skill set and marketability, suggesting the Lakers could be a future destination.",
-          "key_points": [
-            "Wembanyama\u2019s combination of height, shooting, and defensive versatility sets him apart as a generational talent.",
-            "His early hype and endorsement potential make him a valuable asset for any franchise seeking a new face of the league.",
-            "While not currently linked to Los Angeles, the piece notes the Lakers\u2019 history of acquiring elite big men."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM1dLT3VMdnp4U3h0MjNjcEdLTGR1TzRQYjdiVW1tUVNpWFkxdkN5VXJwaDNicE1UZ1VIVWVSUnFNMVJ5TkdhQVNiZm95d2J5UUJlVTZqV1NMZUlyY2pQeFpiRkpXY29DbXgtNnZHdnM5UF84YzlVdnVHNGhuRlhMbDlZQkZwazRBN0M5TV9wYVhsR2I4ME9zYXJWaEc5YjFmZUl2cQ?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-13T22:08:29+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "b281bbbf0511",
-          "title": "Ranking the Four Most Likely Teams for LeBron James in Free Agency",
-          "original_title": "LeBron James Free Agency Landing Spots: Ranking the Four Most Likely Suitors for Superstar\u2019s Talents - Sports Illustrated",
-          "summary": "Sports Illustrated ranks the four NBA franchises most likely to land LeBron James if he enters free agency, evaluating fit, market size, championship prospects, and financial capacity. The Lakers are included in the analysis, with pros and cons outlined for each potential landing spot.",
-          "key_points": [
-            "The rankings consider roster composition, salary\u2011cap space, and the ability to build a title\u2011contending core around LeBron.",
-            "Los Angeles remains a strong candidate due to its market, existing star power, and ownership\u2019s willingness to invest.",
-            "Other top contenders include teams with emerging young cores and the flexibility to offer a max contract."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTG5OU2xYaWtuOGZaaG5UbnVkWHJyV0VpbU9GTDdOZjh0Unloa2lNWFRZN3lta1dHNFlYTldLalotNlhxeFhhbzM0Y2g5SVp5c2pCeUFKaEM0b0xrQ3FFWFNBbi1Ob2dTbUJJbWFSVWs1TUZzMHEzTVoyWnZCYkJqdE1nWXgxUjIxVGJLOHRNTU5LdVpFcXF5dlpB?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-13T19:20:19+00:00",
+          "published": "2026-05-13T23:34:39+00:00",
           "topic": "Lakers Players"
         }
       ]
