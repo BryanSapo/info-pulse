@@ -1,83 +1,127 @@
 {
-  "generated_at": "2026-05-14T19:57:00.194701+00:00",
+  "generated_at": "2026-05-14T21:17:57.177791+00:00",
   "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
+          "id": "6c5ddc23cbd0",
+          "title": "Rob Pelinka: Lakers Want To \u2018Honor\u2019 Process LeBron James Will Take",
+          "original_title": "Rob Pelinka: Lakers Want To \u2018Honor\u2019 Process LeBron James Will Take",
+          "summary": "General manager Rob Pelinka faces a busy offseason with nine free agents, including 41\u2011year\u2011old LeBron James. The Lakers have ample cap space and are exploring ways to build a contender around Luka Don\u010di\u0107 while deciding how to handle James\u2019 contract situation.",
+          "key_points": [
+            "Lakers have nine free agents, with LeBron James being a central focus.",
+            "Significant cap flexibility gives the team options to add talent.",
+            "Pelinka aims to construct a roster that complements Luka Don\u010di\u0107 while honoring James\u2019 role."
+          ],
+          "link": "https://lakersnation.com/rob-pelinka-lakers-honor-lebron-james-decision/",
+          "source": "Lakers Nation",
+          "published": "2026-05-14T21:10:01+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "288372035ca9",
+          "title": "Kobe Bryant High School",
+          "original_title": "Kobe Bryant High School",
+          "summary": "A Reddit post titled \u201cKobe Bryant High School\u201d was submitted by user /u/CircledSquare7. The post contains only a link and no substantive text, so no concrete news or analysis can be extracted.",
+          "key_points": [
+            "Post originates from the r/lakers subreddit.",
+            "Content consists solely of a link without description.",
+            "No verifiable information about Kobe Bryant\u2019s high school is provided."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1tdav8u/kobe_bryant_high_school/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-14T20:50:11+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "cbaad4061808",
+          "title": "If LeBron James truly wants to defeat Father Time, he should retire - The New York Times",
+          "original_title": "If LeBron James truly wants to defeat Father Time, he should retire - The New York Times",
+          "summary": "The New York Times opinion piece argues that LeBron James should consider retirement as the most effective way to \u201cdefeat\u201d the effects of aging on his performance. The article does not present new factual developments about James\u2019 contract or health, focusing instead on a speculative viewpoint.",
+          "key_points": [
+            "Opinion column suggests retirement as a solution to age\u2011related decline.",
+            "No new data on James\u2019 current physical condition or contract status is provided.",
+            "The piece reflects editorial perspective rather than breaking news."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdWFBM01XaHNBdGRXUEJWU3VBWnhyQUtTQ00zaTJCb2FfSnF4V3lVX24zV2UxZEdLVVVNY19BYURMYlVKT25tMEJFUlNaU0tGX09TWDFoY3FERlh0bWM5SFJqTjFxZllIV1RVTzVzWWRDZW9qTTdUNktJRjAweGsxRkowS1BjTlhYbm81QkFhdDV1ZGJBYjRUdGd4Zw?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-14T20:10:23+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "b566bdf21b06",
+          "title": "We used to pray for times like this! We have 13 billion reasons to be happy for the offseason. #WaltersWallet Roberto Pelinker proved he can outsmart GMs. It\u2019s time to go hard on the league \ud83e\udee1",
+          "original_title": "We used to pray for times like this! We have 13 billion reasons to be happy for the offseason. #WaltersWallet Roberto Pelinker proved he can outsmart GMs. It\u2019s time to go hard on the league \ud83e\udee1",
+          "summary": "A Reddit submission by /u/jonbemerkin celebrates the upcoming offseason and references a user \u201cRoberto Pelinker\u201d (likely a typo for Rob Pelinka) as a savvy general manager. The post is a fan\u2011generated hype comment with no concrete news about trades or roster moves.",
+          "key_points": [
+            "Post expresses optimism about the Lakers\u2019 offseason opportunities.",
+            "Mentions Rob Pelinka\u2019s reputation for out\u2011smarting other GMs.",
+            "Contains no specific information on transactions or roster plans."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1td90cn/we_used_to_pray_for_times_like_this_we_have_13/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-14T19:43:43+00:00",
+          "topic": "Lakers News"
+        },
+        {
           "id": "c166428f4f82",
           "title": "Lakers Expected To Be Aggressive On Trade Market This Offseason",
           "original_title": "Lakers Expected To Be Aggressive On Trade Market This Offseason",
-          "summary": "The Los Angeles Lakers view the upcoming offseason as a pivotal moment to push toward championship contention. With ample salary\u2011cap flexibility and a first\u2011round pick, they plan to reshape the roster around superstar guard Luka\u202fDoncic.",
+          "summary": "Lakers Nation reports that Los Angeles plans an aggressive approach in the trade market to move closer to championship contention, building around Luka Don\u010di\u0107. The team has considerable salary\u2011cap space and a first\u2011round pick, giving them leverage to acquire additional talent.",
           "key_points": [
-            "Lakers have significant cap space and a valuable first\u2011round draft pick.",
-            "The front office aims to build a roster centered on Luka\u202fDoncic.",
-            "Aggressive trade activity is expected to improve the team's title odds."
+            "Lakers intend to be active traders to strengthen the roster.",
+            "Cap flexibility and a first\u2011round pick provide bargaining power.",
+            "The overarching goal is to construct a championship\u2011ready team centered on Luka Don\u010di\u0107."
           ],
           "link": "https://lakersnation.com/lakers-expected-to-be-aggressive-on-trade-market-this-offseason/",
           "source": "Lakers Nation",
-          "published": "2026-05-14T19:00:33+00:00",
+          "published": "2026-05-14T19:30:33+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "f547fd5181e1",
+          "title": "Lakers' top NBA Draft priority should be crystal clear after promise to Luka - Lake Show Life",
+          "original_title": "Lakers' top NBA Draft priority should be crystal clear after promise to Luka - Lake Show Life",
+          "summary": "Lakers' top NBA Draft priority should be crystal clear after promise to Luka&nbsp;&nbsp;Lake Show Life",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbDdhN2tGSC01dEN6Zk5IS0YtUDFEQmFmUXVUVF85anRoYkQtWm1uM1l2MzVqLXRRT3dVb0M1Vzd3SFZOS0RzQmVWSjA0QVJPQ0hUdXJPSWtud0VMMlRaT1EyeHpvcmM5d29RQTY3OEF1ZjZwNlVBcHU0U3BzUHY2NmgyNVlWWm5K?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-14T19:00:00+00:00",
           "topic": "Lakers News"
         },
         {
           "id": "bc3c8253056c",
-          "title": "Lakers Expected To Be Aggressive On Trade Market This Offseason",
+          "title": "Lakers Expected To Be Aggressive On Trade Market This Offseason - Lakers Nation",
           "original_title": "Lakers Expected To Be Aggressive On Trade Market This Offseason - Lakers Nation",
-          "summary": "A brief repost of the Lakers Nation report reiterates that the franchise intends to be active in the trade market during the upcoming offseason. The article does not add new details beyond the original coverage.",
-          "key_points": [
-            "Reaffirms Lakers' intention to pursue trades.",
-            "No additional information beyond the original article.",
-            "Highlights the team's strategic focus on roster improvement."
-          ],
+          "summary": "Lakers Expected To Be Aggressive On Trade Market This Offseason&nbsp;&nbsp;Lakers Nation",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeWFla0wyUjM4TjVGaTM0RG1pWk5VSEJxQ2JPcHg4eFUzd1c4UHdER1V4ckxVbXUzM1UtaXAtWnU2anpqME80bG1XQW1DeUhTakVWaEx4Yng3cXBCZ3BOSXVsd1NSSjZ6UlZsVG4tRWZOS1ptMFF3MzNkdVNReWgxYkhtTWRKQWlkSzlkdzBJNmZtSlE?oc=5",
           "source": "Google News - Lakers",
           "published": "2026-05-14T18:50:33+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "efeac5ed0cc8",
-          "title": "Stephen A. Says Lakers 'Don't Particularly Like' LeBron James Amid Rumors on Star's Frustrations",
-          "original_title": "Stephen A. Says Lakers 'Don't Particularly Like' LeBron James Amid Rumors on Star's Frustrations - Bleacher Report",
-          "summary": "Sports commentator Stephen A. Smith claimed that the Lakers organization is not particularly fond of LeBron James, citing circulating rumors about his frustration with the team. The statement reflects media speculation rather than an official team position.",
-          "key_points": [
-            "Stephen A. Smith alleges internal tension involving LeBron James.",
-            "Comments are based on rumors, not confirmed by the Lakers.",
-            "Potential impact on team chemistry is being discussed in the media."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdlIxa0V2dW0taVROa09MUFJ4VUJReVRhZU9FdWN5S1hmV2tfTndXRXFheEUydVR4enM4cGJ2eFRteWhTd3Y5dllCZE5aS3NDLXFQYWhxY0E3TThBTkRRc3dfYm9IYnF4RkM0VEtRSklSTGNIbXZicmtvNmloUGNSX1pDM0VLT3U5Z29kUnRZMXFFN0gwUTZ4ZFB0NnVibF8yOTNGRHFvWVpqUy1pUUhRUDRJTXhsV2puenJNc0VjR1Z4eGdE?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-14T18:22:30+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "69a1179a94f3",
-          "title": "Lakers Given a Sensitive LeBron James Warning They Can\u2019t Ignore",
-          "original_title": "Lakers given a sensitive LeBron James warning they can\u2019t ignore - Yahoo Sports",
-          "summary": "Yahoo Sports reports that the Lakers have received a serious warning concerning LeBron James, suggesting the issue requires immediate attention from the organization. Details of the warning are not disclosed, but it implies a potential risk to team dynamics or performance.",
-          "key_points": [
-            "A confidential warning about LeBron James has been issued to the Lakers.",
-            "The nature of the warning is unspecified, indicating sensitivity.",
-            "The team is urged to address the matter promptly to avoid complications."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNGV0NEhMRmlSWllHR2F0TEtTdGZnQ1pQY1pQY1V0cWQ3dUVqdzZrbmg1WTVzdzBUTk95OTVSYk13c2JOeWhCQ2x4bTg3OGxqMHJHaDJQSnZNTzNlbzRVT2xoYmNxTXZpMHNQTjBITDE4cGh6Z3RVamlWZ2hRbEZQYVlQVUpBVERaTVpnMw?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-14T18:22:30+00:00",
-          "topic": "Lakers News"
-        },
-        {
           "id": "0a3b818708e4",
-          "title": "Reddit Discussion: Developing a 6\u20198\u201d Prospect with Phil Handy",
+          "title": "Adou Thiero Conversation",
           "original_title": "Adou Thiero Conversation",
-          "summary": "A Reddit user on r/lakers asks how quickly a 6\u2011foot\u20118, 7\u2011foot wingspan player could reach NBA speed, expressing a desire to see the prospect train with renowned trainer Phil Handy. The post notes Handy\u2019s offseason restrictions, limiting direct work with other players.",
-          "key_points": [
-            "User seeks rapid development for a 6\u20198\u201d prospect with a 7\u2019 wingspan.",
-            "Mentions Phil Handy\u2019s reputation for player development.",
-            "Acknowledges that Handy cannot work with other players during the offseason."
-          ],
+          "summary": "How quickly can we get this kid up to NBA speed? 6\u20198 with a 7\u2019 wingspan and can jump out of the gym. Out of everything I want to see this offseason I want 50 posts of him with Phil Handy (Edit: I have been made aware that Phil Handy is unable to work with other players in the offseason, thank you all for the heads up ) He shows effort and promise and has so many intangibles to be in the rotation. If we can get his mind to catch up with his body this summer I REALLY like Thiero as a building bloc",
+          "key_points": [],
           "link": "https://www.reddit.com/r/lakers/comments/1td6hor/adou_thiero_conversation/",
           "source": "Reddit r/lakers",
           "published": "2026-05-14T18:15:41+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "e84d81c8c521",
+          "title": "Lakers Interested In Retaining Marcus Smart This Offseason",
+          "original_title": "Lakers Interested In Retaining Marcus Smart This Offseason",
+          "summary": "Veteran guard Marcus Smart was one of the Los Angeles Lakers\u2019 main free agent acquisitions last offseason and it turned out to be an outstanding move. Smart was vital to the success of the Lakers, being the team\u2019s tone-setter on defense while also acting as a supplementary creator around the team\u2019s core trio of Luka [&#8230;]",
+          "key_points": [],
+          "link": "https://lakersnation.com/lakers-interested-in-retaining-marcus-smart-this-offseason/",
+          "source": "Lakers Nation",
+          "published": "2026-05-14T18:15:21+00:00",
           "topic": "Lakers News"
         },
         {
@@ -90,50 +134,6 @@
           "source": "Reddit r/lakers",
           "published": "2026-05-14T17:52:54+00:00",
           "topic": "Lakers News"
-        },
-        {
-          "id": "e84d81c8c521",
-          "title": "Lakers Interested In Retaining Marcus Smart This Offseason",
-          "original_title": "Lakers Interested In Retaining Marcus Smart This Offseason",
-          "summary": "Veteran guard Marcus Smart was one of the Los Angeles Lakers\u2019 main free agent acquisitions last offseason and it turned out to be an outstanding move. Smart was vital to the success of the Lakers, being the team\u2019s tone-setter on defense while also acting as a supplementary creator around the team\u2019s core trio of Luka [&#8230;]",
-          "key_points": [],
-          "link": "https://lakersnation.com/lakers-interested-in-retaining-marcus-smart-this-offseason/",
-          "source": "Lakers Nation",
-          "published": "2026-05-14T17:50:21+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "3a1a41b05427",
-          "title": "Luka Doncic \u2018Impressed\u2019 By Amount Of Communication With Lakers Owner Mark Walter",
-          "original_title": "Luka Doncic \u2018Impressed\u2019 By Amount Of Communication With Lakers Owner Mark Walter",
-          "summary": "The Los Angeles Lakers have a massive offseason ahead. New majority owner Mark Walter is in his first summer on the job, and has abundant cap space and roster spots to build a team around superstar Luka Doncic. This will be L.A.\u2019s first real opportunity to build a team around Doncic\u2019s skillset. Doncic is the [&#8230;]",
-          "key_points": [],
-          "link": "https://lakersnation.com/lakers-rumors-luka-doncic-mark-walter-have-regular-communication/",
-          "source": "Lakers Nation",
-          "published": "2026-05-14T16:40:45+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "50297d9426f7",
-          "title": "Kobe Bryant opened the 2009 WCF with 40 points 6 rebs and 4 assists. Played 43 mins",
-          "original_title": "Kobe Bryant opened the 2009 WCF with 40 points 6 rebs and 4 assists. Played 43 mins",
-          "summary": "      &#32; submitted by &#32;  /u/CircledSquare7   [link] &#32; [comments] ",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/lakers/comments/1td3nly/kobe_bryant_opened_the_2009_wcf_with_40_points_6/",
-          "source": "Reddit r/lakers",
-          "published": "2026-05-14T16:38:56+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "99f31b4b3602",
-          "title": "IF IHart did have his team option rejected and we somehow managed to sign him, how do you like the fit.",
-          "original_title": "IF IHart did have his team option rejected and we somehow managed to sign him, how do you like the fit.",
-          "summary": "      Before I get downvoted to hell and comments complaining about realism, just open ur mind for a moment. If say Ayton opts out, Smart opts in and were able to move vando and laravia contracts off it\u2019s not out of this world.  Again i\u2019m making a leap and If i had to bet I DONT think this will happen.  Likelihood aside, how do you like his fit on the team alongside our big 3. His playmaking is incredible and fantastic around the rim. But what kind of play style do you expect him to lean into an",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/lakers/comments/1td32ef/if_ihart_did_have_his_team_option_rejected_and_we/",
-          "source": "Reddit r/lakers",
-          "published": "2026-05-14T16:18:23+00:00",
-          "topic": "Lakers News"
         }
       ]
     },
@@ -141,9 +141,95 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "2d1e5ebfcc8c",
-          "title": "Adam Silver says new taking rules will mean teams 'have no particular incentive to be bad'",
-          "original_title": "Adam Silver says new taking rules will mean teams 'have no particular incentive to be bad'",
+          "id": "3d12fdc53171",
+          "title": "Jazz Explore Trade-Up to Acquire BYU Star Dybantsa",
+          "original_title": "[Spears] The Jazz have reached out to the Washington Wizards, who have the No. 1 pick, about potentially trading up to land the former BYU standout, a source said.",
+          "summary": "The Utah Jazz have contacted the Washington Wizards about a possible trade that would move the Wizards up to the No.\u202f1 pick in order to select forward Dybantsa, the top prospect according to ESPN analyst Jeremy Woo. The Wizards hold the first overall pick and are evaluating offers as they consider their draft strategy.",
+          "key_points": [
+            "Jazz are interested in moving up to the No.\u202f1 pick to select Dybantsa.",
+            "Dybantsa, a former BYU standout, is rated the draft\u2019s top prospect by ESPN.",
+            "Washington holds the No.\u202f1 pick and is fielding trade proposals."
+          ],
+          "link": "https://www.reddit.com/r/nba/comments/1tdaa81/spears_the_jazz_have_reached_out_to_the/",
+          "source": "Reddit r/nba",
+          "published": "2026-05-14T20:28:55+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "6c3c88eca355",
+          "title": "James Harden\u2019s 22\u2011Second Burst Helps Cavs Edge Toward East Finals",
+          "original_title": "James Harden, still learning new role, helps Cleveland get 1 win away from East finals",
+          "summary": "In overtime of Game\u202f5 of the Eastern Conference semifinals, James Harden produced a free throw, a missed free throw, a block, a rebound and a turnover within 22 seconds, keeping Cleveland\u2019s momentum alive against Detroit. The Cavaliers now sit one win away from advancing to the Eastern Conference Finals.",
+          "key_points": [
+            "Harden contributed five distinct actions in a 22\u2011second span during overtime.",
+            "Cleveland held off the Pistons to move within one win of the East Finals.",
+            "The performance highlighted Harden\u2019s adaptation to a new role with the Cavs."
+          ],
+          "link": "https://sports.yahoo.com/articles/james-harden-still-learning-role-202558252.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-14T20:25:58+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "1ab3e756e70e",
+          "title": "Top 22 NCAA Stay\u2011or\u2011Go Decisions Ahead of the 2026 NBA Draft Combine",
+          "original_title": "Ranking top 22 stay-or-go NCAA decisions from 2026 NBA Draft Combine",
+          "summary": "Yahoo Sports ranks the most consequential college players who chose to return to school rather than enter the 2026 NBA Draft. The list underscores how returning athletes could reshape the draft landscape and affect team needs across the league.",
+          "key_points": [
+            "The article ranks 22 players who stayed in college for the 2026 draft cycle.",
+            "Returning players are projected to impact draft order and team strategies.",
+            "The focus shifts from incoming talent to the decisions of current college stars."
+          ],
+          "link": "https://sports.yahoo.com/articles/ranking-top-22-stay-ncaa-202454350.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-14T20:24:54+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "13426368ba46",
+          "title": "Keown Discusses Jalen Williams\u2019 Potential Amid Praise for Shai Gilgeous\u2011Alexander",
+          "original_title": "[Keown] When I suggest that Jalen Williams, the team's second-leading scorer and third-team All-NBA player last season, could be the main attraction on 20 or so other teams, Gilgeous-Alexander politely interrupts and says, \"It's 29 if you ask me.\"",
+          "summary": "In a Reddit thread, analyst Keown argues that Jalen Williams could become a primary draw for multiple NBA teams, but Shai Gilgeous\u2011Alexander interjects, emphasizing his own impact and the collaborative nature of their team\u2019s success. The conversation highlights the balance between individual talent and collective credit.",
+          "key_points": [
+            "Keown suggests Williams could be a marquee player for many franchises.",
+            "Gilgeous\u2011Alexander counters, stressing his own role and team\u2011first mindset.",
+            "The dialogue reflects broader discussions on player valuation and team dynamics."
+          ],
+          "link": "https://www.reddit.com/r/nba/comments/1td9eqb/keown_when_i_suggest_that_jalen_williams_the/",
+          "source": "Reddit r/nba",
+          "published": "2026-05-14T19:58:02+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "7526efcd4c95",
+          "title": "Stojakovi\u0107 Keeps Draft Options Open, Illinois Decision Delayed Until May 27",
+          "original_title": "Stojakovic remains \u2018both feet in\u2019 the draft, keeping Illinois options open",
+          "summary": "Former NBA star Peja Stojakovi\u0107 remains actively involved in the NBA draft process while keeping his options open regarding the University of Illinois. Fans will have to wait until May\u202f27 for a definitive decision on his next move.",
+          "key_points": [
+            "Stojakovi\u0107 is still engaged in draft-related activities.",
+            "He has not ruled out a role with Illinois, leaving the situation uncertain.",
+            "A final decision is expected on May\u202f27."
+          ],
+          "link": "https://sports.yahoo.com/articles/stojakovic-remains-both-feet-draft-195354319.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-14T19:53:54+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "c8566baa139d",
+          "title": "Myles Turner says Doc Rivers 'didn't fine anybody' this season despite repeated tardiness, Giannis Antetokounmpo was most likely Bucks player to be late",
+          "original_title": "Myles Turner says Doc Rivers 'didn't fine anybody' this season despite repeated tardiness, Giannis Antetokounmpo was most likely Bucks player to be late",
+          "summary": "Link: https://sports.yahoo.com/nba/article/myles-turner-says-doc-rivers-didnt-fine-anybody-this-season-despite-repeated-tardiness-giannis-antetokounmpo-was-most-likely-bucks-player-to-be-late-184432485.html This part stuck out to me: &quot;Turner continued: \u201cI'm being so serious, bro. It was crazy, dawg. Guys were an hour late to the plane. It got to the point where I knew not to show up until an hour after they said the plane was taking off. It was crazy.\u201d When Stewart asked Turner which teamma",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/nba/comments/1td92tz/myles_turner_says_doc_rivers_didnt_fine_anybody/",
+          "source": "Reddit r/nba",
+          "published": "2026-05-14T19:46:09+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "63fd3a5219f6",
+          "title": "Adam Silver says new tanking rules will mean teams 'have no particular incentive to be bad'",
+          "original_title": "Adam Silver says new tanking rules will mean teams 'have no particular incentive to be bad'",
           "summary": "The NBA owners are expected to approve the league's &quot;3-2-1&quot; tanking proposal later this month.",
           "key_points": [],
           "link": "https://sports.yahoo.com/articles/adam-silver-says-taking-rules-194050644.html",
@@ -183,92 +269,6 @@
           "source": "Yahoo Sports NBA",
           "published": "2026-05-14T18:48:05+00:00",
           "topic": "NBA League News"
-        },
-        {
-          "id": "969552290374",
-          "title": "Myles Turner says Doc Rivers 'didn't fine anybody' this season despite repeated tardiness, Giannis Antetokounmpo was most likely Bucks player to be late",
-          "original_title": "Myles Turner says Doc Rivers 'didn't fine anybody' this season despite repeated tardiness, Giannis Antetokounmpo was most likely Bucks player to be late",
-          "summary": "Turner peeled back another layer of Milwaukee's tumultuous 2025-26 season on the &quot;Game Recognize Game&quot; podcast.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/nba/article/myles-turner-says-doc-rivers-didnt-fine-anybody-this-season-despite-repeated-tardiness-giannis-antetokounmpo-was-most-likely-bucks-player-to-be-late-184432485.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-14T18:44:32+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "4cc466512fcf",
-          "title": "Cavaliers Battle Illnesses as They Lead Series 3-2",
-          "original_title": "The Athletic reports the Cavaliers are dealing with illnesses going through the locker room as they go up 3-2. \u201cSam Merrill was violently ill on the off day between games 4 and 5, as a stomach bug (different from Atkinson\u2019s upper respiratory bug) is also coursing through the team.\u201d",
-          "summary": "The Cleveland Cavaliers are coping with a stomach bug that has affected multiple players, including Sam Merrill, who was violently ill between Games 4 and 5. Despite the health setback, the team remains up 3\u20112 in the Eastern Conference semifinals and is aiming for its first conference\u2011final appearance since 2018.",
-          "key_points": [
-            "A stomach virus is circulating in the locker room, separate from the respiratory bug that sidelined Caris LeVert (Atkinson).",
-            "Sam Merrill was severely ill on the off\u2011day, but the team still secured a win to take a 3\u20112 series lead.",
-            "The illness adds a challenge as the Cavs attempt to defend home court and reach the conference finals."
-          ],
-          "link": "https://www.reddit.com/r/nba/comments/1td74qy/the_athletic_reports_the_cavaliers_are_dealing/",
-          "source": "Reddit r/nba",
-          "published": "2026-05-14T18:37:48+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "8a008e361087",
-          "title": "Knicks Await Winner of Cavs\u2011Pistons Series Ahead of ECF",
-          "original_title": "Should the Knicks want to face the Cavaliers or the Pistons? Breaking down the matchups with ECF looming",
-          "summary": "After sweeping the Philadelphia 76ers, the New York Knicks are rested and preparing for the Eastern Conference Finals. They will face either the Cleveland Cavaliers or the Detroit Pistons, depending on which team advances from their tightly contested series.",
-          "key_points": [
-            "Knicks are coming off a four\u2011game sweep and have extra rest before the ECF.",
-            "The upcoming opponent is undecided, pending the outcome of the Cavaliers\u2011Pistons series.",
-            "Matchup analysis focuses on how the Knicks' style will align against either Cleveland\u2019s depth or Detroit\u2019s physicality."
-          ],
-          "link": "https://www.cbssports.com/nba/news/cavaliers-vs-pistons-knicks-matchup-ecf-nba-playoffs/",
-          "source": "CBS Sports NBA",
-          "published": "2026-05-14T17:58:48+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "081150a1366c",
-          "title": "Cavaliers Secure OT Win Over Pistons; Wembanyama Shines in West",
-          "original_title": "Cavs lock down Cade in OT win, Wemby wows in the West + NBA news & Draft Combine check-in",
-          "summary": "Kevin O'Connor and Tom Haberstroh recap the Cavaliers' overtime victory that locked down Cade Cunningham and gave Cleveland a 3\u20112 edge in the series. The same episode also highlights Victor Wembanyama's dominant performance in the Western Conference semifinals.",
-          "key_points": [
-            "Cavaliers win in overtime, with Cade Cunningham playing a pivotal role on both ends.",
-            "Series now stands at 3\u20112 in favor of Cleveland, moving them closer to the conference finals.",
-            "Victor Wembanyama continues to impress, bolstering the Timberwolves\u2011Spurs matchup."
-          ],
-          "link": "https://sports.yahoo.com/nba/article/cavs-lock-down-cade-in-ot-win-wemby-wows-in-the-west--nba-news--draft-combine-check-in-175328718.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-14T17:53:28+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "78a07bc8ecbf",
-          "title": "2026 NBA Draft Combine Showcases Elite Prospects",
-          "original_title": "2026 NBA Draft Combine: Measurements of star players, notes on standout performances",
-          "summary": "The NBA Draft Combine featured detailed measurements and drills for top prospects such as AJ Dybantsa, Darryn Peterson, and Cameron Boozer. Their performances provided early indicators of draft stock ahead of the upcoming 2026 NBA Draft.",
-          "key_points": [
-            "AJ Dybantsa, Darryn Peterson, and Cameron Boozer posted notable measurements and athletic results.",
-            "Scouts highlighted each prospect's strengths and areas for development during the combine drills.",
-            "The combine data is expected to influence team strategies and draft positioning."
-          ],
-          "link": "https://sports.yahoo.com/articles/2026-nba-draft-combine-measurements-172321619.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-14T17:23:21+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "a03520ef7a47",
-          "title": "J. Kyle Mann Observes Sam Presti\u2019s Intense Focus at Draft Combine",
-          "original_title": "J. Kyle Mann on the Draft Combine: \"Sam Presti is sitting there in the front row, wired ear buds... just intently staring... I'd get so distracted by, what is he staring at... these are just drills... He was the only guy in the room not having a conversation. All the other execs absolutely were\"",
-          "summary": "In a Ringer Group Chat podcast, J. Kyle Mann describes how Oklahoma City Thunder GM Sam Presti sat alone, intensely watching the Draft Combine drills without engaging in conversation. Mann notes Presti\u2019s singular focus contrasted with other executives who were more social.",
-          "key_points": [
-            "Sam Presti was observed alone in the front row, using wired earbuds and concentrating on the drills.",
-            "Other executives were chatting, making Presti\u2019s behavior stand out to Mann.",
-            "The anecdote underscores Presti\u2019s dedication to evaluating talent at the combine."
-          ],
-          "link": "https://www.reddit.com/r/nba/comments/1td4it0/j_kyle_mann_on_the_draft_combine_sam_presti_is/",
-          "source": "Reddit r/nba",
-          "published": "2026-05-14T17:08:43+00:00",
-          "topic": "NBA League News"
         }
       ]
     },
@@ -276,36 +276,78 @@
       "name": "Lakers Players",
       "articles": [
         {
+          "id": "dc6f337b384f",
+          "title": "Kendrick Perkins Slams Luka Doncic\u2019s Play",
+          "original_title": "Kendrick Perkins has harsh criticism of Lakers' Luka Doncic - MSN",
+          "summary": "Former NBA player Kendrick Perkins delivered a scathing critique of Luka Doncic, calling his recent performances disappointing. Perkins\u2019 comments were shared in an MSN interview and quickly circulated on social media.",
+          "key_points": [
+            "Perkins described Doncic\u2019s play as \u201cunderwhelming\u201d and \u201cnot living up to expectations.\u201d",
+            "The criticism focused on Doncic\u2019s shooting efficiency and decision\u2011making in recent games.",
+            "No response from the Lakers or Doncic\u2019s camp was reported at the time."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMDdDNWRxVGNtVWN4VTliU3JlUFNHTHFiVmt0NE8zN0xFbk92TkZCQzlnX1plZERRUkdGbVE3ci14dDR5T3BjcGVsaVZVSzk4RTFEZ2RiUlFEelVvbG8tQk1lVFdJQXFFV1NDc0FXM3dDS2pRZ1pOc21hWTBJc21hSHEzRkNHZkg2MEE1OFp2bEZxRXVkNVJ1RGU5WjY4eDQwaFV0bERfVGsxTFJ3Rm9vdV9FQ0VHYzFnVm8zNUE4UXhZTW9BUkIzcmVNZ01ISXVXNkhnWmdkdmJhVW5WSF9Wd2tsTFNjdGpwWnFvUw?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-05-14T20:49:44+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "01908517e3fe",
+          "title": "Lakers Show Interest in Retaining Marcus Smart",
+          "original_title": "Lakers Reportedly Interested in Keeping Marcus Smart - Sports Illustrated",
+          "summary": "According to Sports Illustrated, the Los Angeles Lakers are actively exploring options to keep guard Marcus Smart beyond his current contract. The front office reportedly values his defensive versatility and leadership for the team\u2019s next season.",
+          "key_points": [
+            "Smart\u2019s contract is set to expire after the 2024\u201125 season.",
+            "Lakers executives are evaluating both a contract extension and potential trade scenarios.",
+            "Smart\u2019s impact on the Lakers\u2019 perimeter defense is highlighted as a key factor."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeXZ0dnFSWHRFMHhzeWNUNlhkS0dDSUY4Y2tpZGZGWmxkUWg4VzFnMy1IWWx5UFhtUGNxNVFfWjN3TUdBNkUtNDl2TWpLb0ZiT01vZUpVZDJibWxvZGotdFB3RHM4SWlQbjA1cU5tbG14dnJIaE5Idkhudi05Y3RYek5RbUREVWFtdmJBaA?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-05-14T20:20:23+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "d5a8866f5613",
+          "title": "Drake\u2019s New Track Targets LeBron James Amid Kendrick Lamar Feud",
+          "original_title": "Drake Delivers Devastating Blow to LeBron James Amid Kendrick Lamar Feud - Yahoo",
+          "summary": "Yahoo reports that rapper Drake released a song containing a lyric that appears to criticize LeBron James, coinciding with a public spat between Drake and Kendrick Lamar. The lyric suggests James might consider \u201cswitching teams,\u201d fueling speculation about off\u2011court drama.",
+          "key_points": [
+            "The lyric was interpreted as a jab at LeBron\u2019s loyalty to the Lakers.",
+            "The release follows a broader feud between Drake and Kendrick Lamar over music collaborations.",
+            "Neither Drake nor LeBron James has publicly commented on the lyric."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaDhKT003aXhlQm92S3p2OGlNeENHUVVOcndGU0xaUWttTDJyakFEUnBCZm9HaWloZGFDVW9VRWVvUzRVUXZOSmM5UGpvRkI3QXNkN0libS1ZTEF1T0NRTkdEbHU2UXNRaEFia1B2UlpKSkYxSVpsVTI4Qks1UnFGYzFoLVNwXzRsUk5wWVdTaXRaZ25ZT2hvRXBQSkRydFk?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-14T19:09:29+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "03fcfb902967",
+          "title": "NBA Insider Criticized for Inaccurate Luka Doncic/LeBron Narrative",
+          "original_title": "\u201cNot Accurate\u201d: NBA Insider Under Fire for False Narrative Around Luka Doncic & LeBron James - Yahoo Sports",
+          "summary": "Yahoo Sports highlighted backlash against an NBA insider who propagated a false storyline linking Luka Doncic and LeBron James. Critics labeled the narrative \u201cnot accurate,\u201d demanding better fact\u2011checking from the outlet.",
+          "key_points": [
+            "The disputed narrative suggested a secret alliance or trade talk between the two stars.",
+            "Multiple analysts and insiders refuted the claim, citing a lack of credible sources.",
+            "The incident raised concerns about misinformation in NBA reporting."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX0Utb19GR0IxTHREQW5aTW5KQnQ0NTVXTDRGdzRheGRpaXJwU2lWVW9fRDhEVl84Q3Q2SVFMR0owYTMtQjk1a2M4QmY5X1BxOUpsNjVNTFkxNnFpUHBudFRwTGpDZy1JaTRrekxZYzdVNndleDlkaWc2LTlxeEVCQllBZ2h1QQ?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-05-14T18:59:39+00:00",
+          "topic": "Lakers Players"
+        },
+        {
           "id": "bd4933e29981",
-          "title": "LeBron James may be target of apparently leaked Drake song featuring \u2018switching teams\u2019 lyric - Fox News",
+          "title": "LeBron James Potential Target of Leaked Drake Song Lyric",
           "original_title": "LeBron James may be target of apparently leaked Drake song featuring \u2018switching teams\u2019 lyric - Fox News",
-          "summary": "LeBron James may be target of apparently leaked Drake song featuring \u2018switching teams\u2019 lyric&nbsp;&nbsp;Fox News",
-          "key_points": [],
+          "summary": "Fox News reported that a leaked Drake track includes a line about \u201cswitching teams,\u201d which many believe references LeBron James. The lyric has sparked conversation about possible NBA\u2011related themes in Drake\u2019s music.",
+          "key_points": [
+            "The lyric\u2019s wording implies a possible move or trade involving LeBron.",
+            "No official confirmation from Drake or the Lakers has been made.",
+            "The story adds to ongoing speculation about celebrity influence on NBA narratives."
+          ],
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbk5KLWVMd2pwMnEwU0pha1g3cHhjMWo2NWhHZGtoWEdhNVcyMjZoRjR2d2tkSnhRU29VWW56X1puM2pEVXBraVRMeDBRY2RUVVVleWh5bTEzWmxNUE9jSVkyajUtMjd1VjYtUTJxMjlPcXFSYW1NX1NYVnF5Sm1DblgydGsyY3Z0Y1VkdHJja25Fdi1VMkVLcTg2b1czU1dXd0taVE9MVHByMWRpdy1rVTJrX0lWUdIBuwFBVV95cUxQNFJQdGRWU0Y2eFJLX2d6UW02Y3dTYjJ2WFJvbTRTZ1hRM3k4NDVDNU9HRFlwOEtfX2NJWXpYSU1vZ1V1bTRJbGwtYXZGVTJEWmwwZ3hOWUVxeUlUVjFUdjlIZWtkTlpmT2RPeDh1X0dsa19SLVVWZVAwWkhhR19nZXZKSXpjUVY0Y2JycFV1YmhVSGdGLXZKUEdOc0U2cVZIcVNody1JSS0wVFRfM3NTOVNzcVpGLUtjaExj?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-05-14T17:48:46+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "53a60be22a37",
-          "title": "Gilbert Arenas thinks it's 'dumb' to hate Lakers' Luka Doncic for Austin Reaves-Giannis trade request - ClutchPoints",
-          "original_title": "Gilbert Arenas thinks it's 'dumb' to hate Lakers' Luka Doncic for Austin Reaves-Giannis trade request - ClutchPoints",
-          "summary": "Gilbert Arenas thinks it's 'dumb' to hate Lakers' Luka Doncic for Austin Reaves-Giannis trade request&nbsp;&nbsp;ClutchPoints",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQWJxbEIwNDBEc1FSb2tuXzhIQkZSZHh2dWRzUzdSTnFUS1ZfMDl2Vzl4OHMtZnMxdi1iOUp4ZnNUa2RHcVZabGxBeE1SajlEQ3pMVnB5dGlyLWVJd05hN0hrblA2VUhkWFNWdjRJXzAzcEIwd19oYlNManlWQ3Vnb3ZjRFpYVkxUQ0kwNDFMcWhBV21DX2Y5NWNhWU9PY056RUdyMnZRRVFTeHdKV3dMTjB5WGNXWG1Xa09LbjV3eS13OXFRMXR1bzZ0WmY?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-05-14T17:35:59+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "c40d9caed047",
-          "title": "This is what Drake did with his LeBron James tattoo after Kendrick Lamar drama - Yahoo",
-          "original_title": "This is what Drake did with his LeBron James tattoo after Kendrick Lamar drama - Yahoo",
-          "summary": "This is what Drake did with his LeBron James tattoo after Kendrick Lamar drama&nbsp;&nbsp;Yahoo",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWUF0UElMWDF5T0s1aEh5Q1N5blgzcHF0TEk2MmYyVk1VWEZpckNtTHlRV2dpaFNpX1NkZW1vMnNidmdzMWhhQkNVN0hkb1NQT192dXllb2pJQ3NUQndnb0V4eTh0WHJKVDk3c3k2Rkp5cFpGdWlHTS1lMGZYQU0wNjFxd2ZacTIwSzNVMXB0d00zM3lDeWlmQUhwR1U5X1ct?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-14T17:34:55+00:00",
           "topic": "Lakers Players"
         },
         {
@@ -331,78 +373,36 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "a5aad4ae8359",
-          "title": "Luka\u202fDoncic & Mark Walter Keep in Regular Contact, Lakers Rumors Say",
-          "original_title": "Lakers Rumors: Luka Doncic & Mark Walter Have \u2018Regular\u2019 Communication - Lakers Nation",
-          "summary": "According to Lakers Nation, Dallas Mavericks star Luka\u202fDoncic and Los Angeles Lakers owner\u2011partner Mark Walter have been communicating on a consistent basis. The dialogue is reportedly focused on potential future roster moves and the broader NBA landscape, not any immediate trade speculation. Both parties emphasized that the conversations are informal and exploratory.",
-          "key_points": [
-            "Doncic and Walter have maintained ongoing, informal talks.",
-            "Discussions center on long\u2011term NBA scenarios, not a specific trade.",
-            "Lakers Nation notes the communication is \u201cregular\u201d but not indicative of imminent action."
-          ],
+          "id": "0af988534c42",
+          "title": "Luka Doncic enjoying key aspect with Lakers owner Mark Walter - Lakers Nation",
+          "original_title": "Luka Doncic enjoying key aspect with Lakers owner Mark Walter - Lakers Nation",
+          "summary": "Luka Doncic enjoying key aspect with Lakers owner Mark Walter&nbsp;&nbsp;Lakers Nation",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVTdGeG9Oc3N0TmU5czFqV0VaUmxUNDZvSjllTlhyOXBrWU5MbVVEOUp4RHNoNkJQYVJYX3N0RURkc2oyNGNMY1VyaUtiWDZ0Z1lNS0NSaDBMazlkNWxxNUxDcnJST3NQWVNubFJjbWd1RHdnSmIzcXdjSFRBay1SbXZFVS1EQXZJd3VrOHJZa2Qwek9T?oc=5",
           "source": "Google News - Luka",
-          "published": "2026-05-14T16:11:45+00:00",
+          "published": "2026-05-14T16:40:45+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "948dbc0290e0",
+          "title": "LeBron James next team predictions: Lakers ready to dive into Luka Doncic era, but will James return? - CBS Sports",
+          "original_title": "LeBron James next team predictions: Lakers ready to dive into Luka Doncic era, but will James return? - CBS Sports",
+          "summary": "LeBron James next team predictions: Lakers ready to dive into Luka Doncic era, but will James return?&nbsp;&nbsp;CBS Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeDlvbE5la0M0aUJxUVZSQzV1VDh4a21lWkpXTWg1YndaZ3FTQ3p1YVptZHR4cGRyRzJQSFpYREtVeklrN0xzQWd2d3VvVllENjNuZFRIU1JkWDA5TUpuMlU1RXhhdnJiTEhwdXg5cEUyMVUyRVJDdGwyXzRPUkhfYUswZmJENm9Jczh4a2x3R2FkU3J1a0s2dTh1Zzg3eEVrRDUySFQ0ODV1MU11cUFpdEVORzVKUUJvWGNEMmhzbmxUS3BDSWZSS0RpZGZhTDJJSm80RA?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-05-14T15:41:44+00:00",
           "topic": "Lakers Players"
         },
         {
           "id": "918de1c0d2d2",
-          "title": "Lakers Must Move LeBron James for Luka\u202fDoncic\u2019s Ideal Future",
+          "title": "Lakers need LeBron James to leave if they want perfect Luka Doncic future - Lake Show Life",
           "original_title": "Lakers need LeBron James to leave if they want perfect Luka Doncic future - Lake Show Life",
-          "summary": "Lake Show Life argues that for Luka\u202fDoncic to achieve his maximum potential, the Los Angeles Lakers would need to part ways with LeBron James. The piece suggests that James\u2019 contract and on\u2011court role limit roster flexibility and could hinder the team\u2019s ability to build a supporting cast around Doncic.",
-          "key_points": [
-            "Author contends James\u2019 $50\u202fmillion contract restricts cap space.",
-            "A trade or departure of James is presented as a prerequisite for a Doncic\u2011centric roster.",
-            "The article does not cite concrete trade proposals, focusing on a strategic viewpoint."
-          ],
+          "summary": "Lakers need LeBron James to leave if they want perfect Luka Doncic future&nbsp;&nbsp;Lake Show Life",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ05Ycld1cWJTV18zMVZtWkxYYUlMREZnRXFUSFg5Tml0WkdoZlpGUmdlSzMwOThtRFNRaDZ6Ml9Tb1ZHM2VUTTh2ekZlMUFDcDhqdFpYdUNiUUhnLWp6M25pdmhhczg2RUV4QW5oZGhzdWNDc3dQS3dFZUJTaVdRTDVBYjBZelkwQm9rMUZqNThWZ3VBTTRSY2Fzc1lyQk5hVGtHRVhGd1dCSzhHandr?oc=5",
           "source": "Google News - Luka",
           "published": "2026-05-14T15:00:03+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "5f3ca37c9bb2",
-          "title": "LeBron\u2011Doncic Beef Rumor Debunked by Multiple Insiders",
-          "original_title": "Lakers rumors: Alleged LeBron James-Luka Doncic beef immediately shot down by multiple insiders - Yahoo Sports",
-          "summary": "Yahoo Sports reports that recent rumors of a personal feud between LeBron James and Luka\u202fDoncic have been quickly refuted by several sources close to the players. Insiders confirm that both athletes have a professional respect for each other and that no tension exists behind the scenes.",
-          "key_points": [
-            "Multiple insiders deny any conflict between James and Doncic.",
-            "Both players are described as maintaining a professional relationship.",
-            "The rumor appears to have originated from speculative media chatter."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdVU2M2tJREprYThwQVBrVE1DNExxVTVuMmFsVW1HYXkzdDRCc3hwYXdqRm9SNzlCOExSVU5SWHlJSUFndzNWWVU2R0FVTEF1NUtlQ0d6UHdmdEJ6eVVVY1dGX2NUT0tqOXBVZmloZ1N4bGx6bVdqNEloU3cxX0V5MUE3N25uZGFtOXVr?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-05-14T14:09:54+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "9b9ed6ea258d",
-          "title": "New LeBron Rumors Detail Lakers\u2019 Stance on $50M Deal, Pay Cut, and Free Agency",
-          "original_title": "New LeBron Rumors Reveal Lakers and James' Stance on $50M Contract, Pay Cut and NBA Free Agency - Bleacher Report",
-          "summary": "Bleacher Report compiles recent reports about LeBron James\u2019 contract situation, indicating the Lakers are open to a reduced salary or a new deal if James returns after his hiatus. The article outlines possible scenarios, including a pay cut, a veteran minimum contract, or James opting for free agency, while emphasizing the team\u2019s desire to retain him.",
-          "key_points": [
-            "Lakers are reportedly willing to discuss a pay cut or new contract structure for James.",
-            "Potential options include a veteran\u2011minimum deal or James entering free agency.",
-            "The organization\u2019s priority is to keep James on the roster while managing cap flexibility."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQelk4VnBkVVlER0VIUkpNeTBuMXJvTUpuMlBNWUtwcVVvX3RjZG5GeTZSalBNTjVrUUtLNlJJcldQbXRUeURCUmh1ajJBR2dkajhNQVdKaXpyemhNdGU0TkRNSDg0ZHN5QVZLVDZSSjktVDFyTGJBZWhUYWN2X0VROEZKS1JXZ3Rtc1FHTHpHbUtqZktLbXVoTDNibjdRM2tZYk9FM1NkMVdjN0Jmd0hQLUFiV0pkRkYxZXNnWWlqenBERVlNRVNBWW8tVzcyVW8?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-14T13:56:28+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "f1e7569e5625",
-          "title": "Forecasting LeBron James\u2019 Next Contract: Potential Earnings if He Returns",
-          "original_title": "Forecasting LeBron James' next contract: How much will The King make if he returns? - CBS Sports",
-          "summary": "CBS Sports analyzes the financial outlook for LeBron James should he decide to come back to the NBA, projecting a range of possible salaries based on market trends, cap space, and the Lakers\u2019 payroll. The piece estimates that James could earn between $40\u202fmillion and $50\u202fmillion annually, depending on contract length and structure.",
-          "key_points": [
-            "Projected salary range for James\u2019 next deal: $40\u2011$50\u202fmillion per year.",
-            "Analysis factors include cap space, market comparables, and Lakers\u2019 payroll.",
-            "The report outlines scenarios for both short\u2011term and multi\u2011year contracts."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUMlFVVGtKX1BkZkdncHdoNlRpOEZRWmV4UHFab2lEbDdBcGg1RDBvMTV6SUtMTDAzR0c1b2Y4QU5nMDRmWG50NG9qQ25rczlQYUlJbmlxZGdmS2Vja1hnMWFPN0x6bTJZTF9hOEk4WC1VVmlkV3V5M1Qwbw?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-14T12:57:00+00:00",
           "topic": "Lakers Players"
         }
       ]
