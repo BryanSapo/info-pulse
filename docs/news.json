@@ -1,10 +1,107 @@
 {
-  "generated_at": "2026-05-15T17:37:38.553881+00:00",
+  "generated_at": "2026-05-15T19:49:36.452866+00:00",
   "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
+        {
+          "id": "6f962be7fb9e",
+          "title": "Lakers GM Rob Pelinka outlines roster plan around Luka Doncic",
+          "original_title": "What Specific Types Of Players Do Lakers Want To Surround Luka Doncic With?",
+          "summary": "In his end\u2011of\u2011season press conference, Lakers general manager Rob Pelinka said the front office intends to build the team around superstar Luka\u202fDoncic this offseason. The organization acknowledges Doncic\u2019s elite status and is focused on surrounding him with complementary talent.",
+          "key_points": [
+            "Pelinka confirmed the Lakers\u2019 strategy is to construct the roster with Doncic as the centerpiece.",
+            "The team will target players who can maximize Doncic\u2019s strengths in scoring, playmaking, and defense.",
+            "Lakers executives view Doncic as a franchise\u2011changing talent worth investing around."
+          ],
+          "link": "https://lakersnation.com/what-specific-types-of-players-do-lakers-want-to-build-around-luka-doncic/",
+          "source": "Lakers Nation",
+          "published": "2026-05-15T19:15:45+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "7dfb1976c0ef",
+          "title": "James Worthy delivers blunt verdict on Deandre Ayton\u2019s future with Lakers",
+          "original_title": "James Worthy gives brutal verdict on whether LA Lakers should keep Deandre Ayton - Yahoo Sports",
+          "summary": "Former Lakers star James Worthy weighed in on whether the team should retain center Deandre Ayton, offering a harsh assessment of his fit and performance. Worthy\u2019s comments suggest skepticism about Ayton\u2019s role in the franchise\u2019s upcoming plans.",
+          "key_points": [
+            "Worthy criticized Ayton\u2019s impact and questioned his suitability for the Lakers\u2019 system.",
+            "He implied that keeping Ayton may not align with the team\u2019s competitive timeline.",
+            "The remarks add to ongoing speculation about roster moves involving the center."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU1VHaHFxMEREcDdtR0tzdmV4U0hiWHh1YnN5Y1hDSXBNbWtqZk9yUmtKRk52UjByOTZlb1B3NUZ0eE9yYWY1V0x4eEItcEh6TUVKaGNXVEVnaDU3VzBLaHFnc0dYUWxLeTNOQU11Z19HaUdPQUJvYlN5MGt1Mi1lOUprOHZ3eTFxNWc?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-15T18:30:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "7ef5e00ce76a",
+          "title": "Lakers begin major renovation of practice facility, adding medical and recovery labs",
+          "original_title": "The Lakers are renovating their practice facility with new medical and recovery labs",
+          "summary": "Under new majority owner Mark Walter, the Lakers are upgrading their practice complex with state\u2011of\u2011the\u2011art medical and recovery laboratories. The renovations are part of broader organizational changes that also include new front\u2011office hires such as Lon Rosen as President of Business Operations.",
+          "key_points": [
+            "The facility upgrade will feature advanced sports\u2011medicine and recovery equipment.",
+            "Mark Walter\u2019s ownership group is accelerating both on\u2011court and off\u2011court improvements.",
+            "Additional front\u2011office appointments signal a comprehensive restructuring effort."
+          ],
+          "link": "https://www.silverscreenandroll.com/lakers-news/117418/lakers-medical-recovery-labs-coachella-valley-practice-facility-mark-walter-rob-pelinka",
+          "source": "Silver Screen and Roll",
+          "published": "2026-05-15T18:18:41+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "cc442bfa1d9f",
+          "title": "Lakers practice complex to receive new medical and recovery labs",
+          "original_title": "The Lakers are renovating their practice facility with new medical and recovery labs - Silver Screen and Roll",
+          "summary": "The Lakers announced a renovation of their practice site that will incorporate modern medical and recovery laboratories. The upgrade aims to enhance player health, injury prevention, and overall performance support.",
+          "key_points": [
+            "Renovation includes dedicated spaces for injury assessment, rehabilitation, and performance monitoring.",
+            "The project reflects the organization\u2019s commitment to player wellness.",
+            "Details on timeline and budget were not disclosed."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNal9palJHU3BSb0hWcUx6YjR5MjJvel82STlLLU51bkRhd056WkxvUTVmNE1Ub3VxR05FUDhzQjhmakFkYlIxMVFxU0ZSbDVIczR4SGI4SUZNVkFoN1NhaXZYbHBBdEgxRi13M2h5WVBUUzM4YU05ZVZTdEE2YzBXQ3NfNU9tUjlxOVp4ek5WbGQyeUJDNTJRZVhDNFpTdzFTYXpiWkpJS2Vyd1JiTU83WUxFVThiVVdLZ3cwQ3N0YmVpUmpyZ2ZQTTRLV0lfS1JWN1h1cjlLNEFGZw?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-15T18:18:41+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "03151d50f924",
+          "title": "Reddit thread highlights biggest regular\u2011season\u2011to\u2011playoffs PPG jumps",
+          "original_title": "Highest PPG jump from reg season to playoffs :",
+          "summary": "A Reddit post compiled players who posted the largest increases in points per game from the regular season to the playoffs, noting several notable jumps such as Cade Cunningham\u2019s +6.1 PPG. The list underscores how certain players elevate their scoring in postseason play.",
+          "key_points": [
+            "Cade Cunningham led the list with a 6.1\u2011point increase (23.9 \u2192 30.0 PPG).",
+            "Scottie Barnes and Rui Hachimura each posted a 6.0\u2011point rise.",
+            "The data reflects which players have historically stepped up offensively in the playoffs."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1te4doq/highest_ppg_jump_from_reg_season_to_playoffs/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-15T18:12:04+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "9fa75bde2c3d",
+          "title": "Potential Austin Reaves Free Agent Suitors Beginning To Emerge",
+          "original_title": "Potential Austin Reaves Free Agent Suitors Beginning To Emerge",
+          "summary": "Austin Reaves will be one of the most sought after free agents this summer and is line for a massive pay increase after making just under $14 million this season. Reaves is coming off a career year with the Los Angeles Lakers and while the team has been open about their desire to bring him [&#8230;]",
+          "key_points": [],
+          "link": "https://lakersnation.com/potential-austin-reaves-free-agent-suitors-beginning-to-emerge/",
+          "source": "Lakers Nation",
+          "published": "2026-05-15T18:00:44+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "2b788581905a",
+          "title": "Watch: LeBron James Tells Alex Caruso To \u2018Go Get Another\u2019 Championship",
+          "original_title": "Watch: LeBron James Tells Alex Caruso To \u2018Go Get Another\u2019 Championship",
+          "summary": "Even though the Los Angeles Lakers fought hard every night, in the end they simply didn\u2019t have enough to keep up with the defending NBA Champion Oklahoma City Thunder. While the series did end in a sweep, the Lakers represented themselves well, making things extremely tough on reigning MVP Shai Gilgeous-Alexander while LeBron James did [&#8230;]",
+          "key_points": [],
+          "link": "https://lakersnation.com/lakers-video-lebron-james-tells-alex-caruso-to-go-get-another-championship/",
+          "source": "Lakers Nation",
+          "published": "2026-05-15T16:40:56+00:00",
+          "topic": "Lakers News"
+        },
         {
           "id": "073cb5a3ccc5",
           "title": "JJ Redick\u2019s comments on depth, continuity are revealing for Lakers offseason",
@@ -28,91 +125,14 @@
           "topic": "Lakers News"
         },
         {
-          "id": "e3d4dd92d2f4",
-          "title": "Stan Van Gundy explains why Lakers trading for Antetokounmpo will be bad for Luka Doncic - hitc.com",
-          "original_title": "Stan Van Gundy explains why Lakers trading for Antetokounmpo will be bad for Luka Doncic - hitc.com",
-          "summary": "Stan Van Gundy explains why Lakers trading for Antetokounmpo will be bad for Luka Doncic&nbsp;&nbsp;hitc.com",
+          "id": "e3a56a9fb65e",
+          "title": "Lakers\u2019 promise to Luka Doncic seems to make Marcus Smart a lock to return - Lake Show Life",
+          "original_title": "Lakers\u2019 promise to Luka Doncic seems to make Marcus Smart a lock to return - Lake Show Life",
+          "summary": "Lakers\u2019 promise to Luka Doncic seems to make Marcus Smart a lock to return&nbsp;&nbsp;Lake Show Life",
           "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUmtnSVp5WGtnenBpQ2J1MVAxcElER0VxVkpqNWlsZE9qd3dDUi1xTmZuNUlGV3MwSXNmTWZvenBQWTIzR21paWsyeVFFWEF5bzZBM3k0UnBlMGRTMWFfX2VOU192RHp6WTRqTlVBQmxRQ08tUzhRNUdDdmlOZGg2SHVyWFdiUlVWMk94aXBMWDdSVWthLWVpYnlXZWNLbHNxUTF3MWx3aWd6UTVsSm9V?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWS1iUVFaX2FhTVBHSlFSNUNPWHV5d3RDTWxnVW5kV2FaWmFkUGE1ZExWVGR0MnhKRVhJTnZjQlU1ZXpFZElDSlVxdFpFZ0lMM1BIUU1fSmpJeDB6bnlxVWpZYTNObmppZkZzOUZoZnBzTDBYZ1BEY01uX3hKVkZSNlh5WC1fNlFXNEROMFllR0FXQjg?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-05-15T15:45:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "2b788581905a",
-          "title": "Watch: LeBron James Tells Alex Caruso To \u2018Go Get Another\u2019 Championship",
-          "original_title": "Watch: LeBron James Tells Alex Caruso To \u2018Go Get Another\u2019 Championship",
-          "summary": "Even though the Los Angeles Lakers fought hard every night, in the end they simply didn\u2019t have enough to keep up with the defending NBA Champion Oklahoma City Thunder. While the series did end in a sweep, the Lakers represented themselves well, making things extremely tough on reigning MVP Shai Gilgeous-Alexander while LeBron James did [&#8230;]",
-          "key_points": [],
-          "link": "https://lakersnation.com/lakers-video-lebron-james-tells-alex-caruso-to-go-get-another-championship/",
-          "source": "Lakers Nation",
-          "published": "2026-05-15T15:40:56+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "c7d95b85ea17",
-          "title": "10 year Old Kobe Bryant in Italy",
-          "original_title": "10 year Old Kobe Bryant in Italy",
-          "summary": "      &#32; submitted by &#32;  /u/CircledSquare7   [link] &#32; [comments] ",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/lakers/comments/1tdzx8e/10_year_old_kobe_bryant_in_italy/",
-          "source": "Reddit r/lakers",
-          "published": "2026-05-15T15:36:18+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "21f605917502",
-          "title": "Rob and JJ end of season press conference.",
-          "original_title": "Rob and JJ end of season press conference.",
-          "summary": "      &#32; submitted by &#32;  /u/Thegoodking666   [link] &#32; [comments] ",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/lakers/comments/1tdzwcp/rob_and_jj_end_of_season_press_conference/",
-          "source": "Reddit r/lakers",
-          "published": "2026-05-15T15:35:25+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "993bf20bcb10",
-          "title": "Jarred Vanderbilt Details Quick Recovery From Dislocated Finger",
-          "original_title": "Jarred Vanderbilt Details Quick Recovery From Dislocated Finger",
-          "summary": "In Game 1 of the Los Angeles Lakers\u2019 second-round series against the Oklahoma City Thunder, forward Jarred Vanderbilt suffered an awful injury. While trying to block a shot, Vanderbilt\u2019s right pinky got caught on the backboard, leading to a full dislocation of the finger with the bone breaking the skin which caused many on the [&#8230;]",
-          "key_points": [],
-          "link": "https://lakersnation.com/jarred-vanderbilt-details-quick-recovery-from-dislocated-finger/",
-          "source": "Lakers Nation",
-          "published": "2026-05-15T14:30:38+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "0b633adb67e2",
-          "title": "Lakers Will \u2018Demand\u2019 Answer From LeBron James Soon - heavy.com",
-          "original_title": "Lakers Will \u2018Demand\u2019 Answer From LeBron James Soon - heavy.com",
-          "summary": "Lakers Will \u2018Demand\u2019 Answer From LeBron James Soon&nbsp;&nbsp;heavy.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZUxlWTA2eGZaRnZVTjdRbmItWldaSDRGUHdGb0Q3a09KZGNORm5xTWVVOXlmeHloR2p2X0lIVngwV3NSc080NERVaUp6QUltc1REVTNmazVpSTVGWGlORmJOUVhhdmZnWjFDWkdGNjZhQmloSU1MbDlGSFVlQW44THFkdDg?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-15T14:22:57+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "86eda13d49aa",
-          "title": "Daily Lakers Offseason Discussion Thread",
-          "original_title": "Daily Lakers Offseason Discussion Thread",
-          "summary": "Lakers season is over. Talk about whatever you want.  &#32; submitted by &#32;  /u/AutoModerator   [link] &#32; [comments]",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/lakers/comments/1tdx972/daily_lakers_offseason_discussion_thread/",
-          "source": "Reddit r/lakers",
-          "published": "2026-05-15T14:00:53+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "ca801e42d20a",
-          "title": "When Does Summer League Start?",
-          "original_title": "When Does Summer League Start?",
-          "summary": "I know he will be older than most but I am excited to see Thiero play against this years rooks. Also, is Bronny eligible to play this year? If he comes out strong I can totally see him being second guard off the bench to start the year.  &#32; submitted by &#32;  /u/bornlasttuesday   [link] &#32; [comments]",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/lakers/comments/1tdx6d5/when_does_summer_league_start/",
-          "source": "Reddit r/lakers",
-          "published": "2026-05-15T13:58:05+00:00",
+          "published": "2026-05-15T16:00:00+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -121,133 +141,153 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "3b861b0818c3",
-          "title": "Turner Says Rivers Never Issued Fines, Giannis Shows Up on His Own Schedule",
-          "original_title": "Turner: No fines from Rivers; Giannis always late",
-          "summary": "Myles Turner told listeners on his podcast that former Milwaukee Bucks coach Doc Rivers never fined players, and that Giannis Antetokounmpo typically decides his own arrival times for{\u200b} practice and meetings. The comments highlight the relaxed disciplinary approach under Rivers and the superstar\u2019s autonomy within the organization.",
+          "id": "a429afe9d335",
+          "title": "Mike Brown Hired to Lead Knicks Into Playoffs",
+          "original_title": "Mike Brown was hired to coach the Knicks for this moment. He has his team ready for it",
+          "summary": "Mike Brown was brought in by the New York Knicks with the expectation of guiding the team to the Eastern Conference finals. The organization dismissed the previous coach, Tom Thibodeau, immediately after hiring Brown, indicating confidence that the roster was already positioned for a deep postseason run.",
           "key_points": [
-            "Doc Rivers\u2019 coaching style did not involve monetary fines for players.",
-            "Giannis Antetokounmpo is known to attend practices and meetings at his discretion.",
-            "Turner\u2019s remarks provide insight into the Bucks\u2019 internal culture during Rivers\u2019 tenure."
+            "Brown hired specifically to capitalize on a roster primed for a win\u2011now push.",
+            "Knicks fired Tom Thibodeau right after the hire, signaling a clean break.",
+            "Management believes the team is already capable of reaching the Eastern Conference finals."
           ],
-          "link": "https://www.espn.com/nba/story/_/id/48777174/myles-turner-addresses-lack-discipline-doc-rivers",
-          "source": "ESPN NBA",
-          "published": "2026-05-15T18:21:42+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "a2d8be604163",
-          "title": "Spurs Legends Mentor Young Squad in \u2018Spurs Way\u2019 Initiative",
-          "original_title": "The familiar legends teaching the young Spurs: Why...",
-          "summary": "Former San Antonio Spurs greats\u2014including Popovich, Tim Duncan, Manu Gin\u00f3bili, and David Robinson\u2014are actively working with the team\u2019s inexperienced roster to instill the franchise\u2019s renowned culture and fundamentals. The mentorship program aims to accelerate player development and preserve the organization\u2019s identity.",
-          "key_points": [
-            "Veteran figures are conducting on\u2011court and off\u2011court sessions with the young players.",
-            "Emphasis is placed on fundamentals, teamwork, and the \u201cSpurs Way\u201d philosophy.",
-            "The effort seeks to bridge the gap between the franchise\u2019s storied past and its rebuilding future."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48770686/spurs-young-team-learns-san-antonio-legends-nba-playoffs",
-          "source": "ESPN NBA",
-          "published": "2026-05-15T17:57:20+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "eaa9421b6145",
-          "title": "Cavaliers\u2019 Win Over Pistons Sends Detroit to 60\u20111 Long\u2011Shot Status",
-          "original_title": "NBA Futures: Pistons now 60-1 long shots after Gam...",
-          "summary": "Cleveland\u2019s victory against Detroit dramatically shifted betting odds, turning the Pistons into a 60\u20111 underdog for the NBA Finals. The result underscores how a single game can reshape perceptions of a team\u2019s championship prospects.",
-          "key_points": [
-            "Cleveland\u2019s win widened the gap between the Pistons and the league\u2019s top contenders.",
-            "Oddsmakers now list Detroit as a 60\u20111 long shot to win the title.",
-            "The game\u2019s impact highlights the volatility of futures markets after key matchups."
-          ],
-          "link": "https://www.espn.com/espn/betting/story/_/id/45539787/2026-nba-finals-odds-mvp-2025-26-championship-betting",
-          "source": "ESPN NBA",
-          "published": "2026-05-15T17:56:03+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "aa9962f06e90",
-          "title": "Playoff Round Two Reactions and WNBA Updates from Yahoo Sports",
-          "original_title": "NBA Playoff Round Two Reactions + WNBA Check-Ins",
-          "summary": "Analysts Nekias Duncan and Steve Jones break down the pivotal Game 5s of the NBA conference semifinals, offering tactical insights and player evaluations. The segment also includes brief commentary on recent WNBA outcomes.",
-          "key_points": [
-            "Detailed analysis of Game 5 performances and series implications.",
-            "Discussion of coaching adjustments and key player contributions.",
-            "Quick recap of notable WNBA results and their relevance to the broader basketball landscape."
-          ],
-          "link": "https://sports.yahoo.com/nba/article/nba-playoff-round-two-reactions--wnba-check-ins-172402593.html",
+          "link": "https://sports.yahoo.com/articles/mike-brown-hired-coach-knicks-191137479.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-05-15T17:24:02+00:00",
+          "published": "2026-05-15T19:11:37+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "9777d1314a4b",
-          "title": "Offseason Guide: Draft, Free Agency, and Trade Targets for Every Eliminated Team",
-          "original_title": "Offseason guides: Draft, free agency, trade target...",
-          "summary": "The guide outlines potential strategies for teams that missed the playoffs, including the Orlando Magic, Boston Celtics, Denver Nuggets, and Golden State Warriors. It covers likely draft positions, free\u2011agency priorities, and trade scenarios to improve rosters ahead of the next season.",
+          "id": "f75a708686fd",
+          "title": "Jalen Duren Struggles on Second\u2011Chance Opportunities in Series",
+          "original_title": "[Haberstroh] \"Jalen Duren had the fourth most second chance points in the regular season, in this entire series he has not scored on second chance opportunities\"",
+          "summary": "Reddit user foofighter1351 highlighted that Jalen Duren, who ranked fourth in the league for second\u2011chance points during the regular season, failed to convert any second\u2011chance attempts in the current playoff series. The observation points to a notable drop in his offensive efficiency when the game is on the line.",
           "key_points": [
-            "Projected draft picks and scouting focuses for each eliminated franchise.",
-            "Suggested free\u2011agency targets based on roster needs and cap space.",
-            "Possible trade packages that could help teams accelerate their rebuilds or retooling efforts."
+            "Duren was 4th overall in regular\u2011season second\u2011chance points.",
+            "He has not scored on any second\u2011chance chances in the series.",
+            "The slump could impact his team's ability to finish possessions."
           ],
-          "link": "https://www.espn.com/nba/story/_/id/48432907/nba-offseason-2026-draft-free-agency-trade-targets-30-teams",
-          "source": "ESPN NBA",
-          "published": "2026-05-15T17:06:52+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "64d7576ac963",
-          "title": "Is Silver actually going to wait for the conference finals to announce the MVP?",
-          "original_title": "Is Silver actually going to wait for the conference finals to announce the MVP?",
-          "summary": "Is that the plan now? Waiting for the possibility of the two MVP candidates meeting in the playoffs?   &#32; submitted by &#32;  /u/Nightmare2207   [link] &#32; [comments]",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/nba/comments/1te2eyp/is_silver_actually_going_to_wait_for_the/",
+          "link": "https://www.reddit.com/r/nba/comments/1te5xqs/haberstroh_jalen_duren_had_the_fourth_most_second/",
           "source": "Reddit r/nba",
-          "published": "2026-05-15T17:04:06+00:00",
+          "published": "2026-05-15T19:07:17+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "0a6c2c00f03c",
-          "title": "NBA DFS, playoffs: Top DraftKings, FanDuel daily Fantasy basketball picks for May 15 include Jaden McDaniels",
-          "original_title": "NBA DFS, playoffs: Top DraftKings, FanDuel daily Fantasy basketball picks for May 15 include Jaden McDaniels",
-          "summary": "SportsLine's Mike McClure, a daily Fantasy pro with more than $2 million in winnings, gives optimal NBA DFS lineup advice for NBA playoff action on Friday, May 15",
-          "key_points": [],
-          "link": "https://www.cbssports.com/nba/news/nba-dfs-playoffs-top-draftkings-fanduel-daily-fantasy-basketball-picks-for-may-15-include-jaden-mcdaniels/",
+          "id": "9a4abc4d2080",
+          "title": "2026 NBA Draft Combine: Stock, Trades, and Strategy Outlook",
+          "original_title": "2026 NBA Draft Combine intel: Rumors and buzz on trades, draft stock and strategy coming out of Chicago",
+          "summary": "CBS Sports reports on the buzz surrounding the 2026 NBA Draft Combine in Chicago, covering prospects such as Malachi Moreno and Koa Peat, potential top\u201110 trades, and the possibility of Michigan\u2019s frontcourt trio breaking into the lottery. The article provides a snapshot of how teams are evaluating talent and maneuvering for draft positioning.",
+          "key_points": [
+            "Questions about Malachi Moreno\u2019s draft stock and Koa Peat\u2019s role.",
+            "Speculation on which teams might execute trades within the top ten picks.",
+            "Analysis of whether Michigan\u2019s frontcourt trio could push the program into lottery territory."
+          ],
+          "link": "https://www.cbssports.com/nba/news/2026-nba-draft-combine-intel/",
           "source": "CBS Sports NBA",
-          "published": "2026-05-15T17:02:32+00:00",
+          "published": "2026-05-15T19:03:59+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "d7f1cf2fabe4",
-          "title": "Food for thought? eBay user pays $9 million for pr...",
-          "original_title": "Food for thought? eBay user pays $9 million for pr...",
-          "summary": "The user paid $9,000,100 to win a private lunch with the Warriors star and legendary investor.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48778241/lunch-stephen-curry-9-million-warren-buffett-ebay-auction",
-          "source": "ESPN NBA",
-          "published": "2026-05-15T17:01:15+00:00",
+          "id": "186cc74e7eac",
+          "title": "Cade Cunningham: Playoffs\u2019 Most Valuable Player Despite No MVP Nomination",
+          "original_title": "Cade Cunningham isn't an MVP finalist, but he's the playoffs' most valuable player",
+          "summary": "CBS Sports notes that while Cade Cunningham is not listed among the regular\u2011season MVP finalists, his performances in the playoffs have made him the most valuable player for the Detroit Pistons. He carries a heavy burden and needs two more clutch games to keep the Pistons alive in the postseason.",
+          "key_points": [
+            "Cunningham is not an MVP finalist but is leading the Pistons in the playoffs.",
+            "He is shouldering the primary scoring and leadership responsibilities.",
+            "Two additional elimination\u2011game performances are needed for Detroit to advance."
+          ],
+          "link": "https://www.cbssports.com/nba/news/cade-cunningham-playoffs-most-valuable-player/",
+          "source": "CBS Sports NBA",
+          "published": "2026-05-15T18:57:31+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "e191797a56da",
-          "title": "2026 NBA Draft: Mountain West stock report",
-          "original_title": "2026 NBA Draft: Mountain West stock report",
-          "summary": "A pair of former Mountain West players competed in the NBA\u2019s G-League combine.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/2026-nba-draft-mountain-west-170000322.html",
+          "id": "7e1666f46232",
+          "title": "Gonzaga Bulldogs\u2019 NBA Impact: 2026 Playoffs Report",
+          "original_title": "Gonzaga Bulldogs in the NBA: 2026 Playoffs Report",
+          "summary": "Yahoo Sports highlights the NBA contributions of former Gonzaga players during the 2026 playoffs, noting a defending champion, a historic shooting streak, and a 35\u2011year\u2011old journeyman experiencing the best season of his career. The report underscores the diverse ways Gonzaga alumni are influencing the postseason.",
+          "key_points": [
+            "A former Gonzaga player is part of the defending NBA champion team.",
+            "Another alumnus is tied to a historic shooting streak in the playoffs.",
+            "A 35\u2011year\u2011old journeyman, also a Gonzaga product, is having his career\u2011best playoff run."
+          ],
+          "link": "https://sports.yahoo.com/articles/gonzaga-bulldogs-nba-2026-playoffs-184418735.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-05-15T17:00:00+00:00",
+          "published": "2026-05-15T18:44:18+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "0888f30c0f73",
-          "title": "Giannis Antetokounmpo trade rumors: Nine most likely destinations for Bucks star",
-          "original_title": "Giannis Antetokounmpo trade rumors: Nine most likely destinations for Bucks star",
-          "summary": "The Bucks are &quot;open for business,&quot; and the latest rumors are starting to fly. But where might Antetokounmpo land.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/giannis-antetokoumnpo-trade-rumors-nine-164746820.html",
+          "id": "21d32efa336d",
+          "title": "Record PPG Drop from Regular Season to Playoffs",
+          "original_title": "The Biggest PPG Drop From regular season to Playoffs in NBA history :",
+          "summary": "A Reddit post highlights the largest per\u2011game scoring declines in NBA playoff history for players with at least ten games. Wilt Chamberlain\u2019s 1961\u201162 regular\u2011season average of 50.4 points fell to 35.0 in the playoffs (\u201115.4), and Jalen Duren\u2019s 2025\u201126 numbers dropped from 19.5 to 10.1 (\u20119.4).",
+          "key_points": [
+            "Wilt Chamberlain holds the all\u2011time biggest playoff scoring drop (\u201115.4 PPG).",
+            "Jalen Duren recorded the second\u2011largest decline (\u20119.4 PPG) in the 2025\u201126 season.",
+            "Both declines are measured over a minimum of ten playoff games."
+          ],
+          "link": "https://www.reddit.com/r/nba/comments/1te5a64/the_biggest_ppg_drop_from_regular_season_to/",
+          "source": "Reddit r/nba",
+          "published": "2026-05-15T18:44:08+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "d1a3df34801e",
+          "title": "Danhausen, WWE\u2011Obsessed Knicks, and Their Playoff Curse",
+          "original_title": "Danhausen and the WWE-loving Knicks: A beginner's guide to the curse carrying New York to the precipice of the NBA Finals",
+          "summary": "Yahoo Sports examines whether the New York Knicks\u2019 chances of reaching the NBA Finals are tied to the unpredictable temperament of WWE personality Danhausen, who has become a cult figure among Knicks fans. The piece frames his influence as part of a broader \u201ccurse\u201d narrative surrounding the franchise\u2019s recent struggles.",
+          "key_points": [
+            "Danhausen, a WWE star, is portrayed as a symbolic figure for Knicks fans.",
+            "The article links his presence to the Knicks\u2019 ongoing difficulty reaching the Finals.",
+            "It offers a cultural\u2011focused look rather than tactical analysis of the team."
+          ],
+          "link": "https://sports.yahoo.com/wrestling/article/danhausen-and-the-wwe-loving-knicks-a-beginners-guide-to-the-curse-carrying-new-york-to-the-precipice-of-the-nba-finals-183314991.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-05-15T16:47:46+00:00",
+          "published": "2026-05-15T18:33:14+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "b16b93431983",
+          "title": "BetMGM Promo: $1,500 Bonus Bets for Friday\u2019s NBA & MLB Action",
+          "original_title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for Pistons-Cavaliers, Spurs-Timberwolves Friday",
+          "summary": "CBS Sports reports that BetMGM is offering a promotional code (CBSSPORTS) that grants up to $1,500 in bonus bets if a bettor\u2019s first wager loses on Friday\u2019s games, including Pistons\u2011Cavaliers and Spurs\u2011Timberwolves matchups. The offer applies to both NBA and MLB betting.",
+          "key_points": [
+            "Use promo code CBSSPORTS for a risk\u2011free first bet on Friday.",
+            "Eligible bets include NBA games (e.g., Pistons\u2011Cavaliers, Spurs\u2011Timberwolves).",
+            "Bonus coverage extends to MLB wagers as well."
+          ],
+          "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-in-bonus-bets-pistons-cavaliers-spurs-timberwolves-on-friday/",
+          "source": "CBS Sports NBA",
+          "published": "2026-05-15T18:20:57+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "543bb5b5fd1e",
+          "title": "Rob Pelinka Defends Lakers\u2019 Draft Philosophy",
+          "original_title": "Pelinka: \u201cWhat did those teams (Detroit, San Antonio, and OKC) have to go through to build through the draft? Multiple seasons of losses, and that is just not part of our infrastructure here. As much as some of us might want it to be that way, it\u2019s not the Lakers\u2019 way.\u201d",
+          "summary": "In a Reddit discussion, Lakers GM Rob Pelinka responded to criticism that the franchise avoids the prolonged rebuilding process other teams (Detroit, San Antonio, Oklahoma City) endured through multiple losing seasons. Pelinka emphasized that sustained losing is not part of the Lakers\u2019 organizational model.",
+          "key_points": [
+            "Pelinka asserts the Lakers will not intentionally endure years of losing to acquire draft assets.",
+            "He contrasts the Lakers\u2019 approach with the rebuild strategies of Detroit, San Antonio, and OKC.",
+            "The comment underscores the franchise\u2019s commitment to immediate competitiveness."
+          ],
+          "link": "https://www.reddit.com/r/nba/comments/1te4iw1/pelinka_what_did_those_teams_detroit_san_antonio/",
+          "source": "Reddit r/nba",
+          "published": "2026-05-15T18:17:08+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "1e517bcf6e92",
+          "title": "Investigation Updates on Memphis Forward Brandon Clarke\u2019s Death",
+          "original_title": "What to know about the investigation into Memphis forward Brandon Clarke's death",
+          "summary": "Yahoo Sports outlines the ongoing investigation into the death of Memphis Grizzlies forward Brandon Clarke, who was found deceased in a Los Angeles-area home. An AP\u2011quoted source indicated that drug paraphernalia was discovered at the scene, prompting a police inquiry into the circumstances surrounding his passing.",
+          "key_points": [
+            "Brandon Clarke was found dead in a home near Los Angeles.",
+            "Police discovered drug paraphernalia, leading to an active investigation.",
+            "Details remain limited as authorities continue to gather evidence."
+          ],
+          "link": "https://sports.yahoo.com/articles/know-investigation-memphis-forward-brandon-181613769.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-15T18:16:13+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -256,44 +296,75 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "1e602ffb9653",
-          "title": "LeBron James Staying With Lakers Considered Most Likely As Market Offers Few Viable Other Options - RealGM",
-          "original_title": "LeBron James Staying With Lakers Considered Most Likely As Market Offers Few Viable Other Options - RealGM",
-          "summary": "LeBron James Staying With Lakers Considered Most Likely As Market Offers Few Viable Other Options&nbsp;&nbsp;RealGM",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORFJsZ2lTTzJGVzhVazZGc0xvdXZ6aERxWjRvTnJMclpRakZ3MkhhUWdpSVdyWGVsTmotR3d5YjNCcU1PbS1VZlptQXp3WW9jQTZRQ0JmVGM0Tm1SYlVLUnROOVpRTGJlQ1NYckw4VUF1N090TC14eEhMLVB2dW90UVZwWmxJZGIwZk45aWtWbldlMFJ4Z0hvaWJFM0R4ZGVnS1RLdkxaUzdlY05BdFdGX3BCWnRCX2lJQTlIdkpTYU5NZ19DUDA0VGFfMENKUThjQnRTd3ZDQ09Udw?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-15T16:47:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "e3a56a9fb65e",
-          "title": "Lakers\u2019 promise to Luka Doncic seems to make Marcus Smart a lock to return - Lake Show Life",
-          "original_title": "Lakers\u2019 promise to Luka Doncic seems to make Marcus Smart a lock to return - Lake Show Life",
-          "summary": "Lakers\u2019 promise to Luka Doncic seems to make Marcus Smart a lock to return&nbsp;&nbsp;Lake Show Life",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWS1iUVFaX2FhTVBHSlFSNUNPWHV5d3RDTWxnVW5kV2FaWmFkUGE1ZExWVGR0MnhKRVhJTnZjQlU1ZXpFZElDSlVxdFpFZ0lMM1BIUU1fSmpJeDB6bnlxVWpZYTNObmppZkZzOUZoZnBzTDBYZ1BEY01uX3hKVkZSNlh5WC1fNlFXNEROMFllR0FXQjg?oc=5",
+          "id": "956f7431db61",
+          "title": "Lakers urged to replace LeBron James with Thunder's $87M lob specialist for Luka Doncic",
+          "original_title": "Lakers urged to replace LeBron James with Thunder's $87M perfect lob threat for Luka Doncic - Yahoo Sports",
+          "summary": "A Yahoo Sports column suggests the Los Angeles Lakers should consider trading for Oklahoma City Thunder forward Chet Holmgren, whose $87\u202fmillion contract and elite lob\u2011catching ability could complement Luka\u202fDoncic. The piece argues that swapping LeBron James for a younger, high\u2011upside player would better position the franchise for future success.",
+          "key_points": [
+            "Proposes a trade that would send LeBron James to Oklahoma City in exchange for Chet Holmgren.",
+            "Highlights Holmgren\u2019s rim\u2011running skill set as a perfect fit for Doncic\u2019s playmaking style.",
+            "Frames the move as a strategic shift toward a younger core and long\u2011term flexibility."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON2V1bjA1NnZ0elpkMkU5VHB1ZklfUTREa1EzUnU2cnN1Y1BMcjBpdGZUM0R6aEpaTmNrT0xZVGlvdHBGS1Y5LWw1LUJqZUI2Y3czNFlhdGU5WHh1MkdCSldaTUg2ellSaUwtNWlFcTBTcVFlZjJ0RzJMRkRWOGxjSEc2TklrZFhlYlE?oc=5",
           "source": "Google News - Luka",
-          "published": "2026-05-15T16:00:00+00:00",
+          "published": "2026-05-15T19:13:16+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "96cfaafe9be9",
-          "title": "Latest LeBron James rumor has Lakers fans freaking out, but it's not actually true - Yahoo Sports",
-          "original_title": "Latest LeBron James rumor has Lakers fans freaking out, but it's not actually true - Yahoo Sports",
-          "summary": "Latest LeBron James rumor has Lakers fans freaking out, but it's not actually true&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSHVuM0xmOFZfZlM5dTdvNmRLdVpITUtTS3pZVUtBRmkyVDdhTHNfUjVFcDFQNmlCdGhvTjNIbTUwZUpGWEZwb3ZnQVA1WG1UV2h4NUtXSU9OM0ctU1dyUllORE1QTURZZndVS1ZUN3ctVWM4MXJkckphcE81Y2V1S2QzcG1iaTZp?oc=5",
+          "id": "9ccb4f06eb59",
+          "title": "What Specific Types Of Players Do Lakers Want To Surround Luka Doncic With?",
+          "original_title": "What Specific Types Of Players Do Lakers Want To Surround Luka Doncic With? - Lakers Nation",
+          "summary": "Lakers Nation examines the roster pieces the organization is targeting to build around Luka\u202fDoncic, focusing on complementary skill sets rather than marquee names. The article outlines the need for defensive specialists, three\u2011point shooters and versatile wing players to maximize Doncic\u2019s offensive impact.",
+          "key_points": [
+            "Emphasizes acquiring perimeter shooters who can space the floor for Doncic\u2019s drives.",
+            "Calls for defensive-minded wing players to improve the team\u2019s overall rating.",
+            "Suggests a mix of veteran leadership and high\u2011upside young talent to balance the roster."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY0NzdlZKa21kRVNmTGRuRXdKQWp1Mzg3WElURHdaVV9xT0hfU2NjRzZIUjRhT29sSGVTdHRuRXRPQWEwSUVyd0VWYWZueVRMcmVMVERhYzhFSExDeFBpcE96N0JtUGtGMnM3M211XzIwV203VW9iVjZOR05kZjR0U0ZQbjFkVV92VkdZOUVnd1JaNC1fVDlhZnUtcXgxNlFT?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-05-15T19:10:45+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "41c2d2c68c2a",
+          "title": "Lakers already flirting with malpractice in handling LeBron James' future",
+          "original_title": "Lakers already flirting with malpractice in handling LeBron James' future - Lake Show Life",
+          "summary": "Lake Show Life critiques the Lakers\u2019 current approach to LeBron James\u2019 contract negotiations, alleging the front office is taking risky legal and financial steps. The article warns that mishandling the situation could lead to salary\u2011cap penalties and damage the franchise\u2019s reputation.",
+          "key_points": [
+            "Accuses the organization of pursuing aggressive contract restructuring that may violate NBA rules.",
+            "Highlights potential cap\u2011space ramifications if the league deems the moves non\u2011compliant.",
+            "Notes the broader impact on player\u2011team trust and future free\u2011agency negotiations."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMUNfRUxCYWk1SWplLWxoRFBwUFZ3cnRCVmFTWkNjVEdsVHA0OTBFQlRIUVZFblJ1N0VRdFlKVWstdFR5NDBrVkM1M0Rqd3JSaE9hOTdHU290QXRqUjlQUFp3RmxwaVR1QVJFMjdNM0RCMzlMNFhWM1BYWFdOem13NUxUX01DLVNBTnhONUlncC1kMEtFSlhqLUNiUHFEUQ?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-05-15T15:54:55+00:00",
+          "published": "2026-05-15T17:00:01+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "7c3ae8288bd8",
+          "title": "From Kendrick Lamar to LeBron James: All of Drake\u2019s Disses on Iceman",
+          "original_title": "From Kendrick Lamar to LeBron James: All of Drake\u2019s Disses on Iceman - Consequence of Sound",
+          "summary": "Consequence of Sound compiles the various references Drake has made to LeBron James\u2014nicknamed \u201cIceman\u201d\u2014in his music, tracing the evolution from early shout\u2011outs to more critical lines. The piece places the lyrical jabs within the broader context of Drake\u2019s relationships with NBA stars.",
+          "key_points": [
+            "Lists specific Drake songs that mention LeBron James and the context of each lyric.",
+            "Analyzes how the tone of the references shifts over time, reflecting changing personal dynamics.",
+            "Connects the musical commentary to broader cultural intersections between hip\u2011hop and the NBA."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nNEVXc2tPd0g2VmVrTm5UQWdWX0tiNmFsYXR0NF9CY3ljZWlUV01QZ085UE9nQUtUXzA2bFVta0NJalVOV3BqWjVSWVhNc1FvY3lETjFBWEdaOUhuMGdrTDhvZEFvYS0xOXI0?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-15T16:02:09+00:00",
           "topic": "Lakers Players"
         },
         {
           "id": "9f7cc6f31771",
-          "title": "Insider Reveals Chances Of Celtics Landing LeBron James In NBA Free Agency - NESN",
+          "title": "Insider Reveals Chances Of Celtics Landing LeBron James In NBA Free Agency",
           "original_title": "Insider Reveals Chances Of Celtics Landing LeBron James In NBA Free Agency - NESN",
-          "summary": "Insider Reveals Chances Of Celtics Landing LeBron James In NBA Free Agency&nbsp;&nbsp;NESN",
-          "key_points": [],
+          "summary": "A NESN report cites an NBA insider who assesses the Boston Celtics\u2019 likelihood of signing LeBron James during the upcoming free\u2011agency period. The analysis weighs Boston\u2019s cap space, roster composition, and the appeal of a championship\u2011contending environment against James\u2019 personal preferences.",
+          "key_points": [
+            "Estimates a moderate probability that the Celtics could sign James, contingent on cap flexibility.",
+            "Notes Boston\u2019s need for a veteran leader to complement their young core.",
+            "Mentions LeBron\u2019s stated interest in playing for a contender and the Celtics\u2019 recent roster moves."
+          ],
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdE9ZdjA5SGI2eWJFc3dzZTl4MkFBbko0MnY3QWNjNjVjNlJsbHkwT1hJUF9uWjc5cHRqeUZGUnpzMzZ4SEtzUzB2ZFFYRjUzdEoxdVVMVHZoSHRmVzRJVksxaHVZMmRtaGd3VUQ0QXVzWVBMYkNEV3dJaGk1UWlIb3k2a3VqMUlsajR3N2tWM0pVVlRhOHVZeWUtNzBMRjR1QmxKZkNTMUV2SzNEU19VeGtHXzg?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-05-15T15:03:14+00:00",
@@ -307,49 +378,37 @@
           "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc3pSeUY1dUgyY1VVeDlnZzJWeUM2UTVYSEx4RnJkX3BsLWthampXVHYwR1QyaTBLZWExZVp2bVNKaUU3aVM1QlRVN1RLYmJxdkpXNXIzOVNxUjBmaEJVUGpmazBnRHplcHdsS3d6Mnp6VzBsbklVcUdFajRpelBrcGk1M0NNOWR2T0VGY1BvRE83dnFzN1E4NEpKYVotZ2Nya1lJejV0UDhHbVdONEVLWGRRNnNRVGJnQWZHcnhHdWRWcEFEQUh6Vw?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-05-15T14:21:00+00:00",
+          "published": "2026-05-15T14:27:00+00:00",
           "topic": "Lakers Players"
         },
         {
           "id": "54d445c40165",
-          "title": "LeBron James Weighs Future Options: Home Return, Curry Partnership, or College Coaching",
+          "title": "Can LeBron James find his perfect ending back home, with Steph Curry or on campus? - The Athletic - The New York Times",
           "original_title": "Can LeBron James find his perfect ending back home, with Steph Curry or on campus? - The Athletic - The New York Times",
-          "summary": "The Athletic explores LeBron James' possible paths as his career winds down, including a return to the Los Angeles Lakers, teaming up with Stephen Curry in Golden State, or transitioning to a coaching role at the collegiate level. The piece examines the pros and cons of each scenario without confirming any definitive decision.",
-          "key_points": [
-            "Three main options discussed: re\u2011join the Lakers, join Stephen Curry\u2019s Warriors, or pursue a college coaching job.",
-            "Each path is evaluated for its impact on James' legacy, financial considerations, and personal fulfillment.",
-            "No official statement from LeBron indicates a final choice at this time."
-          ],
+          "summary": "Can LeBron James find his perfect ending back home, with Steph Curry or on campus? - The Athletic&nbsp;&nbsp;The New York Times",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObXg1V0pMeThtcDAzaHRyNjlpc3NSRmF0OHNsQWp4V3gwTGZzdkxfTkItVXJWZEJPUjZnSktsczBqS0RjWGVLUTl4OV8wWjM1Zzl3X1VzcXUzSXNBYzNRNnRfVUV1Y0xrMklJQVAxN3dlNWtfQmp0LTlTaGtXalF1TWVyUVJLd2VYN0JwNW02WE5WaGMyQ2NxQXNIMzByU3BrRm1JRlRHUjg?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-05-15T13:59:27+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "01b1452c1eb4",
-          "title": "LeBron James Sets NJCAA Javelin Record, Fans React in Confusion",
-          "original_title": "NBA fans left confused after LeBron James breaks NJCAA record in men\u2019s Javelin Throw - Yahoo Sports",
-          "summary": "Yahoo Sports reports that LeBron James unexpectedly broke a National Junior College Athletic Association (NJCAA) record in the men\u2019s javelin throw, sparking bewilderment among NBA fans. The article clarifies that the achievement occurred during a charity event and is unrelated to his basketball duties.",
-          "key_points": [
-            "James threw a javelin distance that surpassed the existing NJCAA record.",
-            "The feat took place at a charity showcase, not a competitive track\u2011and\u2011field meet.",
-            "Social media reaction highlighted surprise and jokes, emphasizing the novelty of the accomplishment."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcWF5MUVpdld1cklpLXcyWEF3U25uX2o0NmNmVGJfWWV0M3hrbkNKM1ExeGZkQzdKa01fTXdNSXFYNHV4QzZBQ0pjQUVoWk5kVEFwUVF2UG14R3Z0YkhLSTllRFprNkJOMEh4YWZ0c0owajV5bGlaVEIzcEE4azUxNENPLUs?oc=5",
+          "id": "7001407dfae7",
+          "title": "LeBron James' Contract Value in NBA Free Agency Revealed by Exec amid Lakers Rumors - Bleacher Report",
+          "original_title": "LeBron James' Contract Value in NBA Free Agency Revealed by Exec amid Lakers Rumors - Bleacher Report",
+          "summary": "LeBron James' Contract Value in NBA Free Agency Revealed by Exec amid Lakers Rumors&nbsp;&nbsp;Bleacher Report",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbE1HRWhhMFNqNUx1OFlIZ3gyYmRlZ3dVVlNkNWFWUHUzc25aX1V4Mmx1SEpEalJLalREZ2NoT2MyWGRFYXNvNVd3bzg5MFhzSFhPbThqd095T1RDM2ZhLS0tcDhOYVEwSnItYnRhQl9wbVBKUTFiZVZuY25RZHVrVXpZbncxX3BwTmdNYzBqaDJUclo2bVN5Q1JsS1V3ZkdoUXJxd2hNeC0tRjJlWU55ZW9SMUFVamJQb2J0eXRR?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-05-15T13:30:00+00:00",
+          "published": "2026-05-15T13:10:22+00:00",
           "topic": "Lakers Players"
         },
         {
           "id": "5c622f27e593",
-          "title": "LeBron James' Restaurant Features Private Room Evoking 1984 Akron",
+          "title": "Private room in LeBron James' restaurant takes you back to 1984 Akron - Akron Beacon Journal",
           "original_title": "Private room in LeBron James' restaurant takes you back to 1984 Akron - Akron Beacon Journal",
-          "summary": "The Akron Beacon Journal details a newly opened private dining room at LeBron James' restaurant that recreates the look and feel of his hometown in 1984. The space includes period\u2011specific d\u00e9cor, memorabilia, and a menu inspired by the era.",
-          "key_points": [
-            "Design elements reference Akron in the mid\u20111980s, the year James was born.",
-            "The room showcases personal items from James' early life and local Akron culture.",
-            "It aims to offer fans a nostalgic experience while dining at the celebrity\u2011owned venue."
-          ],
+          "summary": "Private room in LeBron James' restaurant takes you back to 1984 Akron&nbsp;&nbsp;Akron Beacon Journal",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQMjR3NFRyUUFiSWJUdDl1ak13dkdoeTJ0V1BNQmpWZVFzNFJFUDUxY1BBekpONFYwRktrMFk3Vi1zQng5R3ozem1vd0I2WTNlOEpBVFVZaGI3WFZXN1NDUGRHTmtxTC16Z3BpWDJkdV9WbTVmakRRcjZZRU9vQTk5UDVjZXpuNnRpNERDSTZReG1PZnFyYzVTZnpwbzZEVmcyc3RCV2ZkT3hzTWFHQmFUWXVsWDl4UGxlOHIzV2xpcURIM0FVYWhYZXJSbXJ4Y0Y0WGJ4YTlyeEhMNmU0QVRVc2EyekhJdUZQTXF5d0xYdllxZlN3N1VSbzEyM3hrZTdQbkNrR2kzbWM?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-05-15T11:37:00+00:00",
@@ -357,32 +416,13 @@
         },
         {
           "id": "62550f8627a8",
-          "title": "Luka Don\u010di\u0107 Posts First Social Media Message After Lakers' Season Ends",
+          "title": "Luka Doncic Makes First Social Media Post After Lakers Season Ends - heavy.com",
           "original_title": "Luka Doncic Makes First Social Media Post After Lakers Season Ends - heavy.com",
-          "summary": "Heavy.com reports that Dallas Mavericks star Luka Don\u010di\u0107 shared his initial social\u2011media update following the Los Angeles Lakers' playoff elimination. His post reflected on the season's challenges and expressed respect for the Lakers' effort.",
-          "key_points": [
-            "Don\u010di\u0107's message acknowledged the Lakers' competitive play and the conclusion of the season.",
-            "He highlighted personal reflections on his own team's performance and upcoming offseason moves.",
-            "The post generated notable engagement from fans of both the Mavericks and Lakers."
-          ],
+          "summary": "Luka Doncic Makes First Social Media Post After Lakers Season Ends&nbsp;&nbsp;heavy.com",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRXF6Z0VQVXBWUFRCanRKcGpYNklLb2lLazV6V05YeUNyYjBvQnN3b1BRVHhyTy1aUWlNVU5SM19jVV9PMENKMWZlR0ZuMldETlRNcDZmbms3V2k0QXRMc1U5YXdGTU9wZHZRVkZtbjZGS280cDdaYnZJNDZlQVpmbC13?oc=5",
           "source": "Google News - Luka",
           "published": "2026-05-15T10:04:35+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "d15a6069c817",
-          "title": "Gilbert Arenas Criticizes Luka Don\u010di\u0107 Over Preference for Austin Reaves vs. Giannis Antetokounmpo",
-          "original_title": "\"Do I want to keep going to war with a pistol?\" - Gilbert Arenas blasts Luka for reportedly preferring Austin Reaves over Giannis Antetokounmpo - Basketball Network",
-          "summary": "Basketball Network covers former NBA guard Gilbert Arenas' outspoken comments, in which he questioned Don\u010di\u0107's reported preference for playing alongside Austin Reaves rather than Giannis Antetokounmpo. Arenas used vivid language to convey his frustration, sparking a brief debate on player matchups.",
-          "key_points": [
-            "Arenas referenced a rumored statement that Don\u010di\u0107 favors teaming with Reaves{\u2014}a Lakers guard\u2014over the reigning MVP Giannis.",
-            "He expressed strong disagreement, using the metaphor \"war with a pistol\" to describe his reaction.",
-            "The incident prompted discussion on social media about player chemistry and media speculation."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc1BqNWlNZThhUU9yaUM2MVphdjBmOXllb0swV3ZSeXZ5UTYzWFNwZEhGOERFUXpZTXpyb3dxWW9qSmVaZ2FlX1BjWC1EcWRadTZpWU9TR3hMSlBpSlVOSWVIc2VhN0ZJdW84SVl5ckFIeWx3SVFjSzRqYm5oWXFLbXptcWxhcDJsRzRDQlQzTkc3dGxEQmpFUG5KRjRPVWwwUjRfTVNwNGhOakJlTkZKX3RkOUlXWWxpX2c?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-05-15T07:25:00+00:00",
           "topic": "Lakers Players"
         }
       ]
