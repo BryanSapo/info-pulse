@@ -1,49 +1,139 @@
 {
-  "generated_at": "2026-05-17T21:00:38.257681+00:00",
-  "total_articles": 20,
+  "generated_at": "2026-05-17T23:10:46.367979+00:00",
+  "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
-          "id": "e7d6a9fdbd45",
-          "title": "Austin Reaves Credits LeBron James for Shaping His Career",
-          "original_title": "Austin Reaves feels he owes a lot of his career to LeBron James - Silver Screen and Roll",
-          "summary": "Austin Reaves said he owes much of his development and success to mentorship from LeBron James. The guard highlighted specific lessons and on\u2011court guidance that helped him transition from a role player to a reliable contributor for the Lakers.",
+          "id": "af5b70bac655",
+          "title": "Lakers Eye Surprising Free Agent as Key Target",
+          "original_title": "Lakers View Surprising Free Agent Among Most Important Names - heavy.com",
+          "summary": "Heavy.com reports that the Los Angeles Lakers consider a surprising free\u2011agent acquisition among their most important offseason priorities. The article suggests the player could fill a critical roster need and impact the team's championship window.",
           "key_points": [
-            "Reaves attributes his growth to LeBron's mentorship and leadership.",
-            "He discussed how James' advice improved his basketball IQ and confidence.",
-            "The comments underscore the veteran's influence on younger Lakers players."
+            "Lakers have identified a free agent they did not expect to pursue.",
+            "The player is viewed as a high\u2011impact addition for the upcoming season.",
+            "Acquisition could influence the Lakers' salary\u2011cap strategy and roster balance."
           ],
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN2NFOVRxelNrbGlmdERTYzBQbTJhOHZlaXlJWWNmRlVvUTBxYkxzaW1TdTJVa01pT1VWQ1VEay0wUXpoS3lDaE9MekE5NFBRcW1UblE2YWZQNDFGWnJ4VFBVR1JQLW9TQjRVMVBjOEpCRm9kdktHSXpvR1dncXpyWlBGNmw2RkhpYmlyVDhOR3FoeG9TRW1tak56TQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYjVqUVhGclhNWS1DOVJaMEp6eF9waHEtaWl1QmhhM3RnWjFFUzBuSGdEbEhfcmwxNnFINXBralJFcmZ5NFB5OUxkMXl5UnN1VnpDRy1QaE0xQzJSUlN4TG1OZTMtN2xOSGRmYWRpcmstZUpKTnkyQTI1Q0dKTldJRkxudFktbWFoYjRjNDhTdTNIOEppdWJJ?oc=5",
           "source": "Google News - Lakers",
+          "published": "2026-05-17T22:23:25+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "f3321d78a27d",
+          "title": "Reddit Discussion: Lakers Community Shares Thoughts",
+          "original_title": "Thoughts?",
+          "summary": "A Reddit post on r/lakers invites community members to share their opinions on recent Lakers news. The thread includes a link to the original source and encourages commentary from fans.",
+          "key_points": [
+            "User\u2011generated discussion platform for Lakers fans.",
+            "Provides a space for speculation and fan reactions.",
+            "No specific news content is detailed in the post itself."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1tg3pi6/thoughts/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-17T22:19:07+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "1607e9615087",
+          "title": "Kobe Bryant\u2019s 2013 Dunk Attempts Highlighted on Reddit",
+          "original_title": "Kobe Bryant dunk attempts in 2013 (17th season, played 78 games)",
+          "summary": "A Reddit user posted a compilation of Kobe Bryant\u2019s dunk attempts from the 2013 season, when he played 78 games in his 17th year. The thread showcases Bryant\u2019s athleticism late in his career and generates fan nostalgia.",
+          "key_points": [
+            "Features video clips of Kobe\u2019s dunk attempts during the 2013 season.",
+            "Highlights Bryant\u2019s continued explosiveness despite being in his final years.",
+            "Engages the Lakers community with historical content."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1tg3g63/kobe_bryant_dunk_attempts_in_2013_17th_season/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-17T22:08:30+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "5b479b155389",
+          "title": "New LeBron James Evaluation Poses Challenges for Lakers Front Office",
+          "original_title": "Latest LeBron James evaluation is troublesome news for Rob Pelinka, Lakers - Lake Show Life",
+          "summary": "Lake Show Life reports that the latest performance and health assessment of LeBron James presents difficulties for GM Rob Pelinka and the Lakers\u2019 planning. The evaluation raises questions about James\u2019 role and contract considerations moving forward.",
+          "key_points": [
+            "LeBron\u2019s recent evaluation indicates potential health or performance concerns.",
+            "Implications for roster construction and salary\u2011cap management.",
+            "Pelinka may need to adjust long\u2011term strategy based on the findings."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcTVsYnNKbEdwZVZLeFd5WUhKYlJxRkhUZDNzT0REcDlYMVgzSFlwSTlxeTRqQUFuRTAxMjVRQlVmdTVIN3hTdHFjdmJILWtoR0RGTDJab1JRVGhudDQ2NzFIX0xqMHE2X1N6U2ZhaVhTcDJib0o2YWFVdzlMZU12TnVlcWtJbVNtaHZ5eVRiQ3dNSmNZVUNzNzlpaw?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-17T22:00:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "0c22613ed571",
+          "title": "Rumors: Two Teams Target Austin Reaves in Free Agency",
+          "original_title": "NBA Rumors: 2 \u2018Known\u2019 Suitors Emerge to Challenge Lakers for Austin Reaves - Yahoo Sports",
+          "summary": "Yahoo Sports outlines that two unnamed NBA teams are emerging as serious suitors for Austin Reaves, signaling possible competition for the Lakers to retain him. The report suggests Reaves\u2019 value has risen after his strong play this season.",
+          "key_points": [
+            "Two other franchises are reportedly interested in signing Reaves.",
+            "Reaves\u2019 performance this season has increased his market demand.",
+            "Lakers may need to negotiate a competitive extension to keep him."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONnRkcWprRk9Md2tmVzFDdWlKajd5X2RXYzk3aHprWkE3c0poSDYzaWFaQ3NFYWRiLWNXd3pQZVk3Nkl1RFR0eWhDcFRGakhrU0ZBSkdOajhrQVN4a0ZVbkJSMnc2OTEwYUJOcUhIMGczSnZEUGJJYl9UUE1WcHdsVw?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-17T21:16:12+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "21d69247d9b0",
+          "title": "Warriors, Knicks, Cavaliers Top Landing Spots for $101\u202fMillion Lakers Superstar",
+          "original_title": "Warriors, Knicks, Cavaliers named top landing spots for $101 million Lakers million superstar - sportingnews.com",
+          "summary": "Sporting News identified the Golden State Warriors, New York Knicks, and Cleveland Cavaliers as the most likely destinations for a Los Angeles Lakers player set to earn $101\u202fmillion next season. The analysis weighs each team's roster needs, cap space, and competitive window.",
+          "key_points": [
+            "Warriors, Knicks and Cavaliers are ranked as the best fits based on financial flexibility and roster composition.",
+            "The $101\u202fmillion contract could be a free\u2011agent deal or a sign\u2011and\u2011trade scenario.",
+            "Lakers\u2019 salary\u2011cap constraints make it unlikely they can retain the player without major moves."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQNUhMRXRMSFlVTnR1SmxSZG1xMWpZdmlQdEMxQzgzZ1NDQS1JOVpSMjhFT1VhclE0akxxNFBKRVVIMkVqdEp5NVN6MzZHcDZXTE01WEkzSmk3cmU1cHlPTHJBWjhRMHNRT0ltM3hwUVNQb0Mxczhma0l2al9zblFCWGhLRW9WdngyZ2hycTVEanF2TTZxNWQ1WTNjWEVZei1LbVBaYlE1cEFKSGt0X1EwM3BDZW1xLURSOFdZdmR5cVE1QTJUWUlfS2xraU1FaUtpZ2xoNmpMU2R4cjNBd0VPNldQZURTMmJWOENBRENrMWpzbi1vQW12Q0FWdGRGTXZk?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-17T21:11:59+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "19a6859c9bf5",
+          "title": "Rui Hachimura Credits Former Lakers Coach for 3\u2011Point Improvement",
+          "original_title": "Rui Hachimura praised a former Lakers coach for his improvement as 3-point shooter",
+          "summary": "Rui Hachimura acknowledged the influence of a former Los Angeles Lakers coach in expanding his game beyond his traditional mid\u2011range strengths. While still not his preferred shot, Hachimura\u2019s three\u2011point shooting has risen dramatically, making him a more versatile scorer in today\u2019s perimeter\u2011oriented NBA.",
+          "key_points": [
+            "Hachimura entered the league as a mid\u2011range specialist and now shoots a significantly higher three\u2011point percentage.",
+            "The improvement is attributed to coaching guidance received during his time with the Lakers.",
+            "Despite progress, Hachimura admits the three\u2011point shot is still not his favorite part of the game."
+          ],
+          "link": "https://www.silverscreenandroll.com/lakers-news/117548/rui-hachimura-lakers-offense-3-point-shooting-nba-playoffs-stats-phil-handy",
+          "source": "Silver Screen and Roll",
+          "published": "2026-05-17T19:54:55+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "196dc507fb6d",
+          "title": "Austin Reaves Says He Owes Much of His Career to LeBron James",
+          "original_title": "Austin Reaves feels he owes a lot of his career to LeBron James",
+          "summary": "Austin Reaves reflected on how playing alongside LeBron James accelerated his development and solidified his role with the Los Angeles Lakers. Reaves highlighted the mentorship and consistency James provides amid the franchise\u2019s frequent roster turnover.",
+          "key_points": [
+            "LeBron\u2019s leadership helped Reaves transition from a bench player to a reliable starter.",
+            "Reaves credits James for teaching him professionalism and on\u2011court decision\u2011making.",
+            "The partnership has become a cornerstone of the Lakers\u2019 recent identity."
+          ],
+          "link": "https://www.silverscreenandroll.com/lakers-news/117543/austin-reaves-lebron-james-lakers-career",
+          "source": "Silver Screen and Roll",
           "published": "2026-05-17T19:35:04+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "69d03a14b35a",
-          "title": "Rui Hachimura Signals Desire to Stay with Lakers in Free Agency",
-          "original_title": "Rui Hachimura Hints at Desire to Remain With Lakers As He Enters Free Agency - Yahoo Sports",
-          "summary": "Entering free agency, forward Rui Hachimura hinted that he would like to remain in Los Angeles, expressing satisfaction with the team's direction and his role. He did not confirm any contract details but indicated openness to re\u2011signing.",
+          "id": "d7a19c9d4e32",
+          "title": "Lisa Leslie Praises LeBron James for Filling \u2018Huge Void\u2019 with Lakers",
+          "original_title": "Lisa Leslie Praises LeBron James For Filling \u2018Huge Void\u2019 With Lakers",
+          "summary": "Basketball legend Lisa Leslie commended LeBron James for his ability to adapt and contribute in a new role for the Los Angeles Lakers, potentially as a third\u2011option player behind Luka Don\u010di\u0107 and Austin Reaves. Leslie highlighted James\u2019 veteran presence as critical during the team\u2019s offseason planning.",
           "key_points": [
-            "Hachimura is a free agent but prefers to continue with the Lakers.",
-            "He praised the organization\u2019s culture and his fit within the roster.",
-            "No official contract offer has been announced yet."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT1lGX3VxMEZLaEpibE9YNk5Lbmh4S1Z2YzRQVGZtMENLR3FFWFZpbXVWZXJrNWdLVlR4QlRuUXpaa3IyU29TQ0VVc1hMMGt1U0VFcEZFR0Z6QllidmRfdUtueHV2MUhCcFJ3bk8tc0lMcG5MRDM1dUczbUpZQXB2S2lRUzlSODlFNHc?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-17T19:00:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "5469848cceb6",
-          "title": "Lisa Leslie Presents LeBron James with Flowers to Honor His Lakers Tenure",
-          "original_title": "Lisa Leslie Gives Flowers To LeBron James For Lakers Tenure",
-          "summary": "Former WNBA star Lisa Leslie gave LeBron James a floral tribute as he contemplates his future with the Lakers. The gesture came amid speculation about whether James will return for another season or explore other options.",
-          "key_points": [
-            "Leslie honored James with flowers recognizing his contributions to the Lakers.",
-            "James is evaluating his next move, including the possibility of staying in LA.",
-            "The tribute highlights James' impact on both the franchise and broader basketball community."
+            "James could serve as a valuable third scoring option if he returns to LA.",
+            "His experience helps address a significant need for leadership and versatility.",
+            "Leslie\u2019s comments come as the Lakers evaluate James\u2019 future and roster construction."
           ],
           "link": "https://lakersnation.com/lisa-leslie-gives-flowers-to-lebron-james-for-lakers-tenure/",
           "source": "Lakers Nation",
@@ -51,33 +141,18 @@
           "topic": "Lakers News"
         },
         {
-          "id": "12da40281161",
-          "title": "Luka Doncic Meets with Lakers Amid Growing LeBron James Drama",
-          "original_title": "Report: Luka Doncic Met With Lakers Amid Growing LeBron James Drama - heavy.com",
-          "summary": "According to reports, Dallas Mavericks star Luka Doncic held a meeting with Los Angeles Lakers representatives while rumors swirl around LeBron James' situation. The discussion focused on potential trade scenarios and the league\u2019s evolving power dynamics.",
+          "id": "04f136799b26",
+          "title": "Lakers Go All\u2011In to Re\u2011Sign Luka Don\u010di\u0107\u2019s $3M Favorite Teammate After LeBron and Reaves",
+          "original_title": "Lakers going all-in to re-sign Luka Doncic's $3M favorite teammate after LeBron James, Austin Reaves - sportingnews.com",
+          "summary": "According to Sporting News, the Los Angeles Lakers are aggressively pursuing the re\u2011signing of a player favored by Luka Don\u010di\u0107, who commands a $3\u202fmillion salary, following recent extensions for LeBron James and Austin Reaves. The move signals the franchise\u2019s intent to build a cohesive core around its star talent.",
           "key_points": [
-            "Doncic\u2019s meeting suggests possible trade talks involving the Lakers.",
-            "The timing coincides with heightened speculation about LeBron\u2019s future.",
-            "Details of the conversation remain confidential, but it signals active front\u2011office maneuvering."
+            "The targeted player is reportedly a close on\u2011court partner of Don\u010di\u0107 and fits the Lakers\u2019 budget.",
+            "Re\u2011signing him would complement the newly extended contracts of LeBron James and Austin Reaves.",
+            "The strategy reflects the Lakers\u2019 commitment to establishing a stable, competitive roster."
           ],
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVzBJTUxHTk9MdzN2SDVmQnNkOVBqUjR3U1RwNkJFSUdkRmxGOUQ2RWJtdm82NmoxQmVlMnJpWk9JSXc2X0ZMV0h4dTV2UGU2ZzRMMEk1Nk11V1hOMll0UEZOZ2tHUVd5X1JiSTNRbHg5TXRuamhmUmExa1ZYSEs2OHNEeWU?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQMjhPVEJub29MaTBvS3ZjaXpZZXV0czVrMGxYNkJPWUVOZlFkNzZVSFF4RFo4Q2lPMG1xd1AxcnBMSVIzVW0wLV9Gc1lzTUZfNlhjU3pndEtSZmNGTWpzQ3JkM2pCOEg3Q08yRFdNNFczNnBudFBfR09RVU96VmZWQVVjUzZLcmg3VXVnSkFsOHo5X0o4N01OSU9SUXp5V1JjX1JJRG54NThObVRvQkVjSGpHRkhBZHozbnFuQjFzZHZibGt3eVR3eUNsUTZINkpnUkttaVRfWTM2dlJ0TDlIYXJLUksyaHk0SC0xQzF0ZlhjTjlZbnN6LVJlN0JLMHVZejlqMUxTZw?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-05-17T18:07:11+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "6506b0c45257",
-          "title": "Dillon Brooks Calls Jarred Vanderbilt \u2018Dumb\u2019 in NBA Roast",
-          "original_title": "Dillon Brooks Names Jarred Vanderbilt As One Of \u2018Dumb\u2019 Players In NBA",
-          "summary": "Phoenix Suns forward Dillon Brooks labeled Jarred Vanderbilt as one of the \u201cdumb\u201d players in the league, adding to his reputation as a vocal antagonist. Brooks has a history of heated exchanges with LeBron James and the Lakers, both in regular\u2011season and playoff matchups.",
-          "key_points": [
-            "Brooks publicly criticized Vanderbilt, continuing his role as a league provocateur.",
-            "He has previously clashed with LeBron James and the Lakers in high\u2011stakes games.",
-            "The comment adds fuel to ongoing rivalries and media narratives surrounding the Suns and Lakers."
-          ],
-          "link": "https://lakersnation.com/dillon-brooks-names-jarred-vanderbilt-as-one-of-dumb-players-in-nba/",
-          "source": "Lakers Nation",
-          "published": "2026-05-17T17:30:42+00:00",
+          "published": "2026-05-17T18:39:44+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -86,78 +161,133 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "8fa52b520418",
-          "title": "Cavaliers vs. Pistons Same-Game Parlay for Game 7",
-          "original_title": "Cavaliers vs Pistons Same-Game Parlay for Tonight's NBA Playoffs Game 7",
-          "summary": "Yahoo Sports offers a same\u2011game parlay guide for the Eastern Conference semifinals Game 7 between Cleveland and Detroit. The piece highlights recommended picks and odds for the decisive matchup at Little Caesars Arena on May 17.",
+          "id": "43dea6cd467b",
+          "title": "Cavaliers vs. Pistons Playoff Game Thread (May 17, 2026)",
+          "original_title": "Game Thread: Cleveland Cavaliers (3-3) vs Detroit Pistons (3-3) Live Score | NBA Playoffs | May 17, 2026",
+          "summary": "A Reddit game thread tracked the live score and commentary for the Eastern Conference playoff matchup between the Cleveland Cavaliers and the Detroit Pistons on May 17, 2026. The post served as a hub for fans to discuss the game in real time.",
           "key_points": [
-            "Provides a curated parlay lineup for the Game 7 showdown.",
-            "Includes suggested spreads, totals, and player prop bets.",
-            "Emphasizes the free NBA picks available for the Sunday contest."
+            "Both teams entered the series with a 3\u20113 record.",
+            "The thread provided live updates, play\u2011by\u2011play notes, and fan reactions.",
+            "No official game recap or statistics were included in the source."
           ],
-          "link": "https://sports.yahoo.com/articles/cavaliers-vs-pistons-same-game-190000724.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-17T19:00:00+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "b99bd8cc51f3",
-          "title": "Cavaliers vs. Pistons Props & Best Bets for Game 7",
-          "original_title": "Cavaliers vs Pistons Props & NBA Playoffs Game 7 Best Bets",
-          "summary": "Yahoo Sports outlines player prop selections for the Game 7 clash, focusing on Cade Cunningham, James Harden, and Duncan Robinson. The article presents specific over/under and performance targets for each star.",
-          "key_points": [
-            "Highlights key prop bets for Cunningham, Harden, and Robinson.",
-            "Provides statistical reasoning behind each pick.",
-            "Offers odds and recommended bet sizes for Sunday\u2019s game."
-          ],
-          "link": "https://sports.yahoo.com/articles/cavaliers-vs-pistons-props-nba-185500159.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-17T18:55:00+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "f15ee89e4b50",
-          "title": "Impact of Back\u2011to\u2011Back Seven\u2011Game Series on Playoff Teams",
-          "original_title": "The Cleveland Cavaliers and the Detroit Pistons will both be playing their second consecutive 7 game series that will go the distance. Only 8 teams have made the Finals after two consecutive 7 game series before winning the Conference, and only 4 have won the championship going to 7 twice in a row.",
-          "summary": "A Reddit post examines the rarity of teams playing two consecutive seven\u2011game series and its historical effect on postseason success. It notes that only eight teams have reached the Finals after such a run, and four have won the championship.",
-          "key_points": [
-            "Cavaliers and Pistons are the latest clubs to endure two straight seven\u2011game series.",
-            "Historical data shows limited success for teams facing this grind.",
-            "A list of the 32 teams that have experienced consecutive seven\u2011game series is provided."
-          ],
-          "link": "https://www.reddit.com/r/nba/comments/1tfy63l/the_cleveland_cavaliers_and_the_detroit_pistons/",
+          "link": "https://www.reddit.com/r/nba/comments/1tg4our/game_thread_cleveland_cavaliers_33_vs_detroit/",
           "source": "Reddit r/nba",
-          "published": "2026-05-17T18:49:58+00:00",
+          "published": "2026-05-17T23:00:15+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "851d47f99ee5",
-          "title": "CBS Sports Advanced Model Picks for Cavaliers\u2011Pistons Game 7",
-          "original_title": "Cavaliers vs. Pistons odds, prediction, time: 2026 NBA playoff picks, Game 7 best bets from advanced model",
-          "summary": "SportsLine\u2019s predictive model releases its Game 7 picks for the Cleveland\u2011Detroit matchup, including win probability, spread, and total points. The analysis incorporates recent performance metrics and advanced statistics.",
+          "id": "49a0ca355e02",
+          "title": "Cooper Flagg and Arianna Roberso Confirm Relationship on Vacation",
+          "original_title": "Love and basketball: Cooper Flagg, Arianna Roberso...",
+          "summary": "NBA newcomer Cooper Flagg and his partner Arianna Roberso shared photos and stories from a trip to Turks and Caicos, effectively confirming their relationship amid circulating rumors. The couple reflected on their time together during the vacation.",
           "key_points": [
-            "Model forecasts Cleveland as a slight favorite.",
-            "Provides projected point total and spread recommendations.",
-            "Explains the statistical factors influencing the prediction."
+            "The duo posted vacation memories on social media.",
+            "Their public sharing addressed previous speculation about their romance.",
+            "No basketball performance details were mentioned."
           ],
-          "link": "https://www.cbssports.com/nba/news/cavaliers-pistons-odds-prediction-time-2026-nba-playoff-picks-game-7-best-bets/",
-          "source": "CBS Sports NBA",
-          "published": "2026-05-17T18:34:25+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/48779162/cooper-flagg-arianna-roberson-dating-relationship-rumors-confirmed-duke-blue-devils",
+          "source": "ESPN NBA",
+          "published": "2026-05-17T22:55:10+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "52f3a917706a",
-          "title": "Hoopaholic\u2019s Gazette: The Waiting Game",
-          "original_title": "Hoopaholic\u2019s Gazette: The Waiting Game",
-          "summary": "A Yahoo Sports column tracks the countdown to the NBA draft withdrawal deadline for underclassmen, noting the remaining time for players like Flory Bidunga to decide whether to stay in school or declare for the draft. The piece also references broader draft\u2011related news.",
+          "id": "ee69907fba77",
+          "title": "eBay User Wins $9\u202fMillion Lunch with Warriors Star and Investor",
+          "original_title": "eBay user pays $9 million for private lunch with S...",
+          "summary": "An eBay bidder paid $9,000,100 to secure a private lunch with Golden State Warriors star Stephen Curry and a prominent investor. The auction highlighted the high monetary value placed on exclusive experiences with NBA personalities.",
           "key_points": [
-            "Countdown timer shows 10 days, 10 hours, and 34 minutes left to withdraw.",
-            "Highlights individual players facing the decision, such as Flory Bidunga.",
-            "Mentions related draft developments and the impact on college programs."
+            "The winning bid totaled just over nine million dollars.",
+            "The lunch featured both a Warriors player and a legendary investor.",
+            "The event was organized through an eBay auction platform."
           ],
-          "link": "https://sports.yahoo.com/articles/hoopaholic-gazette-waiting-game-181344242.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-17T18:13:44+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/48778241/lunch-stephen-curry-9-million-warren-buffett-ebay-auction",
+          "source": "ESPN NBA",
+          "published": "2026-05-17T22:55:10+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "3e6c4ea1a25a",
+          "title": "Jalen Williams Listed as Available for Thunder in Western Finals Opener",
+          "original_title": "[Charania] Oklahoma City Thunder star Jalen Williams \u2013 out since April 22 with a hamstring strain \u2013 is listed available against the San Antonio Spurs for Game 1 of the Western Conference finals.",
+          "summary": "According to Shams Charania, Oklahoma City Thunder forward Jalen Williams, who has been out with a hamstring strain since April 22, was cleared to play in Game 1 of the Western Conference Finals against the San Antonio Spurs. The update was posted on Reddit with a link to the ESPN report.",
+          "key_points": [
+            "Williams missed over three weeks due to a hamstring strain.",
+            "He is now listed as available for the Thunder's Game 1 matchup.",
+            "The news was sourced from Shams Charania via ESPN."
+          ],
+          "link": "https://www.reddit.com/r/nba/comments/1tg3ntr/charania_oklahoma_city_thunder_star_jalen/",
+          "source": "Reddit r/nba",
+          "published": "2026-05-17T22:17:11+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "ffd9e8c1e020",
+          "title": "Fred VanVleet Addresses Kevin Durant Burner Account Rumors",
+          "original_title": "[Bleacher Report] Kevin Durant Burner Drama Addressed by Fred VanVleet: \"I think that the gift and the curse with K is that he's so open, and he's so authentic, and he's so approachable, and he's so him, that it leaves room for the f--king clowns to jump in and add their own twist on this s--t\"",
+          "summary": "Houston Rockets guard Fred VanVleet spoke about the speculation surrounding alleged burner social\u2011media accounts linked to teammate Kevin Durant. VanVleet emphasized Durant's authenticity and warned that rumors often attract opportunistic \u201cclowns.\u201d",
+          "key_points": [
+            "VanVleet described Durant as open and authentic, which fuels gossip.",
+            "He suggested that false narratives are more appealing than the truth.",
+            "The comments were made during a Friday episode of VanVleet's \"Ung\" podcast."
+          ],
+          "link": "https://www.reddit.com/r/nba/comments/1tg2s2z/bleacher_report_kevin_durant_burner_drama/",
+          "source": "Reddit r/nba",
+          "published": "2026-05-17T21:42:26+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "bf50ef3c0fd4",
+          "title": "Cheyenne Corin, the Philly reporter whose segment was taken over after the Knicks beat the Sixers in Game 4, received flowers from Knicks fans with a note - \"You handled that like a New Yorker.. come to the winning team. -Knicks in 4\"",
+          "original_title": "Cheyenne Corin, the Philly reporter whose segment was taken over after the Knicks beat the Sixers in Game 4, received flowers from Knicks fans with a note - \"You handled that like a New Yorker.. come to the winning team. -Knicks in 4\"",
+          "summary": "      &#32; submitted by &#32;  /u/HokageEzio   [link] &#32; [comments] ",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/nba/comments/1tg2kdj/cheyenne_corin_the_philly_reporter_whose_segment/",
+          "source": "Reddit r/nba",
+          "published": "2026-05-17T21:34:02+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "8f30f4cab987",
+          "title": "[New York Basketball] The Knicks' players are slowly losing their minds waiting for an opponent for the ECF",
+          "original_title": "[New York Basketball] The Knicks' players are slowly losing their minds waiting for an opponent for the ECF",
+          "summary": "      &#32; submitted by &#32;  /u/HokageEzio   [link] &#32; [comments] ",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/nba/comments/1tg2dux/new_york_basketball_the_knicks_players_are_slowly/",
+          "source": "Reddit r/nba",
+          "published": "2026-05-17T21:27:06+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "ff55a69e0d99",
+          "title": "Sources: SGA wins MVP for second straight year",
+          "original_title": "Sources: SGA wins MVP for second straight year",
+          "summary": "Thunder star Shai Gilgeous-Alexander has won his second consecutive NBA Most Valuable Player award, becoming the 14th player in league history to win back-to-back MVPs, sources told ESPN's Shams Charania.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/48795765/sources-thunder-shai-gilgeous-alexander-repeats-nba-mvp",
+          "source": "ESPN NBA",
+          "published": "2026-05-17T21:26:34+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "e6d4670e7608",
+          "title": "Knicks' Anunoby: hamstring not as bad as in past",
+          "original_title": "Knicks' Anunoby: hamstring not as bad as in past",
+          "summary": "OG Anunoby practiced again Saturday with the Knicks, saying afterward that his right hamstring injury is not as bad as the one he suffered in the 2024 playoffs.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/48788650/knicks-anunoby-practices-again-says-hamstring-not-bad-24",
+          "source": "ESPN NBA",
+          "published": "2026-05-17T21:26:34+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "9fe730200198",
+          "title": "Spurs oust Wolves in rout, set up clash with OKC",
+          "original_title": "Spurs oust Wolves in rout, set up clash with OKC",
+          "summary": "Stephon Castle, De'Aaron Fox and Dylan Harper accounted for nearly half of the Spurs' scoring in a series-clinching 139-109 win over the Timberwolves to set up a Western Conference finals clash with the Thunder.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/48783917/spurs-oust-wolves-game-6-blowout-get-okc-conference-finals",
+          "source": "ESPN NBA",
+          "published": "2026-05-17T21:26:34+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -166,76 +296,56 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "6d0bbece0476",
-          "title": "LeBron James Says He Doesn't Remember His Post\u2011Game Walk\u2011Offs",
-          "original_title": "LeBron James on not remembering his post game \"walkoffs\" - Yahoo Sports",
-          "summary": "LeBron James told Yahoo Sports that he has no recollection of the moments when he walked off the court after games, suggesting those instances were routine and not particularly memorable. The comment came while discussing his long career and the countless games he has played for the Lakers.",
-          "key_points": [
-            "LeBron admitted he can\u2019t recall specific post\u2011game walk\u2011offs.",
-            "He framed the comment as a reflection of his extensive career mileage.",
-            "The remark was made in a broader conversation about his time with the Lakers."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ2hlcFVvUVRtbER4S1F5eXdHQzVQVTBENkhJMm54aHVlNko4M0VLVldZT3dOcWhCMXNsdnB0aVRGYU80YjdlUXZlaXI4ZnVua056MWdUNXRQU2k4b19VakViZVI3RzNXYWlfdVNKNnFHT0ZHWG5vbFFrWGhxX2JJSm5vaHl1Zw?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-17T20:11:42+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "6e4dd5565516",
-          "title": "Insider Evaluates the Possibility of LeBron Playing 25 NBA Seasons",
-          "original_title": "Insider weighs in on whether LeBron James could play 25 seasons in NBA - LeBron Wire",
-          "summary": "An NBA insider weighed in on the feasibility of LeBron James reaching a 25\u2011season milestone, noting his exceptional durability, conditioning regimen, and the Lakers\u2019 interest in managing his minutes. While acknowledging the physical challenges, the insider said it\u2019s not impossible if health and team strategy align.",
-          "key_points": [
-            "LeBron\u2019s longevity is attributed to elite fitness and load management.",
-            "The Lakers would need to continue limiting his minutes to preserve health.",
-            "Reaching 25 seasons remains unlikely but not out of the realm of possibility."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYTVZZl9yam43Nk9sYWVSWERyM3gxZHlhS3BQT0lETVhzc0ktUm1qRDV0Sk1CVzY0c3JsSmRRX1A4YjZBbi1ZMGxEdlZTNFplUlk5TGZvbVRac0REUF85a2U4WUZXOTZneWJLTHJKelZlaXc1elYwcmFyMldsX3BhaHJFUlQxR2JjdE1SSnlXeUtteWdYVXVoZHpGZGtRcjdUZWFuZ0JiUUY2VS1SYWhmT1YyMFVsY0FlckJMT1hEdzdJRkhFR2s1dGhrVzQ4RUNxWVNpckxVeHlKUEFha0x5NXBwbnY?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-17T20:00:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "04e5739d2fc2",
-          "title": "Three Nuggets Players Could Attract Lakers\u2019 Interest This Offseason",
-          "original_title": "Three Nuggets Standouts Could Be on Lakers' Radar This Offseason - Sports Illustrated",
-          "summary": "Sports Illustrated identified three Denver Nuggets standouts\u2014likely a versatile wing, a defensive specialist, and a sharpshooting guard\u2014who may fit the Los Angeles Lakers\u2019 roster needs heading into free agency. The article outlines how each player\u2019s skill set aligns with the Lakers\u2019 desire for depth and shooting.",
-          "key_points": [
-            "The Nuggets\u2019 wing offers 3\u2011and\u2011D capability that matches the Lakers\u2019 defensive schemes.",
-            "A defensive-minded forward could bolster the Lakers\u2019 front\u2011court toughness.",
-            "A proven perimeter shooter would address the Lakers\u2019 need for consistent outside scoring."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNTNLLTlLZUZPdWVLa1phS3BGNjd3UEkxS25wc18xdnlkUU4xYjl2RXJ3X0pfcTlzT0t4WTVpNldzR3NTbks3eXNZZ0NKVUtsU0MzQl8tUE5xQXZWa0F6dXZmUHExSmU0ckVtaUtDZTdnYzI4NTVWbWZ2aTBwV0F2WFBXMnpRZ0I2UmxEdlVQWFJObGdmNmJkWFJuekNUMzBl?oc=5",
+          "id": "717493285a80",
+          "title": "Lakers predicted to cut ties with forward in trade Luka Doncic wouldn't like - Yahoo Sports",
+          "original_title": "Lakers predicted to cut ties with forward in trade Luka Doncic wouldn't like - Yahoo Sports",
+          "summary": "Lakers predicted to cut ties with forward in trade Luka Doncic wouldn't like&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUkR5ZEs2Zmh6eVJfRGZ3aGJOcVMzdWtCUGlUMmNLc1lyQWVJVllIcmdBYkhITE9taFhtcXIxbkRrOGloQTBaLVdZdjhHTzM3QUVDMmpCREFhdUVSdkktSC1mcXlLNFh1RTU2LUlWT1RXZGFUNzJQX1Ixc29GbVpFMEpfdm5CUlJabFE?oc=5",
           "source": "Google News - Luka",
-          "published": "2026-05-17T20:00:00+00:00",
+          "published": "2026-05-17T22:30:38+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "a6aef2d23518",
-          "title": "LeBron Praises Austin Reaves\u2019 Development, Calls It \u2018Amazing\u2019",
-          "original_title": "LeBron James says it\u2019s been \u2018amazing\u2019 to watch Austin Reaves grow throughout his career - Yahoo Sports",
-          "summary": "LeBron James told Yahoo Sports that watching Austin Reaves evolve from a rookie to a reliable contributor has been \u201camazing.\u201d He highlighted Reaves\u2019 work ethic, basketball IQ, and growing role in the Lakers\u2019 offense and defense.",
-          "key_points": [
-            "LeBron commended Reaves\u2019 steady improvement and increasing impact.",
-            "Reaves\u2019 versatility and basketball IQ were singled out as key factors.",
-            "The praise underscores Reaves\u2019 emerging status as a core piece for the Lakers."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNkVtd0JaWVdOajk2MnVaZWF5VGFEX0VOaHppZmVHeG14MjJ0VS1xUDNnRngzX1JVSlMzbFM5TDNrd3VRdTlaZWlHUkl3UFI2RUZxOEQ2bjRYZWxDYUVEUmg5UTN4czd4VmdKclV4cmt0ZXNDeDJxc0FUZGhLNHFUTm9BcjBmNDQ?oc=5",
+          "id": "e9d3eede9c9f",
+          "title": "\u201cI put myself on the back burner\u201d: LeBron James\u2019 wife Savannah James breaks silence on why she never focu - The Times of India",
+          "original_title": "\u201cI put myself on the back burner\u201d: LeBron James\u2019 wife Savannah James breaks silence on why she never focu - The Times of India",
+          "summary": "\u201cI put myself on the back burner\u201d: LeBron James\u2019 wife Savannah James breaks silence on why she never focu&nbsp;&nbsp;The Times of India",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQOVBWbDI5UzZvZDNsWS1uV3FlRkdXRVdsZlhkSzhJLU1paTlBc2ZPeGJRd25DaElXSjNhY1c0TWF6Q0xFMlBmLUNJdVpvak5waTgyWmdWSDRSZGYyX2FjNGEzNDR4QlN6Q2VENkFCMzB0dmNRdDl0T28xRy1JYW1Ga3lqUlE5YTVYMUZLMFAtR3B3MFJJbnNacVBYZVB0amd4NG1mVVZHTUd1RlJoUzIxZ0RuZk11ZVhIRjh1RE1xWEF1b2hibm5JSnoyMUdZOGJkMi10Ty1qRkhqb0s3SEFQd0xBSEl2UnpvWUN5cWZOVmhfUEdHSm9IbzVDUFpYeW1QMUh3X3RQN050MFlha0lVaXd2cThfWDBEUHFhdFlwVFRhU00zZnA5dDM1WEtuOVE50gG2AkFVX3lxTE41d3IxWHk3bDE2bHdxN3c5STJ4YVJNTjB4V0JPUFFwc3NyY2RCOXQtMGNHamdxV3pOYWN6d0toTGxtb3JuYzhtOFdGZUMyV05rT3NaVjc4azE5T1RIWjlJa0Fkc0ZINUtSUl93dlJ6X3k2QVlJR0lna1lYYVBwQURnd0J2cVdnczJNRENndTZPckpzQ2g3MUZub19PN2E0WmlYcE13ZjVnVGNXb3A3UWZjQWxJRW9BdXlsYThOcjVRZmZTTU90R2JhUWQ5dkZ5am8zR3N4WmU1NUpyTl9UbndNa1VHWGxmM0J5Nl90RkFqTFllSV9YZ2cxd3dHVU9oR2h1elVPemgyczcwOHBYbHUxUUxidks1TTl0ajR6aHZXTTVXTU5XZ3VPcl9pay1XX3VCN3BiZ3c?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-05-17T19:19:42+00:00",
+          "published": "2026-05-17T21:30:00+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "306fa7476e63",
-          "title": "Lakers Aggressively Pursue Luka\u202fDoncic\u2019s Former Teammate After Signing LeBron and Reaves",
-          "original_title": "Lakers going all-in to re-sign Luka Doncic's $3M favorite teammate after LeBron James, Austin Reaves - Yahoo Sports Canada",
-          "summary": "Yahoo Sports Canada reported that the Los Angeles Lakers are making a concerted effort to re\u2011sign the player who was a $3\u202fmillion favorite of Dallas Mavericks star Luka\u202fDoncic, following recent deals with LeBron James and Austin Reaves. The move signals the Lakers\u2019 intent to add a familiar, high\u2011character teammate who can contribute immediately.",
-          "key_points": [
-            "The target is a former Doncic teammate known for chemistry and clutch play.",
-            "Lakers have already secured LeBron James and Austin Reaves, completing a core trio.",
-            "Re\u2011signing the player would add depth and veteran presence to the roster."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTDJZMTl4VmZuTWduamlwbGg5bDZRN3otUGw5T3ZLMUttZlR1blRJYUZCdk9CUFhCREtZT3Azb1hIbGprdjF0ZlRJYWtmSjRyWmc1c1phY3AzLXdsSnV0eVF3NG9SSVhsQVNTbHlJRmIwZm1nUGhYV1hpNWxqQ3pJNV8ydFo?oc=5",
+          "id": "67f4c125ba30",
+          "title": "Tim Hardaway: I'm taking prime Dwyane Wade over Prime LeBron James - USA Today",
+          "original_title": "Tim Hardaway: I'm taking prime Dwyane Wade over Prime LeBron James - USA Today",
+          "summary": "Tim Hardaway: I'm taking prime Dwyane Wade over Prime LeBron James&nbsp;&nbsp;USA Today",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ0lHNjViQWtNbmRPU2ZVNlMySkl4RjVjdGk0R2dBSkN4WlpIeTFIUDduVy1QRERpQVE4bWZIcHdZcnJjd0NQSjk4cFFZUFM4QXJyQ0k2ZGZGRG1tbTc1Sm5fS0p1Z0FUSXhlUDByR1dFUmxsSUZuZ3lNYnVqNVVTaEwydzVDdUtpX1hUWDlSQnhUTkVyV0pCMm9xMFY4SUZOd3dBLXdMWHFnSHVpY3B3UXk5eXAzVHp6SWRfR0RBZFROeWp0bXE4QVVn?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-17T21:07:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "e7d6a9fdbd45",
+          "title": "Austin Reaves feels he owes a lot of his career to LeBron James - Silver Screen and Roll",
+          "original_title": "Austin Reaves feels he owes a lot of his career to LeBron James - Silver Screen and Roll",
+          "summary": "Austin Reaves feels he owes a lot of his career to LeBron James&nbsp;&nbsp;Silver Screen and Roll",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN2NFOVRxelNrbGlmdERTYzBQbTJhOHZlaXlJWWNmRlVvUTBxYkxzaW1TdTJVa01pT1VWQ1VEay0wUXpoS3lDaE9MekE5NFBRcW1UblE2YWZQNDFGWnJ4VFBVR1JQLW9TQjRVMVBjOEpCRm9kdktHSXpvR1dncXpyWlBGNmw2RkhpYmlyVDhOR3FoeG9TRW1tak56TQ?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-17T19:35:04+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "14a5511598ce",
+          "title": "Lakers going all-in to re-sign Luka Doncic's $3M favorite teammate after LeBron James, Austin Reaves - Yahoo Sports",
+          "original_title": "Lakers going all-in to re-sign Luka Doncic's $3M favorite teammate after LeBron James, Austin Reaves - Yahoo Sports",
+          "summary": "Lakers going all-in to re-sign Luka Doncic's $3M favorite teammate after LeBron James, Austin Reaves&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMlNCM3ZFYnhiRGpfM0J6RzBFRkpxVUxKbGtpeUFwd3g5WElHZUNVazdORFVKckowMDUyN0l0elVkY3pPajRwUXk2M0NaSUZyRXBCX2ZiOW95N09PdWo5WE1tUFdWaDQ4c1pjUVNZbUpJdndoSTB3d2hiR2o4N25TeE01VEIyUQ?oc=5",
           "source": "Google News - Luka",
           "published": "2026-05-17T18:39:44+00:00",
           "topic": "Lakers Players"
@@ -263,14 +373,14 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "2e35e530fd5e",
-          "title": "2011 NBA Champion Details Mavericks' Perfect Game Plan Against Heat, LeBron James - Sports Illustrated",
-          "original_title": "2011 NBA Champion Details Mavericks' Perfect Game Plan Against Heat, LeBron James - Sports Illustrated",
-          "summary": "2011 NBA Champion Details Mavericks' Perfect Game Plan Against Heat, LeBron James&nbsp;&nbsp;Sports Illustrated",
+          "id": "c7c0b7719db7",
+          "title": "NBA trade, free agency rumors 2026: Cavaliers to retain James Harden, LeBron landing spots - NBC Sports",
+          "original_title": "NBA trade, free agency rumors 2026: Cavaliers to retain James Harden, LeBron landing spots - NBC Sports",
+          "summary": "NBA trade, free agency rumors 2026: Cavaliers to retain James Harden, LeBron landing spots&nbsp;&nbsp;NBC Sports",
           "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaHZ4OThSNnJ4R2tVTFp6S2doTEtsWGNTb3I2MUhCX2prQnFsY2tNOW5HbDgxWXZhYWRtZkFlRUlOVFlsLTBzTEdpSG5WM2dxNnBQMjF3cHAyRTQ5VjJmVXN4a25RS1lKeGZPZS0yR3I0aFFHb2hJd05pY2daN3Jqc29IYmtjVjI4c0VhczA2WXBVUm9RWEloY0pSNGhuSkluWmt2S0MyWHdWVGs5MVptLXpTZ0tBM2czb0tzYXYwUzNIaUtXWEpRMml5Y3luRkxRYl9XZkc0OA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdThBbkIwaFdpelhyNFcwUnREWExCU3hkZjVLTUNia19OV09ISl9FMlVXaGJwdWp2RHZ3WU56a3FuaUhKeDEzTkt6N01uQTBBWjVGemZiQ0M5VTU2MFdHUzdDRERuWlk4V2s4VklxMl9nYWg0cEJSYVVPTjA5STFER19kNkd2WktFMkJwWW9EM1lyY29tNXVWZE9ZZm1ENHVVdnJ6ekFOZHQzLTB3Q3l3RU11MEpMcEdtSUpwUjRTOA?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-05-17T17:00:17+00:00",
+          "published": "2026-05-17T16:56:53+00:00",
           "topic": "Lakers Players"
         },
         {
