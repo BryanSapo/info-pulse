@@ -1,19 +1,79 @@
 {
-  "generated_at": "2026-05-17T17:05:12.035627+00:00",
-  "total_articles": 25,
+  "generated_at": "2026-05-17T19:26:28.406915+00:00",
+  "total_articles": 29,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
-          "id": "a7c5bce20f95",
-          "title": "Fans Debate First Free\u2011Agency Move for the Lakers",
-          "original_title": "Who is your first call?",
-          "summary": "A Reddit thread posted on June 30 asked Lakers fans what their first free\u2011agency acquisition would be once the market opened at 3\u202fPM PT. The discussion referenced several potential targets, including RFA prospects Peyton Watson, Tari\u202fEason, Walker\u202fKessler, as well as free agents Ayo\u202fDosunmu, Andrew\u202fWiggins, Mitchell\u202fRobinson, Robert\u202fWilliams, and Quentin\u202fGrimes.",
+          "id": "5469848cceb6",
+          "title": "Lisa Leslie Presents Flowers to LeBron James Amid Offseason Uncertainty",
+          "original_title": "Lisa Leslie Gives Flowers To LeBron James For Lakers Tenure",
+          "summary": "Los Angeles Lakers star LeBron James faces a pivotal offseason decision about his future playing career and potential team destination. Despite his age, James has demonstrated he can still serve as a valuable third option alongside Luka\u202fDoncic and Austin Reaves if he chooses to remain with the Lakers.",
           "key_points": [
-            "Thread posted on the r/lakers subreddit on June\u202f30, the day the NBA free\u2011agency period began.",
-            "Fans were prompted to name their top priority signing for Los Angeles.",
-            "Potential targets listed ranged from young restricted free agents to veteran role players."
+            "James must decide whether to continue playing and, if so, where.",
+            "His recent performance shows he can contribute as a third\u2011option guard.",
+            "The offseason will be critical for the Lakers' roster planning."
+          ],
+          "link": "https://lakersnation.com/lisa-leslie-gives-flowers-to-lebron-james-for-lakers-tenure/",
+          "source": "Lakers Nation",
+          "published": "2026-05-17T18:55:28+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "6506b0c45257",
+          "title": "Dillon Brooks Labels Jarred Vanderbilt as \u2018Dumb\u2019 Player",
+          "original_title": "Dillon Brooks Names Jarred Vanderbilt As One Of \u2018Dumb\u2019 Players In NBA",
+          "summary": "Phoenix Suns forward Dillon Brooks, known for his antagonistic on\u2011court persona, called former Lakers forward Jarred Vanderbilt a \u201cdumb\u201d player during recent comments. Brooks has a history of heated matchups with LeBron James and the Lakers in both regular\u2011season and playoff games.",
+          "key_points": [
+            "Brooks publicly criticized Vanderbilt\u2019s basketball IQ.",
+            "The remark adds to Brooks\u2019 reputation as a league villain.",
+            "Brooks\u2019 comments reference past battles with LeBron James and the Lakers."
+          ],
+          "link": "https://lakersnation.com/dillon-brooks-names-jarred-vanderbilt-as-one-of-dumb-players-in-nba/",
+          "source": "Lakers Nation",
+          "published": "2026-05-17T17:30:42+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "65b1a1e0bf61",
+          "title": "LeBron James Praises Austin Reaves\u2019 Development",
+          "original_title": "LeBron James says it\u2019s been \u2018amazing\u2019 to watch Austin Reaves grow throughout his career",
+          "summary": "LeBron James described watching Austin Reaves\u2019 growth as \u201camazing,\u201d noting the former Oklahoma player\u2019s rise from a role player to a key contributor for the Lakers. Reaves\u2019 minutes and production have steadily increased each season, reflecting his expanding role on the team.",
+          "key_points": [
+            "Reaves has progressed from a bench player to a significant scorer and playmaker.",
+            "His minutes and statistical output have risen year over year.",
+            "James highlighted Reaves\u2019 work ethic and impact on the Lakers\u2019 success."
+          ],
+          "link": "https://www.silverscreenandroll.com/lakers-news/117508/lakers-lebron-james-austin-reaves-nba-free-agency-contract",
+          "source": "Silver Screen and Roll",
+          "published": "2026-05-17T17:15:41+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "256db6e18f9a",
+          "title": "Mark Daigneault Credits Lakers for Elevating Thunder\u2019s Play",
+          "original_title": "Mark Daigneault Credits Lakers For Making Thunder Better",
+          "summary": "Thunder head coach Mark Daigneault praised the Los Angeles Lakers for pushing Oklahoma City to a higher level during their second\u2011round playoff series, which the Thunder swept despite missing Luka\u202fDoncic. Daigneault believes the competition helped the Thunder improve overall.",
+          "key_points": [
+            "The Lakers faced the Thunder in the second round without Luka\u202fDoncic.",
+            "Oklahoma City swept the series, but Daigneault noted the Lakers\u2019 challenge was beneficial.",
+            "Daigneault credited the matchup with making the Thunder a better team."
+          ],
+          "link": "https://lakersnation.com/mark-daigneault-credits-lakers-for-making-thunder-better/",
+          "source": "Lakers Nation",
+          "published": "2026-05-17T16:00:35+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "a7c5bce20f95",
+          "title": "Reddit Fans Discuss First Free\u2011Agency Move for the Lakers",
+          "original_title": "Who is your first call?",
+          "summary": "A Reddit thread on r/lakers asked fans to name their first free\u2011agency acquisition for the Lakers, scheduled to open on June\u202f30 at 3\u202fPM PT. Users referenced several potential targets, including RFA Peyton Watson, Tari\u202fEason, Walker\u202fKessler, and veterans such as Andrew\u202fWiggins and Mitchell\u202fRobinson.",
+          "key_points": [
+            "Free agency opens June\u202f30, 3\u202fPM PT.",
+            "Fans debated priority signings, mentioning both restricted free agents and free agents.",
+            "Potential targets listed: Peyton Watson, Tari\u202fEason, Walker\u202fKessler, Ayo\u202fDosunmu, Andrew\u202fWiggins, Mitchell\u202fRobinson, Robert\u202fWilliams, Quentin\u202fGrimes."
           ],
           "link": "https://www.reddit.com/r/lakers/comments/1tft33k/who_is_your_first_call/",
           "source": "Reddit r/lakers",
@@ -21,63 +81,58 @@
           "topic": "Lakers News"
         },
         {
-          "id": "8a779e6a7f7c",
-          "title": "Jeanie Buss Says \u2018Cocaine Was the Perfect L.A. Drug\u2019 During Showtime Era",
-          "original_title": "\"Cocaine was the perfect L.A. drug\" - Jeanie Buss opened up about wild cocaine culture during the Lakers' Showtime era - Basketball Network",
-          "summary": "In a recent interview, Lakers owner Jeanie Buss recalled the prevalence of cocaine use during the franchise\u2019s Showtime years in the 1980s, describing the drug as fitting the city\u2019s culture at the time. Buss emphasized that the era\u2019s excesses were part of a broader social context rather than a reflection of the team\u2019s on\u2011court success.",
-          "key_points": [
-            "Buss highlighted the widespread cocaine culture in Los Angeles during the 1980s.",
-            "She linked the drug\u2019s popularity to the city\u2019s broader lifestyle, not specifically to the Lakers.",
-            "The comments were part of a Basketball Network feature on the Showtime era."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONVRiQndWSmJDM3M2S3NoU1FlRF91clg0aFlWUHFOam5FQkk4aV9IcnlBUzdFSklVb2VleDJJakJXSlVDZXVrYnJpSGg1MmI3cWhxeV9qb0prcVBXUEFSSVV2Y3BMT205Y1VXX3pnTTQzeElwNTQ2QkJWRDU3T1dzOHBrV2JLOEhoOHpaN2VmMUJjZlc3THBjUGRIcVJCSnJJUjhvaEh4cTVCS0E1QzdLaHhLM050ZVRvMkNZTklzV3piZw?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-17T15:36:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "256db6e18f9a",
-          "title": "Thunder Coach Credits Lakers for Elevating Oklahoma City\u2019s Play",
-          "original_title": "Mark Daigneault Credits Lakers For Making Thunder Better",
-          "summary": "After sweeping the Los Angeles Lakers in the 2024 Western Conference second round, Oklahoma City Thunder head coach Mark Daigneault praised the Lakers for pushing his team to improve. Despite missing Luka\u202fDon\u010di\u0107, Daigneault noted that the series tested the Thunder\u2019s depth and highlighted areas for growth.",
-          "key_points": [
-            "The Thunder eliminated the Lakers in four games, advancing to the conference finals.",
-            "Coach Daigneault said the Lakers\u2019 competitiveness forced Oklahoma City to raise its level.",
-            "Even without Don\u010di\u0107, the Thunder were heavy favorites, but the series was more contested than expected."
-          ],
-          "link": "https://lakersnation.com/mark-daigneault-credits-lakers-for-making-thunder-better/",
-          "source": "Lakers Nation",
-          "published": "2026-05-17T15:30:35+00:00",
-          "topic": "Lakers News"
-        },
-        {
           "id": "ce6d4a2afc55",
-          "title": "Dwyane Wade Explains Kobe\u2019s Fifth Ring Inspired Miami\u2019s \u2018Big\u202f3\u2019",
+          "title": "Dwayne Wade explains how Kobe Bryant getting his 5th ring influenced the Big 3 being formed on the Miami Heat",
           "original_title": "Dwayne Wade explains how Kobe Bryant getting his 5th ring influenced the Big 3 being formed on the Miami Heat",
-          "summary": "In a Reddit post, former NBA star Dwyane Wade discussed how Kobe Bryant\u2019s fifth championship with the Lakers influenced the formation of the Miami Heat\u2019s Big\u202f3 (LeBron\u202fJames, Dwyane\u202fWade, Chris\u202fBosh). Wade argued that Kobe\u2019s success demonstrated the value of assembling multiple superstars to chase titles.",
-          "key_points": [
-            "Wade linked Kobe\u2019s 2009 championship to the Heat\u2019s decision to sign LeBron\u202fJames and Bosh.",
-            "He suggested the Lakers\u2019 model of star\u2011centric rosters shaped Miami\u2019s championship strategy.",
-            "The commentary was shared on the r/lakers subreddit."
-          ],
+          "summary": "      &#32; submitted by &#32;  /u/CircledSquare7   [link] &#32; [comments] ",
+          "key_points": [],
           "link": "https://www.reddit.com/r/lakers/comments/1tfsjwq/dwayne_wade_explains_how_kobe_bryant_getting_his/",
           "source": "Reddit r/lakers",
           "published": "2026-05-17T15:23:58+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "0e37475c930d",
-          "title": "Former Lakers Guard Likely Out of Time in Los Angeles",
-          "original_title": "Forgotten Lakers guard may already be out of time in Los Angeles - Lake Show Life",
-          "summary": "Lake Show Life reports that a once\u2011promising Lakers guard, whose name was not disclosed, appears to have fallen out of the team\u2019s long\u2011term plans. The article suggests the player\u2019s reduced role and lack of recent impact signal the end of his tenure with the franchise.",
-          "key_points": [
-            "The guard\u2019s contributions have diminished, leading to speculation about his future with the Lakers.",
-            "No official statement from the organization, but media sources indicate he may be on his way out.",
-            "The piece reflects broader roster turnover as Los Angeles reshapes its roster."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaVJ1N2UtVEVnWERBd2RiQVdWSDVGUkh3U3NKS0ZhTE5wTjY3MHNpYzIxSHZGSndDU3RVYVpheVBGaEIxR1ppeTlLUkZWdGRZQTd3M0lDZ2luTDE5NWRvWlpUdmF1YWNGX1NiOHZ1aFRyZ1lTZlladkF1bkF6REN0cEl5YjZmNDFOeFF4czFzZUczMVE?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-17T15:00:01+00:00",
+          "id": "2db9cda42383",
+          "title": "Lakers Rumors: Austin Reaves Contract Could Reach $40 Million Per Year In Free Agency",
+          "original_title": "Lakers Rumors: Austin Reaves Contract Could Reach $40 Million Per Year In Free Agency",
+          "summary": "Coming off a career year, Austin Reaves is going to be in line to receive a lucrative contract after declining a player option and becoming an unrestricted free agent for the first time in his Los Angeles Lakers career. The 27-year-old has improved in each of his five seasons with the Lakers and after a [&#8230;]",
+          "key_points": [],
+          "link": "https://lakersnation.com/lakers-free-agent-austin-reaves-contract-40-million-per-season/",
+          "source": "Lakers Nation",
+          "published": "2026-05-17T14:40:33+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "d8c6cde5d6dd",
+          "title": "Kobe Bryant 2006-2010",
+          "original_title": "Kobe Bryant 2006-2010",
+          "summary": "      &#32; submitted by &#32;  /u/CircledSquare7   [link] &#32; [comments] ",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/lakers/comments/1tfr8hl/kobe_bryant_20062010/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-17T14:34:10+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "c7b8729368cc",
+          "title": "Posting this because Shai just won MVP. Credit to lakersalldayeveryday on Instagram",
+          "original_title": "Posting this because Shai just won MVP. Credit to lakersalldayeveryday on Instagram",
+          "summary": "      &#32; submitted by &#32;  /u/alonsantelices123   [link] &#32; [comments] ",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/lakers/comments/1tfr0w6/posting_this_because_shai_just_won_mvp_credit_to/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-17T14:26:09+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "5712977326bf",
+          "title": "Daily Lakers Offseason Discussion Thread",
+          "original_title": "Daily Lakers Offseason Discussion Thread",
+          "summary": "Lakers season is over. Talk about whatever you want.  &#32; submitted by &#32;  /u/AutoModerator   [link] &#32; [comments]",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/lakers/comments/1tfqdkr/daily_lakers_offseason_discussion_thread/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-17T14:00:44+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -86,153 +141,133 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "c008658f8f74",
-          "title": "Thunder Star Shai Gilgeous\u2011Alexander Poised for Back\u2011to\u2011Back MVP",
-          "original_title": "MVP staying with SGA? Thunder star poised to go back-to-back as award news leaks",
-          "summary": "Shai Gilgeous\u2011Alexander is expected to be named NBA MVP for a second straight year after guiding Oklahoma City to the league's best record. Leaks suggest the award will be announced on Sunday, confirming his dominance in the regular season.",
-          "key_points": [
-            "Gilbert is projected as the unanimous MVP winner for a second consecutive season.",
-            "His performance helped the Thunder secure the top seed in the Western Conference.",
-            "The MVP announcement is slated for Sunday, ahead of the Thunder's upcoming playoff series."
-          ],
-          "link": "https://sports.yahoo.com/articles/mvp-staying-sga-thunder-star-162717698.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-17T16:27:17+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "96206a76c8f5",
-          "title": "Pistons vs. Cavaliers Game 7 Playoff Preview",
-          "original_title": "Pistons vs Cavaliers Game 7 Round 2 NBA Playoffs predictions: Odds, recent stats, trends, best bets on May 17",
-          "summary": "Yahoo Sports outlines the key statistics, betting odds, and trends ahead of the decisive Game 7 between Detroit and Cleveland in the second round of the NBA playoffs. The preview highlights each team's recent performance and factors that could influence the outcome on May 17.",
-          "key_points": [
-            "Both teams enter Game 7 with contrasting recent form and statistical strengths.",
-            "Betting odds and line movements are discussed, offering insight for wagers.",
-            "Injury updates and head\u2011to\u2011head trends are noted as potential game\u2011changing elements."
-          ],
-          "link": "https://sports.yahoo.com/articles/pistons-vs-cavaliers-game-7-160220339.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-17T16:02:20+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "d39b98fa0a4d",
-          "title": "Myles Turner Criticizes NBA Referees on Reddit",
-          "original_title": "Myles Turner on the NBA refs: \u201cThe refs are like the police. If you fuck with one of them, you fuck with all of them. They band together, and it\u2019s like, 'Nah, he\u2019s not getting no calls.' If you go after a rookie ref or a female ref the veteran refs will step in and fuck you out of the game.\"",
-          "summary": "In a Reddit post, Myles Turner compared NBA referees to police, suggesting that officials protect each other and that targeting a rookie or female referee could lead to harsher treatment from veteran officials. The comment sparked discussion among fans about officiating standards.",
-          "key_points": [
-            "Turner claimed referees operate as a unified group that shields one another.",
-            "He warned that challenging less\u2011experienced or female officials could result in retaliation.",
-            "The remarks generated debate on the NBA\u2019s officiating culture and accountability."
-          ],
-          "link": "https://www.reddit.com/r/nba/comments/1tftfee/myles_turner_on_the_nba_refs_the_refs_are_like/",
+          "id": "f15ee89e4b50",
+          "title": "The Cleveland Cavaliers and the Detroit Pistons will both be playing their second consecutive 7 game series that will go the distance. Only 8 teams have made the Finals after two consecutive 7 game series before winning the Conference, and only 4 have won the championship going to 7 twice in a row.",
+          "original_title": "The Cleveland Cavaliers and the Detroit Pistons will both be playing their second consecutive 7 game series that will go the distance. Only 8 teams have made the Finals after two consecutive 7 game series before winning the Conference, and only 4 have won the championship going to 7 twice in a row.",
+          "summary": "The Cavs and Pistons have both gone the distance two series in a row to get a right to go to the Eastern Conference Finals. I was curious what sort of impact having back to back 7 game series has had on teams in the past. Here's a list of all 32 teams that has had to go the distance twice in a row and their eventual fate. 1960 St. Louis Hawks  Western Division Finals: 4-3 victory over Minneapolis Lakers NBA Finals: 3-4 loss to the Boston Celtics in Boston The Hawks received a bye to get around t",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/nba/comments/1tfy63l/the_cleveland_cavaliers_and_the_detroit_pistons/",
           "source": "Reddit r/nba",
-          "published": "2026-05-17T15:56:20+00:00",
+          "published": "2026-05-17T18:49:58+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "20e09202199c",
-          "title": "SGA the Overwhelming Favorite for Sunday\u2019s MVP Reveal",
-          "original_title": "Shai Gilgeous-Alexander is the overwhelming favorite for NBA MVP in Sunday night's reveal",
-          "summary": "Yahoo Sports notes that Shai Gilgeous\u2011Alexander is the clear frontrunner for the NBA MVP award, which will be announced the day before the Thunder\u2019s Western Conference Finals home game. The timing mirrors last season\u2019s award schedule.",
-          "key_points": [
-            "SGA leads the MVP voting and is expected to win the award on Sunday.",
-            "The announcement will come one day before the Thunder\u2019s first Western Conference Finals home game.",
-            "The timing follows the same pattern as the previous season\u2019s MVP reveal."
-          ],
-          "link": "https://sports.yahoo.com/articles/shai-gilgeous-alexander-overwhelming-favorite-155208696.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-17T15:52:08+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "494d7f2d719c",
-          "title": "Two\u2011Time MVP Shai Gilgeous\u2011Alexander Joins Elite Club Amid Wembanyama Hype",
-          "original_title": "Shai Gilgeous-Alexander is a two-time MVP, but what that means historically depends on what comes next",
-          "summary": "CBS Sports highlights that Shai Gilgeous\u2011Alexander has joined the rare group of players who have won back\u2011to\u2011back MVP awards, even as rookie phenom Victor Wembanyama draws significant attention. The article examines the historical significance of consecutive MVPs.",
-          "key_points": [
-            "SGA becomes one of the few players to capture MVP honors in consecutive seasons.",
-            "His achievement is noted despite the rising profile of rookie Victor Wembanyama.",
-            "The piece places his back\u2011to\u2011back awards in a broader historical context."
-          ],
-          "link": "https://www.cbssports.com/nba/news/shai-gilgeous-alexander-mvp-history-victor-wembanyama/",
+          "id": "851d47f99ee5",
+          "title": "Cavaliers vs. Pistons odds, prediction, time: 2026 NBA playoff picks, Game 7 best bets from advanced model",
+          "original_title": "Cavaliers vs. Pistons odds, prediction, time: 2026 NBA playoff picks, Game 7 best bets from advanced model",
+          "summary": "SportsLine's model reveals its Cleveland Cavaliers vs. Detroit Pistons Game 7 picks for Sunday",
+          "key_points": [],
+          "link": "https://www.cbssports.com/nba/news/cavaliers-pistons-odds-prediction-time-2026-nba-playoff-picks-game-7-best-bets/",
           "source": "CBS Sports NBA",
-          "published": "2026-05-17T15:28:38+00:00",
+          "published": "2026-05-17T18:34:25+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "58c01c983e97",
-          "title": "Isaiah Thomas Discusses Grief on Anderson Cooper Podcast",
-          "original_title": "Isaiah Thomas was recently on Anderson Cooper\u2019s podcast talking about experiencing grief through the passing of his two sisters.",
-          "summary": "Former NBA guard Isaiah Thomas appeared on Anderson Cooper\u2019s podcast to talk about coping with the loss of his two sisters. He reflected on how personal tragedy shaped his iconic playoff run with Boston and praised the podcast\u2019s focus on grief.",
+          "id": "52f3a917706a",
+          "title": "Hoopaholic\u2019s Gazette: The Waiting Game",
+          "original_title": "Hoopaholic\u2019s Gazette: The Waiting Game",
+          "summary": "From the moment of my fist keystroke here, there are 10 days, 10 hours and 34 minutes until the NBA Draft withdrawal deadline for college underclassman, those wishing to continue their undergraduate eduction at an institution of higher learning. Flory Bidunga, you are on the clock. And now the Louisville Cardinal fanbase, after enduring a [\u2026]",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/hoopaholic-gazette-waiting-game-181344242.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-17T18:13:44+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "19c80808bec5",
+          "title": "Twitter celebrates Shai Gilgeous Alexander winning another NBA MVP Award",
+          "original_title": "Twitter celebrates Shai Gilgeous Alexander winning another NBA MVP Award",
+          "summary": "Former Kentucky star guard Shai Gilgeous-Alexander continues rise to NBA superstardom after winning back-to-back MVPs.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/twitter-celebrates-shai-gilgeous-alexander-175308522.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-17T17:53:08+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "6695eb0a24c9",
+          "title": "Spurs vs Thunder Prediction, Picks & Odds for NBA Playoffs Game 1",
+          "original_title": "Spurs vs Thunder Prediction, Picks & Odds for NBA Playoffs Game 1",
+          "summary": "Two elite defensive teams are sending us toward an Under in our Spurs vs. Thunder predictions and NBA picks for Game 1 on Monday, May 17.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/spurs-vs-thunder-prediction-picks-175200181.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-17T17:52:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "7b88b17448c5",
+          "title": "Shai Gilgeous\u2011Alexander Wins Back\u2011to\u2011Back NBA MVP Awards",
+          "original_title": "Former Kentucky guard Shai Gilgeous-Alexander wins back-to-back NBA MVP Awards",
+          "summary": "Oklahoma City Thunder guard Shai Gilgeous\u2011Alexander captured his second consecutive NBA Most Valuable Player award, joining an elite group of 14 players to achieve the feat. He guided the Thunder to a league\u2011best 64\u2011win season, cementing his rise from former Kentucky star to NBA superstar.",
           "key_points": [
-            "Thomas opened up about the emotional impact of his sisters' deaths.",
-            "He linked his resilience during Boston\u2019s 2024 playoff run to his grieving process.",
-            "The interview highlights the broader conversation about mental health and loss in sports."
+            "SGA earned his second straight MVP, becoming the 14th player in league history with back\u2011to\u2011back honors.",
+            "The Thunder posted the best record in the NBA (64\u201118) during his first MVP season.",
+            "His performance continues the trend of former Kentucky guards excelling at the professional level."
           ],
-          "link": "https://www.reddit.com/r/nba/comments/1tfsohy/isaiah_thomas_was_recently_on_anderson_coopers/",
+          "link": "https://sports.yahoo.com/articles/former-kentucky-guard-shai-gilgeous-173919071.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-17T17:39:19+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "9fdc152e12d0",
+          "title": "Historical Trend: \u2018S\u2019 Point Guards Win Back\u2011to\u2011Back MVPs in Years Ending in 5 or 6",
+          "original_title": "In every decade thus far of the 21st century, every year ending in a 5 or 6 has had a Western Conference point guard whose name starts with S win back-to-back MVPs.",
+          "summary": "A Reddit discussion highlights a quirky pattern: every year ending in 5 or 6 of the 21st century has seen a Western Conference point guard whose name starts with \u201cS\u201d win consecutive MVP awards. In each case\u2014Steve Nash (2005\u201106) and Stephen Curry (2021\u201122)\u2014the player also led his team to back\u2011to\u2011back Conference Finals and posted the league\u2019s best record in the first MVP season.",
+          "key_points": [
+            "Steve Nash (2005\u201106) and Stephen Curry (2021\u201122) fit the \u201cS\u2011name, 5/6 year\u201d MVP pattern.",
+            "Both players reached the Western Conference Finals in each of their MVP seasons.",
+            "Each secured the NBA\u2019s best overall regular\u2011season record during their first MVP year."
+          ],
+          "link": "https://www.reddit.com/r/nba/comments/1tfvz70/in_every_decade_thus_far_of_the_21st_century/",
           "source": "Reddit r/nba",
-          "published": "2026-05-17T15:28:37+00:00",
+          "published": "2026-05-17T17:30:20+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "6db5a91cb991",
-          "title": "Shai Gilgeous\u2011Alexander Wins Back\u2011to\u2011Back MVP Honors",
-          "original_title": "Shai Gilgeous-Alexander named MVP: Thunder star becomes just 14th player to win back-to-back awards",
-          "summary": "Oklahoma City Thunder star Shai Gilgeous\u2011Alexander was named NBA MVP for the second consecutive season, becoming only the 14th player in league history to achieve back\u2011to\u2011back awards. He secured the honor by outperforming notable contenders Victor Wembanyama of the Spurs and Nikola Joki\u0107 of the Nuggets.",
+          "id": "59d973aace2c",
+          "title": "Cavaliers vs. Pistons Game 7: How to Watch the Playoff Decider",
+          "original_title": "Where to watch Cleveland Cavaliers vs. Detroit Pistons Game 7 NBA playoffs: Live stream, start time, TV channel, odds for Sunday, May 17",
+          "summary": "Yahoo Sports outlines the broadcast details for Game 7 of the Eastern Conference semifinals between the Cleveland Cavaliers and Detroit Pistons. The article provides streaming options, TV channel information, start time, and betting odds for the May 17 matchup.",
           "key_points": [
-            "Gilgeous\u2011Alexander\u2019s season averages and leadership propelled the Thunder to a top\u2011seed finish.",
-            "He edged out Wembanyama and Joki\u0107 in the voting, marking a rare repeat MVP performance.",
-            "The award underscores the Thunder\u2019s rise as a perennial contender."
+            "Game 7 is scheduled for Sunday, May 17, with start time and TV channel listed.",
+            "Streaming platforms and live\u2011feed options are detailed for fans.",
+            "Current betting odds and matchup previews are included."
           ],
-          "link": "https://www.cbssports.com/nba/news/shai-gilgeous-alexander-mvp-thunder-back-to-back/",
-          "source": "CBS Sports NBA",
-          "published": "2026-05-17T15:16:27+00:00",
+          "link": "https://sports.yahoo.com/nba/article/where-to-watch-cleveland-cavaliers-vs-detroit-pistons-game-7-nba-playoffs-live-stream-start-time-tv-channel-odds-for-sunday-may-17-173000158.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-17T17:30:00+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "eaf285a30019",
-          "title": "NBA Executives Concerned About 3\u20112\u20111 Anti\u2011Tanking Draft Proposal",
-          "original_title": "[Vorkunov] Team officials believe that the NBA is \u201chellbent\u201d on passing the 3-2-1 Anti-Tanking proposal despite concerns varying from creating a new set of problems, keeping the worst teams at the bottom for longer, making first-round picks more valuable thus restricting the trade market, etc.",
-          "summary": "Team officials voiced strong reservations at the recent Draft Combine that the league is pushing a 3\u20112\u20111 anti\u2011tanking plan, fearing it could create new competitive\u2011balance issues. Concerns include keeping the worst teams at the bottom longer, inflating first\u2011round pick values, and limiting trade flexibility.",
+          "id": "687eb7fb88af",
+          "title": "Implications of a Third Straight Second\u2011Round Exit for the Cavaliers",
+          "original_title": "Why the fallout from this Cavs-Pistons Game 7 coul...",
+          "summary": "ESPN examines the potential fallout if the Cleveland Cavaliers lose Game 7 to the Detroit Pistons, marking a third consecutive second\u2011round elimination. The analysis focuses on questions surrounding the team\u2019s superstars and how rival franchises may respond.",
           "key_points": [
-            "Executives worry the proposal may entrench struggling franchises rather than aid them.",
-            "Higher first\u2011round pick values could reduce the attractiveness of draft\u2011pick trades.",
-            "The league\u2019s push for the rule change faces pushback despite its anti\u2011tanking intent."
+            "A loss would extend the Cavs\u2019 streak of second\u2011round exits to three years.",
+            "The defeat could spark scrutiny of the performance and leadership of Cleveland\u2019s star players.",
+            "Competing teams are likely to adjust strategies based on the Cavs\u2019 perceived weaknesses."
           ],
-          "link": "https://www.reddit.com/r/nba/comments/1tfsafv/vorkunov_team_officials_believe_that_the_nba_is/",
-          "source": "Reddit r/nba",
-          "published": "2026-05-17T15:14:05+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/48791313/why-fallout-cleveland-cavaliers-detroit-pistons-game-7-massive-nba-offseason",
+          "source": "ESPN NBA",
+          "published": "2026-05-17T17:29:57+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "edac042a4fb0",
-          "title": "Reddit Playoffs Discussion & Game Thread Index",
-          "original_title": "Daily Discussion Thread + Game Thread Index | Playoffs",
-          "summary": "A Reddit post compiled links to daily discussion threads and game threads for the NBA playoffs, serving as a centralized hub for fans to follow live scores, commentary, and community conversation. The post notes that older Reddit versions do not support the full content.",
+          "id": "ff55a69e0d99",
+          "title": "Sources Confirm Shai Gilgeous\u2011Alexander Wins Second Straight MVP",
+          "original_title": "Sources: SGA wins MVP for second straight year",
+          "summary": "ESPN\u2019s Shams Charania reports that Thunder guard Shai Gilgeous\u2011Alexander has secured his second consecutive NBA MVP award, joining a select group of players with back\u2011to\u2011back honors. The accolade reflects his dominant season and the Thunder\u2019s league\u2011leading record.",
           "key_points": [
-            "Provides a convenient index of playoff discussion and game\u2011specific threads.",
-            "Facilitates real\u2011time fan interaction and updates throughout the postseason.",
-            "Requires the new Reddit interface to view the complete post."
+            "SGA becomes the 14th player in NBA history to win MVP in consecutive seasons.",
+            "His back\u2011to\u2011back awards underscore his impact on the Thunder\u2019s top\u2011seed performance.",
+            "The news was confirmed by multiple reliable sources cited by ESPN."
           ],
-          "link": "https://www.reddit.com/r/nba/comments/1tfrwye/daily_discussion_thread_game_thread_index_playoffs/",
-          "source": "Reddit r/nba",
-          "published": "2026-05-17T15:00:15+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "037e869ec6b3",
-          "title": "Cavaliers Likely to Extend Donovan Mitchell\u2019s Contract in 2027",
-          "original_title": "[Windhorst] Cavs will likely want to replace Mitchell's option season with a new contract in July, when they can add four years and up to $272 million. But Mitchell can, and probably should, wait until 2027... Then, with 10 years of service time, he can sign for five years and about $350 million",
-          "summary": "According to NBA insider Adrian Wojnarowski, Cleveland plans to replace Donovan Mitchell\u2019s 2026\u201127 player option with a new four\u2011year, up\u2011to\u2011$272\u202fmillion deal in July. Mitchell could instead wait until 2027, after reaching ten years of service, to negotiate a five\u2011year contract worth about $350\u202fmillion.",
-          "key_points": [
-            "Cleveland may offer a four\u2011year extension now, but Mitchell can defer to 2027 for a larger deal.",
-            "Mitchell\u2019s current contract includes a $50\u202fmillion salary for 2026\u201127 and a $54\u202fmillion player option for 2027\u201128.",
-            "Waiting could allow Mitchell to secure a higher\u2011value, longer\u2011term contract under NBA free\u2011agency rules."
-          ],
-          "link": "https://www.reddit.com/r/nba/comments/1tfrvvp/windhorst_cavs_will_likely_want_to_replace/",
-          "source": "Reddit r/nba",
-          "published": "2026-05-17T14:59:11+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/48795765/sources-thunder-shai-gilgeous-alexander-repeats-nba-mvp",
+          "source": "ESPN NBA",
+          "published": "2026-05-17T17:14:03+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -241,133 +276,118 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "940351764797",
-          "title": "LeBron James to the Celtics sounds insane \u2014 but it could actually work",
-          "original_title": "LeBron James to the Celtics sounds insane \u2014 but it could actually work - CelticsBlog",
-          "summary": "CelticsBlog explores the wild notion of LeBron James joining the Boston Celtics. The piece weighs the logistical challenges against potential on\u2011court benefits, suggesting that, despite fan disbelief, the trade could be feasible under the right salary\u2011cap conditions.",
-          "key_points": [
-            "A trade for LeBron would require a massive salary\u2011matching package and likely involve multiple players and draft picks.",
-            "The Celtics could gain a veteran leader and championship experience, complementing their young core.",
-            "Critics note the difficulty of moving LeBron from the Lakers, given his contract and Los Angeles\u2019 desire to retain him."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQnQ3UFFXcDBnNXlaWm5DTUpoaVNfVTFXeVpJWnB0b0tYUHV6b0xrOTdYckVwNXVodUM0QVF6NVBzMjhlc0RYR1FNY2JYU1AtVG1VVnFrbXlXbjZhQ25KajZSQS1fYndneEk2TmZteHBNWnlfZ09hWkxxUC1qdzJzQ21LSTNvTHYyc21MdVZrcUF5Q3BCLVhMd3lRbUQ5SXRPSEludS1JRXVhb2NEVkxHMThYNGE1Zm5HVk1rSQ?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-17T16:29:33+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "7ea941b75fac",
-          "title": "LeBron James Hits Omnia Dayclub Opening With VIP Crowd in Vegas",
-          "original_title": "LeBron James Hits Omnia Dayclub Opening With VIP Crowd in Vegas - TMZ",
-          "summary": "TMZ reports that LeBron James attended the grand opening of Omnia Dayclub in Las Vegas, surrounded by a high\u2011profile VIP crowd. The appearance underscores his off\u2011court popularity and ties to the entertainment scene in Nevada.",
-          "key_points": [
-            "LeBron was seen mingling with celebrities and influencers at the venue\u2019s launch.",
-            "His presence generated extensive social\u2011media coverage, reinforcing his brand beyond basketball.",
-            "The event highlights LeBron\u2019s continued influence in lifestyle and nightlife markets."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15bG1yVEtFNkZBbTBwWHhRSnJfZVhCR2VVSmMxWl9BZjVOaUtJbGNkZ2ZlRnhpbEF1WEpiUzJicFFHeDJFTmNsanpNTDU4Rjl6a1YzbldjSllFb0Q3dkNKRi1ySk9uMWhVX094NWRzQ0d3TFlIRUY2elR2Z1hqWkk?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-17T16:15:32+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "10777deb0eae",
-          "title": "Paul Pierce on why he thinks LeBron James should retire",
-          "original_title": "Paul Pierce on why he thinks LeBron James should retire - LeBron Wire",
-          "summary": "The LeBron Wire relays former Boston star Paul Pierce\u2019s opinion that LeBron James should consider retirement. Pierce cites age, injury risk, and the desire for younger talent to emerge as his main reasons.",
-          "key_points": [
-            "Pierce argues that LeBron\u2019s body has endured decades of wear and tear.",
-            "He suggests the NBA would benefit from a new generation of superstars taking the spotlight.",
-            "The comment sparked debate among fans and analysts about LeBron\u2019s longevity."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQalFUVTFBN3NhQ1hYSElhMXJVOXdWbm9PSVItbnRFanJEcnpxekx1TDVhOXVhSFN4c1FQdENnWEJUUkRhaFdfaEtGdkUxZkw4ZGRpWTRlT05rWVZ1bm1KSW9vLVBzQThkeU9jU1BZN1NtRmdseU5yWG02TldqbmFEc19mZkllZGszMDVWZ09JRmd0dW4wQmJCVndBVzFiaFIyUVFiOWRSY3NHVTZpai1RcDMzOUVkaGQ0ZTVoVUdmR2R1US1SRl9B?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-17T16:00:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "dde03549bc7b",
-          "title": "Mark Daigneault Credits Lakers For Making Thunder Better",
-          "original_title": "Mark Daigneault Credits Lakers For Making Thunder Better - Lakers Nation",
-          "summary": "Lakers Nation reports that Oklahoma City Thunder head coach Mark Daigneault attributes recent improvements in his team to the influence of the Los Angeles Lakers. He notes that playing against a high\u2011caliber opponent has accelerated the Thunder\u2019s development.",
-          "key_points": [
-            "Daigneault highlights specific lessons learned from facing the Lakers\u2019 veteran leadership.",
-            "The Thunder\u2019s younger players have shown increased confidence and execution after those matchups.",
-            "Lakers\u2019 style of play is being used as a benchmark for the Thunder\u2019s growth strategy."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSmgxSE5UX1BTREFlemF4WlVQLW1JdXpuRTJQVzJ2dExxalRZMUU2WFZFVk9XTFNsY19CVXdvaG94Z1BFMURVZFdSSjJ5MWlWVHdwTGNLdks3N2VKTE0wbVhJWHV3b1JVeEMtaWtXUlV4NGRUWU5oZTNsWi1udXJkdTRkSEd6M0lDTVE?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-05-17T15:30:35+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "9be0719c3ef3",
-          "title": "NBA World Reacts to Aaron Rodgers\u2019 \u2018Last Dance\u2019 and Speculates LeBron\u2019s Retirement Tour",
-          "original_title": "\u2018Your Turn\u2019 \u2014 NBA World Reacts to Aaron Rodgers\u2019 Last Dance by Speculating LeBron James\u2019 Retirement Tour Is Next - PFSN",
-          "summary": "PFSN covers the social media buzz following Aaron Rodgers\u2019 \u2018Last Dance\u2019 documentary, with many fans turning the conversation toward a possible retirement tour for LeBron James. The article compiles reactions and theories without confirming any official plans.",
-          "key_points": [
-            "Fans are drawing parallels between Rodgers\u2019 farewell and a potential LeBron retirement road\u2011show.",
-            "Speculation centers on LeBron playing final games in major markets, possibly including Los Angeles.",
-            "No concrete statements from LeBron or his representatives have been made regarding retirement."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNkdSdFRvWVRUNlpINlVlRFlFcVBNOVhPMnlOc2FsempVVEN0dk5rYld0R1QweHVrX3d1R3VyOWRWZ2Fldk91QmRoZE5rMzdqOUVxTTJ5ZndMWXlzLUNEdGxjUzdfcWVGWGpCOFdOVzJ4VGpVU25iQ2lhcmpfdWRhV01pM2Zjck9NaHBRVjNnYlI1T3p4NDdNRElxZTRLN1gtamlieldaMFhuM19rSzhGM3NCYldueUdBQVE?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-17T02:30:54+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "702fceca1faf",
-          "title": "Lakers Linked to 2 Major Thunder Stars to Pair With Luka Doncic - heavy.com",
-          "original_title": "Lakers Linked to 2 Major Thunder Stars to Pair With Luka Doncic - heavy.com",
-          "summary": "Lakers Linked to 2 Major Thunder Stars to Pair With Luka Doncic&nbsp;&nbsp;heavy.com",
+          "id": "411352fde1c2",
+          "title": "Did the Mavericks dodge a bullet in the infamous Luka Doncic trade?",
+          "original_title": "Did the Mavericks dodge a bullet in the infamous Luka Doncic trade?",
+          "summary": "Did the Mavericks quietly avoid disaster in the Luka Doncic trade? Cooper Flagg and Luka\u2019s injuries may reshape the debate.",
           "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSWhvdTFHNHUwZkFVc0I4dWNJR2VzRW9BNldRcHMxYkNUeWRtOUtDWlBSTFNOcGVHa1BSZ2hwajV2V2Y0TmExTlNZRm1PUzdHa0xQS1c3emwtYnFVbENVYmJweXJVdkxCOUZ1dXVCeUt4bkpqWnN6d2MycUJWYlVpUW1GYnVsZ1Fh?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-05-16T21:48:36+00:00",
+          "link": "https://www.sportingnews.com/us/nba/dallas-mavericks/news/luka-doncic-trade-cooper-flagg-long-term-outlook/5bf6d834fa7adadd75c42a61",
+          "source": "Sporting News",
+          "published": "2026-05-16T18:54:57+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "93eb7b943893",
-          "title": "What\u2019s next for LeBron James? - The Stein Line",
-          "original_title": "What\u2019s next for LeBron James? - The Stein Line",
-          "summary": "What\u2019s next for LeBron James?&nbsp;&nbsp;The Stein Line",
+          "id": "f2b38edc6b8b",
+          "title": "NBA executive calls Deandre Ayton's season with Lakers a 'disaster'",
+          "original_title": "NBA executive calls Deandre Ayton's season with Lakers a 'disaster'",
+          "summary": "One NBA executive didn't mince words about how much of a disappointment Deandre Ayton was for the Lakers this season.",
           "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJNzRqeHQyWTdDZ1F1NDFxUkVOVVlRcEJOYnRxeUpsMVlGbXZvZGhtUkZQd1dYNXVuZWg2VW5oOUllODhkbkJ4aHQzU2ZZZ2dOeEtHbGdkc1NJT1hSeGJ1b0tqdFBScklfWTFLck5xdm5nUQ?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-16T20:00:16+00:00",
+          "link": "https://lebronwire.usatoday.com/story/sports/nba/2026/05/16/nba-executive-calls-deandre-aytons-season-with-lakers-a-disaster/90116007007/",
+          "source": "USA Today",
+          "published": "2026-05-16T18:00:36+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "2bbc4f91146f",
-          "title": "Paul Pierce: LeBron James should retire - HoopsHype",
-          "original_title": "Paul Pierce: LeBron James should retire - HoopsHype",
-          "summary": "Paul Pierce: LeBron James should retire&nbsp;&nbsp;HoopsHype",
+          "id": "6ae0434b4828",
+          "title": "NBA Rumors: Execs Predict Likely Cost of Austin Reaves Contract Extension for LA Lakers",
+          "original_title": "NBA Rumors: Execs Predict Likely Cost of Austin Reaves Contract Extension for LA Lakers",
+          "summary": "The Los Angeles Lakers face two critical offseason decisions this summer with LeBron James and Austin Reaves. While it\u2019s uncertain [\u2026]",
           "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcUE1aDUxd1NubzRzeUdHQXJwemVGcDdEdnBZY0pTQWt3TkVxQ2RSNGJhQmtnOGpwZlVnckZsYTFzTER0clFjQmJyWnl0NDA1QmVyMkpRcVlmamZRSTFEbWRMaXB6U09yeWpuZ3N2R3BlbVNtUmFzVE9rdjdGUDRSbmZwZDlkMEtnRklNQjJKRkt3cTdROVRCc2dpelE5SnRVbVRXNERYNGxHMklPQmlYbFZR?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-16T17:21:00+00:00",
+          "link": "https://sportsnaut.com/nba/nba-rumors-los-angeles-lakers-austin-reaves-contract-cost",
+          "source": "Sportsnaut",
+          "published": "2026-05-16T18:00:00+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "2c199c05b99e",
-          "title": "Luka Doncic is the face of the Lakers, so how does that impact the offseason? - Orange County Register",
-          "original_title": "Luka Doncic is the face of the Lakers, so how does that impact the offseason? - Orange County Register",
-          "summary": "Luka Doncic is the face of the Lakers, so how does that impact the offseason?&nbsp;&nbsp;Orange County Register",
+          "id": "b41564092c2f",
+          "title": "Was Game 6 Stephon Castle\u2019s best performance ever? Mitch Johnson finally speaks out",
+          "original_title": "Was Game 6 Stephon Castle\u2019s best performance ever? Mitch Johnson finally speaks out",
+          "summary": "Spurs head coach Mitch Johnson praised Stephon Castle after he led the Spurs to a 139-109 win over the Timberwolves in Game 6.",
           "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcm52NzZlcVJDc1c5MFJvN1VWTnpGQ3dybndnRVdRUTFYdTdWMjRBOUFWV0VVNW5KaFlkS2M2a2toVUpzWGlpRDVHdzVjejVNMXNUd0NpRXlpb1AwU3dqcW5FX0tXV2NXODFtVFBvRDdITU9oa1R0QzlteFFiWlFoVFdUREZUamJNMXV4R3ZzdEg4OHpYamxITk1mM1h5VVBKUTBOb0Z4Z3VDVmdqbS0zZUxhOWw?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-05-16T16:00:14+00:00",
+          "link": "https://www.sportingnews.com/us/nba/san-antonio-spurs/news/stephon-castle-game-6-performance-mitch-johnson-reaction/af89bdc624ccfc47510a3383",
+          "source": "Sporting News",
+          "published": "2026-05-16T12:07:43+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "be9a39cf5cc0",
-          "title": "LeBron James shares 'amazing' perspective of Austin Reaves - Lakers Nation",
-          "original_title": "LeBron James shares 'amazing' perspective of Austin Reaves - Lakers Nation",
-          "summary": "LeBron James shares 'amazing' perspective of Austin Reaves&nbsp;&nbsp;Lakers Nation",
+          "id": "beaf5b3c1c21",
+          "title": "NBA executive: 'I'd pay LeBron whatever he wants'",
+          "original_title": "NBA executive: 'I'd pay LeBron whatever he wants'",
+          "summary": "One NBA executive feels the Lakers should pay LeBron James as much money as he demands this summer.",
           "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMVpYeUdFcFBCZmY5NnVHYXhGRnVGNmJSS3BvVTVYRkU5MzZPYnVqdGlpTDBNS0R5MHdsUkFGVmc2NkJoeU9oa1R1dzhfQW11S1pseGg3NGhQenpFVlFzUXhRcEhJY0t1OVNYVGx1OTNxSXhJNE5LUW1zQVZmb2twTFczSm55Yko4RU9qdjl3?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-16T15:30:55+00:00",
+          "link": "https://lebronwire.usatoday.com/story/sports/nba/2026/05/16/nba-executive-id-pay-lebron-whatever-he-wants/90114273007/",
+          "source": "USA Today",
+          "published": "2026-05-16T12:02:03+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "c3af9ba8d4e8",
+          "title": "Readers Debate LeBron James' Future with the Lakers",
+          "original_title": "Letters to Sports: Another split decision on future of LeBron James and the Lakers",
+          "summary": "Los Angeles Times sports readers shared opinions on whether LeBron James should remain with the Lakers, alongside commentary on the Dodgers' struggles and the Angels. The letters reflect a mix of optimism about James' impact and concern over the franchise\u2019s direction.",
+          "key_points": [
+            "Public sentiment is divided on extending LeBron James' tenure with the Lakers.",
+            "Readers also discussed broader Los Angeles sports issues, including the Dodgers and Angels.",
+            "The discussion highlights uncertainty about the Lakers' long\u2011term competitive strategy."
+          ],
+          "link": "https://sports.yahoo.com/articles/letters-sports-another-split-decision-110000030.html",
+          "source": "Yahoo Entertainment",
+          "published": "2026-05-16T11:00:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "000430306ed7",
+          "title": "Luka\u202fDoncic Adopts Off\u2011Season Diet Ahead of 2026\u201127 Campaign",
+          "original_title": "Luka Doncic Injury Update: Luka Doncic Returns to Strict Diet That Transformed His Game Last Offseason",
+          "summary": "According to Ibtimes.com.au, Dallas Mavericks star Luka\u202fDoncic has returned to the strict nutrition plan that helped reshape his game last offseason as he prepares for the 2026\u201127 NBA season. The regimen is part of a broader effort to boost his performance and position the Mavericks as championship contenders.",
+          "key_points": [
+            "Doncic is following the same disciplined diet that contributed to his previous breakout season.",
+            "The diet is combined with an intensified training schedule aimed at improving durability and efficiency.",
+            "Mavericks\u2019 front office views the regimen as a key factor in their title\u2011contending plans."
+          ],
+          "link": "https://www.ibtimes.com.au/luka-doncic-offseason-regimen-lakers-2026-27-1868938",
+          "source": "Ibtimes.com.au",
+          "published": "2026-05-16T07:46:23+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "882f854b582d",
+          "title": "Report: Luka\u202fDoncic Resumes Strict Off\u2011Season Diet",
+          "original_title": "Report: Luka Doncic has begun the same strict diet as last offseason",
+          "summary": "USA Today reports that Luka\u202fDoncic has already begun the rigorous dietary program he used last offseason, signaling his commitment to physical preparation for the upcoming season. Early indications suggest he is focused on optimizing his body composition and stamina.",
+          "key_points": [
+            "Doncic\u2019s diet mirrors the program that helped him enhance his on\u2011court performance previously.",
+            "Coaches and trainers note his dedication to the regimen as a positive sign for his health and durability.",
+            "The move is seen as part of the Mavericks\u2019 broader strategy to maximize playoff potential."
+          ],
+          "link": "https://lebronwire.usatoday.com/story/sports/nba/2026/05/15/report-luka-doncic-has-begun-the-same-strict-diet-as-last-offseason/90113935007/",
+          "source": "USA Today",
+          "published": "2026-05-16T06:15:02+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "08d9103e1d69",
+          "title": "Family Pays Over $2,600 for Lakers Playoff Tickets",
+          "original_title": "Lakers\u2019 playoff tickets cost family of four staggering sum",
+          "summary": "A New York Post story details how a family of four spent more than $2,600 to attend the Lakers\u2019 first\u2011round playoff game against the Oklahoma City Thunder at Crypto.com Arena, making it one of the priciest NBA postseason experiences after New York Knicks games. The high cost underscores the premium pricing of playoff tickets in major markets.",
+          "key_points": [
+            "The family\u2019s total expense exceeded $2,600 for four tickets to the Lakers\u2011Thunder game.",
+            "Playoff ticket prices in Los Angeles rank among the highest in the league, second only to New York.",
+            "The cost reflects the strong demand and limited supply of postseason seats at Crypto.com Arena."
+          ],
+          "link": "https://nypost.com/2026/05/15/sports/lakers-playoff-tickets-among-nbas-highest-but-knicks-fans-still-pay-more/",
+          "source": "New York Post",
+          "published": "2026-05-16T03:19:39+00:00",
           "topic": "Lakers Players"
         }
       ]
