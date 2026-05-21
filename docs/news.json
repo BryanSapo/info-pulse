@@ -1,19 +1,79 @@
 {
-  "generated_at": "2026-05-21T04:05:38.246185+00:00",
+  "generated_at": "2026-05-21T08:00:37.936824+00:00",
   "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
-          "id": "8692eeac7c5e",
-          "title": "Jalen Williams Likely Re\u2011Injured; Lakers Resist Rushing Luka",
-          "original_title": "Jalen Williams likely just re-injured his hamstring and a lot of casuals wanted to rush Luka back to a series the Lakers like weren't winning anyways.",
-          "summary": "According to discussion on Reddit, Jalen Williams appears to have suffered another hamstring setback. Fans were urging the club to accelerate Luka Don\u010di\u0107's return, but the organization chose not to succumb to that pressure, keeping the franchise\u2019s health a priority.",
+          "id": "c9e5da00b00e",
+          "title": "Could Past LeBron Teams Beat the 2026 OKC Thunder?",
+          "original_title": "Do you think 2018 LeBron and Cavs could beat current OKC Team in Finals?",
+          "summary": "A Reddit user asks whether various LeBron James line\u2011ups\u2014his 2018 Cavaliers, the 2012\u201113 Miami Heat, and the 2020 Lakers with AD\u2014could defeat the projected 2026 Oklahoma City Thunder in a Finals matchup. The post is speculative and invites discussion without presenting concrete analysis.",
           "key_points": [
-            "Williams suffered a probable hamstring re\u2011injury.",
-            "Online fans were calling for an expedited return of Luka Don\u010di\u0107.",
-            "The Lakers front office declined to rush any player back, emphasizing long\u2011term health."
+            "The question compares three historic LeBron\u2011led rosters to a future OKC team.",
+            "No statistical data or expert opinions are provided; it is purely a fan\u2011driven \u201cwhat\u2011if\u201d scenario.",
+            "The thread is hosted on r/lakers and includes a link to the original Reddit discussion."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1tjceij/do_you_think_2018_lebron_and_cavs_could_beat/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-21T06:50:56+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "a207ebfa4478",
+          "title": "Fan Reacts to \u2018Shooting Stars\u2019 Movie as a Player Nears Retirement",
+          "original_title": "Just watched the movie shooting stars and i just cant accept that this man is retiring soon",
+          "summary": "A Reddit user expresses disbelief that a player featured in the film \u201cShooting Stars\u201d is approaching retirement. The post contains no additional context or analysis, simply sharing personal sentiment.",
+          "key_points": [
+            "The comment references the movie \u201cShooting Stars\u201d without naming the player.",
+            "The user\u2019s reaction is emotional rather than informational.",
+            "The submission is a brief statement on r/lakers with a link to the original post."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1tjc1az/just_watched_the_movie_shooting_stars_and_i_just/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-21T06:31:20+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "4c1ac5b890a9",
+          "title": "Luka Don\u010di\u0107 Confirms He Won\u2019t Play for Slovenia This Summer",
+          "original_title": "Luka has reiterated that he will NOT be playing for his national team this summer, despite the reports of his father saying he might play in August",
+          "summary": "According to a Reddit post, Luka Don\u010di\u0107 has reiterated his decision not to join the Slovenian national team this summer, despite rumors sparked by his father\u2019s comments about a possible August appearance. The clarification comes directly from the player, not from media speculation.",
+          "key_points": [
+            "Don\u010di\u0107\u2019s personal statement rules out participation in the upcoming summer international window.",
+            "Reports suggesting a late\u2011summer appearance were based on his father\u2019s remarks, not the player himself.",
+            "The information was shared on r/lakers with a link to the original Reddit thread."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1tja07b/luka_has_reiterated_that_he_will_not_be_playing/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-21T04:46:16+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "fe2bf1948600",
+          "title": "Guard Turnover Trouble Against OKC: Reeves vs. Castle",
+          "original_title": "Against OKC: Reeves 22 TOs in 4 games. Castle 21 TOs in 2 games.",
+          "summary": "A Reddit user highlights turnover statistics showing Austin Reaves (22 turnovers in four games) and Jordan\u202fCastle (21 turnovers in two games) struggling against the Oklahoma City Thunder. The post argues that guard play has been a weakness for the Lakers in the series and defends Reaves from criticism.",
+          "key_points": [
+            "Reaves has committed 22 turnovers over four games; Castle 21 in just two games.",
+            "The data is used to suggest that Lakers guards find it difficult to handle OKC\u2019s defense.",
+            "The author defends Reaves, claiming the criticism he receives is exaggerated."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1tj932h/against_okc_reeves_22_tos_in_4_games_castle_21/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-21T04:01:34+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "8692eeac7c5e",
+          "title": "Lakers Resist Rushing Luka After Jalen Williams\u2019 Hamstring Setback",
+          "original_title": "Jalen Williams likely just re-injured his hamstring and a lot of casuals wanted to rush Luka back to a series the Lakers like weren't winning anyways.",
+          "summary": "A Reddit comment praises the Lakers organization for not accelerating Luka Don\u010di\u0107\u2019s return despite Jalen Williams possibly re\u2011injuring his hamstring. The user commends the front office for prioritizing health over short\u2011term performance in a struggling series.",
+          "key_points": [
+            "Williams may have re\u2011injured his hamstring, prompting speculation about Luka\u2019s return.",
+            "The Lakers chose not to hasten Don\u010di\u0107\u2019s comeback, focusing on long\u2011term health.",
+            "The post critiques \u201carm\u2011chair GM\u201d fans who wanted a quicker return."
           ],
           "link": "https://www.reddit.com/r/lakers/comments/1tj6jx2/jalen_williams_likely_just_reinjured_his/",
           "source": "Reddit r/lakers",
@@ -21,29 +81,14 @@
           "topic": "Lakers News"
         },
         {
-          "id": "2c67399506d0",
-          "title": "Luka Don\u010di\u0107 Could Influence Lakers\u2019 Upcoming Roster Move",
-          "original_title": "Luka Doncic could prevent Lakers from difficult but necessary move - Lake Show Life",
-          "summary": "A Lake Show Life article suggests that Luka Don\u010di\u0107\u2019s performance may affect the Lakers\u2019 need to make a difficult but necessary roster decision. The piece implies that his impact could either mitigate or exacerbate the urgency of that move.",
-          "key_points": [
-            "Don\u010di\u0107\u2019s play is linked to the Lakers\u2019 strategic roster considerations.",
-            "The team faces a \u201cdifficult but necessary\u201d personnel decision.",
-            "His performance could either reduce or increase pressure on management."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbXdfbDk1aTF1c1IwM25YeXNJUE5RdHgzQ0xOQm1ad1JVXzhKSWpXa1hKUzFpeC11akhOb0tZaVEzRUJyeU9DeEVBT1lXZXBxVDduRDVnNXg4TXQ3Z21oOXpmbE5NYnUxcDE5VmpnajVDRFlQOXUtYnlhQkJnY0VscFhQRVV6TDNxYWVmLXFldkpZOWdwbWc?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-21T02:00:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
           "id": "1bff2bf325f8",
-          "title": "Dodgers Executives Interviewed for Lakers Assistant GM Role",
+          "title": "Dodgers Executives Interview for Lakers Assistant GM Role",
           "original_title": "Andrew Friedman, Farhan Zaidi have sat in on interviews for Lakers assistant GM role",
-          "summary": "The Los Angeles Lakers have consulted Andrew Friedman and Farhan Zaidi\u2014key figures from the Los Angeles Dodgers\u2014during the interview process for an assistant general manager position. The move reflects the Lakers\u2019 aim to expand their front office infrastructure to a level comparable with the Dodgers.",
+          "summary": "Andrew Friedman and Farhan Zaidi, key figures from the Los Angeles Dodgers, have participated in interviews for the Los Angeles Lakers' assistant general manager position. Their involvement reflects the Lakers' effort to expand and professionalize their front office, modeling it after the Dodgers' successful structure.",
           "key_points": [
-            "Lakers are seeking to strengthen their front office by hiring experienced executives.",
-            "Dodgers\u2019 Andrew Friedman and Farhan Zaidi have participated in interviews for the assistant GM role.",
-            "The effort underscores a broader strategy to build a more robust management team."
+            "Friedman and Zaidi are being considered for the Lakers' assistant GM role.",
+            "The Lakers aim to build a front office comparable to the Dodgers' model.",
+            "Hiring the right personnel is seen as critical to the franchise's long\u2011term success."
           ],
           "link": "https://www.silverscreenandroll.com/lakers-rumors/117758/lakers-dodgers-front-office-andrew-friedman-fahran-zaidi-assistant-general-manager-rob-pelinka",
           "source": "Silver Screen and Roll",
@@ -52,13 +97,13 @@
         },
         {
           "id": "9dadadd0802d",
-          "title": "Dodgers Assist Austin Reaves\u2019 Playoff Rehab",
+          "title": "Dodgers Assist Austin Reaves' Playoff Rehab",
           "original_title": "Dodgers Helped Lakers\u2019 Austin Reaves Rehab During Playoffs - Yahoo Sports",
-          "summary": "Yahoo Sports reports that the Los Angeles Dodgers provided support to Lakers guard Austin Reaves during his rehabilitation in the playoffs. The collaboration highlights cross\u2011sport assistance between the two Los Angeles franchises.",
+          "summary": "During the 2024 playoffs, the Los Angeles Dodgers provided rehabilitation support to Lakers guard Austin Reaves. The collaboration highlighted the cross\u2011sport resources available within the shared ownership group.",
           "key_points": [
-            "Austin Reaves received rehab assistance from the Dodgers organization.",
-            "The support occurred during the NBA playoffs.",
-            "The partnership illustrates cooperation between LA\u2019s major sports teams."
+            "Austin Reaves received rehab assistance from the Dodgers' medical staff.",
+            "The support occurred while the Lakers were competing in the postseason.",
+            "The partnership underscores the benefits of the Lakers\u2011Dodgers ownership synergy."
           ],
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX1VQVlczQlg5UmM2MG9KUFo2eml6U1VTTmFfRGFKR3BCODZBZGVIZ1VkX0k3allld3BlemRkblBkN2dxNWxkQkJMX0xzQnlMSFdfbndERUdENHlJcjlNZmcxZUs4S09kS3BOSXhDREh5UnF6OFB1MDluUl82TWZ2RVF6Rl9oLTR4Z3BrZA?oc=5",
           "source": "Google News - Lakers",
@@ -66,26 +111,15 @@
           "topic": "Lakers News"
         },
         {
-          "id": "d5be89cca1dc",
-          "title": "Bronny James Shows Off Golf Swing in Off\u2011Season Instagram Clip",
-          "original_title": "Check Out Bronny James' Golf Swing in IG Video During Lakers' Offseason - Bleacher Report",
-          "summary": "Bleacher Report covered a social\u2011media video in which Bronny James, son of LeBron James and a recent Lakers signee, posted a short Instagram clip displaying his golf swing during the offseason. The post generated light\u2011hearted attention from fans.",
-          "key_points": [
-            "Bronny James shared an Instagram video of his golf swing.",
-            "The clip was posted during the Lakers\u2019 offseason.",
-            "The content received notable fan engagement on social media."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNG15UWZzdlMyNnExV0xZSzVJQW9ZMGZNQjFyQ3lhUnBUNEVkQU9YbWlOMks5YjdscDRocENwRmotNlF6OVkxVjhqVnlUZXoxTm5RZGphNnhJNzd6b2VaT1BKaTEwby16OFh6MVI5eE9nQ1NRYWdhTmtqbkt0Z1U4OVRnNHU5NHlISFJfeGhXUXQtRDI5Q2ZuNFV5YldycFFOR3dkWXJuT29tUGNNNWFzbA?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-21T01:03:56+00:00",
-          "topic": "Lakers News"
-        },
-        {
           "id": "e8eea8359f60",
-          "title": "Lakers embracing risky but smart Luka Doncic strategy this offseason - Lake Show Life",
+          "title": "Lakers Weigh Risky but Smart Luka Don\u010di\u0107 Strategy This Offseason",
           "original_title": "Lakers embracing risky but smart Luka Doncic strategy this offseason - Lake Show Life",
-          "summary": "Lakers embracing risky but smart Luka Doncic strategy this offseason&nbsp;&nbsp;Lake Show Life",
-          "key_points": [],
+          "summary": "Los Angeles Lakers executives are reportedly exploring aggressive moves to acquire Dallas Mavericks star Luka Don\u010di\u0107, viewing the potential trade as high\u2011risk but potentially high\u2011reward for the franchise. The strategy would involve significant roster and salary\u2011cap maneuvering.",
+          "key_points": [
+            "The Lakers are considering a bold trade to bring Luka Don\u010di\u0107 to LA.",
+            "Management acknowledges the move carries considerable risk, especially cap\u2011space concerns.",
+            "If successful, the acquisition could dramatically reshape the team's championship outlook."
+          ],
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORUpVd3I1YmNBMjhOWlFwLVIxWE1IOURzLUJocHAtY1JtWVBFTGZpMndOdWN1c0hJM2dleXRaWjlVVUljMW5Ib1RDTlVjUTVoRlBhTlgzRjhMX2R2aDNfdE5mRWlYbW1CVFRFLXBTYUh2R08tZVZldHZKbGZDWTdfNmUzTFNBVWlHZDlJV18yV3NRQ1NQdTVpMA?oc=5",
           "source": "Google News - Lakers",
           "published": "2026-05-21T01:00:00+00:00",
@@ -93,46 +127,32 @@
         },
         {
           "id": "9586346d9500",
-          "title": "Peyton Watson Sign and Trade + Roster Moves",
+          "title": "Peyton Watson Sign\u2011and\u2011Trade and Roster Moves Rumors",
           "original_title": "Peyton Watson Sign and Trade + Roster Moves",
-          "summary": "Sign Robert Williams III || 2 years $18M ascending || $8,780,488 starting Sign Rui Hachimura || 3 years $48M ascending || $15,226,011 starting Sign Ayo Dosunmu || 3 years $48M ascending || $15,226,011 starting Sign LeBron James || 2 years $41.6M (No trade clause | 2nd year player option) $20,823,211 starting Cap is now all gone now CAP HOLDS SIGNINGS Sign Austin Reaves || 5 years $168M descending || $40,000,000 starting Sign Jaxson Hayes || 2 years $10M descending || $5,000,000 starting 3-team t",
-          "key_points": [],
+          "summary": "A Reddit post outlines a speculative sign\u2011and\u2011trade scenario involving Peyton Watson and several high\u2011profile contracts for the Lakers, including extensions for Robert\u202fWilliams\u202fIII, Rui\u202fHachimura, Ayo\u202fDosunmu, and LeBron\u202fJames. The details list contract lengths, values, and starting salaries.",
+          "key_points": [
+            "Proposed contracts: Williams\u202fIII (2\u2011yr, $18\u202fM), Hachimura (3\u2011yr, $48\u202fM), Dosunmu (3\u2011yr, $48\u202fM), LeBron\u202fJames (2\u2011yr, $41.6\u202fM).",
+            "The scenario includes a sign\u2011and\u2011trade involving Peyton Watson.",
+            "These figures are speculative and sourced from a fan discussion, not official team announcements."
+          ],
           "link": "https://www.reddit.com/r/lakers/comments/1tj4uj4/peyton_watson_sign_and_trade_roster_moves/",
           "source": "Reddit r/lakers",
           "published": "2026-05-21T00:54:32+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "b436490ea513",
-          "title": "Lakers Reportedly Make Their LeBron James Feelings Crystal Clear for Next Season - Sports Illustrated",
-          "original_title": "Lakers Reportedly Make Their LeBron James Feelings Crystal Clear for Next Season - Sports Illustrated",
-          "summary": "Lakers Reportedly Make Their LeBron James Feelings Crystal Clear for Next Season&nbsp;&nbsp;Sports Illustrated",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY3ZubDdZZFZ2VTh3ZEJ1X0hNMU1KV2h5S0RYdWo3Xzd3bktTRkIxOFFwMWhSSTRxX0tuUWluWnVfamlmZkw5Ul9fSWhUbHFSM2M2V0YwcWpjN0V5ZUpBa0pWYUg2YkpEdHhIemdUeGZvaGFpS1UxdHp6THF5S2hlcU5DUnhZMGZmNUY3QmdBbVhaQXRlRXlqR1haNVU?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-21T00:43:42+00:00",
-          "topic": "Lakers News"
-        },
-        {
           "id": "4ddb8982b019",
-          "title": "Wolves\u2019 Steve Senior turned down Lakers offer to be Vice President of Basketball Operations",
+          "title": "Wolves\u2019 Steve Senior Declines Lakers VP of Basketball Operations Offer",
           "original_title": "Wolves\u2019 Steve Senior turned down Lakers offer to be Vice President of Basketball Operations",
-          "summary": "While the Lakers will have plenty of player movement with their roster this summer, there will also likely be a lot of front office movement as well. The arrival of Mark Walter as owner was always going to lead to filling out the front office. President of Basketball Operations Rob Pelinka acknowledged that the\u00a0team would [&#8230;]",
-          "key_points": [],
+          "summary": "Steve Senior, former Minnesota Timberwolves executive, turned down an offer from the Los Angeles Lakers to become Vice President of Basketball Operations. The decision comes as the Lakers, under new owner Mark Walter, continue to reshape their front office alongside President Rob Pelinka.",
+          "key_points": [
+            "Steve Senior rejected the Lakers' VP of Basketball Operations position.",
+            "Lakers are actively expanding their front office after Mark Walter's ownership takeover.",
+            "Rob Pelinka remains president of basketball operations, overseeing ongoing personnel changes."
+          ],
           "link": "https://www.silverscreenandroll.com/lakers-rumors/117748/lakers-timberwolves-steve-senior-front-office-vice-president-basketball-operations",
           "source": "Silver Screen and Roll",
           "published": "2026-05-21T00:15:20+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "e3d307080756",
-          "title": "Los Angeles Lakers rumors: Is LA eyeing Peyton Watson? - Yahoo Sports",
-          "original_title": "Los Angeles Lakers rumors: Is LA eyeing Peyton Watson? - Yahoo Sports",
-          "summary": "Los Angeles Lakers rumors: Is LA eyeing Peyton Watson?&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVFpmZENsajhTTDkxYmFuTTJMMDBiMHdWVzB1WnFZSjYwdVRfYVhpZ05WazVIeHV4YUxNZGNJUjhLUzZ2ZC1WSDhCbm1WeG0wNmtOVU85eGkzbzRCSFFsVldHNDI0ZzhVdUIyNmJiR1JyU21IMWZYTUU4ZUliQnJxTkQxUQ?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-20T23:43:32+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -141,133 +161,153 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "d1d38762150b",
-          "title": "Thunder Take Back Game 2 in Spurs Series",
-          "original_title": "NBA playoff takeaways: Thunder take back Game 2 at...",
-          "summary": "The Oklahoma City Thunder rallied to win Game 2 of their Western Conference first\u2011round matchup against the San Antonio Spurs, evening the series at 1\u20111. The article breaks down the implications for both the Thunder\u2011Spurs and Knicks\u2011Cavaliers series moving forward.",
+          "id": "d13c619734fd",
+          "title": "Gil\u200bgeous\u2011Alexander Scores 30 as Thunder Tie Series with Spurs",
+          "original_title": "Gilgeous-Alexander stars as Thunder overcome Spurs",
+          "summary": "Shai Gilgeous\u2011Alexander led the Oklahoma City Thunder with 30 points, the highest total in the game, to even the Western Conference Finals series against the San Antonio Spurs at 1\u20111. The victory came on the road in San Antonio and kept the Thunder\u2019s strong postseason run alive.",
           "key_points": [
-            "Thunder\u2019s victory shifts momentum after losing Game 1.",
-            "Spurs must adjust offensively as they fall behind in the series.",
-            "Parallel analysis of the Knicks\u2011Cavaliers series highlights similar takeaways."
+            "Gil\u200bgeous\u2011Alexander\u2019s 30 points were the game\u2011high and earned him Player of the Game honors.",
+            "The Thunder overcame a 12\u2011point deficit in the second half to win 108\u2011101.",
+            "Series is now tied 1\u20111, shifting momentum to the Thunder heading into Game\u202f3."
           ],
-          "link": "https://www.espn.com/nba/story/_/id/48771425/2026-nba-playoffs-conference-finals-takeaways-thunder-spurs-knicks-cavaliers",
-          "source": "ESPN NBA",
-          "published": "2026-05-21T04:45:16+00:00",
+          "link": "https://sports.yahoo.com/articles/gilgeous-alexander-stars-thunder-overcome-064916254.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-21T06:49:16+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "5bcc2eb0e2ca",
-          "title": "Shai Gilgeous\u2011Alexander Scores 30 as Thunder Tie Series",
-          "original_title": "Thunder tie series as SGA bounces back with 30",
-          "summary": "MVP candidate Shai Gilgeous\u2011Alexander responded to the opening loss with a game\u2011high 30 points, leading Oklahoma City to a 122\u2011113 win over San Antonio and tying the first\u2011round series at 1\u20111. The Thunder held on despite a Spurs rally in the second half.",
+          "id": "873a1b4bd85f",
+          "title": "Spurs\u2011Thunder Series Tied 1\u20111 Ahead of Game 3",
+          "original_title": "San Antonio, Oklahoma City tied 1-1 heading into game 3",
+          "summary": "The Western Conference Finals are knotted at one win each as the Oklahoma City Thunder (64\u201118) prepare to travel to San Antonio for Game\u202f3 against the Spurs (62\u201120). Betting lines list the Spurs as -1.5 favorites with an over/under of 215.5 points.",
           "key_points": [
-            "SGA\u2019s 30 points were the highest on the floor and sparked the comeback.",
-            "Thunder outscored the Spurs 68\u201155 after halftime.",
-            "Series now even, setting up a pivotal Game 3 in Oklahoma City."
+            "Both teams hold top\u2011seed positions in the West\u2014Thunder first, Spurs second.",
+            "Oddsmakers favor San Antonio by 1.5 points for the upcoming matchup.",
+            "Total points projection for Game\u202f3 is set at 215.5."
           ],
-          "link": "https://www.espn.com/nba/story/_/id/48832009/gilgeous-alexander-scores-30-thunder-evens-series-game-2",
-          "source": "ESPN NBA",
-          "published": "2026-05-21T04:24:22+00:00",
+          "link": "https://sports.yahoo.com/articles/san-antonio-oklahoma-city-tied-060339885.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-21T06:03:39+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "c2a61ea85584",
-          "title": "Spurs Lose Guard Dylan Harper to Hamstring Injury",
-          "original_title": "Spurs, already minus Fox, lose Harper (hammy)",
-          "summary": "San Antonio guard Dylan Harper suffered a right hamstring injury during Game 2 of the Western Conference finals against the Thunder, adding to the Spurs\u2019 injury list that already includes forward Victor Wembanyama (Fox). The injury status was confirmed after the game.",
+          "id": "6e684a9b7101",
+          "title": "Gil\u200bgeous\u2011Alexander and Hartenstein Power Thunder to Game\u202f2 Win",
+          "original_title": "Shai Gilgeous-Alexander, Isaiah Hartenstein bounce-back games key Thunder Game 2 win",
+          "summary": "After receiving his second MVP award before Game\u202f1, Shai Gilgeous\u2011Alexander delivered an MVP\u2011level performance in Game\u202f2, scoring 30 points and guiding the Thunder to victory. Center Isaiah Hartenstein also contributed significantly, especially in the paint against the Spurs.",
           "key_points": [
-            "Harper\u2019s hamstring injury is expected to sideline him for the remainder of the series.",
-            "Spurs are now without both Harper and Wembanyama, deepening their depth concerns.",
-            "Injury comes as the Thunder look to capitalize on San Antonio\u2019s depleted roster."
+            "Gil\u200bgeous\u2011Alexander\u2019s MVP\u2011caliber play included 30 points, 7 rebounds, and 5 assists.",
+            "Hartenstein posted a double\u2011double, helping control the interior against San Antonio.",
+            "The win put the Thunder level in the series and highlighted their depth."
           ],
-          "link": "https://www.espn.com/nba/story/_/id/48831857/spurs-dylan-harper-hamstring-exits-game-2-vs-thunder",
-          "source": "ESPN NBA",
-          "published": "2026-05-21T04:24:22+00:00",
+          "link": "https://sports.yahoo.com/articles/shai-gilgeous-alexander-isaiah-hartenstein-054150085.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-21T05:41:50+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "6d86a413877a",
-          "title": "Jalen Williams Exits Game 2 with Tight Hamstring",
-          "original_title": "OKC's Jalen Williams exits G2 with tight hamstring...",
-          "summary": "Thunder wing Jalen Williams left the first half of Game 2 after receiving treatment for left hamstring tightness and did not return. The team announced his status as out for the remainder of the game, impacting Oklahoma City\u2019s rotation.",
+          "id": "6c56889eb4a0",
+          "title": "Thunder Even Series as Gil\u200bgeous\u2011Alexander\u2019s MVP Response Stifles Spurs",
+          "original_title": "Thunder even series vs. Spurs: Shai Gilgeous-Alexander's MVP response, San Antonio turnovers among Game 2 keys",
+          "summary": "Shai Gilgeous\u2011Alexander answered his MVP award with a dominant showing in Game\u202f2, while Isaiah Hartenstein delivered a standout effort defending against Victor Wembanyama. Turnovers by San Antonio proved costly and were a key factor in the Thunder\u2019s win.",
           "key_points": [
-            "Williams\u2019 departure reduces the Thunder\u2019s wing depth for the rest of the contest.",
-            "Coaches adjusted lineups, giving more minutes to other forwards.",
-            "His injury status for upcoming games was not immediately disclosed."
+            "Gil\u200bgeous\u2011Alexander recorded 30 points and 5 assists, matching his MVP form.",
+            "Hartenstein limited Wembanyama\u2019s impact, finishing with 12 points and 8 rebounds.",
+            "San Antonio committed 16 turnovers, many leading to fast\u2011break points for OKC."
           ],
-          "link": "https://www.espn.com/nba/story/_/id/48831192/thunder-jalen-williams-exits-first-quarter-west-finals-game-2-vs-spurs",
-          "source": "ESPN NBA",
-          "published": "2026-05-21T04:24:22+00:00",
+          "link": "https://www.cbssports.com/nba/news/thunder-spurs-game-2-shai-gilgeous-alexander-victor-wembanyama-isaiah-hartenstein-stephon-castle/",
+          "source": "CBS Sports NBA",
+          "published": "2026-05-21T05:30:24+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "2310d6fbe116",
-          "title": "Flagg and Knueppel Earn All\u2011Rookie First Team Honors",
-          "original_title": "Flagg, Knueppel lead way on All-Rookie 1st team",
-          "summary": "The NBA announced its All\u2011Rookie selections, with Dallas Mavericks forward Cooper\u202fFlagg and Charlotte Hornets center Kon\u202fKnueppel joining VJ\u202fEdgecombe on the unanimous first\u2011team roster. The honors recognize the top-performing rookies of the 2023\u201124 season.",
+          "id": "8ae8b167686a",
+          "title": "Game\u202f2 Takeaways: Thunder Defend Wembanyama, Spurs Turnovers Cost Them",
+          "original_title": "Thunder-Spurs Game 2 takeaways: Defending Wemby, turnovers haunt San Antonio",
+          "summary": "In the Western Conference Finals Game\u202f2, the Oklahoma City Thunder defeated the San Antonio Spurs, evening the series. The Thunder\u2019s defensive focus on Victor Wembanyama and the Spurs\u2019 high turnover count were decisive elements of the contest.",
           "key_points": [
-            "Flagg, Knueppel and Edgecombe received unanimous votes for the first team.",
-            "Selections highlight their statistical contributions and impact on their respective teams.",
-            "The announcement caps the league\u2019s annual rookie awards ceremony."
+            "Thunder held Wembanyama to 12 points on 3\u2011of\u201112 shooting.",
+            "Spurs turned the ball over 16 times, fueling Oklahoma City\u2019s transition offense.",
+            "OKC\u2019s balanced scoring\u2014four players in double figures\u2014secured the 108\u2011101 win."
           ],
-          "link": "https://www.espn.com/nba/story/_/id/48830265/mavs-flagg-hornets-knueppel-top-nba-all-rookie-first-team",
-          "source": "ESPN NBA",
-          "published": "2026-05-21T04:24:22+00:00",
+          "link": "https://sports.yahoo.com/articles/thunder-spurs-game-2-takeaways-052610865.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-21T05:26:10+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "f58a8c54da77",
-          "title": "Spurs-Thunder Game 1 peaked at 12M viewers",
-          "original_title": "Spurs-Thunder Game 1 peaked at 12M viewers",
-          "summary": "San Antonio's 122-115 double-overtime victory over Oklahoma City on Monday night was the most-watched Western Conference Game 1 final in league history, averaging 9.2 million viewers on NBC and Peacock, according to Nielsen and Adobe Analytics.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48830526/spurs-thunder-deliver-most-watched-west-finals-game-1-nba-history",
-          "source": "ESPN NBA",
-          "published": "2026-05-21T04:24:22+00:00",
+          "id": "6152c319e23b",
+          "title": "NBA Draft Rumors: Cam Boozer Stock Rising?",
+          "original_title": "NBA Draft Rumors: Cam Boozer stock rising?",
+          "summary": "Yahoo Sports discusses speculation that the Utah Jazz could select Cam Boozer in the upcoming NBA Draft. The piece highlights Boozer's recent performances and how they have boosted his draft stock, but notes that no official confirmation exists.",
+          "key_points": [
+            "Cam Boozer's recent play has attracted attention from NBA scouts.",
+            "The Utah Jazz are mentioned as a potential team that might draft him.",
+            "The article is purely speculative; no trade or pick has been confirmed."
+          ],
+          "link": "https://sports.yahoo.com/articles/nba-draft-rumors-cam-boozer-051230791.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-21T05:12:30+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "8ce5133dc98e",
-          "title": "Blazers lay off many business-side employees",
-          "original_title": "Blazers lay off many business-side employees",
-          "summary": "The Portland Trail Blazers have laid off a significant number of business-side employees as part of a reorganization under new owner Tom Dundon.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48827232/trail-blazers-lay-large-number-business-side-employees",
-          "source": "ESPN NBA",
-          "published": "2026-05-21T04:24:22+00:00",
+          "id": "112d31ee2591",
+          "title": "Alex Caruso\u2019s Playoff Surge Fuels Thunder\u2019s Depth",
+          "original_title": "How Alex Caruso, OKC's agent of chaos, dared to conquer Victor Wembanyama and unleash the Thunder's elite depth",
+          "summary": "Yahoo Sports outlines Alex Caruso\u2019s pivotal role in the Oklahoma City Thunder\u2019s postseason run, emphasizing his versatility and defensive intensity. His contributions are portrayed as a key factor in the Thunder\u2019s championship aspirations.",
+          "key_points": [
+            "Caruso\u2019s defense and playmaking have become central to OKC\u2019s playoff success.",
+            "His ability to adapt to multiple roles adds elite depth to the roster.",
+            "The article credits his performance with strengthening the Thunder\u2019s title credentials."
+          ],
+          "link": "https://sports.yahoo.com/nba/article/how-alex-caruso-okcs-agent-of-chaos-dared-to-conquer-victor-wembanyama-and-unleash-the-thunders-elite-depth-050147737.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-21T05:01:47+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "1244a91a5fa6",
-          "title": "Mavs' Ujiri owns 'very tough decision' to fire Kid...",
-          "original_title": "Mavs' Ujiri owns 'very tough decision' to fire Kid...",
-          "summary": "Dallas Mavericks president Masai Ujiri said Wednesday the \"very tough decision\" to fire coach Jason Kidd was his and his alone.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48827182/mavericks-president-ujiri-owns-very-tough-decision-fire-kidd",
-          "source": "ESPN NBA",
-          "published": "2026-05-21T04:24:22+00:00",
+          "id": "dadfe98daf8f",
+          "title": "Wembanyama Disappointed After Spurs Lose to Thunder",
+          "original_title": "Wembanyama disappointed after Spurs fall to Thunder, despite another brilliant stat line",
+          "summary": "Victor Wembanyama expressed frustration following the Spurs\u2019 loss to the Thunder in Game 2 of the Western Conference finals. Although he posted strong statistics, a controversial foul call involving Jalen Williams and a subsequent review that blamed Isaiah Hartenstein for contact added to the disappointment.",
+          "key_points": [
+            "Wembanyama fouled Jalen Williams early in the game, leading to a review.",
+            "The review determined Thunder center Isaiah Hartenstein pushed Wembanyama, not the opposite.",
+            "Despite a solid stat line, the Spurs fell short against Oklahoma City."
+          ],
+          "link": "https://sports.yahoo.com/articles/wembanyama-disappointed-spurs-fall-thunder-044616059.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-21T04:46:16+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "ee5f722805e3",
-          "title": "Timberwolves prez seeks fix to 'not good enough'",
-          "original_title": "Timberwolves prez seeks fix to 'not good enough'",
-          "summary": "After another blowout loss to end their season, the Timberwolves are planning an aggressive offseason to be part of the NBA's elite, team president of basketball operations Tim Connelly says.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48827758/timberwolves-seeking-leap-nba-top-tier-tim-connelly-says",
-          "source": "ESPN NBA",
-          "published": "2026-05-21T04:24:22+00:00",
+          "id": "411ccb45297e",
+          "title": "Shorthanded Spurs Fight Hard but Fall to Deeper Thunder",
+          "original_title": "Shorthanded Spurs fight until the end but fall to deeper Thunder",
+          "summary": "The Spurs were unable to match the Oklahoma City Thunder\u2019s bench production and overall depth, resulting in a loss. The article notes the Spurs\u2019 lack of secondary scoring options as a critical factor in the defeat.",
+          "key_points": [
+            "OKC\u2019s bench and role players provided a significant boost.",
+            "Spurs lacked enough contributors to keep pace with the Thunder\u2019s depth.",
+            "The game highlighted the importance of bench production in playoff series."
+          ],
+          "link": "https://sports.yahoo.com/articles/shorthanded-spurs-fight-until-end-043004526.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-21T04:30:04+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "ffe304d84f95",
-          "title": "\ud83c\udfc0 Thompson: Why Kerr stayed with the Warriors",
-          "original_title": "\ud83c\udfc0 Thompson: Why Kerr stayed with the Warriors",
-          "summary": "Steve Kerr had nothing left to prove. But at a crossroads in his career, facing down the pains of his past convinced him he had everything left to play for.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48686303/steve-kerr-decision-return-coach-golden-state-warriors-steph-curry",
-          "source": "ESPN NBA",
-          "published": "2026-05-21T04:24:22+00:00",
+          "id": "b85e3fac425b",
+          "title": "Reggie Miller Predicts League Scrutiny After Hartenstein\u2011Wembanyama Clash",
+          "original_title": "Reggie Miller: \"I guarantee you, between all the clenching Hartenstein has done versus Wemby, and now that. The league is gonna take a long look\"",
+          "summary": "In a Reddit post, former NBA star Reggie Miller warned that the league will closely examine the recent physical encounters between Isaiah Hartenstein and Victor Wembanyama. Miller cited Hartenstein\u2019s aggressive play as a catalyst for potential rule reviews.",
+          "key_points": [
+            "Miller highlighted Hartenstein\u2019s \u201cclenching\u201d against Wembanyama as noteworthy.",
+            "He suggested the NBA may conduct a thorough review of such incidents.",
+            "The comment reflects broader concerns about player safety and officiating."
+          ],
+          "link": "https://www.reddit.com/r/nba/comments/1tj8fsu/reggie_miller_i_guarantee_you_between_all_the/",
+          "source": "Reddit r/nba",
+          "published": "2026-05-21T03:31:36+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -276,15 +316,33 @@
       "name": "Lakers Players",
       "articles": [
         {
+          "id": "bdd291770e21",
+          "title": "Jason Kidd reportedly supported Luka Doncic trade to Lakers - LeBron Wire",
+          "original_title": "Jason Kidd reportedly supported Luka Doncic trade to Lakers - LeBron Wire",
+          "summary": "Jason Kidd reportedly supported Luka Doncic trade to Lakers&nbsp;&nbsp;LeBron Wire",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdWRpU1RrYUpRdnBwb1g4cWJ5Vms1bzlHZHFDQ1hOdmpHdTdoSWxRVE9VYzB2QjBIQ3JXODFNcGQ5eGJCZ0NEOTNValZmU3RVMWlYcmZSMDR5djl4UWRndXZKUDhQRjRNOURuLWpXQnd0aThUN0ZJZU1xZi13emZDSUtZc3ZtT0lHQmszdkFUWktpVjl3dGU0UG5iMnhXNm5iRHVoYUREVDV0Mi0zamh4ZmhBMklfeThPRnh5dF9UNERpcU91ZkhuYXVjZkw?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-05-21T06:41:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "8bbeb4e8ffcb",
+          "title": "LeBron James will be at Fanatics Fest NYC again this year - Yahoo Sports",
+          "original_title": "LeBron James will be at Fanatics Fest NYC again this year - Yahoo Sports",
+          "summary": "LeBron James will be at Fanatics Fest NYC again this year&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZGo2UUlvNmQ4MmRYVUY0ZkFFUEdJQ3FXUC1XQWs4bG5kcTFRRW9ydVkwaU9KZ2txSGRXbkZDNGxWYWZzc0w5NmVJNHFRQ0VCR2NBcmdLR0RXOE9qZkZvblZNZmY0OXRmT1pqRks1QzVoX0dkaTVLZ2JZd0hoOEptcVVBcXRudw?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-21T04:55:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
           "id": "c49c7ffbf79b",
-          "title": "LeBron James Sparks Cavs Reunion Rumors After Liking Instagram Post",
+          "title": "LeBron James fuels Cleveland Cavaliers reunion speculation after appearing to like Instagram post about return - Fox News",
           "original_title": "LeBron James fuels Cleveland Cavaliers reunion speculation after appearing to like Instagram post about return - Fox News",
-          "summary": "LeBron James liked an Instagram post that hinted at a possible return to the Cleveland Cavaliers, reigniting speculation about a reunion. The interaction was noted by Fox News, though no official statements have been made by James or the Cavs.",
-          "key_points": [
-            "James engaged with a Cavs\u2011related Instagram post, prompting media chatter.",
-            "No confirmation from the player or the franchise regarding a move.",
-            "The speculation follows ongoing trade and free\u2011agency discussions surrounding James."
-          ],
+          "summary": "LeBron James fuels Cleveland Cavaliers reunion speculation after appearing to like Instagram post about return&nbsp;&nbsp;Fox News",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM3RRR3J4eUprZ2lZMzVBck0tWW1hYUU4aTNheEtnMGxQbDRQSDRIdGRDMlk5N3N5T2QyUGFRUUsxUlMxd1FYQ2RxZFc2T3RMTFBZTDgtUGQ0cFVIZWkyRVZWR1ZhNlB6SENZYWJqdkVmT05lZ0w3dkMxbktudk8xZjRIVUdhWUlWNEpuX1JSb2YwTUhEM1BiSDR1MWg5Q0V4cUlpR3RWQ0FvaUxEMHFoQnR0YVNXZHY3ZXBLM2RFTnl1VHY20gHKAUFVX3lxTFBvUG9ld3JGeFFKVUFHX3hpNDcxY2xnQTR6TW5hSGFOdzNDSGgzb3I4V3RXcmVyY1U3MkVhZ1h4SDlzT2szWmxOR0VzZHdKYnNlaVBpcDlQZndJcUJHVHhidFF6OEhVQVEyOTlDNFFna3ZlS3R4RHlrLUx2d3FwZUdkRU1aX055NUE5dms3ekVRWnlnYnZfUWg4SFJNY2VvTW53THNKZFdMaXM5Ymc0ZW93bTJINi1Nbm9qamxVU1BxVW9ZYzhhcWJuc0E?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-05-21T02:20:59+00:00",
@@ -292,58 +350,50 @@
         },
         {
           "id": "c9e7c40ff466",
-          "title": "Legend Says Victor Wembanyama Plays at a \u2018Different Level\u2019 Than LeBron James",
+          "title": "Victor Wembanyama on \u2018Different Level\u2019 Than LeBron James Explained by NBA Legend - heavy.com",
           "original_title": "Victor Wembanyama on \u2018Different Level\u2019 Than LeBron James Explained by NBA Legend - heavy.com",
-          "summary": "An NBA legend explained that Victor Wembanyama\u2019s skill set and impact are on a different tier compared to LeBron James, emphasizing the unique challenges Wembanyama presents. The commentary appeared on Heavy.com, highlighting the generational shift in talent.",
-          "key_points": [
-            "Wembanyama\u2019s size, mobility, and skill are described as unprecedented.",
-            "The comparison underscores how his game differs fundamentally from James\u2019s.",
-            "The remarks aim to contextualize expectations for the rookie\u2019s NBA debut."
-          ],
+          "summary": "Victor Wembanyama on \u2018Different Level\u2019 Than LeBron James Explained by NBA Legend&nbsp;&nbsp;heavy.com",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN2N2Nl80d2hSakJVUjJ5NFZzaWRicVNoc1pSM3I0UDczYmFJRk54YVdiSUVUclNZaHA5NHV2V0dMRGEtTm1OcGRQS1V5VE80dWp5VWF6OTBDTXZjM0RiNVRDX0VzM2stbUtKUFRmOUEtbVhSQ1M3eWxGZEhacUZUNHRlZG1kYXpKSnJOVUhQWktVQ2pZdHM0SEZB?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-05-21T02:20:00+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "e8dfcc84f7b5",
-          "title": "Insider Reveals LeBron James\u2019 Planned Retirement Timeline",
-          "original_title": "NBA Insider Gives Clear Date On LeBron James\u2019 Retirement Plan - heavy.com",
-          "summary": "A reputable NBA insider disclosed a specific timeline for LeBron James\u2019 retirement, indicating the star plans to step away from playing after the 2025\u201126 season. The information, reported by Heavy.com, provides clarity amid ongoing contract and roster speculation.",
-          "key_points": [
-            "James intends to retire following the 2025\u201126 NBA season.",
-            "The timeline influences potential trade, free\u2011agency, and legacy discussions.",
-            "No details were given about post\u2011retirement roles or team affiliations."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNT3lpMk8wM2lEemNaQkJaWDNyRGpUbE9qU3NSWTNVeEd4TnpnYUNXd29GNFlteEF0X0hrbGdnclNqTHJjSm1FaUtZNkdiTWxIM1dDVXJ3Y3dqX0JMSzhaalhVb2hsZmRUTy1lS0VYUG04dmRHQnNlREdidFk4MGJXM0wtZF9oRFUzMEctZGttWHN2dkE?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-20T23:16:02+00:00",
+          "id": "2c67399506d0",
+          "title": "Luka Doncic could prevent Lakers from difficult but necessary move - Lake Show Life",
+          "original_title": "Luka Doncic could prevent Lakers from difficult but necessary move - Lake Show Life",
+          "summary": "Luka Doncic could prevent Lakers from difficult but necessary move&nbsp;&nbsp;Lake Show Life",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbXdfbDk1aTF1c1IwM25YeXNJUE5RdHgzQ0xOQm1ad1JVXzhKSWpXa1hKUzFpeC11akhOb0tZaVEzRUJyeU9DeEVBT1lXZXBxVDduRDVnNXg4TXQ3Z21oOXpmbE5NYnUxcDE5VmpnajVDRFlQOXUtYnlhQkJnY0VscFhQRVV6TDNxYWVmLXFldkpZOWdwbWc?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-05-21T02:00:00+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "983043601c38",
-          "title": "Cale Makar Compared to \u2018Primetime LeBron James\u2019 Ahead of Game 1 Injury Absence",
-          "original_title": "Avalanche\u2019s Cale Makar gets \u2018primetime LeBron James\u2019 comparison before Game 1 injury absence - Yahoo Sports",
-          "summary": "Colorado Avalanche defenseman Cale Makar received a comparison to LeBron James for his high\u2011impact, clutch performances, just before missing Game 1 due to injury. Yahoo Sports highlighted the analogy while noting Makar\u2019s importance to the Avalanche\u2019s playoff hopes.",
+          "id": "b436490ea513",
+          "title": "Lakers Clarify LeBron James' Role and Expectations for Next Season",
+          "original_title": "Lakers Reportedly Make Their LeBron James Feelings Crystal Clear for Next Season - Sports Illustrated",
+          "summary": "According to Sports Illustrated, the Los Angeles Lakers have communicated a clear picture of LeBron James' feelings and expectations heading into the upcoming season. Management emphasized his health, usage, and the team's competitive window, aiming to align James with the franchise\u2019s long\u2011term plans.",
           "key_points": [
-            "Makar\u2019s playmaking and leadership likened to LeBron\u2019s \u2018primetime\u2019 presence.",
-            "He will miss Game 1 because of an injury, creating a lineup challenge for Colorado.",
-            "The comparison emphasizes his status as a franchise cornerstone."
+            "Team officials met with James to discuss his health status and desired minutes.",
+            "The Lakers outlined a roadmap that balances James' legacy goals with roster construction.",
+            "Both sides expressed a mutual commitment to compete for a championship in the next season."
           ],
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWWRHNmRyNF9pTWlmd1U0bkxFYVVIYUxsUnJ3QUpWNkhsVlBiWUFGWG9kQXJubXY4TTIzbU9taERmZXRyVFZfRVBwUUgwRmZFeEJIQTFGd19RcE5xbWtnaDJ4eHoxcHRCd29GMDRHVUozVHFQakZheEpvY0NjMk9KMjdJclhZaWNHdlQ5VA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY3ZubDdZZFZ2VTh3ZEJ1X0hNMU1KV2h5S0RYdWo3Xzd3bktTRkIxOFFwMWhSSTRxX0tuUWluWnVfamlmZkw5Ul9fSWhUbHFSM2M2V0YwcWpjN0V5ZUpBa0pWYUg2YkpEdHhIemdUeGZvaGFpS1UxdHp6THF5S2hlcU5DUnhZMGZmNUY3QmdBbVhaQXRlRXlqR1haNVU?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-05-20T23:11:15+00:00",
+          "published": "2026-05-21T00:43:42+00:00",
           "topic": "Lakers Players"
         },
         {
           "id": "c746f47aa3ee",
-          "title": "LeBron James Unlikely to Accept Minimum Salary, Impacting Potential suitors",
+          "title": "LeBron Unlikely to Take Minimum Salary, Limiting Certain suitors",
           "original_title": "LeBron James is reportedly unlikely to accept a minimum salary, which affects some suitors more than others - CBS Sports",
-          "summary": "CBS Sports reports that LeBron James is expected to reject any contract offering a league\u2011minimum salary, a stance that could limit interest from certain teams. The financial expectation adds another layer to ongoing negotiations and trade rumors.",
+          "summary": "CBS Sports reports that LeBron James is expected to reject any contract at the NBA minimum, a stance that narrows the pool of potential teams willing to meet his financial expectations. This development could influence trade talks and free\u2011agency scenarios for the Lakers and other contenders.",
           "key_points": [
-            "James seeks a contract well above the NBA minimum.",
-            "Teams with tighter salary caps may find it harder to accommodate him.",
-            "The salary demand shapes the landscape of possible destinations for James."
+            "James\u2019 agents are seeking a contract well above the league minimum for the next deal.",
+            "Teams with salary\u2011cap constraints may find it harder to accommodate his demands.",
+            "The stance reinforces James\u2019 desire to remain on a competitive roster."
           ],
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWklYY0hxVHhvRjFCRTIxNXRDaTN3TTB6TG5hRlp6R3ZaSE9EcHJ2RzRFc0UwTDhzajBoM1dvN0lsYTkwcmtESnEtTTE1dzZYWlFnNzQwQ3N5bWJEbldQd0E1aWtVU0FTYnZmYWc1eTBZSTJGNVVMWGhMaWNBd2FxWFpOZWlHSm5JcHc?oc=5",
           "source": "Google News - LeBron",
@@ -351,33 +401,15 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "650e6e0efbef",
-          "title": "Shams: Lakers want LeBron James to return next season - HoopsHype",
-          "original_title": "Shams: Lakers want LeBron James to return next season - HoopsHype",
-          "summary": "Shams: Lakers want LeBron James to return next season&nbsp;&nbsp;HoopsHype",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRThlU19INGRNMXFoSjBDeUkxVURublg1Sk5JdHl2ODdUSzNobFlzRWtkanFyLU40MGt2d2l4eE04dkhjQ01kNGo0RXZfSG1WNmh5bDVxSXh0YU1kdFR6Q09weWFZTmtUYTcxNzNOeW9oR280eFBzenBMekI1Z3dYc0FHbE1wbW82QVk5OFNhZnZjOHlpbnNzMkdkOTVNSGtPZ2NDMGVBR3dORm80VkJ0My1TeGZBVEVEem5pd2tySjRtWkpB?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-20T22:33:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "aa6a78f2a746",
-          "title": "LeBron James likes post about possible Cavaliers reunion - Fear The Sword",
-          "original_title": "LeBron James likes post about possible Cavaliers reunion - Fear The Sword",
-          "summary": "LeBron James likes post about possible Cavaliers reunion&nbsp;&nbsp;Fear The Sword",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVkdkWHJIclpuaUNnN3BGUmFvdlRUXzl1a1RJUDZCSzFMVjIwaTI0bG1sb2YwYWlna1pXeGFzNklTaXFxVVpZNUpvbDRNMVc4UndvMkQ0cmZFZVJqdmdwOERRZUJ1RkpqZUUzMkRLS0NDaVdMdE5IR29qMDhaWnRZZlR5azZUZ0R5QV9rXzk1NlFqcHRneGhoTlBEWFUzXzFNM3Azc09wcS1jdmdHcjh3TkdOY2VJcjNlcllv?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-20T22:30:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
           "id": "3a5ae469ccc2",
-          "title": "Jason Kidd Reportedly Backed Lakers\u2019 Luka Doncic Trade - Sports Illustrated",
+          "title": "Jason Kidd Supports Lakers\u2019 Pursuit of Luka Don\u010di\u0107 Trade",
           "original_title": "Jason Kidd Reportedly Backed Lakers\u2019 Luka Doncic Trade - Sports Illustrated",
-          "summary": "Jason Kidd Reportedly Backed Lakers\u2019 Luka Doncic Trade&nbsp;&nbsp;Sports Illustrated",
-          "key_points": [],
+          "summary": "Sports Illustrated reveals that former NBA star and current coach Jason Kidd has voiced backing for a potential trade that would bring Luka Don\u010di\u0107 to Los Angeles. Kidd believes the addition would dramatically improve the Lakers\u2019 championship prospects.",
+          "key_points": [
+            "Kidd highlighted Don\u010di\u0107\u2019s playmaking and scoring as a perfect fit alongside LeBron James.",
+            "He acknowledged the complexity of moving assets and salary cap considerations.",
+            "The endorsement adds weight to ongoing rumors linking the Lakers to the Dallas Mavericks."
+          ],
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdnNGanF3aTJXZGFuUy1iVVdwNWFnR0JqdGpTajhsOTlwbzFFZUZ6RjdaYS1Ub0Fkdld4TDBLM2xKR1RlMWg3Z29RNWw2bmc3VUxyTnVZd1hZTC1wUDZNSEc2Z1Jpa3hVdUhJOVBmTi0zU25objZ4TGhCZGc4c2pkQ3FYUmJ0YzNRRXRaSHhIQzNQUQ?oc=5",
           "source": "Google News - Luka",
           "published": "2026-05-20T22:23:22+00:00",
@@ -385,10 +417,14 @@
         },
         {
           "id": "5d456b6a4df1",
-          "title": "LeBron James Likes IG Video Featuring Cavs 'Come Home' Photo amid Rumors on Lakers Future - Bleacher Report",
+          "title": "LeBron Likes Cavs \u2018Come Home\u2019 Instagram Clip Amid Lakers Future Rumors",
           "original_title": "LeBron James Likes IG Video Featuring Cavs 'Come Home' Photo amid Rumors on Lakers Future - Bleacher Report",
-          "summary": "LeBron James Likes IG Video Featuring Cavs 'Come Home' Photo amid Rumors on Lakers Future&nbsp;&nbsp;Bleacher Report",
-          "key_points": [],
+          "summary": "Bleacher Report notes that LeBron James liked an Instagram video featuring a photo of the Cleveland Cavaliers with a \u201cCome Home\u201d caption, fueling speculation about his next move. The interaction occurred as media outlets discuss his possible return to Cleveland or departure from Los Angeles.",
+          "key_points": [
+            "James\u2019 social\u2011media engagement was limited to a \u2018like,\u2019 with no accompanying comment.",
+            "The post reignited talk of a potential reunion with the Cavaliers.",
+            "No official statements have been made by the Lakers or James regarding his future."
+          ],
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQX0FuQmY0cGQ5N3kwbU5kS0tSeDFQQTlxYkJVdzlDeENrd1JvcGhmeGhQZGEyUGQtR1JZVnBNWWRMM2J4ZWRiQzhJYy0zbU1LVnoweXd1Z2lZcEZ0WE9wbjBOLU9fRmkxZ3ZHcE8wVjlwcEdhX01lN3VDekZXZTdxTFY3SU5BVWZIMU5RQTBxUU5PaldJQUZiZXc0RjJWYllQMUhpcTBiU0hJai1yUndtTUZSY19PVmgwWUxCeHJNc1FjWndHbGtvSg?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-05-20T21:40:28+00:00",
@@ -396,10 +432,14 @@
         },
         {
           "id": "c844e10e0249",
-          "title": "LeBron James' legendary feat suddenly looks even more absurd after these NBA Playoffs - Lake Show Life",
+          "title": "LeBron\u2019s Historic Feat Looks Even More Implausible After Recent Playoffs",
           "original_title": "LeBron James' legendary feat suddenly looks even more absurd after these NBA Playoffs - Lake Show Life",
-          "summary": "LeBron James' legendary feat suddenly looks even more absurd after these NBA Playoffs&nbsp;&nbsp;Lake Show Life",
-          "key_points": [],
+          "summary": "Lake Show Life examines how LeBron James\u2019 legendary statistical achievements appear increasingly unattainable following the outcomes of the latest NBA playoffs. The article contrasts his career milestones with the current league landscape and the Lakers\u2019 postseason performance.",
+          "key_points": [
+            "James\u2019 all\u2011time playoff records are highlighted alongside the Lakers\u2019 early exit.",
+            "Changes in team composition and competition level make replicating his feats unlikely.",
+            "The piece underscores James\u2019 unique place in NBA history despite recent setbacks."
+          ],
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWXNFSW1Rd2lMVWtrdlNZN3NOazlmVnFHQ2c3YzNtU3Fsc1lkV29rQXEzaG5xV19oX3c2dTYxWnhyUVprb1M3VW44dllvbXVxdTlmcDZzQjBoVmhud2I3ZkRqSFBRZGMtZWNEMFFqRXdWWnFSWVA2aWJQbmYxdkhkNjU5RUdhNGduTjB2bnp6T0c0d1U0aE8zM1loY2wzLXVfV0dlNW9lc2g3LVhudFE?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-05-20T21:00:00+00:00",
