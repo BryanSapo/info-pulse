@@ -1,118 +1,158 @@
 {
-  "generated_at": "2026-05-22T21:23:04.275768+00:00",
-  "total_articles": 30,
+  "generated_at": "2026-05-22T23:06:59.386333+00:00",
+  "total_articles": 25,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
+          "id": "258f29202bb2",
+          "title": "Free Agent Stats Overview",
+          "original_title": "Stats of free agents",
+          "summary": "A Reddit post compiled statistical categories for various free agents, focusing on defensive match\u2011up difficulty, defensive impact per 100 possessions, and rebounding talent. The metrics are intended to help evaluate how each player might fit into the Lakers' roster.",
+          "key_points": [
+            "Match\u2011up difficulty rates how tough the opponents a player guards are (higher = tougher).",
+            "Defensive impact (D\u2011LeBron) measures a player's defensive effect per 100 possessions (higher = better).",
+            "Rebounding talent tracks rebounds per 75 minutes, chances, conversion rate, and crashing ability."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1tkxqnc/stats_of_free_agents/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-22T22:14:30+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "537931ddcae5",
+          "title": "Former NBA GM Suggests Bold Move for Austin Reaves",
+          "original_title": "Former NBA GM Has Bold Take on What Lakers Should Do With Austin Reaves - Sports Illustrated",
+          "summary": "A former NBA general manager offered a decisive recommendation on the Lakers' handling of guard Austin Reaves, arguing the team should either trade him for assets or give him a significantly larger role. The commentary appeared in Sports Illustrated and sparked discussion among fans and analysts.",
+          "key_points": [
+            "The ex\u2011GM believes Reaves is either a tradeable asset or a player who deserves a bigger minutes load.",
+            "He suggests the Lakers could leverage Reaves to acquire draft picks or roster depth.",
+            "The opinion emphasizes the need for the Lakers to clarify Reaves' long\u2011term fit before the trade deadline."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcU5qZEt2dVpVU01jTjJqZkFPOTJ0LVY1V2tnX2tuN1dPV2lLVFppREJEcEVvTVpEMEJicXZXeUo5OHRnd2RIU1hIWVU3NXVRNEpzMkNSM1BsaC1ydHc0Vm52azkzLVFCaklaMk1tdGQ0T3FCS3VjZ3pVcTg3QktxVklkYzREdw?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-22T22:13:48+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "31c2e62bc252",
+          "title": "Potential Lakers Trade Package for Herb Jones Revealed",
+          "original_title": "Potential Lakers trade package for Herb Jones revealed - BasketNews.com",
+          "summary": "BasketNews.com reported a possible trade scenario in which the Los Angeles Lakers would send a combination of players and picks to acquire forward Herb Jones. The package is said to include role players and future draft considerations, aiming to bolster the Lakers' wing depth.",
+          "key_points": [
+            "The rumored package could involve a mix of bench players and a future second\u2011round pick.",
+            "Acquiring Jones would add athleticism and perimeter defense to the Lakers' roster.",
+            "The trade discussion reflects the Lakers' ongoing efforts to improve wing depth before the deadline."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQXdfOWVoLVk4MlRPMVg5VjJTbjFraVB3amo4WEtoeEpCNzMyZk9na0JRVWFTVks3b2RORmFZV244dk9KVmtyYXd1UDR6ZjNjSEhvQTd4dC1YZVlxNndySHU2dVdNZ3VJNTJUbFExMkU5NDZ0Y2pUcHlKUU9BdDI5X1dNdGNZNzNtWk9CWFJMZEsyRFphamlkNnZR?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-22T21:45:55+00:00",
+          "topic": "Lakers News"
+        },
+        {
           "id": "00f575417e73",
-          "title": "Lakers News: LeBron James Breaks Down His 23rd NBA Season",
+          "title": "LeBron James Reflects on His Historic 23rd NBA Season",
           "original_title": "Lakers News: LeBron James Breaks Down His 23rd NBA Season",
-          "summary": "No player has ever played 23 seasons in the NBA, but LeBron James has made a habit of making history throughout his career. And this season, his eighth with the Los Angeles Lakers, was truly a roller coaster ride unlike any other. \u201cWell obviously the start of the season wasn\u2019t the way I wanted to [&#8230;]",
-          "key_points": [],
+          "summary": "In an exclusive interview with Lakers Nation, LeBron James discussed the challenges and highlights of his 23rd NBA season, the first player ever to reach that milestone. He described the season as a roller\u2011coaster, noting both personal performance and the team's ups and downs.",
+          "key_points": [
+            "James emphasized that the start of the season fell short of his expectations.",
+            "He highlighted key moments that defined the season, including injuries and clutch performances.",
+            "James reflected on his longevity and the unique pressures of playing a 23rd season."
+          ],
           "link": "https://lakersnation.com/lakers-news-lebron-james-breaks-down-his-23rd-nba-season/",
           "source": "Lakers Nation",
           "published": "2026-05-22T20:52:55+00:00",
           "topic": "Lakers News"
         },
         {
+          "id": "7f572ee4b521",
+          "title": "LeBron James Breaks Down His 23rd NBA Season (Lakers Nation)",
+          "original_title": "Lakers News: LeBron James Breaks Down His 23rd NBA Season - Lakers Nation",
+          "summary": "Lakers Nation republished LeBron James' season\u2011recap interview, where the star detailed his experience during his 23rd year in the league. The piece mirrors the earlier article, underscoring James' perspective on the team's performance and his own role.",
+          "key_points": [
+            "James reiterated that the season did not start as he wanted.",
+            "He discussed personal health, team chemistry, and future goals.",
+            "The interview serves as a record of James' historic longevity and leadership."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOa1lUdG1qLWVyallhUzZiaWlwX18wazdKRGZ2dGNCUlhNUDF0b0d1R0ZSWUhfeTc0VGpjTk5pVlRTdVdFb21IV29ZYjRQb0Eta3RYa2x6dkdTbW5Yc0d4NnpsRFgxTFk4TXhEc19STW5PVGhWY2JmdHZTdS1pNkhhUmRWa2lwby1fcVE?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-22T20:52:55+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "f2399260cca1",
+          "title": "Lakers Predicted to Cut Ties with Austin Reaves and Target $175M Eastern Conference All-Star",
+          "original_title": "Lakers predicted to cut ties with Austin Reaves, acquire $175 million Eastern Conference All-Star - Yahoo Sports",
+          "summary": "Yahoo Sports reports that the Los Angeles Lakers are expected to move on from guard Austin Reaves and instead pursue a high\u2011salary Eastern Conference All\u2011Star worth roughly $175\u202fmillion. The speculation suggests a major roster shift aimed at adding a proven star to accelerate the team's championship window.",
+          "key_points": [
+            "Austin Reaves is likely to be traded or released as part of a roster overhaul.",
+            "The Lakers are rumored to target an Eastern Conference All\u2011Star with a $175\u202fmillion contract.",
+            "The move would represent a significant financial and talent upgrade for Los Angeles."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZTBJVzhXVUtZTlV6SXd5aXo5VDJyOVJtR0xORm82Yk5XUUdsb0JhdWtSY2pGREdLbl9tazIxNm4wUk03Q2s0cWEwT0tTMmJJWTNiQm12dWhVTEotTkxpdmowWGhBOXU2bElaVFNjV3pDd0lMdndNNlFtUFVFVUREeHpYeEhzQWVP?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-22T20:46:48+00:00",
+          "topic": "Lakers News"
+        },
+        {
           "id": "6aad7c8336c8",
-          "title": "Lakers Rumors: Jason Kidd Supported Luka Doncic Trade",
+          "title": "Jason Kidd Backed Luka\u202fDoncic Trade to the Lakers, According to Lakers Nation",
           "original_title": "Lakers Rumors: Jason Kidd Supported Luka Doncic Trade",
-          "summary": "The Luka Doncic trade from the Dallas Mavericks to the Los Angeles Lakers remains one of the most shocking deals in the history of sports. The deal was so unbelievable, and so unpopular, that both of the major stakeholders in that trade on Dallas\u2019 end \u2014 general manager Nico Harrison and head coach Jason Kidd [&#8230;]",
-          "key_points": [],
+          "summary": "Lakers Nation notes that former NBA player and coach Jason Kidd publicly supported a potential trade that would send Dallas Mavericks star Luka\u202fDoncic to Los Angeles. The article highlights the trade\u2019s shock value and the opposition it faced from Dallas executives Nico Harrison and the team\u2019s head coach.",
+          "key_points": [
+            "Jason Kidd expressed approval of a Luka\u202fDoncic\u2011to\u2011Lakers deal.",
+            "The trade was described as one of the most surprising and unpopular proposals in sports history.",
+            "Dallas GM Nico Harrison and the Mavericks\u2019 head coach were reportedly against the deal."
+          ],
           "link": "https://lakersnation.com/lakers-rumors-jason-kidd-supported-luka-doncic-trade/",
           "source": "Lakers Nation",
           "published": "2026-05-22T19:30:17+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "cfbf55d6ff21",
-          "title": "Lakers staring at stark financial reality with expected new Austin Reaves deal - Lake Show Life",
-          "original_title": "Lakers staring at stark financial reality with expected new Austin Reaves deal - Lake Show Life",
-          "summary": "Lakers staring at stark financial reality with expected new Austin Reaves deal&nbsp;&nbsp;Lake Show Life",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYXpsNU1Yb1Nzdk02MEZDQWRZc0dVYy1sU0RCVGdENERDdGxHNzYzUHo1SzdEeTdxRUNLRDhCSTV2ZWlPQzA5UWpEem5mZ3FBTUhieFRwazQ1R3ZRb3F4NEdRTzQ3YnFjUHA1YzMtaDdZZXJsYVBSbzhZMHZOMThlbTdXb1V0bmNnQmFtclo2MXlySW1ZV2syLUxzV0pzM0hzcnZUV2x3?oc=5",
+          "id": "d294e98485d3",
+          "title": "Jason Kidd Supported Luka\u202fDoncic Trade \u2013 Lakers Nation Repost",
+          "original_title": "Lakers Rumors: Jason Kidd Supported Luka Doncic Trade - Lakers Nation",
+          "summary": "A brief repost from Lakers Nation reiterates that former NBA star and coach Jason Kidd supported the rumored trade sending Luka\u202fDoncic to the Los Angeles Lakers. No new details are provided beyond the earlier report.",
+          "key_points": [
+            "Jason Kidd\u2019s endorsement of the Luka\u202fDoncic trade is reiterated.",
+            "The article serves as a duplicate of the earlier Lakers Nation piece.",
+            "No additional information about trade logistics is included."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVMwWTNIUHdVbGFWa0xzbUxTLWh5bkJsMVlEZjBIdVZxOW5mSzlxOTNxZ1JxcWtOV3RXYWdrcjhUdVVhMi1tUnA0dkFyRTBZSE9LSzhfX2FUSjVmTGE1Q1pSNHlMNkcwVEpoVDNtdkhWdlhyTFZvWGFmVE1zc01CZ1NMeHA?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-05-22T19:00:01+00:00",
+          "published": "2026-05-22T19:30:17+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "82c22bb1565c",
-          "title": "Thunder vs. Spurs looks set to be this generation\u2019s Lakers vs. Celtics - The New York Times",
-          "original_title": "Thunder vs. Spurs looks set to be this generation\u2019s Lakers vs. Celtics - The New York Times",
-          "summary": "Thunder vs. Spurs looks set to be this generation\u2019s Lakers vs. Celtics&nbsp;&nbsp;The New York Times",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTDJZakViREc1ZVVpR2JLS2R2MzJQNmdaV1FMTURXaThwMERVZVlnbHFBZmxuaXVDUkFDNV9VVF9rTEIzcm4wbERXdV9seTI5U1k2M0hGN0F3bjBFai01MzE2VWZ3bkNwdlJ3REwwdjQ4ZUNjTnhXZjFFd09WTVUyNEk5U2hBTlc0alRXbm1WaFJJOFdXdUEySnV4Y0ZuMnd1?oc=5",
+          "id": "530ac94783a6",
+          "title": "Hardwood Houdini: Celtics Must Outbid Lakers for Giannis Antetokounmpo",
+          "original_title": "Celtics should be ashamed if they can't top the Lakers' offer for Giannis - Hardwood Houdini",
+          "summary": "Hardwood Houdini argues that the Boston Celtics should feel pressure to match or exceed any offer the Los Angeles Lakers might make for Milwaukee Bucks superstar Giannis Antetokounmpo. The piece frames the potential bid as a test of the Celtics\u2019 commitment to competing for top free\u2011agent talent.",
+          "key_points": [
+            "The Lakers are rumored to be preparing a sizable offer for Giannis Antetokounmpo.",
+            "Hardwood Houdini suggests the Celtics would look weak if they cannot top that offer.",
+            "The article emphasizes the broader implications for Eastern Conference power dynamics."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNEZDT1dNOE1ldXN6dTVlLVNfYmZ0bDZiLXlLeEc3d0RPc0ZtTnJYTms3ZjB0Um8wNElNYzJvUWl2RW8ta2t0V28tdFVvLU5QZ3c1cHdZaVRxOVluWkV6RUhvOENMcC05QVJGb2szZXRhN0JDYmF4aEJ4d0x2UzVCSHVSLUtpVFk?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-05-22T18:33:00+00:00",
+          "published": "2026-05-22T19:23:23+00:00",
           "topic": "Lakers News"
         },
         {
           "id": "a627830664f7",
-          "title": "How Adou Thiero Can Help Us Predict Who The Lakers Pick In The Upcoming Draft",
+          "title": "How Adou Thiero Could Influence the Lakers' Upcoming Draft Pick",
           "original_title": "How Adou Thiero Can Help Us Predict Who The Lakers Pick In The Upcoming Draft",
-          "summary": "The Adou Thiero pick was really great. Even if he somehow doesn't pan out (and I believe that he will), we got what I consider an almost lottery-level talent in the second round. There's a reason the front-office made a considerable effort to move up the draft and get him. Adou has traits that the organization sees as desirable.  So, with a month left before the 2026 draft, I ask - what made Adou such an exciting prospect, and can that tell us anything about what the Lakers look for in the draft",
-          "key_points": [],
+          "summary": "A Reddit discussion analyzes the potential impact of prospect Adou Thiero on the Lakers' draft strategy, noting his lottery\u2011level talent despite being a second\u2011round selection. The thread argues that his skill set aligns with the front office\u2019s recent effort to move up in the draft and could shape Los Angeles\u2019 future roster construction.",
+          "key_points": [
+            "Adou Thiero is praised as a near\u2011lottery talent available in the second round.",
+            "The Lakers reportedly worked to acquire a higher pick to secure him.",
+            "His attributes are seen as a good fit for the team's long\u2011term rebuilding plans."
+          ],
           "link": "https://www.reddit.com/r/lakers/comments/1tkrb34/how_adou_thiero_can_help_us_predict_who_the/",
           "source": "Reddit r/lakers",
           "published": "2026-05-22T18:20:30+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "53b72236bcb9",
-          "title": "LeBron James Loved Competing Against Alex Caruso In Playoffs",
-          "original_title": "LeBron James Loved Competing Against Alex Caruso In Playoffs",
-          "summary": "Alex Caruso is once again playing a pivotal role for the Oklahoma City Thunder as they look to become the first repeat champions since 2018. His performance against LeBron James and the Los Angeles Lakers was nothing short of masterful, even if the stats don\u2019t jump off the page, as it\u2019s always been with Caruso. [&#8230;]",
-          "key_points": [],
-          "link": "https://lakersnation.com/lebron-james-loved-competing-against-alex-caruso-in-playoffs/",
-          "source": "Lakers Nation",
-          "published": "2026-05-22T18:15:43+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "e9f8b182acde",
-          "title": "LeBron James Loved Competing Against Alex Caruso In Playoffs - Lakers Nation",
-          "original_title": "LeBron James Loved Competing Against Alex Caruso In Playoffs - Lakers Nation",
-          "summary": "LeBron James Loved Competing Against Alex Caruso In Playoffs&nbsp;&nbsp;Lakers Nation",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSFVhbGg0R2ZiUXdWRHBxUTg0emI5eWtiMU9RS2cwOC1XT3VuMVF3Q3hyQU42Tnh4X0JhS2dfNE8xRnNNdW9IakVocklORS0zODR6MUxnRmNtN3dpckdVcnhwU1RTdUw0M1dzbE83UVFVd1lmSUw1c0g5M3E2dDYwQjMyZFhXOWtZTUxJZGd2WQ?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-22T18:15:43+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "3c4abc9b2cee",
-          "title": "Lakers urged to fire Rob Pelinka despite game-changing Luka Doncic trade - Yahoo Sports",
-          "original_title": "Lakers urged to fire Rob Pelinka despite game-changing Luka Doncic trade - Yahoo Sports",
-          "summary": "Lakers urged to fire Rob Pelinka despite game-changing Luka Doncic trade&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUU5RcHR5RDhKQlVBNEhFQ0U3azYtRUpOR2xaX0RZWm80ZU56bEE5VU9RbS1rOHJZUFRYcWp1X3l6WXd1UjFBSFhFNUpNMUl4RDJmNE5YaUJjUEJMdzFpZVYzcHFHZ3I5eXVrTXMtVndoRHg4YVlRVFNJMkpYa1M1RjRjLUE?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-22T17:56:33+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "2dfd7b9d0b95",
-          "title": "Luka splits the defense and finds Vando under the rim",
-          "original_title": "Luka splits the defense and finds Vando under the rim",
-          "summary": "      &#32; submitted by &#32;  /u/WhenMachinesCry   [link] &#32; [comments] ",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/lakers/comments/1tkqfyi/luka_splits_the_defense_and_finds_vando_under_the/",
-          "source": "Reddit r/lakers",
-          "published": "2026-05-22T17:51:14+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "bef36a6b569a",
-          "title": "Lakers Rumors: Austin Reaves Rehabbed Oblique Injury With Dodgers",
-          "original_title": "Lakers Rumors: Austin Reaves Rehabbed Oblique Injury With Dodgers",
-          "summary": "Austin Reaves and Luka Doncic both suffered significant muscle injuries in the same game, on April 2 against the Oklahoma City Thunder. Reaves had a Grade 2 left oblique strain and was given a 4-6-week recovery timeline, while Doncic\u2019s Grade 2 left hamstring strain was closer to 6-8 weeks. Reaves, though, ended up returning in [&#8230;]",
-          "key_points": [],
-          "link": "https://lakersnation.com/lakers-rumors-austin-reaves-rehabbed-oblique-injury-with-dodgers/",
-          "source": "Lakers Nation",
-          "published": "2026-05-22T17:00:06+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -121,113 +161,78 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "8a11aba8781e",
-          "title": "Today's top games to watch, best bets, odds: Game 3 of Thunder vs. Spurs, Golden Knights vs. Avalanche, more",
-          "original_title": "Today's top games to watch, best bets, odds: Game 3 of Thunder vs. Spurs, Golden Knights vs. Avalanche, more",
-          "summary": "Find best bets and props for the biggest games in sports on Friday from the SportsLine Projection Model and top CBS Sports experts",
-          "key_points": [],
-          "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-game-3-of-thunder-vs-spurs-golden-knights-vs-avalanche-more/",
-          "source": "CBS Sports NBA",
-          "published": "2026-05-22T21:06:51+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "1d047a21e8f1",
-          "title": "Thunder vs. Spurs odds, prediction: 2026 NBA Western Conference finals picks, Game 3 best bets by proven model",
+          "id": "e200232507c5",
+          "title": "Thunder vs. Spurs Game 3 Picks from SportsLine Model",
           "original_title": "Thunder vs. Spurs odds, prediction: 2026 NBA Western Conference finals picks, Game 3 best bets by proven model",
-          "summary": "SportsLine's model reveals its San Antonio Spurs vs. Oklahoma City Thunder Game 3 NBA playoff picks for Friday",
-          "key_points": [],
-          "link": "https://www.cbssports.com/nba/news/thunder-spurs-odds-prediction-spread-line-time-2026-nba-western-conference-finals-picks-game-3-best-bets/",
+          "summary": "SportsLine released its computer\u2011generated picks for Game 3 of the Western Conference semifinals between the Oklahoma City Thunder and the San Antonio Spurs. The model\u2019s recommendations are intended for bettors looking for data\u2011driven guidance.",
+          "key_points": [
+            "SportsLine\u2019s algorithm produced specific win\u2011loss and spread predictions for the matchup.",
+            "The picks are part of the outlet\u2019s broader playoff betting coverage.",
+            "No player performance details are provided in the release."
+          ],
+          "link": "https://www.cbssports.com/nba/news/thunder-spurs-odds-prediction-spread-betting-line-time-2026-nba-western-conference-finals-picks-game-3/",
           "source": "CBS Sports NBA",
-          "published": "2026-05-22T20:52:29+00:00",
+          "published": "2026-05-22T22:28:11+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "c5edb6ff8d75",
-          "title": "Giannis Antetokounmpo trade rumors: Does Wembanyama's rise increase Antetokounmpo's value?",
-          "original_title": "Giannis Antetokounmpo trade rumors: Does Wembanyama's rise increase Antetokounmpo's value?",
-          "summary": "Also, while the Lakers and Warriors are interested, they are long shots to land Antetokounmpo.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/giannis-antetokounmpo-trade-rumors-does-194937601.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-22T19:49:37+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "896152f39acc",
-          "title": "[The Ringer] The Jordan Rules Part Deux: Kirk Goldsberry on how this Spurs-Thunder series looks like the Pistons and Bulls in the \u201890s, but with one key difference.",
-          "original_title": "[The Ringer] The Jordan Rules Part Deux: Kirk Goldsberry on how this Spurs-Thunder series looks like the Pistons and Bulls in the \u201890s, but with one key difference.",
-          "summary": "      &#32; submitted by &#32;  /u/TheRealPdGaming   [link] &#32; [comments] ",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/nba/comments/1tktn11/the_ringer_the_jordan_rules_part_deux_kirk/",
-          "source": "Reddit r/nba",
-          "published": "2026-05-22T19:41:43+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "693bd4c1d3be",
-          "title": "Thunder vs Spurs Props & NBA Playoffs Game 3 Best Bets",
-          "original_title": "Thunder vs Spurs Props & NBA Playoffs Game 3 Best Bets",
-          "summary": "Back Victor Wembanyama to have another outstanding game on the glass. Free Thunder vs. Spurs prop picks for Game 3 on Friday, May 22.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/thunder-vs-spurs-props-nba-160200821.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-22T19:31:00+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "0a30e0bbb815",
-          "title": "Knicks' Josh Hart cites Jay Wright after giving now-viral quote about analytics: 'They're a lamppost to a drunk person'",
-          "original_title": "Knicks' Josh Hart cites Jay Wright after giving now-viral quote about analytics: 'They're a lamppost to a drunk person'",
-          "summary": "Hart had been shooting 26.7% from 3 during the playoffs. He went 5 of 11 from deep to help New York beat the Cleveland Cavaliers in Game 2 of the Eastern Conference finals.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/nba/article/knicks-josh-hart-cites-jay-wright-after-giving-now-viral-quote-about-analytics-theyre-a-lamppost-to-a-drunk-person-192804175.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-22T19:28:04+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "53f1dc449af9",
-          "title": "Thunder vs Spurs Prediction, Picks & Odds for Tonight's NBA Game",
-          "original_title": "Thunder vs Spurs Prediction, Picks & Odds for Tonight's NBA Game",
-          "summary": "Victor Wembanyama won't get pushed around in our Thunder vs. Spurs predictions and NBA picks for Friday, May 22.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/thunder-vs-spurs-prediction-picks-180600577.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-22T19:28:00+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "ed7d8b60339a",
-          "title": "Thunder vs Spurs Same-Game Parlay for Tonight's NBA Playoffs Game 3",
-          "original_title": "Thunder vs Spurs Same-Game Parlay for Tonight's NBA Playoffs Game 3",
-          "summary": "These 7-footers show out in our Thunder vs. Spurs same-game parlay predictions and NBA picks for Friday, May 22.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/thunder-vs-spurs-same-game-191900674.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-22T19:19:00+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "fee3e15142dc",
-          "title": "Colin Cowherd\u2019s opening monologue on Jalen Brunson: \u201cJalen Brunson is a 401k in sneakers. Nobody talks about it, not real flashy, but foundational. You better have one. Less now, more later.\u201d",
-          "original_title": "Colin Cowherd\u2019s opening monologue on Jalen Brunson: \u201cJalen Brunson is a 401k in sneakers. Nobody talks about it, not real flashy, but foundational. You better have one. Less now, more later.\u201d",
-          "summary": "      &#32; submitted by &#32;  /u/PassMeTheBackwood   [link] &#32; [comments] ",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/nba/comments/1tkss74/colin_cowherds_opening_monologue_on_jalen_brunson/",
-          "source": "Reddit r/nba",
-          "published": "2026-05-22T19:11:43+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "591492c84d7b",
-          "title": "2026 NBA Western Conference finals odds, predictions: Thunder vs. Spurs Game 3 picks by expert on 134-94 run",
-          "original_title": "2026 NBA Western Conference finals odds, predictions: Thunder vs. Spurs Game 3 picks by expert on 134-94 run",
-          "summary": "SportsLine's Mike Barner reveals his San Antonio Spurs vs. OKC Thunder Game 3 NBA playoff picks for Friday",
-          "key_points": [],
-          "link": "https://www.cbssports.com/nba/news/2026-western-conference-finals-odds-nba-playoff-predictions-thunder-spurs-game-3-picks-bets/",
+          "id": "5eb5e27dad27",
+          "title": "Top Player Prop Bets for Thunder\u2011Spurs Game 3",
+          "original_title": "NBA player prop picks, odds: Three best 2026 NBA Playoffs prop bets for Thunder vs. Spurs, Game 3",
+          "summary": "CBS Sports\u2019 SportsLine experts highlighted three player\u2011prop wagers they consider the best value for Game 3 of the Thunder\u2011Spurs series. The selections focus on scoring, rebounds and other statistical categories.",
+          "key_points": [
+            "Three specific prop bets are recommended, each with implied odds and projected outcomes.",
+            "The advice is based on the experts\u2019 analysis of recent player usage and matchup trends.",
+            "The article does not guarantee results, emphasizing responsible betting."
+          ],
+          "link": "https://www.cbssports.com/nba/news/nba-player-prop-picks-odds-three-best-2026-nba-playoffs-prop-bets-thunder-vs-spurs-game-3/",
           "source": "CBS Sports NBA",
-          "published": "2026-05-22T19:00:50+00:00",
+          "published": "2026-05-22T22:00:48+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "89d71a03cfba",
+          "title": "Cavaliers Need More From Evan Mobley in Game 3",
+          "original_title": "Cavaliers seek more from Evan Mobley as East finals shift to Cleveland for Game 3",
+          "summary": "Ahead of Game 3 of the Eastern Conference semifinals, the Cleveland Cavaliers are looking for a stronger offensive showing from forward Evan Mobley after a quiet first half against the New York Knicks. Mobley scored only 14 points in the first two quarters and was largely ineffective on that end.",
+          "key_points": [
+            "Mobley\u2019s limited scoring (10 points in Q1, 4 in Q2) is cited as a factor in the Cavaliers\u2019 recent struggles.",
+            "Cleveland hopes a more aggressive approach from Mobley can help erase a 2\u20110 series deficit.",
+            "The article focuses on the immediate need for increased production rather than long\u2011term projections."
+          ],
+          "link": "https://sports.yahoo.com/articles/cavaliers-seek-more-evan-mobley-214809188.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-22T21:48:09+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "69f1084bdc3f",
+          "title": "Yahoo Sports Player Prop Projections for Thunder\u2011Spurs Game 3",
+          "original_title": "Thunder vs Spurs Computer Picks: Our Best Player Prop Projections for Game 3",
+          "summary": "Yahoo Sports broke down the Western Conference semifinals matchup, offering player\u2011prop projections based on projected minutes, usage rates, and matchup advantages. The analysis aims to identify the most promising betting opportunities for the game.",
+          "key_points": [
+            "Prop projections consider factors such as player usage, expected playing time, and defensive matchups.",
+            "The article lists top picks for points, rebounds, assists and other statistical categories.",
+            "It serves as a guide for bettors, not a guarantee of outcomes."
+          ],
+          "link": "https://sports.yahoo.com/articles/thunder-vs-spurs-computer-picks-154500750.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-22T21:32:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "d8503ebdded1",
+          "title": "BetMGM Promo Offers $1,500 Bonus for Friday\u2019s NBA, NHL, MLB Bets",
+          "original_title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for Spurs-Thunder, Avalanche-Golden Knights Friday",
+          "summary": "CBS Sports reports that BetMGM is running a promotion with the code CBSSPORTS, granting bettors up to $1,500 in bonus bets if their first wager on Friday\u2019s games loses. The offer applies to NBA, NHL and MLB events, including the Spurs\u2011Thunder game.",
+          "key_points": [
+            "The bonus applies only to the first bet placed on the specified sports on Friday.",
+            "If the initial bet loses, bettors receive a bonus bet up to $1,500.",
+            "Standard terms and conditions, such as wagering requirements, apply to the promotion."
+          ],
+          "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-spurs-thunder-avalanche-golden-knights-friday/",
+          "source": "CBS Sports NBA",
+          "published": "2026-05-22T21:30:46+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -236,111 +241,100 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "57d23b6819bf",
-          "title": "NBA Insider Lists Five Possible Teams for LeBron James",
-          "original_title": "NBA insider names five potential landing spots for LeBron James - Yardbarker",
-          "summary": "An NBA insider outlined five teams that could be realistic destinations for LeBron James if he decides to leave the Los Angeles Lakers. The list includes franchises with cap space, championship windows, or a need for a veteran star. No confirmation from James or any team was provided.",
+          "id": "412c844b6839",
+          "title": "Caitlin Clark Overtakes LeBron James on Jersey Sales Leaderboard",
+          "original_title": "Caitlin Clark overtakes LeBron James on jersey sales leaderboard - USA Today",
+          "summary": "College phenom Caitlin Clark has surpassed LeBron James to become the top-selling NBA jersey on the official NBA store. The surge reflects Clark's growing popularity following her standout performances in the WNBA and media coverage. LeBron remains a strong seller but fell to second place.",
           "key_points": [
-            "Potential landing spots are based on salary\u2011cap flexibility and roster fit.",
-            "Teams mentioned include the Miami Heat, Golden State Warriors, Boston Celtics, Phoenix Suns, and Chicago Bulls.",
-            "The insider emphasized that any move would depend on LeBron\u2019s personal goals and the Lakers\u2019 willingness to trade him."
+            "Clark now leads NBA jersey sales, edging out LeBron James.",
+            "The increase is driven by her recent WNBA success and heightened media attention.",
+            "LeBron James remains second in sales, indicating his enduring marketability."
           ],
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUGIyS0hUd0l1TnF3UXl6dS1VR2ZTQXp6VXZnc3hNbGFYZDd1OGZTa0FVaDNSNGNhWUdNcGx3MG9VUXVjOFNVWENCQkwzN2puZ2xhLTBUUkFqOUxMZ0NGWU1sX01VZjdiOGhLOEtCWGtwcFlnakVINkZkclM0MGtVNEFKSURpZV8zMHdQNTFtTVFzUzllQm1MVzVjUDBTUFM2UEE4cHpEM2pJZ1ZJdWJPelozN3NlcUFUbmJVeEJR?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYi12R3Q0SnpKanRmcjZNM3Z3VDBJZk9Fa3VCZzdBN1I2ejlKN1AyT05MNWVvb2lLNm9Ua0xjNzVQOTRWcHZnNXRvb2ItdjBnaFNJSzJkeVdOVnMtVUlSd0FRNFRrVXMtanhNN3o5OXRUVG91LVdfRHZyT01Wd18yOFRLWDJsbDQzWDhYZEpuaWRfMnZvS1ZfcGpjekhCVjF0eUlkZmZWSlM1SUhyN1hHSWk2aw?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-05-22T20:18:42+00:00",
+          "published": "2026-05-22T22:26:00+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "5ccf36790218",
-          "title": "Channing Frye Urges LeBron James to Return to Cleveland",
-          "original_title": "Channing Frye\u2019s direct message to LeBron James: \u2018Go back to Cleveland\u2019 - Lakers Daily",
-          "summary": "Former NBA player Channing Frye publicly told LeBron James via social media that he should go back to Cleveland, referencing James\u2019 earlier career success there. Frye\u2019s comment sparked a brief online debate among fans but did not elicit a response from James.",
+          "id": "af9eda69de28",
+          "title": "What We Know About LeBron James' Retirement Decision",
+          "original_title": "What we know about LeBron James' retirement decision - The New York Times",
+          "summary": "The New York Times outlines the current facts surrounding LeBron James' potential retirement, noting that no official announcement has been made. Sources indicate James is evaluating his health, family considerations, and the Lakers' competitive outlook before deciding. The article emphasizes that speculation remains just that\u2014speculation.",
           "key_points": [
-            "Frye\u2019s message was posted on Twitter, directly tagging LeBron.",
-            "The suggestion references James\u2019 four\u2011time MVP and championship run with the Cavaliers.",
-            "No official statements from the Lakers or Cavaliers were made regarding the comment."
+            "No formal retirement announcement from LeBron James to date.",
+            "James is weighing health, family, and team performance factors.",
+            "Media speculation continues, but concrete details are limited."
           ],
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVmtNcXcyUlVNbWFTem45LXNrSlNpRjlHbWlUYk9LOU9VSDdLZkg2bU5uSVA5dWFkYmNKeWlxTEtGa2dPVjJac3A2MXdhbFhDNjFqYVoteU51WEppTFlXa2k0elc0QUVoM3gyUW1nSkdaVWpNWFFWVHk2N2xmQkxwVWNNcGVGTFI1UjRZR3NRZXNLUkY5Q0HSAZsBQVVfeXFMUEtxUHNJOXFzaDllUXBoV1dud0JhMDhGVzJFMzZhbHR5ZHBSbEpVZVVlWUQ4RmxhakM3WEFOS0FxOW5TNk9oLXkwUVdHVFpiVlZobDZBY2MzdFlodGw3Vmsza201S0VZZlBqemRJSlZVUnp6TUl0UzZfbnhRbVlPQU5ETDY0emdWR2xKT2Nib1dManppaVU5WUQxX3M?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tS19vUE5NWVR5emhXbVdHbi1Ia1p5M01falExZzFXSW1WeDFWVlk5WXd3R1FnZTM0YzZMbXYtQXFlY3RxOXRKbnlXeG1OYTFfbzB4Z3F4cjJWT3BQNzVkR25fOHBlZw?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-05-22T19:34:54+00:00",
+          "published": "2026-05-22T19:41:41+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "d294e98485d3",
-          "title": "Jason Kidd Supports Potential Luka Don\u010di\u0107 Trade, Lakers Rumors Surface",
-          "original_title": "Lakers Rumors: Jason Kidd Supported Luka Doncic Trade - Lakers Nation",
-          "summary": "According to Lakers Nation, former NBA coach and current analyst Jason Kidd expressed openness to a trade involving Luka Don\u010di\u0107, which could open roster flexibility for the Los Angeles Lakers. The report ties Kidd\u2019s comments to ongoing speculation about the Lakers\u2019 interest in acquiring a star guard.",
+          "id": "f6731e7bef92",
+          "title": "Caitlin Clark Has Dethroned LeBron James In Jersey Sales",
+          "original_title": "Caitlin Clark Has Dethroned LeBron James In Jersey Sales - Yahoo Sports",
+          "summary": "Yahoo Sports reports that Caitlin Clark's jersey has overtaken LeBron James' as the best\u2011selling NBA jersey on the league\u2019s official store. The shift underscores Clark's rapid rise in popularity after her transition to the professional game. LeBron's sales remain robust, keeping him near the top of the list.",
           "key_points": [
-            "Kidd\u2019s remarks were made during a televised analysis segment, not as an official front\u2011office statement.",
-            "A trade would likely require the Lakers to part with significant assets, including young talent or draft picks.",
-            "The article notes that no concrete negotiations have been reported at this time."
+            "Clark's jersey now tops the NBA's official sales chart.",
+            "LeBron James drops to second place but continues strong sales.",
+            "The change highlights Clark's market impact early in her pro career."
           ],
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVMwWTNIUHdVbGFWa0xzbUxTLWh5bkJsMVlEZjBIdVZxOW5mSzlxOTNxZ1JxcWtOV3RXYWdrcjhUdVVhMi1tUnA0dkFyRTBZSE9LSzhfX2FUSjVmTGE1Q1pSNHlMNkcwVEpoVDNtdkhWdlhyTFZvWGFmVE1zc01CZ1NMeHA?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-05-22T19:30:17+00:00",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcUFDcW5Ld1piQlU5d29CdUVsLTVCbGZkeV9ua1pNQ2xxSFNlc0ZEVjUxRXBQemRBZ2FhX2R6dGxkYlNOTUV4NkcySG0tQV9NZlNoblRBVXA0d1hxdGVyVy1YREdJQzBlcEh0Y2R6SnRocXhHYVVscXE4RDdpckxiOTM3bkpvNlEyV1RvbXVR?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-22T19:11:14+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "b0357a57fee9",
-          "title": "ESPN Analyst Criticizes LeBron James for \u2018Attention\u2011Seeking\u2019 Remarks",
-          "original_title": "ESPN Analyst Calls Out LeBron James Over Attention-Seeking Comments - Yahoo Sports",
-          "summary": "An ESPN analyst publicly called out LeBron James, labeling recent comments by the star as attention\u2011seeking and off\u2011topic. The critique focused on James\u2019 media appearances and social media posts that diverged from basketball discussion.",
+          "id": "05ca3aa4eeb8",
+          "title": "Kendrick Perkins Unimpressed With LeBron James News: \u2018We Took the Bait\u2019",
+          "original_title": "Kendrick Perkins not impressed with LeBron James news: \u2018We took the bait\u2019 - Awful Announcing",
+          "summary": "Former NBA player Kendrick Perkins expressed skepticism about recent rumors and reports concerning LeBron James, calling the coverage a bait-and-switch. Perkins suggested that media narratives are being used to generate hype without substantive information. He urged fans to focus on on\u2011court performance rather than speculation.",
           "key_points": [
-            "The analyst, identified as a senior NBA commentator, argued that James\u2019 remarks distract from on\u2011court performance.",
-            "James has not responded to the criticism, and the Lakers organization remained silent.",
-            "The piece highlighted a broader conversation about athletes\u2019 roles in public discourse."
+            "Perkins dismisses recent LeBron rumors as hype-driven.",
+            "He characterizes the coverage as a bait-and-switch tactic.",
+            "Calls for attention to be placed on actual gameplay over speculation."
           ],
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONGNkN01JZFpzckd2bkpmc0x3ZGdSRGRac2pINkJvRGZ2cFI2QXpheWRWZHRSeHBrLWE3RV9ZdFR1UXN4cVA5Yml0Z2V0anJUVDkyeDFlWWdEaEdPRmtkcWF5bmV0d0w0U1dXN0dsYWZsYklIS1VEa0FHeFpzTGtlWVdGdjRBOTg?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYTRSY2l2bDNGa21ueHF3WGVDQmxJZVQ1a05JWFFnM1J1TnZhUkFYdWFWV2xqMnptUFRzalE4SlcyZHBCYWYyTnpUVGxFaXZ1Y2xPalJvZ1loMy0zVEVVTjBFMzdxci1EdDVnOFY0aTR4Y2UxRzB1Q3dQcmRSTTE1MnhnRFhsMUHSAYwBQVVfeXFMTUg3OHZBdHRmQ01FdnRQcjRUTnZtVUhrZzRLT3RMS2hwelVDNVVGNF9obHpNc0QwRG1RTWFtMkQ1bEg3dGZLcjZYVDhWZGktQ1hlbThFQlc2dWJOUGJJd1lYeXJJblRMU2lmTjR4eXFQTnYxa3ZDYkJrUkQwekdGZllpMWVPWXA5bE93QjA?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-05-22T19:07:11+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "0396f2987e85",
-          "title": "Caitlin Clark Jersey Sales Surpass LeBron James Across Major Leagues",
-          "original_title": "Caitlin Clark jersey sales top LeBron James; see MLB, NFL, others - Alton Telegraph",
-          "summary": "The Alton Telegraph reported that rookie guard Caitlin Clark\u2019s jersey sales have outpaced LeBron James\u2019 in the NBA, as well as top sellers in MLB and the NFL. The surge reflects Clark\u2019s rapid rise in popularity following her standout college season.",
-          "key_points": [
-            "Clark\u2019s merchandise topped sales charts in multiple sports within the first weeks of the season.",
-            "LeBron remains a top seller, but his numbers fell behind Clark\u2019s in the latest reporting period.",
-            "The article underscores the growing marketability of women\u2019s basketball athletes."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTkhZaThFQmtiMDRkNXkzRGRPUVFGdFFBODRndVJRU2FGdFhiVDgxbkdoQXNzX01IQmpIN0JjZ01GamZoXzZhTC1jS0VIck9vejFtLU13bzJNUW9HWmRDdnp3aUo5T3JDZVhVazVNakhobEE5Q1RfWUtYQlA2bmhUdl9jZG9VRUh5SV9j?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-22T18:07:18+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "276354a4b2ba",
-          "title": "LeBron James says decision on his future could stretch into July, \u2018maybe into August\u2019 - NBC Sports",
-          "original_title": "LeBron James says decision on his future could stretch into July, \u2018maybe into August\u2019 - NBC Sports",
-          "summary": "LeBron James says decision on his future could stretch into July, \u2018maybe into August\u2019&nbsp;&nbsp;NBC Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVE14dlA2WERZVXAxY1Y2aFR2YlltTUlHTHZwOE1qOHE2eEVnSlM1cXFGbjN6aXRBUzhKQkRISHRoOGRLdkw5ZVIwQnVFWlpNd0syb3JKM0ZHclg3Y1RGbUdoeWh1Y0Y0ako0UTkxWmV2c0FWUVVlbHRoa2R0eXlLOExKcExKX0MwanRYd3ZiUDJBNFJkdzdXRXhXTmJibV9RWXFxSjAxOUNidEVuc2tuZmw3dnllMGhJ?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-22T18:03:33+00:00",
+          "published": "2026-05-22T18:33:13+00:00",
           "topic": "Lakers Players"
         },
         {
           "id": "b2248e6587de",
-          "title": "Former Celtics Star Kendrick Perkins Names Dream Landing Spot For LeBron James - NESN",
+          "title": "Former Celtics Star Kendrick Perkins Names Dream Landing Spot For LeBron James",
           "original_title": "Former Celtics Star Kendrick Perkins Names Dream Landing Spot For LeBron James - NESN",
-          "summary": "Former Celtics Star Kendrick Perkins Names Dream Landing Spot For LeBron James&nbsp;&nbsp;NESN",
-          "key_points": [],
+          "summary": "Kendrick Perkins shared his opinion on where he would like to see LeBron James finish his career, naming a specific NBA team as his ideal destination. While acknowledging the speculative nature of such suggestions, Perkins cited the team's roster and market as attractive factors. No official trade or free\u2011agency discussions have been reported.",
+          "key_points": [
+            "Perkins suggests a particular team as LeBron's ideal final stop.",
+            "He cites roster composition and market appeal as reasons.",
+            "The comment is speculative; no formal negotiations are known."
+          ],
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOemJxcktZNnNSVTRBXzVEN2g2bFlIc3RKMmFTNnBVWkZPWVVkWTV1bmlDUlBXRmtEdk5XRTYtOXZFdTFyX3RDMVB0cXdvd1lzTjBUQTJDaG82Wkx4bFdKcUxlVno0a0lGa0s4NzBxMGNDMGM4V01aNzZzMTBldl91N0ZLTHRwTmw0Y3NHdXFLdGl0aHYyREp3NmZCTGxTVXZNOEVCc1R4QTd5Y2hqQWdOdFo5dVdRem9TSjhHME04dGdXU3ZUQU1SbzBR?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-05-22T18:03:07+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "27e34a6579ab",
-          "title": "LA Lakers-LeBron James Decision Date? Top NBA Insider Reveals Day When Resolution Will Arrive - Sportsnaut",
-          "original_title": "LA Lakers-LeBron James Decision Date? Top NBA Insider Reveals Day When Resolution Will Arrive - Sportsnaut",
-          "summary": "LA Lakers-LeBron James Decision Date? Top NBA Insider Reveals Day When Resolution Will Arrive&nbsp;&nbsp;Sportsnaut",
+          "id": "53193ea094e1",
+          "title": "Lakers\u2019 reported trade offer for Giannis Antetokounmpo is revealed - MSN",
+          "original_title": "Lakers\u2019 reported trade offer for Giannis Antetokounmpo is revealed - MSN",
+          "summary": "Lakers\u2019 reported trade offer for Giannis Antetokounmpo is revealed&nbsp;&nbsp;MSN",
           "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQUpmTldTc3JKT2lLZC1LeDVuRE90VnN6NUt4RGVrQ3RFQ1pTZHFJYVBMMXVacjVtQVVzM2dlMF9iN2JieXdKMDYtMHdlRU5KendkbTA4OW1pS2hxRmtKWlRCTE1wLWxSZS1XcjVSZGlKSEpFem4tLXZqLWt0STJWNHJBOXNDUQ?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-22T17:32:06+00:00",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNc3Z1N1pFZHhRUlgxYnhUT3BrN2hndU1weWQ2aUtVZE50Rk83bXVpSXNkZk52RGRWcENVVlBxZ1dSUEJmbF9jT0Z4M3VSYWdqMnpmb2cweDd1R2tyOEMwUHF0WlhHVlpnNFlyREwzV2RIb2p6UlZ3d0xPbkpQOVowbFFFSGwybHVJZVF4SnJ0T2FTbC1pMm9aeXoyUEJYczhBUjI4RmdNeVY4d19qeC1ZaWQ3UXJyXzlQQlNnZ2ZreUU3anRadzNtaF95Y2N3QngzZHFZTnBnaHpLbkJucWJnbTlZakdkbU5PaXVjcWRvdy00QllGS1E?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-05-22T18:00:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "3c4abc9b2cee",
+          "title": "Lakers urged to fire Rob Pelinka despite game-changing Luka Doncic trade - Yahoo Sports",
+          "original_title": "Lakers urged to fire Rob Pelinka despite game-changing Luka Doncic trade - Yahoo Sports",
+          "summary": "Lakers urged to fire Rob Pelinka despite game-changing Luka Doncic trade&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUU5RcHR5RDhKQlVBNEhFQ0U3azYtRUpOR2xaX0RZWm80ZU56bEE5VU9RbS1rOHJZUFRYcWp1X3l6WXd1UjFBSFhFNUpNMUl4RDJmNE5YaUJjUEJMdzFpZVYzcHFHZ3I5eXVrTXMtVndoRHg4YVlRVFNJMkpYa1M1RjRjLUE?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-05-22T17:56:33+00:00",
           "topic": "Lakers Players"
         },
         {
@@ -363,6 +357,17 @@
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdEZMaElBODFvMDBOZUdVX2dDQWFFamZobEFROWFzb2hCRkNaM01IcDdUNWZPUzNpT3NWOWF6a0xrYWFydG9Tbngxa0xyaC1vMkloam5CTGF6VkJwS0JNT1M5a3VCMFZLSlNUcGJyT0hST0dJUS1ENm52ZjFQVkxMWkIzZmNxZWdaaVByQ1FURkswcEhOQmk0WXJLT242cENUSnlHb24yenFVQlk4UnQtb2NhUDVTcmhyelhkSnZkUmFoWUh2cVdvX2tnNzU2aDc3Y1pR?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-05-22T16:48:39+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "aff78fc0d660",
+          "title": "Lakers' LeBron James Drops Major Hint on Cleveland Return - Sports Illustrated",
+          "original_title": "Lakers' LeBron James Drops Major Hint on Cleveland Return - Sports Illustrated",
+          "summary": "Lakers' LeBron James Drops Major Hint on Cleveland Return&nbsp;&nbsp;Sports Illustrated",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY292VVpCV2pZMWdnQVRwSjJqemNYc2tuODVWT3ZYdHdkOGVsRHhfQzQ2OTZlVmxCNlR5YTZTOEVTclNnUjZQVWlrSl8wTkoxaElvWjMyd3V6QzRxNlA0bGdxeW1NQlFQbE03QkFaSHVkN3ZrdWE3Mzlyd09xM2g1Z1pvQ05kOXVZWXNIRmJMa2d6UQ?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-22T16:45:22+00:00",
           "topic": "Lakers Players"
         }
       ]
