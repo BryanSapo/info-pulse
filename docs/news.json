@@ -1,158 +1,118 @@
 {
-  "generated_at": "2026-05-23T15:13:42.686795+00:00",
-  "total_articles": 30,
+  "generated_at": "2026-05-23T17:10:01.305349+00:00",
+  "total_articles": 25,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
+          "id": "8d1581c06d2e",
+          "title": "They were saying he was better than reaves \u270c\ufe0f",
+          "original_title": "They were saying he was better than reaves \u270c\ufe0f",
+          "summary": "      &#32; submitted by &#32;  /u/nixlover_   [link] &#32; [comments] ",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/lakers/comments/1tllmii/they_were_saying_he_was_better_than_reaves/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-23T16:49:20+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "1c37a850a67f",
+          "title": "AR wants to run it back with Bron next season",
+          "original_title": "AR wants to run it back with Bron next season",
+          "summary": "      &quot;I've gotta sign first. I'm a Free-Agent.&quot; Any thoughts on this one? Will he get packaged for a Giannis sign &amp; trade or are y'all ok with the Lakers running it back with Bron, Luka &amp; AR for next season.  &#32; submitted by &#32;  /u/Unfair_March_1501   [link] &#32; [comments] ",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/lakers/comments/1tllhl3/ar_wants_to_run_it_back_with_bron_next_season/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-23T16:43:58+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "97384a781b3b",
+          "title": "Jared McCain\u2019s Earliest Basketball Memory Involves Watching \u2018Favorite Player\u2019 Kobe Bryant",
+          "original_title": "Jared McCain\u2019s Earliest Basketball Memory Involves Watching \u2018Favorite Player\u2019 Kobe Bryant",
+          "summary": "Los Angeles Lakers legend Kobe Bryant has impacted numerous athletes across all sports, and one of them is Oklahoma City Thunder guard Jared McCain. McCain, who grew up in California and went to high school in Corona, spoke about his earliest basketball memories involving Bryant after he helped lead the Thunder to a Game 3 [&#8230;]",
+          "key_points": [],
+          "link": "https://lakersnation.com/jared-mccain-earliest-basketball-memory-involves-watching-favorite-player-kobe-bryant/",
+          "source": "Lakers Nation",
+          "published": "2026-05-23T16:30:15+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "ef7d544327b9",
+          "title": "Los Angeles Lakers NBA Champion Dwight Howard Makes Heartfelt Post - heavy.com",
+          "original_title": "Los Angeles Lakers NBA Champion Dwight Howard Makes Heartfelt Post - heavy.com",
+          "summary": "Los Angeles Lakers NBA Champion Dwight Howard Makes Heartfelt Post&nbsp;&nbsp;heavy.com",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQnhyaG9lbWtSSE1zWXJKQVlHNjIyRl8xQzFRN2ZGM2tqd0M0NERMbVNpbUctNl9kYmw2ZjBNWU1hRjBTWmdGVm43Rlp3cHBjb1Rrbm5FZFFKa2ZjbEZJQWNFenZmSWVNeDYwS0JzOGZ0X2lBWjFDRzg2dzJvblZjWExPSWItaE84Zk9VaEZGOA?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-23T16:19:49+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "1999a211daf1",
+          "title": "The Los Angeles Lakers have expressed interest in \u2026 - HoopsHype",
+          "original_title": "The Los Angeles Lakers have expressed interest in \u2026 - HoopsHype",
+          "summary": "The Los Angeles Lakers have expressed interest in \u2026&nbsp;&nbsp;HoopsHype",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRDFES0syLWhtaXJaaGZoYldJajRBYUxQWWM2SUlQQ3lMY292eTM2d3lLbUltUk4tSElaMm1MRkp6Sk5aZUU2dkRhUlJHWVh6UEZ3VGlWLTlZZnhoT1Q0Qmlza2dBRHhBTXgyVVhJS0hjZkNVZGZUb2JZenZjT2VrU1hHUmtpT1NzblJjdk93U3FwRjd3bmpSZ2xQdHRFSFFWeU1qQmxiRDh1QjZncEdvYnRfX0VzNEJtN2doUUNjWHc?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-23T15:35:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "007acd7d2ec6",
+          "title": "Patrick Ewing Believes Kareem Abdul-Jabbar Deserves To Be In GOAT Discussions",
+          "original_title": "Patrick Ewing Believes Kareem Abdul-Jabbar Deserves To Be In GOAT Discussions",
+          "summary": "By the time Patrick Ewing entered the NBA as the top overall pick of the New York Knicks in 1985, Los Angeles Lakers legend Kareem Abdul-Jabbar was in the latter stages of his career. But even in those final few years, Abdul-Jabbar was still capable of some big nights, especially with his patented skyhook. Ewing [&#8230;]",
+          "key_points": [],
+          "link": "https://lakersnation.com/patrick-ewing-believes-kareem-abdul-jabbar-deserves-to-be-in-goat-discussions/",
+          "source": "Lakers Nation",
+          "published": "2026-05-23T15:20:55+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "782ea8a7e710",
+          "title": "Scotto: The Los Angeles Lakers have expressed interest in several candidates for their front office openings, including Steve Senior, Prosper Karangwa, Eric Amsler, Bart Taylor, and others",
+          "original_title": "Scotto: The Los Angeles Lakers have expressed interest in several candidates for their front office openings, including Steve Senior, Prosper Karangwa, Eric Amsler, Bart Taylor, and others",
+          "summary": "      &#32; submitted by &#32;  /u/Turbostrider27   [link] &#32; [comments] ",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/lakers/comments/1tljaxh/scotto_the_los_angeles_lakers_have_expressed/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-23T15:20:10+00:00",
+          "topic": "Lakers News"
+        },
+        {
           "id": "d37cd9e0a142",
-          "title": "Rui Hachimura and Anthony Davis: A Two\u2011Piece Set",
+          "title": "Rui and AR are a 2 Piece Set. Do not Separate! \ud83d\ude24",
           "original_title": "Rui and AR are a 2 Piece Set. Do not Separate! \ud83d\ude24",
-          "summary": "A Reddit user emphasizes that forward Rui Hachimura and star big man Anthony Davis should remain together on the Lakers' roster. The post argues their complementary skill sets make them a valuable core for the team moving forward.",
-          "key_points": [
-            "Hachimura provides spacing and perimeter shooting that complements Davis' interior presence.",
-            "The pairing is seen as a cost\u2011effective way to improve the roster without major trades.",
-            "Fans are urged not to consider separating the two players in future roster moves."
-          ],
+          "summary": "      &#32; submitted by &#32;  /u/Turbulent_Emu_7285   [link] &#32; [comments] ",
+          "key_points": [],
           "link": "https://www.reddit.com/r/lakers/comments/1tlimsz/rui_and_ar_are_a_2_piece_set_do_not_separate/",
           "source": "Reddit r/lakers",
           "published": "2026-05-23T14:53:51+00:00",
           "topic": "Lakers News"
         },
         {
+          "id": "e9e729a20356",
+          "title": "Rob Pelinka: Tony Bennett Has Been Invaluable Addition To Lakers Front Office",
+          "original_title": "Rob Pelinka: Tony Bennett Has Been Invaluable Addition To Lakers Front Office",
+          "summary": "Under new ownership, the Los Angeles Lakers are looking to gain any advantage they can, and one way to do that is by adding to their front office. One of their recent additions was bringing on former Virginia head coach Tony Bennett as a draft advisor to Rob Pelinka. And with the 2026 NBA Draft [&#8230;]",
+          "key_points": [],
+          "link": "https://lakersnation.com/rob-pelinka-tony-bennett-has-been-invaluable-addition-to-lakers-front-office/",
+          "source": "Lakers Nation",
+          "published": "2026-05-23T14:10:25+00:00",
+          "topic": "Lakers News"
+        },
+        {
           "id": "3138173055a6",
           "title": "Daily Lakers Offseason Discussion Thread",
           "original_title": "Daily Lakers Offseason Discussion Thread",
-          "summary": "An automated Reddit post opens a thread for fans to discuss the Lakers now that the season has ended. Users are encouraged to talk about offseason moves, roster speculation, and any other Lakers\u2011related topics.",
-          "key_points": [
-            "Provides a centralized space for fan conversation during the offseason.",
-            "Typical topics include free\u2011agency targets, draft prospects, and coaching staff changes.",
-            "No official information is presented; it is purely fan\u2011driven discussion."
-          ],
+          "summary": "Lakers season is over. Talk about whatever you want.  &#32; submitted by &#32;  /u/AutoModerator   [link] &#32; [comments]",
+          "key_points": [],
           "link": "https://www.reddit.com/r/lakers/comments/1tlhatb/daily_lakers_offseason_discussion_thread/",
           "source": "Reddit r/lakers",
           "published": "2026-05-23T14:00:47+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "cfc5332a38a6",
-          "title": "Lakers Players Who May Be Traded or Benched",
-          "original_title": "Lakers that need to be shown the door or the bench - Lake Show Life",
-          "summary": "Lake Show Life outlines which members of the Los Angeles Lakers roster could be moved or see reduced minutes in the upcoming season. The article lists players the author believes are expendable or underperforming.",
-          "key_points": [
-            "Identifies specific veterans and role players deemed surplus to requirements.",
-            "Suggests benching or trading to free cap space and create opportunities for younger talent.",
-            "Highlights the need for roster flexibility ahead of the 2024\u201125 season."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSmlFQkJaSVF3bmkzc19oN0otUUlFN3FDdnVnbjNlSzJXTk9tMzBsRWdfbHFuTzVrc3hqX3B3NUtHWkdrbENpdzRTd1g1UzNIM3VOUnRLZUE0ZU5hVi1laVBEZlZzUXNRTGo1elN5bVBCZTlTQUhqb0FoY0MtNnJlYWxpcng5eDVodkZ2RENaNklxVnBzVlRMM3YzaXY3Zw?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-23T14:00:02+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "94787f702391",
-          "title": "Lakers Linked to 76ers Star Duo as \u2018Best Fit\u2019 Alongside Luka Doncic",
-          "original_title": "Lakers Linked to 76ers Star Duo as \u2018Best Fit\u2019 Alongside Luka Doncic - heavy.com",
-          "summary": "Heavy.com reports that the Los Angeles Lakers are being mentioned as a potential destination for Philadelphia 76ers stars Joel Embiid and Tyrese Maxey, with analysts claiming they would fit well with Luka Don\u010di\u0107 in a future super\u2011team scenario. The piece is speculative and notes no concrete negotiations.",
-          "key_points": [
-            "Speculation centers on pairing Embiid and Maxey with Don\u010di\u0107, not the Lakers.",
-            "The article frames the Lakers as a possible landing spot for the 76ers duo in a multi\u2011team trade.",
-            "No official statements from either franchise confirm interest."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbWhYRGRVWE9DZWloWTAxaU8zcDBRMGpkc09KYUZHR1RLYzhrMkVrSllobkM1TnNFWmpYbW41UGtOaXdPMGs1LVFfNjROTkU5VFlYeG5YYmVSLXpSZEJteHB2N2ZQek5lYk4yRHk2YnJWZHJDcWdNZUxRc3M0M3E5VS1lV3U4ZXBH?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-23T13:51:37+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "e9e729a20356",
-          "title": "Rob Pelinka Praises Tony Bennett\u2019s Value as Lakers Draft Advisor",
-          "original_title": "Rob Pelinka: Tony Bennett Has Been Invaluable Addition To Lakers Front Office",
-          "summary": "Lakers Nation reports that former Virginia coach Tony Bennett has been hired by the Lakers as a draft advisor to assist GM Rob Pelinka, especially with the 2026 NBA Draft. Bennett\u2019s reputation for player development and defensive expertise is highlighted as an asset for the organization under its new ownership.",
-          "key_points": [
-            "Bennett joins the front office to provide scouting and draft insights.",
-            "His defensive coaching background is expected to influence the Lakers\u2019 talent evaluation.",
-            "The hire reflects the Lakers\u2019 broader strategy to strengthen their analytical and scouting departments."
-          ],
-          "link": "https://lakersnation.com/rob-pelinka-tony-bennett-has-been-invaluable-addition-to-lakers-front-office/",
-          "source": "Lakers Nation",
-          "published": "2026-05-23T13:15:25+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "bef33ba7cae1",
-          "title": "Prospect Profile: Trevon Brazele (PF/C)",
-          "original_title": "Trevon Brazele",
-          "summary": "Trevon Brazele is a 6\u2011foot\u201110 forward/center with a 7\u2011foot\u20114 wingspan. He is praised for his athleticism, defensive versatility and potential as a stretch\u2011big, but scouts note that his rim\u2011running, ball\u2011handling and playmaking need work.",
-          "key_points": [
-            "Strengths: elite length, ability to guard multiple positions, and three\u2011point shooting potential.",
-            "Weaknesses: limited rim\u2011running and underdeveloped ball\u2011handling/playmaking.",
-            "Projected role: could serve as a defensive\u2011oriented, floor\u2011spacer replacement for players like Maxi Kleber."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1tlg6y7/trevon_brazele/",
-          "source": "Reddit r/lakers",
-          "published": "2026-05-23T13:14:18+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "eb69296218ca",
-          "title": "Fans Praise Luka Don\u010di\u0107\u2019s Lob Passing Skills",
-          "original_title": "Watching luka/laker highlights and man this guy luka is soo good at lobs.",
-          "summary": "A Reddit user highlighted Luka Don\u010di\u0107\u2019s exceptional ability to deliver lob passes and overall playmaking, expressing excitement for the upcoming season and the Lakers\u2019 potential matchup with him. The post reflects fan enthusiasm rather than news.",
-          "key_points": [
-            "Luka is described as an \u201cincredible lob passer\u201d and a beautiful player to watch.",
-            "The comment underscores fan anticipation for the next NBA season.",
-            "No concrete information about roster moves or game outcomes is provided."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1tlg2ft/watching_lukalaker_highlights_and_man_this_guy/",
-          "source": "Reddit r/lakers",
-          "published": "2026-05-23T13:08:57+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "85258e326210",
-          "title": "Lakers Target $67\u202fMillion Wing in Trade Talks",
-          "original_title": "Lakers \u2018Zeroing In\u2019 on $67M Trade Target to Upgrade Wing Depth - heavy.com",
-          "summary": "According to Heavy.com, the Los Angeles Lakers are focusing on a $67\u202fmillion contract player to improve wing depth. The report suggests the team is actively evaluating trade options that fit both salary\u2011cap constraints and roster needs.",
-          "key_points": [
-            "Trade target carries a $67\u202fM salary, indicating a high\u2011value wing.",
-            "Goal is to bolster the Lakers\u2019 bench and starting wing positions.",
-            "Details on the specific player or trade package remain undisclosed."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcXo4MTNaSTM4cnRabW9UcGJRV05ucnlDQ09BbjlHTU9MU1J2SWRJblNjNjRvQlNxaHBrcmFmNEZMQUhmYm50T3AwLUl5WGRHaHc0V0hkQ2x3UXBDc3BTRHY5dkZiTUhaM0VnVTJqdDFsSnhNc2laeURTRWdXcnVwaGNPU0NRT1Q4cEE?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-23T13:03:40+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "6d246528b057",
-          "title": "Luka Don\u010di\u0107 Sends Direct Message to Free\u2011Agent Lakers Teammate",
-          "original_title": "Luka Doncic Sends Blunt Message to Free Agent Lakers Teammate - heavy.com",
-          "summary": "Heavy.com reports that Luka Don\u010di\u0107 delivered a blunt statement to a teammate who is currently a free agent, implying expectations about the player\u2019s future decisions. The article does not specify the teammate or the content of the message.",
-          "key_points": [
-            "Luka addressed a Lakers free\u2011agent teammate with a straightforward comment.",
-            "The nature of the message suggests pressure or clarification regarding contract status.",
-            "No further details on the player\u2019s identity or the impact on roster plans are given."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPejI4WmJBdW5vczNfOWs0dVBHYW1xWFdJRjY1MFVQSk8zT3pvSFE3VnNIUHdrVDVnUHAweHVxbG1CaTFaZXcySUhYSjhyTlRYNi1FdmxIR3l1WFlocWtlQkNsajFWQU9UbEx4WFNpV2dqRHZham1PUGh1RnRNVzZtSGhjNlY?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-23T12:50:14+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "79f2febc7dc2",
-          "title": "Rui Hachimura and Luka Don\u010di\u0107 Share Light\u2011Hearted Instagram Post",
-          "original_title": "Rui and Luka on Instagram \ud83d\ude02\ud83d\ude02",
-          "summary": "A Reddit post shares an Instagram moment featuring Lakers teammates Rui Hachimura and Luka Don\u010di\u0107, accompanied by laughing emojis. The content is purely social media\u2011focused and does not contain newsworthy information.",
-          "key_points": [
-            "The post highlights a casual interaction between Hachimura and Don\u010di\u0107 on Instagram.",
-            "It reflects team camaraderie but offers no substantive basketball news.",
-            "No analysis of performance or roster implications is provided."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1tlff5b/rui_and_luka_on_instagram/",
-          "source": "Reddit r/lakers",
-          "published": "2026-05-23T12:40:17+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -161,133 +121,78 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "3b28d800ee11",
-          "title": "NBA playoff takeaways: Thunder steal Game 3 on the...",
-          "original_title": "NBA playoff takeaways: Thunder steal Game 3 on the...",
-          "summary": "Here's what we've learned -- and what's next for the series.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48771425/2026-nba-playoffs-conference-finals-takeaways-thunder-spurs-knicks-cavaliers",
-          "source": "ESPN NBA",
-          "published": "2026-05-23T15:37:21+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "06d302000346",
-          "title": "What the Cavaliers need to save their turbulent se...",
-          "original_title": "What the Cavaliers need to save their turbulent se...",
-          "summary": "Through a roller-coaster season, the Cavaliers have turned to one man in times of trouble.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48848352/down-0-2-donovan-mitchell-cleveland-cavaliers-here-before",
-          "source": "ESPN NBA",
-          "published": "2026-05-23T15:37:08+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "4f351f258b73",
-          "title": "Daily Discussion Thread + Game Thread Index | Playoffs",
-          "original_title": "Daily Discussion Thread + Game Thread Index | Playoffs",
-          "summary": "This post contains content not supported on old Reddit. Click here to view the full post  &#32; submitted by &#32;  /u/nba-scores   [link] &#32; [comments]",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/nba/comments/1tlisil/daily_discussion_thread_game_thread_index_playoffs/",
-          "source": "Reddit r/nba",
-          "published": "2026-05-23T15:00:15+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "eaa94401f5d2",
-          "title": "2026 NBA Eastern Conference Finals odds, predictions: Knicks vs. Cavaliers Game 3 picks by expert who's 135-95",
-          "original_title": "2026 NBA Eastern Conference Finals odds, predictions: Knicks vs. Cavaliers Game 3 picks by expert who's 135-95",
-          "summary": "SportsLine's Mike Barner reveals his New York Knicks vs. Cleveland Cavaliers Game 3 NBA playoff picks for Saturday",
-          "key_points": [],
-          "link": "https://www.cbssports.com/nba/news/2026-nba-eastern-conference-finals-odds-predictions-spread-time-knicks-cavaliers-game-3-picks/",
-          "source": "CBS Sports NBA",
-          "published": "2026-05-23T14:26:01+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "df162a74690e",
-          "title": "2026 NBA Playoff Bracket: Follow the Eastern and Western Conference Finals",
-          "original_title": "2026 NBA Playoff Bracket: Follow the Eastern and Western Conference Finals",
-          "summary": "Follow the 2026 NBA playoff bracket with live results, updated schedules, matchup breakdowns, and a full guide to the NBA postseason format.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/2026-nba-playoff-bracket-live-160900754.html",
+          "id": "ef79abbb6cea",
+          "title": "Mikal Bridges' Surge Powers Knicks Toward NBA Finals",
+          "original_title": "'It's who he is': How Mikal Bridges' reappearing act has the Knicks surging toward the NBA Finals",
+          "summary": "After nearly losing his starting role earlier in the playoffs, Mikal Bridges is now delivering his best performances of the season. His elevated play has been a catalyst for the New York Knicks as they chase a first NBA Finals appearance since 2013.",
+          "key_points": [
+            "Bridges overcame a mid\u2011postseason benching scare to become a primary scorer and defender.",
+            "He is averaging a career\u2011high in points and efficiency during the current series.",
+            "The Knicks credit his consistency as a key factor in their deep playoff run."
+          ],
+          "link": "https://sports.yahoo.com/nba/article/its-who-he-is-how-mikal-bridges-reappearing-act-has-the-knicks-surging-toward-the-nba-finals-165016224.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-05-23T13:30:00+00:00",
+          "published": "2026-05-23T16:50:16+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "a6abfc21d632",
-          "title": "Cavaliers vs. Knicks Game 3 Odds and Prediction",
+          "id": "59f101f9dc08",
+          "title": "Town\u200bs and Bridges Urge Knicks to Stay \u2018Desperate\u2019 Ahead of ECF Game 3",
+          "original_title": "Karl-Anthony Towns, Mikal Bridges on Knicks needing to continue 'playing desperate' ahead of ECF Game 3 vs. Cavaliers",
+          "summary": "Before Game 3 of the Eastern Conference Finals, Karl\u2011Anthony\u202fTowns and Mikal\u202fBridges emphasized that the Knicks must maintain a \u201cplaying desperate\u201d mindset despite holding a 2\u20110 series lead over Cleveland. The comments underline the team\u2019s focus on intensity and execution.",
+          "key_points": [
+            "Knicks lead the series 2\u20110 but want to avoid complacency.",
+            "Both Towns and Bridges stress urgency and effort on both ends of the floor.",
+            "The message is aimed at sustaining momentum heading into a pivotal Game\u202f3."
+          ],
+          "link": "https://sports.yahoo.com/articles/karl-anthony-towns-mikal-bridges-162531118.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-23T16:25:31+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "53dad058c6d2",
+          "title": "Jared\u202fMcCain\u2019s Playoff\u2011High 24 Points Propel Thunder to 2\u20111 Lead Over Spurs",
+          "original_title": "After WCF gem, Thunder's Jared McCain says he'll 'always have love' for Daryl Morey despite 76ers trading him",
+          "summary": "In Game\u202f3 of the Western Conference first round, Oklahoma City\u2019s Jared\u202fMcCain scored a career\u2011high 24 points, helping the Thunder secure a win in San Antonio and take a 2\u20111 series advantage. He expressed lasting gratitude toward former 76ers executive Daryl Morey, who facilitated his trade to OKC.",
+          "key_points": [
+            "McCain\u2019s 24 points marked his highest total in a postseason game.",
+            "The Thunder now lead the series 2\u20111 against the Spurs.",
+            "He publicly thanked Daryl Morey, noting the positive impact of the trade."
+          ],
+          "link": "https://sports.yahoo.com/nba/article/after-wcf-gem-thunders-jared-mccain-says-hell-always-have-love-for-daryl-morey-despite-76ers-trading-him-161649733.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-23T16:16:49+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "eaa2eb679c26",
+          "title": "SportsLine Model Predicts Cavaliers vs. Knicks Game 3 Picks",
           "original_title": "Knicks vs. Cavaliers odds, prediction: 2026 NBA Eastern Conference Finals picks, Game 3 bets by proven model",
-          "summary": "SportsLine\u2019s predictive model released its picks for Game 3 of the Eastern Conference semifinals between Cleveland and New York. The model highlights the expected odds, key statistical factors, and the recommended bet for the matchup.",
+          "summary": "CBS Sports\u2019 SportsLine model released its projected odds and picks for Game\u202f3 of the Eastern Conference Finals between Cleveland and New York. The analysis incorporates recent performance trends and statistical indicators to suggest betting angles.",
           "key_points": [
-            "SportsLine\u2019s model provides specific odds and a pick for Game 3.",
-            "The analysis emphasizes recent performance trends of both teams.",
-            "Betting recommendations are based on the model\u2019s statistical projections."
+            "Model forecasts a narrow advantage for the Cavaliers based on home\u2011court and recent play.",
+            "Key statistical trends highlighted include turnover differential and three\u2011point shooting efficiency.",
+            "Suggested betting lines focus on total points and the spread."
           ],
-          "link": "https://www.cbssports.com/nba/news/knicks-cavaliers-odds-prediction-spread-time-2026-nba-eastern-conference-finals-game-3-picks/",
+          "link": "https://www.cbssports.com/nba/news/knicks-cavaliers-odds-prediction-spread-line-time-2026-nba-eastern-conference-finals-game-3-picks/",
           "source": "CBS Sports NBA",
-          "published": "2026-05-23T12:24:42+00:00",
+          "published": "2026-05-23T16:09:17+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "a08e157d371f",
-          "title": "Jared McCain\u2019s Hard Foul on Victor Wembanyama Sparks Reaction",
-          "original_title": "[Highlight] Jared McCain bodies Victor Wembanyama, Wembanyama\u2019s head snaps back as if he were elbowed in the face",
-          "summary": "A Reddit post highlights a play where Jared McCain body\u2011checked Victor Wembanyama, causing Wembanyama\u2019s head to snap back as if he had been elbowed. The clip generated discussion among fans about the legality and intensity of the contact.",
+          "id": "0797883459d9",
+          "title": "Cavaliers vs. Knicks Game 3 ECF Preview: Odds, Stats, and Betting Trends",
+          "original_title": "Cavaliers vs Knicks \u2014 Game 3 ECF \u2014 predictions: Odds, recent stats, trends, best bets on May 23",
+          "summary": "Yahoo Sports provides a preview of Game\u202f3 of the Eastern Conference Finals, outlining the latest odds, team statistics, and betting trends. The article offers insights for fans and bettors ahead of the Saturday matchup.",
           "key_points": [
-            "McCain\u2019s body check resulted in a noticeable recoil of Wembanyama\u2019s head.",
-            "The incident was shared widely on the r/nba subreddit.",
-            "Comments focused on whether the contact warranted a foul or disciplinary action."
+            "Current betting odds favor the Cavaliers, though the line is tight.",
+            "Recent trends show the Knicks excelling in defensive rebounding, while the Cavs lead in fast\u2011break points.",
+            "The preview highlights over/under expectations and key player matchups."
           ],
-          "link": "https://www.reddit.com/r/nba/comments/1tler3x/highlight_jared_mccain_bodies_victor_wembanyama/",
-          "source": "Reddit r/nba",
-          "published": "2026-05-23T12:09:31+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "224742cf0397",
-          "title": "2025\u201126 Phoenix Suns Season Review",
-          "original_title": "Season in Review: The 2025-26 Phoenix Suns Anthology",
-          "summary": "Yahoo Sports evaluates the Phoenix Suns\u2019 2025\u201126 campaign, concluding that the team excelled during a transitional year. The report card highlights improvements in roster cohesion, player development, and overall win\u2011loss record.",
-          "key_points": [
-            "The Suns are praised for successfully navigating a roster transition.",
-            "Key players showed notable development and contributed to a strong record.",
-            "The season is framed as a foundation for future contention."
-          ],
-          "link": "https://sports.yahoo.com/articles/season-review-2025-26-phoenix-120000486.html",
+          "link": "https://sports.yahoo.com/articles/cavaliers-vs-knicks-game-3-153213220.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-05-23T12:00:00+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "39fa05866e8e",
-          "title": "Knicks vs. Cavaliers Playoff Game 3 Prediction and Picks",
-          "original_title": "Knicks vs Cavaliers Prediction, Picks & Odds for Today's NBA Playoffs Game 3",
-          "summary": "Yahoo Sports\u2019 preview for Game 3 of the Eastern Conference semifinals notes that Evan Mobley remains a pivotal factor for the Cavaliers. The article offers odds, a game outlook, and betting picks for the May 23 matchup.",
-          "key_points": [
-            "Evan Mobley\u2019s impact is highlighted as a deciding element for Cleveland.",
-            "The preview includes odds and suggested wagers for the game.",
-            "Both teams\u2019 recent performances are analyzed to forecast the outcome."
-          ],
-          "link": "https://sports.yahoo.com/articles/knicks-vs-cavaliers-prediction-picks-182400235.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-23T12:00:00+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "7019f5f6ae0a",
-          "title": "Ranking Every Possible NBA Finals Matchup",
-          "original_title": "Ranking every possible Finals series: Which matchu...",
-          "summary": "ESPN ranks all four potential NBA Finals series based on the likely East\u2011West champions, including speculative pairings such as Spurs\u2011Knicks and Thunder\u2011Cavaliers. The article breaks down each possible matchup\u2019s strengths and weaknesses.",
-          "key_points": [
-            "Four hypothetical Finals series are evaluated and ranked.",
-            "Analysis considers team matchups, styles of play, and recent form.",
-            "The piece provides context for how each potential series could unfold."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48807411/nba-playoffs-2026-ranking-every-finals-series-spurs-thunder-knicks-cavaliers",
-          "source": "ESPN NBA",
-          "published": "2026-05-23T11:34:55+00:00",
+          "published": "2026-05-23T15:32:13+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -296,14 +201,29 @@
       "name": "Lakers Players",
       "articles": [
         {
+          "id": "a24982df6278",
+          "title": "Adou Thiero\u2019s Next Move May Be Shaped by Former Luka Doncic Teammate",
+          "original_title": "Adou Thiero's next leap may already be mapped out by a former Luka Doncic teammate - Lake Show Life",
+          "summary": "An article from Lake Show Life suggests that former Dallas Mavericks guard Adou Thiero could be planning his next career step with input from a former teammate of Luka Doncic. The piece hints at strategic advice that could influence Thiero\u2019s next contract or team destination.",
+          "key_points": [
+            "Thiero is reportedly receiving guidance from a player who once shared the court with Luka Doncic.",
+            "The advice may affect Thiero\u2019s upcoming free\u2011agency decisions or trade possibilities.",
+            "No official moves have been confirmed; the story focuses on speculative planning."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUXBJZDVmb2ZZVGI5QlF1elNQcXctR0RmYl9kMnh5UWlDNFBlaVR6SklMa0NPSFA3b3FtaFdhM2V3UVlqMUt4SkpMeXNpaV9UZ1Z5M1BQQ0o3Zm1SY3pFekZxMVBDVkNUSnVYZ0xaWEF3di0zZUIyMUVxcVp2cHhORnJCTWs5RHFzRDRmVy1FNFBEakhSUWpmN1l0WkI4dWpHOS1GTDl3?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-05-23T16:00:02+00:00",
+          "topic": "Lakers Players"
+        },
+        {
           "id": "db85cac46011",
           "title": "LeBron James Reveals Mentors Who Shaped Him Beyond His Mother",
           "original_title": "\u201cI needed guidance beyond my mother\u201d \u2014 LeBron James shares which icons mentored him as a young star - Yahoo Sports",
-          "summary": "LeBron James discussed the influential figures who guided him during his early basketball career, emphasizing that he needed role models beyond his mother\u2019s support. He named several icons\u2014both on and off the court\u2014who provided advice, motivation, and perspective as he rose to stardom.",
+          "summary": "In a Yahoo Sports interview, LeBron James discusses the influential figures who mentored him during his rise to NBA stardom. He credits several icons for providing guidance that complemented his mother\u2019s support, highlighting the importance of external role models.",
           "key_points": [
-            "James credited mentors such as former NBA players, coaches, and community leaders for helping him navigate his youth.",
-            "He highlighted the importance of having multiple sources of guidance to develop both his game and personal character.",
-            "The interview underscored how those early relationships continue to influence his leadership with the Los Angeles Lakers."
+            "LeBron names specific mentors who impacted his development on and off the court.",
+            "He emphasizes that mentorship was crucial for his personal growth and professional decisions.",
+            "The interview offers insight into the support network behind one of the league\u2019s biggest stars."
           ],
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUUh0TjZ4NkN0V3FwbFBaWTRIczJjblZIRDRmMUJ3UmpKTUdoTkJ6YlhUNWoxNGg3emQ0U0cweXdadU1rQmhfQndtQy1BZTlXcDkxRV9CamxTUU1wRFJnUHNDWG94X1VkS1Q2MzVnNENyRmlaSG9UeklsQi1JMjJ3S25vUkdLTXZpazJiQlNB?oc=5",
           "source": "Google News - LeBron",
@@ -311,14 +231,29 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "2d5fde7d3618",
-          "title": "LeBron James\u2019 Grip Powder Sells for $2,150 at Auction",
-          "original_title": "LeBron James\u2019 Grip Powder Auctions For $2,150 - Forbes",
-          "summary": "A bottle of LeBron James\u2019 personal grip powder, used to improve hand traction during games, was auctioned and fetched $2,150. The sale reflects the market\u2019s appetite for unique memorabilia tied to the NBA star\u2019s on\u2011court routine.",
+          "id": "12a1510e6e9c",
+          "title": "LeBron James Warns Knicks About Their \u2018Dangerous\u2019 Playoff Formula",
+          "original_title": "LeBron James Sends Strong Message About Knicks\u2019 Dangerous Playoff Formula - heavy.com",
+          "summary": "Heavy.com reports that LeBron James delivered a strong message to the New York Knicks, criticizing their approach heading into the postseason. James suggests the Knicks\u2019 style could be risky and may not translate into success against elite competition.",
           "key_points": [
-            "The item was listed by a sports memorabilia auction house and attracted bids from collectors.",
-            "The price underscores the premium placed on personal-use items from high\u2011profile athletes.",
-            "Proceeds and details of the buyer were not disclosed."
+            "James calls the Knicks\u2019 current strategy \u2018dangerous\u2019 for playoff contention.",
+            "He implies that adjustments are needed for the team to be a legitimate threat.",
+            "The comments come amid ongoing discussions about Eastern Conference matchups."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYnRiWHFoMHZ0YTl0cWQ4N3JPWWgySmdmanEyT0xZWGRNdWhZcWdzb0xiYVdzVmwtSVpIQU41QXduMlZwZWtWZzg5RHhSZ1BqZVZJYnNVQUptQm5WMnlKeXVYcS0tUmpZdjJJYUpxOWI2a3JOcHlhVXFCMU1HRTdhYXFiQl9SdnZS?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-23T12:06:49+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "2d5fde7d3618",
+          "title": "LeBron James\u2019 Grip Powder Fetches $2,150 at Auction",
+          "original_title": "LeBron James\u2019 Grip Powder Auctions For $2,150 - Forbes",
+          "summary": "Forbes details the auction of LeBron James\u2019 personal grip powder, which sold for $2,{150}. The sale highlights the market value of memorabilia tied to the NBA superstar\u2019s on\u2011court routine.",
+          "key_points": [
+            "The grip powder, used by James for better ball control, sold for $2,150.",
+            "The auction underscores collectors\u2019 willingness to pay premium prices for unique NBA items.",
+            "Forbes notes the item\u2019s rarity and direct connection to James\u2019 performance."
           ],
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSU5vS3BkRTZmQzlnTFNfQVJMcUhaaWVCbklvRU9UVHBZY01MX0hGVGNxeTJnNGhUVVVldC1ZU2N0NnN0cmtYQ05UMzFxckZIcGl5b3RGQnNMa1lNU01KdVlNbzJnVG5RemdPQzhVeUNGaWlRMVFXYmF4QzJ6S3l1LXc3eFpBR2ZIaU1IY25TY0pEVVBWOE5SWEF3?oc=5",
           "source": "Google News - LeBron",
@@ -326,44 +261,14 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "67dc9ddc3f52",
-          "title": "LeBron James Quashes Stephen Curry Reunion Rumors",
-          "original_title": "LeBron James Seemingly Ends Stephen Curry Reunion Rumors Without Naming Warriors, Says Bay Area Journalist - Yahoo Sports",
-          "summary": "LeBron James addressed circulating speculation about a possible reunion with Stephen Curry, effectively putting the rumors to rest without directly naming the Golden State Warriors. A Bay Area journalist reported James\u2019 comments, which suggested no imminent move involving Curry.",
-          "key_points": [
-            "James\u2019 remarks were interpreted as a clear denial of any trade or reunion talks.",
-            "The statement helped calm media frenzy surrounding a potential Lakers\u2011Warriors connection.",
-            "No official statements from either franchise were released following the interview."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORWRFN193R0Z0UXhlc3FLNGNVMURBNEp2ZGl3Q1NMSDN4aVhCNkZfT0tYQUItRzh5MlVxVGN3anVxVk1oYmRfclE4UjZ4YWo2QTJXRHJzdnRlbV92SU54T05rc2dja3FCNTZpcHUzZXpjYjVuU0FSSWJCNVQxcFdNSk9Dcmc4OHZqUGZ4Qg?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-23T11:02:58+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "424d7dbff9cb",
-          "title": "Austin Reaves Wants to \u2018Run It Back\u2019 with LeBron and the Lakers",
-          "original_title": "Austin Reaves Wants To 'Run It Back' With LeBron James and Lakers - TMZ",
-          "summary": "Austin Reaves expressed his desire to return for another championship run alongside LeBron James and the Los Angeles Lakers. The guard emphasized his confidence in the team\u2019s chemistry and his personal growth under James\u2019 mentorship.",
-          "key_points": [
-            "Reaves highlighted the experience gained from playing with James as a catalyst for future success.",
-            "He conveyed optimism about the Lakers\u2019 roster and their chances in the upcoming season.",
-            "The comments reflect Reaves\u2019 commitment to the franchise and his role in the team\u2019s long\u2011term plans."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcExsOXhSR2N3czBRUXl3Tm9FTjRlMFN3ZUhIVWg0MHNnNC00QjRWemhoWFI3WDlBOUNJQW9RR01ZZWRVbThFSWU3Q2JybDY2YjhCRmxuUFE5UUltX2dlYnBRSWdLcWNreU1ueXdGYVlxQ3Fpb2hWYmhua29VcS1SXzFzeG1Sb1NTcUE?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-23T07:30:59+00:00",
-          "topic": "Lakers Players"
-        },
-        {
           "id": "1ea7020806bb",
-          "title": "Trade Scenario Links Luka Don\u010di\u0107 to $165\u202fMillion Three\u2011Team Deal Involving Lakers and Heat",
+          "title": "Trade Rumor Links Luka Doncic to Lakers\u2011Heat Deal Involving $165\u202fMillion Star",
           "original_title": "Lakers-Heat trade pitch pairs Luka Doncic with history-making $165 million three-team All-Star - sportingnews.com",
-          "summary": "A speculative trade proposal circulating among NBA insiders pairs Dallas Mavericks star Luka Don\u010di\u0107 with a historic $165\u202fmillion, three\u2011team deal that would involve the Los Angeles Lakers and Miami Heat. The scenario envisions a blockbuster exchange that could reshape the league\u2019s power balance.",
+          "summary": "Sporting News explores a speculative three\u2011team trade scenario that would send Luka Doncian to the Los Angeles Lakers, with the Miami Heat also involved. The proposal includes a historic $165\u202fmillion contract for an All\u2011Star player, reshaping the salary\u2011cap landscape for all three franchises.",
           "key_points": [
-            "The pitch suggests the Lakers could acquire Don\u010di\u0107 by leveraging high\u2011value contracts and draft assets.",
-            "Miami Heat would act as a conduit, receiving players and picks to meet salary\u2011cap requirements.",
-            "Analysts note the proposal is purely hypothetical and would require significant financial maneuvering to become viable."
+            "The pitch envisions Luka Doncic joining the Lakers in a multi\u2011team transaction.",
+            "A $165\u202fmillion contract for a top All\u2011Star is central to the deal\u2019s financial structure.",
+            "The scenario remains speculative; no official negotiations have been reported."
           ],
           "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNQmdOcTdmcVlNWXZ6LS1xejlhdmlTVUNaX1dhQjZtbE1CNFg2UmlzbDBFMlYyRVVUZWhpNmhoT0ZTNzRPRllvU3BFWGFVQ1dEdG5lWHRRMm5jVUZWSERlY1I4UEEtMDdJQTZTRG94bTBCRnhyUGR5Rk9LYVVEa004UVVqQUdNcXlUQW1FZW1MNm5jaTFGdHM2b1BZNjNnVXgzUGhMOHZJZjN5a3lKUFpOa05BbEhuT0h5MDkzT21GNHJSa3JhUnZFRnJCSVNBVXAzeEVfZHF1Wk1ybXVkOWpZdktDNENDRU53Yzc2Qkg1UUJwUkVlZFJlVlJlYXZCSEJEVEpF?oc=5",
           "source": "Google News - Luka",
@@ -372,57 +277,77 @@
         },
         {
           "id": "c1fd21c2abcc",
-          "title": "Luka Don\u010di\u0107 says he feels \u2018very comfortable\u2019 with the Lakers - Silver Screen and Roll",
+          "title": "Luka Don\u010di\u0107 Says He Feels \u201cVery Comfortable\u201d With the Lakers",
           "original_title": "Luka Don\u010di\u0107 says he feels \u2018very comfortable\u2019 with the Lakers - Silver Screen and Roll",
-          "summary": "Luka Don\u010di\u0107 says he feels \u2018very comfortable\u2019 with the Lakers&nbsp;&nbsp;Silver Screen and Roll",
-          "key_points": [],
+          "summary": "Luka Don\u010di\u0107 told reporters he is \u201cvery comfortable\u201d after joining the Los Angeles Lakers, noting the organization\u2019s culture and the city\u2019s vibe suit him. He highlighted the support from teammates and coaching staff as key to his early adjustment.",
+          "key_points": [
+            "Don\u010di\u0107 expressed confidence in his fit with the Lakers both on and off the court.",
+            "He praised the team\u2019s leadership and the city\u2019s atmosphere as positive influences.",
+            "The comments come as the Lakers look to integrate him into their roster for the upcoming season."
+          ],
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQjlzS0lrenJRU3lhZGsxU3NTOUV2Szc3d3RjMlVJRi1ZRHJpRjZNWFFTdUpPVUE4dXE1cE5IUTJjSUdacnJkZmdTaUhUejFqSktnbVdVVDh2ZlAxTU0zXzZUQ09VM3FnZWZXOUltcFhZT0Y0RHBNdG9mNlh4QXBLV2J0TGtYMjd0QjBMLWlKSFE0UFZfc2VmQVFKTFUxRDRPR2dNem5aNVBDUQ?oc=5",
           "source": "Google News - Luka",
           "published": "2026-05-23T00:26:00+00:00",
           "topic": "Lakers Players"
         },
         {
+          "id": "e98709735640",
+          "title": "LeBron James\u2019 Comments Spark Concerns for Warriors and Steph Curry",
+          "original_title": "Warriors, Steph Curry Get Bad News Via LeBron James\u2019 Latest Comments - heavy.com",
+          "summary": "LeBron James made remarks that were interpreted as criticism of the Golden State Warriors\u2019 recent performance, indirectly affecting Steph Curry\u2019s narrative. Media outlets highlighted how the comments could add pressure to the Warriors as they chase another title.",
+          "key_points": [
+            "James suggested the Warriors need to improve defensively and find more consistency.",
+            "Curry\u2019s recent scoring streak was referenced, raising expectations for his continued production.",
+            "The remarks have fueled media speculation about the Warriors\u2019 playoff outlook."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPODVCbHhrSDdKVjNMWWRyZkpUTm1tVXNDa2l5eGJ0UnJNbWFlZXFiY0ZrV2trOWd2S0pRcFlpQ0NCaWxvUmZwT0hLS3J4cW1XaGptX3ZFeTFnSXpIY25DYkxvVVhuYXM5YkEyN3ljdko1VnBPaVFQTnQzY0dONFJFZjBTdk51WlhFalEyS2hEVkljLWlPNmVIdFZOOVlKNmhscGZfblRPOHp5TlU0?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-22T23:26:43+00:00",
+          "topic": "Lakers Players"
+        },
+        {
           "id": "412c844b6839",
-          "title": "Caitlin Clark overtakes LeBron James on jersey sales leaderboard - USA Today",
+          "title": "Caitlin Clark Surpasses LeBron James on NBA Jersey Sales Leaderboard",
           "original_title": "Caitlin Clark overtakes LeBron James on jersey sales leaderboard - USA Today",
-          "summary": "Caitlin Clark overtakes LeBron James on jersey sales leaderboard&nbsp;&nbsp;USA Today",
-          "key_points": [],
+          "summary": "USA Today reported that rookie sensation Caitlin Clark has overtaken LeBron James in NBA jersey sales, reflecting her rapid rise in popularity. The surge underscores the growing market for women\u2019s basketball merchandise.",
+          "key_points": [
+            "Clark\u2019s jersey sales now rank above LeBron\u2019s for the first time.",
+            "The increase is driven by her standout performances and strong social media presence.",
+            "The trend highlights expanding consumer interest in women\u2019s basketball."
+          ],
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYi12R3Q0SnpKanRmcjZNM3Z3VDBJZk9Fa3VCZzdBN1I2ejlKN1AyT05MNWVvb2lLNm9Ua0xjNzVQOTRWcHZnNXRvb2ItdjBnaFNJSzJkeVdOVnMtVUlSd0FRNFRrVXMtanhNN3o5OXRUVG91LVdfRHZyT01Wd18yOFRLWDJsbDQzWDhYZEpuaWRfMnZvS1ZfcGpjekhCVjF0eUlkZmZWSlM1SUhyN1hHSWk2aw?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-05-22T22:26:00+00:00",
           "topic": "Lakers Players"
         },
         {
+          "id": "537931ddcae5",
+          "title": "Former NBA GM Proposes Bold Move for Lakers Involving Austin Reaves",
+          "original_title": "Former NBA GM Has Bold Take on What Lakers Should Do With Austin Reaves - Sports Illustrated",
+          "summary": "A former NBA general manager suggested the Lakers consider a high\u2011impact trade or roster shake\u2011up centered around Austin Reaves to maximize the team\u2019s championship window. The proposal includes leveraging Reaves\u2019 contract and trade value.",
+          "key_points": [
+            "The GM believes Reaves could be a trade asset to acquire a star or draft capital.",
+            "He argues the Lakers should prioritize flexibility before the 2025 free\u2011agency class.",
+            "The idea has sparked debate among analysts about the team\u2019s direction."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcU5qZEt2dVpVU01jTjJqZkFPOTJ0LVY1V2tnX2tuN1dPV2lLVFppREJEcEVvTVpEMEJicXZXeUo5OHRnd2RIU1hIWVU3NXVRNEpzMkNSM1BsaC1ydHc0Vm52azkzLVFCaklaMk1tdGQ0T3FCS3VjZ3pVcTg3QktxVklkYzREdw?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-05-22T22:13:48+00:00",
+          "topic": "Lakers Players"
+        },
+        {
           "id": "d294e98485d3",
-          "title": "Lakers Rumors: Jason Kidd Supported Luka Doncic Trade - Lakers Nation",
+          "title": "Jason Kidd Allegedly Backed Luka Don\u010di\u0107 Trade, Lakers Rumor Claims",
           "original_title": "Lakers Rumors: Jason Kidd Supported Luka Doncic Trade - Lakers Nation",
-          "summary": "Lakers Rumors: Jason Kidd Supported Luka Doncic Trade&nbsp;&nbsp;Lakers Nation",
-          "key_points": [],
+          "summary": "Lakers Nation reported that former NBA player and coach Jason Kidd reportedly supported a potential trade for Luka Don\u010di\u0107, suggesting the Lakers could explore a blockbuster deal. No official confirmation has been made by the organization.",
+          "key_points": [
+            "Kidd\u2019s alleged support adds credibility to trade speculation involving Don\u010di\u0107.",
+            "The rumor hints at possible assets the Lakers might consider offering.",
+            "The team has not commented, and the trade remains purely speculative."
+          ],
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVMwWTNIUHdVbGFWa0xzbUxTLWh5bkJsMVlEZjBIdVZxOW5mSzlxOTNxZ1JxcWtOV3RXYWdrcjhUdVVhMi1tUnA0dkFyRTBZSE9LSzhfX2FUSjVmTGE1Q1pSNHlMNkcwVEpoVDNtdkhWdlhyTFZvWGFmVE1zc01CZ1NMeHA?oc=5",
           "source": "Google News - Luka",
           "published": "2026-05-22T19:30:17+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "05ca3aa4eeb8",
-          "title": "Kendrick Perkins not impressed with LeBron James news: \u2018We took the bait\u2019 - Awful Announcing",
-          "original_title": "Kendrick Perkins not impressed with LeBron James news: \u2018We took the bait\u2019 - Awful Announcing",
-          "summary": "Kendrick Perkins not impressed with LeBron James news: \u2018We took the bait\u2019&nbsp;&nbsp;Awful Announcing",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYTRSY2l2bDNGa21ueHF3WGVDQmxJZVQ1a05JWFFnM1J1TnZhUkFYdWFWV2xqMnptUFRzalE4SlcyZHBCYWYyTnpUVGxFaXZ1Y2xPalJvZ1loMy0zVEVVTjBFMzdxci1EdDVnOFY0aTR4Y2UxRzB1Q3dQcmRSTTE1MnhnRFhsMUHSAYwBQVVfeXFMTUg3OHZBdHRmQ01FdnRQcjRUTnZtVUhrZzRLT3RMS2hwelVDNVVGNF9obHpNc0QwRG1RTWFtMkQ1bEg3dGZLcjZYVDhWZGktQ1hlbThFQlc2dWJOUGJJd1lYeXJJblRMU2lmTjR4eXFQTnYxa3ZDYkJrUkQwekdGZllpMWVPWXA5bE93QjA?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-22T18:33:13+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "32f5373036c2",
-          "title": "10 Free Agents The Lakers Should Target, Including Luguentz Dort And Peyton Watson - Fadeaway World",
-          "original_title": "10 Free Agents The Lakers Should Target, Including Luguentz Dort And Peyton Watson - Fadeaway World",
-          "summary": "10 Free Agents The Lakers Should Target, Including Luguentz Dort And Peyton Watson&nbsp;&nbsp;Fadeaway World",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaldwelVURDlmeWU3dk5DcHVmOEkxZG9aNWFuejJYREhnX3BOUlVJbnp6N045ellmaDVjR1hIeFFWeXItSm9LeU9ZSmV2c2d3Q1YwM0h6aHpaejUyOG1XbzRtNGF1RW92cFFUVElHZlhITzRab1RiUDk0aWJKNE1wOHZjeHpvc0xsNHRYaVJVcVRTejZKNG1RWE12NDRZUi1KeDdCX2Rmb0lUUFJ1WlF5OFFWeXRFb01qTDEtZnIwcnZBdVd3S2c5bmhCTTJiQXFSTS12Ni1HTnI1aTA?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-05-22T18:19:16+00:00",
           "topic": "Lakers Players"
         }
       ]
