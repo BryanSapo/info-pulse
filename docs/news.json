@@ -1,34 +1,64 @@
 {
-  "generated_at": "2026-05-24T07:36:29.325679+00:00",
-  "total_articles": 25,
+  "generated_at": "2026-05-24T10:06:59.525684+00:00",
+  "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
-          "id": "490e521261a4",
-          "title": "Dallas Takes Five Years to Build a Luka\u2011Ready Roster",
-          "original_title": "Building Luka A roster",
-          "summary": "A Reddit post argues that Dallas will need five years to assemble a legitimate team around Luka Don\u010di\u0107, relying on three to four home\u2011grown players for a 2024 playoff push. The author cites the Lakers' lack of cultivated talent and difficulty finding a suitable center as comparable challenges.",
+          "id": "d1c51824a78f",
+          "title": "Jarrett Allen Could Be a Perfect Fit for the Lakers",
+          "original_title": "With the Cavs about to be swept in the ECF+ second apron drama, Jarrett Allen would be so good with the Lakers",
+          "summary": "A Reddit user argues that with the Cavaliers on the brink of a sweep in the Eastern Conference Finals, the Lakers would benefit greatly from acquiring center Jarrett Allen. The post highlights Allen's defensive versatility and fit alongside LeBron James and Anthony Davis.",
           "key_points": [
-            "Dallas plans a long\u2011term build, targeting 3\u20114 home\u2011grown pieces to complement Don\u010di\u0107.",
-            "The Lakers are criticized for not developing their own talent over the years.",
-            "Finding a quality center is highlighted as a major obstacle for both franchises."
+            "Allen\u2019s rim\u2011protection and ability to switch on defense would address the Lakers\u2019 interior weaknesses.",
+            "His offensive skill set\u2014mid\u2011range shooting and pick\u2011and\u2011roll efficiency\u2014could complement the Lakers\u2019 current roster.",
+            "The timing of a potential trade is linked to the Cavs\u2019 likely early exit from the playoffs."
           ],
-          "link": "https://www.reddit.com/r/lakers/comments/1tm4ifv/building_luka_a_roster/",
+          "link": "https://www.reddit.com/r/lakers/comments/1tm7xcj/with_the_cavs_about_to_be_swept_in_the_ecf_second/",
           "source": "Reddit r/lakers",
-          "published": "2026-05-24T06:46:20+00:00",
+          "published": "2026-05-24T09:58:11+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "e68e9e03727d",
+          "title": "LeBron James\u2019 2026 Free\u2011Agency Options: Six Possible Destinations",
+          "original_title": "LeBron James 2026 free agency: 6 potential landing spots for 'The King' - USA Today",
+          "summary": "USA Today outlines six teams that could be realistic landing spots for LeBron James when he becomes a free agent in 2026. The article evaluates each franchise\u2019s roster composition, cap space, and championship aspirations.",
+          "key_points": [
+            "Potential destinations include the Miami Heat, Boston Celtics, Golden State Warriors, Chicago Bulls, Los Angeles Clippers, and a return to the Lakers.",
+            "Cap flexibility and the ability to build a competitive supporting cast are key factors for each team.",
+            "LeBron\u2019s decision will likely hinge on title contention prospects and his desire to mentor younger talent."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRS1nTEVCNjJweV9QZjJ3X2p4VWhubzRZSmV5ZlA2OU1FaGFsa0J1by1uVGlKTXkyQ0oxVElRU2RKNlE2R0gwakJyb3lJSlNZN3prb1d1ZjdFUzVveGYxUEtuTnFFUU95Sm1kUkloTnVpa3ZSODZZUEo1bXpHMjlmOHNOM29Jcm12cXgxcEFxQ1Nkd1ZzUDJvZmdkaVBEemZtTGRQYm15c1hRN2Naem1Rcw?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-24T09:37:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "b56c60ed169e",
+          "title": "Austin Reaves Speaks Openly About LeBron James\u2019 Future with the Lakers",
+          "original_title": "Austin Reaves makes feelings clear on LeBron James future with Lakers - BasketNews.com",
+          "summary": "BasketNews.com reports that forward Austin Reaves publicly expressed his thoughts on LeBron James\u2019 possible departure or stay in Los Angeles. Reaves emphasized the impact James has on the locker room and on\u2011court performance.",
+          "key_points": [
+            "Reaves praised James for his leadership and willingness to involve teammates in critical moments.",
+            "He indicated that the team\u2019s direction will influence James\u2019 decision, stressing the importance of a clear championship window.",
+            "Reaves\u2019 comments suggest that player chemistry remains a priority for the Lakers\u2019 front office."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY0RIV2d4M3BabUg1c0VTRWJRWEpIVm9Oa1hFMUhPbVdHRE5nU3hQX0txT19RMDhNWmozb2VGQjBUa3l1Ti1YLUswd1A0aVZrV3gtcWltMWFxMXl6UzhCZEJVblB1b0dwTXBqZ0lXUHVGakpjMGxsZjkzU3E0d2ZlWFp0NHp6M3BwTExneGxHNmFKc2hNYVpWS3JFQkYxQldQUTZFa1JDazZ5S3lxU3c?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-24T09:31:05+00:00",
           "topic": "Lakers News"
         },
         {
           "id": "3cda93f4d07b",
-          "title": "Fans Debate LeBron James' Value to the Lakers",
+          "title": "Fans Defend LeBron\u2019s Value Amid Salary Debate",
           "original_title": "Lebron James",
-          "summary": "Reddit users discuss whether LeBron James is worth a $25\u201130\u202fmillion salary, with some arguing that the amount is already a pay cut given his contributions. They note his strong playoff performances, including being a top scorer in the OKC series and providing solid defense when it mattered most.",
+          "summary": "A Reddit discussion defends LeBron James\u2019 contract, arguing that a $25\u2011$30\u202fmillion salary would actually be a pay cut for the veteran. Contributors cite his playoff performances, defensive contributions, and clutch play as justification for his compensation.",
           "key_points": [
-            "LeBron's playoff production is cited as evidence of high value.",
-            "Some fans believe his current contract is a discount relative to his impact.",
-            "Defensive contributions in the postseason are highlighted as a plus."
+            "Commenters note James was the Lakers\u2019 best player in the playoffs and a top performer in the OKC series.",
+            "They highlight his defensive impact, describing him as a \u201cpositive defender\u201d during critical games.",
+            "The thread suggests that reducing his salary would undervalue his contributions to the franchise."
           ],
           "link": "https://www.reddit.com/r/lakers/comments/1tm40qs/lebron_james/",
           "source": "Reddit r/lakers",
@@ -37,13 +67,13 @@
         },
         {
           "id": "ef7d544327b9",
-          "title": "Dwight Howard Posts Emotional Tribute After Lakers Championship",
+          "title": "Dwight Howard Posts Emotional Tribute After Lakers\u2019 Championship",
           "original_title": "Los Angeles Lakers NBA Champion Dwight Howard Makes Heartfelt Post - heavy.com",
-          "summary": "Heavy.com reports that former Lakers center Dwight Howard shared a heartfelt social\u2011media post celebrating the team's NBA championship. The message expressed gratitude to teammates, coaches, and fans for the historic season.",
+          "summary": "Heavy.com covers former Lakers center Dwight Howard\u2019s heartfelt social\u2011media post following the team\u2019s NBA championship. Howard reflected on his time with the organization and congratulated the current roster.",
           "key_points": [
-            "Howard publicly thanked the organization and supporters.",
-            "The post emphasized the significance of the championship for the franchise.",
-            "Howard's tribute added a personal, emotional perspective to the victory."
+            "Howard expressed pride in the Lakers\u2019 achievement and gratitude for his own championship experience with the club.",
+            "He praised the leadership of LeBron James and the contributions of the team\u2019s role players.",
+            "The post resonated with fans, highlighting the franchise\u2019s lasting legacy across different eras."
           ],
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQnhyaG9lbWtSSE1zWXJKQVlHNjIyRl8xQzFRN2ZGM2tqd0M0NERMbVNpbUctNl9kYmw2ZjBNWU1hRjBTWmdGVm43Rlp3cHBjb1Rrbm5FZFFKa2ZjbEZJQWNFenZmSWVNeDYwS0JzOGZ0X2lBWjFDRzg2dzJvblZjWExPSWItaE84Zk9VaEZGOA?oc=5",
           "source": "Google News - Lakers",
@@ -52,14 +82,10 @@
         },
         {
           "id": "ba50d3d93d7b",
-          "title": "Speculation: Knecht Trade to Nuggets Could Enable Peyton Watson Deal",
+          "title": "Watch Knecht get traded to the Nuggets to facilitate a Peyton Watson trade and Jokic makes Knecht look like the next Ray Allen lol",
           "original_title": "Watch Knecht get traded to the Nuggets to facilitate a Peyton Watson trade and Jokic makes Knecht look like the next Ray Allen lol",
-          "summary": "A Reddit thread suggests that the Lakers might trade forward Keegan\u202fKnecht to the Denver Nuggets as part of a larger maneuver to acquire rookie Peyton Watson. The post also notes that Nikola Joki\u0107\u2019s playmaking could make Knecht a valuable shooter, likening him to Ray Allen.",
-          "key_points": [
-            "Proposed trade: Knecht to Nuggets to facilitate a Peyton Watson acquisition.",
-            "Joki\u0107\u2019s passing could highlight Knecht\u2019s shooting ability.",
-            "Comparison to Ray Allen is used to illustrate potential impact."
-          ],
+          "summary": "      &#32; submitted by &#32;  /u/Western-Sorbet9731   [link] &#32; [comments] ",
+          "key_points": [],
           "link": "https://www.reddit.com/r/lakers/comments/1tm1h0b/watch_knecht_get_traded_to_the_nuggets_to/",
           "source": "Reddit r/lakers",
           "published": "2026-05-24T04:06:22+00:00",
@@ -67,17 +93,24 @@
         },
         {
           "id": "56255c597d54",
-          "title": "Offseason Target: Strus as a Potential Lakers Add\u2011On",
+          "title": "Now that the Cavs are bout to be swept, who should we target when they blow it up this offseason?",
           "original_title": "Now that the Cavs are bout to be swept, who should we target when they blow it up this offseason?",
-          "summary": "In a Reddit discussion about the Cleveland Cavaliers' likely sweep, users consider which players the Lakers should pursue in the upcoming free\u2011agency period. One contributor recommends guard Franz\u202fStrus as a cost\u2011effective addition, while noting that acquiring Allen would be too expensive.",
-          "key_points": [
-            "Franz Strus is identified as a desirable, affordable target.",
-            "Allen is considered out of reach financially for the Lakers.",
-            "The conversation reflects a desire to add quality talent in the offseason."
-          ],
+          "summary": "I personally think strus would be a great addition. Allen is great but I think it would cost too much. I hope we can get at least some decent talent this offseason  &#32; submitted by &#32;  /u/Kitchen_Potato0   [link] &#32; [comments]",
+          "key_points": [],
           "link": "https://www.reddit.com/r/lakers/comments/1tlzq7e/now_that_the_cavs_are_bout_to_be_swept_who_should/",
           "source": "Reddit r/lakers",
           "published": "2026-05-24T02:42:28+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "af9da25654a0",
+          "title": "Kelsey Plum\u2019s monster night lifts Sparks to big win over Aces",
+          "original_title": "Kelsey Plum\u2019s monster night lifts Sparks to big win over Aces",
+          "summary": "Behind a red-hot shooting performance from Kelsey Plum, the Sparks picked up their best win of the season, knocking off the reigning champions, 101-95. Plum was unstoppable on the night, scoring 36 points, including a number of huge baskets down the stretch. Throughout the night, the two sides traded baskets, a trend that carried all [&#8230;]",
+          "key_points": [],
+          "link": "https://www.silverscreenandroll.com/los-angeles-sparks-wnba/117934/sparks-vs-aces-recap-box-score-stats-final-dearica-hamby-kelsey-plum-recap",
+          "source": "Silver Screen and Roll",
+          "published": "2026-05-24T02:26:32+00:00",
           "topic": "Lakers News"
         },
         {
@@ -101,45 +134,120 @@
           "source": "Google News - Lakers",
           "published": "2026-05-24T00:15:49+00:00",
           "topic": "Lakers News"
-        },
-        {
-          "id": "af17e7f3ba79",
-          "title": "LeBron Reveals Missing A Former Teammate Every Single Game - heavy.com",
-          "original_title": "LeBron Reveals Missing A Former Teammate Every Single Game - heavy.com",
-          "summary": "LeBron Reveals Missing A Former Teammate Every Single Game&nbsp;&nbsp;heavy.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbThtRTZaTmVJSUcwRENwTGdnU1dTcUhQQ01ubUFkVGllbWpsOFZib2VYWmFna0xfeWpBYjFDbWVQQ0dvRk1GNllrY0ZlTHBwdDluNjh5WEdYVXItMjVTaXVMb2d1UHFhRFpLTDNVR0VyMjlCTzVqc0ZTLTdHZW5ZeElHcnJ3NTZKekVKVXpkUmt5UTZxNFE?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-24T00:10:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "efa203ded620",
-          "title": "Just saying",
-          "original_title": "Just saying",
-          "summary": "      &#32; submitted by &#32;  /u/Honest-One-9194   [link] &#32; [comments] ",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/lakers/comments/1tlvykj/just_saying/",
-          "source": "Reddit r/lakers",
-          "published": "2026-05-23T23:47:41+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "05caa510d694",
-          "title": "LeBron James' Former Teammate Urges Him to Leave the Lakers - Sports Illustrated",
-          "original_title": "LeBron James' Former Teammate Urges Him to Leave the Lakers - Sports Illustrated",
-          "summary": "LeBron James' Former Teammate Urges Him to Leave the Lakers&nbsp;&nbsp;Sports Illustrated",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdzRHdUV6VzFUNDlTSHhMZDh0TkdiLU9FaWVrelF3NGNBLXR2ZndoWnNqdW1jOU1NSjFYWVh5U2FSYTUxMHZ2engyRi1FLW1weGVMal9weGlLNVlSbjFkeTFqbk42V05mMGRoUDVMUnhjaVRaaWZ5VWV3WWNLVEJxN1k0TzdTZHFOU1d5bnRR?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-23T23:46:19+00:00",
-          "topic": "Lakers News"
         }
       ]
     },
     {
       "name": "NBA League News",
       "articles": [
+        {
+          "id": "396ca97d4d55",
+          "title": "LeBron James 2026 free agency: 6 potential landing spots for 'The King'",
+          "original_title": "LeBron James 2026 free agency: 6 potential landing spots for 'The King'",
+          "summary": "Yahoo Sports outlines six NBA teams that could be realistic destinations for LeBron James when he becomes a free agent in the summer of 2026. The analysis weighs each franchise's roster composition, cap space, and championship aspirations to gauge fit.",
+          "key_points": [
+            "Six possible teams are highlighted, ranging from contenders to rebuilding clubs.",
+            "Factors considered include salary\u2011cap flexibility, roster needs, and market appeal.",
+            "No definitive destination is identified; the piece remains speculative about James' decision."
+          ],
+          "link": "https://sports.yahoo.com/articles/lebron-james-2026-free-agency-093722140.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-24T09:37:22+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "7df014bc627d",
+          "title": "Brand Risk 14 live blog: Michael Beasley vs. Lance Stephenson",
+          "original_title": "Brand Risk 14 live blog: Michael Beasley vs. Lance Stephenson",
+          "summary": "The live blog provides play\u2011by\u2011play updates of the altercation between former NBA players Michael Beasley and Lance Stephenson at the Brand Risk 14 event. The coverage notes the escalation, security response, and immediate aftermath.",
+          "key_points": [
+            "Beasley and Stephenson engaged in a physical confrontation during the event.",
+            "Security intervened quickly, separating the two athletes.",
+            "No injuries were reported, and the incident did not affect the remainder of the event\u2019s schedule."
+          ],
+          "link": "https://sports.yahoo.com/articles/brand-risk-14-live-blog-070440618.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-24T07:04:40+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "924fea37eefb",
+          "title": "Game Four Preview: San Antonio Spurs vs. Oklahoma City Thunder",
+          "original_title": "Game Four Preview: San Antonio Spurs vs. Oklahoma City Thunder",
+          "summary": "Ahead of Game Four, the Spurs aim to tie the Western Conference series on their home floor against the Thunder. The preview highlights recent performances, key matchups, and what each team needs to do to gain an advantage.",
+          "key_points": [
+            "San Antonio seeks to even the series after falling behind early.",
+            "Oklahoma City looks to extend its lead and capitalize on its recent momentum.",
+            "Key players to watch include the Spurs' veteran leadership and the Thunder's young scoring core."
+          ],
+          "link": "https://sports.yahoo.com/articles/game-four-preview-san-antonio-070000292.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-24T07:00:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "38f5b8087b5d",
+          "title": "Mikal Bridges' play one of biggest reasons Knicks sit one win away from NBA Finals",
+          "original_title": "Mikal Bridges' play one of biggest reasons Knicks sit one win away from NBA Finals",
+          "summary": "The article credits Mikal Bridges' defensive versatility and timely scoring as a major factor in the New York Knicks' 10\u2011game playoff winning streak, positioning them just one victory from the NBA Finals. Bridges' contributions on both ends have elevated the team's overall performance.",
+          "key_points": [
+            "Bridges has delivered clutch performances in multiple series games.",
+            "His two\u2011way impact has helped the Knicks maintain defensive intensity while adding offensive firepower.",
+            "The Knicks' success is attributed to a collective effort, with Bridges highlighted as a pivotal piece."
+          ],
+          "link": "https://sports.yahoo.com/articles/mikal-bridges-play-one-biggest-062818048.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-24T06:28:18+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "254c3114f0b2",
+          "title": "Rampant Knicks beat Cavs to close in on NBA Finals",
+          "original_title": "Rampant Knicks beat Cavs to close in on NBA Finals",
+          "summary": "New York defeated Cleveland to take a 3\u20110 lead in the Eastern Conference Finals, putting the Knicks on the brink of a series-clinching victory. The win underscores the Knicks' dominant run and sets up a potential series\u2011closing game on Monday.",
+          "key_points": [
+            "Knicks lead the series 3\u20110 and could secure the Eastern Conference title in the next game.",
+            "The victory featured strong defensive play and balanced scoring across the roster.",
+            "Cleveland struggled to contain New York's offensive flow, leading to a decisive win."
+          ],
+          "link": "https://sports.yahoo.com/articles/rampant-knicks-beat-cavs-close-062719463.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-24T06:27:19+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "9a1ffb6a5509",
+          "title": "Knicks not content with simply being close to a spot in the NBA Finals",
+          "original_title": "Knicks not content with simply being close to a spot in the NBA Finals",
+          "summary": "New York's commitment to playing with desperation and a focus on togetherness has it up 3-0 in the East finals against the Cavs after Saturday night's relatively easy win.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/nba/article/knicks-not-content-with-simply-being-close-to-a-spot-in-the-nba-finals-062429571.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-24T06:24:29+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "b2d4a534bb35",
+          "title": "New York looks to clinch conference finals against Cleveland in game 4",
+          "original_title": "New York looks to clinch conference finals against Cleveland in game 4",
+          "summary": "New York Knicks (53-29, third in the Eastern Conference) vs. Cleveland Cavaliers (52-30, fourth in the Eastern Conference)Cleveland; Monday, 8 p.m. EDTLINE: Knicks -1.5; over/under is 217.5EASTERN CONFERENCE FINALS: Knicks lead series 3-0BOTTOM LINE: The New York Knicks look to clinch the series over the Cleveland Cavaliers in game four of the Eastern Conference finals. The Knicks defeated the Cavaliers 121-108 in the last matchup on Sunday. Jalen Brunson led the Knicks with 30 points, and Evan ",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/york-looks-clinch-conference-finals-060343439.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-24T06:03:43+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "d7267ff55064",
+          "title": "Karl-Anthony Towns returns as offensive \u2018hub\u2019 for Knicks and Cavaliers have no answers",
+          "original_title": "Karl-Anthony Towns returns as offensive \u2018hub\u2019 for Knicks and Cavaliers have no answers",
+          "summary": "Point center Karl-Anthony Towns returned Saturday in Cleveland. Unlike in the series opener, the Cavaliers had no answer for the Knicks\u2019 big man.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/karl-anthony-towns-returns-offensive-055223814.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-24T05:52:23+00:00",
+          "topic": "NBA League News"
+        },
         {
           "id": "3fdd807c905d",
           "title": "Mikal Bridges has gone from zero to hero, helping Knicks to within one game of first NBA Finals since 1999",
@@ -161,39 +269,6 @@
           "source": "Yahoo Sports NBA",
           "published": "2026-05-24T04:51:48+00:00",
           "topic": "NBA League News"
-        },
-        {
-          "id": "87bf2f8dda2d",
-          "title": "Karl-Anthony Towns: \"No one wants to ask OG about 2nd team? I mean he all defense like come on bruh. He one of the best defenders in the world and he got robbed from first. Damn\"",
-          "original_title": "Karl-Anthony Towns: \"No one wants to ask OG about 2nd team? I mean he all defense like come on bruh. He one of the best defenders in the world and he got robbed from first. Damn\"",
-          "summary": "      &#32; submitted by &#32;  /u/MrBuckBuck   [link] &#32; [comments] ",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/nba/comments/1tm2419/karlanthony_towns_no_one_wants_to_ask_og_about/",
-          "source": "Reddit r/nba",
-          "published": "2026-05-24T04:38:15+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "cc2628bdc632",
-          "title": "Knicks' Mikal Bridges found ways to impose his will with another stellar shooting night in Game 3",
-          "original_title": "Knicks' Mikal Bridges found ways to impose his will with another stellar shooting night in Game 3",
-          "summary": "Mikal Bridges continued his stellar shooting in the Eastern Conference Finals and helped the Knicks take a commanding 3-0 lead against the Cavaliers on Saturday night.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/knicks-mikal-bridges-found-ways-041119519.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-24T04:11:19+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "361b654e0efe",
-          "title": "Knicks move within one win of NBA Finals with 121-108 victory over Cavaliers",
-          "original_title": "Knicks move within one win of NBA Finals with 121-108 victory over Cavaliers",
-          "summary": "Jalen Brunson scored 30 points, Mikal Bridges added 22 and the New York Knicks moved within one game of their first NBA Finals appearance since 1999.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/knicks-move-within-one-win-041039597.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-24T04:10:39+00:00",
-          "topic": "NBA League News"
         }
       ]
     },
@@ -201,11 +276,30 @@
       "name": "Lakers Players",
       "articles": [
         {
+          "id": "ed18c47359b0",
+          "title": "LeBron James' 2026 Free Agency: Six Possible Destinations",
+          "original_title": "LeBron James 2026 free agency: 6 potential landing spots for 'The King' - Yahoo Sports Australia",
+          "summary": "Yahoo Sports Australia outlines six teams that could be realistic landing spots for LeBron James when he becomes a free agent in 2026. The analysis weighs factors such as roster fit, championship windows, and salary\u2011cap flexibility for each franchise.",
+          "key_points": [
+            "Potential destinations include the Los Angeles Lakers, Miami Heat, Boston Celtics, Golden State Warriors, Chicago Bulls, and a return to Cleveland.",
+            "Each team\u2019s ability to accommodate James' contract demands and role expectations is examined.",
+            "The article notes that James' decision will likely hinge on a combination of competitive outlook and personal considerations."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwYXktaU9wMjNjNWE3NEhOYjNtb2p6ckhpcjlKQXFCZ1NoWHMtYk5zTHVSanRoMTRia1pVemRSNlljY3F4bXJNWVROR0pQZ3pETHFZTmlsc19na09WWkV5d19mNzlrNGQ2ekVVamhneWstc1N2VFpNRUZqRlQ?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-24T09:37:22+00:00",
+          "topic": "Lakers Players"
+        },
+        {
           "id": "f605dc11ceb7",
-          "title": "LeBron James admits he misses Alex Caruso 'every single day' - Yahoo Sports",
+          "title": "LeBron James Says He Misses Alex\u202fCaruso Every Day",
           "original_title": "LeBron James admits he misses Alex Caruso 'every single day' - Yahoo Sports",
-          "summary": "LeBron James admits he misses Alex Caruso 'every single day'&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
+          "summary": "In a recent interview, LeBron James expressed that he thinks about former teammate Alex\u202fCaruso daily, highlighting Caruso's impact on and off the court. James praised Caruso\u2019s work ethic, defensive intensity, and locker\u2011room presence during their time together with the Lakers.",
+          "key_points": [
+            "James emphasized Caruso\u2019s hustle and willingness to do the \u201cdirty work\u201d that often goes unnoticed.",
+            "The comment underscores the strong personal bond formed between the two players during their championship runs.",
+            "No indication was given that Caruso will return to the Lakers or that a trade is being considered."
+          ],
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNczEyNHVYR1U4aGJyOUNkY051cGN1dnRJRFIyZEpJeHZudUdBYWFNbUVBRmpHYW14dTZEeXpGcG9Ea3BCNzFiQnJpQ2JvYWQ4aEFpX19tajdncklkMmwtXzhPblZTTzZNWW1zdXdzSkdNTnhaQUdlS2R4MWZtMWZ6d0Q2RTZSUUE?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-05-24T05:32:00+00:00",
@@ -213,65 +307,44 @@
         },
         {
           "id": "23d67e64b6cc",
-          "title": "Cavs Game 3 Loss Proves They Need LeBron James Reunion - Sports Illustrated",
+          "title": "Cavaliers\u2019 Game\u202f3 Loss Highlights Need for LeBron Reunion",
           "original_title": "Cavs Game 3 Loss Proves They Need LeBron James Reunion - Sports Illustrated",
-          "summary": "Cavs Game 3 Loss Proves They Need LeBron James Reunion&nbsp;&nbsp;Sports Illustrated",
-          "key_points": [],
+          "summary": "Sports Illustrated argues that the Cleveland Cavaliers\u2019 defeat in Game\u202f3 of their playoff series illustrates why reuniting with LeBron James could be beneficial. The piece points to the team\u2019s offensive stagnation and lack of veteran leadership as key issues.",
+          "key_points": [
+            "Cavaliers struggled to generate consistent scoring and relied heavily on young players.",
+            "LeBron\u2019s experience and playmaking are presented as missing pieces that could elevate the roster.",
+            "The article stops short of suggesting any concrete trade or free\u2011agency moves."
+          ],
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdVJYNGZCT3BwRUtUWGhJNnVyc2t5VU1OaEp4ZXp5QVFpRS1tSVVpY3RSaVZsVWJuRE9jREgxU0VhTklPVGZKS1NiNEVfUmg5MklhdWFkc2JxYWdkZWhhczQwQkJYYVNkQkZRc1Bqa3hENjlnN05MMVlzc1dUdFM4QnFJRk5WSFdPc3hpdFpBWVNydk5NbWF6QzE2T1RJV0FYbGdmWmVfbnI?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-05-24T03:30:13+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "412c52f0d4da",
-          "title": "LeBron James is thankful he isn't rehabbing this offseason - LeBron Wire",
-          "original_title": "LeBron James is thankful he isn't rehabbing this offseason - LeBron Wire",
-          "summary": "LeBron James is thankful he isn't rehabbing this offseason&nbsp;&nbsp;LeBron Wire",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUnNac0VpR0dGZ25TbG9lSUY0N2JNSXRXcnN0a0RWaE1uS05kdDBQSE5DRllhRmpYMkY2VE5CX1V2blJ3N3A3dmgxZ2xwZDY0UlJZVmpDSFpETXRlRXJjcGFjdEY0WVhwT2pZTjdGLS1TSzVVT0p4M1lxQll3cjVQSDJPcGp5Tm5QcFh0dWxkenJtMXp6NXViLWZkZWJ3NVFXVXhac1lmMVBSMDNDd0t5eGNHVUh3UjZzcXZMQ05MU0o1VzFRY1EwSE1R?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-24T03:17:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "6c0a5a6a7dfa",
-          "title": "LeBron James isn't aligned with Lakers on free agency decision timeline - Lake Show Life",
-          "original_title": "LeBron James isn't aligned with Lakers on free agency decision timeline - Lake Show Life",
-          "summary": "LeBron James isn't aligned with Lakers on free agency decision timeline&nbsp;&nbsp;Lake Show Life",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdTBucjhrUjJEa3J2X3VoSHZiLUZMaG1objluWS0wLXFaRVZxVzFjX3Rja1I2aFJiR3ZScnQ2d05XV0hrUEhjQ292TmgzTTdnaVVVRGJJRWVBTi1xUXlobDhJZ2FQOS1FcVlEYzZqMUtzZWlHcFltYmM5UkMxVDlJRTFHaldwUnBsTWJSUjNlTE1LQWFQMDJfaHRSQTQ?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-24T01:58:43+00:00",
-          "topic": "Lakers Players"
-        },
-        {
           "id": "6e49167c2841",
-          "title": "\u201cSky Got Her Looking Like Prime LeBron James\u201d \u2013 WNBA Fans Erupt As Natasha Howard Explodes for 26 Points in 33 Minutes in Lynx Win Over Chicago Sky - Yahoo Sports",
+          "title": "Natasha Howard\u2019s 26\u2011Point Burst Sparks Lynx Win Over Chicago Sky",
           "original_title": "\u201cSky Got Her Looking Like Prime LeBron James\u201d \u2013 WNBA Fans Erupt As Natasha Howard Explodes for 26 Points in 33 Minutes in Lynx Win Over Chicago Sky - Yahoo Sports",
-          "summary": "\u201cSky Got Her Looking Like Prime LeBron James\u201d \u2013 WNBA Fans Erupt As Natasha Howard Explodes for 26 Points in 33 Minutes in Lynx Win Over Chicago Sky&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
+          "summary": "Yahoo Sports reports that Natasha Howard delivered a dominant performance, scoring 26 points in 33 minutes to lead the Minnesota Lynx to victory over the Chicago Sky. Fans humorously compared her on\u2011court dominance to a \u201cprime LeBron James\u201d performance.",
+          "key_points": [
+            "Howard\u2019s scoring surge was complemented by strong rebounding and defensive contributions.",
+            "The Lynx\u2019s win improves their standing in the Western Conference race.",
+            "The article focuses on Howard\u2019s impact and does not relate the performance to any Lakers storyline."
+          ],
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XbjdhZFk2dmxCd3Q5VFh6a1FWUkQtcUpjUE04eFU5QjZrOWxBY253WUJiZVY2M3cwVGJUb2xMb3Aza3pZRXJha2Y0UU5vVC1odDlEdWF0cG1hTVh3ZjhnbHZFd2JacU5lbGEzOEw5V0lUS3JuLWM2bkdhUWx6REE?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-05-24T01:54:00+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "466d2a8c2787",
-          "title": "LeBron James raves about Knicks\u2019 offensive revival \u2014 and the \u2018sprinkle\u2019 that\u2019s made all the difference - Yahoo Sports",
-          "original_title": "LeBron James raves about Knicks\u2019 offensive revival \u2014 and the \u2018sprinkle\u2019 that\u2019s made all the difference - Yahoo Sports",
-          "summary": "LeBron James raves about Knicks\u2019 offensive revival \u2014 and the \u2018sprinkle\u2019 that\u2019s made all the difference&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMFBJaFRpS3AwU2JRVXJqckZLRUxPejBkbGtXMFB6VGdjU2ZXc0t1eUZJNEY0cGt0ZVBZcG1ZUDU3OW53MkRURzBRZXlIOHdjRWVYZU80ckdsNTFxYnUyQTB2SWF4bFhJMWltRHFJbGI2ZEVxMV9QLU9HVUR3blpJWjhTZjhYLVJ5S1pkUg?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-23T22:12:06+00:00",
-          "topic": "Lakers Players"
-        },
-        {
           "id": "e6aa8b2500c4",
-          "title": "Luka Doncic pays the ultimate respect to LeBron while \u2018creating\u2019 a soccer player for the World Cup - MARCA",
+          "title": "Luka Don\u010di\u0107 Pays Tribute to LeBron While Imagining a Soccer\u2011Star Avatar",
           "original_title": "Luka Doncic pays the ultimate respect to LeBron while \u2018creating\u2019 a soccer player for the World Cup - MARCA",
-          "summary": "Luka Doncic pays the ultimate respect to LeBron while \u2018creating\u2019 a soccer player for the World Cup&nbsp;&nbsp;MARCA",
-          "key_points": [],
+          "summary": "MARCA details how Dallas Mavericks star Luka Don\u010di\u0107 honored LeBron James during a promotional segment, simultaneously creating a whimsical \u201csoccer player\u201d avatar for the upcoming World Cup. Don\u010di\u0107 highlighted James\u2019 influence on his own game and basketball culture at large.",
+          "key_points": [
+            "Don\u010di\u0107 cited LeBron as a model for professionalism and versatility.",
+            "The segment blended basketball admiration with a light\u2011hearted World Cup\u2011themed graphic.",
+            "No direct NBA implications were discussed; the piece was primarily a cultural crossover feature."
+          ],
           "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPS1hYRTdETEMwZHV2ZEZPZUk2RXRNRHBIc0lhX21vRFBrU3o5X1lUTlZpNmFNMjcycURweW01WEl6T2hvdjNTU3V3bWphYXN3bHN1c1RzTlVaUkZjSlVVRTBmVU1LVVNqd016Q1NNQWhaaGg3c3gwaEhuZ1pyUEJLYkN4d3pSUDNZUWJ1aHZUZFhURXNwWGtHNU05UWdVWmJxV2ZlN3lLTmxrYWVHa1huU0pWcThpX0w1SV9MbGNHQkRsMHZJdkxNY2RsUS1rbHBvNnNkMUp1UGFVLXdjRU12dTJQYk1uY2wxYTF5QmNhcUQwQllILVk5Um5QOEhRZ9IB_gFBVV95cUxPcnpUbGQ2RjNKZkFBQnd2NHJHR2xyVzZJSTRhVUp4WV9mY3JtY3JTM1I0eDBzNGMyVERzUDBLd3BvaGZldXZYbUhESDRoWmtpdnQ0UnN4SUswNk1icE1QM0txYUQtYjQ4SWNlRHJDeWs4ZnhvekZNSW1WTjVzcExqenl2VngtWUhDMGJmZ3JwZWVaU1lRWDE3NnNTSnRkRFZMOGlvV0d3LXMtbjBWOFNOQld4VWxsNThLUlpFbVluejVWQlc3c00zUXF6dmVPU19VcktQM2hVb19xNFk1Umx4S1N4QnhlNHVKdUs0X3ZzV1BYZ3ZzaTBRZDMyWFJ3Zw?oc=5",
           "source": "Google News - Luka",
           "published": "2026-05-23T21:41:49+00:00",
@@ -289,14 +362,14 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "c3201c6ad60b",
-          "title": "Austin Reaves Sends a Clear Message About LeBron James and His Lakers Future - Sports Illustrated",
-          "original_title": "Austin Reaves Sends a Clear Message About LeBron James and His Lakers Future - Sports Illustrated",
-          "summary": "Austin Reaves Sends a Clear Message About LeBron James and His Lakers Future&nbsp;&nbsp;Sports Illustrated",
+          "id": "3700c17a6d55",
+          "title": "Boardroom, Bleacher Report delete erroneous posts claiming Caitlin Clark outsold LeBron James in jersey sales - Awful Announcing",
+          "original_title": "Boardroom, Bleacher Report delete erroneous posts claiming Caitlin Clark outsold LeBron James in jersey sales - Awful Announcing",
+          "summary": "Boardroom, Bleacher Report delete erroneous posts claiming Caitlin Clark outsold LeBron James in jersey sales&nbsp;&nbsp;Awful Announcing",
           "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR1VpQWZhaG1sSllITU9RWkUyQ2FzWFQwTHJNdkl1U1JPZWdxbVpoS2RFUWxrRkpsY1NwSUt1X1h6X01RaHpGalE2cTE2czZKd0E2LWRwQ3dfa0tWY1p6aWRjM3pDTVhubjVGY1JVZy1PcUZmNERBZU52c2JYbDlXOF9Edl9PUjVscVBUSktBUzdUSERMUDI1OU1rVkFYVmpLZ1IwUzBHUHlGdk9QMG9tRA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSWZyTzhweUJ3Z1FJWTRPT1lyYXlmWDFaeENjSHJsTVNtY25QZC1fYXNRU1dUUUNvQkdtUEhlMG9taHZpWUdwZWdRTkVIdS1FWElwcnhRVlNnMnFfcDFFbDU1a3d2eUtNMU4xdEMxMnk1NVZXZEVUdy1HSkJfcTZDdzk2c3RVejBNTGU5dHhQeW05OGZINi1nX2ZwbjNPUlBoNzlKZHRJYmJkaWNXUXdDRlc1RnZqU1XSAbwBQVVfeXFMUFdhZkV1SWRaTHlOMm50Zm5GOTZnd0J6eFlzU1FPU3JLS2h1aU16SDdiS3diRHN6MU9rTC1WOFZINkdxMEpOQ2FkdFdVcU96MGZCZ0VnREdHZGNrZm1iTGdhVGJMcDBxTVU3UVRjeXUzZENVZmpINlhMSGk5UmRxVmdBZWd5alptX2EyUDRwZ3BkRmZhNFd0UWNmSDFwcW5ZekV4M2dYQTF3TlhULUVxRlMzREJjQWg4V19FREw?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-05-23T19:03:56+00:00",
+          "published": "2026-05-23T19:09:33+00:00",
           "topic": "Lakers Players"
         },
         {
@@ -308,6 +381,28 @@
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVjBMWDF6ZEZpUjFBRWZ2RHJJdlVqQnRwWHc2MFNnN0p6TGY3TURLZG4xa3dXUGJScVZ2M3BVX2FEUG1mc3p3bjkwV2xWU1pkdFZfOXl0WkhSZ0gxb01ta1BuS3I0c1JGa19kVHBCdlZOSlZRNkJmckhUdUdaUjQydnVVSFg3WXM3aEtpa3FPd3B2cV9TY2lVUG5pUjFrVXE4Q3ZBQzFGMlhJdWlMRW9Sa1FXMGxuUk9W?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-05-23T18:14:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "9a72c02286b5",
+          "title": "LeBron James happy with one key aspect of offseason this year - Lakers Nation",
+          "original_title": "LeBron James happy with one key aspect of offseason this year - Lakers Nation",
+          "summary": "LeBron James happy with one key aspect of offseason this year&nbsp;&nbsp;Lakers Nation",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPckE3SVFWRklnejg2QkJPbmhnSkQ1NnY5UTZPOVZRb1FnUHk0SVllMl8ydU9oOF94M2ZiQzFzbFFhVl9fRUNxYzdLTnVJMXl2bzFqSnRLX1NnTHQ2MG5ja3Jxd2d0b2xVNFMzRl9CaG81QnJwR2tlSlpFM1QxeGFPUWt3emV4Vmd1VWZpdjYzS2w?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-23T17:40:37+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "a24982df6278",
+          "title": "Adou Thiero's next leap may already be mapped out by a former Luka Doncic teammate - Lake Show Life",
+          "original_title": "Adou Thiero's next leap may already be mapped out by a former Luka Doncic teammate - Lake Show Life",
+          "summary": "Adou Thiero's next leap may already be mapped out by a former Luka Doncic teammate&nbsp;&nbsp;Lake Show Life",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUXBJZDVmb2ZZVGI5QlF1elNQcXctR0RmYl9kMnh5UWlDNFBlaVR6SklMa0NPSFA3b3FtaFdhM2V3UVlqMUt4SkpMeXNpaV9UZ1Z5M1BQQ0o3Zm1SY3pFekZxMVBDVkNUSnVYZ0xaWEF3di0zZUIyMUVxcVp2cHhORnJCTWs5RHFzRDRmVy1FNFBEakhSUWpmN1l0WkI4dWpHOS1GTDl3?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-05-23T16:00:02+00:00",
           "topic": "Lakers Players"
         }
       ]
