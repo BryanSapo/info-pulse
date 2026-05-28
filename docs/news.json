@@ -1,158 +1,138 @@
 {
-  "generated_at": "2026-05-27T23:28:56.726453+00:00",
+  "generated_at": "2026-05-28T03:48:01.046297+00:00",
   "total_articles": 25,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
-          "id": "24c140452571",
-          "title": "Lakers Rocked by Layoffs on \u2018Brutal\u2019 Day Amid Sweeping Organizational Changes",
-          "original_title": "Lakers rocked by layoffs on \u2018brutal\u2019 day amid sweeping organizational changes - The New York Times",
-          "summary": "The Los Angeles Lakers announced a series of staff layoffs, describing the day as \u201cbrutal\u201d for employees. The cuts are part of a broader restructuring effort under the franchise\u2019s new ownership and front\u2011office leadership.",
+          "id": "3829437e3440",
+          "title": "Rob says the Lakers want to lean more into player development. While it makes sense, do you realistically feel that the Laker fanbase can switch from how we've done it since Dr. Buss?",
+          "original_title": "Rob says the Lakers want to lean more into player development. While it makes sense, do you realistically feel that the Laker fanbase can switch from how we've done it since Dr. Buss?",
+          "summary": "      Interesting quote by Rob. Realistically, how do you balance the need to develop players in a system, at the same time trying to compete for a championship? Dos the laker fanbase have the patience to invest in young talent?   &#32; submitted by &#32;  /u/ryxriot   [link] &#32; [comments] ",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/lakers/comments/1tpr8gw/rob_says_the_lakers_want_to_lean_more_into_player/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-28T03:04:18+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "d79068a59e01",
+          "title": "Pump fakes used to all about creating space to shoot jumpers. Look at what this clown MVP did to our beautiful game.",
+          "original_title": "Pump fakes used to all about creating space to shoot jumpers. Look at what this clown MVP did to our beautiful game.",
+          "summary": "&#32; submitted by &#32;  /u/Head_Chair_3499   [link] &#32; [comments]",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/lakers/comments/1tpr59o/pump_fakes_used_to_all_about_creating_space_to/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-28T03:00:20+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "2038d9dfd824",
+          "title": "LeBron James To Wait For Los Angeles Lakers To Approach Him With Offer In Offseason - Dallas Hoops Journal",
+          "original_title": "LeBron James To Wait For Los Angeles Lakers To Approach Him With Offer In Offseason - Dallas Hoops Journal",
+          "summary": "LeBron James To Wait For Los Angeles Lakers To Approach Him With Offer In Offseason&nbsp;&nbsp;Dallas Hoops Journal",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSElTaUVDN05zTVlaZExqWUVkTWU0ZXZqQ25rMU1WNFVxenVlaE52RG1jTkMxUzZfVmJQbG5BdC05bFdRNlUyenFqVnZKOTg0SFh6VnZEODEwajZqMXBablQzWE5tcUxFcHBfdGJSQ1hRdFh2VmJldWstMlZjTTY2WkNWbw?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-28T02:14:33+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "d887de1c6238",
+          "title": "[Underdog NBA] Adam Silver believes NBA will move to an automated replay system",
+          "original_title": "[Underdog NBA] Adam Silver believes NBA will move to an automated replay system",
+          "summary": "      &#32; submitted by &#32;  /u/The_Sandwich_Lover9   [link] &#32; [comments] ",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/lakers/comments/1tppkad/underdog_nba_adam_silver_believes_nba_will_move/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-28T01:49:02+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "70abbcd020e2",
+          "title": "Lakers Floated as Destination for 28 PPG Playoff Superstar in Major Shakeup - heavy.com",
+          "original_title": "Lakers Floated as Destination for 28 PPG Playoff Superstar in Major Shakeup - heavy.com",
+          "summary": "Lakers Floated as Destination for 28 PPG Playoff Superstar in Major Shakeup&nbsp;&nbsp;heavy.com",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT2sySUtNMkhWMHFaanJtU2dRbU9QOXVIOTZ4eS1hNngzdnE0MlhuZlo0NDQzZzlsNTNCTnRnMHVUUUJ3Ni0zeTlyeEJPR3NVdlFiQXpUbmRHSUQxWkYxV2diNlhsQS1GUGhOUmFvZHZZSTJIMWxWWnNROTF1M2lMeHVObnhZYUhQUC0tc25B?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-28T01:10:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "e79bd6747acf",
+          "title": "Lakers Hit with Layoffs Amid Sweeping Organizational Changes",
+          "original_title": "Lakers rocked by layoffs on \u2018brutal\u2019 day amid sweeping organizational changes - The Athletic - The New York Times",
+          "summary": "The Los Angeles Lakers announced a series of staff layoffs, describing the day as \"brutal\" for the organization. The cuts are part of a broader restructuring effort aimed at reshaping the front office and support staff.",
           "key_points": [
-            "Multiple departments saw significant reductions in staff positions.",
-            "The layoffs are tied to a larger reorganization aimed at reshaping the organization\u2019s operations.",
-            "Team officials emphasized the difficulty of the decision but framed it as necessary for future success."
+            "Multiple departments experienced layoffs, including analytics and player development staff.",
+            "Team executives cited the need to streamline operations and align resources with the new strategic direction.",
+            "The moves come as the Lakers evaluate their roster and coaching staff heading into the next season."
           ],
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU2lBdDJVWGNJY3RqUDl1eVcxZVFfY1hHRXRvcUhjam5mdEx3TzhCakFtOVVkQUtNU3Z4d3RUd2V1LWw4RHRjbkFPSTJPbllwTGx1clZ1S3ZPbm42bXpDTDBqQjBrQm93R05NZVhGcmUwQXNiUjdUSDZQZGQwZHhjYk53VHVKVnQ1b2V4cXFhOFVldUNZOXhjTWc2S0JqTmk5Ulh5UEV0anJWOExHd29JNjAzZmk3dVZ4?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-05-27T22:50:36+00:00",
+          "published": "2026-05-28T01:08:58+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "e4c27a4e6940",
+          "title": "Fans Reflect on a Player\u2019s Final Game in a Lakers Uniform",
+          "original_title": "Still can\u2019t believe this was his final game as a Laker",
+          "summary": "Reddit user Farouq26 posted a nostalgic thread recalling the emotional impact of a former Laker's last appearance for the franchise. Community members shared memories and highlighted the player's contributions during his tenure.",
+          "key_points": [
+            "The discussion centered on the player's career highlights and his role in past Lakers successes.",
+            "Fans expressed surprise and sadness that the game marked his final appearance with the team.",
+            "Comments included personal anecdotes and calls for the player\u2019s legacy to be remembered."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1tpnofj/still_cant_believe_this_was_his_final_game_as_a/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-28T00:26:05+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "0d963c08ffb3",
+          "title": "Spotrac Projects 2026 Cap Space and Spending Power for the Lakers",
+          "original_title": "Updated 2026 Cap Space and Spending Power Projections | Spotrac News",
+          "summary": "A Reddit post shared Spotrac's updated projections for the Lakers' salary\u2011cap situation in 2026, outlining expected available space and potential spending flexibility. The data is intended to help fans gauge future roster\u2011building options.",
+          "key_points": [
+            "Projected cap space shows a modest increase, giving the Lakers room for mid\u2011level contracts.",
+            "Potential luxury\u2011tax implications are highlighted if the team pursues high\u2011priced free agents.",
+            "Analysts suggest the projections could influence trade strategies and draft\u2011pick valuations."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1tpndxk/updated_2026_cap_space_and_spending_power/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-28T00:13:27+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "fb828c5b80b6",
+          "title": "Lakers Linked to $77\u202fMillion Star to Pair with Luka Don\u010di\u0107",
+          "original_title": "Lakers Linked to Reunion With $77 Million Star to Form Monster Luka Doncic Pairing - heavy.com",
+          "summary": "Heavy.com reported that the Lakers are exploring a trade that would bring a $77\u202fmillion contract player back to Los Angeles to join Luka Don\u010di\u0107 in a potential super\u2011team. The rumor ties the move to a broader effort to create a marquee duo.",
+          "key_points": [
+            "The targeted player is reportedly a former Laker who commands a $77\u202fmillion salary.",
+            "The proposed pairing with Don\u010di\u0107 would create a high\u2011scoring, high\u2011profile backcourt.",
+            "No official confirmation from the Lakers or the player's current team has been provided."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcklYRlpDN3dBYkgwNk9GT3NLb3p3MWxoQUN3OUZGUjBXOUF2c0JzLXluUXl5TUFvRVhiX1ZRWDFvaEtRSjItaERQaC1YWlRrQnhIVDRQeUI5ZXQtc0FpVVlqTFlBbjJZcXl4MXNpdFJ0bnhkY0ZXOHlQS1lfNmpOLVdtcVFJQQ?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-27T23:24:06+00:00",
           "topic": "Lakers News"
         },
         {
           "id": "33fd14a2154b",
-          "title": "Unverified Claim Suggests LeBron James May Return to Cleveland",
+          "title": "Unverified Rumor Claims LeBron James May Return to Cleveland",
           "original_title": "On ESPN Cleveland radio, a Cavaliers fan called with inside information that LeBron James will return to Cleveland for a third time. \"Charles Oakley came to my bakery all the time, he told me he met with Maverick Carter last week and he told me LeBron James is 95 percent coming to Cleveland\"",
-          "summary": "A Reddit post relays a claim that a Cavaliers fan received inside information about LeBron James potentially returning to Cleveland for a third stint, citing a conversation with Charles Oakley. The story lacks corroboration from credible sources.",
+          "summary": "A Reddit user posted a claim that a Cavaliers fan received inside information suggesting LeBron James could re\u2011join Cleveland for a third stint, citing a conversation with Maverick Carter. The story lacks corroboration from credible sources.",
           "key_points": [
-            "The claim originates from a user\u2011generated post on Reddit and is not confirmed by the Lakers, Cavaliers, or LeBron James\u2019 representatives.",
-            "No official statements or reputable media reports have verified the alleged meeting between Maverick Carter and Charles Oakley.",
-            "The rumor should be treated as speculation until verified by reliable outlets."
+            "The rumor references a supposed 95% likelihood of LeBron returning to Cleveland.",
+            "The source is an anecdotal account involving Charles Oakley and a bakery conversation.",
+            "No official statements from LeBron James, the Lakers, or the Cavaliers have confirmed the report."
           ],
           "link": "https://www.reddit.com/r/lakers/comments/1tpl1g8/on_espn_cleveland_radio_a_cavaliers_fan_called/",
           "source": "Reddit r/lakers",
           "published": "2026-05-27T22:36:56+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "7fa6ec5bc478",
-          "title": "Lakers Conduct Massive Layoffs During \u2018Crazy\u2019 Reorganization Under New Ownership",
-          "original_title": "Lakers conduct massive layoffs during \u2018crazy\u2019 reorganization under new ownership - New York Post",
-          "summary": "The New York Post reports that the Lakers have executed a large\u2011scale layoff of employees as part of a \u201ccrazy\u201d internal reorganization following the franchise\u2019s recent change in ownership. The move reflects an aggressive push to overhaul the organization\u2019s structure.",
-          "key_points": [
-            "Layoffs affect staff across several divisions, including basketball operations and business units.",
-            "The restructuring is being driven by the new ownership group led by Mark Walter.",
-            "Team executives describe the changes as a necessary step to align the organization with long\u2011term goals."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbFNGMHUweFN5ME1tbzdQaXZiMXlhV1MySmJBUnBGeFQxRi1aalJJN1Ewcjc5SmtFMHdvVVFWX2FpbUVyUUlpMWZxZlRCS00zSHFUTlg1Z2JuNDJpODJpY3d3aDFKM3FVUWZKTXBIZTR4MHphTlVTSFhGNW55bkxMNE5KRGFQXzFWaXpHQXRhTmktUTV3cm9oMW9ONjBJeVhuU3c?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-27T22:06:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "f79781b39685",
-          "title": "Mark Walter Era Takes Dramatic Turn With Major Internal Shakeup",
-          "original_title": "Lakers\u2019 Mark Walter Era Takes Dramatic Turn With Major Internal Shakeup - Sports Illustrated",
-          "summary": "Sports Illustrated details a significant internal shakeup within the Lakers organization, marking a turning point in the Mark Walter ownership era. The article outlines leadership changes and the broader strategic direction the franchise is pursuing.",
-          "key_points": [
-            "Key front\u2011office personnel have been reassigned or dismissed as part of the shakeup.",
-            "The changes are positioned as part of a strategic plan to improve competitiveness on and off the court.",
-            "Analysts note that the magnitude of the restructuring is unusual for an NBA franchise during an offseason."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVGp6NGJkWTFTUmk0MlR0NVNhdm9oQmVkRHdWTkRtM1dnNWRSSS0tbjFWMzdDaVdwaTd3NVJ3VXRabXRxMzRmeUttWm5yeU10LWpqOHo3UXM3VXpqbmszZ0pITndBbVBXb2RBem1TTDFiLTVmQjYzdTlhVXY1dU9sMnJ3?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-27T21:42:16+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "508712fd1849",
-          "title": "Lakers Employees Laid Off From Multiple Departments Amid Offseason Overhaul",
-          "original_title": "Lakers Employees Laid Off From Multiple Departments",
-          "summary": "Lakers Nation reports that the franchise has laid off employees across several departments as it enters a pivotal offseason under new owner Mark Walter. The cuts come while the team prepares for free\u2011agency decisions involving players like LeBron James, Austin Reaves, and Rui Hachimura.",
-          "key_points": [
-            "Layoffs span both basketball\u2011related and business\u2011side roles within the organization.",
-            "The offseason is characterized by significant roster uncertainty and front\u2011office restructuring.",
-            "Team leadership frames the reductions as part of a broader effort to streamline operations and position the Lakers for future success."
-          ],
-          "link": "https://lakersnation.com/lakers-employees-laid-off-from-multiple-departments/",
-          "source": "Lakers Nation",
-          "published": "2026-05-27T21:25:22+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "94b29249a671",
-          "title": "Lakers Continue Organizational Overhaul",
-          "original_title": "Lakers continue to make changes throughout organization - Lakers Nation",
-          "summary": "The Los Angeles Lakers are implementing a series of changes across the franchise, affecting both on\u2011court and front\u2011office personnel. The moves are part of a broader effort to reshape the organization under new leadership.",
-          "key_points": [
-            "Multiple departments are seeing staff adjustments and role redefinitions.",
-            "Changes aim to improve competitive performance and operational efficiency.",
-            "The overhaul reflects a strategic shift following recent on\u2011court results."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZWlJeFZrTDVNQnFEdHVFY1hrT19maVNuNEJpa091dGpzeGxJZnRfR0FneXI2UUNtOVY5VHBPRndBNVl0dFNubVZRdUxyNmNQci1xdXQwSkc1UXh3OW1fT0R6T01iVklReVBnbVJ1U29IbmZHa2V0OHFKYUlrUnd5dmZXUQ?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-27T21:25:22+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "0985f96ad2e6",
-          "title": "Reddit User Highlights Athletic Writer\u2019s All\u2011NBA Vote Preference",
-          "original_title": "Law Murray of The Athletic, a Clippers fan and beat writer for the Los Angeles Lakers who constantly stirs the pot at pressers by asking condescending questions like whether Austin Reaves is best suited for a sixth-man bench role has voted for Donovan Mitchell over Luka Doncic for First Team All-NBA",
-          "summary": "A Reddit post notes that Law Murray, a beat writer for the Lakers who often challenges players at press conferences, voted for Donovan\u202fMitchell over Luka\u202fDoncic for the All\u2011NBA First Team. The comment sparked discussion among fans about media influence on awards.",
-          "key_points": [
-            "Law Murray is known for asking provocative questions to Lakers players.",
-            "He publicly supported Mitchell for First Team All\u2011NBA, bypassing Doncic.",
-            "The revelation generated debate on Reddit about voting transparency."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1tpiztq/law_murray_of_the_athletic_a_clippers_fan_and/",
-          "source": "Reddit r/lakers",
-          "published": "2026-05-27T21:18:50+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "790dcb46ba2a",
-          "title": "LeBron James Wants Lakers to Present a Clear Future Plan",
-          "original_title": "LeBron James reportedly wants Lakers to approach him with team\u2019s plan for future",
-          "summary": "For the first time in his tenure, LeBron James enters free agency without a contract. Reports indicate he is asking the Lakers to outline a concrete vision for the team's direction before committing to a new deal.",
-          "key_points": [
-            "LeBron\u2019s contract expires, making negotiations a priority this offseason.",
-            "He seeks a detailed plan that aligns with his goals and the franchise\u2019s timeline.",
-            "The discussion could influence roster moves and long\u2011term strategy for Los Angeles."
-          ],
-          "link": "https://www.silverscreenandroll.com/lakers-rumors/118109/lakers-rumors-lebron-james-contract-future-pay-cut-rob-pelinka",
-          "source": "Silver Screen and Roll",
-          "published": "2026-05-27T21:06:26+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "192e9e7fe1e4",
-          "title": "Kobe Bryant\u2019s 8\u2011for\u20118 Fourth\u2011Quarter Heroics Lead 2002 Comeback vs. Mavericks",
-          "original_title": "Dec 6, 2002 Mavs vs Lakers: With the Lakers down as much as 30 and heading into the 4th quarter down 27. Kobe goes 8/8 FG with 21 points in the 4th quarter (including game winner) leading the epic comeback at home. Lakers would outscore Mavs 44-15 and win 105-103. Kobe finished with 27pts 9reb 7ast",
-          "summary": "A Reddit post recounts Kobe Bryant\u2019s flawless shooting performance in the fourth quarter of the Dec.\u202f6,\u202f2002 game, where he went 8\u2011of\u20118 from the field and scored 21 points to spark a 44\u201115 run. The Lakers rallied from a 27\u2011point deficit to win 105\u2011103.",
-          "key_points": [
-            "Kobe finished with 27 points, 9 rebounds, and 7 assists.",
-            "Lakers erased a 30\u2011point hole, outscoring Dallas 44\u201115 in the final period.",
-            "The comeback remains one of the most memorable in franchise history."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1tpinkl/dec_6_2002_mavs_vs_lakers_with_the_lakers_down_as/",
-          "source": "Reddit r/lakers",
-          "published": "2026-05-27T21:06:09+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "49d6bf951e5d",
-          "title": "Lakers Lay Off Dozen Employees Amid Franchise Reorganization",
-          "original_title": "Lakers Announce Wave of Layoffs Across Various Departments As Franchise Undergoes Reorganization Under New Leadership",
-          "summary": "According to an ESPN\u2011sourced report shared on Reddit, the Lakers informed more than twelve staff members of layoffs as part of a restructuring effort under new ownership and management. The cuts affect various departments throughout the organization.",
-          "key_points": [
-            "Layoffs are tied to a broader reorganization strategy under new leadership.",
-            "Employees across multiple areas, including operations and analytics, were impacted.",
-            "The move signals the franchise\u2019s intent to streamline operations ahead of the upcoming season."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1tpi7ul/lakers_announce_wave_of_layoffs_across_various/",
-          "source": "Reddit r/lakers",
-          "published": "2026-05-27T20:50:09+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -161,153 +141,133 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "7c5b6eb7cfc3",
-          "title": "Magnus Carlsen Criticizes NBA App\u2019s \u2018No Spoilers\u2019 Feature",
-          "original_title": "The best chess player in the world Magnus Carlsen criticizes the NBA application: \"We have one of the best series in years going on right now in the Western Conference Finals, and when people have 'No Spoilers' on in the [application], they expect no spoilers. So, do better.\"",
-          "summary": "World chess champion Magnus Carlsen took to Reddit to complain that the NBA\u2019s mobile app still allows spoilers despite a \u201cNo Spoilers\u201d setting. He referenced the high\u2011stakes Western Conference Finals as an example of why the feature should work better.",
-          "key_points": [
-            "Carlsen highlighted a perceived flaw in the NBA app\u2019s spoiler protection.",
-            "He specifically mentioned the Western Conference Finals as a high\u2011profile series.",
-            "The comment was posted on Reddit\u2019s r/nba community."
-          ],
-          "link": "https://www.reddit.com/r/nba/comments/1tpl9uu/the_best_chess_player_in_the_world_magnus_carlsen/",
-          "source": "Reddit r/nba",
-          "published": "2026-05-27T22:46:08+00:00",
+          "id": "df5bf6aeffa2",
+          "title": "Source: Wemby warned for ditching reporters",
+          "original_title": "Source: Wemby warned for ditching reporters",
+          "summary": "The NBA has warned Victor Wembanyama for violating media access rules after he did not speak to reporters following the Spurs' Game 5 loss, the league told ESPN.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/48892573/source-nba-warns-victor-wembanyama-violating-media-rules",
+          "source": "ESPN NBA",
+          "published": "2026-05-28T04:20:28+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "b8beaec34d4c",
-          "title": "2026 NBA Draft Early\u2011Entry Tracker Released",
-          "original_title": "2026 NBA Draft early entry tracker: Full list of declarations, withdrawals, returns",
-          "summary": "Yahoo Sports published a comprehensive tracker of college players who have declared for, withdrawn from, or returned to the 2026 NBA Draft. The resource updates fans on each prospect\u2019s draft\u2011eligibility status throughout the early\u2011entry period.",
-          "key_points": [
-            "Full list includes declarations, withdrawals, and returnees.",
-            "Tracker is intended to keep fans and analysts current on draft decisions.",
-            "Covers all college players eligible for the 2026 NBA Draft."
-          ],
-          "link": "https://sports.yahoo.com/articles/2026-nba-draft-early-entry-224235987.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-27T22:42:35+00:00",
+          "id": "5bd1bd8e23cf",
+          "title": "Trump plans to attend NBA Finals game at MSG",
+          "original_title": "Trump plans to attend NBA Finals game at MSG",
+          "summary": "President Donald Trump said he is planning on attending an NBA Finals game at Madison Square Garden next month.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/48893072/president-donald-trump-plans-attend-nba-finals-game-msg",
+          "source": "ESPN NBA",
+          "published": "2026-05-28T04:20:28+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "ac6c905aea39",
-          "title": "Dennis Jr. Calls Oklahoma City Thunder\u2019s Defense \u2018Annoying\u2019",
-          "original_title": "ESPN writer Dennis Jr: \u201cThe Thunder foul all the time and it\u2019s annoying to watch them play\u2026[on defense] they\u2019re pushing guys and playing nasty and you go down the court and SGA is like \u2018Oh I fell\u2019. That is what is frustrating.\u201c",
-          "summary": "ESPN writer Dennis Jr. posted on Reddit criticizing the Thunder\u2019s defensive tactics, describing frequent fouls and aggressive play as \u201cnasty\u201d and frustrating to watch. He specifically mentioned a play involving Shai Gilgeous\u2011Alexander.",
-          "key_points": [
-            "Dennis Jr. accused the Thunder of excessive fouling and overly physical defense.",
-            "He cited a moment where Shai Gilgeous\u2011Alexander appeared to fall after a contact.",
-            "The comment was shared on Reddit\u2019s r/nba forum."
-          ],
-          "link": "https://www.reddit.com/r/nba/comments/1tpl3ds/espn_writer_dennis_jr_the_thunder_foul_all_the/",
-          "source": "Reddit r/nba",
-          "published": "2026-05-27T22:39:03+00:00",
+          "id": "7c33d66b884a",
+          "title": "Sources: Hawks GM Saleh gets promotion, deal",
+          "original_title": "Sources: Hawks GM Saleh gets promotion, deal",
+          "summary": "The Hawks signed Onsi Saleh to a long-term contract extension and promoted him from general manager to president of basketball operations, it was announced on Wednesday.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/48892361/sources-hawks-giving-gm-onsi-saleh-promotion-extension",
+          "source": "ESPN NBA",
+          "published": "2026-05-28T04:20:28+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "b402f2c41170",
-          "title": "Mason Plumlee\u2019s Cheap Shot on Jared McCain Upgraded to Flagrant Foul",
-          "original_title": "Mason Plumlee's cheap shot on Jared McCain in fourth quarter upgraded to flagrant foul",
-          "summary": "Yahoo Sports reported that the NBA reviewed a late\u2011game incident in which Mason Plumlee struck Jared McCain and upgraded the call to a flagrant foul. The league\u2019s decision reflects its stance on protecting players from dangerous hits.",
-          "key_points": [
-            "The incident occurred in the fourth quarter of a game.",
-            "NBA officials changed the original call to a flagrant foul after review.",
-            "The upgrade underscores the league\u2019s emphasis on player safety."
-          ],
-          "link": "https://sports.yahoo.com/articles/mason-plumlees-cheap-shot-jared-222136956.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-27T22:21:36+00:00",
+          "id": "5f1220bd9379",
+          "title": "Source: Lakers lay off over a dozen amid reorg",
+          "original_title": "Source: Lakers lay off over a dozen amid reorg",
+          "summary": "The Lakers informed more than a dozen employees Wednesday they were being laid off as part of a reorganization under new franchise leadership, a source familiar with the situation told ESPN.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/48894046/lakers-lay-more-dozen-business-side-employees-amid-reorganization",
+          "source": "ESPN NBA",
+          "published": "2026-05-28T04:20:28+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "37fcf7bcf74d",
-          "title": "Hawks Elevate Onsi Saleh to President of Basketball Operations",
-          "original_title": "Hawks promote Onsi Saleh from GM to president of basketball operations following playoff season",
-          "summary": "The Atlanta Hawks promoted General Manager Onsi Saleh to President of Basketball Operations and extended his contract for the long term. The move comes a year after Saleh was elevated from assistant GM to GM, signaling confidence in his leadership after the team\u2019s playoff run.",
-          "key_points": [
-            "Saleh receives a new title and multi\u2011year contract extension.",
-            "Promotion follows his previous advancement from assistant GM to GM.",
-            "The decision was announced shortly after the Hawks\u2019 recent playoff season."
-          ],
-          "link": "https://sports.yahoo.com/articles/hawks-promote-onsi-saleh-gm-220628402.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-27T22:06:28+00:00",
+          "id": "6ba921ce7b77",
+          "title": "Sources: Projected 1st-rounder Peat stays in draft...",
+          "original_title": "Sources: Projected 1st-rounder Peat stays in draft...",
+          "summary": "Arizona forward Koa Peat, a projected first-round pick, is keeping his name in the NBA draft, sources told ESPN on Wednesday.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/48896157/arizona-wildcats-forward-koa-peat-remain-2026-nba-draft",
+          "source": "ESPN NBA",
+          "published": "2026-05-28T04:20:28+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "9ae871b2b7d4",
-          "title": "Lakers Lay Off Over a Dozen Business\u2011Side Employees",
-          "original_title": "Lakers lay off more than a dozen employees on the business side of organization",
-          "summary": "The Los Angeles Lakers announced a second round of staff reductions, cutting more than a dozen employees across marketing, team communications, content, and corporate partnerships. The layoffs are part of a broader reorganization following the franchise\u2019s recent sale to Mark Walter\u2019s ownership group.",
+          "id": "133ae871c463",
+          "title": "Celtics' Mazzulla Named NBA Coach of the Year",
+          "original_title": "Celtics' Mazzulla named NBA Coach of the Year",
+          "summary": "Boston Celtics head coach Joe Mazzulla was voted NBA Coach of the Year, beating finalists J.B. Bickerstaff and Mitch Johnson. The award concludes the league\u2019s end\u2011of\u2011season honors ceremony.",
           "key_points": [
-            "Layoffs affect multiple business departments, including marketing and corporate partnerships.",
-            "Reductions are tied to a restructuring under the new ownership that purchased the team for a reported $10\u202fbillion.",
-            "This is the latest personnel change on the Lakers\u2019 business side in recent months."
+            "Mazzulla received the Coach of the Year honor over two other finalists.",
+            "Recognition comes after a strong season for the Celtics.",
+            "The award finalizes the NBA\u2019s awards schedule for the year."
           ],
-          "link": "https://sports.yahoo.com/nba/article/lakers-lay-off-more-than-a-dozen-employees-on-the-business-side-of-organization-212933035.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-27T21:29:33+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/48885593/boston-celtics-joe-mazzulla-named-nba-coach-year",
+          "source": "ESPN NBA",
+          "published": "2026-05-28T04:20:28+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "e13b6b2ee41d",
-          "title": "Western Conference Finals Average 9.4\u202fMillion Viewers, Most\u2011Watched on Record Through Three Games",
-          "original_title": "[NBC PR] Western Conference Finals Averaging 9.4 Million Viewers on NBC & Peacock, Ranking as Most-Watched WCF on Record through 3 Games",
-          "summary": "Nielsen data shows the 2024 Western Conference Finals averaged 9.4\u202fmillion viewers across NBC and Peacock, making it the most\u2011watched conference final through the first three games in NBA history. The figures combine traditional TV ratings with digital streaming metrics from Adobe Analytics.",
+          "id": "203579a9964c",
+          "title": "Kenny Atkinson Set to Return as Cavaliers Head Coach",
+          "original_title": "Sources: Atkinson to return as Cavs head coach",
+          "summary": "Sources told ESPN\u2019s Shams Charania that Kenny Atkinson will remain the Cleveland Cavaliers\u2019 head coach for the upcoming season. The news confirms the organization\u2019s decision to retain him after his first year behind the bench.",
           "key_points": [
-            "Average viewership of 9.4\u202fmillion across broadcast and streaming platforms.",
-            "Sets a new record for the most\u2011watched Western Conference Finals through three games.",
-            "Data sourced from Nielsen and Adobe Analytics, posted on Reddit by user TheRealPdGaming."
+            "Atkinson will continue as Cleveland\u2019s head coach next season.",
+            "The information comes from multiple reliable sources.",
+            "Cavaliers opt for continuity rather than a coaching change."
           ],
-          "link": "https://www.reddit.com/r/nba/comments/1tpj6c4/nbc_pr_western_conference_finals_averaging_94/",
-          "source": "Reddit r/nba",
-          "published": "2026-05-27T21:25:28+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/48883421/sources-kenny-atkinson-return-cavaliers-head-coach",
+          "source": "ESPN NBA",
+          "published": "2026-05-28T04:20:28+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "5f4c1478cb1e",
-          "title": "Antetokounmpo and Haliburton Not Fined for Skipping Post\u2011Game Press Conferences",
-          "original_title": "For anyone wondering, Ant did not speak to media after Game 2 against OKC last year and same with Hali after Game 3 against Cleveland. Neither of them were fined either.",
-          "summary": "A Reddit post clarifies that Giannis Antetokounmpo and Darius Garland (referred to as \u201cHali\u201d) were not fined after they chose not to speak to the media following games last season. The comment notes that it is common for young players to miss press duties without penalty.",
+          "id": "a94492974f18",
+          "title": "Becky Hammon Stands by Brunson Title Claim, Challenges Him to Prove It",
+          "original_title": "Hammon stands by Brunson take: Prove me wrong",
+          "summary": "Las Vegas Aces coach Becky Hammon reiterated her belief that New York Knicks guard Jalen Brunson could lead a team to an NBA championship, but she added that he must demonstrate it on the court. Hammon\u2019s comment sparked discussion about Brunson\u2019s potential as a franchise cornerstone.",
           "key_points": [
-            "Both players faced no fines for not attending post\u2011game media sessions.",
-            "The post emphasizes that skipping press conferences is a frequent occurrence for younger stars.",
-            "No official league disciplinary action was taken in either case."
+            "Hammon maintains that Brunson has the talent to win a title.",
+            "She challenged Brunson to prove the claim through performance.",
+            "The remarks highlight growing expectations for Brunson\u2019s leadership."
           ],
-          "link": "https://www.reddit.com/r/nba/comments/1tpj1if/for_anyone_wondering_ant_did_not_speak_to_media/",
-          "source": "Reddit r/nba",
-          "published": "2026-05-27T21:20:36+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/48884962/hammon-stands-brunson-take-open-proven-wrong",
+          "source": "ESPN NBA",
+          "published": "2026-05-28T04:20:28+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "a68ad82e300c",
-          "title": "Wright Questions OKC\u2019s Stance on Flopping Amid Team\u2011Wide Analytics Emphasis",
-          "original_title": "Wright: \u201cYou can\u2019t convince me that OKC, with all of its analytics and the fact that everyone on the team does it, that flopping isn\u2019t coached to a degree\u201d",
-          "summary": "NBA analyst Wright expressed skepticism that the Oklahoma City Thunder could claim they do not coach flopping, given the organization\u2019s heavy reliance on analytics and its pervasive use across the roster. The comment was posted on Reddit without additional context.",
+          "id": "d29cb9dea29e",
+          "title": "Key Players Who Could Shape the NBA Offseason",
+          "original_title": "\ud83d\udc40 The players who could shape the offseason",
+          "summary": "ESPN outlines the most impactful free\u2011agent and trade targets that could define the upcoming NBA offseason. The analysis links each potential move to how it might alter team rosters and the competitive landscape for next season.",
           "key_points": [
-            "Wright doubts OKC\u2019s claim that flopping isn\u2019t coached.",
-            "Highlights the Thunder\u2019s extensive analytics culture influencing player behavior.",
-            "Comment reflects broader debate over coaching practices and game\u2011flow tactics."
+            "Identifies top free\u2011agent and trade candidates.",
+            "Explains how each deal could affect team dynamics.",
+            "Provides a roadmap for how the offseason may unfold."
           ],
-          "link": "https://www.reddit.com/r/nba/comments/1tpiyzc/wright_you_cant_convince_me_that_okc_with_all_of/",
-          "source": "Reddit r/nba",
-          "published": "2026-05-27T21:17:54+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/48853097/nba-contract-extension-watch-20-players-shape-offseason-big-money",
+          "source": "ESPN NBA",
+          "published": "2026-05-28T04:20:28+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "1310cc9c4122",
-          "title": "Lakers Layoffs Part of Reorganization Under New Ownership, ESPN Reports",
-          "original_title": "[McMenamin] Lakers informed more than a dozen employees Wednesday they were being laid off as part of a reorganization under new franchise leadership... The layoffs Wednesday affected various departments including marketing, team communications, team content and corporate partnerships",
-          "summary": "According to an ESPN source cited on Reddit, the Lakers informed more than a dozen staff members of layoffs on Wednesday as the franchise undergoes a reorganization following its sale to Mark Walter\u2019s group. The cuts span marketing, team communications, content, and corporate partnership roles.",
+          "id": "6b593289b597",
+          "title": "Lottery Reform Debate: Top\u2011Five Draft Picks Haven\u2019t Yielded Titles",
+          "original_title": "The fascinating conflict between drafting in the t...",
+          "summary": "Amid discussions of sweeping NBA lottery reforms, data shows that no team drafting in the top five has captured an NBA championship in the past two decades. The piece argues that the current system may not correlate with long\u2011term success.",
           "key_points": [
-            "Layoffs impact over a dozen employees across several business functions.",
-            "Reorganization follows NBA approval of the Lakers\u2019 $10\u202fbillion sale to Mark Walter.",
-            "Information originally reported by ESPN and shared on Reddit by user McMenamin."
+            "Statistical review shows no titles from top\u2011five picks in 20 years.",
+            "The findings fuel arguments for major lottery changes.",
+            "Highlights a disconnect between draft position and championship outcomes."
           ],
-          "link": "https://www.reddit.com/r/nba/comments/1tpiqfy/mcmenamin_lakers_informed_more_than_a_dozen/",
-          "source": "Reddit r/nba",
-          "published": "2026-05-27T21:09:07+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/48866788/how-nba-championship-finals-rosters-built-draft-free-agency-trades-spurs-outlier",
+          "source": "ESPN NBA",
+          "published": "2026-05-28T04:20:25+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -316,58 +276,78 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "6b1049c60f53",
-          "title": "LeBron James makes contract demands known to Lakers - The Big Lead",
-          "original_title": "LeBron James makes contract demands known to Lakers - The Big Lead",
-          "summary": "LeBron James makes contract demands known to Lakers&nbsp;&nbsp;The Big Lead",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWVM2cmViN0hqRk9LeERpSVdZQTlDcHVRZWNob0NJQTByQ1ZKWnlUQXBEMmN0M3ZBblpCeTNXZ1VVaG9fSWl1RzcwRXh5ZEdDektUS2ZTWUtlMlRSMEk2elRDajhfOGZMenQ0dzlLVTFXVENqVVdjN3JnWk1RZTR3TUxKTmtLdw?oc=5",
+          "id": "ebb0b6561b7b",
+          "title": "LeBron Wants Lakers to Present a Clear Future Plan",
+          "original_title": "LeBron James reportedly wants Lakers to approach him with team\u2019s plan for future - Silver Screen and Roll",
+          "summary": "LeBron James is reportedly asking the Los Angeles Lakers to come to him with a detailed roadmap for the franchise\u2019s future. He wants to see how the organization envisions his role and the team\u2019s direction before committing to any new agreement.",
+          "key_points": [
+            "James seeks a concrete plan outlining his role and the Lakers' long\u2011term strategy.",
+            "The request signals he wants assurance before negotiating a new contract.",
+            "Lakers management will need to articulate a vision that satisfies both parties."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMlNSMk5uZ3FpQVQ0ak1ZU2RsMnV1a29UODFBUlg0MWs4WWZlYng3ZkZ4VlFIamxkNDNydS15UkJqNVVOQ191UEt4V2NPX1g5WXVvWnNpRUgtVDFGalN6amZoQ3Y1a2NOMW1BLW5wN3NCVHl6NzFlb1RHVDk1ZE1kQy1WWjRpZFBXTERCRTVQdFlUUUlkR3FVV0RCS21MdUxiRlBobFA5b3UyZnRqemhtbG5DOGNUT2VPMGJJ?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-05-27T17:58:51+00:00",
+          "published": "2026-05-27T21:06:26+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "0df3a6f662fc",
-          "title": "Lakers make first LeBron James offseason move - BasketNews.com",
-          "original_title": "Lakers make first LeBron James offseason move - BasketNews.com",
-          "summary": "Lakers make first LeBron James offseason move&nbsp;&nbsp;BasketNews.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQk0ybDJqVUZOVERkRDBSMzRnUVRVWkI5RGZSQ1pNYkh1VjBrN3MzT0diRHRMNUpsMFZrWWtnaG1sWFI1UzRiRTNSX09WaDZwN0JfRzRUZ19RdTBDazRxcXBQR2hrZWVvVEFPNU40eUtGcDlZUmhGZHc5VVNIRmZoMHpjd05lY2Fwa29wMjR3?oc=5",
+          "id": "d12714877bc1",
+          "title": "LeBron Awaiting Formal Offer and Future Blueprint from Lakers",
+          "original_title": "Report: LeBron James waiting on Lakers to approach him with offer, lay out future plans - NBC Sports",
+          "summary": "According to NBC Sports, LeBron James is waiting for the Lakers to present a formal contract offer along with a clear outline of the team\u2019s future plans. The star\u2019s patience suggests he wants transparency on roster construction and competitive outlook before re\u2011signing.",
+          "key_points": [
+            "James expects an official contract proposal from the organization.",
+            "He also wants a detailed plan for roster moves and championship goals.",
+            "The timing of the offer could impact free\u2011agency decisions for both parties."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTE5NTXJWaHJ5QUFlM2NjMFRFRE9KX1RoTWNHY0FvcnFidG9XQUVycWtjaWU5T182YmpzTjFiWWk0S29aSUhiVnBUVVphcVY2U1JNY2pCRjRuZWMxWWozZVR5cGdkRnFtcFcyd3RVd3FqcXY5NERZeGJSRE1OUjlfUThiWXZfQWZCWC1kQVJUZ3NCTWt4UmM1a2tjSGw1UHc1bWdwUWhycFNlQjFYYUdETXI5MHlWSjNKX0Jkdg?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-05-27T17:46:50+00:00",
+          "published": "2026-05-27T20:51:45+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "75818bcfc3f7",
-          "title": "LeBron James Reportedly Not Willing To Take Massive Pay Cut To Sign Elsewhere - Lakers Nation",
-          "original_title": "LeBron James Reportedly Not Willing To Take Massive Pay Cut To Sign Elsewhere - Lakers Nation",
-          "summary": "LeBron James Reportedly Not Willing To Take Massive Pay Cut To Sign Elsewhere&nbsp;&nbsp;Lakers Nation",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWGMwcnUtTmlkN2p0S2tweEh6RzNlN0NIcUh3RmwxaDdoZHd3YmJnN3Y3QzFSak4zczhENGhyaWlBdzdHSURXdHNhV0xVclI0dVZybGcwY0ZXVTRWVWtFSkgwWExhc0pocjJQNUQ4ZE9pbVYwSFJjbWNQZk5nQ05LYjk1dDdFNHRMRmVqV2RyamJ2YXFuUDI4UlZPNHQzZlhtZ1dFLU13?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-27T17:45:08+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "594d52bd3451",
-          "title": "Lakers workout puts standout NBA Draft prospect firmly on fans' radar - Lake Show Life",
-          "original_title": "Lakers workout puts standout NBA Draft prospect firmly on fans' radar - Lake Show Life",
-          "summary": "Lakers workout puts standout NBA Draft prospect firmly on fans' radar&nbsp;&nbsp;Lake Show Life",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTVpNd09obDJJU3M4RVVfNHB5ZlhWWkNkQW9SWU1fakxqd2hRaEZpZS02aXowRWktV0FtQm5yWmpUU2JxQzNyRmMyOTE5Y2lHcTFaaHA5VDU2NE01NkllaEtIM2dhVy05U1hGanNHWjhLeUZfWHNTbzZwVlNWRFlhS3UzalprU2dwTEEtTUl5dEE3cWhVQUExRw?oc=5",
+          "id": "069e9e3c65e4",
+          "title": "Potentially Contentious Contract Talks Between LeBron and Lakers",
+          "original_title": "LeBron James\u2019 contract showdown with Lakers could get ugly over star\u2019s demand - Yahoo Sports",
+          "summary": "Yahoo Sports reports that negotiations over LeBron James\u2019 next contract could become strained if his demands are not met. The dispute centers on the length, financial terms, and the role the franchise envisions for him moving forward.",
+          "key_points": [
+            "James is reportedly seeking a longer, higher\u2011value deal.",
+            "Lakers must balance salary\u2011cap flexibility with retaining their marquee player.",
+            "Failure to reach agreement could lead to a public standoff or trade speculation."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWmNVMGNJM2oxZWl6bUhHZ1c2TVJOTjU5LUhPY3AxMndERFVESlE1UUlMVUhYVUdxNHc5N2w0NVVGV2Fxckpwd0Y1N3N6Z0F1NkVQSEpKajFDSzlnb3RmRV95UVduaHZIdEJwT1J5MWg1MHNNOG1zRTlNQlpzWlBHZlZpZkJPMTVuRmZlcEpKMA?oc=5",
           "source": "Google News - Luka",
-          "published": "2026-05-27T15:00:01+00:00",
+          "published": "2026-05-27T19:59:51+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "fdf64b89361f",
-          "title": "The Cleveland Cavaliers Must Target LeBron James in Free Agency - Sports Illustrated",
-          "original_title": "The Cleveland Cavaliers Must Target LeBron James in Free Agency - Sports Illustrated",
-          "summary": "The Cleveland Cavaliers Must Target LeBron James in Free Agency&nbsp;&nbsp;Sports Illustrated",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLWhLcnBoQnJFbUNQR0Q4SEtIRjhMYlZ2UEN6UVRSRklXZENrUDNzRHlOMjJQMWdmMWo4b1puNUFhSW85cnRrYlZ6MG1WQmFQbVRvSzduUGdISUVDSHQtdFpVd2lucHhJdTlWNXJLQTZ3YWZhbEgtUWFCN3hVN19JWF80UUxxMGdBWWgtN0NEU2NlcDNqSzg2ekVYMzZvZEY1OFU1X29qb2pEcUhONHlmbjMxMzA?oc=5",
+          "id": "ef61626ca1b9",
+          "title": "LeBron\u2019s Contract Negotiations Could Turn Ugly Over Demands",
+          "original_title": "LeBron James\u2019 contract showdown with Lakers could get ugly over star\u2019s demand - New York Post",
+          "summary": "The New York Post highlights that LeBron James\u2019 contract showdown with the Lakers may turn contentious due to his specific demands. The article underscores the risk of a protracted negotiation that could affect team chemistry and offseason planning.",
+          "key_points": [
+            "James\u2019 demands include guaranteed money and a defined on\u2011court role.",
+            "Lakers face pressure to keep the franchise face while managing cap space.",
+            "A breakdown in talks could lead to trade rumors or a delayed offseason."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeG9veXptaVExb21MellQZWtMQlFhdWczQ3djRENPVnVvdDRVUTFIUzNvVUI3eVphekt1Rno3MEh1RzhYeEYybUpTUlo1WC1SeHF6UDJSaFJuQ21sakJrTlNlWHlKOFJETkRqTHJ3dWRCaUZnNUVMSG8wX2piM0RQNVEwQW4tSDZtVmdjeUNXSXZidkFTY2o5b3JPZw?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-05-27T14:51:25+00:00",
+          "published": "2026-05-27T19:59:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "e253ef17ff5c",
+          "title": "Analyst Calls Out Lakers Fans Angry Over Luka Doncic Vote",
+          "original_title": "NBA Analyst Calls Out Fans of the Lakers Mad About Luka Doncic Vote - heavy.com",
+          "summary": "Heavy.com reports that an NBA analyst publicly criticized Los Angeles Lakers supporters who expressed frustration about Luka Don\u010di\u0107 receiving a fan vote for the All\u2011Star Game. The analyst noted that the backlash reflects broader tensions between fan expectations and league voting processes.",
+          "key_points": [
+            "Lakers fans voiced displeasure over Don\u010di\u0107\u2019s All\u2011Star fan vote.",
+            "Analyst rebuked the fans, calling the reaction unwarranted.",
+            "The incident highlights ongoing debates about fan voting fairness."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMk9DSlJFeGRSbjE1Ri1Sa09rRDZqRk1qSVg1MGhUbHRFMGlCWjZxZk1jUmZPX0ZFWDlFRG0tQnFwbXl4SURNYjJVci11cF9SeTd2TnBzTU1hYlJOdnFXbGRzVjJPeTUtXzdPV0VINVBxTFJiWEpzZktXUEpZZ25ranYyeFF6d3E0dGdB?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-05-27T19:12:00+00:00",
           "topic": "Lakers Players"
         }
       ]
