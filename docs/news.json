@@ -1,19 +1,79 @@
 {
-  "generated_at": "2026-05-30T03:42:43.021071+00:00",
+  "generated_at": "2026-05-30T06:57:24.160989+00:00",
   "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
-          "id": "b115192cd5e6",
-          "title": "Jake Responds to Haters on TikTok",
-          "original_title": "Jake responding to haters on TikTok",
-          "summary": "Los Angeles Lakers fan Jake posted a TikTok video addressing criticism he has received online. The clip, shared on Reddit\u2019s r/lakers community, shows him directly replying to detractors and defending his stance. No further details about the content of the criticism were provided.",
+          "id": "76c99cd6b10e",
+          "title": "Rank These Draft Picks for the Lakers",
+          "original_title": "Rank these draft picks for the Lakers",
+          "summary": "A Reddit user posted a list of potential draft selections for the Los Angeles Lakers, naming six prospects by position: Henri Veesaar (C), Koa Peat (F), Isaiah Evans (G), Dailyn Swain (G), Jayden Quaintance (F) and Chris Cenac (F). The rankings are based on ESPN's draft board, and the post invites discussion from the community.",
           "key_points": [
-            "Jake posted a TikTok response aimed at online haters.",
-            "The video was highlighted by Reddit user Good-Fold-1815.",
-            "The post generated discussion in the r/lakers subreddit."
+            "Prospects listed: Veesaar, Peat, Evans, Swain, Quaintance, Cenac.",
+            "Positions cover center, forwards, and guards.",
+            "Ranks derived from ESPN\u2019s draft projections."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1trqmut/rank_these_draft_picks_for_the_lakers/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-30T05:16:24+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "ae3277634ff6",
+          "title": "Lonzo Ball Says Lakers Made a Big Demand of Him",
+          "original_title": "Lonzo Ball says Lakers made a big demand of him - LeBron Wire",
+          "summary": "In a recent interview, Lonzo\u202fBall claimed that the Los Angeles Lakers placed a significant demand on him, though details of the request were not disclosed. The comment was reported by LeBron Wire and has sparked speculation about the team's expectations for Ball\u2019s role.",
+          "key_points": [
+            "Ball reports a \u201cbig demand\u201d from the Lakers organization.",
+            "Specifics of the demand were not provided in the report.",
+            "The statement has generated discussion about Ball\u2019s future contributions."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZzlseTA5clI3RmVEUG1OdThuZUJNVjRHZFZsRUJmTFJDY2VKOEUwMW9JOU1QSnZ3WlFXQXBNRG9oZlY1NGR0Wnkyd3d3czdCdER6SkNqb1ZxMHpGWi1tczg4ZjBmdDFzcFVsbHRTZWpaQkF4d1laVmNxZmhfY0dPVmhkbDdlTGczcVZRcmdFeDI2ZWpDM00tN0JtdG9QYXlvengtWEV4dGJNQ1VwSl9TcW9sSnBxNVgtWnZCSA?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-30T05:13:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "4019b5d71f6a",
+          "title": "CBS Sports Mocks Chris Cenac Out of Houston to Lakers",
+          "original_title": "CBS Sports mocks Chris Cenac out of Houston to Lakers",
+          "summary": "A Reddit post shares a CBS Sports segment that humorously critiques the idea of Chris Cenac moving from Houston to the Los Angeles Lakers. The clip appears to mock the plausibility of such a transaction.",
+          "key_points": [
+            "CBS Sports produced a mocking segment about Cenac joining the Lakers.",
+            "The content was shared on r/lakers for community reaction.",
+            "No official trade or signing involving Cenac has been reported."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1trq2hd/cbs_sports_mocks_chris_cenac_out_of_houston_to/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-30T04:47:21+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "df0c40c92c3d",
+          "title": "The Laker Whose Growth I\u2019m Most Excited to See",
+          "original_title": "The Laker whose growth I'm most excited to see",
+          "summary": "A Reddit user posted a discussion thread expressing excitement about the development of a particular Lakers player, though the player\u2019s name was not included in the excerpt. The post invites fans to share their own picks for the most promising young talent on the roster.",
+          "key_points": [
+            "User highlights a Lakers player they anticipate will improve significantly.",
+            "Thread encourages community members to suggest other emerging talents.",
+            "No specific player is identified in the provided summary."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1trp37g/the_laker_whose_growth_im_most_excited_to_see/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-30T03:58:32+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "b115192cd5e6",
+          "title": "Jake Responding to Haters on TikTok",
+          "original_title": "Jake responding to haters on TikTok",
+          "summary": "A Reddit submission points to a TikTok video where a Lakers\u2011related figure named Jake addresses critics. The post links to the video and invites comments from the subreddit.",
+          "key_points": [
+            "Jake posts a TikTok response aimed at detractors.",
+            "The content was shared on r/lakers for fan discussion.",
+            "Details of Jake\u2019s identity or the subject of the criticism are not included."
           ],
           "link": "https://www.reddit.com/r/lakers/comments/1tro7xf/jake_responding_to_haters_on_tiktok/",
           "source": "Reddit r/lakers",
@@ -22,14 +82,10 @@
         },
         {
           "id": "99b4c07efcf8",
-          "title": "NBA Insider Downplays Lakers\u2019 Interest in Kyrie Irving",
+          "title": "NBA insider downplays talk of Lakers considering Kyrie Irving - Yahoo Sports",
           "original_title": "NBA insider downplays talk of Lakers considering Kyrie Irving - Yahoo Sports",
-          "summary": "An NBA insider told Yahoo Sports that recent rumors linking the Los Angeles Lakers to Kyrie Irving are overstated. The source indicated that the Lakers have not made any formal moves or serious inquiries regarding Irving, and the chatter is largely speculative.",
-          "key_points": [
-            "Lakers are not actively pursuing Kyrie Irving, according to the insider.",
-            "Media speculation about the trade is considered exaggerated.",
-            "No official statements or negotiations have been reported."
-          ],
+          "summary": "NBA insider downplays talk of Lakers considering Kyrie Irving&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT3Ixek5lcWZLOU4ySDRrZHJ6VkNEWWFOejFaSFVpRWtTSGlJdHdjNmZZcGQ1X292WmxncWlhektqUHFvMGdpSG9kNnFCSmxfbUN5YlNxeDhVellSSUphdHZIeDVxNWx0MXdkeVZKbTNMRXdFOW5mclpNTXd3aUhDVUNqNUJsTXRjTUE?oc=5",
           "source": "Google News - Lakers",
           "published": "2026-05-30T02:57:00+00:00",
@@ -37,14 +93,10 @@
         },
         {
           "id": "e94bdddac83b",
-          "title": "Las Vegas Sparks Extend Winning Streak to Three Over Mystics",
+          "title": "Sparks hold off Mystics for third straight win",
           "original_title": "Sparks hold off Mystics for third straight win",
-          "summary": "The WNBA\u2019s Las Vegas Sparks defeated the Washington Mystics 92\u201187, marking their third consecutive victory. The game featured a balanced start with both teams trading baskets, and Shakira Austin opened scoring for the Mystics. Erica Wheeler contributed four points for the Sparks early in the matchup.",
-          "key_points": [
-            "Sparks win streak reaches three games with a 92\u201187 win.",
-            "Shakira Austin scored the first basket for the Mystics.",
-            "Erica Wheeler led the Sparks with four early points."
-          ],
+          "summary": "The Sparks extended their win streak to three with a 92-87 victory over the Washington Mystics. Shakira Austin opened the game with a layup for the Mystics. Both teams started well offensively, trading baskets. Erica Wheeler was leading LA with four points. Everyone, but Ariel Atkins, had already scored points for Los Angeles. Austin had [&#8230;]",
+          "key_points": [],
           "link": "https://www.silverscreenandroll.com/los-angeles-sparks-wnba/118250/sparks-vs-mystics-recap-box-score-stats-final-dearica-hamby-nneka-ogwumike-recap",
           "source": "Silver Screen and Roll",
           "published": "2026-05-30T01:59:28+00:00",
@@ -52,107 +104,35 @@
         },
         {
           "id": "38710f3882b7",
-          "title": "Sasha Vujacic Confident Lakers Will Beat Celtics",
+          "title": "Sasha Vujacic is confident the Lakers will defeat the Celtics",
           "original_title": "Sasha Vujacic is confident the Lakers will defeat the Celtics",
-          "summary": "Former NBA player Sasha Vujacic posted on Reddit expressing confidence that the Los Angeles Lakers will defeat the Boston Celtics. The comment, shared by user KeithClossOfficial on r/lakers, reflects optimism but does not cite specific reasons or analysis.",
-          "key_points": [
-            "Vujacic publicly voiced belief in a Lakers victory over Boston.",
-            "The statement was posted in the r/lakers subreddit.",
-            "No detailed tactical or roster analysis was provided."
-          ],
+          "summary": "      &#32; submitted by &#32;  /u/KeithClossOfficial   [link] &#32; [comments] ",
+          "key_points": [],
           "link": "https://www.reddit.com/r/lakers/comments/1trliqb/sasha_vujacic_is_confident_the_lakers_will_defeat/",
           "source": "Reddit r/lakers",
           "published": "2026-05-30T01:09:08+00:00",
           "topic": "Lakers News"
         },
         {
+          "id": "d81f47c2bca1",
+          "title": "Report Links Lakers to Massive 4-Player Haul as LeBron James Departure Looms - heavy.com",
+          "original_title": "Report Links Lakers to Massive 4-Player Haul as LeBron James Departure Looms - heavy.com",
+          "summary": "Report Links Lakers to Massive 4-Player Haul as LeBron James Departure Looms&nbsp;&nbsp;heavy.com",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR0FQNVZ1RWRBNVoxVE1VaTZXYThWdTBxV3FmVGcyNVlxU2pnZll0ZnZ1RXFuWWFmbG83ZTZZZTY0SVNwV05OODItMTdzc1VzektFdG12RjduZlJsQTNuLXdpejVXT1hlWUhnemtwLVhvakV6ZzJrUzZNeWUwa3ZOZTBUUERTY1A3d25R?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-30T00:55:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
           "id": "4f98aa58cf70",
-          "title": "Kobe Bryant\u2019s Secret Call to Dirk Nowitzki Highlighted on Reddit",
+          "title": "Kobe Bryant\u2019s secret free-agency call to Dirk Nowitzki is a masterclass in the legendary respect they shared. \ud83d\udc0d\ud83d\udc10",
           "original_title": "Kobe Bryant\u2019s secret free-agency call to Dirk Nowitzki is a masterclass in the legendary respect they shared. \ud83d\udc0d\ud83d\udc10",
-          "summary": "A Reddit post recounts a little\u2011known story of Kobe Bryant attempting to recruit Dirk Nowitzki to the Los Angeles Lakers, emphasizing the mutual respect between the two legends. The discussion references an 11\u2011minute documentary\u2011style segment that explores Kobe\u2019s effort and Dirk\u2019s decision to stay with the Dallas Mavericks.",
-          "key_points": [
-            "Kobe Bryant tried to persuade Dirk Nowitzki to join the Lakers.",
-            "The story underscores the respect Kobe had for Dirk\u2019s loyalty to Dallas.",
-            "An 11\u2011minute documentary\u2011style video provides deeper context."
-          ],
+          "summary": "      Hardcore Lakers fans know the story of Kobe trying to recruit Dirk to LA. But looking back at that era, it\u2019s wild to analyze how much Kobe respected a guy who completely refused to form a superteam and chose to remain a lifer instead.There is a great 11-minute documentary-style tactical breakdown analyzing how legends like Kobe, LeBron, and Popovich had to adjust their defensive schemes to handle Dirk over a 15-year stretch. If you want a polished compilation of these player quotes without",
+          "key_points": [],
           "link": "https://www.reddit.com/r/lakers/comments/1trktgf/kobe_bryants_secret_freeagency_call_to_dirk/",
           "source": "Reddit r/lakers",
           "published": "2026-05-30T00:37:03+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "b2669bed206e",
-          "title": "Which Teams Might Challenge the Lakers for Austin Reaves?",
-          "original_title": "What teams will the lakers be competing with re-sign Austin Reaves?",
-          "summary": "A Reddit discussion asks whether any NBA clubs besides the Brooklyn Nets are pursuing free\u2011agent guard Austin Reaves. The thread mentions possible interest from the Utah Jazz but offers no concrete reports.",
-          "key_points": [
-            "No confirmed offers for Reaves have been reported beyond the Nets rumor.",
-            "The Utah Jazz are rumored to be scouting Reaves as a potential addition.",
-            "The conversation reflects fan speculation rather than verified league sources."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1trkk3j/what_teams_will_the_lakers_be_competing_with/",
-          "source": "Reddit r/lakers",
-          "published": "2026-05-30T00:24:59+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "c0d1c6f1c74f",
-          "title": "Former Lakers Center Announces Sudden Retirement",
-          "original_title": "Former Lakers Polarizing Center Announces Sudden NBA Retirement - heavy.com",
-          "summary": "Heavy.com reports that a former Los Angeles Lakers center, known for his polarizing style of play, has unexpectedly retired from the NBA. The article provides no further details about the player's identity or future plans.",
-          "key_points": [
-            "The retirement was announced abruptly and without prior indication.",
-            "The player\u2019s tenure with the Lakers was marked by mixed opinions among fans and analysts.",
-            "No official statement from the player or the Lakers organization was included in the report."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYzdHZVltNlV6elNiZVgycGV6TnV0TXBqZHZUcFZzd2dNM0NERnozOXRYdWEwYWQ0VWVoNDcxdUlVUWtkWWtpdlRXVnVqX29aSVAyQmc2cVNMNGhtX2hIeThEc0RkREthd2c0aXBaMGNVbEhLNUl4OUhtdXRCaHNtQjRaT01NdWR5Qmp3NVRzVzU?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-29T23:27:09+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "ebaafbf35bc4",
-          "title": "Austin Reaves' Toughest Highlights from the 2025\u201126 Season",
-          "original_title": "7 Minutes of Austin Reaves' TOUGHEST Highlights (2025\u201126) - NBA.com",
-          "summary": "NBA.com released a 7\u2011minute compilation showcasing Austin Reaves' most difficult and high\u2011impact plays during the 2025\u201126 campaign. The video highlights his defensive intensity, clutch scoring, and playmaking under pressure.",
-          "key_points": [
-            "Reaves demonstrates strong perimeter defense and ability to force turnovers.",
-            "He delivers several late\u2011game scoring bursts, emphasizing his clutch reputation.",
-            "The highlights underline his growth as a two\u2011way player for the Lakers."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQlFFaktvdXZLWS03Qi1JVUpqMlJwR2lGRUxsLWFDd1VHUHJnTTF3cGNqY2NlVkVTS1EyT2QxMVdrREdLRVhSUWpveWRLZXc1ZE5Oa2g2OVFWR1BaV3NMbjgyUWVWczh0b0FWVGVGckxiWGtfUjVYa3F1TXBYaGo4aV8xMkFsYzBGdjdnNVpsTkpvUQ?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-29T22:23:25+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "6c5a910a7e1b",
-          "title": "LeBron James Featured in \u2018Lake Show\u2019 Art Series",
-          "original_title": "Lebron James | Lake Show Art Series",
-          "summary": "A Reddit user shares a custom artwork depicting LeBron James in a Lakers uniform, noting the unique pink nose element as part of the creator\u2019s visual language. The post expresses hope that James will secure another championship with the team.",
-          "key_points": [
-            "The artwork blends fan creativity with iconic Lakers branding.",
-            "The pink nose detail is a signature motif of the artist\u2019s style.",
-            "The post reflects ongoing fan optimism about future Lakers success."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1trh4y1/lebron_james_lake_show_art_series/",
-          "source": "Reddit r/lakers",
-          "published": "2026-05-29T22:02:27+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "b75694f98660",
-          "title": "Luka Don\u010di\u0107 Comments on Lakers After Major Business Move",
-          "original_title": "Luka Doncic Makes Lakers Statement Following Major Business Move - heavy.com",
-          "summary": "Heavy.com covers a statement from Dallas Mavericks star Luka Don\u010di\u0107 that references the Los Angeles Lakers following a significant business development, though the article provides limited context about the nature of the move or the content of his remarks.",
-          "key_points": [
-            "Don\u010di\u0107\u2019s comments were prompted by a notable business transaction affecting the NBA landscape.",
-            "The statement included a direct or implied reference to the Lakers, suggesting competitive relevance.",
-            "Specific details of the business move and Don\u010di\u0107\u2019s full remarks were not disclosed in the summary."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQk9wTDFSVWRuWEt0TGwtMjNPbnR3RHEySmphRVNaS1hENmZIWnQ2SG12cjVjMC1rNHFXU1M4TWI1VnZCRGZKQk5GTldrUnp0RkJ5TEJ5ODIxemhCTEZSUGI2SlhZVDRiWUNZQ0JjaURoZTVZaDEzU18yeklqc3RPaTJQMGFKMXNsWWVENnJTQ3I3VkpGdm9V?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-29T21:53:20+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -161,59 +141,99 @@
       "name": "NBA League News",
       "articles": [
         {
+          "id": "0f636e64b8c0",
+          "title": "Thunder, Spurs set for winner-take-all game 7 in conference finals",
+          "original_title": "Thunder, Spurs set for winner-take-all game 7 in conference finals",
+          "summary": "San Antonio Spurs (62-20, second in the Western Conference) vs. Oklahoma City Thunder (64-18, first in the Western Conference)Oklahoma City; Saturday, 8 p.m. EDTLINE: Thunder -3.5; over/under is 212.5WESTERN CONFERENCE FINALS: Series tied 3-3BOTTOM LINE: The San Antonio Spurs visit the Oklahoma City Thunder in game seven of the Western Conference finals. The Spurs defeated the Thunder 118-91 in the last matchup on Friday. Victor Wembanyama led the Spurs with 28 points, and Shai Gilgeous-Alexande",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/thunder-spurs-set-winner-game-060349357.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-30T06:03:49+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "d6bf3d372725",
+          "title": "Game 7 Refs Assignment",
+          "original_title": "Game 7 Refs Assignment",
+          "summary": "Marc Davis, Mitchell Ervin &amp; Josh Tivens all were spotted at earlier today at both the Omni &amp; Charlestons in Oklahoma, meaning they are probably the most likely the crew to be reffing game 7. Thoughts ?   &#32; submitted by &#32;  /u/Full_Durian_8171   [link] &#32; [comments]",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/nba/comments/1trreih/game_7_refs_assignment/",
+          "source": "Reddit r/nba",
+          "published": "2026-05-30T05:55:41+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "5a7a99bf82c3",
+          "title": "Jalen Brunson has already played 56 playoff games for the Knicks. Before Brunson arrived, the Knicks had played only 35 playoff games since 2000",
+          "original_title": "Jalen Brunson has already played 56 playoff games for the Knicks. Before Brunson arrived, the Knicks had played only 35 playoff games since 2000",
+          "summary": "Knicks in 2000-01 through 2021-22 seasons: 22 seasons 770 wins 1035 loses 42.7% Winning percentage 6 Playoff appearances in  0 Conference Finals appearances 1 Playoff series win  10 Playoff game wins 25 Playoff game loses 28.6% Winning percentage in playoffs Knicks since 2022-23 season (Brunson era): 4 seasons 201 wins 127 loses 61.3% Winning percentage 4 Playoff appearances 2 Conference Finals appearances 7 Playoff series win  35 Playoff game wins 21 Playoff game loses 62.5% Winning percentage ",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/nba/comments/1trpznx/jalen_brunson_has_already_played_56_playoff_games/",
+          "source": "Reddit r/nba",
+          "published": "2026-05-30T04:43:26+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "acf0a892a7d3",
+          "title": "What we learned from the Spurs Game 6 win over the Thunder",
+          "original_title": "What we learned from the Spurs Game 6 win over the Thunder",
+          "summary": "The other side of endurance",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/learned-spurs-game-6-win-030606944.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-30T03:06:06+00:00",
+          "topic": "NBA League News"
+        },
+        {
           "id": "36c7d78c5944",
-          "title": "Ajay Mitchell Out for Game 7 of West Conference Finals",
+          "title": "[CBS Sports] Ajay Mitchell has been ruled out for Game 7 of the WCF against the San Antonio Spurs",
           "original_title": "[CBS Sports] Ajay Mitchell has been ruled out for Game 7 of the WCF against the San Antonio Spurs",
-          "summary": "Ajay Mitchell will miss Game 7 of the Western Conference Finals against the San Antonio Spurs due to a right\u2011calf strain suffered in Game 3. The Spurs will be without two key ball\u2011handlers, increasing the pressure on Victor Wembanyama to lead the team.",
-          "key_points": [
-            "Mitchell ruled out because of a right\u2011calf strain.",
-            "Injury occurred in Game 3 of the series.",
-            "Victor Wembanyama expected to carry a larger offensive load."
-          ],
+          "summary": "Unfortunately, Mitchell has been ruled out for Game 7 due to a right-calf strain that he sustained in Game 3. SGA is going to have to put up a strong performance in order to win, as two crucial ball-handlers are out due to injury. Source  &#32; submitted by &#32;  /u/catreyka   [link] &#32; [comments]",
+          "key_points": [],
           "link": "https://www.reddit.com/r/nba/comments/1trnv5t/cbs_sports_ajay_mitchell_has_been_ruled_out_for/",
           "source": "Reddit r/nba",
           "published": "2026-05-30T02:58:36+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "6757d6994bc8",
-          "title": "Attack on Wemby Pt 5 \u2013 The Nuns and Pop Are Here to Save the Spurs!",
-          "original_title": "Attack on Wemby Pt 5 - The nuns and Pop are here to save the Spurs!",
-          "summary": "A Reddit post titled \u201cAttack on Wemby Pt 5\u201d references a fan\u2011made narrative involving the Spurs, but the submission contains no substantive information beyond the title.",
-          "key_points": [
-            "Post provides only a headline with no detailed content.",
-            "No factual updates about the Spurs or Victor Wembanyama are included."
-          ],
-          "link": "https://www.reddit.com/r/nba/comments/1trnpri/attack_on_wemby_pt_5_the_nuns_and_pop_are_here_to/",
-          "source": "Reddit r/nba",
-          "published": "2026-05-30T02:51:30+00:00",
-          "topic": "NBA League News"
-        },
-        {
           "id": "30cfa1c2b25d",
-          "title": "Jeff Teague Relays Larry Bird\u2019s Praise for LeBron James",
+          "title": "Jeff Teague: \"[Larry Bird] was talking about how good LeBron was, and I was like \u2018LeBron better than you?\u2019 He said, \u2018LeBron\u2019s the greatest player ever besides Michael.\u2019 I was like damn. He was like, \u2018I\u2019ll never pay anybody who played with LeBron. I would never pick him up on my team.\u2019 I said why?\"",
           "original_title": "Jeff Teague: \"[Larry Bird] was talking about how good LeBron was, and I was like \u2018LeBron better than you?\u2019 He said, \u2018LeBron\u2019s the greatest player ever besides Michael.\u2019 I was like damn. He was like, \u2018I\u2019ll never pay anybody who played with LeBron. I would never pick him up on my team.\u2019 I said why?\"",
-          "summary": "Jeff Teague shared a story in which Larry Bird described LeBron James as the greatest player ever besides Michael Jordan, stating he would never sign a teammate who played with LeBron. The anecdote highlights Bird\u2019s high regard for LeBron\u2019s talent.",
-          "key_points": [
-            "Larry Bird called LeBron the greatest player ever after Michael Jordan.",
-            "Bird said he would avoid signing players who had been teammates with LeBron.",
-            "Jeff Teague recounted the conversation on Reddit."
-          ],
+          "summary": "      &#32; submitted by &#32;  /u/must_TATAKAE   [link] &#32; [comments] ",
+          "key_points": [],
           "link": "https://www.reddit.com/r/nba/comments/1trnjpw/jeff_teague_larry_bird_was_talking_about_how_good/",
           "source": "Reddit r/nba",
           "published": "2026-05-30T02:43:44+00:00",
           "topic": "NBA League News"
         },
         {
+          "id": "7a190312b96b",
+          "title": "Warriors mailbag: draft talk and the offseason",
+          "original_title": "Warriors mailbag: draft talk and the offseason",
+          "summary": "Some questions and a few answers.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/warriors-mailbag-draft-talk-offseason-024225773.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-30T02:42:25+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "b516b8fdf48e",
+          "title": "Kevin Harlan had touching Knicks playoff gesture for Mike Breen",
+          "original_title": "Kevin Harlan had touching Knicks playoff gesture for Mike Breen",
+          "summary": "Mike Breen had a chance to call last year's Eastern Conference finals, even though the series was on TNT.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/kevin-harlan-had-touching-knicks-013846124.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-30T01:38:46+00:00",
+          "topic": "NBA League News"
+        },
+        {
           "id": "269dbef4282b",
-          "title": "Shai Gilgeous\u2011Alexander Records Largest Scoring Drop for an MVP Guard in Conference Finals",
+          "title": "Shai Gilgeous-Alexander 31.1 PPG in the regular season to 24.3 PPG in the Conference Finals is The biggest scoring falloff by an MVP Guard from the regular season to the Conference Finals EVER.",
           "original_title": "Shai Gilgeous-Alexander 31.1 PPG in the regular season to 24.3 PPG in the Conference Finals is The biggest scoring falloff by an MVP Guard from the regular season to the Conference Finals EVER.",
-          "summary": "Shai Gilgeous\u2011Alexander averaged 31.1 points per game in the regular season but fell to 24.3 points per game in the Conference Finals, marking the biggest scoring decline ever recorded for an MVP\u2011level guard between those stages.",
-          "key_points": [
-            "Regular\u2011season average: 31.1 PPG.",
-            "Conference\u2011Finals average: 24.3 PPG.",
-            "Largest drop in scoring for an MVP guard from regular season to Conference Finals in NBA history."
-          ],
+          "summary": "Shai Gilgeous-Alexander this season: 31.1 PPG in the regular season 24.3 PPG in the Conference Finals The biggest scoring falloff by an MVP guard from the regular season to the Conference Finals EVER.  &#32; submitted by &#32;  /u/Jec1027   [link] &#32; [comments]",
+          "key_points": [],
           "link": "https://www.reddit.com/r/nba/comments/1trll2a/shai_gilgeousalexander_311_ppg_in_the_regular/",
           "source": "Reddit r/nba",
           "published": "2026-05-30T01:12:06+00:00",
@@ -221,92 +241,13 @@
         },
         {
           "id": "c4afd2d2b938",
-          "title": "NBA Approves Major Lottery Reform to Deter Tanking",
+          "title": "NBA approves sweeping lottery reform intended to curb tanking",
           "original_title": "NBA approves sweeping lottery reform intended to curb tanking",
-          "summary": "The NBA Board of Governors voted 29\u20111 to adopt a new \u201c3\u20112\u20111\u201d lottery format, a sweeping change aimed at reducing incentives for teams to tank. The reform restructures the odds for the draft lottery, affecting all non\u2011playoff teams.",
-          "key_points": [
-            "29 of 30 franchises approved the new lottery system.",
-            "The \u201c3\u20112\u20111\u201d model dramatically alters draft\u2011lottery odds.",
-            "Goal of the reform is to curb tanking and promote competitive balance."
-          ],
+          "summary": "The \u201c3-2-1\u201d model feels like too drastic a change, but 29 out of 30 franchises voted to approve it.",
+          "key_points": [],
           "link": "https://sports.yahoo.com/articles/nba-approves-sweeping-lottery-reform-011113323.html",
           "source": "Yahoo Sports NBA",
           "published": "2026-05-30T01:11:13+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "ee22b066062a",
-          "title": "Draft Outlook: Wagler, Lopez, Flemings, Mara, Ament",
-          "original_title": "What about Wagler \u2026 Lopez, Flemings, Mara, Ament?",
-          "summary": "Recent draft intelligence highlights several potential prospects, including Wagler, Lopez, the Flemings, Mara, and Ament. The report notes a range of scenarios but offers limited concrete insight into team strategies or player evaluations.",
-          "key_points": [
-            "Multiple players are being discussed as possible draft targets.",
-            "The analysis presents several scenarios without definitive predictions.",
-            "No clear consensus emerges on which prospects will be selected."
-          ],
-          "link": "https://sports.yahoo.com/articles/wagler-lopez-flemings-mara-ament-010434079.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-30T01:04:34+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "8d966246310c",
-          "title": "Zach Lowe Discusses Potential Impact of a Spurs Game 7 Loss on Shai Gilgeous\u2011Alexander's Reputation",
-          "original_title": "Zach Lowe: \"If the Spurs win Game 7, and Shai has like another 6-18 game. I do think in a lot of corners, with at least some justification, it's gonna make people rethink\u2014 not rethink, it's gonna be a slight taint, on what has otherwise been a pretty spotless rise to #1 or #2 in the NBA, 2-time MVP\"",
-          "summary": "Zach Lowe argues that if the Spurs win Game 7 and Shai Gilgeous\u2011Alexander has another subpar performance, it could slightly tarnish his otherwise spotless rise to elite status. The commentary suggests that a high\u2011profile loss might cause some reevaluation of his standing among the league's top players.",
-          "key_points": [
-            "A Game 7 defeat could affect perceptions of Gilgeous\u2011Alexander's MVP candidacy.",
-            "Lowe emphasizes that the impact would be modest, not a full reversal of opinion.",
-            "The discussion centers on how a single poor performance in a crucial game influences reputation."
-          ],
-          "link": "https://www.reddit.com/r/nba/comments/1trlbos/zach_lowe_if_the_spurs_win_game_7_and_shai_has/",
-          "source": "Reddit r/nba",
-          "published": "2026-05-30T01:00:19+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "ad800ed477db",
-          "title": "The Case for Keeping Jalen Green",
-          "original_title": "The case for keeping Jalen Green",
-          "summary": "Jalen Green's rookie season with the Phoenix Suns featured notable highs and lows, but his overall upside remains significant. The article argues that his potential growth justifies retaining him despite inconsistencies.",
-          "key_points": [
-            "Green displayed flashes of elite scoring ability throughout the season.",
-            "Inconsistencies and defensive lapses limited his overall impact.",
-            "His ceiling and age suggest he could become a core piece for Phoenix."
-          ],
-          "link": "https://sports.yahoo.com/articles/case-keeping-jalen-green-000000625.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-30T00:00:00+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "8221f7e4d124",
-          "title": "OKC Will Miss Injured Jalen Williams in Game 7 vs. Spurs",
-          "original_title": "OKC to be without injured Williams for Game 7",
-          "summary": "Thunder forward Jalen Williams, who has struggled with injuries all season, is ruled out for the decisive Game 7 against the San Antonio Spurs. His absence leaves Oklahoma City without a key wing contributor in a critical matchup.",
-          "key_points": [
-            "Williams has missed significant time due to recurring injuries.",
-            "The Thunder must adjust their rotation without his scoring and defense.",
-            "The decision could affect the team's depth and matchup options in Game 7."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48914043/thunder-injured-jalen-williams-game-7",
-          "source": "ESPN NBA",
-          "published": "2026-05-29T23:44:14+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "bb1d52601685",
-          "title": "Mike Gansey Leaves Cavs for 76ers President of Basketball Operations Role",
-          "original_title": "Sources: 76ers make Cavs' Gansey new ops prez",
-          "summary": "Cleveland Cavaliers GM Mike Gansey has signed a multiyear contract to become the new president of basketball operations for the Philadelphia 76ers, according to his agent. The move marks a significant front\u2011office shift for both franchises.",
-          "key_points": [
-            "Gansey transitions from GM of the Cavaliers to top executive in Philadelphia.",
-            "The deal is reported to be multiyear, indicating a long\u2011term commitment.",
-            "Both teams will need to adjust their roster and strategic planning following the change."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48913578/76ers-tab-cavs-gm-mike-gansey-lead-basketball-operations",
-          "source": "ESPN NBA",
-          "published": "2026-05-29T23:44:14+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -316,10 +257,14 @@
       "articles": [
         {
           "id": "d8f6e431baea",
-          "title": "NBA insider downplays talk of Lakers considering Kyrie Irving - LeBron Wire",
+          "title": "NBA Insider Downplays Lakers\u2019 Interest in Kyrie Irving",
           "original_title": "NBA insider downplays talk of Lakers considering Kyrie Irving - LeBron Wire",
-          "summary": "NBA insider downplays talk of Lakers considering Kyrie Irving&nbsp;&nbsp;LeBron Wire",
-          "key_points": [],
+          "summary": "An NBA insider told reporters that recent speculation about the Los Angeles Lakers pursuing Kyrie Irving is largely unfounded. While the name has been mentioned in media circles, the insider says the Lakers have not made any concrete moves or expressed serious interest.",
+          "key_points": [
+            "Rumors linked Kyrie Irving to the Lakers, but insiders say the team is not actively pursuing him.",
+            "No formal discussions or offers have been reported between Irving\u2019s camp and the Lakers.",
+            "The comment aims to temper market chatter ahead of free\u2011agency decisions."
+          ],
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdUJNcVNFcG55ME9wSmQ3VDdMd0xINVBiNUtXUThCREF5b0N6OWlGQUxQZ2pfYlFTQ1F4RnFpQW8zV1ZJaFJWQTI1dnp2NkxWazItXzNON3l1ejFVTkdGaWNuTGRfT2ZSSzdnVmt1WllvRjRicVd1aWNZN0xwel9hZG9CaUFfeUhHTzViUV9yUnZhaDdvellBUnh0WVQ5UDlMWUdJcXhyaW8xTVBGUFJHam1xX1RHY05lNFRESmRFbFFoN0ZvRGFNdkF2ZUduY0k?oc=5",
           "source": "Google News - Luka",
           "published": "2026-05-30T02:57:00+00:00",
@@ -327,10 +272,14 @@
         },
         {
           "id": "3551ac8035aa",
-          "title": "Pacific Notes: Brooks, LeBron, Suns, Acuff, Kings, Clippers - Hoops Rumors",
+          "title": "Pacific Notes: West Coast NBA Updates",
           "original_title": "Pacific Notes: Brooks, LeBron, Suns, Acuff, Kings, Clippers - Hoops Rumors",
-          "summary": "Pacific Notes: Brooks, LeBron, Suns, Acuff, Kings, Clippers&nbsp;&nbsp;Hoops Rumors",
-          "key_points": [],
+          "summary": "Hoops Rumors\u2019 Pacific Notes roundup covers several storylines, including updates on Brooks, LeBron James, the Phoenix Suns, rookie Acuff, the Sacramento Kings, and the Los Angeles Clippers. The brief highlights recent transactions, injury reports, and coaching moves affecting the Western Conference.",
+          "key_points": [
+            "Brooks\u2019 contract status and potential trade interest were discussed.",
+            "LeBron James\u2019 health and upcoming game outlook were noted.",
+            "The Suns, Kings, and Clippers each received updates on roster moves and coaching decisions."
+          ],
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX2I0Vmk0MGRoS2hQcDhkcXJJejh2U0JJaUhOTnoycU1OMVFUMk1zMXlsZzRVNEI2ZzdhZnEwaTF3dU9NQUFuWTFJU3dDX3FxQ25MR0N0VU95Y0RKc0t4T19qY0xLTTFsaGU5Y3FqVEhacEVQbGxvM090cUxSb2hiVUZ6LVZIMU40azVjdGJqY2ZyTk9CR0JHdy13?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-05-30T02:06:09+00:00",
@@ -338,10 +287,14 @@
         },
         {
           "id": "54e764ff1394",
-          "title": "LeBron James' first agent remembers how his 2005 ESPY's appearance led to one of the biggest sponsorships of his life - Yahoo Sports",
+          "title": "LeBron\u2019s First Agent Recounts 2005 ESPYs Sparked Major Sponsorship",
           "original_title": "LeBron James' first agent remembers how his 2005 ESPY's appearance led to one of the biggest sponsorships of his life - Yahoo Sports",
-          "summary": "LeBron James' first agent remembers how his 2005 ESPY's appearance led to one of the biggest sponsorships of his life&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
+          "summary": "LeBron James\u2019 inaugural agent recalls how the 2005 ESPY Awards appearance led to one of the star\u2019s biggest endorsement deals. The exposure at the ceremony caught the attention of a major brand, setting the foundation for a long\u2011term partnership that significantly boosted LeBron\u2019s off\u2011court earnings.",
+          "key_points": [
+            "LeBron\u2019s ESPY performance showcased his marketability to sponsors.",
+            "The resulting deal became a cornerstone of his endorsement portfolio.",
+            "The agent emphasizes the lasting impact of that early exposure on LeBron\u2019s brand."
+          ],
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRzhoMlpCVlpRRl84aXEtNTdaaV9BR0Q3WS16WWFlMy1TUW16UU5nbmNKc2cwNFRFVWUxN3RwaU0xaGxHMG9LaDljNzRwV2tUczVjc3JOWkZVMzlId19ER3hxSFdmdVcyUnFpc05ZM00yVnRsQjJPYzJPaXlzcXNrdzAxcW5ZaElMcjln?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-05-30T02:03:00+00:00",
@@ -349,79 +302,107 @@
         },
         {
           "id": "f9f5d395bad4",
-          "title": "Why bringing LeBron James back home should be Cavs\u2019 offseason priority - Cavs Nation",
+          "title": "Why Bringing LeBron James Back Home Should Be the Cavs\u2019 Off\u2011Season Priority",
           "original_title": "Why bringing LeBron James back home should be Cavs\u2019 offseason priority - Cavs Nation",
-          "summary": "Why bringing LeBron James back home should be Cavs\u2019 offseason priority&nbsp;&nbsp;Cavs Nation",
-          "key_points": [],
+          "summary": "Cavs Nation argues that re\u2011uniting with LeBron James should top Cleveland\u2019s offseason agenda. The piece outlines the potential on\u2011court benefits, fan\u2011base excitement, and financial upside of having the franchise\u2019s most iconic player return.",
+          "key_points": [
+            "LeBron\u2019s familiarity with the organization could accelerate team chemistry.",
+            "His return would likely boost ticket sales, merchandise, and media attention.",
+            "The article suggests the Cavs have the cap flexibility to make a competitive offer."
+          ],
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSHh5dF9CVjZIUlVJbHN6YW9ydEFwaHJqUFFZSjZaVFoxcnE4dzJ4TkRrVUxsajUzT2w0UG42VjdVRzJadWFqeFk0SUtnc3RNVlJteWhnaTVSOVBfTmxna0tlbmhRRTh0ME9HR3V3VW5vZWJqRG5UWWxXc2lUNkFob1pyVi15dk9ydGpEb1J3WDV3TFN2UHRaYjl3?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-05-29T23:38:55+00:00",
           "topic": "Lakers Players"
         },
         {
+          "id": "4422e2837a93",
+          "title": "Would LeBron James Ever Consider Signing with the Phoenix Suns?",
+          "original_title": "Would LeBron James ever entertain signing with the Phoenix Suns? - Burn City Sports",
+          "summary": "Burn City Sports explores the hypothetical scenario of LeBron James joining the Phoenix Suns. The analysis weighs the Suns\u2019 roster composition, market appeal, and championship window against LeBron\u2019s career goals and legacy considerations.",
+          "key_points": [
+            "The Suns possess a strong supporting cast but would need to restructure contracts to fit LeBron\u2019s salary.",
+            "Geographic and lifestyle factors in Phoenix are discussed as potential draws.",
+            "The article concludes that while possible, significant roster and cap challenges make the move unlikely."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOb1F3RE1qSFNoRDA5RG5VcWtMcGp5WmRnd3ItV0xlV2g4N1drRDdDWk9mUlVGSGJ6cjJvNjF1alZTTU8yQnNtM2d5R0t6STdkVVBtSDIwZjZnRFhPcm9wa3pZdGFFRk5GSUpKaXM2WE5UMmVyby03V2dtMlk1MTFnag?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-05-29T22:57:23+00:00",
+          "topic": "Lakers Players"
+        },
+        {
           "id": "c82e3998035c",
-          "title": "Luka Doncic invests in Italian basketball team with NBA Europe aspirations - Orange County Register",
+          "title": "Luka Doncic Invests in Italian Basketball Team with NBA Europe Aspirations",
           "original_title": "Luka Doncic invests in Italian basketball team with NBA Europe aspirations - Orange County Register",
-          "summary": "Luka Doncic invests in Italian basketball team with NBA Europe aspirations&nbsp;&nbsp;Orange County Register",
-          "key_points": [],
+          "summary": "Dallas Mavericks star Luka Doncic has become an investor in an Italian basketball club that aims to become a gateway for NBA Europe initiatives. The move reflects Doncic's growing interest in expanding the sport's global footprint and diversifying his business portfolio.",
+          "key_points": [
+            "Doncic joins a group of investors purchasing an Italian team.",
+            "The club's long\u2011term goal is to align with NBA Europe development plans.",
+            "The investment signals NBA players' increasing involvement in international basketball ventures."
+          ],
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSXRYTUhuc05aXzNRVm4zNXdWdWFqc0VCU0hfT3lqcHpiWTVQMUluUk1RSFBlQ3F5ZVg2VGVyVXVVYkNsS3lEc281LU5XbW1BNjhUamEtVXBLNldib2RodkxlSWFyc2puczJmODluNl8xODFZSi1QaVpjTUxLT1lqQXU4VXBvRVFfSmRZbEREeDdPRVFYSThLVUY2S19UNk1jLWtVdUozRGpNRVM5VXhKSjRjMA?oc=5",
           "source": "Google News - Luka",
           "published": "2026-05-29T22:20:33+00:00",
           "topic": "Lakers Players"
         },
         {
+          "id": "8d7adb0b5902",
+          "title": "Jalen Duren Free\u2011Agency Intel Confirms Lakers' Worst Fears",
+          "original_title": "Latest Jalen Duren free agency intel confirms Lakers worst fears - Lake Show Life",
+          "summary": "Recent reports indicate that free\u2011agent center Jalen Duren is unlikely to sign with the Los Angeles Lakers, confirming concerns within the organization about missing out on the young talent. The news underscores the challenges the Lakers face in bolstering their frontcourt during the upcoming offseason.",
+          "key_points": [
+            "Duren is expected to pursue opportunities elsewhere, not the Lakers.",
+            "Lakers' frontcourt depth remains a pressing issue.",
+            "The intel aligns with earlier speculation about the team's difficulty attracting top free agents."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMTRZdkVrMG5GVVlsRDVqWk1MQm1LRHBIS0VuY0JHWF9qWWpqVUlzOVpoY2VOYnBuWWY0bWpSZVJTbGsxckJaTVkyWS1CYldHOWd3OGFSZVVUZjVwbkF0aUxlZGFOcWlpeWt3S2ZraW1XWDYtQUk1RHdLUXlHdHJENEJhVUNXamN4S28zdGY0dnNyZE0?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-05-29T22:00:01+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "cfed65f5be67",
+          "title": "Jeanie Buss Backs Luka Doncic\u2019s Ownership of European Team",
+          "original_title": "Jeanie Buss Supportive Of Luka Doncic Owning European Team - Lakers Nation",
+          "summary": "Lakers owner Jeanie Buss publicly expressed support for Luka Doncic\u2019s decision to acquire a European basketball franchise. Buss highlighted the potential benefits for the NBA\u2019s global growth and praised Doncic\u2019s entrepreneurial initiative.",
+          "key_points": [
+            "Buss sees the ownership stake as positive for NBA international expansion.",
+            "She commended Doncic for taking a leadership role off the court.",
+            "The endorsement may strengthen ties between the Lakers organization and NBA Europe projects."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSi1rU1h0MUtyQnFSd3pSTFI5dGlyc2FtQlU0OWZ6dVFvVGxaNVFFVzUzSFoyMDdPZUlMNFpodXhRMTZSeG1KRzZPNGlBOWdRMUQ1TVVST2dGaERjT0NKdkQ4UWpyZ3dURlZLd3JtT09sbkJiSWEyNm9xaFVneXF1S0VBaTliMVhSU1Z1WQ?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-05-29T21:20:33+00:00",
+          "topic": "Lakers Players"
+        },
+        {
           "id": "5653eb555f1a",
-          "title": "Lakers Warned LeBron James Situation \u2018Could Get Ugly\u2019 After Explosive Report - heavy.com",
+          "title": "Lakers Warn LeBron James Situation \u2018Could Get Ugly\u2019 After Explosive Report",
           "original_title": "Lakers Warned LeBron James Situation \u2018Could Get Ugly\u2019 After Explosive Report - heavy.com",
-          "summary": "Lakers Warned LeBron James Situation \u2018Could Get Ugly\u2019 After Explosive Report&nbsp;&nbsp;heavy.com",
-          "key_points": [],
+          "summary": "An investigative report raised concerns about LeBron James\u2019 relationship with the Lakers, prompting the franchise to issue a warning that the situation could become contentious. The warning reflects internal unease regarding contract negotiations and team dynamics.",
+          "key_points": [
+            "The report suggests potential friction between James and the organization.",
+            "Lakers officials cautioned that the dispute may escalate if unresolved.",
+            "No official decisions have been made regarding James\u2019 future with the team."
+          ],
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdDREblRJMGdzbFRTOTJlbDlmY2VnckVmTXlBV0hEXzcxdjVrMnNGdHV3SmZub2ZLbmlIWXVGWlFuU1pUSXhSdWFOZV9iR2RfTDJmZ1Nka2NNWTVwVnk4dDZ6b3VfaFEwZkhId0RuVzBIODlZRS0tNmtLUEY4UEFvdkt0cmN4MWVVRUM2WmhkdHBfcmc4dTJ3?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-05-29T21:11:46+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "fec81c83ecfd",
-          "title": "Lakers\u2019 Luka Doncic invests in Italian team, hopes to fulfill dream - New York Post",
-          "original_title": "Lakers\u2019 Luka Doncic invests in Italian team, hopes to fulfill dream - New York Post",
-          "summary": "Lakers\u2019 Luka Doncic invests in Italian team, hopes to fulfill dream&nbsp;&nbsp;New York Post",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU2VJQU85M0J5YlctNC1WSVpJZHAtU1BtSmZRTGJiUVA0WVU3VS1CTXY5bmI1TGJfVDlpVy1tb1I0bE41U2RoQzIwRGRvY1ZKRUk5QURjcGNfekZadzdjT1JLYnhSR2VEYWlfdE4tbFE1QU1jb0dYSFJKZVNMLUdFWUE0STFabThVV1pybFg1eEVUX2dsVEZtdVhXZVJGbmJUTDhF?oc=5",
+          "id": "26ddf54e507c",
+          "title": "Luka Doncic Invests in Purchase of Italian Basketball Team with Eye on NBA Europe",
+          "original_title": "Luka Doncic invests in purchase of Italian basketball team with eye on NBA Europe - Los Angeles Times",
+          "summary": "Luka Doncic has taken a financial stake in acquiring an Italian basketball club, aiming to help establish a foothold for NBA Europe activities. The investment aligns with broader efforts to grow the NBA brand internationally and offers Doncic a post\u2011playing career avenue.",
+          "key_points": [
+            "Doncic\u2019s involvement includes a purchase agreement for the Italian team.",
+            "The club is positioned to serve as a potential hub for NBA Europe programs.",
+            "The move illustrates a trend of NBA players pursuing overseas business opportunities."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbEV4Y2hmV0xwOV9NNWFwNG1QaURCS1JBTVlobUh3SnpsVHpHR1FkVFVkc2ZVblFrbjVaZmN5elFpTnI1d1lNU3BPZUpGVHNDUHpZUWVvLWRoa1Y5YklITHJRc0xRN2VfN3JrVGNncUNaQ2JZWXVoNlp1NlFSUlN3Zllnd0s2NVJIM0V4SFZmVXhOYVQ4MEI1WUcyZXA1aEZnakFtWXRnRHJvQjc5Y29HdWFpc182emNWbXNvVUtuWUR5ZDNKcUM1VDE4dTlBVGlkTXc?oc=5",
           "source": "Google News - Luka",
-          "published": "2026-05-29T20:19:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "5d0a37a43a66",
-          "title": "Luka Doncic revealed the most important thing to him in his career - Lakers Nation",
-          "original_title": "Luka Doncic revealed the most important thing to him in his career - Lakers Nation",
-          "summary": "Luka Doncic revealed the most important thing to him in his career&nbsp;&nbsp;Lakers Nation",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN3JrOUdsUzhEdWlnMjdwNmVBQmFlaUJoZU1fd2JJZ0xRWERtRmU2TzN5T2pGQ0xULUhOaVRDZm90dW9KR2lRS29FeWQyaVU1cGtWR2licmZTMTJrSGpvTUhGenp0Z2YwQVhsUV8zaDlvUUJqWTNSZVl5NzNFcDlORXYyRlVHRi1DQjhsTE9ZN2Q4cmVoWDlvNWdR?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-05-29T20:00:44+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "f93af518ea63",
-          "title": "Warriors\u2019 First Major Offseason Move Revealed Amid LeBron James Rumors - heavy.com",
-          "original_title": "Warriors\u2019 First Major Offseason Move Revealed Amid LeBron James Rumors - heavy.com",
-          "summary": "Warriors\u2019 First Major Offseason Move Revealed Amid LeBron James Rumors&nbsp;&nbsp;heavy.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObEFaTGNNNnlPSXJxMHE3U0VnV2VmUXk1dU5IZjlNb1pRSVVTVDZTVjlleW00aGZ1UWlkeHZvREtKR0VPQlc4S216UGZkNENBTktZNHlObWNQWVBOWFZ1Y2dDU2I0TGxsV19IdlhtU25ZLW4zNjBsRU5JQjFBSFh6WnJsQTQ2bDI5LUN2STRJWVU4WTFZUjlXVUVR?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-29T19:29:33+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "a7c2111b733e",
-          "title": "What did Donovan Mitchell say about LeBron James potentially returning to Cavaliers? - Lakers Nation",
-          "original_title": "What did Donovan Mitchell say about LeBron James potentially returning to Cavaliers? - Lakers Nation",
-          "summary": "What did Donovan Mitchell say about LeBron James potentially returning to Cavaliers?&nbsp;&nbsp;Lakers Nation",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWlFyTTZLdm9WbHBHbmdMOE55NkZNT29SU2xUM1huV0JCNDhfTkJsVUxOb01PbHdQaUt3cW93aFl1b0RWMWxjbUZxUFliQUZNT0F4RWwwaGkwc2lnMG1HN3ZhaVM4WGJGcW5tWE1UVU1EaUYzU1loc0RiZHljLVduSDg0NVFuWm12VmhydmEzMUswa0JrMGZrd1NRUjMxaUZDUnhPaE5RdDc?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-29T18:50:57+00:00",
+          "published": "2026-05-29T20:50:33+00:00",
           "topic": "Lakers Players"
         }
       ]
