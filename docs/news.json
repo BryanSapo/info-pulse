@@ -1,82 +1,125 @@
 {
-  "generated_at": "2026-05-31T13:53:37.380435+00:00",
-  "total_articles": 30,
+  "generated_at": "2026-05-31T15:24:24.346269+00:00",
+  "total_articles": 25,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
-          "id": "0f43432a8406",
-          "title": "Lakers 3-Team Trade Pitch Creates $87 Million Star Trio With Luka Doncic - heavy.com",
-          "original_title": "Lakers 3-Team Trade Pitch Creates $87 Million Star Trio With Luka Doncic - heavy.com",
-          "summary": "Lakers 3-Team Trade Pitch Creates $87 Million Star Trio With Luka Doncic&nbsp;&nbsp;heavy.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOUxwMzZ0SlpwOFpTS196c0pUVnh4OXAzNGFCY0MxaldjQy0xNjUxM01wVEJfUUFrQVNWck8weVNtTWFQV2gzLUtyZDZ6WUdfalhndFVxanJMY3dHaGJfUFZPeWtEbHZ4VUIyV09uUFF5X2pGYXp5bUNNS2xGX1liOVQtcWsya0U?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-31T13:19:04+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "3b09b22eff5d",
-          "title": "Lakers\u2019 \u2018Best-Case\u2019 Free Agent Target Revealed as LeBron James Exit Looms - heavy.com",
-          "original_title": "Lakers\u2019 \u2018Best-Case\u2019 Free Agent Target Revealed as LeBron James Exit Looms - heavy.com",
-          "summary": "Lakers\u2019 \u2018Best-Case\u2019 Free Agent Target Revealed as LeBron James Exit Looms&nbsp;&nbsp;heavy.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUHlZZzdQWUVlZlNlaW9VNWttOEd1OERfeFkzY2N3SnVoN05HWm54S0hIX0dkQVpOVWZja05vX2NENjIzYUJMZWNQT1d4aXg5RUZaZm5ObTJYUWNZcExwanVLWUU4alVRVnBvM0FiY2FwVS1tbFhWN19pcWtDMWtBQ2piVDVNaGtqSm1GRGlR?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-31T13:18:21+00:00",
-          "topic": "Lakers News"
-        },
-        {
           "id": "7f12ff48df9a",
-          "title": "Lakers News: LeBron James Reveals Why He Doesn\u2019t Drink Coffee",
+          "title": "LeBron James Explains Why He Skips Coffee",
           "original_title": "Lakers News: LeBron James Reveals Why He Doesn\u2019t Drink Coffee",
-          "summary": "Los Angeles Lakers star LeBron James is considered the gold standard when it comes to body maintenance. James is a unicorn in that he remained as productive as ever in Year 23. He may have lost a step physically, but he\u2019s still one of the best transition players in the NBA and can feasibly take [&#8230;]",
-          "key_points": [],
+          "summary": "LeBron James discussed his personal health regimen, revealing that he avoids coffee to maintain optimal performance. Despite being in his 23rd NBA season and showing a slight physical decline, he remains one of the league\u2019s most effective transition players.",
+          "key_points": [
+            "James cites coffee avoidance as part of his body\u2011maintenance routine.",
+            "He continues to produce at a high level in Year 23, though with a modest physical step\u2011back.",
+            "His transition game remains elite, keeping him among the NBA\u2019s top players."
+          ],
           "link": "https://lakersnation.com/lakers-news-lebron-james-reveals-why-he-doesnt-drink-coffee/",
           "source": "Lakers Nation",
-          "published": "2026-05-31T13:10:40+00:00",
+          "published": "2026-05-31T14:20:40+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "ad0d14f70ac3",
-          "title": "Lakers face a heartbreaking Dalton Knecht decision they've been putting off - Lake Show Life",
-          "original_title": "Lakers face a heartbreaking Dalton Knecht decision they've been putting off - Lake Show Life",
-          "summary": "Lakers face a heartbreaking Dalton Knecht decision they've been putting off&nbsp;&nbsp;Lake Show Life",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRVJrZVpSeGFHcUdNZ2VFVjJvTHNteVNuYi1EdW1pOVpRS2RNRVVJeHc2a0R3cFhGY2xiSmgtYklIZHY4OWR3cUVGLW1HRXlvM01MV18yb0c3cGFxdzVhc3E2VXBSU3R6LTVNblpuZFZObnhtQ2lZajBYaGZpeTJxdGh1N0hJMm5JYUktWDV2Wmlxd3ZVS09yRlZJd1hCQQ?oc=5",
+          "id": "3dd82b3dc6f5",
+          "title": "Reddit Thread: Post\u2011Season Lakers Discussion",
+          "original_title": "Daily Lakers Offseason Discussion Thread",
+          "summary": "A Reddit thread on r/lakers invites fans to discuss the conclusion of the Lakers\u2019 season and any related topics. The thread was automatically created by the subreddit\u2019s moderation bot.",
+          "key_points": [
+            "Thread opened after the Lakers\u2019 season ended.",
+            "Fans can discuss any Lakers\u2011related subject.",
+            "Posted by AutoModerator as a standard discussion thread."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1tsw6h3/daily_lakers_offseason_discussion_thread/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-31T14:00:55+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "400ca3e6b863",
+          "title": "2026 Draft Prospect Spotlight: Baba Miller",
+          "original_title": "2026 Lakers draft prospects: Baba Miller - Yahoo Sports",
+          "summary": "Yahoo Sports highlighted Baba Miller as a potential 2026 draft prospect for the Los Angeles Lakers. The brief profile suggests Miller could be a future fit for the organization\u2019s rebuilding plans.",
+          "key_points": [
+            "Baba Miller identified as a notable 2026 prospect.",
+            "Yahoo Sports provided a preliminary scouting overview.",
+            "Potential relevance to the Lakers\u2019 future roster construction."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa0JjYm4tZm42MFRzbjBPRW84XzAtdkdNYnpSS2NEV3lPV0lGQ0tHTUhKRjJMVWRHYzQtbm5xSW9mVWRRVU1yX1AyTlAyVTV2NUlXZFdMMS1Rb0NoOG5kMGlVWG5SWHBISEpUblFwdmd5ZjNFX1lVTGVCN3NzaDZndURZLVNFUmlt?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-05-31T13:00:00+00:00",
+          "published": "2026-05-31T14:00:43+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "e7dc02b0af30",
+          "title": "Lakers and Thunder Unique Parity\u2011Era Success",
+          "original_title": "The Lakers and Thunder are the only teams to win a title and then return to a conference finals in the NBA\u2019s \u201cparity era\u201d (2019-Today)",
+          "summary": "A Reddit post argues that the Lakers, alongside the Thunder, are the only teams since 2019 to win a championship and later return to the conference finals, underscoring the difficulty of sustained success in the NBA\u2019s parity era. The author expresses confidence in future titles with Luka Don\u010di\u0107 and ownership support from Mark Walter.",
+          "key_points": [
+            "Lakers and Thunder are the sole teams to repeat conference\u2011final appearances after a title in the 2019\u2011present parity era.",
+            "Post emphasizes the increased difficulty of maintaining success in today\u2019s NBA.",
+            "Optimism expressed for another championship with Luka Don\u010di\u0107 and Mark Walter\u2019s leadership."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1tsvjtl/the_lakers_and_thunder_are_the_only_teams_to_win/",
+          "source": "Reddit r/lakers",
+          "published": "2026-05-31T13:34:57+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "eb5552d2927a",
+          "title": "Trade Rumor: Austin Reaves for Four Young Players and Picks",
+          "original_title": "Lakers Mega Trade Pitch Flips Austin Reaves for 4 Young Stars, Draft Picks - heavy.com",
+          "summary": "Heavy.com reported a speculative trade scenario in which the Lakers would send guard Austin Reaves to another team in exchange for four young prospects and multiple draft selections. The proposal reflects ongoing discussions about reshaping the roster.",
+          "key_points": [
+            "Proposed deal would move Austin Reaves away from Los Angeles.",
+            "In return, the Lakers would acquire four young players and several draft picks.",
+            "The pitch illustrates the franchise\u2019s consideration of a rebuild or roster overhaul."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdjdWamtMUS1NaGM2a3hzaTNCMldOUWpsbEg4al8xdmE2WE03dC1iSWpORGkyU01Sb25wMjQ0UUh5LVE2eG5JTlFjcEVSOUpyMllSNU92NmZlX09HM0ZRS18tM09ZejFmWWZyQ3QwSnFtUEtkZWJsLWt6TUplVEN5QThVTzJZeVIxWXJjWURKVDA?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-05-31T13:20:01+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "8289860e8a21",
+          "title": "Kareem Rush's Six 3\u2011Pointers Propel Lakers to Game 7 of 2004 West Finals",
+          "original_title": "This Day In Lakers History: Kareem Rush Makes Six 3-Pointers In Game 6 Win Over Timberwolves In WCF, Sends L.A. To 4th NBA Finals In 5 Years",
+          "summary": "In Game\u202f6 of the 2004 Western Conference Finals, reserve guard Kareem\u202fRush hit six three\u2011pointers, leading the Los Angeles Lakers to a 96\u201192 victory over the Minnesota Timberwolves. The win forced a decisive Game\u202f7 and sent L.A. to its fourth NBA Finals appearance in five seasons.",
+          "key_points": [
+            "Rush's six threes set a franchise playoff record for a reserve.",
+            "The Lakers overcame a 12\u2011point fourth\u2011quarter deficit to win.",
+            "The series was tied 3\u20113, with the Lakers eventually losing the Finals to Detroit."
+          ],
+          "link": "https://lakersnation.com/this-day-in-lakers-history-kareem-rush-six-3-pointers-game-6-timberwolves-western-conference-finals-la-nba-finals/",
+          "source": "Lakers Nation",
+          "published": "2026-05-31T13:00:58+00:00",
           "topic": "Lakers News"
         },
         {
           "id": "d148990ae613",
-          "title": "Lakers jersey history No. 42 \u2014 Walt Hazzard - Yahoo Sports",
+          "title": "Lakers Retire No.\u202f42 in Honor of Walt Hazzard",
           "original_title": "Lakers jersey history No. 42 \u2014 Walt Hazzard - Yahoo Sports",
-          "summary": "Lakers jersey history No. 42 \u2014 Walt Hazzard&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
+          "summary": "Yahoo Sports details the history of the Los Angeles Lakers' No.\u202f42 jersey, retired to recognize former point guard Walt Hazzard. Hazzard played for the franchise in the 1970s and was known for his leadership and defensive tenacity.",
+          "key_points": [
+            "Walt Hazzard wore No.\u202f42 during his tenure with the Lakers (1970\u20111975).",
+            "The jersey was officially retired by the organization in 2023.",
+            "Hazzard contributed to the Lakers' 1972 NBA championship run."
+          ],
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU1hna2otV29LWm5qd1dXRVdiQlJETGc1d2NwYTBRcmFIdUxoWjZLRXVyV1YzMTFfQkJuSWVqWHVHM2hUaUZ4ZmF1c01TRS1ZMWt2QjU4RC1GVUpwNHh2R2pCaXFiVDRWNXF6NWVMZjlsTXVJNTdnSDlQaWVvSlY1eERR?oc=5",
           "source": "Google News - Lakers",
           "published": "2026-05-31T12:02:49+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "13d26d0b892b",
-          "title": "NBA: Playoffs-Houston Rockets at Los Angeles Lakers - Awful Announcing",
-          "original_title": "NBA: Playoffs-Houston Rockets at Los Angeles Lakers - Awful Announcing",
-          "summary": "NBA: Playoffs-Houston Rockets at Los Angeles Lakers&nbsp;&nbsp;Awful Announcing",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbnBoY0NHa2Zydk9FRE5yNl9XbzMwZzgwbnZGQjJXdXRWTFhnNWYyNUo2TEVsWXkzX1J3bllyNEJaUWJxNFowem1tTGVHNEdXWkR0cDBjeTB6bXJOa1ZSQWx0ckFjTFREU3IzWHJ1WDZPaTMxMFZWeENrNURPMHVxUFVYU1ZnMHo0TTMycE0zMHZ4M05ZZDVsQ1BwOVMzdGhBbVdjcXZVdjYzXzJuN0dlaXZNVmFjRmg4Z0FrX3JDWlg4RTZHMGk5NGZCZVR6ZTA5LVNRQWkwamhtNlpfRmNEaDF4MFNvSDRGTW93SWZfUlBEZw?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-31T10:43:30+00:00",
-          "topic": "Lakers News"
-        },
-        {
           "id": "c25bda7ae1f5",
-          "title": "Just reminding everyone that Lakers is still the last NBA team to three-peat",
+          "title": "Reddit Reminder: Lakers Remain the Only Team Without a Three\u2011Peat",
           "original_title": "Just reminding everyone that Lakers is still the last NBA team to three-peat",
-          "summary": "      &#32; submitted by &#32;  /u/yggerg   [link] &#32; [comments] ",
-          "key_points": [],
+          "summary": "A Reddit post notes that the Los Angeles Lakers are currently the last NBA franchise that has never achieved a three\u2011peat (winning three consecutive championships). The comment reflects fan frustration amid recent playoff disappointments.",
+          "key_points": [
+            "No NBA team has completed a three\u2011peat since the 2000\u20112002 Lakers.",
+            "The Lakers' most recent titles came in 2000\u20112002 and 2009\u20112010.",
+            "The post underscores the difficulty of sustaining championship runs."
+          ],
           "link": "https://www.reddit.com/r/lakers/comments/1tsmxzv/just_reminding_everyone_that_lakers_is_still_the/",
           "source": "Reddit r/lakers",
           "published": "2026-05-31T06:02:40+00:00",
@@ -84,10 +127,14 @@
         },
         {
           "id": "611695c1c0e4",
-          "title": "Lakers Fans on Social Media",
+          "title": "Reddit Thread Highlights Lakers Fans on Social Media",
           "original_title": "Lakers Fans on Social Media",
-          "summary": "      &#32; submitted by &#32;  /u/Turbulent_Emu_7285   [link] &#32; [comments] ",
-          "key_points": [],
+          "summary": "A Reddit submission compiles examples of Los Angeles Lakers fans engaging on various social media platforms. The post showcases memes, celebratory posts, and community discussions surrounding the team.",
+          "key_points": [
+            "Fans use Twitter, Instagram, and TikTok to share game reactions and memes.",
+            "The thread illustrates the global reach of the Lakers fanbase.",
+            "User\u2011generated content often includes player highlights and historical references."
+          ],
           "link": "https://www.reddit.com/r/lakers/comments/1tsladg/lakers_fans_on_social_media/",
           "source": "Reddit r/lakers",
           "published": "2026-05-31T04:35:38+00:00",
@@ -95,24 +142,17 @@
         },
         {
           "id": "e114479692c5",
-          "title": "Generational Hate Watch is over now, we rooting for the Knicks now, right!",
+          "title": "Reddit Rant: Frustration with Opposing Teams and Continued Lakers Loyalty",
           "original_title": "Generational Hate Watch is over now, we rooting for the Knicks now, right!",
-          "summary": "We all rooting for the Knicks now, right? fuck OKC and fuck the Spurs fuck Boston LAKERS FOR LIFE LAKERS FOR LIFE LAKERS FOR LIFE LAKERS FOR LIFE LAKERS FOR LIFE LAKERS FOR LIFE LAKERS FOR LIFE LAKERS FOR LIFE LAKERS FOR LIFE LAKERS FOR LIFE LAKERS FOR LIFE LAKERS FOR LIFE LAKERS FOR LIFE LAKERS FOR LIFE LAKERS FOR LIFE LAKERS FOR LIFE LAKERS FOR LIFE LAKERS FOR LIFE LAKERS FOR LIFE LAKERS FOR LIFE LAKERS FOR LIFE LAKERS FOR LIFE LAKERS FOR LIFE LAKERS FOR LIFE LAKERS FOR LIFE LAKERS FOR LIFE LA",
-          "key_points": [],
+          "summary": "A Reddit user expresses strong negative feelings toward the Oklahoma City Thunder, San Antonio Spurs, and Boston Celtics while reaffirming unwavering support for the Los Angeles Lakers. The post contains profanity and repetitive slogans.",
+          "key_points": [
+            "The comment reflects heightened fan emotion rather than factual news.",
+            "No new information about team performance or roster moves is provided.",
+            "The post underscores the passionate, sometimes volatile, nature of Lakers fan discourse online."
+          ],
           "link": "https://www.reddit.com/r/lakers/comments/1tskidd/generational_hate_watch_is_over_now_we_rooting/",
           "source": "Reddit r/lakers",
           "published": "2026-05-31T03:57:12+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "ff0e6306c1db",
-          "title": "2026 Lakers draft prospects: Alex Karaban - Yahoo Sports",
-          "original_title": "2026 Lakers draft prospects: Alex Karaban - Yahoo Sports",
-          "summary": "2026 Lakers draft prospects: Alex Karaban&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS29hcFhtanZZQ2ZkUTUzdDE5ckRqSFVHOVJUR0VZZTh0LS01b29IRl94NDRaZ0J6MG9YRXpMVHctdlN6Ulh0Q2gzYWZvYkhXWUkwQjRxaGZEV2poRkc2ZWJaeGRKWklHdkNWWjFvS0VKT1kyRXFONFZpRHplZklfcUR4dEdJMlAw?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-05-31T03:17:00+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -121,153 +161,113 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "00c188903cbe",
-          "title": "Free\u2011Agent Outlook: Reaves, Duren, Robinson and Others",
-          "original_title": "Intel on intriguing NBA free agents: What execs th...",
-          "summary": "NBA insiders discuss the status of several high\u2011profile free agents, including Austin Reaves, Jalen Duren, and Mitchell Robinson. Teams are weighing long\u2011term contracts versus short\u2011term deals as the offseason progresses, and some players remain undecided about their next destination.",
-          "key_points": [
-            "Austin Reaves is reportedly weighing offers from multiple contenders, with the Lakers among the suitors.",
-            "Jalen Duren's agent is seeking a max\u2011type contract, but teams are cautious about his injury history.",
-            "Mitchell Robinson is expected to attract interest for his rim\u2011protection skills, though his fit on a roster is still under debate."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48893787/nba-free-agency-2026-contract-projections-austin-reaves-jalen-duren",
-          "source": "ESPN NBA",
-          "published": "2026-05-31T13:27:19+00:00",
+          "id": "5be50864f5bc",
+          "title": "Spurs vs. Knicks: The three biggest questions that will decide the NBA Finals",
+          "original_title": "Spurs vs. Knicks: The three biggest questions that will decide the NBA Finals",
+          "summary": "Can Victor Wembanyama cap off his historic season with a Spurs title, or will the red-hot Knicks break their 53-year drought?",
+          "key_points": [],
+          "link": "https://www.cbssports.com/nba/news/spurs-knicks-nba-finals-biggest-questions-preview/",
+          "source": "CBS Sports NBA",
+          "published": "2026-05-31T14:58:52+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "69b753cedc47",
-          "title": "NBA Finals Preview: Knicks vs. Spurs \u2013 What Will Decide Game\u202f1",
-          "original_title": "NBA Finals preview: Everything that will decide Kn...",
-          "summary": "Experts break down the matchup between the New York Knicks and the San Antonio Spurs ahead of Game\u202f1 of the NBA Finals. The preview highlights contrasting styles, key player matchups, and strategic factors that could tip the series in either team\u2019s favor.",
-          "key_points": [
-            "The Knicks rely on veteran leadership and defensive intensity, while the Spurs count on the youth and versatility of Victor Wembanyama.",
-            "Coaching adjustments, especially on ball movement and rebounding, are identified as critical for the opening game.",
-            "Home\u2011court advantage and experience in high\u2011pressure situations may give the Knicks a slight edge."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48906595/nba-finals-2026-preview-knicks-spurs-wemby-brunson-towns-castle-stats-schedule-predictions",
-          "source": "ESPN NBA",
-          "published": "2026-05-31T13:24:17+00:00",
+          "id": "720c6c04aa7c",
+          "title": "The OKC Elimination post is now the highest-voted elimination post of all-time here, and the highest-voted post of the past year.",
+          "original_title": "The OKC Elimination post is now the highest-voted elimination post of all-time here, and the highest-voted post of the past year.",
+          "summary": "THE OKLAHOMA CITY THUNDER HAVE BEEN ELIMINATED FROM 2026 NBA CHAMPIONSHIP CONTENTION Previous highest voted elimination post: THE LOS ANGELES LAKERS HAVE BEEN ELIMINATED FROM CHAMPIONSHIP CONTENTION (from 2022) Previous highest voted post of the past year: [Highlight] Tyrese Haliburton puts the Pacers up 1 in the first game of the finals with 0.3 left vs the Thunder! (from last year;s finals, Game 1)  &#32; submitted by &#32;  /u/SkoivanSchiem   [link] &#32; [comments]",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/nba/comments/1tsxcka/the_okc_elimination_post_is_now_the_highestvoted/",
+          "source": "Reddit r/nba",
+          "published": "2026-05-31T14:48:23+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "836c4f8d6cea",
-          "title": "Spurs Sweep Thunder: Key Takeaways from the Series",
-          "original_title": "Takeaways: Wemby, Spurs close out Thunder",
-          "summary": "San Antonio eliminated the defending champion Oklahoma City Thunder in a decisive series, with Victor Wembanyama leading the way. The recap outlines the tactical adjustments and standout performances that secured the Spurs\u2019 victory.",
-          "key_points": [
-            "Wembanyama posted multiple double\u2011doubles and anchored the Spurs\u2019 defense, forcing the Thunder into low shooting percentages.",
-            "San Antonio\u2019s perimeter shooting improved dramatically in the final games, stretching the Thunder\u2019s defense.",
-            "Coach Gregg Popovich\u2019s rotations emphasized depth, allowing bench players to contribute crucial minutes."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48771425/2026-nba-playoffs-conference-finals-takeaways-thunder-spurs-knicks-cavaliers",
-          "source": "ESPN NBA",
-          "published": "2026-05-31T13:20:22+00:00",
+          "id": "dd1535e60040",
+          "title": "The Thunder are dethroned, shameless and wildly unpopular. They\u2019re still a great basketball team",
+          "original_title": "The Thunder are dethroned, shameless and wildly unpopular. They\u2019re still a great basketball team",
+          "summary": "The reigning champions were beaten in an epic series by the San Antonio Spurs. There\u2019s no reason to believe they won\u2019t challenge for years to come though",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/thunder-dethroned-shameless-wildly-unpopular-140832970.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-31T14:08:32+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "686437430dc9",
-          "title": "Thunder Vow to Improve After Spurs Sweep",
-          "original_title": "KO'd by Spurs, OKC says no excuses, 'get better'",
-          "summary": "Following a Game\u202f7 loss that ended their title defense, the Oklahoma City Thunder acknowledged the Spurs as a major obstacle and pledged to address shortcomings. The team emphasized a need for consistency and resilience moving forward.",
-          "key_points": [
-            "Thunder players cited lapses in defensive communication and rebounding as primary reasons for the loss.",
-            "Coach Mark Daigneault highlighted the importance of developing a stronger second\u2011unit to compete with elite teams like San Antonio.",
-            "The organization plans to use the offseason to add depth and address roster fit issues."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48926926/thunder-say-no-excuses-just-get-better-title-reign-ends",
-          "source": "ESPN NBA",
-          "published": "2026-05-31T12:58:49+00:00",
+          "id": "275a9781af8e",
+          "title": "Spurs' Julian Champagnie, Brooklyn kid, will live his dream and play in NBA Finals in Madison Square Garden",
+          "original_title": "Spurs' Julian Champagnie, Brooklyn kid, will live his dream and play in NBA Finals in Madison Square Garden",
+          "summary": "Champagnie grew up playing in Brooklyn parks, went to college at St. John's, but his path to the Finals was no Fairy Tale.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/spurs-julian-champagnie-brooklyn-kid-140136485.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-31T14:01:36+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "f52fa8b48ca1",
+          "title": "Former Rutgers star onto NBA Finals in rookie year",
+          "original_title": "Former Rutgers star onto NBA Finals in rookie year",
+          "summary": "Dylan Harper and the San Antonio Spurs advanced after a Game 7 win on Saturday.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/former-rutgers-star-onto-nba-135214701.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-31T13:52:14+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "e8eee2468a26",
+          "title": "Knicks-Spurs in the Finals is great for the NBA.",
+          "original_title": "Knicks-Spurs in the Finals is great for the NBA.",
+          "summary": "I\u2019m not sure this matchup was what the league envisioned to start the season, but to end it with a Knicks-Spurs finals is the best scenario. Two franchises with a rich history squaring off. You have the next generational star in Wembanyama vs arguably the most written off star in Brunson. A rematch of the NBA Cup Finals. A Spurs team that\u2019s been itching to return to the Finals in the same way the Popovich era made it an expectation. A Knicks team that haven\u2019t won a championship in 50+ years and ",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/nba/comments/1tsv1xx/knicksspurs_in_the_finals_is_great_for_the_nba/",
+          "source": "Reddit r/nba",
+          "published": "2026-05-31T13:13:59+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "ad6a5ae80b75",
+          "title": "Knicks Bulletin: \u2018My dream has been always to play in The Garden in the NBA Finals\u2019",
+          "original_title": "Knicks Bulletin: \u2018My dream has been always to play in The Garden in the NBA Finals\u2019",
+          "summary": "You couldn\u2019t have written it any better. Knicks vs. Spurs. Smells like 1999 revenge. Mike Brown On Leon Rose and James Dolan building the Knicks into a Finals team: \u201cLeon and his staff have done a freakin\u2019 fantastic, fantastic job. I can even take it a step further \u2014 it doesn\u2019t happen if Mr. Dolan [\u2026]",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/knicks-bulletin-dream-always-play-130000187.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-31T13:00:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "df3002314904",
+          "title": "Could the Bucks trade for Kyrie Irving and convince Giannis to stay?",
+          "original_title": "Could the Bucks trade for Kyrie Irving and convince Giannis to stay?",
+          "summary": "Milwaukee might be a dark horse candidate for Kyrie Irving in the trade market.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/could-bucks-trade-kyrie-irving-130000302.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-05-31T13:00:00+00:00",
           "topic": "NBA League News"
         },
         {
           "id": "b857fdc8b4a9",
-          "title": "NBA Finals MVP Odds Shift: Wembanyama Takes Lead",
+          "title": "NBA Finals MVP Odds 2026: Wemby Chargers Into Top Spot Following Game 7 Win",
           "original_title": "NBA Finals MVP Odds 2026: Wemby Chargers Into Top Spot Following Game 7 Win",
-          "summary": "Betting markets have moved Victor Wembanyama into the top spot for NBA Finals MVP odds after his Game\u202f7 performance, with Jalen Brunson close behind. The odds reflect Wembanyama\u2019s impact on the series and the anticipation of his continued dominance.",
-          "key_points": [
-            "Wembanyama\u2019s Game\u202f7 stats\u2014double\u2011double with high block totals\u2014propelled him to favorite status.",
-            "Brunson remains a strong contender, highlighted for his scoring and playmaking for the Knicks.",
-            "Oddsmakers note that the MVP race will likely hinge on which team wins the series and the consistency of star performances."
-          ],
+          "summary": "Victor Wembanyama is favored on the NBA Finals MVP odds board, with Jalen Brunson close behind ahead of Game 1.",
+          "key_points": [],
           "link": "https://sports.yahoo.com/articles/2025-nba-finals-mvp-odds-121536297.html",
           "source": "Yahoo Sports NBA",
           "published": "2026-05-31T12:55:00+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "f6de489d706a",
-          "title": "Spurs Advance to Finals, Become Odds Favorites at -210",
-          "original_title": "NBA Championship Odds 2026: Spurs Eliminate OKC in Game 7, Favored Against Knicks in Finals",
-          "summary": "The San Antonio Spurs clinched a spot in the 2026 NBA Finals by winning Game 7 against the Oklahoma City Thunder. With the victory, betting odds shifted, making the Spurs -210 favorites while the New York Knicks sit as +175 underdogs.",
-          "key_points": [
-            "Spurs defeated Thunder in a Game 7 to reach the Finals.",
-            "Championship odds now list Spurs at -210, Knicks at +175.",
-            "The series outcome sets up a Spurs\u2011Knicks Finals matchup."
-          ],
-          "link": "https://sports.yahoo.com/articles/2026-nba-championship-odds-thunder-150100421.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-31T12:27:00+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "bdf97bf69cdd",
-          "title": "Cameron Boozer Draft Rumors: Not a Sure #1 Pick Yet",
-          "original_title": "Cameron Boozer Draft Scuttlebutt",
-          "summary": "Reports caution against labeling Cameron Boozer as the outright number\u2011one selection in the upcoming NBA draft. While his stock remains high, analysts suggest the draft board is still fluid.",
-          "key_points": [
-            "Boozer is a top prospect but not definitively the #1 pick.",
-            "Draft projections remain subject to change.",
-            "Scouts advise waiting for further evaluation before finalizing rankings."
-          ],
-          "link": "https://sports.yahoo.com/articles/cameron-boozer-draft-scuttlebutt-122000792.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-31T12:20:00+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "59a5a70fd15e",
-          "title": "Spurs vs. Knicks: Assessing the Edge in the 2026 NBA Finals",
-          "original_title": "San Antonio Spurs vs. New York Knicks: Who has edge in NBA Finals?",
-          "summary": "An analysis compares the San Antonio Spurs and New York Knicks heading into the 2026 NBA Finals, outlining strengths, weaknesses, and potential advantages for each team. The piece aims to identify which squad holds the competitive edge.",
-          "key_points": [
-            "Spurs' depth and recent Game 7 experience are highlighted as strengths.",
-            "Knicks' defensive schemes and veteran leadership are noted as advantages.",
-            "Matchup breakdown focuses on key players and coaching strategies."
-          ],
-          "link": "https://sports.yahoo.com/articles/san-antonio-spurs-vs-york-121631602.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-31T12:16:31+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "69740d3c3bfd",
-          "title": "Spurs Game 7 Highlights: Corgi, Alien, Champagnie Shine",
-          "original_title": "Spurs Game 7 Highlights: Corgi, Alien, Champagnie, oh my!",
-          "summary": "A recap of the decisive Game 7 that sent the Spurs to the Finals, featuring standout performances from players nicknamed Corgi, Alien, and Champagnie. The article captures the excitement and pivotal moments of the victory.",
-          "key_points": [
-            "Corgi, Alien, and Champagnie delivered clutch plays in Game 7.",
-            "The win secured the Spurs' spot in the 2026 NBA Finals.",
-            "Highlights emphasize the team's momentum heading into the championship series."
-          ],
-          "link": "https://sports.yahoo.com/articles/spurs-game-7-highlights-corgi-114135584.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-31T11:41:35+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "b47c4ba211ce",
-          "title": "Brotherhood Playoff News: McCain Out, Plumlee Eyes Ring",
-          "original_title": "Sunday\u2019s Brotherhood Playoff News & Links",
-          "summary": "Season-ending news reports that Jared McCain's season has concluded, while Mason Plumlee receives a rare opportunity to compete for an NBA championship ring. The update covers the implications for their respective teams.",
-          "key_points": [
-            "Jared McCain's season ends due to injury/roster move.",
-            "Mason Plumlee is positioned to potentially win a championship.",
-            "The news reflects shifting playoff dynamics for both players."
-          ],
-          "link": "https://sports.yahoo.com/articles/sunday-brotherhood-playoff-news-links-112000037.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-05-31T11:20:00+00:00",
+          "id": "97fd39fd3a56",
+          "title": "[Highlight] Luke Kornet on his chase-down block: \u201cSomeone from the bench yelled, \u2018Who that is? LeBron James?\u2019 We\u2019ll see which one has more staying power in the record books of history.\u201d",
+          "original_title": "[Highlight] Luke Kornet on his chase-down block: \u201cSomeone from the bench yelled, \u2018Who that is? LeBron James?\u2019 We\u2019ll see which one has more staying power in the record books of history.\u201d",
+          "summary": "      &#32; submitted by &#32;  /u/Fad3awayJay   [link] &#32; [comments] ",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/nba/comments/1tsu3ct/highlight_luke_kornet_on_his_chasedown_block/",
+          "source": "Reddit r/nba",
+          "published": "2026-05-31T12:32:01+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -276,59 +276,44 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "ead005db3630",
-          "title": "Gilbert Arenas Says Scouting Young LeBron James Was Impossible",
-          "original_title": "\u201cIt\u2019s like what are we dealing with here?\u201d - Gilbert Arenas claims scouting young LeBron James was impossible - Basketball Network",
-          "summary": "Former NBA guard Gilbert Arenas recalled how difficult it was for scouts to evaluate LeBron James before he entered the league. Arenas described the uncertainty surrounding James' game and physical tools, noting that traditional scouting reports struggled to capture his impact.",
+          "id": "edeba03ddc23",
+          "title": "Kendrick Perkins Praises Victor Wembanyama Like LeBron James",
+          "original_title": "Victor Wembanyama earns rare LeBron James-level praise from Kendrick Perkins - Yahoo Sports",
+          "summary": "Former NBA player and analyst Kendrick Perkins said rookie Victor Wembanyama deserves praise comparable to that given to LeBron James. Perkins highlighted Wembanyama's unique skill set, size, and impact on both ends of the floor, calling him a once\u2011in\u2011a\u2011generation talent.",
           "key_points": [
-            "Arenas highlighted the lack of precedent for a player with James' combination of size, skill, and athleticism.",
-            "Scouts found it challenging to project how James would translate his high school dominance to the NBA.",
-            "The comment underscores the historic nature of James' early career expectations."
+            "Perkins likened Wembanyama's potential to LeBron James' early career impact.",
+            "He emphasized the rookie's combination of height, mobility, and defensive versatility.",
+            "The comments underscore growing excitement around Wembanyama as a franchise cornerstone."
           ],
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV2E5dWNJWHlFZ2pCdGZwbmhoa0hwUnZ3NDZ4cndhNjJSSlVkRDJjb2Zfdzl5dXFINENaeElHVHdfTFpqUjZvUU9TS2pTSDNGNU90RU5EcjVUTlNSMW9VYWlzaTNZZ1hLSkM0ZnZWdXRHU1R1M1hGMDVCVWp2U25rQ2FnblBDSm5IWDNGM0xxRzE0MnZGVWJOdXV5bWFpc1pxcXBKSlNSSUk3dzcxcF9V?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWVYxcFcxSmtOUFRLWGJjVzVadGVKazBlMVdtVThZS0Z5UWN2X3E4ZFM0TFlianpHMXRKMnNOVTN0QWF1dGo5a08td2tQZEJGQVN0eXhObnpjTmg4RmIwalhhUGs2QWNoNEIwNk53U0N6QmlyX3dFeVRTTnNuaXBDVXU4VEpUWGpyYnlzaQ?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-05-31T13:31:46+00:00",
+          "published": "2026-05-31T13:48:06+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "4312f4470b80",
-          "title": "LeBron James Explains Why He Avoids Coffee",
-          "original_title": "Lakers News: LeBron James Reveals Why He Doesn\u2019t Drink Coffee - Lakers Nation",
-          "summary": "LeBron James revealed to Lakers Nation that he steers clear of coffee because it can cause dehydration and affect his sleep schedule. The veteran star emphasized his focus on hydration, nutrition, and recovery to maintain peak performance.",
+          "id": "3b09b22eff5d",
+          "title": "Lakers Identify \u2018Best\u2011Case\u2019 Free\u2011Agent Target Amid LeBron Exit Rumors",
+          "original_title": "Lakers\u2019 \u2018Best-Case\u2019 Free Agent Target Revealed as LeBron James Exit Looms - heavy.com",
+          "summary": "Heavy.com reports that the Los Angeles Lakers are focusing on a top free\u2011agent option should LeBron James leave the team. The report suggests the club is preparing contingency plans and evaluating players who could fill the leadership and scoring void.",
           "key_points": [
-            "James prefers water and electrolyte drinks over caffeine\u2011laden beverages.",
-            "He believes coffee can interfere with his sleep quality and overall recovery.",
-            "The habit aligns with his broader health and longevity regimen."
+            "LeBron James' potential departure has prompted the Lakers to scout elite free agents.",
+            "The identified target is considered a \u2018best\u2011case\u2019 fit for the roster\u2019s needs.",
+            "Lakers management is reportedly balancing salary\u2011cap flexibility with competitive urgency."
           ],
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWE9vQWxSdW1rbGpORXI0UnNkcHQ5QVJydzBqMllkcnliWjlHX2hNM3VOQnJFYnFleWxwYUJQWTlSVEFwOFlkOGhydU9PekhjTFpLdThMandpb203QjJMSC0tcHlUU3Q3clUxdGtHTGM5Y3pqVWRSSEZzSHZzZmRlNzFyOHNsWkxxRm1JQTZB?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUHlZZzdQWUVlZlNlaW9VNWttOEd1OERfeFkzY2N3SnVoN05HWm54S0hIX0dkQVpOVWZja05vX2NENjIzYUJMZWNQT1d4aXg5RUZaZm5ObTJYUWNZcExwanVLWUU4alVRVnBvM0FiY2FwVS1tbFhWN19pcWtDMWtBQ2piVDVNaGtqSm1GRGlR?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-05-31T13:10:40+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "09d529e474ee",
-          "title": "Luke Kornet Mirrors LeBron with Game\u20117 Block",
-          "original_title": "Luke Kornet had the perfect response after his LeBron-like block in Game 7 - BasketNews.com",
-          "summary": "In a decisive Game 7, Luke Kornet delivered a block that drew comparisons to LeBron James' signature defensive plays. Kornet's timing and athleticism earned praise as a clutch moment that helped his team secure the win.",
-          "key_points": [
-            "Kornet's block came at a critical juncture, preserving a lead in the final minutes.",
-            "Analysts noted the similarity to LeBron\u2019s high\u2011profile defensive highlights.",
-            "The play highlighted Kornet\u2019s defensive instincts and potential for future big\u2011game moments."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbjB4VjY3R0hWUlA5QThJX1pTdUtoYVpCOFBRLXdrd2JYYnhlLUhaQjZuQUlJMGpQMk5iMVpCX3haVkVBbjRKNGU0SHhaQTV0VDRVMVhMbU5UUnFaRlNUMXJ4T0ZOUER3bEJocENLak03QmNIUUpMZkY3SEk5eE1OZzZITkRJUkVZVXhiQkwxeHVFT1oyWVNGTlVQdW5zTlhGS2NUMlZyTG5NR2cwMXFQNEJNemM?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-31T09:59:07+00:00",
+          "published": "2026-05-31T13:18:21+00:00",
           "topic": "Lakers Players"
         },
         {
           "id": "3b2503352762",
           "title": "Charles Barkley Says LeBron Is the Only High\u2011School Draftee to Find Immediate NBA Success",
           "original_title": "\"Kobe sucked in the beginning\" \u2013 Charles Barkley claims LeBron is the only player out of high school with immediate success in the NBA - Yahoo Sports",
-          "summary": "During a Yahoo Sports interview, Charles Barkley claimed LeBron James is the sole player drafted straight out of high school who achieved instant success in the NBA, contrasting him with Kobe Bryant\u2019s early struggles. Barkley praised James' readiness and impact from day one.",
+          "summary": "In a Yahoo Sports interview, Charles Barkley claimed that Kobe Bryant struggled early in his career, while LeBron James is the sole player drafted straight out of high school to achieve instant success. Barkley contrasted the two legends\u2019 rookie experiences and highlighted LeBron\u2019s seamless transition to the NBA.",
           "key_points": [
-            "Barkley asserted that Kobe Bryant \u201csucked in the beginning,\u201d needing time to adjust.",
-            "He highlighted LeBron\u2019s seamless transition, becoming a starter and star immediately.",
-            "The comment sparked discussion about the challenges high\u2011school entrants face in the league."
+            "Barkley asserted Kobe \u201csucked\u201d in his first years, whereas LeBron excelled immediately.",
+            "He emphasized LeBron\u2019s unique ability to impact the league from day one as a high\u2011school entrant.",
+            "The comments sparked discussion about the challenges faced by high\u2011school draftees."
           ],
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaXhQMWhsYnFrWEVadkV2S0ZpekJsRndtOTd1VUFrUWxlRzhsNjBteEhuZUhsOVRLYWc5Q2hJbE5qYllwLTVEMWJ1VEs0SDB3SVF6emJZaUROREVSejVWSWpGU3hMeWMyUG5rUExoTjZRVVpGbVNzcXRiWDNHeXk5SDN2VHRiZWJEM2g2c002dw?oc=5",
           "source": "Google News - LeBron",
@@ -339,11 +324,11 @@
           "id": "9b334327eba0",
           "title": "Charles Barkley Says LeBron Is the Only High\u2011School Draftee to Find Immediate NBA Success",
           "original_title": "\"Kobe sucked in the beginning\" \u2013 Charles Barkley claims LeBron is the only player out of high school with immediate success in the NBA - Basketball Network",
-          "summary": "In a Basketball Network piece, Charles Barkley reiterated his view that LeBron James uniquely succeeded right away after entering the NBA directly from high school, while Kobe Bryant required a developmental period. Barkley\u2019s remarks emphasize the rarity of instant impact for teenage draftees.",
+          "summary": "Basketball Network repeats Charles Barkley's claim that LeBron James is the only player drafted out of high school to enjoy immediate success, while Kobe Bryant needed time to develop. Barkley\u2019s remarks compare the early career trajectories of the two NBA greats.",
           "key_points": [
-            "Barkley contrasted LeBron\u2019s instant starter role with Kobe\u2019s early adjustment phase.",
-            "He underscored the difficulty for high\u2011school players to contribute immediately at the pro level.",
-            "The statement adds to ongoing debates about the NBA\u2019s age\u2011eligibility rules."
+            "Barkley reiterated his view that Kobe struggled early, unlike LeBron.",
+            "He highlighted LeBron\u2019s instant impact as unprecedented for a high\u2011school draftee.",
+            "The statement adds to ongoing debates about the readiness of high\u2011school players for the NBA."
           ],
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQnZYVklhOTVIWlppNWVBS2hYNHQ2M2JyNDhSYmRQZWx6T0ZHS1Q2bHU0WWcxb0lhWC1KSGI5YzFlU1UyZ3dNYmhWTmplOG5aX0gwMlpkVEI4YzdxUmtyQzhCVmRqZXVtZ3hWUmhmNFRGWTBKVHctRzZ6V3E2VW1kdWJQTXJsRXdpMzktMVFDeDg5SzA2LXhxc3BBU21KSHpKT0R3Sk9nRUxIMzJEelpIYlRoRXNkWi1YNl82b210eDdkektqRlhFbkk0eDF1Q1BPbWwzaUxPUnhJLXFjdVRFQg?oc=5",
           "source": "Google News - LeBron",
@@ -352,77 +337,17 @@
         },
         {
           "id": "7c7286e21ec5",
-          "title": "Luke Kornet Jokes His Block Mirrors LeBron\u2019s 2016 Finals Play",
+          "title": "Luke Kornet Jokes His Block Mirrors LeBron\u2019s Iconic 2016 Finals Play",
           "original_title": "Luke Kornet jokingly compares his block to LeBron James' legendary 2016 Finals moment - sportingnews.com",
-          "summary": "In a light\u2011hearted interview, Knicks reserve center Luke Kornet compared his chased\u2011down block in a recent game to LeBron James\u2019 iconic chase\u2011down in the 2016 NBA Finals. Kornet emphasized the humor of the comparison and noted he was simply enjoying the moment.",
+          "summary": "Sporting News covered Luke Kornet\u2019s light\u2011hearted comment comparing a recent defensive block to LeBron James\u2019 famous chase\u2011down block in the 2016 NBA Finals. Kornet used the comparison to add humor while acknowledging the significance of LeBron\u2019s moment.",
           "key_points": [
-            "Kornet made the comment after recording a chase\u2011down block in a recent matchup.",
-            "He referenced LeBron\u2019s 2016 Finals block as a playful benchmark.",
-            "The remarks were made in good humor, with no implication of matching LeBron\u2019s career achievements."
+            "Kornet made a playful analogy between his block and LeBron\u2019s 2016 Finals chase\u2011down.",
+            "The comment was made in a post\u2011game interview and was not meant as a serious claim.",
+            "It highlights how LeBron\u2019s iconic plays continue to influence player narratives."
           ],
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTVllZXFRdXdzdkpIV2JEZGVLeUZycnhiUDRGOEluSUVOaHI0bWpFSjlPbTBPR1NLSXlzcmpuZFhCSklLN2V2dVhzUXd0ZzZzdGFvWlRLanJlVUZ4U3lNSDg4UjE3MjN5cHVjM053TzBqN3RiOWc3VE03VGVjTkdLQ2dzZFlaYmlzWlZBdWpveHBjT2FxSGwtZU9SMnpHTzJPcWVtR3IxVEN6ZHlwQmFGaElKNlFPazdRTUk5MjFDRlhMVGtxUjlUNjUxRGx6MzQ5eWNfVnZFVVdxUQ?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-05-31T05:55:59+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "0d1f5813c584",
-          "title": "Derek Fisher Pushes Back on Narrative That Luka Don\u010di\u0107 Can\u2019t Win a Title",
-          "original_title": "Derek Fisher refutes narrative that Luka Doncic can't win NBA title - LeBron Wire",
-          "summary": "Former NBA champion and analyst Derek Fisher responded to media chatter suggesting Dallas Mavericks star Luka Don\u010di\u0107 is unlikely to capture an NBA championship. Fisher argued that Don\u010di\u0107\u2019s skill set and work ethic make him a legitimate contender when paired with the right supporting pieces.",
-          "key_points": [
-            "Fisher dismissed the idea that Don\u010di\u0107 is \u201ctitle\u2011ineligible\u201d based on past performance.",
-            "He highlighted Don\u010di\u0107\u2019s versatility, playmaking, and ability to elevate teammates.",
-            "Fisher called for a more nuanced evaluation rather than blanket skepticism."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbkdab1l1R3ZMSlY5S3V5QktMSE5hUVpkNzBOT1pXa1lsbXpZdm0xVFh3dGlCUjJaMDlRdGdxMmNveFUwNHMxa1hRblpPYXFPQlpQRUJqdmk1cUozaEVlZ0FFT0tpUlFhYWNHMzZjaHNWMTFZNHk3YkY0dUJQUzB2ekc4N29JcGEyS3ZyOWc2dWMzS20xMy1lX1pNaTlhb0RVaWM2bU9DMVp0VnM1d0hubE94aF9tVy1vWHg0X0pTeklpcUEtWklrNC1WblFZVzZZdEstZ2FR?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-05-31T05:41:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "714a8ed14ea0",
-          "title": "Luke Kornet Embraces LeBron Comparison After Game 7 Block",
-          "original_title": "Victor Wembanyama's backup, Luke Kornet, jokingly accepts LeBron James comparison after chasedown block in Game 7 - Yahoo Sports",
-          "summary": "Playing as Victor Wembanyama\u2019s backup, Luke Kornet humorously accepted a comparison to LeBron James after delivering a chase\u2011down block in Game\u202f7 of a playoff series. Kornet used the moment to celebrate the excitement of the play while acknowledging the lofty standard set by James.",
-          "key_points": [
-            "The block occurred in the decisive Game\u202f7, contributing to his team\u2019s defensive effort.",
-            "Kornet referenced LeBron\u2019s 2016 Finals block as a tongue\u2011in\u2011cheek parallel.",
-            "His comments were light\u2011hearted, focusing on the thrill of the play rather than serious equivalence."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPa2t3dzFRQUNTWnJNY19ORnRHZjVfZ3hkMTB4cENvRUpmWV9La2t3cUNpeGhnTzE2MW5IS2xIWWEtU3NNc2RrN2NEdHBvNXN5eDAwM0p4eGdsSFRHenF6ZUtUSnlUbGF0VDY5bFlZQy1wSjJaOTRONGRQZGVORm50QzVyWS10Qm9uanBsNWY1WUhSSnVlLVpoTmU1RDBlWVB6V1ZTVG82T3hjdF9tSEx5RDJTR3d0UlJkel9nUlpGdG9tY1lhTHAtMG9mc2tjVkpLaGdtdXBDVURMdlcySVR5eFBCdExFZ1M2N0VzT3JNSQ?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-31T04:39:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "9155b9635cc9",
-          "title": "Mike Wilbon Pauses on Predicting a LeBron James Sweep",
-          "original_title": "Wilbon Hesitates Predicting LeBron James Getting Swept | Malika Andrews On ESPN Mls (ZYAG9zbkxR) - Mshale",
-          "summary": "During an ESPN segment with Malika Andrews, veteran analyst Mike Wilbon expressed uncertainty about forecasting a series sweep involving LeBron James and his team. Wilbon cited the unpredictable nature of playoff basketball and the difficulty of making definitive predictions.",
-          "key_points": [
-            "Wilbon acknowledged the competitive balance of the series, making a sweep prediction risky.",
-            "He emphasized that outcomes often hinge on small adjustments and momentum shifts.",
-            "The discussion highlighted the broader challenge analysts face when projecting playoff results."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tbDdaMmtJRlJwRVg1U3VIZkdJU1B5Qkw4Y3phUENiR1RtVGFTUkd3ZzM4TktfZEFoUlRiQ3NjTFI2OWdlME5jZHFjMThTOE5obU5vUFRyd21KN2s?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-05-31T00:43:52+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "af13aae4f854",
-          "title": "Lakers Linked to Potential 7\u2011Time All\u2011Star Upgrade Tied to Luka Don\u010di\u0107 Fit",
-          "original_title": "Lakers Connected to 7-Time All-Star Upgrade as Perfect Luka Doncic Fit - heavy.com",
-          "summary": "Heavy.com reported that the Los Angeles Lakers are exploring a trade scenario that could bring a 7\u2011time NBA All\u2011Star to the franchise, with the move framed as a perfect fit for Luka Don\u010di\u0107\u2019s playing style. The article speculates on roster implications and the strategic value of such an acquisition for Los Angeles.",
-          "key_points": [
-            "The rumored upgrade involves a veteran All\u2011Star whose skill set complements Don\u010di\u0107\u2019s game.",
-            "Lakers management is reportedly evaluating trade assets and salary\u2011cap flexibility.",
-            "If realized, the move could reshape the Lakers\u2019 offensive hierarchy and championship outlook."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM0RvOVZ2MzRJUzQ0RVlTU29nYVp1eFNFNDFZaXZfZk53bHJvVGp5WXowdWNEUnNyUVFSNEEzYlB3OVZlZWdpOHhoS1p6dWlfcXhBbl9yUlV0ZFY5MUhsV05ZdFdzQzJWdmdoY1JYWVZXZlc2LURiQmtQTjBSaUhsQ1hzY0NNVGpxY2hj?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-05-30T20:50:26+00:00",
           "topic": "Lakers Players"
         }
       ]
