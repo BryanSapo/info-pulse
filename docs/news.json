@@ -1,38 +1,110 @@
 {
-  "generated_at": "2026-06-02T04:13:13.656453+00:00",
-  "total_articles": 30,
+  "generated_at": "2026-06-02T10:30:16.021591+00:00",
+  "total_articles": 25,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
+          "id": "d1d2266de74a",
+          "title": "Spoiler: Visual Mock\u2011up of a 2027 NBA Finals Court",
+          "original_title": "[Spoiler] The 2027 NBA Finals Court.",
+          "summary": "A Reddit user posted a speculative illustration of what the NBA Finals court might look like in 2027. The image is shared as a spoiler, with no accompanying analysis or official confirmation.",
+          "key_points": [
+            "Created by Reddit user /u/The_Chozen_1 and posted in r/lakers.",
+            "Purely speculative artwork; no indication of actual league plans.",
+            "Generated discussion among fans about future court designs."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1tulc72/spoiler_the_2027_nba_finals_court/",
+          "source": "Reddit r/lakers",
+          "published": "2026-06-02T09:05:01+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "4adac7990242",
+          "title": "Report: Lakers Assistant GM Candidate Likely to Remain with 76ers",
+          "original_title": "Report: Lakers assistant GM candidate expected to stay put with 76ers - Yahoo Sports",
+          "summary": "Yahoo Sports reports that a leading candidate for the Los Angeles Lakers' assistant general manager position is expected to stay with the Philadelphia 76ers. The report suggests the Lakers will continue their current front\u2011office search while the candidate remains in Philadelphia.",
+          "key_points": [
+            "Candidate is a current 76ers staff member, not yet confirmed for Lakers.",
+            "Lakers will need to explore other options for the assistant GM role.",
+            "The news reflects ongoing front\u2011office turnover in the NBA."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZlNMcEp5c01vTS1OTUhPQUo5NHVaa0ZJbC1ZZ19xajZYSDAtYTE3LTRHVkduZ3JRTTNrbjl6cmplYzJDeUlOU1BSWTdvcDF6NnZ0bk9kTURHMEtOMnFaelB5clJXb1dXcU5ZcGlSaHVGcS1vSDI0RUNsd21uUlltR1R1aVY5bXVKbDZBNUR3?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-06-02T07:58:13+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "f21292e388f2",
+          "title": "Updated List of Players Who Attended Lakers Draft Workouts",
+          "original_title": "Laker Draft Workout",
+          "summary": "Reddit user /u/Successful-Pair-4850 posted an updated roster of prospects who have participated in the Los Angeles Lakers' draft workouts. The list includes notable names such as Zuby Ejiofor, Alex Karaban, and Baba Miller, with most participants projected as late\u2011round picks or unranked.",
+          "key_points": [
+            "Highlights three higher\u2011profile prospects: Zuby Ejiofor, Alex Karaban, Baba Miller.",
+            "Majority of workout participants are considered low\u2011risk, late\u2011round candidates.",
+            "Provides fans a snapshot of the talent pool the Lakers are evaluating ahead of the draft."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1tujzyj/laker_draft_workout/",
+          "source": "Reddit r/lakers",
+          "published": "2026-06-02T07:48:54+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "1fb9c9961750",
+          "title": "Jarred Vanderbilt Shares Graphic Images of Finger Injury",
+          "original_title": "Trigger Warning: Jarred Vando\u2019s finger injury!!",
+          "summary": "A Reddit post shares a series of personal photos posted by Lakers forward Jarred Vanderbilt showing a severe finger injury. Vanderbilt expressed frustration over the injury but indicated his intent to return to professional play.",
+          "key_points": [
+            "Vanderbilt posted images of a snapped finger with exposed tissue on his Instagram \"finsta\".",
+            "He voiced concerns about recovery time but remains determined to play.",
+            "The post sparked discussion among fans about injury management and roster impact."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1tuhlrk/trigger_warning_jarred_vandos_finger_injury/",
+          "source": "Reddit r/lakers",
+          "published": "2026-06-02T05:37:18+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "1b9393638274",
+          "title": "Fans Discuss Potential Off\u2011Season Moves for the Lakers",
+          "original_title": "Off seasons moves this summer",
+          "summary": "A Reddit thread invites users to share ideas, hopes, and suggestions for the Los Angeles Lakers' off\u2011season roster moves. Participants note the team's fourth\u2011place finish in the West despite a perceived weak roster and emphasize the need for defensive upgrades.",
+          "key_points": [
+            "Community seeks suggestions to transform the Lakers into a true championship contender.",
+            "Defensive improvements are repeatedly highlighted as a priority.",
+            "The discussion reflects fan expectations for aggressive free\u2011agency and trade activity."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1tugh30/off_seasons_moves_this_summer/",
+          "source": "Reddit r/lakers",
+          "published": "2026-06-02T04:39:40+00:00",
+          "topic": "Lakers News"
+        },
+        {
           "id": "880a4d34e8c4",
-          "title": "LA Lakers get unfortunate update on important trade target - BasketNews.com",
+          "title": "Lakers Receive Unfortunate Update on Key Trade Target",
           "original_title": "LA Lakers get unfortunate update on important trade target - BasketNews.com",
-          "summary": "LA Lakers get unfortunate update on important trade target&nbsp;&nbsp;BasketNews.com",
-          "key_points": [],
+          "summary": "The Los Angeles Lakers were informed that a high\u2011priority trade target is no longer available, complicating their roster\u2011building plans ahead of the upcoming season. The news was reported by BasketNews.com and underscores the difficulty of acquiring impact players in the current market.",
+          "key_points": [
+            "The trade target the Lakers were pursuing has become unavailable.",
+            "The setback limits the team's options for immediate roster upgrades.",
+            "Lakers must explore alternative moves before the free\u2011agency period begins."
+          ],
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQXJFTF9adm9lWGlSdndZWlFpMmRxYVBVY2xuV0YtNHFDT0dmaUJzU245OWR6cEFkVWJHb1oxY3ZORTJHbjIwSGprenhuTThlSzN5U19uMURXV0JHcE12UmZjZGZGRGlaT2dzOGRaRXJiX2FWN0ZNMzFHbk5oejMwSHQ0NWxsNmNWSjl4T2pxV3dnekk0RC1oNTNVQ1oxbGs?oc=5",
           "source": "Google News - Lakers",
           "published": "2026-06-02T01:54:00+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "be1723c1dcae",
-          "title": "Lakers Prioritizing Re-Signing Austin Reaves Over LeBron James, Says Insider - Yahoo Sports",
-          "original_title": "Lakers Prioritizing Re-Signing Austin Reaves Over LeBron James, Says Insider - Yahoo Sports",
-          "summary": "Lakers Prioritizing Re-Signing Austin Reaves Over LeBron James, Says Insider&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObERCQ0RVcjM5UUJOVUY4R1FCQkZIMFducDdzZFEyTlpiSjZyckxCNjhDbGl5em8tY042TU9aRC1DMjhXaFBIUndVTjhib3ItYnlhdnFoN3F6ZWZ2N3ZqZDFhS0QzaG9idk9LYkRPdmtFb3NJQ015eW5leUNKNURhSXVXS20yd1VLd3l6bkR6UWpMUkQ5?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-06-02T01:27:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
           "id": "f41b4d792cd6",
-          "title": "This is just too GOATED",
+          "title": "Reddit Fans Call for Return of Classic Purple\u2011Gold Lakers Jersey",
           "original_title": "This is just too GOATED",
-          "summary": "      We really had a LEGIT purple jersey back then.  The gold on the side of the jersey is a million times better than this black shit they have.  The FINALS TROPHY PATCH is way better than what we have now starting 2010 until 2014 (front). 2015-2026 which is placed in the back.  BRING IT BACK to the front of the jersey.   &#32; submitted by &#32;  /u/greatfallofchina   [link] &#32; [comments] ",
-          "key_points": [],
+          "summary": "Members of the r/lakers community expressed strong nostalgia for the team's historic purple jersey with gold side panels, arguing it outshines the current black alternate uniform. They also praised the original Finals trophy patch design used from 2010\u20112014 and urged the organization to bring it back.",
+          "key_points": [
+            "Fans prefer the classic purple\u2011gold jersey over the newer black design.",
+            "The older Finals trophy patch (2010\u20112014) is highlighted as superior.",
+            "A call to action for the Lakers to reintroduce the retro jersey."
+          ],
           "link": "https://www.reddit.com/r/lakers/comments/1tuc1r3/this_is_just_too_goated/",
           "source": "Reddit r/lakers",
           "published": "2026-06-02T01:14:21+00:00",
@@ -40,99 +112,47 @@
         },
         {
           "id": "081bf0bbb9a4",
-          "title": "Lakers Mailbag: Heading into the offseason",
+          "title": "Lakers Mailbag: Offseason Outlook as Draft Approaches",
           "original_title": "Lakers Mailbag: Heading into the offseason",
-          "summary": "While the Finals are set to start this week between the Spurs and Knicks, the Lakers are firmly into their offseason. It\u2019ll be an important one, kicking off with the NBA Draft at the end of June. After that, the franchise will head into one of the most important offseasons in recent memory as they [&#8230;]",
-          "key_points": [],
+          "summary": "Silver Screen and Roll outlines the Los Angeles Lakers' offseason priorities, noting that while the NBA Finals begin, the Lakers are already focused on the June draft and subsequent roster moves. The piece emphasizes that this could be one of the franchise's most pivotal offseasons in recent years.",
+          "key_points": [
+            "The Lakers' offseason will kick off with the NBA Draft at the end of June.",
+            "Management faces critical decisions on roster construction and coaching direction.",
+            "The upcoming period is described as one of the most important in recent Lakers history."
+          ],
           "link": "https://www.silverscreenandroll.com/lakers-game-previews/118329/lakers-mailbag-2026-nba-draft-offseason-free-agency-wnba",
           "source": "Silver Screen and Roll",
           "published": "2026-06-02T01:13:48+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "8a3fc19e0091",
-          "title": "Lakers Mailbag: Heading into the offseason - Yahoo Sports",
-          "original_title": "Lakers Mailbag: Heading into the offseason - Yahoo Sports",
-          "summary": "Lakers Mailbag: Heading into the offseason&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaXlsWm81dEJXeEdpMUlTd1lCNFR2U2RzRkx3a3QxSi1MdXZyS0F3RHdPeWxxbmVGaXpuZmVCMlNKRWdYbGNXY1RJMVpib3JfR2dnNUFUanV1Rm40cEd4SE5vUW9OSmRJN3hkT29YaW9hdF9fNmxlZUZpa0NUSkNlUF9OMGNwU3Iy?oc=5",
+          "id": "49b658b2b78a",
+          "title": "LaVar Ball Criticizes Lakers Coach Luke Walton",
+          "original_title": "LaVar Ball critical of Los Angeles Lakers coach Luke Walton - NBA.com",
+          "summary": "NBA.com reports that LaVar Ball publicly criticized Los Angeles Lakers head coach Luke Walton, questioning his coaching decisions and team performance. The comments add external pressure to a franchise already navigating a challenging season.",
+          "key_points": [
+            "LaVar Ball voiced disapproval of Luke Walton's coaching.",
+            "Criticism focused on team performance and strategic choices.",
+            "The remarks increase media scrutiny on the Lakers' coaching staff."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSnZickcwSEVFeE5SSThEMHBoQ1VCVm5wQVVXUDQwMlZ2aTcwb1lJaWgyU19TVTFrNjBLVXp5M3ZqY29vOG9vWExQY3pJNmwxUVJ2OHl5c3E4Smw1d1lkS0pIeFVtd3FvRVZMdEg1UFF2M2owSmc2MmVvNzlKMy1WLQ?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-06-02T01:13:00+00:00",
+          "published": "2026-06-02T00:30:07+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "036a6b712182",
-          "title": "Morey\u2019s 2009 Take on Kobe and Battier",
-          "original_title": "Daryl Morey in 2009: \"The Lakers' offense should obviously be better with Kobe in. But if Shane Battier is on him, it isn't.\" Kobe Bryant takes it personally:",
-          "summary": "In a 2009 interview, former Houston Rockets GM Daryl Morey said the Lakers' offense should improve with Kobe Bryant on the floor, but added that it would suffer if Shane Battier was defending him. Kobe reportedly took the comment personally at the time.",
+          "id": "063ffb9a9325",
+          "title": "Reddit Query: Identifying Player #34 from 1985 Lakers Championship Photo",
+          "original_title": "1985 LA Lakers",
+          "summary": "A Reddit user on r/lakers asked the community to identify the player wearing jersey number 34 in a 1985 championship team photo. The post seeks historical clarification from fans and historians.",
           "key_points": [
-            "Morey praised Kobe\u2019s offensive impact but criticized Battier\u2019s defensive matchup.",
-            "The remark highlighted early tensions between Kobe and Battier.",
-            "Kobe\u2019s reaction was noted as taking the criticism to heart."
+            "User requests identification of player #34 in a 1985 title\u2011winning photo.",
+            "The question highlights ongoing fan interest in Lakers history.",
+            "Community members are invited to provide the player's name."
           ],
-          "link": "https://www.reddit.com/r/lakers/comments/1tu9nu9/daryl_morey_in_2009_the_lakers_offense_should/",
+          "link": "https://www.reddit.com/r/lakers/comments/1tu9wyc/1985_la_lakers/",
           "source": "Reddit r/lakers",
-          "published": "2026-06-01T23:32:07+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "2aa531958a89",
-          "title": "Kobe Bryant\u2019s First 40\u2011Point Game Comes at Age 21",
-          "original_title": "21 year old Kobe Bryant with his first career 40 point game on 15/24 FG against the Sacramento Kings. Kobe would end up with 40 points 10 rebounds and 8 assists. Lakers won 109-106",
-          "summary": "A 21\u2011year\u2011old Kobe Bryant recorded his first career 40\u2011point performance, shooting 15\u2011for\u201124 against the Sacramento Kings. He finished with 40 points, 10 rebounds and 8 assists, leading the Lakers to a 109\u2011106 victory.",
-          "key_points": [
-            "Kobe\u2019s line: 40 points, 10 rebounds, 8 assists.",
-            "Shooting efficiency: 15\u2011of\u201124 field goals.",
-            "Result: Lakers edged the Kings 109\u2011106."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1tu9d8i/21_year_old_kobe_bryant_with_his_first_career_40/",
-          "source": "Reddit r/lakers",
-          "published": "2026-06-01T23:19:39+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "5d934c160f76",
-          "title": "Lakers Target $239\u202fMillion All\u2011NBA Center Amid LeBron Rumors",
-          "original_title": "Lakers Eye $239 Million All-NBA Center as LeBron James Exit Rumors Grow - heavy.com",
-          "summary": "According to Heavy.com, the Los Angeles Lakers are reportedly exploring a trade for an All\u2011NBA center whose contract totals $239\u202fmillion, as speculation grows about LeBron James possibly leaving the team.",
-          "key_points": [
-            "Potential acquisition: an All\u2011NBA center with a $239\u202fM contract.",
-            "Interest is linked to increasing rumors of LeBron James\u2019 exit.",
-            "The move would represent a major financial and roster commitment."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdk1ER3J0NDVqSmxaMllzVm5aQ2RSV2FkU1pqYXEwTUhaOTctTENwZXZhaFNTUEFCeEtsMzc4cHRNc1A5RHJtTHRNc2Y1TW9VVDl4RE5NUDY1dEdQODhPNnZQVXJlNDVRV2taX0VIZVNKY0ExQUloSWJ1QThLWERsLTZqMHlDOHczZlY0?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-06-01T22:01:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "fb7fcb982c15",
-          "title": "NBA Executive Calls Lu Dort a \u2018Must\u2011Have\u2019 for Lakers",
-          "original_title": "NBA exec says Lakers need to steal Lu Dort if possible: \u2018He\u2019s a must-have\u2019 - Lakers Daily",
-          "summary": "A Lakers\u2011affiliated NBA executive told Lakers Daily that acquiring guard Lu Dort should be a priority, describing him as a \u201cmust\u2011have\u201d player for the franchise\u2019s roster improvement.",
-          "key_points": [
-            "Lu Dort is identified as a high\u2011priority target.",
-            "The executive emphasizes Dort\u2019s defensive versatility.",
-            "Acquisition would likely require a trade or free\u2011agency effort."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTy11UTl0OVBKRldhTUstUHI0MGVuV0ROUFc5UzZBbEEya0E5WEllS2J2RGVaQUZJUWlHaDc1SEJ5S2F1VmNNQThUaGt5Z0ZFWEpUODZNX3JXcTVhak51UWVtaWhCTFNoNTN0NlJMN1ZsOHhnaWo1Wkd3M0dCVjZhRG5HXzdpU2VBNXBfWGNyakxpYV9WRGl3UmUwbw?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-06-01T20:53:07+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "3abecbaa1579",
-          "title": "Another Top Lakers Target Falls Off the Radar",
-          "original_title": "Lakers Get More Bad News as Another Top Target Slips Away - heavy.com",
-          "summary": "Heavy.com reports that a second major free\u2011agent or trade target for the Los Angeles Lakers has slipped away, adding to the team\u2019s recent roster\u2011building setbacks.",
-          "key_points": [
-            "A previously pursued high\u2011profile player is no longer available.",
-            "The setback follows other recent missed acquisitions.",
-            "Lakers must reassess their offseason strategy."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTHhIdURvQ190dXUtS295SVBYNXg5RVRVdmtGdE5QaVR2WENpeU1DS2UxdVFYQW9LLTRCY2dxMXRkTnh0cWlXWHVOTmJueGZWUUlLR01nWVhZNVl3VElGdTBDWDdXZkItTldiclRwcGtnSWt1aWVkdVdhQ1hBcW5tZWxNZS1xczlKazNLMQ?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-06-01T20:47:32+00:00",
+          "published": "2026-06-01T23:43:01+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -141,153 +161,113 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "3b3f0d8f7238",
-          "title": "Milan Momcilovic Commits to Kentucky After NBA Draft Withdrawal",
-          "original_title": "Sharpshooter Milan Mimcilovic commits to Kentucky after pulling out of NBA draft",
-          "summary": "Former Iowa State sharpshooter Milan Momcilovic announced on Instagram that he will join the Kentucky Wildcats, ending his brief stint on the NBA draft board. The 6\u2011foot\u20118 forward becomes a marquee addition for coach Mark Pope in the transfer portal.",
-          "key_points": [
-            "Momcilovic withdrew from the NBA draft less than a week before committing to Kentucky.",
-            "He is considered one of the top players available in this year's transfer portal.",
-            "His addition gives Kentucky a versatile scorer and improves Pope\u2019s recruiting momentum."
-          ],
-          "link": "https://sports.yahoo.com/articles/sharpshooter-milan-mimcilovic-commits-kentucky-025342643.html",
+          "id": "ff16871a8e30",
+          "title": "Have Spurs exceeded expectations? Young squad more than just Wembanyama",
+          "original_title": "Have Spurs exceeded expectations? Young squad more than just Wembanyama",
+          "summary": "Just four wins away from an NBA title, the young San Antonio Spurs are on the cusp of recasting the balance of power in the league.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/spurs-exceeded-expectations-young-squad-100657532.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-06-02T02:53:42+00:00",
+          "published": "2026-06-02T10:06:57+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "47a48d2354b4",
-          "title": "Kentucky Lands Transfer Milan Momcilovic, Mark Pope Scores Portal Win",
-          "original_title": "No. 1 transfer Milan Momcilovic picks Kentucky, gives Mark Pope big portal win",
-          "summary": "After a series of high\u2011profile portal moves, Kentucky secured Milan Momcilovic, a highly regarded forward from Iowa State. The acquisition is viewed as a major win for coach Mark Pope as the Wildcats aim to bolster their roster for the upcoming season.",
-          "key_points": [
-            "Momcilovic\u2019s transfer follows several other notable portal moves this offseason.",
-            "His skill set adds depth at forward and shooting ability for Kentucky.",
-            "The move is praised as a significant recruiting victory for coach Pope."
-          ],
-          "link": "https://sports.yahoo.com/articles/no-1-transfer-milan-momcilovic-023318681.html",
+          "id": "1f961ee79520",
+          "title": "Knicks legend Jeremy Lin joining ESPN's NBA Finals coverage team | Exclusive",
+          "original_title": "Knicks legend Jeremy Lin joining ESPN's NBA Finals coverage team | Exclusive",
+          "summary": "Jeremy Lin, the player responsible for perhaps the NBA\u2019s most potent cultural phenomenon, is stepping into a new broadcast role with ESPN.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/knicks-legend-jeremy-lin-joining-100529519.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-06-02T02:33:18+00:00",
+          "published": "2026-06-02T10:05:29+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "0661ebdff1b4",
-          "title": "Five Things the Knicks Must Do to Beat the Spurs in the 2026 NBA Finals",
-          "original_title": "Five Things the Knicks Must Do Well to Beat the Spurs in the NBA Finals",
-          "summary": "Jason Logan outlines the critical areas the New York Knicks need to excel in to overcome the San Antonio Spurs in the upcoming NBA Finals. The analysis highlights strategic adjustments and performance benchmarks required for a successful series.",
-          "key_points": [
-            "Emphasizes defensive consistency and limiting the Spurs\u2019 ball movement.",
-            "Calls for improved three\u2011point shooting and rebounding from the Knicks.",
-            "Stresses the importance of veteran leadership and bench production."
-          ],
-          "link": "https://sports.yahoo.com/articles/five-things-knicks-must-well-184400469.html",
+          "id": "2c1fcede560d",
+          "title": "NBA mock draft: BYU's Dybantsa headlines top tier with Kansas' Peterson, Duke's Boozer, UNC's Wilson",
+          "original_title": "NBA mock draft: BYU's Dybantsa headlines top tier with Kansas' Peterson, Duke's Boozer, UNC's Wilson",
+          "summary": "There\u2019s a clear top tier of one-and-done prospects in this month\u2019s NBA draft.BYU\u2019s AJ Dybantsa was widely discussed as the No. 1 pick before becoming a first-team Associated Press All-American. His top challenger for the overall top selection is Kansas combo guard Darryn Peterson, followed by Tobacco Road forwards Cameron Boozer of Duke and Caleb Wilson of North Carolina.The first pivot point is seemingly set for No. 5 with a wave of one-and-done guards.With the first round set for June 23, the ",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/nba-mock-draft-byus-dybantsa-074318321.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-06-02T02:12:00+00:00",
+          "published": "2026-06-02T07:43:18+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "9105b76de8a8",
-          "title": "Hall of Fame Coach Rick Adelman Dies at 79",
-          "original_title": "Hall of Fame basketball coach Rick Adelman dies at 79: 'A brilliant strategist'",
-          "summary": "Rick Adelman, a Hall of Fame coach known for his strategic brilliance, passed away at age 79. He finished his career with 1,042 regular\u2011season wins, ranking 10th all\u2011time, and was inducted into the Hall of Fame in 2021.",
-          "key_points": [
-            "Adelman amassed 1,042 regular\u2011season victories, the 10th most in NBA history.",
-            "Inducted into the Naismith Memorial Basketball Hall of Fame in 2021.",
-            "Remembered for his innovative offensive schemes and player development."
-          ],
-          "link": "https://www.cbssports.com/nba/news/rick-adelman-dies-at-79/",
-          "source": "CBS Sports NBA",
-          "published": "2026-06-02T01:47:51+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "f1be67f55440",
-          "title": "Lakers Mailbag: Key Questions Heading Into the Offseason",
-          "original_title": "Lakers Mailbag: Heading into the offseason",
-          "summary": "A Q&A style roundup addresses the most pressing issues facing the Los Angeles Lakers as they approach the 2024\u201125 offseason. Topics include roster moves, salary\u2011cap strategy, and the team\u2019s direction under LeBron James and the front office.",
-          "key_points": [
-            "Evaluates potential free\u2011agent targets and trade scenarios for the Lakers.",
-            "Discusses cap space management and contract extensions for core players.",
-            "Considers the impact of coaching decisions and roster depth on future success."
-          ],
-          "link": "https://sports.yahoo.com/articles/lakers-mailbag-heading-offseason-011348219.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-02T01:13:48+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "57f5389e2723",
-          "title": "ABC to Broadcast 2026 NBA Finals in 1080p HDR",
-          "original_title": "ESPN: \"The 2026 NBA Finals will be ABC\u2019s first NBA Finals presented with 1080P HDR capture and transmission.\"",
-          "summary": "ABC announced that its coverage of the 2026 NBA Finals between the New York Knicks and the San Antonio Spurs will be the network\u2019s first Finals broadcast in 1080p HDR. The press release highlights the upgraded visual quality and production enhancements for viewers.",
-          "key_points": [
-            "First NBA Finals on ABC presented in 1080p HDR capture and transmission.",
-            "Series features the New York Knicks vs. San Antonio Spurs, beginning June 3, 2026.",
-            "ABC emphasizes improved picture quality and advanced production capabilities."
-          ],
-          "link": "https://www.reddit.com/r/nba/comments/1tubwyp/espn_the_2026_nba_finals_will_be_abcs_first_nba/",
+          "id": "2626599c114b",
+          "title": "[Highlight] Luke Kornet chases down Isaiah Hartenstein",
+          "original_title": "[Highlight] Luke Kornet chases down Isaiah Hartenstein",
+          "summary": "      &#32; submitted by &#32;  /u/killzo44   [link] &#32; [comments] ",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/nba/comments/1tuils4/highlight_luke_kornet_chases_down_isaiah/",
           "source": "Reddit r/nba",
-          "published": "2026-06-02T01:08:26+00:00",
+          "published": "2026-06-02T06:30:44+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "035e64d3ceb6",
-          "title": "Hall of Famer Rick Adelman Passes Away at 79",
-          "original_title": "Hall of Famer Rick Adelman, who won more than 1,000 games and took 2 teams to NBA Finals, dies at 79",
-          "summary": "Rick Adelman, a Hall of Fame coach who amassed more than 1,000 career wins and led two different teams to the NBA Finals, died at age 79. Among his notable achievements was orchestrating a 22\u2011game winning streak with the Houston Rockets in 2008, the fourth\u2011longest in league history.",
-          "key_points": [
-            "Adelman coached the Portland Trail Blazers, Golden State Warriors, Sacramento Kings, and Houston Rockets.",
-            "He guided the Blazers and Kings to NBA Finals appearances.",
-            "His 22\u2011game winning streak with Houston in 2008 ranks as the fourth\u2011longest in NBA history."
-          ],
-          "link": "https://sports.yahoo.com/articles/hall-famer-rick-adelman-won-005716073.html",
+          "id": "1bee6dabed8e",
+          "title": "Wembanyama and the Spurs host New York to start NBA Finals",
+          "original_title": "Wembanyama and the Spurs host New York to start NBA Finals",
+          "summary": "New York Knicks (53-29, third in the Eastern Conference) vs. San Antonio Spurs (62-20, second in the Western Conference)San Antonio; Wednesday, 8:30 p.m. EDTLINE: Spurs -4.5; over/under is 218.5NBA FINALS: Spurs host first series matchupBOTTOM LINE: The San Antonio Spurs host the New York Knicks to open the NBA Finals. San Antonio and New York tied the regular season series 1-1. The Knicks won the last regular season meeting 114-89 on Sunday, March 1 led by 25 points from Mikal Bridges, while Vi",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/wembanyama-spurs-host-york-start-060332764.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-06-02T00:57:16+00:00",
+          "published": "2026-06-02T06:03:32+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "dde45735e6a3",
-          "title": "Mike Brown Reacts to Facing De'Aaron Fox and Harrison Barnes in the Finals",
-          "original_title": "Mike Brown speaks on facing De'Aaron Fox and Harrison Barnes in the Finals: \"They definitely want to beat me and I want to kick their ass.\"",
-          "summary": "Los Angeles Lakers head coach Mike Brown commented on the upcoming matchup against the Sacramento Kings\u2019 De'Aaron Fox and Harrison Barnes, stating that the opponents are eager to defeat him and that he is determined to respond aggressively. The remarks were posted on Reddit\u2019s r/nba community.",
-          "key_points": [
-            "Brown acknowledged the competitive drive of Fox and Barnes heading into the Finals.",
-            "He expressed confidence and a willingness to \u201ckick their ass\u201d in response.",
-            "The comment reflects the heightened intensity surrounding the championship series."
-          ],
-          "link": "https://www.reddit.com/r/nba/comments/1tublqp/mike_brown_speaks_on_facing_deaaron_fox_and/",
+          "id": "cd38a2769e38",
+          "title": "Should The Jazz Draft For Upside Or Fit?",
+          "original_title": "Should The Jazz Draft For Upside Or Fit?",
+          "summary": "Who would be the best pick for the Utah Jazz between AJ Dybantsa and Darryn Peterson?",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/jazz-draft-upside-fit-054213960.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-06-02T05:42:13+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "ae06efe314e4",
+          "title": "New York Knicks vs. San Antonio Spurs NBA Finals predictions: Spurs or Knicks, expect a long series",
+          "original_title": "New York Knicks vs. San Antonio Spurs NBA Finals predictions: Spurs or Knicks, expect a long series",
+          "summary": "All of our experts see a series going at least six games.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/york-knicks-vs-san-antonio-040404748.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-06-02T04:04:04+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "29828e2e9cbb",
+          "title": "Aspiration co-founder Sanberg sentenced to 14 years in prison. Ballmer requested no leniency",
+          "original_title": "Aspiration co-founder Sanberg sentenced to 14 years in prison. Ballmer requested no leniency",
+          "summary": "Source: https://www.espn.com/nba/story/_/id/48942217/aspiration-co-founder-sanberg-sentenced-14-years-prison LOS ANGELES -- A federal judge sentenced Aspiration co-founder Joseph Sanberg, whose now-bankrupt green banking company is at the center of an NBA investigation into the LA Clippers, to 14 years in federal prison Monday. ... Aspiration announced a 23-year, $300 million endorsement deal with the Clippers in September 2021 and a $28 million deal with star Kawhi Leonard in April 2022. Podcas",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/nba/comments/1tufkkn/aspiration_cofounder_sanberg_sentenced_to_14/",
           "source": "Reddit r/nba",
-          "published": "2026-06-02T00:55:00+00:00",
+          "published": "2026-06-02T03:56:08+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "f0ccb85e3c31",
-          "title": "Spurs Demonstrate Talent and Preparation Over Experience in Series Win",
-          "original_title": "The Spurs proved talent, preparation are more important than experience",
-          "summary": "The San Antonio Spurs, despite a youthful roster, defeated the Oklahoma City Thunder by relying on skill, thorough preparation, and a strong killer instinct. The victory underscores the team\u2019s belief that talent and game\u2011plan execution can outweigh veteran experience.",
-          "key_points": [
-            "Young Spurs overcame the Thunder without relying on extensive playoff experience.",
-            "Coaching emphasis on preparation and execution was highlighted as a key factor.",
-            "The series win showcases the Spurs\u2019 confidence in their talent and mental toughness."
-          ],
-          "link": "https://sports.yahoo.com/articles/spurs-proved-talent-preparation-more-003210389.html",
+          "id": "734e66314020",
+          "title": "Gregg Popovich message helped New Jersey native Dylan Harper\u2019s NBA Finals dream become reality",
+          "original_title": "Gregg Popovich message helped New Jersey native Dylan Harper\u2019s NBA Finals dream become reality",
+          "summary": "Gregg Popovich, left, talks with Victor Wembanyama on the bench during the first half of an NBA basketball game against the Houston Rockets March 5, 2024,",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/gregg-popovich-message-helped-jersey-035426098.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-06-02T00:32:10+00:00",
+          "published": "2026-06-02T03:54:26+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "3f984c9ffd4a",
-          "title": "Rockets and Warriors Honor Late Coach Rick Adelman",
-          "original_title": "Rockets, Warriors pay tribute to late Hall of Fame coach Rick Adelman",
-          "summary": "Following the death of Hall of Fame coach Rick Adelman at 79, the Houston Rockets and Golden State Warriors posted tributes on social media, remembering his contributions to their franchises and the league. Multiple former teams joined in commemorating his legacy.",
-          "key_points": [
-            "Adelman received public tributes from the Rockets, Warriors, Kings, and other former teams.",
-            "Posts highlighted his coaching achievements and impact on players.",
-            "The outpouring of respect reflects his standing as a respected figure in NBA history."
-          ],
-          "link": "https://sports.yahoo.com/articles/rockets-warriors-pay-tribute-hall-003136215.html",
+          "id": "c0cc31efb6f9",
+          "title": "Warriors Steph Curry signs 10-year shoe deal with Li-Ning",
+          "original_title": "Warriors Steph Curry signs 10-year shoe deal with Li-Ning",
+          "summary": "The search is over.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/warriors-steph-curry-signs-10-034227001.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-06-02T00:31:36+00:00",
+          "published": "2026-06-02T03:42:27+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -296,153 +276,58 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "217b13fd2ed7",
-          "title": "LeBron James' Agent Compares Him to Muhammad Ali",
-          "original_title": "LeBron James' agent compares him to Muhammad Ali - Yahoo Sports",
-          "summary": "LeBron James' representative likened the NBA star to boxing legend Muhammad Ali, emphasizing James' cultural impact and longevity. The comparison was highlighted in a Yahoo Sports piece.",
-          "key_points": [
-            "Agent draws parallels between James' influence on basketball and Ali's on boxing.",
-            "Focus on James' durability, leadership, and global brand.",
-            "Commentary appeared in Yahoo Sports without additional game\u2011related details."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRVpNVzQ5eVpSN1lfeGlicGdrNklFSjhQNU9lNzdLUnh4aEoyY1pZN0tMbUxTYkZlcV9Wem94SEp5WUxqdlR1dlpCeXA1LXhQZGVnal9lT0RDUUtTNlJTWVk5U2hKS3AzRE9Rem1KTENIX1RJN1dyd3IwOUROVGQzQTVuVTY4Wjg?oc=5",
+          "id": "0c25c5085bcb",
+          "title": "LeBron James to decide basketball future - Washington Examiner",
+          "original_title": "LeBron James to decide basketball future - Washington Examiner",
+          "summary": "LeBron James to decide basketball future&nbsp;&nbsp;Washington Examiner",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbkZwRWhzRGI5NjJzSGRUbEpfLU8yaVAwcmpDLWpjRVp1eXlyS1lKeDY2U2NHOFVtLVlTS1lzTzNsMWFIXzNackdfc1VaNFhSeEVLLTBmS016VWs2OXlxNFE4MWU1M0tCaHhXU25wVUVoQnJkdlFIUnpEbVg4QVR2V1NlQ1FIcGVSbUE?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-06-02T00:01:00+00:00",
+          "published": "2026-06-02T10:00:00+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "5ce72df71013",
-          "title": "LeBron James' Agent Compares Him to Muhammad Ali",
-          "original_title": "LeBron James' agent compares him to Muhammad Ali - LeBron Wire",
-          "summary": "The LeBron Wire reported the same agent remarks, underscoring James' status as a transcendent athlete akin to Muhammad Ali. The article reiterates the themes of cultural significance and career longevity.",
-          "key_points": [
-            "Agent's quote repeated across multiple outlets.",
-            "Emphasis on James' role as a cultural icon beyond basketball.",
-            "No new information beyond the original comparison."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLWtfdE90bWs2Skk1VXByTEdSdVRhRmZoMlZ5QmNhaTFJaWlqRUczZ2dLaUNWR0cyUVlkSkpCWm9kdnVYbG9ueDhHcER1YUNQYms0OG5qelVnOFl3Z2E0VkZkcVFya3Z6M3pyOXZ6RTYtREZoWVdITDFkWGNTc043R082b3BrMmxDSjZMaFZZdnl2VmUyNmZJTEZWTW01NGVsY3BSeGhYM1pnS2cxYzJPRmpkRGJpanZqdkhSQzlkaW5YckwwZVE?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-06-02T00:01:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "fc80b6cc8158",
-          "title": "Warriors Receive Encouraging Update on LeBron James Pursuit",
-          "original_title": "Warriors get encouraging update on LeBron James pursuit - Blue Man Hoop",
-          "summary": "Golden State Warriors officials received a positive signal regarding the possibility of acquiring LeBron James, according to Blue Man Hoop. The update suggests ongoing discussions but stops short of confirming any deal.",
-          "key_points": [
-            "Warriors are reportedly in contact with James' camp about a potential move.",
-            "The update is described as 'encouraging' but not definitive.",
-            "No specifics on contract terms or timeline were disclosed."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE05Yk5wSXZvNVYtdjdXNmFoakRkTUc5R0huZXc1eFEyTTNjRk11UGVJXzFwM1V2emJrTjVvdlNCaEFjOFZWaUJSNGNhaWlVS3JzM2pXY29iclllZFk5VDJrVnJSV0tLSWNsbi1wampFaUZWdw?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-06-02T00:00:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "e142ba22e0ad",
-          "title": "LeBron James Joining Stephen Curry Shouldn't Alarm Lakers Anymore",
-          "original_title": "LeBron James joining Stephen Curry shouldn't scare Lakers like it once did - Lake Show Life",
-          "summary": "Lake Show Life argues that a potential partnership between LeBron James and Stephen Curry would no longer be a cause for concern for the Lakers, citing changes in roster construction and competitive balance. The piece reflects on past anxieties and current league dynamics.",
-          "key_points": [
-            "Past fears about a James\u2011Curry duo have lessened.",
-            "Lakers' roster moves and salary\u2011cap flexibility reduce perceived threat.",
-            "Article focuses on strategic perspective rather than trade rumors."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQam9Sa3BhdGVCZWZhQ2FLSDVKNkZVc1N1d0E4NmVqbEtDdXZSenplRGxjN0N1Sy00R0xvZEtXRTJnZ2dVN1ByZjJhdXgwV0Zvd3BkNHY0bmpTV3pDRkYxSmo2NWxBZy16S1JhRktJeWVvb2YzeWp1R3VzRUFoX0VQQ3BUeTdfZ1hEWEZPODdGNkNjWTNKWVo5c0ZMOA?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-06-01T23:00:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "2c77367b3b4c",
-          "title": "Max Kellerman Draws Wild Steph Curry\u2011Chet Holmgren Parallel After Spurs\u2011Thunder Game",
-          "original_title": "Max Kellerman draws wild Steph Curry-Chet Holmgren parallel after Spurs-Thunder - NBC Sports Bay Area & California",
-          "summary": "NBC Sports' Max Kellerman compared Stephen Curry's impact to that of rookie Chet Holmgren following a Spurs\u2011Thunder matchup, noting similarities in how both players can change game dynamics. The analogy was presented as a speculative talking point rather than a formal analysis.",
-          "key_points": [
-            "Kellerman highlights Curry's ability to stretch defenses, likening it to Holmgren's versatile skill set.",
-            "The comparison is framed as an intriguing but unconventional parallel.",
-            "No direct connection to LeBron James or Lakers is made in the article."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaEM4Z011TE1yc3VEYmxBNHp6LVlZX20tN1hFMk5LZzFpX2M2bFFqZ3BmeHM2dmFCY2p2dTRfWVRuS0F3UHdlQlF4YVR6N2ZiRWtyeXFLTG4zRUwxZ09VZlRaS3NxSDFJZkE0M28zanl0N3ZucWlDRHFuYVFqejlwYmVoWUMydVVSa2pFUDI1UnJmTnE0b3U1SdIBoAFBVV95cUxPQ2NLNDVMV0xsa19abFYwX0tBTW5faGNRdnhUQlJxMU0tUjFhTHRydmhPY2h1YWNxZkJwaklucVAtN1hQM00yZWk1OU5tZV9Kc3lCMFBPM21mYTlDS3ZRWWp2NkR2SE5SMG92MFJvcnRqV1ZWWUZuaERhS1JqUU9kVFU5YmNuZ0EwQzRuZUhKamY0VzAybnNPMDZjbF9IenZh?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-06-01T22:37:02+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "9395c1d81c14",
-          "title": "Ex\u2011NBA pro likens LeBron\u2019s career to the \u2018Fast & Furious\u2019 franchise",
-          "original_title": "Ex-NBA pro compares LeBron\u2019s career to \u2018Fast & Furious\u2019: \u2018Waiting for this s\u2014t to be over\u2019 - Lakers Daily",
-          "summary": "Former NBA player compares LeBron James\u2019 long, high\u2011octane career to the \"Fast & Furious\" movies, saying the star\u2019s relentless drive feels like an endless race. He expressed frustration with the constant media scrutiny and hopes the hype will settle down soon.",
-          "key_points": [
-            "LeBron\u2019s career is described as a nonstop, high\u2011energy saga.",
-            "The commentator feels the surrounding noise is overwhelming.",
-            "He wishes for a calmer environment as the season progresses."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNTZtbFROdzJlT2s5VDkwQk1pWHRsUXQxZjVJZ2ViZkNzQWlCVDRReXpwZTlNVDJIcGhfWllhUVc2ZDBTOGM5TXY5ekFuS0w5ZmR6ckpLdENwaUxXbnJLem9leXIzMEwyaXI1QXVUQmJtSHZ6RkhORTVqQ3F1TTFxdjREU21xUEVjUVBYNWhDOElrbC1GS05VR0VsRFBpN21PWnVYMkJPemJkLTA?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-06-01T22:03:34+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "cc7144827b57",
-          "title": "Former teammate says LeBron saved his best for the playoffs",
-          "original_title": "Ex-teammate says LeBron avoided getting \u2019s\u2014t beat out of him\u2019 until playoffs came - Lakers Daily",
-          "summary": "A former Lakers teammate claims LeBron James deliberately held back his full intensity during the regular season, waiting to unleash it in the postseason. The player suggests LeBron\u2019s approach helped the team stay competitive while preserving energy for the playoffs.",
-          "key_points": [
-            "LeBron allegedly restrained his effort until the playoffs.",
-            "Teammate believes this strategy kept the team fresh for postseason play.",
-            "No concrete evidence was provided; the claim reflects personal observation."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQmdlUmQxOUswUGdYMF9jRHRkZ1h3YXo1X2xleXVwb2JoR2ZDYzJVZUdTczhOWjlqVW5icmVSNDNSclpwS1ItdFRpYlV2blNtdlItdHVzNlEtblkzcXZKMGxGVFFhellkdm95ZTBGeEI2U0N0Uk1QZHpndHg3XzRuM2lDYndmZHdNNnp2blBBYkI3VURtamJRTG51eEVOV0NKN3hRaWpTRQ?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-06-01T20:49:57+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "051eda95c485",
-          "title": "Luka Don\u010di\u0107 praises Kevin Durant in Lakers Nation video",
-          "original_title": "Lakers Video: Luka Doncic Gives High Praise To Kevin Durant - Lakers Nation",
-          "summary": "In a recent video shared by Lakers Nation, Dallas Mavericks star Luka Don\u010di\u0107 offered high praise for Kevin Durant, highlighting Durant\u2019s scoring versatility and work ethic. Don\u010di\u0107\u2019s comments underscore the respect elite players have for one another across the league.",
-          "key_points": [
-            "Don\u010di\u0107 commended Durant\u2019s scoring ability and professionalism.",
-            "The remarks were posted on a Lakers\u2011focused media outlet.",
-            "The praise reflects mutual respect among NBA superstars."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaW5aSVdRSlhSb0pEV05lTzh1OHF3SkxwbE5tYkNvNmVtYlVFR1RabTJyODRmZjY4emNsc0IwdkFNX3NhdWFoWVlHRE1FV2dCb0FvVjltODJhWVFJWGxtQjhwV1RSUTFEOXdCNV9NcGFpTVoweEtkWlIxTkNDaC1xR2dudWFKa3JvQkhCRA?oc=5",
+          "id": "fdd22ea7fa2f",
+          "title": "Lakers\u2019 free agency situation is not good for LeBron James - The Big Lead",
+          "original_title": "Lakers\u2019 free agency situation is not good for LeBron James - The Big Lead",
+          "summary": "Lakers\u2019 free agency situation is not good for LeBron James&nbsp;&nbsp;The Big Lead",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeUhrS3N3SXJwNGgzZ19qNGVxZUZlTmRScHBxdXExOEpCYW1QelY2blEtalBDRGFhNlRnZ3NvSTU0SmNRWWdfUV9Ea3hTQk1EYkNGcGhjWkRTSHA4dTlWUS1aeGxGLXdrT0lCSTBQYTlIaUJBUFRqWVBObzNPS2RwY2xxVmo?oc=5",
           "source": "Google News - Luka",
-          "published": "2026-06-01T20:30:07+00:00",
+          "published": "2026-06-02T04:32:37+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "f7d7a948d1e4",
-          "title": "Trade rumor: LeBron James could be sent to Thunder in sign\u2011and\u2011trade proposal",
-          "original_title": "Lakers sign-and-trade idea sends LeBron James to Thunder for $239 million All-Star - sportingnews.com",
-          "summary": "Sporting News reported a speculative sign\u2011and\u2011trade scenario that would move LeBron James to the Oklahoma City Thunder in exchange for a $239\u202fmillion All\u2011Star contract. The idea remains purely hypothetical and has not been confirmed by either club.",
-          "key_points": [
-            "Proposed deal would send LeBron to the Thunder for a $239\u202fM contract.",
-            "The trade is a rumor, not an official negotiation.",
-            "Both the Lakers and Thunder have not commented on the proposal."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQ3FmdjRfUjhXamJST3ZyWU1TcmRyalFVQTFxTzZCYUR2dThtRlBJRFgxM2RIeE5IOWxDSTYtNmdFOW1nWVZvdF9SbDJRZmltMnlfM283SzlYajdoVXAzUEpGeTVhY2dfVkdXTnJVQlFoVUI5OUpQTGh6QXRUQ1d3dGJkNlNnTU05MEhvWDRJOVoxNU9aUjUyb0J0YlQ4Z1ZqUGVpQTFrUlQ1YlZRc2lLT2VSWUplZnU5V2tPWVNtRGR2NnAxN2FjdGJlNHpfdlIxcXBsNlp5Z1pwNHBCS2x5N1YxRVg3QW11c3gzT0NlTXM?oc=5",
+          "id": "9eca3543e7f3",
+          "title": "Lakers\u2019 free agency situation is not good for LeBron James - Yahoo Sports",
+          "original_title": "Lakers\u2019 free agency situation is not good for LeBron James - Yahoo Sports",
+          "summary": "Lakers\u2019 free agency situation is not good for LeBron James&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX3Roa0t3bld1VTluMUFXWUxlUTQzUnNvcnpsSW8xV2Y1dzM2a25VQ2RDUGJodWplMDBRTExkbnc5RWlCd3JOaXhTdGZSVXdSemgzUHg2SkgtSUNVUVpZejhydlBmcEtncUgtVHBfb3ZQM3Q5cTZXcjkxcnNhc1U5akFtZWhLOU1T?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-06-01T18:30:01+00:00",
+          "published": "2026-06-02T04:31:00+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "c4999eeed16a",
-          "title": "Rich Paul likens LeBron James to Muhammad Ali",
-          "original_title": "Rich Paul Compares LeBron James To Muhammad Ali - Lakers Nation",
-          "summary": "Agent Rich Paul compared LeBron James to boxing legend Muhammad Ali, emphasizing LeBron\u2019s cultural impact, confidence, and willingness to speak out on social issues. Paul\u2019s remarks highlight the broader influence LeBron holds beyond basketball.",
-          "key_points": [
-            "Paul draws parallels between LeBron\u2019s influence and Ali\u2019s legacy.",
-            "Focus is on LeBron\u2019s activism and global brand power.",
-            "The comparison is framed as a compliment to LeBron\u2019s stature."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWSVdRN0ZacGJSeDBldDVSZjZURTgyclhYSk1kRk1EQ1dMR0pHenBHS1hhZWlzMTVrZm1SQUpvQzdrbDZtRGtMdXZKcEdKZnlOaDBtNzM5N3Q2cEM0Sk5FdWl1ZzlsZjZvbjM4Q1M4dzJnQzV4T0toc3NlNXNkZw?oc=5",
+          "id": "fb58bd8832d2",
+          "title": "LeBron James Shares Wild Story Behind Why He Quit Coffee - Basketball Forever",
+          "original_title": "LeBron James Shares Wild Story Behind Why He Quit Coffee - Basketball Forever",
+          "summary": "LeBron James Shares Wild Story Behind Why He Quit Coffee&nbsp;&nbsp;Basketball Forever",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQV9tX2hNSGJyMXdEMlJBMkdGSmRDQjRDdmVGX3ljM2YzdzNQTkJhX0ltX3l4QmsxUEdMV25HeE80QlB4VnNidU1lS012Ymd2aUszOEFsWUxFclpVOW54TElZLWdsSlpTQy1wSG1sc2V3WkQtMlFneTBGenhIUnNCM0oyWC16cWp3NXNqTG5aZGJKblZOVmxJWURBaF9mQdIBowFBVV95cUxPZVVXTWRzLURfa1h4VnBmYVhEWEJkYUtaakhPdnJYZVYxY2JMeENHbzFjMFRFZnRXeUpJQXdqQ3NIczRSOGttQ3BJSHcxWU5nYV9kc3Fxa0dyVVF6NlRJWVRoRXNwTTRNV3Vzc09FM0R3dHZ5T3J5TkNiM3ZYMF9MMmUtTWJNWHlMWDRoSExjSWhfMm5Wazg2VGFvWjI0clB5YUxB?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-06-01T18:00:16+00:00",
+          "published": "2026-06-02T03:35:52+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "eb75f10c4dde",
+          "title": "How Knicks\u2019 playoff efficiency has surpassed even LeBron James-led Cavs - Yahoo Sports",
+          "original_title": "How Knicks\u2019 playoff efficiency has surpassed even LeBron James-led Cavs - Yahoo Sports",
+          "summary": "How Knicks\u2019 playoff efficiency has surpassed even LeBron James-led Cavs&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLVVZVWNHRW9tcDEzWHdERE9jdlFmbXFNcjF4OFVNUTRMVVRIQTlUQks2Z3RJMjRGV196SHBlOGpoUDR0LTlRQUtXbW5NTFhObm1MdW9ZVzJMZU51Slk2cHhLTTJhd3V5NnZNZEpvcS1HVUROZEY3amhMeW0xanpxLU1uY0pFRUNNUjRFc2p3SDJxWWs?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-06-02T02:58:10+00:00",
           "topic": "Lakers Players"
         }
       ]
