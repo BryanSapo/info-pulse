@@ -1,138 +1,118 @@
 {
-  "generated_at": "2026-06-03T23:48:45.082212+00:00",
+  "generated_at": "2026-06-04T04:07:27.222497+00:00",
   "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
+          "id": "e7b652f95e6c",
+          "title": "Another big game for the \"OH, OKC AND SPURS ARE UNBEATABLE, THE LAKERS SHOULD JUST ACCEPT IT\" crowd.",
+          "original_title": "Another big game for the \"OH, OKC AND SPURS ARE UNBEATABLE, THE LAKERS SHOULD JUST ACCEPT IT\" crowd.",
+          "summary": "Hang in there, folks. Keep worshopping at their altars. Eventually they'll win **checks notes from posts over the last few weeks** &quot;the first of 8 or 9 rings&quot;. Stay strong! \ud83e\udd23  &#32; submitted by &#32;  /u/TheOldThunder   [link] &#32; [comments]",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/lakers/comments/1twbzh3/another_big_game_for_the_oh_okc_and_spurs_are/",
+          "source": "Reddit r/lakers",
+          "published": "2026-06-04T03:35:41+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "05807ae48331",
+          "title": "Lakers-Pelicans trade pitch sees Los Angeles cut ties with $18 million guard who asked to be traded - sportingnews.com",
+          "original_title": "Lakers-Pelicans trade pitch sees Los Angeles cut ties with $18 million guard who asked to be traded - sportingnews.com",
+          "summary": "Lakers-Pelicans trade pitch sees Los Angeles cut ties with $18 million guard who asked to be traded&nbsp;&nbsp;sportingnews.com",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxORExtYUJSaVFzbGlzeUl4ZjVhN2tZdW51ald2eWZ6MmxwZjY0ZUFsM0ZfbXhBc2hrclpvR0NDYUJMejJfaFJSY0FkQ3ppWWFQVlpWdVBYUHduaGx2a1BrdE5aTlI3bVRXOFRQOHBCZVRPNXBBbmhRUXZYMjhtREYxTmNOY1FUV1hNTVR1ai04VW9yaGE1S0dscHRmdW02VEhkYVJoSGNlMTJDdGRUaUNpUUliNmRkNUN0ek5vR0NSV3NGYjFWQUNpMHJ3dF9uU1l2U2t6T2NFaktPVUxqOXd4em5hUGhKdlItNGdQYzNiZV9YZnFoU0t1QTZmUnNGQWtKTTB1VTF3?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-06-04T01:50:21+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "e0b6cfefb304",
+          "title": "Lakers-Pelicans trade pitch sees Los Angeles cut ties with $18 million guard who asked to be traded - Yahoo Sports",
+          "original_title": "Lakers-Pelicans trade pitch sees Los Angeles cut ties with $18 million guard who asked to be traded - Yahoo Sports",
+          "summary": "Lakers-Pelicans trade pitch sees Los Angeles cut ties with $18 million guard who asked to be traded&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOVRGdFhXWE5qYmloa2R4czZhVHNkSkZhbVBTcGUxMlZDNkpxUUg4TzNLaGEzSXJoZmVfVVlKMEZ4Q2ZENUlRWVBPNXg1bk1fVmpXcTlSNWdBOEh5MDBWUDVKdmVVTGJ6cGgxOWVrUFJCby1VN2hFVUhzNUtGTWxnazBEVWp1Qjhl?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-06-04T01:50:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "14cd8720cf6f",
+          "title": "Watch LeBron James Golf Off Yacht in Italy While Listening to Kendrick Lamar in Trending Video - Bleacher Report",
+          "original_title": "Watch LeBron James Golf Off Yacht in Italy While Listening to Kendrick Lamar in Trending Video - Bleacher Report",
+          "summary": "Watch LeBron James Golf Off Yacht in Italy While Listening to Kendrick Lamar in Trending Video&nbsp;&nbsp;Bleacher Report",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR0VxOU1udGZFS2RiWHZWSV9uVlZmMUFoZkZnZjJsY3E4QU40OVA1d29UTVpETEwzWGZzSThHbUJyU1lQN0tmbkd2aXAyV3JyMFMzNkZjUTZQeGFzUXlMT0hJdUVIS3lyb005dEZyQ0FxdlFuUG5vRzRRZHp1S2lKUDFfSkp5LW1iWUhhczNvLVg3TmZpZ1JIMmNCLURuZGloWEFDbjBTYWFWUmYwaG9ZaDNPQXZVbDdQSmVTODNHbkFRQ0Zm?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-06-04T01:20:15+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "21e4d618d16c",
+          "title": "Coach K on Kobe Bryant being the best player in the world along being the Alpha Dog during the 2008 Olympics. \"He wanted to guard the best perimeter player of every team\"",
+          "original_title": "Coach K on Kobe Bryant being the best player in the world along being the Alpha Dog during the 2008 Olympics. \"He wanted to guard the best perimeter player of every team\"",
+          "summary": "      &#32; submitted by &#32;  /u/CircledSquare7   [link] &#32; [comments] ",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/lakers/comments/1tw88eq/coach_k_on_kobe_bryant_being_the_best_player_in/",
+          "source": "Reddit r/lakers",
+          "published": "2026-06-04T00:46:19+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "17ba9634a2e9",
+          "title": "2025-26 NBA Finals: Discussion Thread",
+          "original_title": "2025-26 NBA Finals: Discussion Thread",
+          "summary": "The NBA Finals are here and it is looking to be an excellent series between the San Antonio Spurs and New York Knicks. The two sides have a history together, having faced off in the lockout-shortened 1999 season. History Let&#8217;s dive into some history between the two Finals teams. The 1998-99 season was 50 games [&#8230;]",
+          "key_points": [],
+          "link": "https://www.silverscreenandroll.com/general/114838/2025-26-nba-finals-discussion-thread",
+          "source": "Silver Screen and Roll",
+          "published": "2026-06-04T00:05:39+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "e9c8bd28f106",
+          "title": "DeMar DeRozan swapping the Kings for the Lakers could be huge - A Royal Pain",
+          "original_title": "DeMar DeRozan swapping the Kings for the Lakers could be huge - A Royal Pain",
+          "summary": "DeMar DeRozan swapping the Kings for the Lakers could be huge&nbsp;&nbsp;A Royal Pain",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQVRkWjJYNjdQRDludjh6QmNCaldfS2R4MlVMazVIZ3VjU2tyLXpHLVpWVUowRkFUYnNiSnI1WnFXamZkYjBOS0M5Z0k5bktwQkxwUFlKVVI2RnRXQUY1TlZDMUxIa3plaVA1NHFmZ1NObVpXNTdoTjJIaWNFeEpOUkJn?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-06-04T00:00:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "023040e79e3f",
+          "title": "[Vorkunov] Adam Silver said the NBA will be in position to award franchises in NBA Europe this fall. He's not sure yet if players like Luka Doncic can own teams.\"It\u2019s our hope that we can integrate these operations with the EuroLeague, but we will move forward either way.\"",
+          "original_title": "[Vorkunov] Adam Silver said the NBA will be in position to award franchises in NBA Europe this fall. He's not sure yet if players like Luka Doncic can own teams.\"It\u2019s our hope that we can integrate these operations with the EuroLeague, but we will move forward either way.\"",
+          "summary": "      &#32; submitted by &#32;  /u/Turbostrider27   [link] &#32; [comments] ",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/lakers/comments/1tw6vle/vorkunov_adam_silver_said_the_nba_will_be_in/",
+          "source": "Reddit r/lakers",
+          "published": "2026-06-03T23:48:34+00:00",
+          "topic": "Lakers News"
+        },
+        {
           "id": "e6eaa718bd25",
           "title": "The Conductor: Kobe Bryant",
           "original_title": "The Conductor: Kobe Bryant",
-          "summary": "A Reddit post on r/lakers pays tribute to Kobe Bryant, highlighting his leadership and impact on the franchise. The submission includes a link to the original discussion and invites comments from the community.",
-          "key_points": [
-            "Kobe is celebrated as the ultimate \"conductor\" of the Lakers' success.",
-            "The post encourages fan engagement through comments and shared memories.",
-            "Source: Reddit user /u/Equalizer101."
-          ],
+          "summary": "      &#32; submitted by &#32;  /u/Equalizer101   [link] &#32; [comments] ",
+          "key_points": [],
           "link": "https://www.reddit.com/r/lakers/comments/1tw69bq/the_conductor_kobe_bryant/",
           "source": "Reddit r/lakers",
           "published": "2026-06-03T23:22:48+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "bf0efcab9afd",
-          "title": "2026 NBA Mock Draft Roundup: Can the Lakers Find a Ready\u2011Now Player?",
-          "original_title": "2026 NBA mock draft roundup: Can the Lakers find a ready-now player?",
-          "summary": "Silver Screen and Roll examines the 2026 NBA mock draft, questioning whether the Lakers can acquire a player who can contribute immediately without a tanking rebuild. The article references the San Antonio Spurs' draft\u2011driven depth and notes the impact of recent lottery reforms on the Lakers' strategy.",
-          "key_points": [
-            "Lakers aim to add a ready\u2011now talent rather than rebuild through the draft.",
-            "Spurs' model of building depth via the draft is used as a benchmark.",
-            "New lottery rules limit the Lakers' ability to secure a high pick."
-          ],
-          "link": "https://www.silverscreenandroll.com/lakers-news/118556/lakers-2026-nba-mock-draft-henri-veesar-dailyn-swain-zuby-ejiofor",
-          "source": "Silver Screen and Roll",
-          "published": "2026-06-03T23:00:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "537dac752885",
-          "title": "NBA Analyst Predicts LeBron James Will Leave Lakers for West Coast Rival",
-          "original_title": "NBA Analyst Predicts LeBron James Will Leave Lakers for West Coast Rival - LA Sports Report",
-          "summary": "A LA Sports Report article cites an unnamed NBA analyst who predicts that LeBron James may depart the Los Angeles Lakers for another West Coast team. The piece presents the speculation without providing concrete evidence or official statements.",
-          "key_points": [
-            "Prediction focuses on a potential move to a West Coast rival.",
-            "No official confirmation from LeBron, the Lakers, or the analyst.",
-            "Article appears on Google News under the Lakers tag."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVmJGZkJUMVVZRFN0NnRxRDFJVDBudDB3dk9zNGo0bGxjbExKamdKS3lWdVJGSnFaa21GYWpWUG0yTHBfMEEtMTZ3c3JtZGJwR19HU2hWMnJQYW42aUEwTVh0UHNtX1VER211TVNQRkZuYmpvdmJNdUxUWC1FaHNlYmJnbF8tLXMwZXc?oc=5",
+          "id": "24aad17856de",
+          "title": "LeBron James Gets Bad News Before Free Agency as Lakers Uncertainty Rises - heavy.com",
+          "original_title": "LeBron James Gets Bad News Before Free Agency as Lakers Uncertainty Rises - heavy.com",
+          "summary": "LeBron James Gets Bad News Before Free Agency as Lakers Uncertainty Rises&nbsp;&nbsp;heavy.com",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ3RZaDlfZ19Gdy10OHZJdlZ5cjlsNUpNX25tYTdaRnk1cTY1dDdUSWlfWmNCY2NCcC1WUU5fTXExNmlfcWtvVjZwcm9NVDJhWGlNY1RJRUxVRE04VElwUjJZM01VVkd0TndFNzNHNnViNGpIdktKekxZYmdmU0tnV3B1eHhhcHM?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-06-03T22:46:59+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "23ca9466c027",
-          "title": "Least Reliable Laker Rumor That Some Fans Actually Believe",
-          "original_title": "What is the least reliable sourced rumor you've heard this off season about Laker moves that you actually believe?",
-          "summary": "A Reddit thread on r/lakers discusses the most dubious off\u2011season rumors, including a claim that Charles Oakley suggested a 95% chance of LeBron returning to Cleveland. The post also references a joking Instagram comment by Rui Hachimura about his future with the team.",
-          "key_points": [
-            "Rumor about Oakley\u2019s barbershop comment linking LeBron to Cleveland.",
-            "Fans cite Rui Hachimura\u2019s light\u2011hearted IG post as another speculative source.",
-            "Thread highlights how unverified stories can gain traction among fans."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1tw51s4/what_is_the_least_reliable_sourced_rumor_youve/",
-          "source": "Reddit r/lakers",
-          "published": "2026-06-03T22:34:57+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "26e3dc0c9c7d",
-          "title": "Could Two Players Both Average 30 Points in the Same Season?",
-          "original_title": "Is it possible that they could both average 30 in the same season? Has it ever been done before and what circumstances would it require?",
-          "summary": "A Reddit user asks whether two Lakers players have ever simultaneously averaged 30 points per game in a single season and what conditions would make it possible. The discussion invites historical comparisons and analysis of scoring trends.",
-          "key_points": [
-            "Question explores the rarity of dual 30\u2011point averages.",
-            "Calls for historical examples and required circumstances.",
-            "Originated from Reddit user /u/Silent_Wizard5597."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1tw41an/is_it_possible_that_they_could_both_average_30_in/",
-          "source": "Reddit r/lakers",
-          "published": "2026-06-03T21:56:14+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "a358167dfa41",
-          "title": "Kobe Bryant, Magic Johnson & Jerry West Featured In Opening Video For 2026 NBA Finals",
-          "original_title": "Kobe Bryant, Magic Johnson & Jerry West Featured In Opening Video For 2026 NBA Finals",
-          "summary": "The 2026 NBA Finals are officially here as Victor Wembanyama and the San Antonio Spurs will host Jalen Brunson and the New York Knicks for Game 1 on Wednesday night. The NBA Finals always comes with some extra pageantry, and that will again be the case this year as the league released the video that [&#8230;]",
-          "key_points": [],
-          "link": "https://lakersnation.com/kobe-bryant-magic-johnson-jerry-west-featured-in-opening-video-for-2026-nba-finals/",
-          "source": "Lakers Nation",
-          "published": "2026-06-03T21:50:33+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "f3e2c7b50a86",
-          "title": "Lakers' Luka Doncic Left AJ Dybantsa Speechless After Historic Performance - Sports Illustrated",
-          "original_title": "Lakers' Luka Doncic Left AJ Dybantsa Speechless After Historic Performance - Sports Illustrated",
-          "summary": "Lakers' Luka Doncic Left AJ Dybantsa Speechless After Historic Performance&nbsp;&nbsp;Sports Illustrated",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcUEyYjJuWV9hdmpad0lhbEl3S1BoRTllbXcxbkFXandjRzlnckctZHlKNkZrZk9kb0J0UmpndXJnNV9tSE1GWlpCV0RDcnk1WDlocEM0anAyYUlvZjZzSHNiNnBXY2VQZElTeVRISjJCZnJkU3lyVXh2R2RYNUJJME9GSzNMaV9HbjAtb052dw?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-06-03T21:32:36+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "9045257e13bb",
-          "title": "Lakers should be all over Rockets' most underrated defensive stopper in free agency - Lake Show Life",
-          "original_title": "Lakers should be all over Rockets' most underrated defensive stopper in free agency - Lake Show Life",
-          "summary": "Lakers should be all over Rockets' most underrated defensive stopper in free agency&nbsp;&nbsp;Lake Show Life",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcmxmX3FIZkh6LUhtNDNoS1pTUG9vdFJFSzFsYk4xeGJmUGUtSWNLcEI5NWFvZ01Sc1dSTlBjN1JKVmxzTzhuX0ppNC1hdVJFSUFZNEF5UjBkX0FHZm1MaHdhVkpJMGJFOFBiM0NRZ3VReXR2MjMwOW1uM2U5TjNRZlFvbHhLLUhOUzZiaW1zSldWcS00WmxOQlBHdC12eE5DNmFGdjNLWQ?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-06-03T21:00:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "f1a5b1a641bd",
-          "title": "AJ Dybantsa: Watching Luka Doncic Live Was \u2018Craziest Performance\u2019",
-          "original_title": "AJ Dybantsa: Watching Luka Doncic Live Was \u2018Craziest Performance\u2019",
-          "summary": "The 2026 NBA Draft is quickly approaching and is believed to be one of the most talented in many years. At the top of many prospect lists is BYU forward AJ Dybantsa, whom many believe will be the first overall selection by the Washington Wizards. In addition to his offensive skillset, Dybantsa is also known [&#8230;]",
-          "key_points": [],
-          "link": "https://lakersnation.com/aj-dybantsa-watching-luka-doncic-live-was-craziest-performance/",
-          "source": "Lakers Nation",
-          "published": "2026-06-03T20:35:08+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "4e0808233088",
-          "title": "Lakers Prank on Tony Bobbit",
-          "original_title": "Lakers Prank on Tony Bobbit",
-          "summary": "      &#32; submitted by &#32;  /u/BizzyHaze   [link] &#32; [comments] ",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/lakers/comments/1tw0so7/lakers_prank_on_tony_bobbit/",
-          "source": "Reddit r/lakers",
-          "published": "2026-06-03T19:58:09+00:00",
+          "published": "2026-06-03T23:22:39+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -141,153 +121,113 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "ae170eb0b4f9",
-          "title": "San Antonio Energized for Game 1 of 2026 NBA Finals",
-          "original_title": "2026 NBA Finals: San Antonio comes to life and pla...",
-          "summary": "The atmosphere at the Frost Bank Center was electric ahead of Game 1 of the 2026 NBA Finals. Fans and players alike felt a surge of excitement as the Spurs prepared to face the New York Knicks.",
-          "key_points": [
-            "Frost Bank Center buzzed with high energy before the opening game.",
-            "San Antonio Spurs host the New York Knicks in the series opener.",
-            "Pre\u2011game vibe highlighted strong home\u2011court support for the Spurs."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48959056/2026-nba-finals-sights-sounds-fashion-game-1-san-antonio-spurs-new-york-knicks",
-          "source": "ESPN NBA",
-          "published": "2026-06-04T00:33:27+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "d9a527c8fcd3",
-          "title": "Top Games, Bets and Odds for Wednesday: Knicks\u2011Spurs, Padres\u2011Phillies and More",
-          "original_title": "Today's top games to watch, best bets, odds: Knicks vs. Spurs Game 1, Padres vs. Phillies and more",
-          "summary": "CBS Sports compiled the day's most compelling matchups, offering betting lines and expert projections from the SportsLine model. The NBA focus centered on the Knicks\u2011Spurs Finals opener, alongside major MLB contests.",
-          "key_points": [
-            "Provides betting odds and expert picks for the Knicks vs. Spurs Game 1.",
-            "Includes MLB matchups such as Padres vs. Phillies.",
-            "Features projections from SportsLine and CBS Sports analysts."
-          ],
-          "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-knicks-vs-spurs-game-1-padres-vs-phillies-and-more/",
+          "id": "d16028766269",
+          "title": "2026 NBA Finals schedule: Knicks vs. Spurs odds, dates, game times",
+          "original_title": "2026 NBA Finals schedule: Knicks vs. Spurs odds, dates, game times",
+          "summary": "It's Knicks vs. Spurs in the 2026 NBA Finals, a rematch of the 1999 title round",
+          "key_points": [],
+          "link": "https://www.cbssports.com/nba/news/2026-nba-finals-schedule-odds/",
           "source": "CBS Sports NBA",
-          "published": "2026-06-03T23:45:17+00:00",
+          "published": "2026-06-04T03:55:36+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "c471ebcfbd27",
-          "title": "SportsLine Predicts Knicks\u2011Spurs Game 1 Outcome and Finals Odds",
-          "original_title": "2026 NBA Finals odds, spread, time: Knicks vs. Spurs prediction, Game 1 picks from expert on 100-69 run",
-          "summary": "Larry Hartstein of SportsLine released his predictions for Game 1 of the 2026 NBA Finals, outlining expected spreads and his overall series outlook. The analysis emphasizes the impact of recent performances on the odds.",
-          "key_points": [
-            "Larry Hartstein shares his pick for the Knicks\u2011Spurs Game 1 winner.",
-            "Details the projected point spread and series odds.",
-            "Highlights the significance of the Knicks' 100\u201169 run in shaping predictions."
-          ],
-          "link": "https://www.cbssports.com/nba/news/2026-nba-finals-odds-spread-line-start-time-knicks-spurs-prediction-game-1-optimal-picks-best-bets/",
-          "source": "CBS Sports NBA",
-          "published": "2026-06-03T23:35:35+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "e162c05bb6bf",
-          "title": "Reddit Live Thread: Knicks vs. Spurs NBA Finals Game 1 Score Updates",
-          "original_title": "Game Thread: New York Knicks (0-0) vs San Antonio Spurs (0-0) Live Score | NBA Finals | Jun 3, 2026",
-          "summary": "A Reddit thread from r/nba provided real\u2011time score updates and discussion for the opening game of the 2026 NBA Finals between New York and San Antonio. The post served as a hub for fan reactions and live commentary.",
-          "key_points": [
-            "Live score and commentary thread for Game 1 of the Finals.",
-            "Hosted on Reddit\u2019s r/nba community.",
-            "Facilitated fan interaction and instant updates during the game."
-          ],
-          "link": "https://www.reddit.com/r/nba/comments/1tw6fx9/game_thread_new_york_knicks_00_vs_san_antonio/",
-          "source": "Reddit r/nba",
-          "published": "2026-06-03T23:30:16+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "cdfd14e3f7b4",
-          "title": "Spurs vs. Knicks Game 1 Prediction: Wembanyama and Brunson Lead Their Teams",
-          "original_title": "Spurs vs. Knicks prediction: Game 1 odds, pick as NBA Finals tip off with Victor Wembanyama, Jalen Brunson",
-          "summary": "CBS Sports offered a preview and betting pick for the NBA Finals opener, focusing on the matchup between Victor Wembanyama and Jalen Brunson. The article outlines odds and the projected impact of the stars on the game\u2019s outcome.",
-          "key_points": [
-            "Preview highlights Victor Wembanyama (Spurs) vs. Jalen Brunson (Knicks).",
-            "Provides odds and a recommended pick for Game 1.",
-            "Discusses how each star could influence the series start."
-          ],
-          "link": "https://www.cbssports.com/nba/news/spurs-knicks-prediction-nba-finals-game-1-odds-pick-tv-channel/",
-          "source": "CBS Sports NBA",
-          "published": "2026-06-03T23:24:38+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "0d33de321dfa",
-          "title": "Knicks vs. Spurs Odds & Prediction: Game 1 NBA Finals Picks",
-          "original_title": "Knicks vs. Spurs odds, prediction: 2026 NBA Finals picks, Game 1 best bets from proven model",
-          "summary": "SportsLine\u2019s predictive model released its Game 1 odds and picks for the 2026 NBA Finals matchup between the New York Knicks and the San Antonio Spurs. The model, which has a track record of accurate forecasts, suggests which side is favored and outlines the best betting opportunities for Wednesday\u2019s opener.",
-          "key_points": [
-            "SportsLine provides specific odds and a recommended pick for Game 1.",
-            "The model\u2019s analysis is based on recent performance metrics of both teams.",
-            "The forecast is intended for bettors looking for data\u2011driven guidance."
-          ],
-          "link": "https://www.cbssports.com/nba/news/knicks-spurs-odds-prediction-spread-line-time-2026-nba-finals-picks-game-1-best-bets/",
-          "source": "CBS Sports NBA",
-          "published": "2026-06-03T23:07:21+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "40a27174f627",
-          "title": "BetMGM Promo: $1,500 Bonus Bets for Spurs\u2011Knicks Finals and MLB",
-          "original_title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for Spurs vs. Knicks NBA Finals, MLB on Wednesday",
-          "summary": "BetMGM is offering a promotional code (CBSSPORTS) that grants bettors up to $1,500 in bonus bets if their first wager on the Spurs\u2011Knicks NBA Finals game or MLB action loses. The offer is limited to new users and must be claimed before the Wednesday contests.",
-          "key_points": [
-            "Use promo code CBSSPORTS to qualify for the bonus.",
-            "Bonus applies to the first losing bet on either the NBA Finals Game 1 or MLB games.",
-            "Promotion is targeted at new BetMGM customers and has a time\u2011limited window."
-          ],
-          "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-spurs-knicks-nba-finals-mlb-on-wednesday/",
-          "source": "CBS Sports NBA",
-          "published": "2026-06-03T23:05:15+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "6fa4526c3e6b",
-          "title": "Victor Wembanyama Makes NBA Finals Debut",
-          "original_title": "Victor Wembanyama arriving for his NBA Finals Debut",
-          "summary": "Rookie sensation Victor Wembanyama is set to appear in his first NBA Finals game as the San Antonio Spurs face the New York Knicks. The highly anticipated debut adds a new storyline to the championship series.",
-          "key_points": [
-            "Wembanyama\u2019s debut marks his first appearance in an NBA Finals series.",
-            "He will be playing against the Knicks in Game 1.",
-            "The matchup highlights the Spurs\u2019 reliance on their young star."
-          ],
-          "link": "https://www.reddit.com/r/nba/comments/1tw4t3o/victor_wembanyama_arriving_for_his_nba_finals/",
-          "source": "Reddit r/nba",
-          "published": "2026-06-03T22:25:19+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "f788a963a7b1",
-          "title": "Knicks Auction Two Celebrity Row Seats for Game 3",
-          "original_title": "Looking for NBA Finals seats? The Knicks are making 2 in celebrity row available in an auction",
-          "summary": "The New York Knicks are auctioning two premium seats in Celebrity Row at Madison Square Garden for Game 3 of the NBA Finals, the first Finals game in New York since 1972. The seats are located near notable fans such as Ben Stiller and Spike Lee, and will go to the highest bidder.",
-          "key_points": [
-            "Two seats in the coveted Celebrity Row will be sold to the highest bidder.",
-            "The auction coincides with the historic Game 3 at MSG.",
-            "Proceeds and winner details are managed by the Knicks organization."
-          ],
-          "link": "https://sports.yahoo.com/articles/looking-nba-finals-seats-knicks-220958701.html",
+          "id": "5533f2e41242",
+          "title": "Spurs rookie Dylan Harper makes NBA Finals history despite Game 1 loss to Knicks",
+          "original_title": "Spurs rookie Dylan Harper makes NBA Finals history despite Game 1 loss to Knicks",
+          "summary": "The Spurs lost Game 1 against the Knicks, but rookie Dylan Harper still etched his name into NBA Finals record books.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/spurs-rookie-dylan-harper-makes-033652824.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-06-03T22:09:58+00:00",
+          "published": "2026-06-04T03:36:52+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "1339cbc7d666",
-          "title": "Mike Barner\u2019s Expert Picks for Knicks\u2011Spurs Game 1",
-          "original_title": "Knicks vs. Spurs NBA Finals 2026 Game 1 odds, prediction, time: Picks by expert on 141-101 run",
-          "summary": "SportsLine analyst Mike Barner released his expert predictions and odds for Game 1 of the 2026 NBA Finals between the Knicks and Spurs. Barner\u2019s picks are based on a 141\u2011101 run of successful forecasts and are aimed at helping bettors make informed decisions.",
-          "key_points": [
-            "Barner provides his own odds and recommended bet for Game 1.",
-            "His track record includes a 141\u2011101 success rate on similar picks.",
-            "The analysis is intended for bettors seeking expert insight."
-          ],
-          "link": "https://www.cbssports.com/nba/news/knicks-spurs-nba-finals-2026-game-1-odds-prediction-time-expert-picks-best-bets/",
+          "id": "9a48a2135ffa",
+          "title": "2026 NBA playoff bracket, schedule: Knicks open Finals with stunning Game 1 comeback win over Spurs",
+          "original_title": "2026 NBA playoff bracket, schedule: Knicks open Finals with stunning Game 1 comeback win over Spurs",
+          "summary": "The Knicks trailed by as many as 14 points in the second half but came back to stun the Spurs in Game 1",
+          "key_points": [],
+          "link": "https://www.cbssports.com/nba/news/2026-nba-playoff-bracket-matchups-schedule/",
           "source": "CBS Sports NBA",
-          "published": "2026-06-03T22:05:24+00:00",
+          "published": "2026-06-04T03:28:44+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "4b3d03477ac3",
+          "title": "Jalen Brunson exchange words with Spurs Fan",
+          "original_title": "Jalen Brunson exchange words with Spurs Fan",
+          "summary": "      &#32; submitted by &#32;  /u/raptors201966   [link] &#32; [comments] ",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/nba/comments/1twbm4x/jalen_brunson_exchange_words_with_spurs_fan/",
+          "source": "Reddit r/nba",
+          "published": "2026-06-04T03:18:26+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "d59fc1d45867",
+          "title": "[Highlight] The New York Knicks take Game 1 of the NBA Finals with a 105-95 victory over the San Antonio Spurs. The Knicks have now won 12 straight playoff games, tying the 1999 Spurs for the 2nd-longest win streak in a single postseason.",
+          "original_title": "[Highlight] The New York Knicks take Game 1 of the NBA Finals with a 105-95 victory over the San Antonio Spurs. The Knicks have now won 12 straight playoff games, tying the 1999 Spurs for the 2nd-longest win streak in a single postseason.",
+          "summary": "      &#32; submitted by &#32;  /u/nba   [link] &#32; [comments] ",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/nba/comments/1twble6/highlight_the_new_york_knicks_take_game_1_of_the/",
+          "source": "Reddit r/nba",
+          "published": "2026-06-04T03:17:29+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "acd1b18d7262",
+          "title": "Jalen Brunson comes alive late, Knicks open NBA Finals with gutsy Game 1 win over Spurs",
+          "original_title": "Jalen Brunson comes alive late, Knicks open NBA Finals with gutsy Game 1 win over Spurs",
+          "summary": "In their first NBA Finals game in 27 years, the Knicks beat the San Antonio Spurs 105-95 on Wednesday night.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/jalen-brunson-comes-alive-knicks-031705073.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-06-04T03:17:05+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "b1303324f97f",
+          "title": "Fan runs onto court to take selfie with Victor Wembanyama during Game 1 of NBA Finals",
+          "original_title": "Fan runs onto court to take selfie with Victor Wembanyama during Game 1 of NBA Finals",
+          "summary": "The fan was quickly apprehended by Spurs security and rushed off the court.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/nba/article/fan-runs-onto-court-to-take-selfie-with-victor-wembanyama-during-game-1-of-nba-finals-031549194.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-06-04T03:15:49+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "e6ccb4c0d6b6",
+          "title": "After beating the Spurs, the Knicks extend their Franchise Playoff Win Streak to 12 Straight Wins.",
+          "original_title": "After beating the Spurs, the Knicks extend their Franchise Playoff Win Streak to 12 Straight Wins.",
+          "summary": "With their win against the Spurs, the Knicks' win streak is starting to reach all time levels. At 12 straight wins, they are tied for the 3rd highest win streak in playoff history. To some degree, it's almost laughable how NBA discourse has underestimated their ability, especially when they haven't lost since Apr 23, 2026. It'll be interesting to see if they can reach 13 wins, since that would tie them for 2nd all time. https://www.espn.com/nba/boxscore/_/gameId/401859963 https://champsorchumps.",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/nba/comments/1twbjzq/after_beating_the_spurs_the_knicks_extend_their/",
+          "source": "Reddit r/nba",
+          "published": "2026-06-04T03:15:39+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "2abdeabcc3e0",
+          "title": "Josh Hart in a Game 1 Finals win against San Antonio: 3 PTS \u2502 15 REB \u2502 6 AST \u2502 4 STL \u2502 1 BLK \u2502 +21",
+          "original_title": "Josh Hart in a Game 1 Finals win against San Antonio: 3 PTS \u2502 15 REB \u2502 6 AST \u2502 4 STL \u2502 1 BLK \u2502 +21",
+          "summary": "Source: https://www.espn.com/nba/game?gameId=401859963 Josh Hart in a Game 1 Finals win against San Antonio: 3 PTS \u2502 15 REB \u2502 6 AST \u2502 4 STL \u2502 1 BLK \u2502 +21  &#32; submitted by &#32;  /u/YujiDomainExpansion   [link] &#32; [comments]",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/nba/comments/1twbjmr/josh_hart_in_a_game_1_finals_win_against_san/",
+          "source": "Reddit r/nba",
+          "published": "2026-06-04T03:15:12+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "0b0c3c3c703c",
+          "title": "[Post Game Thread] The New York Knicks (1-0) steal Game 1 on the road against the San Antonio Spurs (0-1), 105-95, behind Jalen Brunson's 30 point performance",
+          "original_title": "[Post Game Thread] The New York Knicks (1-0) steal Game 1 on the road against the San Antonio Spurs (0-1), 105-95, behind Jalen Brunson's 30 point performance",
+          "summary": "ESPN Box Score NBA Finals - Game 1 \u2022 NY leads series 1-0   ** ** 1 2 3 4 T    NY 19 29 28 29 105   SA 27 28 21 19 95     Team FG FG% 3P 3P% FT FT% REB AST STL BLK TOV PF    NY 39-94 41% 11-36 31% 16-18 89% 49 20 8 4 9 23   SA 32-89 36% 11-43 26% 20-25 80% 54 16 4 4 13 23     New York Knicks                                Starters MIN PTS FG 3PT FT REB AST TO STL BLK OREB DREB PF +/-   OG Anunoby#8 31 17 5/12 3/6 4/4 3 0 0 1 1 0 3 0 -6   Karl-Anthony Towns#32 34 18 7/15 0-2 4/4 12 4 2 0 1 4 8 4 1",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/nba/comments/1twbjih/post_game_thread_the_new_york_knicks_10_steal/",
+          "source": "Reddit r/nba",
+          "published": "2026-06-04T03:15:02+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -296,153 +236,113 @@
       "name": "Lakers Players",
       "articles": [
         {
+          "id": "4f149aebc74f",
+          "title": "Lakers star Luka Doncic earns high praise from AJ Dybantsa after a dominant display - The Times of India",
+          "original_title": "Lakers star Luka Doncic earns high praise from AJ Dybantsa after a dominant display - The Times of India",
+          "summary": "Lakers star Luka Doncic earns high praise from AJ Dybantsa after a dominant display&nbsp;&nbsp;The Times of India",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQejlLYTV5bHd6OXRVa29Vb2dUOVRXaEhsdElSbVV3MXFsRFVvMUg5cG9NaG4tZnFHRC1COTk5Y0Y0MEt6M0dGUDBfd2lobFRrOFRDS00wYjlNenNfdEdkYjdIQ0NKV2tGZXUzXy1WN2kya21GS1I0VUNrTHRrNFNUUDFWbTRIVVhtRnlFdU5vUC1JOHNpcFZQUVJVcHpDa2cyWnk1eW40Y1dybHhOX18wWHlKWjQ2cnUtWXM2WHBTWEVBeVdHTzZwQWw5MF9wVjV6RzlrNDl3bUVWcDlqdzVKSlRra0Z2dkRaLXBXd2FPS3JFS0tHaVFZZnBtVm_SAYICQVVfeXFMTUlia19JM3A1QlFfT3BTVnVnU1NGVk10VGpvem5PNUhnV0dfR2JMRzNKSnVSUFQ4cjNOc3ltSjlNTGh5NzlIdGZyU2xvdTVDRXhKZXhrWTRDZ1NNRlBmVUNHV01WOF93SlZraEF5VnlBanFNMHFITWJxMTNWb1djdGZyZnEtMEFyRHEwckh1TTdPUWdYRGxvcjBVOEtJUEdUTDhjYXdwV0lvVTF2bVAwRzlobDhyOWFzOVBsbDVDUUtlSW1EX2VyV2t2c2JMV3BLb2FjZUdiR0RwZktiMk1kZldTcFptUnpROFFkTDJnMVRFM0dOdXFnb29ZR2JOWWM3ZGhB?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-06-04T01:05:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "90277f0d9a4d",
+          "title": "Steph Curry's Sneaker Deal Compared to Caitlin Clark, LeBron James, and More - Sports Illustrated",
+          "original_title": "Steph Curry's Sneaker Deal Compared to Caitlin Clark, LeBron James, and More - Sports Illustrated",
+          "summary": "Steph Curry's Sneaker Deal Compared to Caitlin Clark, LeBron James, and More&nbsp;&nbsp;Sports Illustrated",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWml1Ujk3SmhFUndDMF9jbDlqLXZOMUNDTWVhU2ZrYnVaN19IeDNXNk1qS2ZoODkxR1VHM1djTUI5UnBDSnZjc0pJVWdoQTRFLWZsdURiR1JLUEE2OERQTGlybW5IYjlob0RyejY3ZXNZVW5oaW15SFZoWmdtSVVkSjZLTmltRThQUXJsaXhvaEMzdi1GWkMxTTJvQTUtREs2ZFRNYmhQQ0k1MjJZNDQzYw?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-06-04T00:11:36+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "5295389a025f",
+          "title": "\u201cGo Finish Your Breakfast\u201d: LeBron James Sends Pointed Message to Odell Beckham Jr. After Giants Reunion - Yahoo Sports",
+          "original_title": "\u201cGo Finish Your Breakfast\u201d: LeBron James Sends Pointed Message to Odell Beckham Jr. After Giants Reunion - Yahoo Sports",
+          "summary": "\u201cGo Finish Your Breakfast\u201d: LeBron James Sends Pointed Message to Odell Beckham Jr. After Giants Reunion&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc0VxOTRVdG11OVZidjBaVkNpcGtHR1djcjMzQ1p5clRDR0FmTlROV2wwN01zSXdYSGhOLVNhcmhJb2JvQVlGdWF1emU4eHItZi0tVUkyOFZ1bHYtSGhIMWtlWF9IVmhQVlllMzc0NHpPRi0xbl9Fekl0cWNzeUVtNHBiOTJlTC0wUHZCcA?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-06-03T23:41:25+00:00",
+          "topic": "Lakers Players"
+        },
+        {
           "id": "63283b04927a",
-          "title": "Julius Erving Envisions a 'Great Farewell Tour' for LeBron James",
+          "title": "Julius Erving envisions 'great farewell tour' for LeBron James - Akron Beacon Journal",
           "original_title": "Julius Erving envisions 'great farewell tour' for LeBron James - Akron Beacon Journal",
-          "summary": "Former NBA legend Julius Erving discussed the possibility of LeBron James receiving a celebratory farewell tour as his time with the Los Angeles Lakers draws to a close. Erving highlighted James' impact on the league and suggested a series of events to honor his career.",
-          "key_points": [
-            "Erving proposes a structured farewell tour for LeBron James.",
-            "The concept aims to recognize James' contributions to the NBA and the Lakers.",
-            "No official plans have been announced by the Lakers organization."
-          ],
+          "summary": "Julius Erving envisions 'great farewell tour' for LeBron James&nbsp;&nbsp;Akron Beacon Journal",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRGYtNk9KQ0FzRW5lcG1jZlgwejBidmpJWm9iSWg2UEw3aXVPX2ZTdzludy1PWmd3REZPTG5nVjQ2ckFNN1pzT3RwSmt3WXV0b1A3b2htN3FFU1FyT0t1NTNjYUVMMENmOWxUQXhFbFhsaEg1RzVocDl6dGFVYU8zRlBncU92SU5IOFlpd181NkgzZDdoRlZJZl9qQzNEZWNveGwweXRkTTJTcnVrSV9BVm9JUXNPZGJVRkRRZ0FzZ1lSMUwtWkx5ZmFRUy1vSTVkNFBvM0s1eEFnUQ?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-06-03T22:40:00+00:00",
           "topic": "Lakers Players"
         },
         {
+          "id": "d29e242ac5b4",
+          "title": "Lakers Get Good News on Potential 9-Time All-Star Target to Join Luka Doncic - heavy.com",
+          "original_title": "Lakers Get Good News on Potential 9-Time All-Star Target to Join Luka Doncic - heavy.com",
+          "summary": "Lakers Get Good News on Potential 9-Time All-Star Target to Join Luka Doncic&nbsp;&nbsp;heavy.com",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSHdXTnRWVlFNdHZrVHhrMkpMMUVVMXBDOGJHbkVzanIzMnpfZnpyTEpEU3hfNmZiWlhJM3cxY1R0WmFZZ1dfUzBWTUxZSDR1VEhiUHFQOTc2VTV3S0ZwYmZBaGlORGZsOGh5V2Z5UW53eEpLSzdnMHV5TGxfZmlZaFRfWFhmazhiTENZ?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-06-03T22:34:18+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "4f30e5dc8f07",
+          "title": "LeBron James Put Dylan Harper\u2019s Father On Blast Before Knicks vs. Spurs Finals - The Spun",
+          "original_title": "LeBron James Put Dylan Harper\u2019s Father On Blast Before Knicks vs. Spurs Finals - The Spun",
+          "summary": "LeBron James Put Dylan Harper\u2019s Father On Blast Before Knicks vs. Spurs Finals&nbsp;&nbsp;The Spun",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQUNncXZjZGl0SHdjQWdQQWVJWGxfd1d6aTZhMWhLS1JORTMtdU9WaUMzRG9ZTVlad3Fyd1Q0SkRNbDZ6YVdFcFVVRTE2M0g3T1RvdUozZnBYR2RmM1JQb2x1OUQ4bGpoclRiWHZZd0JGQnpqTWFuQ3JoLWRmTWFPdGxxYkMxbGRHaEphZzBpYmxMWm5YYmhWMWpZc1ZJWTBrVGc?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-06-03T22:21:41+00:00",
+          "topic": "Lakers Players"
+        },
+        {
           "id": "319b193137e3",
-          "title": "Lakers Fans Brace for Potential Luka\u202fDoncic Dominance in NBA Finals",
+          "title": "Lakers fans must brace for the worst Luka Doncic takes imaginable during NBA Finals - Lake Show Life",
           "original_title": "Lakers fans must brace for the worst Luka Doncic takes imaginable during NBA Finals - Lake Show Life",
-          "summary": "An opinion piece warns Los Angeles Lakers supporters that the Dallas Mavericks' Luka\u202fDoncic could deliver a historically dominant performance in the upcoming NBA Finals. The article emphasizes the need for the Lakers to prepare defensively against his scoring and playmaking abilities.",
-          "key_points": [
-            "Doncic is projected as a major threat for the Lakers in the Finals.",
-            "The article urges fans to manage expectations and support defensive adjustments.",
-            "No concrete predictions are made; the piece is speculative commentary."
-          ],
+          "summary": "Lakers fans must brace for the worst Luka Doncic takes imaginable during NBA Finals&nbsp;&nbsp;Lake Show Life",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcHJlU0dGcWRELV9KRnN3OVAzRm52ajBxWElpZnVtSTZmczlzWmNpd1JWbXFvMEpRZURsZ3hicTJuQ2g5aks1NmdzRXJrXzdxdDY5Q3pjUlFmMFNzU3VRODZDd01ON0R6TjJPS1RXanVObTF2TE51VDA3S093ZllTREpEajZqM2RFbGN3bTQ3MU4yMEs0RVlxcmJxNXptNjljSzI5bk90TQ?oc=5",
           "source": "Google News - Luka",
-          "published": "2026-06-03T22:00:01+00:00",
+          "published": "2026-06-03T22:00:02+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "0adb41925aa6",
-          "title": "AJ Dybantsa Calls Luka\u202fDoncic\u2019s Live Performance \u2018Craziest\u2019 He\u2019s Seen",
-          "original_title": "AJ Dybantsa: Watching Luka Doncic Live Was \u2018Craziest Performance\u2019 - Lakers Nation",
-          "summary": "College prospect AJ Dybantsa praised Luka\u202fDoncic after watching him play in person, describing the performance as the \"craziest\" he has ever witnessed. Dybantsa highlighted Doncic\u2019s scoring bursts and clutch play during the game.",
-          "key_points": [
-            "Dybantsa attended a live Mavericks game and was impressed by Doncic.",
-            "He emphasized the intensity and skill displayed by the star guard.",
-            "The comments reflect broader admiration for Doncic\u2019s impact on the court."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWXJjQVhycGd3TTNtU1h1S0tfRGxZLW9fb0JtcERvd2RaZnRWdU5kX3d0b0FteV91SElWR2VKWFFHbEdPdEZUcncxV1htcjk0NzhtWjV2OUJjYmhEZks2cXBhRkZlTlZ2aktQVlRjUTlJSDZJZldwS3VJZE0yWnZ0N3Z6WVpMTjByTnlOVzFwNkVWQQ?oc=5",
+          "id": "f3e2c7b50a86",
+          "title": "Lakers' Luka Doncic Left AJ Dybantsa Speechless After Historic Performance - Sports Illustrated",
+          "original_title": "Lakers' Luka Doncic Left AJ Dybantsa Speechless After Historic Performance - Sports Illustrated",
+          "summary": "Lakers' Luka Doncic Left AJ Dybantsa Speechless After Historic Performance&nbsp;&nbsp;Sports Illustrated",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcUEyYjJuWV9hdmpad0lhbEl3S1BoRTllbXcxbkFXandjRzlnckctZHlKNkZrZk9kb0J0UmpndXJnNV9tSE1GWlpCV0RDcnk1WDlocEM0anAyYUlvZjZzSHNiNnBXY2VQZElTeVRISjJCZnJkU3lyVXh2R2RYNUJJME9GSzNMaV9HbjAtb052dw?oc=5",
           "source": "Google News - Luka",
-          "published": "2026-06-03T20:40:08+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "eb9d1118abb3",
-          "title": "Myles Garrett Weighs In on LeBron James\u2019 Uncertain Lakers Future",
-          "original_title": "Rams' Myles Garrett Weighs In on LeBron James' Uncertain Lakers Future - Sports Illustrated",
-          "summary": "NFL defensive end Myles Garrett shared his thoughts on LeBron James\u2019 situation with the Los Angeles Lakers, noting the uncertainty surrounding James\u2019 contract and role. Garrett expressed respect for James while acknowledging the challenges the Lakers face in planning their roster.",
-          "key_points": [
-            "Garrett comments on the ambiguity of James\u2019 contract status.",
-            "He highlights the Lakers\u2019 need to make strategic decisions moving forward.",
-            "The perspective comes from an outside sport, underscoring James\u2019 cross\u2011sport influence."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd2dWZHk2aVNBZ0p6NU9BbU9XN3VYdnEyLW9IRk5XN3MyWDA2cWZqclloOF9oZmFxRmFnRG9kbDI3aXVZZ0xkaXBwWExLcXd0eHJkRzJuaG9XX2xjdUFSVWNSTE01LTA3TEliLWk1cVhUVnpJOHNrbUVMZEJTemFPZnpsUkpCZVU?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-06-03T20:28:48+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "916834cf3fe9",
-          "title": "Rich Paul Says Michael Jordan Is the GOAT, but LeBron James Is the Best Player Ever",
-          "original_title": "Rich Paul says Michael Jordan is the GOAT, but LeBron James is the best player ever - HoopsHype",
-          "summary": "NBA agent Rich Paul stated that while Michael Jordan holds the title of greatest of all time (GOAT), LeBron James should be considered the best player ever due to his overall skill set and longevity. Paul\u2019s remarks were made in an interview discussing player legacies.",
-          "key_points": [
-            "Paul differentiates between \"GOAT\" (Jordan) and \"best player ever\" (LeBron).",
-            "He cites LeBron\u2019s versatility, durability, and statistical achievements.",
-            "The comments add to ongoing debates about all\u2011time NBA rankings."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYVJGaXJnZ0l4VTc1T3gwQWsyN1NHN2NLaFpkZFhNRlRNUC0teDQxNkQ1dklLTDdLZlk2eWUwc0REa19heGRpVTBBM0N5V1BpcC1pRDhLVFBHczhCR01LRHhMc19QM3JTZ1pfV0dwWXBoTHFuSlRRZWhETVlpc1Z3QzlBeEdZOVoyYmNSem8tR2pHYVVDSF9RektTNE0xWnpfT0lseE5WLUNuSndZTWFjNjh3ZFFXRjRCYzRXWG5Dc21IaGs1dHB5anVwNTBUTzJMR1h2aXNNVzZ4VGd2cFhJaEswYw?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-06-03T19:57:00+00:00",
+          "published": "2026-06-03T21:32:36+00:00",
           "topic": "Lakers Players"
         },
         {
           "id": "fd95d4f89e71",
-          "title": "LeBron James' Buckets Restaurant Brings Comfort Food and Community to Akron",
+          "title": "LeBron James' Buckets Restaurant Brings Comfort Food and Community to Akron - Cleveland Magazine",
           "original_title": "LeBron James' Buckets Restaurant Brings Comfort Food and Community to Akron - Cleveland Magazine",
-          "summary": "LeBron James opened Buckets, a casual eatery in his hometown of Akron, offering comfort\u2011food staples such as chicken tenders and mac\u202f&\u202fcheese. The restaurant emphasizes community involvement, partnering with local schools and charities to provide meals and job opportunities.",
-          "key_points": [
-            "Buckets serves classic comfort dishes aimed at a broad, family\u2011friendly audience.",
-            "LeBron\u2019s ownership includes a commitment to local hiring and charitable initiatives.",
-            "The venue is positioned as a gathering spot to boost Akron\u2019s economic and social vitality."
-          ],
+          "summary": "LeBron James' Buckets Restaurant Brings Comfort Food and Community to Akron&nbsp;&nbsp;Cleveland Magazine",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDlSX1FZOTBsUW9MSFVid2pBNGpwMWtYVkRTOWVyR09VdmdReE9tZXJFNWFNYkF2Y0FHSFA3eXhqWlpCU3dxWEFJYXV4SDNmd1E1YjBCTmVBUFNSTkd3czc1TllwTlRQc1hMRGYxUlpSX1QzSUpCRF9BZ05yM285aFk3bnVGOWxxSndRdDNEUWlYcDJiZ1dYeDJhSmx6bG1yTjA3LUNFbG9odVNuWk92Wm1QZEs?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-06-03T19:30:54+00:00",
+          "published": "2026-06-03T20:58:29+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "598166b40af5",
-          "title": "How Myles Garrett\u2019s Arrival in LA Could Help Lakers Keep LeBron James",
-          "original_title": "How Myles Garrett\u2019s Arrival in LA Could Help Lakers Keep LeBron James - LA Sports Report",
-          "summary": "Sports analyst speculates that the recent move of NFL defensive end Myles Garrett to Los Angeles may indirectly aid the Lakers in retaining LeBron James. Garrett\u2019s high profile and community ties could enhance the city\u2019s overall appeal for elite athletes, reinforcing Los Angeles as a desirable home for stars.",
-          "key_points": [
-            "Garrett\u2019s presence adds another marquee name to LA\u2019s sports landscape.",
-            "The analyst argues that a stronger city brand can influence NBA free\u2011agency decisions.",
-            "No direct involvement from the Lakers or Garrett is reported; the piece is purely speculative."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZlhaM0wydHhlQkF0N0JUNHVQRFByUG9UMWxRTDZnZFZwREE5bko2cFpfX3J6RVA5cnVkLTlTaGlTaE9VcW1YS0s2blV6cjg3ZFFocUQzN2I5dHJsR0U1WDZsSHNMVFRMd3ZpTkxPZ2JBaDJDZTVfT2lVaUVRSWYtRQ?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-06-03T19:16:15+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "5eb5781fb0a1",
-          "title": "Lonzo Ball Says LeBron James Is Unlikely to Leave Los Angeles",
-          "original_title": "\"You are not going to golf in Cleveland\" - Lonzo Ball explains why LeBron James is unlikely to leave Los Angeles - Basketball Network",
-          "summary": "Lonzo Ball explained that LeBron James has no intention of moving back to Cleveland, using a light\u2011hearted comment about not golfing in the city. Ball highlighted LeBron\u2019s satisfaction with the Lakers\u2019 environment and his commitment to the franchise.",
-          "key_points": [
-            "Ball\u2019s quote underscores LeBron\u2019s contentment with life in LA.",
-            "The comment references LeBron\u2019s love of golf and the lack of suitable courses in Cleveland.",
-            "No concrete contract details are disclosed; the statement reflects personal opinion."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRjVoNk95ZDVsNUlfb1FXRWhHZFpycnAwT2p5UENXNXpVclBxeUZzZXRFS29ZcUpEc2xoVXk4R1NBSG1mLUNpYVJtdU5KT2pSRHRfYTZxWmdBaG9vd192TXlrUzRFa3RhU0xkdkp2cVdXS3gzYlluVDQtYmpGZjYwWHRMY1VHTWh4WUtxVGFydjVYWFgyYzYxNHpEbkdfeTNkMktNdmJjaTBlWVdGalRUNGtrQlFMQQ?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-06-03T17:28:30+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "2aeff2a66ccb",
-          "title": "LeBron James Gifts Nelly Korda Customized Nike Golf Shoes Ahead of U.S. Women\u2019s Open",
-          "original_title": "LeBron James Gifts Nelly Korda Customized Nike Golf Shoes Ahead Of US Women's Open - Yahoo",
-          "summary": "LeBron James presented Olympic gold\u2011medalist golfer Nelly Korda with a pair of personalized Nike golf shoes before the U.S. Women\u2019s Open. The gesture highlights LeBron\u2019s cross\u2011sport friendships and his role as a Nike ambassador.",
-          "key_points": [
-            "The shoes feature Korda\u2019s name and a special colorway designed by LeBron.",
-            "LeBron\u2019s involvement showcases his influence beyond basketball, supporting women\u2019s golf.",
-            "The gift was shared on social media, generating buzz for both athletes and Nike."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbmRfTFVKa0dRbnB0R19lYm05d0llOG94M29hbkwxRWMxWTlOZmRPeU1mWTNuSmNobDlRYjQ2NGR2Q3lBOEZnUWFISzU2TFRGa0w5VFNZaTBuQUxWQndkcnNPUEpScFUyVEROZ0w4R2ZMZnBCQXR4UUFKdlc2R3NQZGM4bDJyVGFUaG1PcWkxdw?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-06-03T16:48:18+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "d38afb12763a",
-          "title": "New Rams Star Myles Garrett Makes Pitch for LeBron James to Stay with Lakers",
-          "original_title": "New Rams Star Myles Garrett Makes Pitch For LeBron James To Stay With Lakers - Lakers Nation",
-          "summary": "In a recent interview, Rams defensive end Myles Garrett urged LeBron James to remain with the Los Angeles Lakers, citing the city\u2019s vibrant sports culture and the team\u2019s championship potential. Garrett\u2019s comments aim to rally fan support for retaining the NBA superstar.",
-          "key_points": [
-            "Garrett, a high\u2011profile NFL rookie, publicly backed LeBron\u2019s continuation in LA.",
-            "He highlighted the Lakers\u2019 roster and market as key factors for LeBron\u2019s decision.",
-            "The appeal is promotional; no formal involvement from the Lakers organization is indicated."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbUhZNEpURXF5a1A0UkRLTS1TLVlEWUNHU0ktOGtkdVdObzhWeUU0cE1KNlFxTG15cF9qcXcxVnlfSmIzZnRyLXFsaVR2c0VwSzE0Rng3SGNDaW93U3k3MkF3S09oT0VSemJ3ZjBzT29LRTlKb0lRR0R6Ym9LLURYUm0zbGZRcUtZLUJIall4Z1cxU3B4bko0dnZjNEZ5UjBG?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-06-03T16:45:23+00:00",
+          "id": "449b992a9ba3",
+          "title": "Lakers Mega 5-Team Trade Pitch Forms $340 Million Duo Around Luka Doncic - heavy.com",
+          "original_title": "Lakers Mega 5-Team Trade Pitch Forms $340 Million Duo Around Luka Doncic - heavy.com",
+          "summary": "Lakers Mega 5-Team Trade Pitch Forms $340 Million Duo Around Luka Doncic&nbsp;&nbsp;heavy.com",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcDg4SW9ZaWJNaUtfSF9HVk5tcnFyaTVzU0JZd0lVZVRBTUxZZ1VsN3oyd3h4Nm96RTBrT0dLeG9PRngxLWFtQ2swMEZyVUhHeVNFdDcyb0VuNk9hVHNDVEhJRFdfbDlrN19kY20tWEZGck5oQ21QcFMyUXJ1c292aVh2dGhCdw?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-06-03T20:56:17+00:00",
           "topic": "Lakers Players"
         }
       ]
