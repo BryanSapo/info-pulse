@@ -1,16 +1,35 @@
 {
-  "generated_at": "2026-06-06T15:30:36.957135+00:00",
-  "total_articles": 30,
+  "generated_at": "2026-06-06T17:29:32.819695+00:00",
+  "total_articles": 25,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
+          "id": "c6f3f277c677",
+          "title": "JJ Redick Praises Luka Doncic\u2019s Growth As Leader",
+          "original_title": "JJ Redick Praises Luka Doncic\u2019s Growth As Leader",
+          "summary": "Luka Doncic completed his first full season with the Los Angeles Lakers in 2025\u201126, earning All\u2011NBA First Team honors. Head coach JJ\u202fRedick guided the team to a franchise\u2011record 53 wins, the most since the 2009\u201110 season, marking a highly successful campaign.",
+          "key_points": [
+            "Doncic\u2019s debut full season resulted in All\u2011NBA First Team selection.",
+            "The Lakers posted 53 wins, the most in a single season since 2009\u201110.",
+            "Coach JJ Redick achieved his second consecutive 50\u2011win season."
+          ],
+          "link": "https://lakersnation.com/lakers-news-jj-redick-praises-luka-doncic-growth-as-leader/",
+          "source": "Lakers Nation",
+          "published": "2026-06-06T15:30:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
           "id": "ecf2d3ec92a6",
-          "title": "February 2 2009 Kobe Bryant's 61 points at MSG",
+          "title": "Kobe Bryant\u2019s 61\u2011Point Game at MSG (Feb.\u202f2,\u202f2009)",
           "original_title": "February 2 2009 Kobe Bryant's 61 points at MSG",
-          "summary": "      &#32; submitted by &#32;  /u/CircledSquare7   [link] &#32; [comments] ",
-          "key_points": [],
+          "summary": "On February 2, 2009, Kobe Bryant scored 61 points at Madison Square Garden, leading the Lakers to a victory. The performance is remembered as one of Bryant\u2019s most dominant scoring nights.",
+          "key_points": [
+            "Bryant tallied 61 points against the New York Knicks.",
+            "The game took place at Madison Square Garden.",
+            "The performance remains a highlight in Lakers history."
+          ],
           "link": "https://www.reddit.com/r/lakers/comments/1tyiqzn/february_2_2009_kobe_bryants_61_points_at_msg/",
           "source": "Reddit r/lakers",
           "published": "2026-06-06T14:28:42+00:00",
@@ -18,10 +37,14 @@
         },
         {
           "id": "0079a6bd7cd0",
-          "title": "James Worthy Discusses If Showtime Lakers Could Compete In Today\u2019s NBA",
+          "title": "James Worthy Weighs Showtime Lakers Against Modern NBA",
           "original_title": "James Worthy Discusses If Showtime Lakers Could Compete In Today\u2019s NBA",
-          "summary": "When it comes to the great dynasties in NBA history, the Showtime Los Angeles Lakers of the 1980s are undoubtedly one of the best of all-time. Led by Magic Johnson, Kareem Abdul-Jabbar and James Worthy, the Lakers made the NBA Finals nine times in 12 years between 1980 and 1991, winning five NBA Championships and [&#8230;]",
-          "key_points": [],
+          "summary": "James Worthy reflected on whether the 1980s Showtime Lakers could compete in today\u2019s NBA. He discussed the team\u2019s fast\u2011paced style, star power of Magic Johnson, Kareem Abdul\u2011Jabbar and himself, and the five championships they won during that era.",
+          "key_points": [
+            "Showtime Lakers reached the NBA Finals nine times between 1980\u20111991, winning five titles.",
+            "Worthy highlighted the team\u2019s speed, talent depth, and coaching as factors for success.",
+            "He debated how those strengths would translate to the modern, more athletic NBA."
+          ],
           "link": "https://lakersnation.com/james-worthy-discusses-if-showtime-lakers-could-compete-in-todays-nba/",
           "source": "Lakers Nation",
           "published": "2026-06-06T14:20:42+00:00",
@@ -31,8 +54,12 @@
           "id": "e9221b37f274",
           "title": "Daily Lakers Offseason Discussion Thread",
           "original_title": "Daily Lakers Offseason Discussion Thread",
-          "summary": "Lakers season is over. Talk about whatever you want.  &#32; submitted by &#32;  /u/AutoModerator   [link] &#32; [comments]",
-          "key_points": [],
+          "summary": "A Reddit thread invites fans to discuss any topics related to the Los Angeles Lakers now that the season has concluded. Users are encouraged to share thoughts on roster moves, coaching, and future outlooks.",
+          "key_points": [
+            "Thread serves as an open forum for offseason speculation and analysis.",
+            "Fans can discuss trades, free\u2011agency targets, and draft prospects.",
+            "Moderated by r/lakers AutoModerator to keep conversation on\u2011topic."
+          ],
           "link": "https://www.reddit.com/r/lakers/comments/1tyi1ro/daily_lakers_offseason_discussion_thread/",
           "source": "Reddit r/lakers",
           "published": "2026-06-06T14:00:38+00:00",
@@ -40,79 +67,17 @@
         },
         {
           "id": "3ee8a51a3764",
-          "title": "Jan 31 2007 - Boston Crowd chants MVP towards Kobe Bryant after he puts on a 43 point clinic. Adds in 8 rebounds and 8 assists in Lakers victory",
+          "title": "Kobe Bryant\u2019s 43\u2011Point Clinic Sparks MVP Chant (Jan.\u202f31,\u202f2007)",
           "original_title": "Jan 31 2007 - Boston Crowd chants MVP towards Kobe Bryant after he puts on a 43 point clinic. Adds in 8 rebounds and 8 assists in Lakers victory",
-          "summary": "      &#32; submitted by &#32;  /u/CircledSquare7   [link] &#32; [comments] ",
-          "key_points": [],
+          "summary": "During a game on January 31, 2007, Kobe Bryant recorded 43 points, 8 rebounds and 8 assists, prompting Boston fans to chant \u201cMVP\u201d at him. The performance helped the Lakers secure a win.",
+          "key_points": [
+            "Bryant posted a near\u2011triple\u2011double with 43 points, 8 rebounds, 8 assists.",
+            "Boston crowd chanted \u201cMVP\u201d in response to his dominant play.",
+            "The effort contributed to a Lakers victory."
+          ],
           "link": "https://www.reddit.com/r/lakers/comments/1tyhuod/jan_31_2007_boston_crowd_chants_mvp_towards_kobe/",
           "source": "Reddit r/lakers",
           "published": "2026-06-06T13:52:21+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "3d3ebc8bfb20",
-          "title": "Andre Drummond Shares Story Demonstrating LeBron James\u2019 Intelligence",
-          "original_title": "Andre Drummond Shares Story Demonstrating LeBron James\u2019 Intelligence",
-          "summary": "Many consider Los Angeles Lakers superstar LeBron James not just one of the best players in NBA history, but also one of the smartest. And veteran center Andre Drummond found out exactly why during his short time as James\u2019 teammate with the Lakers back in 2021. Drummond spoke highly of James\u2019 intelligence and revealed a [&#8230;]",
-          "key_points": [],
-          "link": "https://lakersnation.com/andre-drummond-shares-story-demonstrating-lebron-james-intelligence/",
-          "source": "Lakers Nation",
-          "published": "2026-06-06T13:10:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "094df71d983e",
-          "title": "Lakers Urged to Trade for 9-Time All-Star Amid Growing LeBron James Uncertainty - heavy.com",
-          "original_title": "Lakers Urged to Trade for 9-Time All-Star Amid Growing LeBron James Uncertainty - heavy.com",
-          "summary": "Lakers Urged to Trade for 9-Time All-Star Amid Growing LeBron James Uncertainty&nbsp;&nbsp;heavy.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbGlTWHEwQ0NHQ1k5RGwzczJnQ3RUTVU4YlZyTjhtSEt5MWNGSU1RZ3FhMXo2OUE1Y0YxRzZTZFRYSWx4TW0yd2hBQjlWcHNNbE5KYVhkeVRQSUEwYUxQSUFoUTlESGh4LU03Q0NFOTVKdlhhNzNYcEdpd1BJblZEcjlaUGJhRWc?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-06-06T13:09:24+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "bf39380833fe",
-          "title": "Lakers bringing back Anthony Davis remains a divisive idea for good reason - Lake Show Life",
-          "original_title": "Lakers bringing back Anthony Davis remains a divisive idea for good reason - Lake Show Life",
-          "summary": "Lakers bringing back Anthony Davis remains a divisive idea for good reason&nbsp;&nbsp;Lake Show Life",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeDNvU0dGbUFtQ0RmSmFadU1CYU9VemFNdjlCelloX1VSazFDVTVxMnl0OTRBMjFZbzdyWFpKWVpMMGtBRTRwM3V6UDhFa3JQLW15c3ZkUEc2SE5oX1NWbmVFQkYwSlhNaWZyQURZS1FlOUNBeHpUeVg5VG5xYkdWYktkQm5TV2xyLUNRcHR3TXROSXhYYUszZ3dXTzlvQQ?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-06-06T13:00:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "1cb1418205f1",
-          "title": "Wing Targets",
-          "original_title": "Wing Targets",
-          "summary": "      This my targets probably not gonna cause a lot to get especially dean wade who is free agent.  dTS +/- means- Defensive True Shooting Impact: shows the player effect on opponents shooting efficiency in terms of net rating. A positive value is better, indicating the player makes opponents less efficient. dTOV +/- means- Defensive turnover impact: measure the player 's ability to force opponent turnovers in terms of net rating. A positive value means more turnovers forced, improving defensiv",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/lakers/comments/1tyget3/wing_targets/",
-          "source": "Reddit r/lakers",
-          "published": "2026-06-06T12:48:41+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "2429c4ba0fea",
-          "title": "Lakers\u2019 Major Trade Proposal Pairs $126 Million Celtics Star With Luka Doncic - heavy.com",
-          "original_title": "Lakers\u2019 Major Trade Proposal Pairs $126 Million Celtics Star With Luka Doncic - heavy.com",
-          "summary": "Lakers\u2019 Major Trade Proposal Pairs $126 Million Celtics Star With Luka Doncic&nbsp;&nbsp;heavy.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQczZuZkwzWkctemN4TXVRem1SS1N6Z0x5Qjd3aFJSSUdBQk9ad3lWR0JLNnpNWks3b1JZUWNtY2piWHN4SnlBcWMzU051cl9TY3pHYk1Ybm43akU0TWl6Y21fTHVzTUM1VUUwcEZUcl9uSEtCUjQ4aW8wMi16TXlUS2hlNDBrajB2MkwwWVQzOA?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-06-06T12:45:07+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "881d0203f943",
-          "title": "This Day In Lakers History: Shaquille O\u2019Neal, Allen Iverson Become 2nd Set Of Opposing Players To Score At Least 40 Points In Same NBA Finals Game",
-          "original_title": "This Day In Lakers History: Shaquille O\u2019Neal, Allen Iverson Become 2nd Set Of Opposing Players To Score At Least 40 Points In Same NBA Finals Game",
-          "summary": "The Los Angeles Lakers, led by Kobe Bryant and Shaquille O'Neal, had simply dominated the 2001 NBA Playoffs...",
-          "key_points": [],
-          "link": "https://lakersnation.com/this-day-lakers-history-shaquille-oneal-allen-iverson-become-second-set-opposing-players-at-least-40-points-same-nba-finals-game/",
-          "source": "Lakers Nation",
-          "published": "2026-06-06T12:00:59+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -121,133 +86,133 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "4d862465441e",
-          "title": "Wembanyama laments costly turnover in Game 2 loss",
-          "original_title": "Wemby rues costly turnover: 'This game was ours'",
-          "summary": "Victor Wembanyama said his urgency led to a late turnover that helped the Spurs fall to the Knicks in Game 2. He expressed frustration but vowed to channel it into motivation for the upcoming game.",
-          "key_points": [
-            "Turnover occurred late in the fourth quarter of Game 2.",
-            "Wembanyama attributed the mistake to playing too fast.",
-            "He promised to use the disappointment as fuel for Game 3."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48981597/wemby-rues-costly-turnover-spurs-fall-game-2-nba-finals",
-          "source": "ESPN NBA",
-          "published": "2026-06-06T16:08:57+00:00",
+          "id": "fae4a9a6bf11",
+          "title": "'They shouldn't lose that game' - the pundits' say on Glasgow's semi-final loss",
+          "original_title": "'They shouldn't lose that game' - the pundits' say on Glasgow's semi-final loss",
+          "summary": "It was a tough day at Murrayfield in the URC semi-final as Glasgow threw away an 18-point lead to lose to the Bulls.  Former Warriors flanker John Barclay: Glasgow ripped the Bulls to shreds in the first 30 minutes.  In the second half, Glasgow threw the same pictures at them, but they defended so much better.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/shouldnt-lose-game-pundits-glasgows-165915469.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-06-06T16:59:15+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "d84679b23d61",
-          "title": "Glasgow Warriors fall to Bulls in URC semi\u2011final",
-          "original_title": "URC semi-final: Glasgow lose to Bulls in second half - radio & text",
-          "summary": "The Glasgow Warriors were defeated by the Bulls in the second half of the United Rugby Championship semi\u2011final at Murrayfield, ending their chance to reach the Grand Final. Live radio and text updates covered the match.",
+          "id": "478a742d0270",
+          "title": "LeBron to Knicks fans, one year ago: \u201cKnicks fans, y\u2019all good? You going to the Finals next year?\u201d",
+          "original_title": "LeBron to Knicks fans, one year ago: \u201cKnicks fans, y\u2019all good? You going to the Finals next year?\u201d",
+          "summary": "      &#32; submitted by &#32;  /u/raptors201966   [link] &#32; [comments] ",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/nba/comments/1tym4bv/lebron_to_knicks_fans_one_year_ago_knicks_fans/",
+          "source": "Reddit r/nba",
+          "published": "2026-06-06T16:41:25+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "08bff4d4df05",
+          "title": "Knicks, up 2-0 in NBA Finals, say the job is far from over. And the Spurs aren't conceding anything",
+          "original_title": "Knicks, up 2-0 in NBA Finals, say the job is far from over. And the Spurs aren't conceding anything",
+          "summary": "The New York Knicks are up 2-0. They say they're unfazed.The San Antonio Spurs are down 0-2. They say they're unfazed.Such is the state of things in the NBA Finals, where both teams were taking a travel day on Saturday. Practices resume Sunday and Game 3 of the title series is Monday night at Madison Square Garden, where President Donald Trump will be watching alongside fans who are willing to pay nearly $10,000 for seats so far from the court that 7-foot-4 Spurs center Victor Wembanyama will lo",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/knicks-2-0-nba-finals-162136717.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-06-06T16:21:36+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "1f27712bc56d",
+          "title": "NYPD cop hurt, 26 arrested outside MSG watch party after Knicks win",
+          "original_title": "NYPD cop hurt, 26 arrested outside MSG watch party after Knicks win",
+          "summary": "Multiple arrests were made at the New York Knicks watch party outside of Madison Square Garden after NBA Finals Game 2, the NYPD said.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/nypd-cop-hurt-26-arrested-162116558.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-06-06T16:21:16+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "6483f59fbaf3",
+          "title": "Knicks coach Mike Brown again finds himself reveling in a long playoff win streak",
+          "original_title": "Knicks coach Mike Brown again finds himself reveling in a long playoff win streak",
+          "summary": "The New York Knicks had just endured their second consecutive one-point loss to the Atlanta Hawks, and this one left them trailing 2-1 in their Eastern Conference first-round series.  The mood in New York was abysmal.  Mike Brown's future as coach was a hot topic.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/knicks-coach-mike-brown-again-161346834.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-06-06T16:13:46+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "12dd1899ee8f",
+          "title": "Mitchell Robinson Attracts Interest from Lakers, Bulls, Raptors, Hornets",
+          "original_title": "[Fischer] Mitchell Robinson is expected to have draw significant free agent interest from the Lakers, Bulls, Raptors, and Hornets.",
+          "summary": "Free\u2011agent center Mitchell Robinson is generating notable interest from several NBA teams, including the Los Angeles Lakers, Chicago Bulls, Toronto Raptors, and Charlotte Hornets. The buzz follows a recent trend where reserve big men have parlayed strong performances into lucrative contracts, similar to the recent market rise of a former Knicks reserve.",
           "key_points": [
-            "Bulls took control in the second half to secure the win.",
-            "Glasgow's loss eliminates them from the URC final contention.",
-            "Coverage was provided via Sportsound radio and live text updates."
+            "Robinson is a sought\u2011after free agent with multiple teams reportedly evaluating him.",
+            "His skill set as a rim\u2011protector and efficient scorer mirrors recent market moves for big men.",
+            "The Lakers are among the clubs most actively pursuing him to bolster their frontcourt."
+          ],
+          "link": "https://www.reddit.com/r/nba/comments/1tykma8/fischer_mitchell_robinson_is_expected_to_have/",
+          "source": "Reddit r/nba",
+          "published": "2026-06-06T15:43:10+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "0870a32bcb97",
+          "title": "Wembanyama Learns That Adversity Precedes Finals Glory",
+          "original_title": "Wembanyama learning lesson Kobe, LeBron, other greats did before: Adversity comes before Finals glory",
+          "summary": "Victor Wembanyama reflected on the challenges he faces, noting that great players like Kobe Bryant and LeBron James also endured hardship before achieving championship success. He acknowledged the possibility of regret but emphasized using setbacks as motivation for future games.",
+          "key_points": [
+            "Wembanyama sees current struggles as a learning opportunity.",
+            "He cites past legends who turned adversity into Finals victories.",
+            "The player vows to channel any regret into fuel for upcoming performances."
+          ],
+          "link": "https://sports.yahoo.com/articles/wembanyama-learning-lesson-kobe-lebron-152841978.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-06-06T15:28:41+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "e3126a6e5dd4",
+          "title": "Glasgow Warriors Fall to Bulls in URC Semi\u2011Final at Murrayfield",
+          "original_title": "Reaction as Glasgow lose URC semi-final to Bulls at Murrayfield",
+          "summary": "The Glasgow Warriors were defeated by the Bulls in the United Rugby Championship semi\u2011final held at Murrayfield, ending their hopes of reaching the Grand Final. Live updates and commentary were provided by Sportsound throughout the match.",
+          "key_points": [
+            "Bulls secured a victory over Glasgow, advancing to the URC final.",
+            "The match took place at Murrayfield with real\u2011time coverage from Sportsound.",
+            "Glasgow's season ends with the semi\u2011final loss."
           ],
           "link": "https://sports.yahoo.com/articles/urc-play-off-semi-final-135839966.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-06-06T14:42:53+00:00",
+          "published": "2026-06-06T15:23:21+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "905665493e34",
-          "title": "Spurs vs. Knicks Game 3 prediction: Harper expected to keep hot hand",
-          "original_title": "Spurs vs Knicks Prediction, Picks & Odds for NBA Finals Game 3",
-          "summary": "Yahoo Sports' NBA preview projects that Dylan Harper will continue receiving significant minutes and maintain his strong shooting performance for the Knicks in Game 3 at Madison Square Garden. The article includes picks and odds for the matchup.",
+          "id": "135bfefe35d2",
+          "title": "Wembanyama Regrets Late Mistakes in Spurs\u2019 105\u2011104 Loss to Knicks",
+          "original_title": "\u2018I messed up\u2019: Wembanyama rues late mistakes after heartbreaking Spurs loss",
+          "summary": "Victor Wembanyama expressed disappointment over his late\u2011game errors that contributed to the San Antonio Spurs\u2019 narrow 105\u2011104 defeat to the New York Knicks in Game 2 of the NBA Finals. The Spurs had rallied with a 14\u20110 run to erase a 14\u2011point fourth\u2011quarter deficit before ultimately falling short.",
           "key_points": [
-            "Harper has been on a hot streak and is slated for heavy usage.",
-            "Expert predictions favor the Knicks to win Game 3.",
-            "Betting odds and pick recommendations are provided."
+            "Wembanyama admitted he could not recall all details of the crucial mistakes.",
+            "Spurs erased a 14\u2011point deficit with a 14\u20110 run but lost by one point.",
+            "The loss puts the Spurs behind in the NBA Finals series."
           ],
-          "link": "https://sports.yahoo.com/articles/spurs-vs-knicks-prediction-picks-141000717.html",
+          "link": "https://sports.yahoo.com/articles/messed-wembanyama-rues-mistakes-heartbreaking-152207427.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-06-06T14:10:00+00:00",
+          "published": "2026-06-06T15:22:07+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "797dead99863",
-          "title": "Sesame Street\u2019s Elmo missteps with Knicks fans during NBA Finals",
-          "original_title": "Elmo learns a life lesson about what happens when you go against Knicks fans in the NBA Finals",
-          "summary": "A promotional segment featuring Elmo delivering a positive message was poorly received by New York Knicks supporters during the NBA Finals, highlighting the tension between the character\u2019s intent and fan expectations.",
+          "id": "258766818c94",
+          "title": "Reddit Thread Claims Knicks\u2019 13\u2011Game Streak Is Linked to \u2018Danhausen Curse\u2019",
+          "original_title": "The Knicks are now 13-0 since Danhausen uncursed them. At this point I think you can\u2019t even blame Wembenyama, the Spurs, or any opponents the Knicks have faced",
+          "summary": "A Reddit user humorously attributed the New York Knicks\u2019 13\u2011game winning streak to the lifting of a supposed \u201cDanhausen curse,\u201d referencing a pro\u2011wrestling storyline. The post notes that the streak cannot be blamed on any single player or opponent, including Victor Wembanyama or the Spurs.",
           "key_points": [
-            "Elmo\u2019s well\u2011meaning message was perceived negatively by Knicks fans.",
-            "The incident occurred amid the heightened emotions of the Finals.",
-            "It underscores the sensitivity of fan reactions in high\u2011stakes games."
+            "The thread blends pro\u2011wrestling lore with NBA commentary, citing a fictional \u201ccurse.\u201d",
+            "Knicks have won 13 consecutive games since the alleged curse was lifted.",
+            "The author emphasizes that the streak is not due to any specific player or team."
           ],
-          "link": "https://sports.yahoo.com/nba/article/elmo-learns-a-life-lesson-about-what-happens-when-you-go-against-knicks-fans-in-the-nba-finals-135616448.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-06T13:56:16+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "9cbde05d8b96",
-          "title": "Knicks emerge as a larger force in the 2026 NBA Finals",
-          "original_title": "The Knicks have become something bigger than themselves in 2026 NBA Finals",
-          "summary": "The New York Knicks have coalesced into a cohesive unit at a pivotal moment in the 2026 NBA Finals, with their performance suggesting they have become more than just a team. The article notes the timing and synergy of their success.",
-          "key_points": [
-            "Knicks\u2019 play has peaked during the Finals series.",
-            "Team chemistry and timing are cited as key factors.",
-            "The narrative positions the Knicks as a cultural and competitive force."
-          ],
-          "link": "https://sports.yahoo.com/articles/knicks-become-something-bigger-themselves-134802521.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-06T13:48:02+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "f7d88b69632c",
-          "title": "SEE IT: NYC back (and front) pages react to Knicks' Game 2 NBA Finals win over Spurs",
-          "original_title": "SEE IT: NYC back (and front) pages react to Knicks' Game 2 NBA Finals win over Spurs",
-          "summary": "The Knicks held off the Spurs' fourth-quarter comeback attempt in Game 2 of the NBA Finals on Friday in San Antonio. Here's how the NYC back pages reacted...",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/see-nyc-back-front-pages-132552727.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-06T13:25:52+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "00b611daec6c",
-          "title": "Why the Toronto Raptors should add the best shooter in the draft",
-          "original_title": "Why the Toronto Raptors should add the best shooter in the draft",
-          "summary": "Texas Tech Red Raider Christian Anderson has a skill set the Raptors both value and can absorb.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/why-toronto-raptors-add-best-131500342.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-06T13:15:00+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "7ebf1a337e8c",
-          "title": "The divine (actually!) force behind Wemby and the ...",
-          "original_title": "The divine (actually!) force behind Wemby and the ...",
-          "summary": "A group of Catholic sisters have gone viral for their decades-long dedication to their hometown team. If their prayers are answered, the Wemby Era will begin with a Spurs win.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48978546/divine-nuns-victor-wembanyama-san-antonio-spurs-nba-finals-hopes-new-york-knicks",
-          "source": "ESPN NBA",
-          "published": "2026-06-06T13:09:30+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "894169c08d4d",
-          "title": "Are the Spurs cooked? How the Knicks have slowed d...",
-          "original_title": "Are the Spurs cooked? How the Knicks have slowed d...",
-          "summary": "Is it time to panic for San Antonio? Let's break down Knicks-Spurs Game 2 from all angles, then look ahead to a massive Game 3 in New York.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/48982102/2026-nba-finals-game-2-playoffs-new-york-knicks-san-antonio-spurs-important-plays-lessons-court-wembanyama-brunson",
-          "source": "ESPN NBA",
-          "published": "2026-06-06T13:01:11+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "f25c5757a721",
-          "title": "French commentators scream in pure agony as Wembanyama throws the ball off Castle's back",
-          "original_title": "French commentators scream in pure agony as Wembanyama throws the ball off Castle's back",
-          "summary": "      &#32; submitted by &#32;  /u/lion_hammer   [link] &#32; [comments] ",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/nba/comments/1tygl8w/french_commentators_scream_in_pure_agony_as/",
+          "link": "https://www.reddit.com/r/nba/comments/1tyk1g9/the_knicks_are_now_130_since_danhausen_uncursed/",
           "source": "Reddit r/nba",
-          "published": "2026-06-06T12:56:56+00:00",
+          "published": "2026-06-06T15:19:52+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -256,14 +221,59 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "37eb6a5f8cdd",
-          "title": "LeBron Rumors May Prompt Warriors to Trade for Anthony Davis",
-          "original_title": "LeBron James rumors could push Warriors toward shock Anthony Davis trade - Blue Man Hoop",
-          "summary": "Speculation surrounding LeBron James is reportedly influencing the Golden State Warriors' front office to consider a blockbuster trade for Los Angeles Lakers forward Anthony Davis. The article suggests the Warriors see Davis as a potential solution to bolster their frontcourt and create a new super\u2011team dynamic.",
+          "id": "fbc105e3e463",
+          "title": "Lakers Linked to Free-Agent Center to Bolster Frontcourt",
+          "original_title": "Lakers linked to free agent center as they look to improve frontcourt - Lakers Nation",
+          "summary": "The Los Angeles Lakers are reportedly exploring options to sign a free\u2011agent center in an effort to add depth and size to their frontcourt. The interest comes as the club evaluates its roster after a season that exposed a need for more interior presence.",
           "key_points": [
-            "LeBron James rumors are creating uncertainty for the Lakers.",
-            "Warriors are exploring a possible trade that would send Anthony Davis to Golden State.",
-            "The move would address the Warriors' need for a versatile big man and reshape the Western Conference power balance."
+            "Lakers are targeting a free\u2011agent big man to improve rebounding and rim protection.",
+            "The move is part of a broader offseason strategy to address frontcourt deficiencies.",
+            "No official contact has been confirmed by either the player or the Lakers."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSV9LaVI3RExlZHRKTkJJOTJrVUtQQUFhSER4MVNiVHdqMDFlVHZGSVN2TXRBeVo1cHJTTkxqa2t6UHFteDV5NFl4c3hoX2RFRzR6RTl1WXVtU28tRVFpNGQzT3h0RzQ1cFFoYUhfZ2htWXpoWlJkYXZ1UVRHRk81UE1raWNpS1FrQkc1S3VfM2hpQnY4LUEyYW1FaWt3cU0?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-06-06T16:30:03+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "e6ceff87ca9f",
+          "title": "Warriors Need One Star to Land LeBron James",
+          "original_title": "Warriors need help from one star to sign LeBron James - Yardbarker",
+          "summary": "According to Yardbarker, the Golden State Warriors would require the addition of a marquee player to make a viable trade package for LeBron James. The report suggests that without such a star, the Warriors\u2019 chances of acquiring James remain slim.",
+          "key_points": [
+            "Warriors are reportedly seeking a high\u2011profile player to include in a LeBron trade proposal.",
+            "LeBron\u2019s contract and salary cap implications make a trade challenging without additional assets.",
+            "No concrete negotiations have been disclosed by either team."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLTFBOHVpREpnYXJHeEJRUHZBbEVWZW5tMXE2MWhrV0xvNTlKYzAzQk1GVHJuTDloYUZiRFVOOEVTc205a0xKVU5iNC16OTNGQzA0VklrQ3FmendWYmlnZ09fTWlud2FhSlFhM3NMTkFrQlRQSGZxbTU1WFNYc05sa1dCbTNRWWRERlFQUHUyNjVVbTJnLVhMS2d3OXV4Vk0yejJjZHc4ai1TUklUZTg2dg?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-06-06T16:18:42+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "09b7a85cec8f",
+          "title": "JJ Redick Praises Luka Don\u010di\u0107\u2019s Recent Play",
+          "original_title": "JJ Redick likes something he saw from Luka Doncic this season - Lakers Nation",
+          "summary": "Former NBA player and analyst JJ\u202fRedick highlighted a specific aspect of Luka Don\u010di\u0107\u2019s game that impressed him during the current season. Redick\u2019s comments were shared on Lakers Nation, underscoring Don\u010di\u0107\u2019s continued evolution as a star.",
+          "key_points": [
+            "Redick singled out a particular skill or performance trend from Don\u010di\u0107 this season.",
+            "The praise adds to the growing league\u2011wide recognition of Don\u010di\u0107\u2019s versatility.",
+            "The comment was made in the context of broader NBA discussions, not directly tied to Lakers roster moves."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONkJORnVBc0tRWEtEaTNYMFFIdTR6SEJROVFfZWNuZGcwaWJqOTBDaHlnNjRsRktQb2MzNFlLQTloRzhGemptRTcyaDliN2xpWWVpM2d2UnJsMlpUUXhCdjJxN0YwSWJCX2VDV0dKdUcyRGQzSXQwc2NHVGlIMVQxYVZnaGMxcTBmb2FWcA?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-06-06T15:30:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "37eb6a5f8cdd",
+          "title": "LeBron James Rumors May Prompt Warriors to Consider Anthony Davis Trade",
+          "original_title": "LeBron James rumors could push Warriors toward shock Anthony Davis trade - Blue Man Hoop",
+          "summary": "Blue Man Hoop reports that speculation surrounding LeBron James could push the Golden State Warriors to explore a surprising trade involving Anthony Davis. The article suggests the Warriors are weighing unconventional options to improve their roster.",
+          "key_points": [
+            "Warriors are reportedly evaluating a potential trade that would send Anthony Davis to another team.",
+            "LeBron James rumors are cited as a catalyst for the Warriors to consider bold roster moves.",
+            "No official statements have been made by the Warriors, Lakers, or NBA regarding such a trade."
           ],
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5nclY3YmdEMWhkWW5DakI3X0ZBeEd3M1FPNDI1TVdhZHppbXM0clhuZWkwOVREbGR6b3RRNUxZTWVoRXhxOE1TVXAyelR0WkVwM1pOcUpNcmItM2Z5eGJjWDJldEtQekE0cmhNcXJGb2ozdm95a3JnYS1yUXc?oc=5",
           "source": "Google News - LeBron",
@@ -272,13 +282,13 @@
         },
         {
           "id": "918b74617921",
-          "title": "LeBron Faces Ultimatum as Lakers Focus on Luka Doncic and Austin Reaves",
+          "title": "LeBron James Faces Ultimatum as Lakers Prioritize Luka Don\u010di\u0107 and Austin Reaves",
           "original_title": "LeBron James faces new ultimatum after Lakers prioritize Luka Doncic and Austin Reaves - Lake Show Life",
-          "summary": "The Los Angeles Lakers are reportedly prioritizing the acquisition of Luka\u202fDoncic and giving a larger role to Austin Reaves, putting pressure on LeBron James to make a decision about his future with the team. The article outlines an emerging roster strategy that could reshape the Lakers' core.",
+          "summary": "Lake Show Life indicates that the Lakers may be giving LeBron James an ultimatum after the organization appears to focus its resources on acquiring Luka Don\u010di\u0107 and retaining Austin Reaves. The report hints at a possible shift in the team\u2019s strategic direction.",
           "key_points": [
-            "Lakers are actively pursuing Luka\u202fDoncic while elevating Austin Reaves.",
-            "LeBron James is said to have received an ultimatum regarding his contract and role.",
-            "The potential roster shift could signal a major re\u2011tooling of the Lakers' championship window."
+            "Lakers are reportedly emphasizing a potential Luka Don\u010di\u0107 acquisition and the role of Austin Reaves.",
+            "LeBron James is said to be presented with an ultimatum regarding his future with the team.",
+            "The story is based on insider speculation; no formal decisions have been announced."
           ],
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSFVteFJJZHI2aEthTlZkMHdwbHhsLUlYakNreENISEVHbEtHQUV1a2R3NkEzOU4wMlQ4NGNsWWJGY1JEdTk1QlFGeEJrSk9TN3d3bzZzMThUZkVnTjBEblc0b0x1bWxfT0V6TXUxUzduZ0I1WFRHMXpTWVUwZVc2Rk82NVFLQ2dBMms3R0pvTTNpNFdmeUxEZ2M2TFJyOWVsVW9fcnVwUTVkdV9HdHRrN2xaVQ?oc=5",
           "source": "Google News - Luka",
@@ -286,123 +296,78 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "d0b136f02300",
-          "title": "Two\u2011Time Champion Names One Reason He Considers LeBron the GOAT Over Jordan",
-          "original_title": "Two-time NBA Champion shares the one reason he ranks LeBron James as GOAT ahead of Michael Jordan - Yahoo Sports",
-          "summary": "A former two\u2011time NBA champion explained why he believes LeBron James should be regarded as the greatest of all time, citing a single defining factor that sets LeBron apart from Michael Jordan. The commentary focuses on LeBron's versatility and impact across multiple facets of the game.",
+          "id": "bebac9f9dd64",
+          "title": "Kristaps Porzingis Could Be the Missing Piece for Warriors to Land LeBron",
+          "original_title": "Why Kristaps Porzingis may hold the key to Warriors landing LeBron - BasketNews.com",
+          "summary": "BasketNews.com argues that the Warriors' pursuit of LeBron James may hinge on acquiring Kristaps\u202fPorzingis. The article explains how Porzingis' skill set and contract situation could make a trade feasible, giving Golden State the roster flexibility needed for a LeBron deal.",
           "key_points": [
-            "The champion highlights LeBron's all\u2011around skill set as the decisive GOAT factor.",
-            "He contrasts LeBron's longevity and adaptability with Jordan's scoring dominance.",
-            "The opinion adds to the ongoing debate about the greatest player in NBA history."
+            "Porzingis offers rim\u2011running, shooting, and defensive versatility that fits the Warriors' style.",
+            "His expiring contract and trade value could free cap space for a max\u2011level LeBron contract.",
+            "A Porzingis\u2011involved trade would also address the Warriors' need for a true front\u2011court anchor."
           ],
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVBfYzVFUUsxX25OVWNjNkZPVC14Rnd5Tm5oXy1aSnBrZmF6M1E0c1pGT1hVVk53VzB6ZEN6TnNUMkNTck1sWlVVZ2hjbFJuZ21mZWV5XzVYS3FXQ2dEM1dsUzR5TVVIOFloZTREVzJxaW1hVFViZ0NOS2lQTFFvSGVpOA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcjdqTGxIcDFhMGJZMzd6TnpvbTBNQ3VOV1BpUUdRRE51N2lSclpsUnE3bU1GSllKb1R0ZF9CakNBM1lYN2dvRVNIVG9iVnJlcGZIS1Azek9LLXBLekE0bXZ6STJubFltS3h0V19VN25VV25wYzljWTVwa0V1eFJxeGk5UHAwYVNYR0hLOVdxSDQtZnhKb2llRFhmT2NzYUU1X1NBemhMZmE3UQ?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-06-06T12:35:46+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "d85425113035",
-          "title": "Warriors Add Kristaps Porzingis Angle to Their LeBron\u2011James Strategy",
-          "original_title": "Warriors Get New Kristaps Porzingis Twist in LeBron James Plan - heavy.com",
-          "summary": "Heavy.com reports that the Golden State Warriors are incorporating a potential Kristaps\u202fPorzingis acquisition into their broader plans involving LeBron James. The piece suggests the Warriors are weighing multiple roster scenarios to stay competitive.",
-          "key_points": [
-            "Porzingis is being considered as a complementary piece to any LeBron\u2011related moves.",
-            "The Warriors are exploring flexible trade options to improve frontcourt depth.",
-            "The strategy reflects the team's willingness to make bold roster changes."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPelEwNHpZV3VSdlE4ei1XQy0wTkhxTFQ1WGswc3hvM2w1RHNmWWlIVkJxVnZSNWZsQkxZY1JxUEE5X1Q1YnNobnJrUWZrS2FJYVdlZlVpTUdETy1wLXdzQW9WWDZFRGhUTF94OWx4bjBYb1RGMXdOdUJJZVNwYUJ1SE1nUFNTOTFfWWhxRkY4SUVXQ25HV1pNc2FB?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-06-06T11:36:05+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "1d238a46d284",
-          "title": "Travis Scott Turns LeBron\u2019s Italy Golf Clip Into Yacht Party With Bronny and Draymond",
-          "original_title": "Travis Scott Turns LeBron James\u2019 Viral Italy Golfing Moment Into Wild Yacht Invite Featuring Bronny James and Draymond Green - Yahoo",
-          "summary": "After a viral video of LeBron James golfing in Italy, rapper Travis Scott organized a high\u2011profile yacht gathering that featured LeBron\u2019s son Bronny and Warriors star Draymond Green. The event highlights the crossover between NBA culture and entertainment.",
-          "key_points": [
-            "The yacht party was inspired by LeBron\u2019s viral golf moment in Italy.",
-            "Bronny James and Draymond Green were among the guests, linking NBA and music worlds.",
-            "The gathering underscores LeBron\u2019s influence beyond basketball."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOM2ZNZXhzYjkxWFZ6S3g1UHBKQ3AtV2F4R2pUQzRMa1o5d2JxSGhRNE9RSUc4RlBjWmZTejItQTlGVW5ySXBrMGtkUXJMNkFsa0twUW9pNlhZQ1gwUFV4T2gzaW5KQTBXcmxOUV9lREFnbV96STdVOTZrVnhOVExKektrLWlXN25iN3FZemRBX2tBSHBpNmoyWDhOZzBwWnFNMGln?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-06-06T05:53:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "de226ba16fe3",
-          "title": "Charles Barkley Says LeBron James Should Return to Cleveland",
-          "original_title": "Charles Barkley believes LeBron James should return to Cleveland - USA Today",
-          "summary": "Former NBA star Charles Barkley told USA Today that he believes LeBron James would be better off re\u2011joining the Cleveland Cavaliers. Barkley cited James' unfinished business in his hometown and the potential for another championship run. The comment sparked a wave of reactions on social media.",
-          "key_points": [
-            "Barkley argues James' legacy would be enhanced by returning to Cleveland.",
-            "He references James' previous success with the Cavs, including the 2016 title.",
-            "The statement has generated debate among fans and analysts about James' future plans."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRWZfZS1HT19zVFpKX1RRYjQ2MDFWaDVOU2xrZWNtMGdzZ1J0ZVJSVnVYcWp5RGxuNGJpYXFPaXNKYURTN2oyWThZa0FLYUpjWWtTWkRSQlBxMGw4YnNlMkREZ0JsNlFXcTg3WjJ6WXhMZHpqTmNtVWNLbXFOTUpDTkpYSW0yRzcwZTBObmZWRm81YmNST1JvckdPcnctUGVvMVNKZFowX1NWZTNMT1J0WV9pV0RIU3pVa2xRSUtSbG1mRW8?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-06-06T00:01:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "3d5ef293210e",
-          "title": "Luka Don\u010di\u0107\u2019s Ownership Ambitions Hit NBA Roadblock",
-          "original_title": "Luka Doncic's ambitious ownership dream hits unexpected NBA obstacle - MARCA",
-          "summary": "Mar\u00eda reports that Dallas Mavericks star Luka Don\u010di\u0107\u2019s plan to become an NBA team owner faces an unexpected hurdle: league rules that limit current players from holding ownership stakes. The obstacle could delay or prevent Don\u010di\u0107 from pursuing his long\u2011term business goal.",
-          "key_points": [
-            "NBA bylaws prohibit active players from owning equity in a franchise.",
-            "Don\u010di\u0107\u2019s interest in ownership reflects his desire to build a post\u2011playing career.",
-            "Legal and league\u2011approval processes would be required for any future involvement."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcm9LSlNTdHJDZUFqa0VIa01vV3NVUjNxNWFGM0V0S1BFZ1IwczYxU0MxazhIQS1sLVd5TGdZamJoMWU2aWc3OW5lSVc3QkphTkRqd2JFOGl6bEEtQ0VXNElFNU1IT0Z4S1JTNEhOMWR0WkQtZkE2c2licXVPZTFDMndDSl9TZkhsbkRpVGRGeE5ZSWsyTUJyNHdSZ2EwVWlKRGMzZ1phNGotSWdEd0puWVVsTTQwUElKSTJqSm9GUFU5TmpTTk5rNFprZlJHRWJ2ZTBnekQ3X2ZZVGfSAdsBQVVfeXFMTms3QnFFSHVFZGFWNy1sb0N1dlk3SGVGUEllWDhjN2tWdE1yekZycF90NGwyc29BSGdTdWV6SGpQSXR6X29yRnE5UHNDNVhCZWNFbjV1U1BqVW1ieDdFOXo5ZEd2NjNoSnZMTUdsaWFlQ2w0dndoUno5cmJXYk1SblhjQ1hsWWlQdmJOdHdkQktvOFNOajZOSmEwVkJiNEJfRzBTcDJoY0pjaEo3TEdXQ1l6NWhsVFk0ODFtR1ZUaDZJMVZDLUFLMmxDVDQtSVBMb3l6ekFZTWVncGY0?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-06-05T21:58:28+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "bf92cbf48da5",
-          "title": "Kristaps Porzi\u0146\u0123is Could Fit Warriors\u2019 LeBron\u2011James Scheme",
-          "original_title": "Kristaps Porzingis Could Solve Problem in Warriors' LeBron James Plan - Sports Illustrated",
-          "summary": "Sports Illustrated explores how the addition of Kristaps Porzi\u0146\u0123is might address a tactical issue in the Golden State Warriors\u2019 plan to acquire LeBron James. Porzi\u0146\u0123is\u2019 size and shooting ability could provide spacing and defensive versatility that the Warriors lack.",
-          "key_points": [
-            "Porzi\u0146\u0123is offers a stretch\u2011four option that would complement a potential James\u2011centered lineup.",
-            "His defensive length could help protect the rim against elite opponents.",
-            "The article notes salary\u2011cap considerations and the need for roster balance."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT21IUWc4cUlJWE5fd3ZEM2hpVWl0dmZNLXpSdnlwNkRZTnlGd2g4NGxZM1AzdmFUajNKZmhicmVJblFaUm9OTTNFTmpPY3JydDBCWGNFSGNVS3NEbU16XzFEb3Jfc2paVm5DYTBsWXpYMEY3eDRKNG1GUy1ZUGpHRnRsTk1DbjU0YTI3bjRrYjI5RmZ5alE0WmE4RGxNcWpzRmwwMkU1MnhaamlwQVgyMVZKLVJOblAzRVE?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-06-05T21:03:17+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "5e21f280771d",
-          "title": "Three\u2011Time Champion Slams LeBron After Rich Paul\u2019s Jordan Comment",
-          "original_title": "'Had To Play an Extra 8 Years' -- 3-Time NBA Champion Unloads on LeBron James After Rich Paul's Disparaging Michael Jordan Take - PFSN",
-          "summary": "A former three\u2011time NBA champion criticized LeBron James on PFSN, alleging that James had to \u201cplay an extra eight years\u201d because of agent Rich Paul\u2019s disparaging remarks about Michael Jordan. The veteran expressed frustration over perceived disrespect toward Jordan\u2019s legacy.",
-          "key_points": [
-            "The champion linked Paul\u2019s comments to added pressure on James to match Jordan\u2019s reputation.",
-            "He suggested James\u2019 longevity is partly a response to defending the NBA\u2019s all\u2011time greats.",
-            "The interview reignited discussions about player\u2011agent influence on public narratives."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNm53M2ZYTy01R05SVmtzcGR2VzhEUmxEdjd1QU1YZ2VlNGpseUhYcUdRR1gxUXNvN3hHdG1HZEhqekVGNkJsYzRvRnNOQUUwV3BMdmNYaTM0T0JadG1lR1g5SnNqcE5oa1NkSGtZdEs2NmlqdzNJXzRkX3M1UGY2MTZ1cXNSRjdSQnZnMk9ITnlzU21BVW9UM1hOSFVXRzdLMGluLTdYblNXSm0tOTZNNmtFU2JUSUp6NjdmTkhXUHBqazdVV2hWd0k3b3U?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-06-05T18:38:18+00:00",
+          "published": "2026-06-06T13:37:44+00:00",
           "topic": "Lakers Players"
         },
         {
           "id": "bce4fe7f8838",
-          "title": "LeBron James Gifts Golf Shoes to Nelly Korda\u2014But One Issue Remains",
+          "title": "LeBron James Gifts Nelly Korda Golf Shoes\u2014But One Issue Arises",
           "original_title": "LeBron James gifted Nelly Korda golf shoes. There was just 1 problem - GOLF.com",
-          "summary": "Golf.com reports that LeBron James sent a pair of custom\u2011designed golf shoes to LPGA star Nelly Korda, only to discover a problem with the fit. The gesture highlighted James\u2019 growing involvement in the golf world, though the shoe issue required a quick resolution.",
+          "summary": "GOLF.com reports that LeBron James sent a pair of custom\u2011designed golf shoes to women's PGA star Nelly Korda, only to discover a sizing problem. The mishap highlights the personal rapport between the two athletes while underscoring the importance of proper fit for performance on the course.",
           "key_points": [
-            "James\u2019 gift underscores his cross\u2011sport friendships and interest in golf.",
-            "Korda reported a sizing problem that prevented immediate use of the shoes.",
-            "The incident sparked a light\u2011hearted social\u2011media exchange between the athletes."
+            "James collaborated with a shoe brand to create a special edition for Korda.",
+            "The shoes arrived in a size that was slightly too small for Korda\u2019s feet.",
+            "Both athletes handled the situation humorously, and a replacement pair is being arranged."
           ],
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84cGYwWWRaRjBQeG03a3JmNU55VUJXcGE2ZWFOdmM5bW9MV0t2NVl0VDhsTXZ1WjdMY3A3Vm5NMkxSSlpSMWhvUmVaeWRyNkp5OS00TmdVRHVXM01CSk1MX0FWSmRXWGs3VGdzOWtmNDVCX1RwYzhvbFJPWQ?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-06-05T17:20:36+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "73ee6aebe824",
+          "title": "Warriors\u2019 Top LeBron Offer Compared to Lakers, Cavs and Others",
+          "original_title": "How Warriors' Best LeBron James Contract Offer Stacks Up vs. Lakers, Cavs, Others - Sports Illustrated",
+          "summary": "Sports Illustrated breaks down the Warriors' most competitive contract proposal for LeBron James, measuring it against offers from the Lakers, Cavaliers and other suitors. The analysis details salary structure, length, and incentives, showing where Golden State\u2019s deal stands in the market.",
+          "key_points": [
+            "Warriors propose a four\u2011year, max\u2011level contract with a player\u2011option year.",
+            "The offer includes a higher annual average salary than the Lakers\u2019 proposal but less guaranteed money than the Cavs\u2019 front\u2011loaded deal.",
+            "Potential trade exceptions and luxury\u2011tax considerations are factored into the Warriors\u2019 package."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPemhZcS1DUlNUZ3g5TkhBYkpocWdHWkstTXBpbEU0TmJ3aTRxWFdLclZ4TG1HNU42dG1GeGdaVHNHTVRqSGdUTXdjN1hhV0VxU29fMGJlY0kzRGk0ZG44dFMya0hxcmlVaXhHeFAzX2UyZEhpUDVDQmFRQkZjRnZFTnFUYUtmRWEzZWdpWEtiaGFfQmVfek10WGdEZ3BpQ1U2TE4xeHlVLWlnR0tKNUdUdzkxZWQyTnBvRW1jVXVRdXZEaUdJTEE?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-06-05T14:48:48+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "f6c132e14fc0",
+          "title": "Lakers Trade Proposal: Austin Reaves for Future Hall\u2011of\u2011Famer Worth $175\u202fMillion",
+          "original_title": "Lakers\u2019 Austin Reaves trade proposal sees Los Angeles move young star for $175 million future Hall of Famer - sportingnews.com",
+          "summary": "SportingNews.com details a speculative trade scenario in which the Los Angeles Lakers would move guard Austin Reaves to acquire a veteran future Hall of Famer with a $175\u202fmillion contract. The piece evaluates the financial and roster implications for both teams.",
+          "key_points": [
+            "Reaves, a versatile two\u2011way player, is valued as a trade chip for a high\u2011salary veteran.",
+            "The proposed incoming player carries a $175\u202fmillion contract, raising luxury\u2011tax concerns for the Lakers.",
+            "Analysts question whether the talent upgrade justifies the financial burden and loss of Reaves\u2019 depth."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQkxvY3NVUGFmYlh6N1YzR3hla2VXaVRvY1lpTjB1dzFVYks1ejRvR2U5OVhYOHBxckF4TUJkWGs5TjhnTTBseWhDWlhsM1VtUkE5RTJGYURpMl9ZTnF0MU9VM0d1cHV3WmhWSkhlajVqZ0hvMDRZTDQ3Mmh5cWVRNFRZMXdsSUlaNkdydjIyeU1ZY2NIM1plczhqb2lvNHRuUTJMcG5ZbTlSU2ExWWZNcTlveHlzWm5sejQ4ajFfc2lIX3czeGRhejRSUFVCb2Fsd3QzX0hMMG1ndkk?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-06-05T14:23:35+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "45658556cafd",
+          "title": "Andre Drummond Highlights LeBron James\u2019 Basketball IQ",
+          "original_title": "Andre Drummond Shares Story Demonstrating LeBron James\u2019 Intelligence - Lakers Nation",
+          "summary": "Lakers Nation shares a story from former teammate Andre Drummond illustrating LeBron James\u2019 on\u2011court intelligence. Drummond recounts a specific in\u2011game decision by James that demonstrated his strategic thinking and leadership.",
+          "key_points": [
+            "Drummond describes a moment where LeBron read the defense and made an unconventional pass that led to an easy basket.",
+            "The anecdote underscores James\u2019 ability to process information quickly and make high\u2011percentage decisions.",
+            "Teammates continue to cite James\u2019 basketball IQ as a key factor in the Lakers\u2019 success."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX0wyVUNZWE1ENGtBaVUwQ0gwV2kyR1hpUjRDcEtaNDRBMFk1UlN6dHZ0LUhJbHBONGRnWEdvVktzZ2s5RXBUejhtdVcweWxGZ3lDM2hRRjNwZ0N5Nk9HWkY1QlJpOTRNbFh3T04yak1jRkFYcUowam1EWkpFR29CWkdtZkc2ZTFCb0ZBcVdwN0NzbkRudkk1aw?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-06-05T14:10:00+00:00",
           "topic": "Lakers Players"
         }
       ]
