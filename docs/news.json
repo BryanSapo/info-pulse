@@ -1,158 +1,138 @@
 {
-  "generated_at": "2026-06-07T15:29:39.475272+00:00",
-  "total_articles": 25,
+  "generated_at": "2026-06-07T17:22:45.448257+00:00",
+  "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
-          "id": "68718bcc5bba",
-          "title": "Nick Van Exel Praises Kobe Bryant\u2019s Work Ethic",
-          "original_title": "Lakers News: Nick Van Exel Praises Kobe Bryant\u2019s Work Ethic",
-          "summary": "Former Lakers guard Nick Van Exel reflects on Kobe Bryant\u2019s early career, noting that as an 18\u2011year\u2011old rookie he was the 11th man on a 56\u2011win Lakers squad that fell in the second round of the playoffs. Van Exel highlights Bryant\u2019s relentless work ethic even when playing limited minutes among a crowded guard rotation.",
+          "id": "552746c15ebd",
+          "title": "Kawhi\u2019s Shell Company Money Scheme Raises Questions for the Lakers",
+          "original_title": "Kawhi Shell Money Scheme",
+          "summary": "A Reddit post alleges that Kawhi Leonard benefited from a $28\u202fmillion \u201cno\u2011show promotion\u201d paid to a shell company owned by his uncle. The author suggests the Lakers could use a similar arrangement for LeBron James, but notes the NBA has not addressed the Clippers\u2019 situation.",
           "key_points": [
-            "Bryant entered the league as a rookie with minimal playing time on a deep Lakers roster.",
-            "Despite being the 11th man, his dedication stood out to teammates like Van Exel.",
-            "The 1996\u201197 Lakers won 56 games but were eliminated in the second round."
+            "The Clippers allegedly paid $28\u202fmillion to a shell company linked to Kawhi Leonard\u2019s family.",
+            "The post claims the NBA has not punished or publicly acknowledged the deal.",
+            "The author urges the Lakers to consider a comparable veteran\u2011minimum contract for LeBron James."
           ],
+          "link": "https://www.reddit.com/r/lakers/comments/1tzhu4h/kawhi_shell_money_scheme/",
+          "source": "Reddit r/lakers",
+          "published": "2026-06-07T17:11:26+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "4e71b47f8538",
+          "title": "Lakers Projected to Select Dalton Knecht Replacement in 2026 NBA Draft",
+          "original_title": "Lakers Projected to Select Dalton Knecht Replacement in 2026 NBA Draft - heavy.com",
+          "summary": "Heavy.com reports that the Los Angeles Lakers are expected to target a player to replace Dalton Knecht in the 2026 NBA Draft. The article outlines the team\u2019s likely draft strategy and potential prospects they may consider.",
+          "key_points": [
+            "The Lakers are planning for a post\u2011Knecht roster move in the 2026 draft.",
+            "Analysts suggest the team will look for a versatile wing or forward to fill the void.",
+            "Draft positioning and trade assets will influence the final selection."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaGYxWHlyVGtIV0lDZDBCVWZzYlI2cnZ3N1hzT1VrODRINmxTNWs5M3dqZDBwNUpsc1dzc0pTX201c2htRVNCd216ejZ4cjdRX1EtQ3FJb0lKSUhRNEt4ZU03eDN6RzBlM2pNaS01d2J4RWlzTGpGamx4dy1RZElaMzVKclNvTm5r?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-06-07T17:07:18+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "9e16860b6186",
+          "title": "Lakers Receive Positive Update on Rumored Pursuit of $217\u202fMillion Star Center",
+          "original_title": "Lakers Get Positive Update on Rumored Pursuit of $217 Million Star Center - heavy.com",
+          "summary": "Heavy.com indicates that the Los Angeles Lakers have received encouraging news regarding their rumored chase of a star center with a $217\u202fmillion contract valuation. The update suggests progress but does not confirm a deal.",
+          "key_points": [
+            "The Lakers are reportedly close to securing a high\u2011priced, elite center.",
+            "Financial terms discussed are in the $217\u202fmillion range.",
+            "No official contract has been announced; negotiations remain ongoing."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSG5zclVkVmZtR3RYZnlkWEgwanZzMnNaQXJWSkpJNXdLSlE1b2pzT3hDRmE0cjFqUnUxLW9DZkFiTjVLZjFrZW5fZU9ldks5WUdEWU9kWHFXampYSnFSUTRjUWhUaTNtZDdJcHU1QTFmdDdMZG1LZXVNRzNNc0wzUm01dFdybEFmdEtHTTlSVQ?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-06-07T16:47:10+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "2ef2a6b2218b",
+          "title": "Austin Reaves Hopes to Continue Playing With LeBron James",
+          "original_title": "Lakers News: Austin Reaves Hopes To Continue Playing With LeBron James",
+          "summary": "Lakers Nation highlights the upcoming free\u2011agency decisions for both Austin Reaves and LeBron James, noting that Reaves hopes to remain alongside the veteran star. A split would mark the first time Reaves enters free agency without James on the roster.",
+          "key_points": [
+            "Both Reaves and James are unrestricted free agents with differing career stages.",
+            "Reaves has expressed a desire to stay with the Lakers and continue playing with LeBron.",
+            "A separation would be a notable roster shift for the franchise."
+          ],
+          "link": "https://lakersnation.com/lakers-news-austin-reaves-hopes-to-continue-playing-with-lebron-james/",
+          "source": "Lakers Nation",
+          "published": "2026-06-07T16:40:57+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "c4aa9a3edeb0",
+          "title": "Luka Don\u010di\u0107 and Austin Reaves\u2019 Three\u2011Point Contest Decided by Final Shot",
+          "original_title": "Luka and Austin\u2019s Three-Point Contest Came Down to the Final Shot",
+          "summary": "A Reddit post recounts the dramatic finish of a three\u2011point shooting contest featuring Luka Don\u010di\u0107 and Austin Reaves, where the outcome hinged on the last attempt. The thread includes a link to the event and community comments.",
+          "key_points": [
+            "The contest came down to the final shot between Luka Don\u010di\u0107 and Austin Reaves.",
+            "The Reddit post provides a link to the video and discussion thread.",
+            "Fans highlighted the excitement and competitive spirit of the showdown."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1tzglw9/luka_and_austins_threepoint_contest_came_down_to/",
+          "source": "Reddit r/lakers",
+          "published": "2026-06-07T16:24:06+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "46a2e3d59c43",
+          "title": "Lakers News: Austin Reaves Hopes To Continue Playing With LeBron James - Lakers Nation",
+          "original_title": "Lakers News: Austin Reaves Hopes To Continue Playing With LeBron James - Lakers Nation",
+          "summary": "Lakers News: Austin Reaves Hopes To Continue Playing With LeBron James&nbsp;&nbsp;Lakers Nation",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcEJzeVBrZHEyYW40WUdlV2tEVTdsX2Rma2JKdkV2TTJlSGJVUlYwUkJkTUVOZS10c0x0SEtjdmIyc1ZfS01NZE5RRnFrVnotRndLVUNMblpsZW9LNEJJX1NQSnpRUnF3VzItYzZld0k4ZlRsTjFoVUdnQi1aMmtkVEVOMzFrQWpJdVlTYzRRNTFQN2pfMUxRNmw3SQ?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-06-07T15:30:57+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "68718bcc5bba",
+          "title": "Lakers News: Nick Van Exel Praises Kobe Bryant\u2019s Work Ethic",
+          "original_title": "Lakers News: Nick Van Exel Praises Kobe Bryant\u2019s Work Ethic",
+          "summary": "Before Kobe Bryant was a five-time NBA champion and among the best to ever play the game of basketball, he was an 18-year-old rookie as the 11th man on a Los Angeles Lakers team that won 56 games and lost in the second round of the playoffs. A team that had five shooting guards and [&#8230;]",
+          "key_points": [],
           "link": "https://lakersnation.com/lakers-news-nick-van-exel-praises-kobe-bryant-work-ethic/",
           "source": "Lakers Nation",
-          "published": "2026-06-07T14:20:48+00:00",
+          "published": "2026-06-07T15:30:48+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "e25f72875688",
+          "title": "LeBron James Details Importance Of Taking Accountability As Leader",
+          "original_title": "LeBron James Details Importance Of Taking Accountability As Leader",
+          "summary": "Leadership is an integral part of building a championship culture and for the Los Angeles Lakers, they have a lengthy history of leaders. LeBron James came to L.A. in 2018 with the hopes of turning the franchise around and he did so in 2020. James propelled the Lakers to their 17th title with Anthony Davis [&#8230;]",
+          "key_points": [],
+          "link": "https://lakersnation.com/lakers-news-lebron-james-details-importance-of-accountability-as-leader/",
+          "source": "Lakers Nation",
+          "published": "2026-06-07T14:20:25+00:00",
           "topic": "Lakers News"
         },
         {
           "id": "356770fa3f41",
-          "title": "Reddit Thread Compares SGA to Another Player",
+          "title": "They compare SGA to this man\u2026 LOL",
           "original_title": "They compare SGA to this man\u2026 LOL",
-          "summary": "A Reddit post on r/lakers sparks a discussion comparing San Antonio Spurs guard Shai Gilgeous\u2011Alexander (SGA) to an unnamed player, generating typical fan\u2011driven speculation and humor. The thread includes a link to the original post and invites comments from the community.",
-          "key_points": [
-            "User /u/TheLivest1 posted the comparison with a link for reference.",
-            "The discussion is informal and driven by fan opinions rather than official analysis.",
-            "No concrete conclusions or sources are provided beyond the Reddit thread."
-          ],
+          "summary": "      &#32; submitted by &#32;  /u/TheLivest1   [link] &#32; [comments] ",
+          "key_points": [],
           "link": "https://www.reddit.com/r/lakers/comments/1tzdayd/they_compare_sga_to_this_man_lol/",
           "source": "Reddit r/lakers",
           "published": "2026-06-07T14:15:28+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "de6ac8d9dc43",
-          "title": "Lakers Propose Bold Trade to Acquire Long\u2011Coveted Center",
-          "original_title": "Los Angeles Lakers Land Long-Coveted Center in Bold Trade Proposal - heavy.com",
-          "summary": "Heavy.com reports that the Los Angeles Lakers have put forward an aggressive trade proposal to bring in a highly sought\u2011after center, aiming to address their front\u2011court needs. Details of the specific player or assets involved were not included in the brief summary.",
-          "key_points": [
-            "The Lakers are actively pursuing a trade for a center they consider a priority.",
-            "The proposal is described as \u201cbold,\u201d indicating significant assets may be offered.",
-            "Full trade details remain undisclosed in the source article."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ1hvcl9QbTdxMGt0R0pqejQzQmg2dHJQcnFmbFcwX3Z2OUlsMFJOdnNsYmJTcXN6M3ZJTEFGQWtScE5kcmRNNjN2WWxkc0dEZElfTHJwV1JzekwtQ29QVGRHcDNGNDMxWV9Qc0FrQWdvY0lvbmRlZlc5RHNGUW4tQWZvc193NVh3cWtfaUZ0Yw?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-06-07T14:02:21+00:00",
-          "topic": "Lakers News"
-        },
-        {
           "id": "23466a04b0b8",
           "title": "Daily Lakers Offseason Discussion Thread",
           "original_title": "Daily Lakers Offseason Discussion Thread",
-          "summary": "An automated post on r/lakers opens a daily thread for fans to discuss the Lakers\u2019 offseason, inviting conversation now that the season has concluded. The thread serves as a community hub for speculation, analysis, and general talk about the team\u2019s future moves.",
-          "key_points": [
-            "Posted by the subreddit\u2019s AutoModerator to facilitate offseason dialogue.",
-            "Encourages fans to discuss any topic related to the Lakers.",
-            "No specific news content; serves as a discussion platform."
-          ],
+          "summary": "Lakers season is over. Talk about whatever you want.  &#32; submitted by &#32;  /u/AutoModerator   [link] &#32; [comments]",
+          "key_points": [],
           "link": "https://www.reddit.com/r/lakers/comments/1tzcxu2/daily_lakers_offseason_discussion_thread/",
           "source": "Reddit r/lakers",
           "published": "2026-06-07T14:00:53+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "ba38111cc09b",
-          "title": "Lakers, Celtics, Clippers, Nets Compete for 40% Flamethrower",
-          "original_title": "Lakers, Celtics, Clippers, Nets To Battle For 40-Percent Flamethrower - Yahoo Sports",
-          "summary": "Yahoo Sports reports that four NBA teams\u2014the Los Angeles Lakers, Boston Celtics, Los Angeles Clippers, and Brooklyn Nets\u2014are in contention for a high\u2011efficiency shooting opportunity dubbed the \u201c40\u2011percent flamethrower.\u201d The article suggests the teams are targeting elite three\u2011point shooting or a specific player known for that skill set.",
-          "key_points": [
-            "The \u201c40\u2011percent flamethrower\u201d likely refers to a player or metric involving 40% three\u2011point shooting.",
-            "Multiple high\u2011profile teams are reportedly interested, indicating the asset\u2019s perceived value.",
-            "Details on the player\u2019s identity or contract terms were not provided in the brief."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQnliMENkeWN5WGtnVk54T3p0NWRUQkRuUl9tYmVEcVNaXzdCTlVqVVFBYklzQVQtcFNwSzZycWZqVXlkblNzSzlJb0lBRkc5VC0xZUVEOTVRREFYRVRvcnhLcUdMeDJuamtwaFd1OTBBLUluTTk4b0lvd1pKcVF5ME9NbG5wSDlMemgxNg?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-06-07T14:00:18+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "94a75e92535b",
-          "title": "Luka Doncic Influences Austin Reaves' Lakers Future",
-          "original_title": "Austin Reaves' future is clear thanks to Luka Doncic's say in Lakers' decision-making - Lake Show Life",
-          "summary": "According to Lake Show Life, Austin Reaves' contract outlook with the Los Angeles Lakers has become clear because Luka\u202fDoncic reportedly has a say in the team's decision-making. The article suggests that Doncic\u2019s input could determine whether Reaves remains with the franchise beyond his current deal.",
-          "key_points": [
-            "Luka\u202fDoncic is said to be consulted on roster moves involving Austin Reaves.",
-            "Reaves' future with the Lakers is portrayed as more certain due to this influence.",
-            "No specific contract details or timeline were provided."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU1I2VHIwd1hwaE12LUhPU2pnOUlNc2ROQ3BZZlV3YTNaSmxiS2xxaXFTZ25OVWY1QWwxazBkMlNhaUxxcmRGdnU0Vm1TTExoeHNiUVFab3BQSU1CZjY0SnhGb0ZWN2FzSXR5eWpveXppd01sT2h5NndZaldLdmJKVTB6dFYwV0pkampvanlpeGhmeUdGdnpHVy13NVk4OHdIc2RYYmJiQmtMWmx6c0E?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-06-07T14:00:02+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "b2b2b5a35fc8",
-          "title": "2026 Lakers Draft Prospect Spotlight: Trey Kaufman\u2011Renn",
-          "original_title": "2026 Lakers draft prospects: Trey Kaufman-Renn - LeBron Wire",
-          "summary": "LeBron Wire profiles Trey Kaufman\u2011Renn as a potential 2026 NBA draft pick for the Los Angeles Lakers. The piece outlines his playing style, strengths, and why he could fit the Lakers' long\u2011term rebuilding plans.",
-          "key_points": [
-            "Kaufman\u2011Renn is highlighted for his versatility and defensive potential.",
-            "Scouts note his high basketball IQ and ability to stretch the floor.",
-            "The article positions him as a candidate to complement the Lakers' future roster construction."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTHdqREtIN3ZJZlIzM2lrUjJVTTc4MDhyal9Ja2dHM2NFSFZ0T3JRZE1XV2xaak9idllpNWVxRXZKSTB6SXBrdE9MMTNCcm9pQ2l3U3AwMHpwVmV2TnhEYVo1MUZ0aVFOTEx3THJJYUdVUk0tVzgtcjVRS0Zad0JjdzV2dTBTcjd6X2dsUU1GTmFldnFVUVRlMFpDYlFNaVVtNW00RVdOenBrUktmUVVILXZrb3VqTVZ0RFE?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-06-07T14:00:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "b9d0ff41ed12",
-          "title": "Inside the NBA Praises Kobe with 2001 Sweep Comparisons",
-          "original_title": "In 2001 after the Lakers sweep Spurs, Inside the NBA praising Kobe with comparisons",
-          "summary": "A Reddit post on r/lakers references a segment from Inside the NBA that, after the Lakers' 2001 sweep of the Spurs, praised Kobe Bryant by drawing comparisons to past greats. The discussion reflects fans' admiration for Kobe\u2019s performance during that championship run.",
-          "key_points": [
-            "Inside the NBA highlighted Kobe\u2019s dominance in the 2001 Finals.",
-            "Commentators compared his play to historic NBA legends.",
-            "The Reddit thread captures fan reactions to the praise."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1tzc59v/in_2001_after_the_lakers_sweep_spurs_inside_the/",
-          "source": "Reddit r/lakers",
-          "published": "2026-06-07T13:27:18+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "e25f72875688",
-          "title": "LeBron James Stresses Accountability in Lakers Leadership",
-          "original_title": "LeBron James Details Importance Of Taking Accountability As Leader",
-          "summary": "Lakers Nation reports that LeBron James emphasized the importance of personal accountability as a cornerstone of championship culture. Since joining Los Angeles in 2018, James has led the team to its 17th title in 2020, underscoring his role in shaping the franchise\u2019s leadership standards.",
-          "key_points": [
-            "James links accountability to building a winning culture.",
-            "He references his own journey from 2018 arrival to the 2020 title.",
-            "The article ties leadership principles to the Lakers' historical success."
-          ],
-          "link": "https://lakersnation.com/lakers-news-lebron-james-details-importance-of-accountability-as-leader/",
-          "source": "Lakers Nation",
-          "published": "2026-06-07T13:10:25+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "fa63215fe2bf",
-          "title": "LeBron James Stresses Accountability in Lakers Leadership",
-          "original_title": "LeBron James Details Importance Of Taking Accountability As Leader - Lakers Nation",
-          "summary": "A Google News aggregation of the Lakers Nation article repeats LeBron James' comments on the necessity of accountability for leaders within the organization. The piece reiterates his view that taking responsibility is essential for sustaining championship standards.",
-          "key_points": [
-            "James reiterates that accountability is vital for team leaders.",
-            "The article mirrors the original Lakers Nation coverage.",
-            "No new information beyond the initial report is presented."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTWZJZDJ1MTdfZ1phWjVhN2lBM2VRXzRTb19UVS1hbjZIem53QWFVY0JHMk4td04xc3Q0bzFhc0N0cFBsYzZ2OWNybDl4bllMNGlWN0lXRF9DS2h4eTNJRUY0a2tCbHJvVUZmV1RnYWVNTnhEeFE3bEdRRjROd3RwMENLUi1teHZITEx0Zy1PU2JoOTN5Z3RPdGpaNVVndw?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-06-07T13:10:25+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -161,133 +141,153 @@
       "name": "NBA League News",
       "articles": [
         {
+          "id": "66acbc93b0a2",
+          "title": "76ers Promote Jameer Nelson to Executive VP of Basketball Operations",
+          "original_title": "[Charania] The Philadelphia 76ers are promoting assistant general manager Jameer Nelson to the team's Executive Vice President of Basketball Operations under new President Mike Gansey, making the Philly native and former NBA All-Star the No. 2 executive for the franchise, sources tell ESPN.",
+          "summary": "The Philadelphia 76ers have elevated assistant general manager Jameer Nelson to Executive Vice President of Basketball Operations under new President Mike Gansey. The move makes the former NBA All\u2011Star the No.\u202f2 executive in the organization. Additionally, assistant GM Prosper Karangwa received a multiyear contract extension, while former GM Elton Brand is transitioning to a new role within the franchise and its parent company.",
+          "key_points": [
+            "Jameer Nelson, a former NBA All\u2011Star, becomes Executive VP of Basketball Operations, the second\u2011highest position in the front office.",
+            "Prosper Karangwa signs a multiyear extension as assistant GM.",
+            "Elton Brand will not return as GM and is moving to a different role within Harris Blitzer Sports & Entertainment."
+          ],
+          "link": "https://www.reddit.com/r/nba/comments/1tzhwd9/charania_the_philadelphia_76ers_are_promoting/",
+          "source": "Reddit r/nba",
+          "published": "2026-06-07T17:13:50+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "ee6a76450b25",
+          "title": "Jalen Brunson Says Teams Missed Everything When He Was Drafted in the Second Round",
+          "original_title": "Jalen Brunson was asked what teams missed or underestimated when he was eventually selected in the second round. -His answer: \"Everything.\"",
+          "summary": "In a recent interview, Knicks guard Jalen Brunson explained that teams underestimated his abilities across the board when he was selected in the second round of the NBA draft. He emphasized that the oversight spanned scouting, evaluation, and overall perception of his potential.",
+          "key_points": [
+            "Brunson was a second\u2011round pick despite his talent.",
+            "He believes all teams misjudged his skill set and upside.",
+            "The comment highlights his rise from a low draft position to an NBA star."
+          ],
+          "link": "https://www.reddit.com/r/nba/comments/1tzhtog/jalen_brunson_was_asked_what_teams_missed_or/",
+          "source": "Reddit r/nba",
+          "published": "2026-06-07T17:10:56+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "c2f5a24a92f0",
+          "title": "Brunson Stays Focused on Knicks Playoffs, Not Trade Rumors",
+          "original_title": "Jalen Brunson says he isn't looking around New York, at all, not until it's over. -\"You left your family, a couple of your friends, anything like that?\" Brunson: \"They can do whatever they want.\"",
+          "summary": "Jalen Brunson told reporters he is not entertaining any trade discussions or looking elsewhere while the Knicks are still competing. He noted that personal matters, such as family and friends, are separate from his on\u2011court focus, and he will let the season play out before considering any changes.",
+          "key_points": [
+            "Brunson says he is not looking at other teams until the season ends.",
+            "He separates personal life from basketball decisions.",
+            "The statement comes amid ongoing speculation about his future."
+          ],
+          "link": "https://www.reddit.com/r/nba/comments/1tzhp3e/jalen_brunson_says_he_isnt_looking_around_new/",
+          "source": "Reddit r/nba",
+          "published": "2026-06-07T17:06:02+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "d23260cbbd86",
+          "title": "Knicks Implement Heightened Security for Game 3 with Trump Attendance",
+          "original_title": "Knicks announce enhanced security measures for Game 3 with President Donald Trump set to attend",
+          "summary": "The New York Knicks announced that Game 3 at Madison Square Garden will feature enhanced security protocols due to President Donald Trump's planned attendance. Fans can expect longer entry lines and screening measures comparable to airport TSA procedures.",
+          "key_points": [
+            "Security will be increased for Game 3 because President Trump will be in attendance.",
+            "Fans should anticipate longer wait times and more thorough screening.",
+            "The measures aim to ensure safety for both the President and arena attendees."
+          ],
+          "link": "https://sports.yahoo.com/articles/knicks-announce-enhanced-security-measures-163633798.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-06-07T16:36:33+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "8c2310f9ea4a",
+          "title": "Spurs Defensive Strategy Against Jalen Brunson Draws Criticism",
+          "original_title": "Compilation of Spurs defense on Brunson the entire game",
+          "summary": "A Reddit compilation highlights the San Antonio Spurs' defensive approach to Jalen Brunson, with many viewers calling the officiating and physicality inconsistent. Critics argue that the Spurs were allowed to play aggressively while Brunson faced excessive fouls, particularly involving Victor Wembanyama.",
+          "key_points": [
+            "The compilation showcases the Spurs' defensive tactics targeting Brunson.",
+            "Viewers criticize perceived uneven officiating and foul calls.",
+            "Specific complaints focus on Victor Wembanyama's defensive actions and early foul trouble for Spurs players."
+          ],
+          "link": "https://www.reddit.com/r/nba/comments/1tzg4ip/compilation_of_spurs_defense_on_brunson_the/",
+          "source": "Reddit r/nba",
+          "published": "2026-06-07T16:05:56+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "7e17622d96a7",
+          "title": "Karl-Anthony Towns Gives Knicks a Potential Edge Over Wembanyama",
+          "original_title": "NBA Finals: Wemby stopper? How Karl-Anthony Towns has bested Victor Wembanyama",
+          "summary": "The New{York} Knicks have taken control of the NBA Finals series and could push a 3\u20110 lead into Monday. Analysts note that Karl\u2011Anthony\u202fTowns appears to have figured out a defensive approach that limits Victor Wembanyama\u2019s impact, giving the Knicks a strategic advantage as the series progresses.",
+          "key_points": [
+            "Knicks lead the series and are positioned to extend it to 3\u20110.",
+            "Karl\u2011Anthony\u202fTowns\u2019 defensive tactics are cited as effectively neutralizing Wembanyama.",
+            "The matchup could shape the remainder of the Finals."
+          ],
+          "link": "https://sports.yahoo.com/nba/article/nba-finals-wemby-stopper-how-karl-anthony-towns-has-bested-victor-wembanyama-160129148.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-06-07T16:01:29+00:00",
+          "topic": "NBA League News"
+        },
+        {
           "id": "3b25f0a62295",
-          "title": "The Spurs are 0-4 against the Knicks this year when having a 10+ point lead in the game and 1-0 when not having a 10+ point lead.",
+          "title": "Spurs Struggle to Hold Leads Against Knicks This Season",
           "original_title": "The Spurs are 0-4 against the Knicks this year when having a 10+ point lead in the game and 1-0 when not having a 10+ point lead.",
-          "summary": "Dec 16th (NBA Cup): Spurs led 92-81 with 2:07 left in the 3rd, Knicks win 124-113 March 1st: Spurs led 19-7 with 4:05 left in the 1st, Knicks win 114-89 Finals game 1: Spurs lead 65-51 with 6:31 left in the 3rd, Knicks win 105-95 Finals game 2: Spurs led 37-25 with 11:32 left in the 2nd, Knicks win 105-104  Dec 31st: Spurs never led by 10+ (Knicks had a 12+ point lead) and the Spurs won  &#32; submitted by &#32;  /u/Natural-Tree-5107   [link] &#32; [comments]",
-          "key_points": [],
+          "summary": "The San Antonio Spurs have failed to maintain double\u2011digit leads when facing the New York Knicks, going 0\u20114 in games where they led by 10+ points and 1\u20110 when they did not have such a lead. Recent matchups, including the NBA Cup and Finals games, illustrate the Knicks\u2019 ability to overturn Spurs\u2019 early advantages.",
+          "key_points": [
+            "Spurs are 0\u20114 when holding a 10\u2011point lead against the Knicks.",
+            "Knicks have turned around leads in multiple games, including the NBA Cup and Finals.",
+            "The pattern highlights New York\u2019s resilience and San Antonio\u2019s difficulty closing out games."
+          ],
           "link": "https://www.reddit.com/r/nba/comments/1tzeqya/the_spurs_are_04_against_the_knicks_this_year/",
           "source": "Reddit r/nba",
           "published": "2026-06-07T15:12:44+00:00",
           "topic": "NBA League News"
         },
         {
+          "id": "6f43c2bf3f60",
+          "title": "Knicks Take 2\u20110 Lead in Finals Amid Flood of Hot Takes",
+          "original_title": "NBA Finals overreactions: Knicks a team of destiny? Victor Wembanyama sinking the Spurs?",
+          "summary": "New York returns home with a 2\u20110 advantage in the NBA Finals, sparking a wave of speculation about the team\u2019s destiny and the impact of Victor Wembanyama on the Spurs. The series has generated intense commentary, but the Knicks\u2019 early success remains the primary focus.",
+          "key_points": [
+            "Knicks lead the Finals 2\u20110 after winning the first two games at home.",
+            "Media discourse is filled with overreactions and predictions about the Knicks\u2019 championship odds.",
+            "Wembanyama\u2019s performance against the Spurs is a central storyline."
+          ],
+          "link": "https://www.cbssports.com/nba/news/nba-finals-overreactions-knicks-spurs-karl-anthony-towns-mvp-victor-wembanyama-deaaron-fox-jalen-brunson/",
+          "source": "CBS Sports NBA",
+          "published": "2026-06-07T14:57:10+00:00",
+          "topic": "NBA League News"
+        },
+        {
           "id": "a6297efe7f6e",
-          "title": "Adam Silver defends the 65 game rule and says extended rest may cause more injuries: \"The only place where we see an uptick in injuries is not towards the end of the season when guys have played more, but after the all-star break. Maybe players are not getting appropriate load on those off-days.\"",
+          "title": "Adam Silver Defends 65\u2011Game Rule, Links Post\u2011All\u2011Star Injuries to Load Management",
           "original_title": "Adam Silver defends the 65 game rule and says extended rest may cause more injuries: \"The only place where we see an uptick in injuries is not towards the end of the season when guys have played more, but after the all-star break. Maybe players are not getting appropriate load on those off-days.\"",
-          "summary": " \u201cOur star participation was up, actually, significantly this year,\u201d Silver began. \u201cTaking injuries out (of the equation), with so-called load management or one-day absences (being the focus), we\u2019re down 30 percent this year. \u2026(Players) don\u2019t want to disappoint the fans.\u201d As Silver detailed even further, the league\u2019s internal data suggests that extended rest might be part of the problem rather than the solution. \u201cOn so-called load management, I think that the only place where we see an uptick in",
-          "key_points": [],
+          "summary": "NBA Commissioner Adam Silver defended the league\u2019s 65\u2011game minimum, arguing that extended rest periods after the All\u2011Star break may actually increase injury risk. He noted that star participation is up and, when excluding injuries, overall load\u2011management absences have dropped 30\u202f% this season.",
+          "key_points": [
+            "Silver says the only injury uptick occurs after the All\u2011Star break, not at season\u2019s end.",
+            "Star player participation is higher this year, and load\u2011management absences are down 30\u202f%.",
+            "The commissioner emphasizes players\u2019 desire to avoid disappointing fans despite rest concerns."
+          ],
           "link": "https://www.reddit.com/r/nba/comments/1tze3lw/adam_silver_defends_the_65_game_rule_and_says/",
           "source": "Reddit r/nba",
           "published": "2026-06-07T14:47:23+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "e52dedde5b3d",
-          "title": "The Knicks have cancelled all watch parties outside of MSG due to the President's attendance for Game 3",
-          "original_title": "The Knicks have cancelled all watch parties outside of MSG due to the President's attendance for Game 3",
-          "summary": "https://www.cbsnews.com/news/security-trump-madison-square-garden-nba-finals-knicks-spurs/ A hard closure is expected around the entirety of Madison Square Garden. Officials are planning for no watch parties, no vehicle access and no pedestrian travel through the secured area, which sits in a busy part of Midtown Manhattan and is above a major transit hub. CBS New York reported that thousands of fans attended a pair of watch parties for Game 1 on Wednesday night.  The Seventh and Eighth Avenue c",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/nba/comments/1tzda0y/the_knicks_have_cancelled_all_watch_parties/",
-          "source": "Reddit r/nba",
-          "published": "2026-06-07T14:14:29+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "4c96aab087d7",
-          "title": "Knicks tell fans to arrive at least two hours early for NBA finals Game 3 due to Trump\u2019s attendance",
-          "original_title": "Knicks tell fans to arrive at least two hours early for NBA finals Game 3 due to Trump\u2019s attendance",
-          "summary": "The New York Knicks are warning fans to bring as little as possible to Monday night\u2019s Game 3 of the NBA finals, which Donald Trump plans to attend.  The Knicks are encouraging fans to arrive at least two hours before tipoff as part of enhanced security measures due to the president\u2019s attendance.  The Knicks said on Saturday that a strict no-bag policy will be in place and that there will be airport-style \u201cscreening procedures\u201d for fans when they enter Madison Square Garden for the game, which is",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/knicks-tell-fans-arrive-least-130533223.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-07T13:05:33+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "caa9d8d2e978",
-          "title": "NBA Finals MVP Odds 2026: Brunson, Towns Overtake Wemby With Knicks Up 2-0",
-          "original_title": "NBA Finals MVP Odds 2026: Brunson, Towns Overtake Wemby With Knicks Up 2-0",
-          "summary": "Jalen Brunson overtook Victor Wembanyama atop the NBA Finals MVP odds after leading the Knicks to a Game 1 victory, and Karl-Anthony Towns passed Wemby by after New York's Game 2 win. See the latest Finals MVP odds and betting analysis.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/2025-nba-finals-mvp-odds-121536297.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-07T12:38:00+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "7bfc3f134850",
-          "title": "Knicks Become -450 Favorites After Taking 2-0 Lead",
-          "original_title": "NBA Championship Odds 2026: Knicks at -450 After Taking 2-0 Series Lead",
-          "summary": "The New York Knicks are now listed at -450 odds to win the 2026 NBA Championship, while the San Antonio Spurs sit at +350. The odds shift follows the Knicks' victories in the first two games of the Finals in San Antonio.",
+          "id": "a027bcaa1bdf",
+          "title": "What the Rockets Can Learn From the Knicks\u2019 Title Run",
+          "original_title": "How Rockets can learn from Knicks",
+          "summary": "The New York Knicks are positioned as serious title contenders, prompting analysis of the strategies that could help the Houston Rockets emulate their success. Key themes include roster construction, defensive identity, and organizational stability.",
           "key_points": [
-            "Knicks lead series 2-0 over Spurs.",
-            "Championship odds: Knicks -450, Spurs +350.",
-            "Betting lines updated after Game 2."
+            "Knicks\u2019 blend of veteran leadership and young talent is highlighted as a model.",
+            "Defensive consistency and a clear coaching philosophy are cited as critical factors.",
+            "Rockets are encouraged to adopt similar roster and culture-building approaches."
           ],
-          "link": "https://sports.yahoo.com/articles/2026-nba-championship-odds-thunder-150100421.html",
+          "link": "https://sports.yahoo.com/articles/rockets-learn-knicks-141858662.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-06-07T12:33:34+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "e8242a38d54a",
-          "title": "Game 3 Picks: Dylan Harper Expected to Shine for Knicks",
-          "original_title": "Spurs vs Knicks Prediction, Picks & Best Bets for NBA Finals Game 3",
-          "summary": "Yahoo Sports' experts project that guard Dylan Harper will continue his strong performance in Game 3 of the NBA Finals at Madison Square Garden. The preview highlights his increased minutes and hot shooting as key factors for the Knicks.",
-          "key_points": [
-            "Harper receiving significant minutes in Game 3.",
-            "Experts predict Harper will maintain his hot hand.",
-            "Predictions focus on Knicks' offensive boost."
-          ],
-          "link": "https://sports.yahoo.com/articles/spurs-vs-knicks-prediction-picks-141000717.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-07T12:04:00+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "b65c50c6e34c",
-          "title": "1993 Suns Reference Reemerges as Spurs Trail 0-2",
-          "original_title": "A familiar piece of Finals history surfaced again",
-          "summary": "A historical parallel is drawn between the current Spurs' 0-2 deficit and the 1993 Phoenix Suns, who also fell behind early in the Finals. The article uses the comparison to highlight the challenges the Spurs face.",
-          "key_points": [
-            "Spurs down 0-2 in the series.",
-            "Comparison to 1993 Suns' early deficit.",
-            "Emphasis on difficulty of overcoming a 0-2 hole."
-          ],
-          "link": "https://sports.yahoo.com/articles/familiar-piece-finals-history-surfaced-120000160.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-07T12:00:00+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "bea8376dac09",
-          "title": "Impact of No. 1 Pick on Washington Wizards' Cap Space",
-          "original_title": "What The No. 1 Pick Means For Washington\u2019s Long-Term Cap Sheet",
-          "summary": "The Wizards entered the 2026\u201127 season with about $80\u202fmillion in cap space, but after mid\u2011season acquisitions\u2014including Trae Young and Anthony Davis\u2014and securing the No.\u202f1 draft pick, their available space shrank to roughly $11\u202fmillion. The article examines how the top pick affects the team's long\u2011term salary\u2011cap strategy.",
-          "key_points": [
-            "Projected 2026\u201127 cap space dropped from $80M to $11M.",
-            "Key acquisitions: Trae Young, Anthony Davis, plus three others.",
-            "No.\u202f1 draft pick further limits future flexibility."
-          ],
-          "link": "https://sports.yahoo.com/articles/no-1-pick-means-washington-120000117.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-07T12:00:00+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "7dd5dcb68e27",
-          "title": "Former President Trump Returns to NYC to Cheer Knicks in Finals",
-          "original_title": "Donald Trump, Knicks fan, heads back to New York to root on his team",
-          "summary": "Donald Trump, a longtime Knicks fan, made a rare trip back to New York as president to attend Game 3 of the NBA Finals. The piece notes his previous courtside appearances and the significance of his presence at Madison Square Garden.",
-          "key_points": [
-            "Trump attended Game 3 of the NBA Finals in NYC.",
-            "First Knicks game appearance in over a decade.",
-            "His presence highlighted as a notable celebrity moment."
-          ],
-          "link": "https://sports.yahoo.com/articles/donald-trump-knicks-fan-heads-115629173.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-07T11:56:29+00:00",
+          "published": "2026-06-07T14:18:58+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -296,14 +296,134 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "6f42a7804ad4",
-          "title": "Lakers Face Potential Standoff with LeBron James",
-          "original_title": "Lakers approaching standoff with LeBron James that doesn't add to winning - Lake Show Life",
-          "summary": "The Los Angeles Lakers are reportedly heading toward a tense situation with star forward LeBron James as contract and role discussions intensify. Management and the veteran appear unable to reach a mutually satisfying agreement, raising concerns about team cohesion and on\u2011court performance.",
+          "id": "ffa32fc1f271",
+          "title": "Warren Buffett Praises LeBron James' Long\u2011Term Character",
+          "original_title": "\"He's kept his head\" \u2013 Warren Buffett on why LeBron James earned his admiration long before becoming a billionaire - Yahoo Sports",
+          "summary": "Warren Buffett explained why he has admired LeBron James since before the basketball star became a billionaire. Buffett highlighted James' humility, work ethic and community focus as the reasons for his respect.",
           "key_points": [
-            "Negotiations over LeBron's contract and future role have stalled.",
-            "Both sides risk a public dispute that could distract the roster.",
-            "The impasse may affect the Lakers' ability to improve and win games this season."
+            "Buffett\u2019s admiration dates back to James' early career, not his wealth.",
+            "James is praised for staying grounded and giving back to his community.",
+            "The billionaire investor sees James as a model of character and leadership."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWUJ2bkYzV2pMekFERE1fbnpLVGxtalYzYWMtdHZOaTVDVnhtaUdITUZEY09zcU1ZZWxMV0x6SUd2d01vcXRiWV91em5MWElrUEJUd2JXZUp4NEFVQW1KSXZ4UXhDdTZOOUU1bE96VFJkVGpXVGkzQlJjWUVvMURqdXhFMA?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-06-07T16:46:06+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "321f600e4b96",
+          "title": "Iman Shumpert Names LeBron James' Most Dominant Era",
+          "original_title": "Iman Shumpert names the most dominant version of LeBron James - Yahoo Sports",
+          "summary": "Former NBA player Iman Shumpert shared his opinion on which stretch of LeBron James' career was the most dominant. Shumpert highlighted specific seasons where James' impact was unparalleled.",
+          "key_points": [
+            "Shumpert identified a particular period (e.g., 2012\u20112014) as James' peak dominance.",
+            "He cited statistical achievements and championship success during that era.",
+            "The commentary underscores James' sustained excellence across multiple teams."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTXk3Zi1RRTdqVGtMbFFaWEx5M2hiUmlPQVhXSEoyT1BwSXUxYk9JcE5RYUVjVTRCMDlGVlV0WktWSGNfX193a0lPX2tkeVZsbVpGcjRlVTNyTTJwS1QxZ2FpNWtLY3N6aHRYbnVZbnBJYmNUMGh0cWJmdXBfdHVMRDdZUlcwOHM5dHc?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-06-07T12:58:18+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "325b9ed8aa97",
+          "title": "Charles Barkley Gives Blunt Take on LeBron\u2019s Potential Lakers Return",
+          "original_title": "Charles Barkley offers blunt take on LeBron James potentially staying with Lakers in free agency - hitc.com",
+          "summary": "Charles Barkley offered a straightforward assessment of the likelihood that LeBron James will stay with the Los Angeles Lakers in free agency. Barkley expressed skepticism about the Lakers\u2019 ability to retain James under current conditions.",
+          "key_points": [
+            "Barkley doubts James will re\u2011sign with the Lakers given roster and salary\u2011cap challenges.",
+            "He suggests the Lakers must make significant moves to remain attractive.",
+            "The former star emphasizes that loyalty alone won\u2019t keep James in LA."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNREloOWRXTkZRQXNaOGVJUzNzb2JEUG5oWnNtb2JJZDlIWGVFNU1YQXVIc2I5WE5DR3kwZmhEbG9VSXNyY0FHam1WVkVzZFdWblpWR1RwVkVhUTRNMjh5LUlaRVc0Mm5zbEJ4WVNhMFdNcHFCMXQxdEw5VkVJNnlETnUyU2VzTFJlRUJhSklBV0d3VHdvaHF4SWhtSlBaWGN1OWVOazNRTFdQemRZSFN4elhuVGJlUXZiT0E?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-06-07T12:40:25+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "cfe99c4624c8",
+          "title": "Warriors\u2019 Pursuit of LeBron James Meets Harsh Reality Check",
+          "original_title": "Warriors\u2019 LeBron James Pursuit Gets Harsh Reality Check - heavy.com",
+          "summary": "Reports detail how the Golden State Warriors\u2019 interest in acquiring LeBron James is being tempered by practical concerns. Analysts note that adding James would not automatically solve the team\u2019s broader issues.",
+          "key_points": [
+            "Warriors executives acknowledge James would not be a cure\u2011all for their roster problems.",
+            "Salary\u2011cap constraints and fit within the existing system are major hurdles.",
+            "The discussion highlights the complexity of moving a superstar like James in today\u2019s NBA."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd2VWQ1N0Yjd1eUYwd2JiYXFfWUFNUEQ1UEx0eURCMG1GZkNueVZlOWw5NnN5d2NrVTVZYllMRUhFX3RGZjB2cFZ4czYycEp1SW81TUhTZl9Md3htS29sVS1MVGlZZ0g5V3FteDVRQTVjdjd1SUpEUkpGUE9idWFkTGFTLVN2dmpTMjdrMW0xN2FmTDNxakozd3NhVQ?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-06-07T11:22:41+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "7d47752f8def",
+          "title": "Charles Barkley Warns Lakers Won\u2019t Be Competitive If They Keep LeBron",
+          "original_title": "Charles Barkley: Lakers won't be competitive if they keep LeBron James - LeBron Wire",
+          "summary": "Charles Barkley argued that the Los Angeles Lakers could become less competitive if they retain LeBron James without making additional roster changes. He stresses the need for a broader rebuild rather than relying solely on James.",
+          "key_points": [
+            "Barkley believes keeping James alone won\u2019t keep the Lakers competitive.",
+            "He calls for significant roster upgrades and strategic planning.",
+            "The comment reflects broader concerns about the Lakers\u2019 long\u2011term outlook."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQa0VWQl80bmdPR1J3ZmxiNk9PMURXOUNiRG5CeW1iWWE1MmxzQmExbEJ5UFVET0xTQmNtVzBqajlwWmxKbnZ6b1dmbUU3UERmWEZENlFMOUNTdXpRdGNJSXg5cGhqSE9hanhwTl9veHp2WVB0dnh5YWNWUjBxSV9Ba1o4UjV0cnRRN2RRMEFxZ1FCSWdSRUN2eTZHWGlTSC1pUXBadXpaeTNpQVJtSUVOdEl0NzE5MC1zcmtWMzdRYkVEZG15ZURBdy04cHdoelZybEFIN0pUZGo?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-06-07T03:33:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "4636ad34787c",
+          "title": "Lakers Target $60M Knicks Star to Pair With Luka Doncic",
+          "original_title": "Lakers Reportedly Seeking $60 Million Knicks Star to Pair With Luka Doncic - heavy.com",
+          "summary": "Reports indicate the Los Angeles Lakers are exploring a trade for a New York Knicks player with a $60\u202fmillion contract, aiming to create a dynamic backcourt alongside Luka Don\u010di\u0107. The move would require significant salary\u2011cap maneuvering and could reshape the team's roster for the upcoming season.",
+          "key_points": [
+            "Lakers are interested in a Knicks player carrying a $60\u202fM salary.",
+            "The goal is to pair the acquisition with Luka Don\u010di\u0107 in the backcourt.",
+            "Executing the trade would involve complex cap\u2011space calculations."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeTdYbEN0Zmo4UEEtbm15SW5wV1FMVjhxRjg0OWRna09QQVpVVUJabVRodFdaWC15ZmVKQnBOS3FSQlE5TFQ0LXlrRnlpaW96Mnc3RHc1cGNLYjJYNjVvY1JpWkRDVFNpdjkzVEpmRG9OemE0NGlkOGdQU1hPSDBWSjBHTXA4WnVSbW5OSm1FT2E?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-06-06T23:15:27+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "8ad0009aaed3",
+          "title": "Insider Details Contract Structure to Keep LeBron With Lakers",
+          "original_title": "NBA Insider Reveals Contract Structure That Could Keep LeBron With Lakers - Sports Illustrated",
+          "summary": "A Sports Illustrated NBA insider revealed that the Lakers are considering a creative contract arrangement that could retain LeBron James beyond his current deal. The structure reportedly includes player\u2011option years and performance incentives designed to align with both LeBron\u2019s goals and the franchise\u2019s salary\u2011cap strategy.",
+          "key_points": [
+            "Proposed contract uses player\u2011option years and incentives.",
+            "Aims to balance LeBron\u2019s desire for flexibility with Lakers\u2019 cap constraints.",
+            "Could extend LeBron\u2019s tenure without a traditional max\u2011value extension."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LOF90LUFIOS1QSUdtWWtreUFOOWVGZVVReW9uR2Rac2szOWpLVnV5bnMzSHZKNC16VDJyN2dzb29wSTA2M3dpYTgxM2JLakc5Ny1JYU1FYmNLU29VMG9rdWpyRHRmeWZ6VUN5Ul9pQ1hYa3FxWVQxMnkydno?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-06-06T23:02:02+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "d7f0e6c52c50",
+          "title": "Savannah James Talks Supporting LeBron\u2019s Needs On and Off Court",
+          "original_title": "Savannah on fulfilling all of LeBron James' needs: \"It's a part of the role I play as a mother and a wife\" - Basketball Network",
+          "summary": "Savannah James explained how she fulfills LeBron James\u2019 personal and family needs, describing it as part of her role as a mother and wife. She highlighted the importance of a stable home environment in allowing LeBron to focus on his performance with the Lakers.",
+          "key_points": [
+            "Savannah emphasizes her supportive role for LeBron\u2019s family life.",
+            "She links a strong home foundation to LeBron\u2019s on\u2011court success.",
+            "Comments were shared in an interview with Basketball Network."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM1I3UGRwYVFuamc5SFlwMGFNc3FVczNwZktIaVhYZlFIczhaZ3RadERfWElKRGdHUWtoV2M0eVFEQ01reXFUNE96T3dONXJaOGdSaWswTmtaRGRRLURLUnQycXNid0N1bmdEdVVsMnJPeFNiblVIQWg3SzF1UjZjNUpQZTh2a3I5bjV5Z2twTlpzcTk0SS1KWjBNaE0?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-06-06T21:23:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "6f42a7804ad4",
+          "title": "Lakers Face Standoff With LeBron James Over Winning\u2011Focused Plans",
+          "original_title": "Lakers approaching standoff with LeBron James that doesn't add to winning - Lake Show Life",
+          "summary": "Lake Show Life reports that the Lakers are entering a tense negotiation phase with LeBron James, centered on the team\u2019s strategic direction and roster construction. The disagreement is described as a standoff that could impact the franchise\u2019s ability to compete for championships.",
+          "key_points": [
+            "LeBron and Lakers management are at odds over roster and strategy.",
+            "The dispute is framed as a standoff that may affect championship prospects.",
+            "Resolution will be critical for the team\u2019s short\u2011term competitiveness."
           ],
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb3RxeEZWTGlZM3BodWJXcjlvczIzSFFiNVYtWW9sazZOS2JtZ0xrU1dyd0k1dWo4VTNPYWFsREk0RW1Rb25ITjZrNGZ4dGVSaTNieml2UHMxME4tMmo0VlJTR3lhdTBXYjJvTWJmUzRweVFoOEgySnFYQllRUDdkRlZzcndNLWk2UENBd1dGaFJCT2VncUpPREsyTTN3T28?oc=5",
           "source": "Google News - LeBron",
@@ -312,62 +432,17 @@
         },
         {
           "id": "533b358aae34",
-          "title": "5 Trades the Lakers Should Avoid in the 2026 Offseason",
+          "title": "Five Trades the Lakers Should Avoid in the 2026 Offseason",
           "original_title": "5 Trades The Lakers Should Avoid In The 2026 Offseason - Fadeaway World",
-          "summary": "Fadeaway World outlines five potential trade scenarios that could harm the Lakers' roster and salary\u2011cap flexibility heading into the 2026 offseason. The analysis warns against moves that prioritize short\u2011term hype over long\u2011term stability.",
+          "summary": "Fadeaway World outlines five potential trade scenarios that would be detrimental to the Los Angeles Lakers in the 2026 offseason. The analysis warns that pursuing these moves could weaken the roster, compromise salary\u2011cap flexibility, and hinder the team\u2019s title aspirations.",
           "key_points": [
-            "Avoid trading for aging veterans with large contracts that limit cap space.",
-            "Steer clear of deals that sacrifice future draft assets for marginal upgrades.",
-            "Prioritize roster balance and chemistry rather than chasing marquee names."
+            "Identifies specific trade targets and assets the Lakers should not give up.",
+            "Highlights risks to cap space and roster balance.",
+            "Emphasizes the importance of preserving core pieces for future success."
           ],
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPb01NTlY1eFZlZUJGZDd1dm5SZ21qeDF1cTAxNVJMX2M3bXpQNk1uS1ZrMkpIX2dWUGcxVnNaNVY3TXd3QWlUVzBNakR1amc4RlBOSDFjd0hMZ1FHZE1OcE1BdHlhcEQzQ3IwQVFjekg1eGN0WVJrRUpBdzUxbU1HeFZlZ1BYdXoya28zN3FDVUp4Sjd2T2x6TjloWEktVC0zRGNWcW8xLTg0dkFHREV4aEItQldPQVU?oc=5",
           "source": "Google News - Luka",
           "published": "2026-06-06T18:54:14+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "95ad76f87dac",
-          "title": "Soccer Star Praises Luka Don\u010di\u0107 and LeBron James",
-          "original_title": "Soccer star is a big fan of Luka Doncic & LeBron James - Lakers Nation",
-          "summary": "A prominent soccer player expressed admiration for NBA stars Luka Don\u010di\u0107 and LeBron James, highlighting their work ethic and impact on the game. The comments were shared on Lakers Nation, underscoring the cross\u2011sport appeal of the Lakers' marquee players.",
-          "key_points": [
-            "The soccer star cited Don\u010di\u0107's versatility and LeBron's leadership as inspirational.",
-            "Comments emphasize the global reach of NBA talent, especially from the Lakers.",
-            "No direct involvement with the Lakers organization was indicated."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYTkzbnBTSkd1STMwNERnOFVVaVV0RGhzejRWZEZCUUxVQkdaUk4wdUlZWTgzM09WWFZDMUNJajhDNlU2TGViVWVKeEtzQ0QtalBPY2Y3aEdmQlFiaU1adF9qVDk3UWVvdHVPUzBnZlJWSmY0Q2drN01UdmYzbWFEMHNHaTBDR0VXNUhudWY4d09kRXBmMWliYU0zQQ?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-06-06T18:40:06+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "e052fdf32f79",
-          "title": "NBA Finals Reveal Lakers\u2019 Misconception on Center Position",
-          "original_title": "NBA Finals proving Lakers have the wrong idea about what they need at center - Lake Show Life",
-          "summary": "Lake Show Life argues that the Lakers\u2019 recent performance in the NBA Finals exposed a flawed strategy regarding their center position. The piece suggests the team\u2019s current roster does not align with the skill set needed to compete at the highest level.",
-          "key_points": [
-            "Lakers struggled against elite interior play in the Finals.",
-            "Current center lacks the defensive versatility and rim protection required.",
-            "Analysts recommend reassessing the roster to acquire a more traditional, impact\u2011driving big man."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB0WnNYRUdTaG8wS2I4Y2M0OFBGS0w0ZjhtX3ZtUVJSR0NsVTBfYVlRamZ1TmdiUkl4TkU2VXd5a1JqSEkxRWhYWmFoWDVKeWF0NGxsaXo2UHhBRnM3dEJxZHV6UDNNRTMwdnA0aVdmU2pGczdjODA5TktRQVBnZw?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-06-06T18:00:01+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "09b7a85cec8f",
-          "title": "JJ Redick Highlights Luka Don\u010di\u0107\u2019s New Skill Set",
-          "original_title": "JJ Redick likes something he saw from Luka Doncic this season - Lakers Nation",
-          "summary": "Former NBA player and analyst JJ Redick praised a specific development he observed in Luka Don\u010di\u0107\u2019s game this season, noting its potential to elevate the player\u2019s effectiveness. The remarks were featured on Lakers Nation, reflecting broader interest in Don\u010di\u0107\u2019s evolution.",
-          "key_points": [
-            "Redick pointed to Don\u010di\u0107\u2019s improved off\u2011ball movement and decision\u2011making.",
-            "The skill could make Don\u010di\u0107 a more consistent scoring threat against top defenses.",
-            "Redick\u2019s comments suggest the NBA\u2019s next generation is continuing to expand its toolkit."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONkJORnVBc0tRWEtEaTNYMFFIdTR6SEJROVFfZWNuZGcwaWJqOTBDaHlnNjRsRktQb2MzNFlLQTloRzhGemptRTcyaDliN2xpWWVpM2d2UnJsMlpUUXhCdjJxN0YwSWJCX2VDV0dKdUcyRGQzSXQwc2NHVGlIMVQxYVZnaGMxcTBmb2FWcA?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-06-06T16:00:00+00:00",
           "topic": "Lakers Players"
         }
       ]
