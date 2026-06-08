@@ -1,35 +1,91 @@
 {
-  "generated_at": "2026-06-08T22:01:10.156715+00:00",
-  "total_articles": 30,
+  "generated_at": "2026-06-08T23:20:02.146791+00:00",
+  "total_articles": 25,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
-          "id": "7767911b0575",
-          "title": "Kobe Bryant's Philosophy Inspires Knicks Guard Jalen Brunson",
-          "original_title": "Lakers Legend Kobe Bryant's Philosophy Continues to Inspire Knicks Star Jalen Brunson - Sports Illustrated",
-          "summary": "Jalen Brunson credits the late Kobe Bryant's work ethic and mindset for shaping his own approach to the game. The Knicks star cites specific lessons from Bryant that help him handle pressure and lead his team.",
+          "id": "fd633a9620d1",
+          "title": "Kobe Bryant's Game\u2011Tying 3\u2011Pointer Sends Lakers to OT Victory in 2004 Finals Game 2",
+          "original_title": "On this day in 2004 - Kobe Bryant hit the game tying 3 and won Game 2 of the Finals in OT against the Pistons",
+          "summary": "On this day in 2004, Kobe Bryant hit a clutch three\u2011pointer that tied the score and forced overtime, leading the Los Angeles Lakers to a win over the Detroit Pistons in Game 2 of the NBA Finals. The shot shifted momentum in the series and highlighted Bryant\u2019s reputation for delivering in high\u2011pressure moments.",
           "key_points": [
-            "Brunson studies Bryant's \"Mamba Mentality\" to improve his preparation and mental toughness.",
-            "He applies Bryant's emphasis on fundamentals and relentless effort in daily practice.",
-            "Brunson believes the philosophy aids his leadership role on a playoff\u2011bound Knicks squad."
+            "Bryant\u2019s three\u2011pointer tied the game with seconds left, sending Game 2 to overtime.",
+            "The Lakers defeated the Pistons, taking a 2\u20110 lead in the 2004 NBA Finals.",
+            "The performance reinforced Kobe\u2019s legacy as a clutch performer in championship settings."
           ],
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdFFMQnFxdUt1Wm9ES3VfTUJiWC1haUFCa0FfVFdCOC1lYWc3ZnB4c3VXRGlFbG5FVWl1M0J1ZXM0eXkyd2lwZlBOaGtpZ2ZOallqOE00RXFyZzZvT3lFYjNXMU5RNHhZVjhwMm1qNUtxbjJVa3Z5WURSZWhIdXVpanRtNWNsOVY0NEpYSWJXOEZoaE5qNjVrZ1Z0RFFab0JZSWI0?oc=5",
+          "link": "https://www.reddit.com/r/lakers/comments/1u0o26a/on_this_day_in_2004_kobe_bryant_hit_the_game/",
+          "source": "Reddit r/lakers",
+          "published": "2026-06-08T23:14:43+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "a6fb655e5a89",
+          "title": "Danny Green Says LeBron James Cussed Him Out During a Bubble Incident",
+          "original_title": "Danny Green recalls LeBron \u2018cussing me out\u2019 over moment in bubble - Lakers Daily",
+          "summary": "In a recent interview with Lakers Daily, former Laker Danny Green recalled an on\u2011court confrontation in the NBA bubble where LeBron James allegedly used profanity toward him. Green described the moment as tense but emphasized that it was quickly resolved and did not affect team chemistry.",
+          "key_points": [
+            "LeBron James reportedly used strong language toward Green during a bubble game.",
+            "Green characterized the incident as a brief, heated exchange that was settled quickly.",
+            "The anecdote highlights the intensity of competition within the Lakers bubble environment."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeWI1SjBFYk9tREV4cjhIR2h6RFJEZmFDaDV2VFZJYWMzNmRFSTJ4bVdNbzMydkItSlNDSm1rZy1jX1NsejNCRXJnX3Jtdk9VQVVaRWJLU1hoV3dheGk2LW4zV2RsUnV5T1BtOUdNTHJRd1FXSnM5UXRWTUJJdzlSNmVELUtCWDBYUmxvSFNaOVFYdw?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-06-08T21:34:57+00:00",
+          "published": "2026-06-08T22:53:47+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "a94dcd9041ed",
+          "title": "Myles Garrett Explains Why Kobe Bryant Remains an Inspiration",
+          "original_title": "Rams Star Myles Garrett Reveals Why Lakers Legend Kobe Bryant Still Inspires Him - Sports Illustrated",
+          "summary": "Rams defensive end Myles Garrett told Sports Illustrated that Kobe Bryant\u2019s work ethic, competitive drive, and \u201cMamba Mentality\u201d continue to influence his approach to football. Garrett said Bryant\u2019s legacy transcends basketball, serving as a model for athletes across sports.",
+          "key_points": [
+            "Garrett cites Bryant\u2019s relentless preparation and mental toughness as key inspirations.",
+            "He notes that the \u201cMamba Mentality\u201d informs his own training and on\u2011field focus.",
+            "The tribute underscores Kobe Bryant\u2019s lasting impact beyond the NBA."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMVVCMlFHcm5pRnROSjYwUlFHSmFlTWxteVBrdGIzMC0zNGJqcDJBY19qWmJfOE5iaDF4OHBlT1A5bERTLTM5UHN1WEdNZVVSdksyeVlBcFJ2SmRpVXVXR0lYbmh5Vko4U2c2QVc1bVRiUkR0eGxlUTR4SmZtd1d3Nm80cS1DM3RQZ1V5WWV4N3Z1Zw?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-06-08T22:22:16+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "0a1bd5c35a76",
+          "title": "Yahoo Sports Predicts Lakers May Trade $18M Guard for Veteran All\u2011Star Champion",
+          "original_title": "Lakers predicted to swap disgruntled $18 million guard for 10-time All-Star, NBA champion - Yahoo Sports",
+          "summary": "Yahoo Sports reports that the Los Angeles Lakers are considering a trade that would move their disgruntled $18\u202fmillion guard in exchange for a 10\u2011time All\u2011Star and NBA champion. The speculation suggests the front office is looking to add championship experience while addressing locker\u2011room chemistry concerns.",
+          "key_points": [
+            "Lakers reportedly targeting a veteran 10\u2011time All\u2011Star with multiple championships.",
+            "The potential trade would involve sending out an $18\u202fmillion guard who is reportedly unhappy.",
+            "The move aims to improve team chemistry and add proven playoff experience."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa0dWVHFKTkoxd25fSm05amd1MXlIS3U5VkJJM1pITllLOTNiWFRhQWVvZVBXeU9mWEFSbFBKdzJnbmhSZTZhQVNhVmN4NW0wYm9ZUnpQbldUc05Fekl1V1JQWjlRc1hMZWNOdko3RGtZSFktaE56SVdPeGh0ZW04SEx4c04telgwN0piMVp3?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-06-08T21:52:56+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "5ac8e1264b29",
+          "title": "Austin Reaves Faces Uncertainty Over Future Role With LeBron James Still on Roster",
+          "original_title": "Uncertainty surrounds the Lakers as Austin Reaves hopes to keep playing alongside LeBron James - MARCA",
+          "summary": "MARCA discusses the uncertainty surrounding the Los Angeles Lakers as they evaluate roster moves, with guard Austin Reaves hoping to remain a key contributor alongside LeBron James. The article highlights contract considerations and the team\u2019s need to balance veteran presence with emerging talent.",
+          "key_points": [
+            "Reaves is seeking a stable role and contract while the Lakers assess roster options.",
+            "LeBron James\u2019 continued presence adds both stability and salary\u2011cap pressure.",
+            "The Lakers must weigh veteran depth against developing players in upcoming decisions."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPaGJXM3dRM195MDY5bVVXTVRWTXBVYVBRTnZOUDFTamVvOThCbFdueUp3WmxPTXBwX3V0RXFSSGVCZTNvRFdieE5yaUZqOUdUZ21jOUp0T2trT0xCQ0dadktmY0tFUVFzWUFETFlCczNSVVFwWGVBLWVCRkp4aGlOa2F5d19Obmt0ODhPNFhBZGFLZDdkZzBIOWwwb2pEa3ZTbFo4cGRJWWNUOFlLMjItZWhkTWpDRWlyT3VtX0lsd1hhVkk3YlhabDVabXhBWFV6TGNudmF0LXZJNG9xcHJjRE00YjV2RW1jRzlSLWpSVzJ0U05IU3ZGTk9Fb2U5d9IB_gFBVV95cUxQNVhoSFFUdHg0bEVEcG5xUk9Ec2JJOUpxX0xRa2hPU3J6Qkl2TFhaNW1WVGluNjhxdGpPcXBzRDRBdHNUbmxmM1A5ODZ5UEtId2dtaGtmQjhST0RHZmlHbVRBODE4RmNxMTg1ZDFvczZsbkRQd1BEc0plczBsSktLbEpEd2Fndk9QclJEU3NHTUl1YWRFSklHZFNOa1RuR3QtV016cmgxMnZSS1phdHdueXVCdVYzekZOaGp0ODBmSFZtSDM0dEp6M0VGUy0xekdyZlY5QTQ5MENSQVE0Mzk0cGdwRC0yTTlpUGVORThjcTNNNU5XZG5yZ29YWHRTZw?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-06-08T21:00:42+00:00",
           "topic": "Lakers News"
         },
         {
           "id": "f259e2a900da",
-          "title": "Rob Pelinka\u2019s Draft Track Record Sparks Calls for Reduced Lakers Authority",
+          "title": "Rob Pelinka\u2019s nightmare draft record warrants a loss of Lakers power - Lake Show Life",
           "original_title": "Rob Pelinka\u2019s nightmare draft record warrants a loss of Lakers power - Lake Show Life",
-          "summary": "An opinion piece argues that General Manager Rob Pelinka\u2019s history of missed draft picks has weakened the Lakers\u2019 competitive position. The author suggests the franchise should limit Pelinka\u2019s power in future roster decisions.",
-          "key_points": [
-            "Pelinka\u2019s recent drafts have produced few impact players, contributing to roster instability.",
-            "Critics claim his decision\u2011making has cost the Lakers draft capital and depth.",
-            "The article proposes restructuring the front office to restore accountability and improve talent acquisition."
-          ],
+          "summary": "Rob Pelinka\u2019s nightmare draft record warrants a loss of Lakers power&nbsp;&nbsp;Lake Show Life",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX3R3THI3aU5SUG9DMkptbEJDQUlwMENGTElWdXJ6c21rSEV6Nnc0T0tLTGRBYkhIUGoyX0dUTkRYeFJ2WngzMHhWbEQxcWloQlU2ZlZBU2I1d1g2bUJGa1JaalJTaDNKUVFLNVN5WWZ5VkJxc2luQy0tQ2NiRXZxeGIwcXRXLUU2emM4ampxblBobTNseU9zSTFVb1BYS0U?oc=5",
           "source": "Google News - Lakers",
           "published": "2026-06-08T21:00:00+00:00",
@@ -37,14 +93,10 @@
         },
         {
           "id": "2897c85360f9",
-          "title": "Lakers Linked to Former Luka Don\u010di\u0107 Teammate, 9\u2011Time All\u2011Star",
+          "title": "Report: Lakers Emerge as Target for 9-Time All-Star, ex-Luka Doncic Teammate - heavy.com",
           "original_title": "Report: Lakers Emerge as Target for 9-Time All-Star, ex-Luka Doncic Teammate - heavy.com",
-          "summary": "Heavy.com reports that Los Angeles is being mentioned as a potential destination for a nine\u2011time NBA All\u2011Star who previously played alongside Luka Don\u010di\u0107. The rumor highlights the Lakers\u2019 continued pursuit of veteran talent.",
-          "key_points": [
-            "The player, a former Dallas Maverick, is a nine\u2011time All\u2011Star known for scoring and playmaking.",
-            "Lakers officials have not confirmed any interest, but the speculation aligns with their roster\u2011upgrade strategy.",
-            "If acquired, the veteran could provide scoring depth and playoff experience."
-          ],
+          "summary": "Report: Lakers Emerge as Target for 9-Time All-Star, ex-Luka Doncic Teammate&nbsp;&nbsp;heavy.com",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeVNfaGpSbmpHN1U4ZUtjb1RuREh3UkY3bXZOWnJGWTQxUS0xejRaT0hfNWFLVm5yMmRwUFhjZ1o3VzJLQ3pKTnBlN21DaExWSFNpYVo0bjY3OTRfb29Sc25NYTZncUdlaU1yN1Vzb2s3WmJJRWQwLUl0cXBJa0o0MG82V2tUZEFPRU94SkE2UzUzaUQy?oc=5",
           "source": "Google News - Lakers",
           "published": "2026-06-08T20:31:10+00:00",
@@ -52,14 +104,10 @@
         },
         {
           "id": "cb69f60d1c07",
-          "title": "Charles Barkley Says LeBron James Has One Clear Free\u2011Agency Choice",
+          "title": "Charles Barkley: LeBron James Has One Clear Choice This Summer",
           "original_title": "Charles Barkley: LeBron James Has One Clear Choice This Summer",
-          "summary": "Hall of Famer Charles Barkley weighs in on LeBron James\u2019 upcoming free\u2011agency decision, stating that staying in Los Angeles is the obvious option for the superstar. Barkley emphasizes the benefits of continuity for both James and the Lakers.",
-          "key_points": [
-            "Barkley argues that James\u2019 legacy and championship aspirations are best served by remaining with the Lakers.",
-            "He notes the team\u2019s existing core and market appeal as factors favoring a stay.",
-            "The comment comes amid widespread speculation about James\u2019 potential move to another contender."
-          ],
+          "summary": "One of the biggest questions of the NBA offseason is the future of Los Angeles Lakers superstar LeBron James. If James chooses to continue his career for a 24th season, he will be an unrestricted free agent free to sign with any team. And in the eyes of Hall of Famer and NBA analyst Charles [&#8230;]",
+          "key_points": [],
           "link": "https://lakersnation.com/charles-barkley-lebron-james-has-one-clear-choice-this-summer/",
           "source": "Lakers Nation",
           "published": "2026-06-08T20:30:41+00:00",
@@ -67,14 +115,10 @@
         },
         {
           "id": "61b059334952",
-          "title": "Reddit User Shares Hand\u2011Drawn Kobe Bryant Tribute Sketch",
+          "title": "Kobe sketch",
           "original_title": "Kobe sketch",
-          "summary": "A Reddit post on r/lakers showcases a fan\u2011created sketch of Kobe Bryant celebrating his iconic image during the NBA Finals. The artist expresses hope for another memorable moment as the Knicks face the Spurs.",
-          "key_points": [
-            "The sketch was posted by user /u/ChemistIllustrious45 and received positive community feedback.",
-            "It was created to honor Bryant\u2019s legacy during the high\u2011stakes Finals series.",
-            "The post reflects ongoing fan engagement with Kobe\u2019s lasting influence on Lakers culture."
-          ],
+          "summary": "      In honor of the finals, I decided to sketch Kobe\u2019s iconic picture. Turned out better than I expected. Hoping there will be another iconic picture this finals (Knicks &gt; Spurs!)  &#32; submitted by &#32;  /u/ChemistIllustrious45   [link] &#32; [comments] ",
+          "key_points": [],
           "link": "https://www.reddit.com/r/lakers/comments/1u0ie11/kobe_sketch/",
           "source": "Reddit r/lakers",
           "published": "2026-06-08T19:38:07+00:00",
@@ -84,75 +128,11 @@
           "id": "93ac08b1593f",
           "title": "Knicks Star Jalen Brunson Feels \u2018Connectivity\u2019 With Kobe Bryant\u2019s Mamba Mentality",
           "original_title": "Knicks Star Jalen Brunson Feels \u2018Connectivity\u2019 With Kobe Bryant\u2019s Mamba Mentality",
-          "summary": "Jalen Brunson, the Knicks\u2019 point guard since signing in 2022, credits Kobe Bryant\u2019s \u201cMamba Mentality\u201d for influencing his approach to the game. His arrival has coincided with one of the franchise\u2019s most successful recent stretches, elevating him to superstar status.",
-          "key_points": [
-            "Brunson joined the Knicks in 2022 and quickly became a focal point of the team.",
-            "He attributes his work ethic and mindset to Kobe Bryant\u2019s legacy.",
-            "The Knicks have experienced a notable period of sustained success during his tenure."
-          ],
+          "summary": "Over the last few seasons, the New York Knicks have enjoyed one of the best prolonged stretches of success in their franchise history and the catalyst of that has been star point guard Jalen Brunson. Ever since signing with the Knicks in 2022, Brunson has catapulted himself into superstardom and now has them on the [&#8230;]",
+          "key_points": [],
           "link": "https://lakersnation.com/knicks-star-jalen-brunson-feels-connectivity-with-kobe-bryant-mamba-mentality/",
           "source": "Lakers Nation",
           "published": "2026-06-08T19:05:55+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "2a775ae5e77f",
-          "title": "Shaq\u2019s Near-Quadruple Double from 25 Years Ago Highlighted",
-          "original_title": "Shaq put up this near quadruple double 25 years ago.",
-          "summary": "A Reddit post revisits a game from 25 years prior where Shaquille O'Neal recorded a stat line that was close to a quadruple\u2011double, underscoring his dominance during that era. The post includes a link to the original discussion thread.",
-          "key_points": [
-            "Shaq posted a near\u2011quadruple\u2011double performance 25 years ago.",
-            "The Reddit thread provides additional commentary and reactions.",
-            "The moment is highlighted as a reminder of Shaq\u2019s historic impact."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1u0g6qm/shaq_put_up_this_near_quadruple_double_25_years/",
-          "source": "Reddit r/lakers",
-          "published": "2026-06-08T18:22:22+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "e8ac2fcb9040",
-          "title": "Evaluating Luke Kennard\u2019s Role in the Lakers\u2019 Future",
-          "original_title": "Did Luke Kennard play his way into Lakers\u2019 future plans?",
-          "summary": "Silver Screen and Roll reviews Luke Kennard\u2019s contributions after his mid\u2011season trade to Los Angeles, questioning whether he fits into the franchise\u2019s long\u2011term plans. The article is part of an annual season\u2011in\u2011review series assessing each player\u2019s future relevance.",
-          "key_points": [
-            "Kennard arrived via a mid\u2011season trade and has been evaluated in the context of the team\u2019s direction.",
-            "The piece examines his performance, fit, and potential future role.",
-            "It is part of a broader review of all Lakers players for the season."
-          ],
-          "link": "https://www.silverscreenandroll.com/lakers-analysis/118710/lakers-season-review-luke-kennard-jj-redick",
-          "source": "Silver Screen and Roll",
-          "published": "2026-06-08T17:51:40+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "0321640488a1",
-          "title": "Danny Green Calls 2020 Bubble Title the Hardest of His Career",
-          "original_title": "Danny Green: Lakers\u2019 2020 Bubble Championship Was Hardest Of Career",
-          "summary": "In a Lakers Nation interview, Danny Green describes the 2020 NBA Championship won in the Orlando bubble as the most challenging title he has ever pursued. He contrasts the bubble\u2019s unique pressures with the debate over the legitimacy of that championship.",
-          "key_points": [
-            "Green emphasizes the difficulty of winning the 2020 bubble championship.",
-            "He addresses ongoing debates about the title\u2019s legitimacy.",
-            "The discussion highlights the mental and physical challenges faced by the team."
-          ],
-          "link": "https://lakersnation.com/danny-green-lakers-2020-bubble-championship-was-hardest-of-career/",
-          "source": "Lakers Nation",
-          "published": "2026-06-08T17:40:02+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "b6a1795eb9ea",
-          "title": "Mock Draft Shows Lakers Picking Chris Cenac Jr. at No. 25",
-          "original_title": "In his latest mock, Sam Vecenie of The Athletic has the Lakers selecting F/C Chris Cenac Jr. at No. 25 overall.",
-          "summary": "A Reddit user shares Sam Vecenie\u2019s latest mock draft from The Athletic, which projects the Los Angeles Lakers selecting forward/center Chris Cenac Jr. with the 25th overall pick. The post includes a link to the full mock draft for further details.",
-          "key_points": [
-            "The mock draft predicts the Lakers will choose Chris Cenac Jr. at No. 25.",
-            "The projection comes from Sam Vecenie of The Athletic.",
-            "A full mock draft is linked for readers who want the complete outlook."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1u0er5x/in_his_latest_mock_sam_vecenie_of_the_athletic/",
-          "source": "Reddit r/lakers",
-          "published": "2026-06-08T17:33:56+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -161,133 +141,78 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "01991be7ee78",
-          "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for Spurs-Knicks NBA Finals Game 3, MLB on Monday",
-          "original_title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for Spurs-Knicks NBA Finals Game 3, MLB on Monday",
-          "summary": "Use the latest BetMGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for MLB, Spurs vs. Knicks NBA Finals betting on Monday",
-          "key_points": [],
-          "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-spurs-knicks-nba-finals-game-3-mlb-monday/",
-          "source": "CBS Sports NBA",
-          "published": "2026-06-08T21:41:25+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "7933d259af27",
-          "title": "Roads blocked off, security heightened around Madison Square Garden with President Trump attending Game 3",
-          "original_title": "Roads blocked off, security heightened around Madison Square Garden with President Trump attending Game 3",
-          "summary": "Fans cannot bring in bags and there will be no watch parties outside Madison Square Garden for Game 3.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/roads-blocked-off-security-heightened-212758599.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-08T21:27:58+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "d547e5a39e22",
-          "title": "Use DraftKings promo code for $200 in bonus bets by targeting Spurs-Knicks NBA Finals Game 3, MLB on Monday",
-          "original_title": "Use DraftKings promo code for $200 in bonus bets by targeting Spurs-Knicks NBA Finals Game 3, MLB on Monday",
-          "summary": "DraftKings offers $200 in bonus bets instantly after your first $5 wager for MLB, Spurs vs. Knicks NBA Finals betting on Monday",
-          "key_points": [],
-          "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-for-200-bonus-bets-spurs-knicks-nba-finals-game-3-mlb-monday/",
-          "source": "CBS Sports NBA",
-          "published": "2026-06-08T21:12:33+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "6cf7d6cd66a2",
-          "title": "Thunder GM Sam Presti launches spirited defense of Shai Gilgeous-Alexander: 'He's playing against 6 people. He's got 5 defenders, and the 6th defender is social media'",
-          "original_title": "Thunder GM Sam Presti launches spirited defense of Shai Gilgeous-Alexander: 'He's playing against 6 people. He's got 5 defenders, and the 6th defender is social media'",
-          "summary": "Presti did not hold back in his end-of-season press conference on Monday.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/nba/article/thunder-gm-sam-presti-launches-spirited-defense-of-shai-gilgeous-alexander-hes-playing-against-6-people-hes-got-5-defenders-and-the-6th-defender-is-social-media-205758667.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-08T20:57:58+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "18156e88b406",
-          "title": "NBA player prop picks, odds: Three best 2026 NBA Finals prop bets for Knicks vs. Spurs, Game 3",
-          "original_title": "NBA player prop picks, odds: Three best 2026 NBA Finals prop bets for Knicks vs. Spurs, Game 3",
-          "summary": "SportsLine's model and team of experts have revealed top NBA props picks and NBA predictions for Game 3 of the NBA Finals",
-          "key_points": [],
-          "link": "https://www.cbssports.com/nba/news/nba-player-prop-picks-odds-three-best-2026-nba-finals-prop-bets-for-knicks-spurs-game-3/",
-          "source": "CBS Sports NBA",
-          "published": "2026-06-08T20:45:28+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "5f73d37000fd",
-          "title": "President Donald Trump to Attend Game 3 of NBA Finals at MSG",
-          "original_title": "President Donald Trump to make NBA Finals appearance at Madison Square Garden",
-          "summary": "Former President Donald Trump is scheduled to be in attendance at Madison Square Garden for Game 3 of the NBA Finals between the San Antonio Spurs and the New York Knicks. The article notes his presence as a notable non\u2011sports figure at the championship series.",
+          "id": "7fce714ee18d",
+          "title": "Wembanyama, Spurs Stay Confident Despite 0-2 Finals Deficit",
+          "original_title": "Wemby, Spurs undaunted by 0-2 hole vs. Knicks",
+          "summary": "Victor Wembanyama and the San Antonio Spurs remain optimistic about their chances in the NBA Finals even though they trail the New York Knicks 2-0. Game 3 is scheduled for Monday at Madison Square Garden, and the team says the series is far from over.",
           "key_points": [
-            "Trump will be at MSG for Game 3 of the Spurs\u2011Knicks Finals.",
-            "The game marks a rare appearance by a former U.S. president at an NBA Finals matchup.",
-            "No additional political or logistical details are provided."
+            "Spurs are down 0-2 in the Finals against the Knicks.",
+            "Victor Wembanyama emphasized confidence and belief in a comeback.",
+            "Game 3 will be played Monday at Madison Square Garden."
           ],
-          "link": "https://sports.yahoo.com/articles/president-donald-trump-nba-finals-203940132.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-08T20:39:40+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/48994266/spurs-confident-dig-0-2-hole-nba-finals",
+          "source": "ESPN NBA",
+          "published": "2026-06-08T23:59:41+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "40f53249d0a4",
-          "title": "Victor Wembanyama\u2019s \u201cBig Fundamental\u201d Adjustment Ahead of the Finals",
-          "original_title": "Victor Wembanyama and the \u201cBig Fundamental\u201d Adjustment",
-          "summary": "The piece examines how rookie center Victor Wembanyama can refine his game to be more effective in the NBA Finals. It focuses on fundamental improvements rather than flash{y} play, suggesting specific areas for development.",
+          "id": "66bb60a0ce35",
+          "title": "Raptors Extend GM Bobby Webster's Contract and Promote Him to EVP",
+          "original_title": "Raptors GM Webster extended, promoted to VP",
+          "summary": "Toronto announced a multiyear extension for general manager Bobby Webster and elevated him to the role of executive vice president. The move reflects the organization\u2019s confidence in Webster\u2019s leadership as the team looks ahead.",
           "key_points": [
-            "Wembanyama needs to emphasize fundamentals such as footwork and positioning.",
-            "Adjustments are aimed at increasing consistency against elite playoff defenses.",
-            "The article offers practical tips without speculating on outcomes."
+            "Bobby Webster receives a multiyear contract extension.",
+            "He is promoted from GM to executive vice president.",
+            "The announcement was made by the Raptors on Monday."
           ],
-          "link": "https://sports.yahoo.com/articles/victor-wembanyama-big-fundamental-adjustment-194318237.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-08T19:43:18+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/49001088/raptors-gm-webster-extended-promoted-executive-vice-president",
+          "source": "ESPN NBA",
+          "published": "2026-06-08T23:59:41+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "8b66cd4f6458",
-          "title": "Reddit Post Cites Secret Service Interaction Over Lost AirPod",
-          "original_title": "Charania: \"Personally, I was actually stopped by Secret Service just right over there. Cause my AirPod fell and Secret Service came up to me and said 'hey Secret Service, you're gonna have to get out of the intersection', so I had to get out. After this I'm gonna go look for my Airpod case.\"",
-          "summary": "A Reddit user shared a personal anecdote describing an encounter with Secret Service agents after misplacing an AirPod near an intersection. The post includes a direct quote from the user and links to the original discussion thread.",
+          "id": "71cb7c3824d5",
+          "title": "Former Bulls Champion Stacey King Dies at 59",
+          "original_title": "Stacey King, 3-time champ with Bulls, dies at 59",
+          "summary": "Stacey King, a three\u2011time NBA champion with the Chicago Bulls and later a popular broadcaster for the team, passed away at age 59. He was remembered for his contributions on the court and his charismatic presence in the broadcast booth.",
           "key_points": [
-            "User claims Secret Service stopped them to retrieve a lost AirPod.",
-            "The story was posted on r/nba and includes a verbatim quote.",
-            "No verification or broader relevance to NBA news is provided."
+            "King won three championships with the Chicago Bulls.",
+            "After retiring, he became a beloved member of the Bulls' broadcast team.",
+            "He died at the age of 59."
           ],
-          "link": "https://www.reddit.com/r/nba/comments/1u0ifg4/charania_personally_i_was_actually_stopped_by/",
-          "source": "Reddit r/nba",
-          "published": "2026-06-08T19:39:31+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/48992706/stacey-king-3-nba-champion-bulls-dies-59",
+          "source": "ESPN NBA",
+          "published": "2026-06-08T23:59:41+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "fb3c43c44575",
-          "title": "Bulls Legend and Broadcaster Stacey King Dies at 59",
-          "original_title": "Stacey King dies at 59: What we know about the Bulls' broadcaster's death",
-          "summary": "Former NBA champion and Chicago Bulls television analyst Stacey King passed away at age 59, reportedly after a fall at his home. The article outlines his playing career, broadcasting tenure, and the circumstances surrounding his death.",
+          "id": "38d233f436ba",
+          "title": "Timberwolves Unveil New Uniforms, Logo, and Court Designs",
+          "original_title": "\ud83d\udcf8 Wolves reveal new uniforms, logo and courts",
+          "summary": "Minnesota released a fresh visual identity that blends historic elements of the franchise with modern aesthetics. The rollout includes updated jerseys, a revamped logo, and redesigned court graphics.",
           "key_points": [
-            "King was a three\u2011time NBA champion with the Bulls (1996\u20111998).",
-            "He transitioned to a popular broadcaster role for Bulls TV after retirement.",
-            "His death is believed to be linked to a fall at his residence; details remain limited."
+            "New uniforms incorporate nods to past Timberwolves designs.",
+            "A refreshed team logo and court artwork were introduced.",
+            "The updates aim to honor franchise history while looking forward."
           ],
-          "link": "https://sports.yahoo.com/articles/stacey-king-dies-59-know-193923056.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-08T19:39:23+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/48993624/minnesota-timberwolves-nba-unveil-new-uniforms-2026",
+          "source": "ESPN NBA",
+          "published": "2026-06-08T23:59:41+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "558860a1fcdb",
-          "title": "Monday\u2019s Top Betting Picks: Spurs\u2011Knicks, Yankees\u2011Guardians and More",
-          "original_title": "Today's top games to watch, best bets, odds: Spurs vs. Knicks, Yankees vs. Guardians and more",
-          "summary": "CBS Sports provides a roundup of the day\u2019s marquee matchups, including the Spurs vs. Knicks NBA game, and offers betting odds and projections from the SportsLine model and CBS experts. The article is intended for bettors seeking guidance on upcoming contests.",
+          "id": "e2dd6cb6d48e",
+          "title": "Brunson\u2019s Appeal in New York: Guts Over Glamour",
+          "original_title": "'He's us -- except he's very good at basketball': ...",
+          "summary": "Julius\u202fBrunson\u2019s popularity in New York stems from his gritty playing style and street\u2011smart approach, resonating with fans who value hard work and resilience more than flash. The narrative highlights how his on\u2011court demeanor mirrors the city\u2019s own identity.",
           "key_points": [
-            "Highlights include betting lines for the Spurs\u2011Knicks NBA game.",
-            "Provides expert odds and projections for MLB\u2019s Yankees vs. Guardians.",
-            "Focuses on wagering advice rather than game analysis."
+            "Brunson is praised for his toughness and basketball IQ.",
+            "Fans connect his work\u2011ethic with New York\u2019s cultural values.",
+            "The article emphasizes substance over spectacle in his appeal."
           ],
-          "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-spurs-vs-knicks-yankees-vs-guardians-and-more/",
-          "source": "CBS Sports NBA",
-          "published": "2026-06-08T19:30:41+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/48995150/how-jalen-brunson-became-king-new-york-knicks-nba-finals",
+          "source": "ESPN NBA",
+          "published": "2026-06-08T23:46:09+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -296,44 +221,74 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "c702f604eec1",
-          "title": "LeBron, Ronaldo, and Serena Feature in New Nike Campaign",
-          "original_title": "LeBron James, Cristiano Ronaldo, Serena Williams Star in New Nike Ads in Trending Photo, Video - Bleacher Report",
-          "summary": "Nike released a multi\u2011sport advertising campaign that includes LeBron James, soccer star Cristiano Ronaldo, and tennis legend Serena Williams. The ads showcase each athlete in photo and video spots highlighting the brand\u2019s latest apparel lines.",
+          "id": "32df7b2db109",
+          "title": "Clippers Should Target Skilled Lakers Forward (Not LeBron)",
+          "original_title": "Clippers should chase after skilled Lakers forward not named LeBron James - Clipperholics",
+          "summary": "Clipperholics argue that the Los Angeles Clippers should pursue a versatile forward from the Lakers roster, emphasizing that the target is not LeBron James. The article suggests the player could fill a specific need for the Clippers and improve their frontcourt depth.",
           "key_points": [
-            "LeBron James, Cristiano Ronaldo, and Serena Williams appear together in Nike\u2019s new ads.",
-            "The campaign uses both still images and video to promote Nike\u2019s upcoming product releases.",
-            "Nike emphasizes cross\u2011sport appeal by featuring stars from basketball, soccer, and tennis."
+            "Clippers are advised to chase a Lakers forward who offers skill and versatility.",
+            "LeBron James is explicitly ruled out as a target.",
+            "Acquiring this player could address the Clippers' frontcourt deficiencies."
           ],
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNY1BXcUlGczRjb3E4WnQ0cUMtUVF4T3FWZEpUcExYdFJhTEswbXJDVWo2Q1J6XzVkZUZBSHZzMHFSLU1CLUJGdkc1TWNINWM2aXV1RmFJcmtEQ1VCcnlGd09zUDBpaUZyYzBoa2kxYnZ1M0JRa1NBajJBeGo5bnpxRzFWMEZpWWtzX0JtWVRlcElxdWdUSFppTVlQb2dDUHFNY0FJWTY0OHk5M0hsTmpWRnowUmVsNXFGSnhHSjVVUGpyVEgzV1Q1a213?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUjVFdzZSaVJfUkx3VGhHZjd0SU1meDdxWWFlelpyLTFlQnhRQnpPZmlkR09hcFdsUGx4Ti14MWV4MElSUWJFangwM2lmb21RNEd1ZXk5REN0aFlRZmJhbGVEWWMzX0wyWWI3ZEZwREhpdG5jT1pNVXNRQzZzOW1BdG53VXctaVFDVmdDbGpkMA?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-06-08T21:12:25+00:00",
+          "published": "2026-06-08T23:00:00+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "85ac9303dec4",
-          "title": "LeBron James Shows Off Golf Skills with Birdie Chip",
-          "original_title": "LeBron James Flexes Golf Skills With Chip for Birdie - LA Sports Report",
-          "summary": "LeBron James posted a video of himself executing a chip shot that landed a birdie during a round of golf. The clip, shared by LA Sports Report, highlights James\u2019 growing interest in the sport beyond his basketball career.",
+          "id": "c702f604eec1",
+          "title": "LeBron James, Cristiano Ronaldo, Serena Williams Star in New Nike Campaign",
+          "original_title": "LeBron James, Cristiano Ronaldo, Serena Williams Star in New Nike Ads in Trending Photo, Video - Bleacher Report",
+          "summary": "Bleacher Report highlights a new Nike advertising campaign featuring LeBron James alongside global icons Cristiano Ronaldo and Serena Williams. The multi\u2011sport ad showcases the athletes in photo and video formats, emphasizing Nike's cross\u2011disciplinary branding.",
           "key_points": [
-            "LeBron successfully chipped in for a birdie, demonstrating solid short\u2011game technique.",
-            "The video underscores his increasing involvement in golf during the NBA offseason.",
-            "No competitive implications were noted; the focus was on his recreational play."
+            "Nike's latest ads feature LeBron James, Cristiano Ronaldo, and Serena Williams.",
+            "The campaign uses both photos and videos to promote the brand's multi\u2011sport appeal.",
+            "The collaboration underscores Nike's strategy of aligning top athletes from different sports."
           ],
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS2tyUmZBREVHMzJxVjExc2w3b3pIX1ZnT1NrUEZVNzgtRnl5elBqcWFIamREYXgtbkdvNHE1a2tkVElKcm9zWkV0eWE0NHFpT19iNXdQTk9WV29VOXppX1BPTU1qa0lxbElDTjNtZE11eFdtYVZZNTU0RzJibWtQVnhGaEhScUE5U29FSEpsNHNDZS1haF9KQ1JB?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNY1BXcUlGczRjb3E4WnQ0cUMtUVF4T3FWZEpUcExYdFJhTEswbXJDVWo2Q1J6XzVkZUZBSHZzMHFSLU1CLUJGdkc1TWNINWM2aXV1RmFJcmtEQ1VCcnlGd09zUDBpaUZyYzBoa2kxYnZ1M0JRa1NBajJBeGo5bnpxRzFWMEZpWWtzX0JtWVRlcElxdWdUSFppTVlQb2dDUHFNY0FJWTY0OHk5M0hsTmpWRnowUmVsNXFGSnhHSjVVUGpyVEgzV1Q1a213?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-06-08T20:57:40+00:00",
+          "published": "2026-06-08T22:42:25+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "7b7eecac8a01",
+          "title": "LeBron James Demonstrates Elite Touch Beyond Basketball",
+          "original_title": "LeBron James shows elite touch beyond basketball - MARCA",
+          "summary": "MARCA reports that LeBron James displayed a remarkable level of skill and finesse in activities outside of basketball, highlighting his athletic versatility. The piece underscores how his touch and coordination translate to other sports and everyday tasks.",
+          "key_points": [
+            "LeBron's performance showcases his elite coordination and touch beyond the court.",
+            "The article emphasizes his ability to excel in varied physical activities.",
+            "His cross\u2011sport talent reinforces his reputation as a multi\u2011dimensional athlete."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ3YwWWpxWi1kVFI5UWZSRThrT2R0VHkzMjdzWDRpblNxWE1UdjFoYktnS1RMc0tndWdSRlVUZTVZWnZEMGhsVXdWaDR1Tk5HTFh6NHNZakNsTmR2QXBVTGQ5SVVSMVlFYWxha29vbEw0X2REQVJ1YUpwOFVfRnpoSWRqTDV3NUotWTdhLWdYbTNuRTZBY29ZOU9vQTVaUndsUndXLXlSdVJEd3NmQ25KRXlWdnoyLTNyQ2tBcmR1dlHSAcABQVVfeXFMTnNyYXA0c1B4MUVxRVUyVV92a2RwbnBrLVNhNDF1ZU4zS3UtZkxIU1k0ZGxEc0ZUa0pPTzl6QXl5OVhaOVFCaWJjSWtKMkZVWlRtTFUwQTFub2hTSHVjZFBScTJzeWltNW5NNkdNVEJWdmw0ZERLem9zOGVPX0psdEFHTlN2YXBwMk5FZXpnSDdhNm9Vb2JqVnVaVmM4NGpzMW4xaVFFd1ZNS1pDWGRoUDNFVDhuWjcwaEJnanU1UExm?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-06-08T21:56:27+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "14c596dd93ef",
+          "title": "Charles Barkley Says LeBron James Has One Clear Summer Choice",
+          "original_title": "Charles Barkley: LeBron James Has One Clear Choice This Summer - Lakers Nation",
+          "summary": "Lakers Nation relays Charles Barkley's opinion that LeBron James faces a single obvious decision regarding his free\u2011agency future this summer. Barkley suggests a specific direction for James, though the article does not detail the option.",
+          "key_points": [
+            "Charles Barkley believes LeBron has a clear, singular option for the upcoming free\u2011agency period.",
+            "The commentary focuses on the strategic implications for James and the Lakers.",
+            "No alternative scenarios are presented, emphasizing Barkley's confidence in his assessment."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNndEVXg3SXVfY25Oc2ctR3B6cjI2SGV0R0N0dWNZMHlsWEg1alZFdEg4NzloeDhkVzB1Q2N4VVpjOUVLYjdiWDFNNHlvaUg5RUtqZ185a2drWDMtOVc3ZkJwOGp1cktZZW1lWEZxdUhhQy1SLU5EMDJxOXJSTUVGU3VIRTlfX1YycDdFVUpwQUI?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-06-08T20:30:41+00:00",
           "topic": "Lakers Players"
         },
         {
           "id": "c9216efc02f0",
-          "title": "Trade Rumor: Knicks All\u2011Star Valued at $220\u202fM Could Return for LeBron",
+          "title": "Lakers Trade Idea: $220\u202fMillion Knicks All\u2011Star for LeBron James",
           "original_title": "Lakers Major Trade Idea Lands $220 Million Knicks All-Star for LeBron James - heavy.com",
-          "summary": "Heavy.com reported a speculative trade scenario in which the Los Angeles Lakers might receive a New York Knicks All\u2011Star, projected at $220\u202fmillion in contract value, in exchange for LeBron James. The idea remains unconfirmed by either franchise.",
+          "summary": "Heavy.com outlines a speculative trade scenario in which the Los Angeles Lakers could acquire a high\u2011priced New York Knicks All\u2011Star by sending LeBron James in return. The proposal values the Knicks player at roughly $220\u202fmillion, highlighting the financial magnitude of such a deal.",
           "key_points": [
-            "Proposed deal pairs a high\u2011salary Knicks star with LeBron James.",
-            "The Knicks player\u2019s contract is estimated at $220\u202fmillion over its duration.",
-            "Both teams have not commented; the proposal is purely a media\u2011generated concept."
+            "Proposed trade sends LeBron James to the Knicks in exchange for a $220\u202fmillion All\u2011Star.",
+            "The idea underscores the massive salary implications for both franchises.",
+            "It reflects ongoing speculation about LeBron's future and the Lakers' roster strategy."
           ],
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb0NXSC1RTEVhTWNzYk1STHVPOHI0SXFtSnZQalRjUlY2cjFjclgxdkRRZmNpSkNoTGloSC03aVpxOGFuUXBXcDQ0a3BjRHBSUnBuQWxJVnhvVXNVeHZMbjdFZlNjMUh4UDIzQmhCRWhHb2VjT2swZndOd2NVNnlsdXRoZVIzOUZr?oc=5",
           "source": "Google News - LeBron",
@@ -342,28 +297,28 @@
         },
         {
           "id": "e496ef832380",
-          "title": "Trade Pitch Links Luka Don\u010di\u0107 with $208\u202fM Nuggets Star",
+          "title": "Lakers Trade Proposal Links Luka Doncic with $208M Nuggets Star",
           "original_title": "Lakers Major Trade Pitch Pairs Luka Doncic With $208 Million Nuggets Star - heavy.com",
-          "summary": "Heavy.com outlined a hypothetical trade that would send NBA MVP Luka Don\u010di\u0107 to the Los Angeles Lakers in exchange for a Denver Nuggets player with a $208\u202fmillion contract. The scenario is speculative and not tied to any official negotiations.",
+          "summary": "A speculative trade scenario circulating among NBA insiders pairs Dallas Mavericks guard Luka\u202fDoncic with a high\u2011salary Colorado Nuggets player valued at $208\u202fmillion in a potential Los Angeles Lakers deal. The proposal outlines how the Lakers could acquire both stars while managing salary\u2011cap implications, though no official talks have been confirmed.",
           "key_points": [
-            "The imagined trade pairs Luka Don\u010di\u0107 with a high\u2011value Nuggets player.",
-            "The Nuggets athlete\u2019s contract is projected at $208\u202fmillion.",
-            "No statements from the Lakers, Nuggets, or Don\u010di\u0107\u2019s representatives confirm the idea."
+            "The trade concept pairs Luka\u202fDoncic with a $208\u202fmillion contract from the Nuggets.",
+            "It is presented as a hypothetical scenario rather than an active negotiation.",
+            "Salary\u2011cap logistics and roster fit are highlighted as major challenges."
           ],
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS2VxUXNwRU43d1hQWjNCam1EWlduWmthUGgzMkFCLWRTOUxvb2tWODZSS2FPb292ajlaMXF1VUMxbV9fOTQzald3d1NWQk9RT21IX2pmZ3VjMFAyYTNsOEpvcmpNZ2VYUEQwWENFMkdwVm1xaUxBMmxyazRLTmN0QTl1VzdvWTRs?oc=5",
-          "source": "Google News - Luka",
+          "source": "Google News - LeBron",
           "published": "2026-06-08T18:42:44+00:00",
           "topic": "Lakers Players"
         },
         {
           "id": "3458f3a64ea4",
-          "title": "Michael Wilbon Says Brunson and LeBron Aren\u2019t in Kobe\u2019s Tier",
+          "title": "Wilbon Says Jalen Brunson and LeBron James Aren\u2019t Kobe\u2011Level",
           "original_title": "Michael Wilbon: Jalen Brunson, LeBron James not in same group as Kobe Bryant - Yahoo Sports",
-          "summary": "In a Yahoo Sports column, Michael Wilbon argued that Jalen\u202fBrunson and LeBron\u202fJames should not be grouped with Kobe Bryant when evaluating all\u2011time greatness. Wilbon highlighted differences in career achievements and impact.",
+          "summary": "Columnist Michael Wilbon argues that while Jalen\u202fBrunson and LeBron\u202fJames are elite players, they should not be placed in the same historical tier as Kobe\u202fBryant. Wilbon cites differences in career achievements, championship pedigree, and on\u2011court impact to support his view.",
           "key_points": [
-            "Wilbon separates Kobe Bryant\u2019s legacy from that of Brunson and James.",
-            "He cites statistical milestones and championship pedigree as distinguishing factors.",
-            "The commentary reflects personal opinion, not an official league assessment."
+            "Wilbon separates Kobe\u2019s legacy from the current performances of Brunson and James.",
+            "He emphasizes Kobe\u2019s five championships and scoring titles as distinguishing factors.",
+            "The commentary focuses on career context rather than current season statistics."
           ],
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOUV6clpVN0d5NmkyS0QtTmNDMnpnUkQ0RTJ0b0g1ZGlRRldIdVV2Q1hmeUd6dXhralF6aUxJX21fV0dKU2w2V0VzZnM5U0psVlp0YzNOcEtUMEdmbEVpOS1iUzF6ZXFMS0wxWEZIZTViazlWSXo3cURaM2ZkdGZSVnpqMHBlM0hoNnBQZg?oc=5",
           "source": "Google News - LeBron",
@@ -372,10 +327,14 @@
         },
         {
           "id": "722347623ff0",
-          "title": "LeBron James\u2019 message to Nelly Korda after U.S. Women\u2019s Open win - New York Post",
+          "title": "LeBron James Congratulates Nelly Korda After U.S. Women\u2019s Open Victory",
           "original_title": "LeBron James\u2019 message to Nelly Korda after U.S. Women\u2019s Open win - New York Post",
-          "summary": "LeBron James\u2019 message to Nelly Korda after U.S. Women\u2019s Open win&nbsp;&nbsp;New York Post",
-          "key_points": [],
+          "summary": "Following Nelly\u202fKorda\u2019s win at the U.S. Women\u2019s Open, LeBron\u202fJames posted a supportive message praising her performance. The gesture highlights James\u2019 habit of acknowledging achievements across other sports.",
+          "key_points": [
+            "LeBron publicly praised Korda\u2019s tournament triumph on social media.",
+            "The message underscored mutual respect between athletes from different disciplines.",
+            "It generated additional media attention for both the golfer and the NBA star."
+          ],
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbzFHR2JEMTFlU3R4ai0yUGJBMWJXSE9IY0p6SUx0b3Z1WDUwTFdaQXJpLTU1bWRsZEp1UnhSTWxvQkEwRXVyV3Z2aFFEWUZYU1F4YkVZRGhaMlFlVEJZcDF2QVhIcmljWkx5dzVMaHd5M0hEV1FoOVZmVFBvQk1TcHFBNERsc1hReFd3NWd5TlY3bFNYb1FVM3doTC0?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-06-08T17:46:00+00:00",
@@ -383,46 +342,32 @@
         },
         {
           "id": "7ae9f999bbec",
-          "title": "Kylian Mbappe Has Two Lakers Stars in His Top 5 NBA Players - Sports Illustrated",
+          "title": "Mbapp\u00e9 Ranks Two Lakers Stars Among His Top Five NBA Players",
           "original_title": "Kylian Mbappe Has Two Lakers Stars in His Top 5 NBA Players - Sports Illustrated",
-          "summary": "Kylian Mbappe Has Two Lakers Stars in His Top 5 NBA Players&nbsp;&nbsp;Sports Illustrated",
-          "key_points": [],
+          "summary": "Soccer superstar Kylian\u202fMbapp\u00e9 listed two Los Angeles Lakers players as part of his personal top\u2011five NBA roster in a recent interview with Sports Illustrated. The French forward highlighted their skill sets and on\u2011court leadership as reasons for his selections.",
+          "key_points": [
+            "Mbapp\u00e9 named two current Lakers players in his top\u2011five NBA picks.",
+            "He cited their versatility, work ethic, and impact on games as key factors.",
+            "The comment reflects the growing crossover interest between global soccer and the NBA."
+          ],
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaGhlYkxMRnZfTXlrdHphZmJFWGFDb085aThlMFhMcm5WQ1owb2NVYjNEUUNVS19CMGZublhvR3FlaDFVQ1FJb2twQTFRT3ZLTHNiaURFYkhxSWF6MHFnS0p3QjhaUUU3NWhPNE15RlA1M1FJS2RiWU5SXzhkTTZkQWNwd2NOYUM0MU9qb1FkNFFXc01QZmU0MFZn?oc=5",
           "source": "Google News - Luka",
           "published": "2026-06-08T17:40:42+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "07732562c407",
-          "title": "Lakers named top landing spot for Knicks' $60 million 7-foot rebounding stud - Yahoo Sports",
-          "original_title": "Lakers named top landing spot for Knicks' $60 million 7-foot rebounding stud - Yahoo Sports",
-          "summary": "Lakers named top landing spot for Knicks' $60 million 7-foot rebounding stud&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbG5POTdVa19iUEtaYTU4UFg4anN6dEtlUXdrQVZWdnhrcXFXTDNiekg5U001ZmJHUlNXY01DSUZtdmNtdmJDTV9DSU44QWZtVEQ4VVVCR19lV2FxeVRVd2FVNU1KREhXQ1RDWUxtel9PRVFfNVA5MWhSZkpCa0czY1Vma2o?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-06-08T16:00:02+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "d5b50598917f",
-          "title": "Lakers Need Mitchell Robinson to Help Luka Doncic Contend for Title amid Latest NBA Rumors - Bleacher Report",
-          "original_title": "Lakers Need Mitchell Robinson to Help Luka Doncic Contend for Title amid Latest NBA Rumors - Bleacher Report",
-          "summary": "Lakers Need Mitchell Robinson to Help Luka Doncic Contend for Title amid Latest NBA Rumors&nbsp;&nbsp;Bleacher Report",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaTdDdGVBT3ByZEx3VXFodTMzb0tuOUw5SDRKQndwSzBvUTVfaW1kNXNPajFwVXVmVFVJZlRuSEhOQ0JNcWVmd0lmSVJRbDhjYkV1UW8tU0pha21TVXA1LXJpc1doOHpoWHBQcnBuX1J4b2V6RkRHMW5hV3BrVkV1eXFUNHcydzQyU09xa3NuVzRfSmFHZW1Tbm01SjVGaU43V3VnSkphMTQzWDA2ZktTeXo5bEdoZHljVFoyU2tWYkt2VGxPVW1F?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-06-08T15:38:22+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "b0a2d479eff4",
-          "title": "How LeBron James\u2019 contract options could impact the Lakers\u2019 free-agency plans - Silver Screen and Roll",
-          "original_title": "How LeBron James\u2019 contract options could impact the Lakers\u2019 free-agency plans - Silver Screen and Roll",
-          "summary": "How LeBron James\u2019 contract options could impact the Lakers\u2019 free-agency plans&nbsp;&nbsp;Silver Screen and Roll",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTk5NRzhNWURrLW1NVUtQUVl4TjMwWW1DN3BBZE56OEZqaVBLMU5CVDdxZFZHVVFOSVhiTnR1NmxJYWxJcWxQcktTcy1FNElpb2ZlQVZZOGR2eWIyLUFmYUNfdWk2N1p4aDRjUVNxeDBpUldWOUJjcHBBZXpsdHdHaXZoeTNucVBUTkZ6dkdBdmZ1djltUHdQNlBtM1RXWTFIcGM0LXdMUTdsUkFVN0o0TDNRaXByVU1sS1NGT2g0YlZYZk1qaklMOVM2Q3otQUU?oc=5",
+          "id": "9fc3335e2b36",
+          "title": "Advice to LeBron: Trade Luka\u202fDoncic and Target a West Rival",
+          "original_title": "Lakers\u2019 LeBron James Advised to Leave Luka Doncic and Join Major West Rival - heavy.com",
+          "summary": "An article on heavy.com relays suggestions that the Los Angeles Lakers should consider moving on from Luka\u202fDoncic and instead pursue a major Western Conference rival to strengthen their roster. The piece outlines potential trade targets and the strategic reasoning behind such a shift.",
+          "key_points": [
+            "The recommendation urges the Lakers to explore trading away Luka\u202fDoncic.",
+            "It proposes acquiring a high\u2011impact player from a Western Conference rival.",
+            "The analysis focuses on roster balance, championship windows, and salary\u2011cap flexibility."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdHB2NUc1ZEFiZFI3TTV4ZWF6Q21HbEYta09HYWlsa0ZXOE1OOXVsV2E0LURSc21Da2JKYlhLdWJqSWk2UzRpNGRyMEJLczZIUjBPLWx3WURuQzg0bUQ2QUpnMmFsZFpySUVNcmVsY3ZEakNTWWNlMWtfX1hPVDAzaXpFbTNtSHd6UVNCMw?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-06-08T15:24:00+00:00",
+          "published": "2026-06-08T17:16:09+00:00",
           "topic": "Lakers Players"
         }
       ]
