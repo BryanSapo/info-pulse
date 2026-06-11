@@ -1,138 +1,158 @@
 {
-  "generated_at": "2026-06-11T10:44:46.599820+00:00",
+  "generated_at": "2026-06-11T16:14:53.862844+00:00",
   "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
-          "id": "f027617637b2",
-          "title": "The Lakers Have A LeBron James Dilemma In 2026 NBA Free Agency - Forbes",
-          "original_title": "The Lakers Have A LeBron James Dilemma In 2026 NBA Free Agency - Forbes",
-          "summary": "The Lakers Have A LeBron James Dilemma In 2026 NBA Free Agency&nbsp;&nbsp;Forbes",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa0VUZ0YzcnBRWndaMnRKV3R0dHJXVVkwcmNZejFGS1BXanNtVTJTQ0VjRDEyNy1zQmRrNEZOQlB2dHJlLTRtXzd6S2VWcW9VQTcybzRsVTEyTVozNHhjUlU3WVp5X3ZWTUtzdVJOQXlPbV9PTUJEcUN0Xzh5dkNvRzhaSHd5WGtPXzg2T29NeW5PaHlhQmpQNzJ3dmtnNl94d2JRQ0NEaDFjaXBFcUU4QXdnZVBXeVk?oc=5",
+          "id": "e18143c6bc92",
+          "title": "Family Tree Visualization Shows How the Lakers Assembled Their Current Roster",
+          "original_title": "Family Tree Style Visualization showing how the Lakers Assembled their current roster.",
+          "summary": "A Reddit user created a family\u2011tree style diagram tracing the Lakers' roster construction back to past trades, starting with Jaden\u202fMcDaniels, a 2020 first\u2011round pick that originated with the Lakers and eventually linked to Kevin\u202fGarnett. The post highlights how multiple transactions over the years have interconnected the team's current lineup.",
+          "key_points": [
+            "The visual connects the Lakers' present roster to historic trades, beginning with the 2020 pick that became Jaden\u202fMcDaniels.",
+            "It demonstrates the chain of moves that eventually involved Kevin\u202fGarnett, illustrating the long\u2011term impact of draft assets.",
+            "The author suggests every NBA team\u2019s roster can be mapped similarly, showing the complexity of roster building."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1u32rrj/family_tree_style_visualization_showing_how_the/",
+          "source": "Reddit r/lakers",
+          "published": "2026-06-11T15:46:52+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "31d3d53712c4",
+          "title": "Which Is the Greatest Lakers Team of All Time?",
+          "original_title": "Which is the greatest Lakers team of all time?",
+          "summary": "Reddit users debate the most dominant Lakers squad, focusing on the 1972 team featuring Wilt Chamberlain, Jerry West, and Gail Goodrich. The 1972 Lakers posted a 69\u2011win season and a 33\u2011game winning streak, but fell short in the Western Conference Finals and lost the following year\u2019s NBA Finals.",
+          "key_points": [
+            "1972 Lakers posted a franchise\u2011record 69 wins and a 33\u2011game winning streak.",
+            "Key players included Wilt Chamberlain, Jerry West, and Gail Goodrich.",
+            "Despite regular\u2011season dominance, they were outscored in the WCF against Milwaukee and lost the 1973 Finals."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1u32j9d/which_is_the_greatest_lakers_team_of_all_time/",
+          "source": "Reddit r/lakers",
+          "published": "2026-06-11T15:38:14+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "c0849be1bb47",
+          "title": "Our Series Against OKC Has Saved the NBA",
+          "original_title": "Our series against OKC has saved the NBA",
+          "summary": "An older fan argues that the recent Lakers\u2011Thunder series highlighted a shift toward softer, more theatrical play, citing Shai Gilgeous\u2011Alexander\u2019s flopping as an example that drew criticism from fans of all teams, including the Celtics. The post suggests the controversy surrounding the series has sparked broader discussion about the state of the game.",
+          "key_points": [
+            "The fan perceives modern NBA play as softer and more theatrical.",
+            "Shai Gilgeous\u2011Alexander\u2019s flopping in the series generated widespread criticism.",
+            "The controversy is framed as a catalyst for conversation about the league\u2019s direction."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1u32f34/our_series_against_okc_has_saved_the_nba/",
+          "source": "Reddit r/lakers",
+          "published": "2026-06-11T15:33:59+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "f35e0c2cf8aa",
+          "title": "LeBron James Outlines When He\u2019ll Know He\u2019s Ready to Retire",
+          "original_title": "LeBron James Outlines When He\u2019ll Know He\u2019s Ready To Retire",
+          "summary": "In a recent interview with Lakers Nation, LeBron James, 41, discussed the criteria he will use to decide when to retire, emphasizing his desire to remain effective and competitive. He noted that health, performance level, and the ability to contribute to a championship pursuit will guide his decision.",
+          "key_points": [
+            "LeBron stresses staying effective and healthy as primary factors for retirement timing.",
+            "He will consider his on\u2011court performance and role in a championship run.",
+            "James acknowledges his unprecedented longevity, having played 23 NBA seasons."
+          ],
+          "link": "https://lakersnation.com/lebron-james-outlines-when-hell-know-hes-ready-to-retire/",
+          "source": "Lakers Nation",
+          "published": "2026-06-11T15:20:58+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "bf0e2383c7c7",
+          "title": "Three Roster Moves the Lakers Must Make If LeBron Returns",
+          "original_title": "3 roster changes the Lakers will have to make if LeBron James comes back - FanSided",
+          "summary": "FanSided outlines three key adjustments the Los Angeles Lakers would need to implement should LeBron James rejoin the team, focusing on roster balance, defensive fit, and salary\u2011cap flexibility. The article suggests specific player moves to create a complementary lineup around James.",
+          "key_points": [
+            "The Lakers would need to improve front\u2011court depth to match LeBron\u2019s playmaking.",
+            "Defensive upgrades are required to protect LeBron and maximize his effectiveness.",
+            "Salary\u2011cap considerations may force trades or waivers to accommodate LeBron\u2019s contract."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQUd5YllXYmN6bXdIYjlRMVV5bUFrQjFaNWMtMkxDVWd2QklrTDhLb1A0RHZQWDIyWjEzX1dOMU5GRlp1ZEhQVHdWNG54aG54NHd4RVZYNW8xZ2NialNKMVNDNFpQZkVwR2tlU2tXZ19fYUpLSVVMVkxOektabncyVmxXb1ZldlZFNGY2cUdRUkMzcV95TW5NQ21oVHQxdw?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-06-11T10:00:00+00:00",
+          "published": "2026-06-11T15:20:05+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "91794fb3fd75",
-          "title": "This is good for us",
-          "original_title": "This is good for us",
-          "summary": "      Call me crazy. Spurs losing like that *could* lead to some interesting moves. OKC need to shuffle to work around the cap . If we can get a really good offseason \u2026   &#32; submitted by &#32;  /u/Jamie_38   [link] &#32; [comments] ",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/lakers/comments/1u2rnyt/this_is_good_for_us/",
+          "id": "2c60792ca96c",
+          "title": "Optimism for Lakers After Spurs Slip Up",
+          "original_title": "I'm more optimistic about the Lakers after watching The Spurs blow it",
+          "summary": "A Reddit user expressed relief that the San Antonio Spurs' recent poor performance eases concerns about the Lakers' long\u2011term prospects. The post suggests the Lakers must use the upcoming offseason to improve and capitalize on the Spurs' decline.",
+          "key_points": [
+            "Spurs' recent loss is seen as a turning point that reduces pressure on the Lakers.",
+            "The author believes the Lakers have an opportunity to strengthen the roster this offseason.",
+            "The comment emphasizes the need for proactive moves rather than passive optimism."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1u31t3t/im_more_optimistic_about_the_lakers_after/",
           "source": "Reddit r/lakers",
-          "published": "2026-06-11T06:58:58+00:00",
+          "published": "2026-06-11T15:11:29+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "eda408464afa",
-          "title": "What is so great about Mitchell Robinson",
-          "original_title": "What is so great about Mitchell Robinson",
-          "summary": "Why are people saying he should be a laker target this offseason? Terrible hands, tires out after 3 minutes up and down the court, sets a new low not only in free throw percentage but even free throw shooting form. Mozgov Part II  &#32; submitted by &#32;  /u/HubbaChubba1   [link] &#32; [comments]",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/lakers/comments/1u2rkw7/what_is_so_great_about_mitchell_robinson/",
-          "source": "Reddit r/lakers",
-          "published": "2026-06-11T06:53:49+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "ca12df803e3e",
-          "title": "Lakers\u2019 LeBron James contract reality could cause Los Angeles to seek other options - sportingnews.com",
-          "original_title": "Lakers\u2019 LeBron James contract reality could cause Los Angeles to seek other options - sportingnews.com",
-          "summary": "Lakers\u2019 LeBron James contract reality could cause Los Angeles to seek other options&nbsp;&nbsp;sportingnews.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMjl4Ui1mYnhGT3pWelBLMnFPUDBFaXBsXzhobEtFWXpkanljSHc4Q0tvQlRjMWpMc0xGOERNT1lEaktnLVV0WXpiYk1oSmxOWnlsM3F3WWxnWTJPX2dtRHNyX1dZWW5LdlQ2SUpxakllSi15dEtqTTNsanFfQktuRU9JN1YtbmttOUt0NFFvMnA3UkxGV2hfUGZxa0JFSjBnSDBYeWxuOEh5c3UtdjN6YktJbW5jbzFxaTdHbFNOTTBRaWdHeXdLMGNHZ2FYMmJoTUZHWnhMY0s2ODBp?oc=5",
+          "id": "7b4d664f3ee1",
+          "title": "Potential Delay in Building Around Luka Don\u010di\u0107 for the Lakers",
+          "original_title": "Lakers may face one looming delay in building around Luka Doncic - Lake Show Life",
+          "summary": "An article from Lake Show Life notes that the Lakers could encounter a significant setback while attempting to construct a roster centered on Luka Don\u010di\u0107. The piece highlights uncertainties that may affect the timeline of such a project.",
+          "key_points": [
+            "The Lakers' plan to build a team around Luka Don\u010di\u0107 faces a possible delay.",
+            "Factors contributing to the delay are not detailed, but they could impact roster construction.",
+            "The article underscores the importance of timing for the Lakers' future competitiveness."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSEhUTE9SajJJenViQ01WaFBvZU9TVkN6RnkwaHBUMDFUSm84U1FhZkdiNUFSOWxyOGJkT09ybXlIcDEzTEtZS3M4YWZES2ZXN2NjMENxbUJXamd0Nk1sYkpTYV9WY3puZC11b3JzYlBvMFlFOE50ZTFXZDY1c1hNZVgybzdsUkttSXZsR3lCbw?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-06-11T06:45:18+00:00",
+          "published": "2026-06-11T15:01:39+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "e93de6c54ea8",
-          "title": "Nneka Ogwumike dominates in Sparks\u2019 win over the Storm",
-          "original_title": "Nneka Ogwumike dominates in Sparks\u2019 win over the Storm",
-          "summary": "The Sparks hold on in a tight battle with the Seattle Storm to win 88-83 on Wednesday night. They are now 2-2 in Commissioner\u2019s Cup play.\u00a0 LA showed great defensive effort once again, with four blocks and 10 steals as a team. They also won the rebounding battle 46-40. The team outscored Seattle by six [&#8230;]",
-          "key_points": [],
-          "link": "https://www.silverscreenandroll.com/los-angeles-sparks-wnba/119028/storm-vs-fire-recap-box-score-stats-final-dearica-hamby-nneka-ogwumike-recap",
-          "source": "Silver Screen and Roll",
-          "published": "2026-06-11T04:20:42+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "b1301cfc8830",
-          "title": "Depth Debate: Bench Scoring Matters More Than Roster Size",
-          "original_title": "It's funny after everything about depth neither or these teams are that deep.",
-          "summary": "A Reddit user argues that NBA teams, including the Lakers, don't need a deep roster of 11 versatile players. The key issue is bench scoring, and without contributors like Harper, a team's bench can be as ineffective as the Lakers' current offensive reserves.",
+          "id": "f5f7fb9a8ed8",
+          "title": "Speculation on Knicks' Title Chances vs. Lakers Outlook",
+          "original_title": "Knicks 1 win an away from a title.",
+          "summary": "A Reddit user argues that while the New York Knicks are unlikely to win the championship, the Lakers appear even farther from a title. The post invites discussion about the relative strengths of both teams.",
           "key_points": [
-            "Bench production, not sheer roster size, determines a team's depth.",
-            "Both the Lakers and comparable teams struggle with low bench scoring.",
-            "Harper is highlighted as a rare bench player who provides meaningful offense."
+            "The user believes the Knicks have slim odds of a championship.",
+            "The Lakers are perceived as being in a worse position than the Knicks.",
+            "The comment seeks community input on what separates the two franchises this season."
           ],
-          "link": "https://www.reddit.com/r/lakers/comments/1u2oo77/its_funny_after_everything_about_depth_neither_or/",
+          "link": "https://www.reddit.com/r/lakers/comments/1u306dm/knicks_1_win_an_away_from_a_title/",
           "source": "Reddit r/lakers",
-          "published": "2026-06-11T04:15:53+00:00",
+          "published": "2026-06-11T14:10:52+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "d2c0b959e2de",
-          "title": "The 2026 San Antonio Spurs (Reddit Discussion)",
-          "original_title": "The 2026 San Antonio Spurs:",
-          "summary": "A Reddit post titled \"The 2026 San Antonio Spurs\" was submitted by user /u/shadylocko. No additional content or analysis was provided in the excerpt.",
+          "id": "90fcb714a5e6",
+          "title": "This Day In Lakers History: Hiring Phil Jackson as Head Coach in 1999",
+          "original_title": "This Day In Lakers History: Los Angeles Hires Phil Jackson As Head Coach In 1999",
+          "summary": "Lakers Nation revisits the 1999 hiring of Phil Jackson, noting that despite assembling a core of Shaquille O\u2019Neal and Kobe Bryant in 1996, the team struggled initially. The article sets the stage for Jackson\u2019s eventual impact on the franchise.",
           "key_points": [
-            "Post originates from r/lakers and references the 2026 Spurs.",
-            "No substantive details are included in the provided text.",
-            "The entry appears to be a placeholder or link to external discussion."
+            "Phil Jackson was hired as Lakers head coach in 1999.",
+            "The team had high expectations after adding Shaq and drafting Kobe but did not achieve immediate success.",
+            "Jackson\u2019s arrival marked a pivotal moment that would later reshape the Lakers' fortunes."
           ],
-          "link": "https://www.reddit.com/r/lakers/comments/1u2ol3m/the_2026_san_antonio_spurs/",
-          "source": "Reddit r/lakers",
-          "published": "2026-06-11T04:11:40+00:00",
+          "link": "https://lakersnation.com/throwback-thursday-lakers-hire-phil-jackson-as-head-coach-in-1999/",
+          "source": "Lakers Nation",
+          "published": "2026-06-11T14:10:07+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "8c3f960111da",
-          "title": "Spurs Set Record for Largest Halftime Lead in NBA Finals",
-          "original_title": "The game Lakers fans don't talk about has finally been surpassed",
-          "summary": "A Reddit user notes that the San Antonio Spurs now hold the record for the biggest halftime lead in NBA Finals history, surpassing a previous Lakers-related milestone. The comment suggests this achievement will likely end references to the older record.",
+          "id": "02490fcea9f0",
+          "title": "Daily Lakers Offseason Discussion Thread",
+          "original_title": "Daily Lakers Offseason Discussion Thread",
+          "summary": "A Reddit AutoModerator post opens a thread for fans to discuss any topics related to the Lakers now that the season has concluded. The thread serves as a space for offseason speculation, analysis, and general conversation.",
           "key_points": [
-            "Spurs recorded the largest halftime lead ever in an NBA Finals game.",
-            "The record eclipses a previous Lakers-associated halftime lead.",
-            "The user implies the new record will diminish future discussions of the older one."
+            "The thread invites fans to talk about any Lakers\u2011related subject during the offseason.",
+            "It is a community\u2011driven discussion, not an official news source.",
+            "Typical topics may include trades, free agency, coaching, and future outlook."
           ],
-          "link": "https://www.reddit.com/r/lakers/comments/1u2nyfs/the_game_lakers_fans_dont_talk_about_has_finally/",
+          "link": "https://www.reddit.com/r/lakers/comments/1u2zwxs/daily_lakers_offseason_discussion_thread/",
           "source": "Reddit r/lakers",
-          "published": "2026-06-11T03:41:28+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "5e7ccdc1a9b8",
-          "title": "Love's Dramatic Losses to the Spurs",
-          "original_title": "Love dramatic spurs losses",
-          "summary": "A Reddit post titled \"Love dramatic spurs losses\" was submitted by user /u/songs_dongs. The excerpt provides no further details about the content.",
-          "key_points": [
-            "Post appears to discuss Kevin Love's notable defeats against the Spurs.",
-            "No specific game information or analysis is included in the excerpt.",
-            "The entry is a brief submission without additional context."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1u2nux2/love_dramatic_spurs_losses/",
-          "source": "Reddit r/lakers",
-          "published": "2026-06-11T03:36:52+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "87af63387801",
-          "title": "Reflecting on the 2020 Lakers' Unique Season",
-          "original_title": "the 2020 Lakers were different man \ud83d\ude2d",
-          "summary": "A Reddit user reflects that the 2020 Los Angeles Lakers were a distinct team, expressing nostalgia with an emotive comment. No further specifics are given beyond the sentiment.",
-          "key_points": [
-            "User emphasizes the 2020 Lakers as a special, memorable squad.",
-            "Emotional tone suggests admiration for that championship season.",
-            "The post lacks detailed analysis or statistical commentary."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1u2m1ks/the_2020_lakers_were_different_man/",
-          "source": "Reddit r/lakers",
-          "published": "2026-06-11T02:11:00+00:00",
+          "published": "2026-06-11T14:01:00+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -141,153 +161,133 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "c540b043a729",
-          "title": "Connie Hawkins Shares a Wilt Chamberlain Tale on YouTube",
-          "original_title": "YouTube Gold: Connie Hawkins With A Rucker Park/Wilt Chamberlain Story",
-          "summary": "A YouTube video features Hall of Famer Connie Hawkins recounting a memorable story involving Wilt Chamberlain. The anecdote highlights Chamberlain\u2019s dominance and provides rare personal insight from Hawkins.",
-          "key_points": [
-            "The video is hosted on the YouTube Gold series.",
-            "Hawkins describes a specific incident that showcases Chamberlain\u2019s on\u2011court impact.",
-            "The story adds historical context to both players\u2019 legacies."
-          ],
-          "link": "https://sports.yahoo.com/articles/youtube-gold-connie-hawkins-rucker-101700049.html",
+          "id": "59ca1aee628c",
+          "title": "Knicks fans called 'disgrace' for Wemby egging, NBA Finals fights",
+          "original_title": "Knicks fans called 'disgrace' for Wemby egging, NBA Finals fights",
+          "summary": "New York Knicks fans are under fire again after an egg appeared to be thrown at Spurs star Victor Wembanyama following Game 4 of the NBA Finals.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/knicks-fans-called-disgrace-wemby-153545922.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-06-11T10:17:00+00:00",
+          "published": "2026-06-11T15:35:45+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "67532fc4f7f2",
-          "title": "Cavaliers\u2019 Tyrese Proctor Earns Final Report Card",
-          "original_title": "Cavs final report card: Tyrese Proctor",
-          "summary": "Tyrese Proctor displayed flashes of potential during his recent outings, offering a glimpse of how he could develop into a reliable backup point guard for Cleveland. The evaluation outlines strengths, areas for improvement, and a projected role on the roster.",
-          "key_points": [
-            "Proctor showed scoring bursts and defensive hustle in limited minutes.",
-            "Coaches noted his decision\u2011making needs refinement to handle starter minutes.",
-            "The report projects him as a viable second\u2011string PG with further development."
-          ],
-          "link": "https://sports.yahoo.com/articles/cavs-final-report-card-tyrese-100000597.html",
+          "id": "0189b7ae9c78",
+          "title": "John Calipari has perfect comparison to Knicks' historic NBA Finals comeback vs Spurs",
+          "original_title": "John Calipari has perfect comparison to Knicks' historic NBA Finals comeback vs Spurs",
+          "summary": "Arkansas coach John Calipari was on tap for Game 4 of the NBA Finals on June 10, watching three of his former players courtside:",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/john-calipari-perfect-comparison-knicks-150834272.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-06-11T10:00:00+00:00",
+          "published": "2026-06-11T15:08:34+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "627fb8a29327",
-          "title": "Knicks vs. Spurs: A Baffling Game Leads to Historic Comeback",
-          "original_title": "Knicks vs. Spurs player grades: The greatest comeback in the history of the sport puts New York on the verge",
-          "summary": "New York rallied from a massive deficit to secure one of the greatest wins in franchise history against San Antonio. The comeback propelled the Knicks to the brink of a championship they have not won in 53 years.",
-          "key_points": [
-            "The Knicks erased a 29\u2011point second\u2011half hole to win the game.",
-            "The victory put New York within one win of clinching the NBA title.",
-            "The game is being called one of the most perplexing and memorable in recent NBA history."
-          ],
-          "link": "https://sports.yahoo.com/articles/knicks-vs-spurs-player-grades-081646879.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-11T08:16:46+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "c14aab8a26d9",
-          "title": "16 Defining Moments of the Knicks\u2019 Game 4 Comeback",
-          "original_title": "The 16 moments that defined the Knicks' historic Game 4 comeback, one of the best in sports history",
-          "summary": "CBS Sports breaks down the 16 pivotal plays that helped New York overcome a 29\u2011point deficit against the Spurs in Game 4, moving them one win away from a championship after a 53\u2011year drought. The analysis highlights key defensive stops, clutch shooting, and momentum shifts.",
-          "key_points": [
-            "The Knicks rallied from a 29\u2011point second\u2011half deficit.",
-            "The comeback secured a 3\u20111 series lead, edging them toward a historic title.",
-            "Each of the 16 moments illustrates how the team seized momentum and executed under pressure."
-          ],
-          "link": "https://www.cbssports.com/nba/news/knicks-historic-game-4-comeback-spurs-biggest-moments/",
+          "id": "ffb0b29c9b4f",
+          "title": "OG Anunoby becomes Knicks legend as iconic game-winner pushes New York to brink of first NBA title in 53 years",
+          "original_title": "OG Anunoby becomes Knicks legend as iconic game-winner pushes New York to brink of first NBA title in 53 years",
+          "summary": "Anunoby's incredible tip-in, following a game-saving chase-down block, will go down in New York sports history",
+          "key_points": [],
+          "link": "https://www.cbssports.com/nba/news/og-anunoby-knicks-legend-game-winner-nba-finals/",
           "source": "CBS Sports NBA",
-          "published": "2026-06-11T07:54:00+00:00",
+          "published": "2026-06-11T15:06:25+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "778cb280f4ed",
-          "title": "De\u2019Aaron Fox\u2019s Turnover Fuels Knicks\u2019 Historic Comeback",
-          "original_title": "\u2018That was a dumbass play\u2019: De\u2019Aaron Fox\u2019s gaffe leaves door open for historic Knicks comeback",
-          "summary": "With the Spurs leading 106\u2011105 and less than a minute left, De\u2019Aaron Fox committed a costly mistake that opened the door for New York\u2019s comeback. The error is being cited as a potential turning point that could end the Knicks\u2019 53\u2011year championship drought.",
-          "key_points": [
-            "Fox\u2019s misplay occurred with under a minute remaining, shifting momentum to the Knicks.",
-            "The mistake contributed to the Knicks erasing the deficit and winning the game.",
-            "Analysts suggest the error could have long\u2011term implications for the Spurs if the Knicks clinch the title."
-          ],
-          "link": "https://sports.yahoo.com/articles/dumbass-play-aaron-fox-gaffe-074315805.html",
+          "id": "7312bd7e334e",
+          "title": "From USC\u2019s leading scorer to gone overnight. Chad Baker-Mazara tells his side of story",
+          "original_title": "From USC\u2019s leading scorer to gone overnight. Chad Baker-Mazara tells his side of story",
+          "summary": "USC never explained why its leading scorer was gone overnight. Now, he\u2019s breaking his silence.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/usc-leading-scorer-gone-overnight-150609667.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-06-11T07:43:15+00:00",
+          "published": "2026-06-11T15:06:09+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "9dc48cf86149",
-          "title": "Knicks Complete Historic 3\u20111 Comeback in NBA Finals",
-          "original_title": "NBA Finals: A Wu-Tang prayer, OG Anunoby, Jose Alvarado and the greatest comeback in NBA history",
-          "summary": "In Game 4 at Madison Square Garden, the New York Knicks erased the largest deficit ever overcome in NBA playoff history to take a 3\u20111 series lead. The rally featured clutch plays from OG Anunoby and Jose Alvarado, cementing the win as the greatest comeback in the league\u2019s postseason lore.",
-          "key_points": [
-            "Knicks overcame a 30\u2011point deficit, the biggest comeback ever in NBA playoff history.",
-            "OG Anunoby\u2019s tip\u2011in and defensive block were pivotal in the final minutes.",
-            "The victory gave New York a 3\u20111 lead in the series."
-          ],
-          "link": "https://sports.yahoo.com/nba/article/nba-finals-a-wu-tang-prayer-og-anunoby-jose-alvarado-and-the-greatest-comeback-in-nba-history-074015249.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-11T07:40:15+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "d5b6b1ac0bad",
-          "title": "Knicks Must Start Stronger in Game 5 After Poor First Quarter",
-          "original_title": "Knicks must get off to better start in Game 5 to avoid comeback attempt by Spurs",
-          "summary": "Following a disappointing first quarter in Game 4\u2014their worst opening period of the playoffs\u2014the Knicks aim to improve their start in Game 5 to avoid a potential Spurs comeback. Coach Mike Brown emphasized the need for better early execution to protect their series advantage.",
-          "key_points": [
-            "Knicks posted the lowest first\u2011quarter scoring total of their playoff run in Game 4.",
-            "A stronger start is critical to prevent the Spurs from narrowing the series gap.",
-            "Coach Brown highlighted adjustments in defensive intensity and ball movement."
-          ],
-          "link": "https://sports.yahoo.com/articles/knicks-must-off-better-start-073728676.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-11T07:37:28+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "cebbe8887a68",
-          "title": "Giannis Antetokounmpo Next\u2011Team Odds Favor Miami Heat",
-          "original_title": "Giannis Antetokounmpo Next Team Odds: Talk Heats Up On The Greek Freak Heading to Miami",
-          "summary": "Betting markets on Kalshi show the Miami Heat as the leading candidate to acquire Giannis Antetokounmpo, with odds reflecting a decline in interest from the Milwaukee Bucks. Analysts note the Heat\u2019s cap space and championship window as key factors driving the trend.",
-          "key_points": [
-            "Miami Heat leads the odds market for Giannis\u2019s next destination.",
-            "Odds for a Bucks\u2011stay have softened as traders price in a potential trade.",
-            "Market analysis points to Miami\u2019s salary\u2011cap flexibility and title aspirations."
-          ],
-          "link": "https://sports.yahoo.com/articles/giannis-antetokounmpo-next-team-odds-213200603.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-11T07:14:00+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "156bfebf4532",
-          "title": "OG Anunoby\u2019s Game\u2011Winning Tip\u2011In Hailed as Iconic Knicks Moment",
-          "original_title": "OG Anunoby saves Knicks with game-winning tip-in, huge block in historic Finals comeback: 'It feels cool'",
-          "summary": "After delivering a decisive tip\u2011in and a crucial block in the Knicks\u2019 record\u2011setting comeback, OG Anunoby was praised by coach Mike Brown as \u201cthe most iconic shot in New York basketball history.\u201d The play sealed the victory and highlighted Anunoby\u2019s impact on both ends of the floor.",
-          "key_points": [
-            "Anunoby\u2019s tip\u2011in secured the final lead in the historic comeback.",
-            "His defensive block in the closing seconds prevented a Spurs rally.",
-            "Coach Brown labeled the shot as the most iconic in Knicks history."
-          ],
-          "link": "https://sports.yahoo.com/nba/article/og-anunoby-saves-knicks-with-game-winning-tip-in-huge-block-in-historic-finals-comeback-it-feels-cool-071149439.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-11T07:11:49+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "ecb586b3e482",
-          "title": "Spurs\u2019 Late\u2011Game Collapse Becomes Biggest Single\u2011Game Choke in Finals History",
-          "original_title": "How the Spurs authored the biggest single-game choke in NBA Finals history",
-          "summary": "In a dramatic finish, the San Antonio Spurs surrendered a sizable lead to the Knicks, marking the largest single\u2011game collapse in NBA Finals history. De\u2019Aaron Fox and rookie Victor Wembanyama were central to the late\u2011game turnover spree that allowed New York to complete the comeback.",
-          "key_points": [
-            "Spurs blew a 20\u2011plus point lead in the fourth quarter.",
-            "Fox and Wembanyama\u2019s turnovers contributed to the Knicks\u2019 rally.",
-            "The loss set a new record for the biggest single\u2011game choke in Finals history."
-          ],
-          "link": "https://www.cbssports.com/nba/news/spurs-biggest-single-game-choke-nba-finals-history-knicks/",
+          "id": "200e91cb59e7",
+          "title": "How Karl-Anthony Towns saved the Knicks' historic Game 4 comeback with the tip of a finger -- literally",
+          "original_title": "How Karl-Anthony Towns saved the Knicks' historic Game 4 comeback with the tip of a finger -- literally",
+          "summary": "OG Anunoby was the Game 4 hero, but KAT saved New York's win with a tip to prevent a Spurs game-winning lob",
+          "key_points": [],
+          "link": "https://www.cbssports.com/nba/news/nba-finals-game-4-knicks-spurs-karl-anthony-towns/",
           "source": "CBS Sports NBA",
-          "published": "2026-06-11T07:00:24+00:00",
+          "published": "2026-06-11T14:59:09+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "b399030f542a",
+          "title": "Knicks' comeback victory celebrations lead to multiple arrests across NYC",
+          "original_title": "Knicks' comeback victory celebrations lead to multiple arrests across NYC",
+          "summary": "After the New York Knicks rallied to beat the San Antonio Spurs in Game 4 of the NBA Finals, celebrations erupted throughout the city. The NYPD reported 15 arrests linked to disorderly conduct and public intoxication during the festivities.",
+          "key_points": [
+            "Knicks erased a 29\u2011point deficit to win Game 4 and take a 3\u20111 series lead.",
+            "Celebrations across New York City resulted in 15 arrests for various offenses.",
+            "Police emphasized that the arrests were unrelated to the game itself but to public safety violations."
+          ],
+          "link": "https://sports.yahoo.com/articles/knicks-comeback-victory-celebrations-lead-145642550.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-06-11T14:56:42+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "41440471e31e",
+          "title": "Jalen Brunson honors Make\u2011A\u2011Wish patient after historic Knicks comeback",
+          "original_title": "Knicks' Jalen Brunson honors Make-A-Wish patient after historic comeback in Game 4",
+          "summary": "Following the Knicks' dramatic Game 4 comeback, star guard Jalen Brunson expressed condolences to the family of a young Make\u2011A\u2011Wish patient battling a serious heart condition. Brunson used his platform to highlight the child's courage while celebrating the team's victory.",
+          "key_points": [
+            "Brunson led the Knicks' 29\u2011point comeback, finishing with a game\u2011high scoring line.",
+            "He publicly acknowledged a Make\u2011A\u2011Wish patient and offered support to the family.",
+            "The gesture was praised by fans and the Make\u2011A\u2011Wish organization."
+          ],
+          "link": "https://sports.yahoo.com/articles/knicks-jalen-brunson-honors-wish-145617800.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-06-11T14:56:17+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "f9b14196fd42",
+          "title": "Knicks achieve greatest comeback{} in NBA Finals history with Game 4 win",
+          "original_title": "How Knicks pulled off greatest comeback in NBA Finals history in Game 4 win over Spurs",
+          "summary": "The New York Knicks erased a 29\u2011point deficit in the fourth quarter of Game 4, securing a 3\u20111 series lead over the San Antonio Spurs\u2014the largest comeback ever in NBA Finals history. The article breaks down the key runs, defensive adjustments, and clutch performances that made the comeback possible.",
+          "key_points": [
+            "Knicks outscored the Spurs 45\u201122 after falling behind 91\u201162 early in the fourth quarter.",
+            "Defensive switches and a three\u2011point barrage sparked the turnaround.",
+            "The win puts the Knicks one victory away from their first NBA championship since 2010."
+          ],
+          "link": "https://sports.yahoo.com/articles/knicks-pulled-off-greatest-comeback-145110845.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-06-11T14:51:10+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "408bc33fba50",
+          "title": "Clearer look at KAT tipping the inbound pass",
+          "original_title": "Clearer look at KAT tipping the inbound pass",
+          "summary": "A Reddit post shares a video analysis focusing on the moment when Knicks assistant coach Kenny Atkinson (KAT) appeared to tip an inbound pass during the Game 4 comeback. The discussion centers on the potential impact of the tip on the play\u2019s outcome.",
+          "key_points": [
+            "The clip highlights a subtle hand movement by Atkinson near the sideline.",
+            "Commenters debate whether the tip was intentional or accidental.",
+            "No official league review or penalty was issued regarding the incident."
+          ],
+          "link": "https://www.reddit.com/r/nba/comments/1u312xq/clearer_look_at_kat_tipping_the_inbound_pass/",
+          "source": "Reddit r/nba",
+          "published": "2026-06-11T14:45:06+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "e98e532978e9",
+          "title": "Spurs remain hopeful, but Knicks are one win from NBA title",
+          "original_title": "The Spurs are still believers, but it's the Knicks who are 1 game from winning the NBA title",
+          "summary": "Victor Wembanyama outlined the two possible scenarios for Game 5: a Spurs victory to extend the series or a Knicks win to clinch the championship. The article emphasizes the Knicks' momentum after their historic comeback and the Spurs' belief that they can still force a decisive Game 6.",
+          "key_points": [
+            "Knicks hold a 3\u20111 lead and need just one more win for the title.",
+            "San Antonio still believes they can win Game 5 and push the series further.",
+            "Wembanyama highlighted the binary nature of the upcoming matchup."
+          ],
+          "link": "https://sports.yahoo.com/articles/spurs-still-believers-knicks-1-144246938.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-06-11T14:42:46+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -296,153 +296,113 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "8b78c402da08",
-          "title": "LeBron James Declares Himself the Greatest of All Time",
-          "original_title": "LeBron James crowns himself greatest of all time: \u201cThere\u2019s no question\u201d - Eurohoops",
-          "summary": "LeBron James publicly stated that there is no doubt he is the greatest basketball player in history. The comment was made in an interview featured by Eurohoops and has sparked widespread discussion across the NBA community.",
-          "key_points": [
-            "LeBron asserted his status as the GOAT without reservation.",
-            "The statement was covered by Eurohoops and quickly circulated on social media.",
-            "Reactions from players, analysts, and fans are expected to dominate upcoming NBA discourse."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNm9yYThTWjdScU9jemVzNk9DaFJaV3FNY1NiMVBiOVNsa1hWRGRpdVY4ZWNROTJ1bm5kLUtLMkRNY3doRlZDLXNfdlcxcmhtZmdmd2VmaU4weG9HMkhaYkxmUFFET0V1bkxhcXFqclpyODNYdFM5c25hSHZrNzJzZjBtQTlsSC1HcHhmT1R0SWt1ZmRVX01majdEZ1I4MG02MEhtdmU5Zw?oc=5",
+          "id": "72471097ccda",
+          "title": "LeBron James and Rich Paul reportedly have \"complicated\" demands from the Lakers besides wanting a max contract - Yahoo Sports",
+          "original_title": "LeBron James and Rich Paul reportedly have \"complicated\" demands from the Lakers besides wanting a max contract - Yahoo Sports",
+          "summary": "LeBron James and Rich Paul reportedly have \"complicated\" demands from the Lakers besides wanting a max contract&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMURnVl9qV0tJdkRzSVhMM0lDTXdsZk9IUHd5djg3MTZUUHBlNmFNM19xNGJIaTN5QlBZMkxuVmdpR1hreHdMQjhSeUxJVnlZYXU5MWVNN0d3Y1R3SlJoRmI2YXBJUkQ4WHJvQm4tQmN4UmVNU0dtTnJCV2xXUFZJV3VrMGlic3ZDV1E?oc=5",
           "source": "Google News - LeBron",
+          "published": "2026-06-11T16:04:11+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "988f4a40779f",
+          "title": "New LeBron James Rumors Update Warriors Free Agency Hopes Amid Lakers Contract Buzz - Bleacher Report",
+          "original_title": "New LeBron James Rumors Update Warriors Free Agency Hopes Amid Lakers Contract Buzz - Bleacher Report",
+          "summary": "New LeBron James Rumors Update Warriors Free Agency Hopes Amid Lakers Contract Buzz&nbsp;&nbsp;Bleacher Report",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVlo2SHJQT3pNOTktaVk3NEZXbFBsNXd5dFYyMEhtVE1VNkE4YlpfVG9laHdqdENNaG9mbE1tTGx6QXJHUVg1OC1malU0NFlkdWRQRUVTTzY0dGZvYUhFLXNuZ1cyLVpkUGJ5aHlGOTQzZC1DSkIzVTNlQlNFcF9xUGlNaG1ZTkJNUEJEaktTc2MwRkhiVW8yWXVlMklndnVHMkNHUWY1aVlVRHJ2QXR4QzducUtRRncybE1nZnBscWNGcTFMZVpF?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-06-11T15:53:32+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "7719fc542274",
+          "title": "REPORT: LeBron James could favor Golden State over Cleveland as a free agent destination - WKYC",
+          "original_title": "REPORT: LeBron James could favor Golden State over Cleveland as a free agent destination - WKYC",
+          "summary": "REPORT: LeBron James could favor Golden State over Cleveland as a free agent destination&nbsp;&nbsp;WKYC",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPcEdVcWZJQzNRbklHb3dCQ1hENC1kMFMza3RfSjFacHFvVnFKV2RnVmN3bzdobXcwRXRta283VGtlOXRMeTZEZ2YtVlNwbUVGeEFrSTBIeTUyRFZHTVFhT2pZVnNPOS12UE5qYk85MzJiZ0FOWU5fUnF0MkVQZFVVRGFZUDRzTTRrOHBkRjJqV2N2Wjk2LWpuN0NHRnZBRkpOS2RqTmZZZFpRSkxKUXFMcVMwcmlTNzdheVdEbmY4X19rekVnWHRsRmR5RmNrdEtpUC1TUHZieGxkdi13ZGpaaEZqbV9RMTBzdWExUEVrblR4cmhsaXJjSkNUZGVNWl80RGtMSGpNSDkxWWpqUUpES2lCdTczVkdxY1h2c1RxOWx4dzVDUDZ1QV9GQjQxX3BRb1lEZHdjQXBjbWc?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-06-11T15:34:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "f034434365da",
+          "title": "LeBron James has one massive demand for Lakers - Yardbarker",
+          "original_title": "LeBron James has one massive demand for Lakers - Yardbarker",
+          "summary": "LeBron James has one massive demand for Lakers&nbsp;&nbsp;YardbarkerLeBron James free agency decision comes down to Lakers or Warriors, experts say&nbsp;&nbsp;USA TodayLeBron James, Rich Paul will reportedly ask Lakers for max contract&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS0M1VzMzRVhqajh4Qkpka2gtNi1VbXhwVTVTZ2pyUkYzTk5xdjVQVm40cUp2aEViMEhMeWlEbG0zdGh2dkZTaXowM18wazNFMFVyazJxUlFBcDNLTjFuQVFXbklTMEJtbjdqMmwzQ05Kb3FYUmpsSjBXcjU5XzdPQXZQTU9rb0RYNWxZbFMzLXo5RHBibkVGQ1lTZzYwVmFWdDJSTGZJNA?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-06-11T14:19:30+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "4b4ac10b8369",
+          "title": "LeBron James to Golden State Warriors could happen for one key reason, according to insider - hitc.com",
+          "original_title": "LeBron James to Golden State Warriors could happen for one key reason, according to insider - hitc.com",
+          "summary": "LeBron James to Golden State Warriors could happen for one key reason, according to insider&nbsp;&nbsp;hitc.com",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUng0blliLXY5THZqUi1HNWIwS1NBWWNBSVlMdG1rWmZlRVFqTTd1dHB3VlUxVEFWaFdRUWxodGFmeGZHdTdqSEVQUG1fWHp0ZDJBQ2lKT2ozQ3oyZVRPRXg1T1IzZVV3TzBlME43U1h2ZEZrcW9tbjJOUk5FQndJeWs0V0hwNkdtYWdNTVpRaWZCR3JQV3pOeFQ0Rld5eVc0R1pPdS1ldUdGZlVJOE40LTh3?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-06-11T13:24:42+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "2a8249fc9890",
+          "title": "LeBron James Outlines When He\u2019ll Know He\u2019s Ready To Retire - Lakers Nation",
+          "original_title": "LeBron James Outlines When He\u2019ll Know He\u2019s Ready To Retire - Lakers Nation",
+          "summary": "LeBron James Outlines When He\u2019ll Know He\u2019s Ready To Retire&nbsp;&nbsp;Lakers Nation",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUFdTY3U0T1RxV1ViR2lNS3dtZmJic3U5TFZfMmN4Y0R5WDRlSTBKdVpoS1B2SzV0N09SdUtEU3hLbXc5QzlaRm9UZnFzdkJwdWx3Q2pSZmxqTWNLZ1dwZTI3Wjh6OTZkcXcyY0l2WEE4U3p4NzNGSTNGT2F5ZXB3S0w5MVU1cmlVbEE?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-06-11T13:10:58+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "146855617251",
+          "title": "Lakers have all the evidence needed to commit to Luka Doncic and Austin Reaves - Lake Show Life",
+          "original_title": "Lakers have all the evidence needed to commit to Luka Doncic and Austin Reaves - Lake Show Life",
+          "summary": "Lakers have all the evidence needed to commit to Luka Doncic and Austin Reaves&nbsp;&nbsp;Lake Show Life",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZWdHaGNQTGZfNVZQVm8yZ010TnBjcE4tQVpZc1RpQ01KakZ5b1ptVXYzdVNhM25XSjFySXpzaEZMSFJiYXRWOXlvSkVBaFlvMGZMWUd3OWhCMGplYXpLU2FfWWxTejNEZFAtOHFEOXpVTnBqQmNTb1hyblAtNHFxcUhIcllsdWFrSU5VWmJaQWhzbG5YNkotdg?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-06-11T13:00:05+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "76551dfd2488",
+          "title": "Slovenia names World Cup Qualifiers roster without Lakers duo: Why no Luka Doncic? - BasketNews.com",
+          "original_title": "Slovenia names World Cup Qualifiers roster without Lakers duo: Why no Luka Doncic? - BasketNews.com",
+          "summary": "Slovenia names World Cup Qualifiers roster without Lakers duo: Why no Luka Doncic?&nbsp;&nbsp;BasketNews.com",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWGNSUThiVF8ydThwVWFyLUZQUVRLdVhxM3FsOENISGlQRWEzUV9uTE1ZUEFuWmx1T1A2dnk1ak95MXNmOF83cHVjMFdNbmZlWGtMS1JzMU1tdjI4RW9sUkNDdnNtVG5xQzMzVEp5WmNzRDRBSzFtcjhLaVhZZEVWTHVEcG55QnRhQjE4NVlFd3dUcmJWNDYxVFJpYUhjZ3FHWWE2aHNobzBXeElWUzZOTWNKT3NXOFNUa1F3dA?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-06-11T10:48:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "8b78c402da08",
+          "title": "LeBron James crowns himself greatest of all time: \u201cThere\u2019s no question\u201d - Eurohoops",
+          "original_title": "LeBron James crowns himself greatest of all time: \u201cThere\u2019s no question\u201d - Eurohoops",
+          "summary": "LeBron James crowns himself greatest of all time: \u201cThere\u2019s no question\u201d&nbsp;&nbsp;Eurohoops",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNm9yYThTWjdScU9jemVzNk9DaFJaV3FNY1NiMVBiOVNsa1hWRGRpdVY4ZWNROTJ1bm5kLUtLMkRNY3doRlZDLXNfdlcxcmhtZmdmd2VmaU4weG9HMkhaYkxmUFFET0V1bkxhcXFqclpyODNYdFM5c25hSHZrNzJzZjBtQTlsSC1HcHhmT1R0SWt1ZmRVX01majdEZ1I4MG02MEhtdmU5Zw?oc=5",
+          "source": "Google News - Luka",
           "published": "2026-06-11T05:52:00+00:00",
           "topic": "Lakers Players"
         },
         {
           "id": "a9bcd914d3c2",
-          "title": "Giannis Antetokounmpo Responds to LeBron\u2019s GOAT Claim",
+          "title": "Giannis Antetokounmpo Reacts to LeBron James News - Athlon Sports",
           "original_title": "Giannis Antetokounmpo Reacts to LeBron James News - Athlon Sports",
-          "summary": "Giannis Antetokounmpo weighed in on LeBron James\u2019s proclamation of being the greatest player ever. His reaction, reported by Athlon Sports, adds another perspective to the ongoing GOAT debate.",
-          "key_points": [
-            "Giannis offered a measured response, acknowledging LeBron\u2019s achievements while emphasizing his own career goals.",
-            "The comment was highlighted by Athlon Sports as part of the broader conversation about NBA greatness.",
-            "No direct challenge or endorsement of LeBron\u2019s claim was made, keeping the dialogue respectful."
-          ],
+          "summary": "Giannis Antetokounmpo Reacts to LeBron James News&nbsp;&nbsp;Athlon Sports",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObHVzcVVVQl8xRUNWclRCZFM3RkFkMXp3alg1YXBjQlpVQkpzcURjaTJzaklZNVAzZW5ZeWllNnFzUFB2QVFGMDhIQnppbkJrZnpOZ1NpYjlKdHMwTVRNYUxJRF82VGtNc2RuaTc0S0wwcV91RzlSWW5TWDQ0RmJxdW4yRktJLTNLdF9KRWRtN3VicHdIVzcyNzVfM2t3Y1VJS3BZ?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-06-11T03:16:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "3e49811f8614",
-          "title": "Lakers Target $118\u202fMillion Star to Pair with Luka Don\u010di\u0107",
-          "original_title": "Lakers Projected to Make \u2018Major Splash\u2019 for $118 Million Star to Join Luka Doncic - heavy.com",
-          "summary": "According to heavy.com, the Los Angeles Lakers are planning a major roster move that could bring a $118\u202fmillion contract player to the team, potentially creating a high\u2011profile duo with Dallas Mavericks star Luka Don\u010di\u0107. The report suggests the Lakers are willing to make a significant financial commitment to elevate their championship prospects.",
-          "key_points": [
-            "The prospective signing would command a $118\u202fmillion contract.",
-            "The move aims to create a \u201cmajor splash\u201d by pairing the new star with Luka Don\u010di\u0107.",
-            "Such a deal would represent a substantial cap increase for the Lakers."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNM0hUd1pqdFl3YWxyWXhtMjk5c0hsU2MzRk1VSHY2VmFQX2JmNVB4NEUwVXJocG9SMG1mZVFxUGVtbUVPUVFVM0ZKbUdMcEdOSnFIOEQ2YWtLV2p3UHBXczRZZFNfQVpQVmtGaTl0cThfN2l2TXlfTG5NY2gtLXpwM2ZqeTJfekJwN0tqRnNSU1ZoZDdj?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-06-11T01:48:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "721996c4e733",
-          "title": "LeBron James Takes a Shot at San Antonio and Its River Walk",
-          "original_title": "LeBron James Disses San Antonio (And Its Famous River Walk) - Yahoo Sports",
-          "summary": "In a recent interview, LeBron James made critical remarks about San Antonio, specifically targeting the city\u2019s famous River Walk. Yahoo Sports reported the comments, which have drawn attention from both fans and local media.",
-          "key_points": [
-            "LeBron\u2019s comments were directed at San Antonio\u2019s River Walk, a major tourist attraction.",
-            "The remarks were covered by Yahoo Sports and quickly spread on social platforms.",
-            "No official response from San Antonio officials or the NBA has been noted."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQekQxNExjVXBKYjhmOFZ2dE1vQXd3bUJlaV9aX3VoODREanZuNzZQb3dmU0FaNGg5Mi1ldW1pOThvbEFBUExSMUIzNHFjMFBCdmJ4dFg4c000aXJyQzl4eTJJdFdlUExpcHRTVVVSWVUwRjNNTXFRaFY3QVdlY3U0eUJacTVmVVk?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-06-11T00:17:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "e0c01a25079f",
-          "title": "Warriors\u2019 Title Chances Remain Strong If Lakers Re\u2011Sign LeBron",
-          "original_title": "Warriors could still be winners if Lakers re-sign LeBron James - Blue Man Hoop",
-          "summary": "Blue Man Hoop analyzed how the Golden State Warriors could still be championship contenders even if the Los Angeles Lakers retain LeBron James. The article explores roster flexibility and strategic implications for both teams.",
-          "key_points": [
-            "The Warriors could maintain a competitive edge despite LeBron staying in LA.",
-            "Potential roster moves and matchup scenarios were examined.",
-            "The analysis underscores the fluid nature of Western Conference power dynamics."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZZDRyU255OTdIbDJQUUowZk9fcUxWU2JYUEFHanhBWDgzbzltWjIzREdLZENRdzhwRnA1aHUxR3RJZUhaYW90VkJTYWVQT2dDeHdnMmxxSjFBaDBGOHo3a2NMa09uWExzQUE3RDJLcXF6UFlwcmJJWWdlYw?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-06-11T00:00:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "1df27776a0af",
-          "title": "Lakers Must Build Offseason Plan That Protects Luka\u202fDoncic",
-          "original_title": "Lakers must build an offseason plan that protects Luka Doncic - Lake Show Life",
-          "summary": "The article argues that Los Angeles should develop a strategic offseason roadmap focused on safeguarding Luka\u202fDoncic\u2019s health and maximizing his impact. It stresses that roster moves, load\u2011management protocols, and medical support will be essential for the Lakers to compete at a championship level.",
-          "key_points": [
-            "Luka\u202fDoncic\u2019s durability is a top priority for any Lakers roster construction.",
-            "The team should consider adding depth and defensive specialists to reduce Doncic\u2019s workload.",
-            "Investing in advanced medical and conditioning staff is recommended to minimize injury risk."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU3RCVzd0dF9IZkV6SG1uQmpwdFc5SWRIYVduLU5ZZTlQOUJBWmFpTTZHd3NoUTN6YmpDYUpsQUtKTEk3Rm1BNERJSnAwWUlFRWhqajZkc1k1eWVQQmZQUlMwU1kzclJOZDBtZWZVXzVrckpvWl9OS1NPZm1WY3hNY3dSTFlCMmZPNndv?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-06-10T22:00:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "805788852434",
-          "title": "LeBron James Praises Knicks\u2019 Josh Hart as a Winning Player",
-          "original_title": "LeBron James Praises Knicks\u2019 Josh Hart As Winning Player - Lakers Nation",
-          "summary": "LeBron James publicly commended New York Knicks forward Josh Hart, highlighting his hustle, defensive intensity, and team\u2011first mentality. James used the praise to illustrate the type of player the Lakers value in building a championship culture.",
-          "key_points": [
-            "Hart\u2019s effort\u2011based style aligns with the Lakers\u2019 desired roster identity.",
-            "LeBron\u2019s comments suggest the Lakers may target similar role players in future moves.",
-            "The endorsement underscores the importance of intangible qualities beyond scoring."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOblBsSC1XMnZRbVk5OHlDUmx1eGVGdVhtcEV3b2JUWnllWnptTXhiMDFPQURfbDk4WEwxTXNVTFBSWFVSa2NhaXpVaDlkVmM3WldiYnM0N2ZXaXExSlY5TkxLSlhSdk9rSF9wX2tGNVRfQ3kxNkJWZ2pETll4U1ZKZWd0RWk?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-06-10T21:20:42+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "3fabc6ed821b",
-          "title": "Danny\u202fGreen Wants Austin Reaves to Stay and Pair with Luka\u202fDoncic",
-          "original_title": "Danny Green: I would love for Austin Reaves to stay with the Lakers and be with Luka Doncic - HoopsHype",
-          "summary": "Former Laker Danny\u202fGreen expressed his desire for guard Austin Reaves to remain in Los Angeles, noting that Reaves\u2019 skill set would complement a potential Luka\u202fDoncic acquisition. Green highlighted Reaves\u2019 shooting, playmaking, and defensive versatility as assets for a Luka\u2011centric offense.",
-          "key_points": [
-            "Reaves is viewed as a natural fit alongside a future star like Doncic.",
-            "Green believes retaining Reaves would give the Lakers a reliable secondary scorer.",
-            "The comment hints at the organization\u2019s interest in building around a dynamic backcourt."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWTVIMDVJZFZLaGs5MUluZFJUb2lzUFJ5ZHdLdGhIaUZuQ0t2ZEhCYjFqRlhNVkZlTWMyVWdZNHBkQjNtc3RDNUNySnVZN3FRR2hzd3ROR2JISXVtSy14a2I4ak9mal8yQ2U0cnNZdkF1UFJwcmlmMmVKX095NGZaS3Y5c1hmbDZFV1FQTnFFTG5CWHBkcHVqU2s3VEx1SXhIanpWdEpmaHZpT2xaclJrbEdiUW5WdDdOU2FLMnlsNFltOUdKdHZOV3RZQnFaTDg1NUtEQmxNcmpBaUhIZi04TVg4eWt4MXdNN1JZVFFmRUktTFY4MDVJ?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-06-10T20:09:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "cd16b154f283",
-          "title": "Report: Lakers Could Land Luka\u202fDoncic\u2019s Preferred Big Man in Blockbuster Trade",
-          "original_title": "Report Suggests LA Lakers Could Land Big Man Luka Doncic Wants Via Blockbuster Trade - Yahoo Sports",
-          "summary": "Yahoo Sports reports that the Lakers are exploring a trade package that would bring Luka\u202fDoncic\u2019s desired big\u2011man to Los Angeles, potentially reshaping the team\u2019s frontcourt. The article outlines possible assets the Lakers might relinquish and the impact of adding a versatile interior presence.",
-          "key_points": [
-            "The trade would likely involve multiple first\u2011round picks and role players.",
-            "Adding a high\u2011skill big man would give Doncic a complementary inside option.",
-            "Such a move could accelerate the Lakers\u2019 timeline to contend for a title."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNFVYbTAwbVFnZy1TR3V0NXdPNmtaZUFTYnd4TWZqZ2pHY2hlMmNhYVlJU2dZT0lJTmtOUHBHaVBadWNWVFJtMmRFWmJyanpCM3VYaEJWN2p1Ukh3d0tyU1hqU2lpNkNndlF1Y2F4ck11YmVWV25iNnZ3MURWaDJ5VzZvajEwNVU?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-06-10T19:51:11+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "853b372b603f",
-          "title": "Warriors Could Acquire LeBron\u202fJames in a Realistic Blockbuster Trade",
-          "original_title": "Blockbuster Trade Scenario That Could Realistically Happen: Warriors Land LeBron James And Build A Big Four - Yahoo Sports Canada",
-          "summary": "Yahoo Sports Canada outlines a plausible trade scenario in which the Golden State Warriors obtain LeBron\u202fJames, forming a \u201cbig four\u201d with Stephen Curry, Klay Thompson, and Draymond Green. The piece details the assets the Warriors might need to part with and the potential competitive implications.",
-          "key_points": [
-            "The Warriors would likely need to send a combination of draft picks and young talent.",
-            "LeBron joining would create a historic lineup of multiple MVPs and All\u2011Stars.",
-            "The trade could shift the balance of power in the Western Conference for the coming seasons."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY1ZXMk1UbWhqcktCMzZfUktMZHpqbmI4MlZkVk9fdXBKdnF0VkxfbWU3R2NLZ2ZObThJS1RvaGxlSTVKdUc3eUFVVERrNlBrd1p2UUs2cDlNZF9HeFA0RXgxSjRBNENBdXkxSWFrME1oUlJXLVQ2bFJ0Q21sTURvZm1nRmVfSnRQVk9tLVhtSGNUcjhVNGJ6OERB?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-06-10T19:34:21+00:00",
           "topic": "Lakers Players"
         }
       ]
