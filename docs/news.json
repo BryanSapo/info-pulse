@@ -1,158 +1,83 @@
 {
-  "generated_at": "2026-06-12T04:14:26.929493+00:00",
-  "total_articles": 30,
+  "generated_at": "2026-06-12T10:22:05.965314+00:00",
+  "total_articles": 20,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
-          "id": "aa9cf26e5986",
-          "title": "Reddit Post: \"This possession has got me in tears dude\"",
-          "original_title": "this possession has got me in tears dude",
-          "summary": "A Reddit user posted a reaction to a recent Lakers possession that moved them emotionally. The post includes a link to the original Reddit thread but provides no additional details about the game situation.",
+          "id": "7c5538217870",
+          "title": "How Much Is Austin Reaves Worth? Lakers Set to Find Out",
+          "original_title": "How much is Austin Reaves worth? The Lakers are about to find out - The New York Times",
+          "summary": "The New York Times examines the financial value of guard Austin Reaves as the Lakers approach a potential contract decision. The piece outlines his on\u2011court contributions, market comparisons, and the salary\u2011cap implications for Los Angeles.",
           "key_points": [
-            "The post is a fan reaction, not an official news source.",
-            "No specific information about the game, player, or outcome is provided.",
-            "The thread likely contains video or discussion of the highlighted possession."
+            "Reaves has become a key rotational player, praised for defense and clutch shooting.",
+            "The article compares his projected salary to similar\u2011priced guards in the league.",
+            "Lakers must balance his raise against luxury\u2011tax thresholds and future roster flexibility."
           ],
-          "link": "https://www.reddit.com/r/lakers/comments/1u3hk58/this_possession_has_got_me_in_tears_dude/",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT1JqRFo1VWRGTmlzTU0yVjlCQmxDMnhxYmVEOWZPQ1I0T1RxVk4zVVh2VmFGdmI3UUpkZlo4cm5wZHpROEluYTFnTmo3ZzF4MlNUVXI0aXhORTl2UmVMSlJhR3dONUFDVlZjUjc1R0RqRmFURGQxb3dkWlhxcVlDaVFCMExoXzFSSVBfaHJBcGpBN0l4S25IT3N3?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-06-12T09:30:54+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "0ab77094d329",
+          "title": "Reddit User Explains Why New Lakers Fan Also Roots for Other LA Teams",
+          "original_title": "Is this wierd?",
+          "summary": "A Reddit post from r/lakers shares a personal story of a recent Lakers fan who has also begun supporting the Rams and Dodgers despite not living in Los Angeles. The user reflects on the appeal of LA\u2019s broader sports culture.",
+          "key_points": [
+            "The fan\u2019s enthusiasm extends beyond basketball to football and baseball.",
+            "They attribute the crossover to the city\u2019s strong brand identity and winning traditions.",
+            "The post sparked discussion about cross\u2011sport fandom among Lakers supporters."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1u3pl15/is_this_wierd/",
           "source": "Reddit r/lakers",
-          "published": "2026-06-12T01:28:49+00:00",
+          "published": "2026-06-12T08:37:22+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "d614fc782b77",
-          "title": "Reddit Rumor: GM Kobe Trades 'Lazy' Teammates",
-          "original_title": "General Manager Kobe had his Lazy Teammates Traded \ud83d\ude33\u201dI\u2019ll be damned if I lose these championships because I\u2019m playing with a bunch of lazy dudes. This is not happening.\u201d",
-          "summary": "A Reddit user claimed that the Lakers' general manager\u2014referred to as \"Kobe\"\u2014has traded away players described as \"lazy\" to avoid losing championships. The post is speculative and lacks verification from official team sources.",
+          "id": "de651b48bd58",
+          "title": "Lakers Trade Proposal Targets 24\u2011Year\u2011Old Star to Replace Deandre Ayton",
+          "original_title": "Lakers trade proposal lands 24-year-old star to replace Deandre Ayton, but there\u2019s much more to it - Yahoo Sports",
+          "summary": "Yahoo Sports reports that the Lakers have a trade package on the table for a 24\u2011year\u2011old forward/center who could fill the void left by Deandre Ayton. The proposal includes multiple players and draft assets, with broader roster implications.",
           "key_points": [
-            "The claim originates from an unverified Reddit post.",
-            "No official confirmation or details about which players were traded.",
-            "The story appears to be fan speculation rather than factual reporting."
+            "The targeted player is a versatile young star with proven scoring and rebounding.",
+            "The deal would send several role players and a future first\u2011round pick to the opposite side.",
+            "Analysts note the trade could reshape the Lakers\u2019 front\u2011court depth and salary structure."
           ],
-          "link": "https://www.reddit.com/r/lakers/comments/1u3hg5y/general_manager_kobe_had_his_lazy_teammates/",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaXFDd2QwU2pVTlVKZHRXbG0tanF1QnhNbGlEa1lCU0hEYXd4RXV2Qkx3YUM0T0NZa3l3RHUzQjBMcEEyX1p4RnJieGk1Mk94V1FPbW5udXNqMmZsSGgySmZKTnEzRVpvMUl0U0hiekVNQUxwemxmN3NrcHdwdHZFWWF2X2RsQQ?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-06-12T06:49:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "a28bec8bd581",
+          "title": "Reddit Discussion: Comparing Lakers\u2019 Finals Intensity to Recent Knicks Victory",
+          "original_title": "Finals moment",
+          "summary": "A Reddit user asks whether the Lakers\u2019 historic 17\u2011title legacy still produces the same intensity as the Knicks\u2019 recent Game\u202f7 win, recalling the 2010 Lakers championship as a benchmark. The thread invites fans to share memorable finals moments.",
+          "key_points": [
+            "The post references the 2010 Game\u202f7 win as a high\u2011intensity Lakers moment.",
+            "Community members compare past Lakers performances to current NBA finals dynamics.",
+            "Discussion highlights the lasting impact of championship culture on fan expectations."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1u3mv2r/finals_moment/",
           "source": "Reddit r/lakers",
-          "published": "2026-06-12T01:23:31+00:00",
+          "published": "2026-06-12T05:58:51+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "06949a2f326b",
-          "title": "Projected Trade Package for 24\u2011Year\u2011Old Future Superstar",
-          "original_title": "Lakers Projected Trade Package for 24-Year-Old Future Superstar Revealed - heavy.com",
-          "summary": "Heavy.com outlines a hypothetical trade package the Lakers could use to acquire a 24\u2011year\u2011old player projected to become a future superstar. The article lists potential assets the Lakers might include, such as draft picks and role players, but does not name a specific target.",
+          "id": "5e104077b350",
+          "title": "Lakers Predicted to Add Elite Wing to Complement Luka Don\u010di\u0107",
+          "original_title": "Lakers predicted to finally add elite wing around Luka Doncic to fix biggest need - sportingnews.com",
+          "summary": "Sporting News projects that the Lakers may acquire a high\u2011caliber wing player to pair with Luka Don\u010di\u0107, addressing the team\u2019s most pressing need for perimeter scoring and defense. The article outlines potential targets and how the move could affect roster construction.",
           "key_points": [
-            "The piece is speculative, presenting a possible trade scenario.",
-            "Suggested assets include future first\u2011round picks and bench contributors.",
-            "No official interest from the Lakers or the player's current team is confirmed."
+            "An elite wing would give the Lakers a reliable two\u2011way option alongside Don\u010di\u0107.",
+            "Potential trade candidates include several All\u2011Star caliber forwards currently on other teams.",
+            "Adding such a player would require careful cap management and could involve moving salary\u2011heavy assets."
           ],
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYUhCN0RHUDVPNTdvVlhTeHdaVHBnd3BGSkdqbEVqWFMxM3dydlJ2cU5jcXRGZ25GVnVhcmE2UGNiRVVrY3BmMUNnSkQ5bFVsM3BqY190Ykd5ekR4MVplS1R4WnNYejJmbGhjQVFjSlpNS0hBRGFLc3N1ZmlXSWVUYTFpNkt6TkxyNE50c0p0VENOQQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMUxUMnN4NTQ5NlQtaVY0NFMtajZBamFmbElKYkdHSWZlVEs4N2dpQW9TRXNWMFFUZEFGd25DZDF4ejRRbEJPbnpTTkt2MDE0YzJrZ2x2emlzNWxyeEkzTm0tbFNpemVLZ3ZCM19vN3hkck40ZHkzc0g1TWFtZjlXN2dEMF83djllVy1QNVEyMGFUUkp3WjZFaWY3SEVWMUwySnhhczZ1a2h2SEVHMER1LVFCYTB0YWU1cHhnRmlCdXUxaWlOMXlrb1htOVp1VmJfYVhFcklDTElIcDJIU2c?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-06-12T01:15:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "35ac0b610161",
-          "title": "Lakers May Revisit Past Trade Deadline Target for Center Solution",
-          "original_title": "Lakers could gamble on long-term center answer by revisiting a trade deadline target - Lake Show Life",
-          "summary": "Lake Show Life discusses the possibility that the Lakers could revisit a previous trade deadline target to secure a long\u2011term center. The article examines the risks and potential rewards of making a bold move at the trade deadline.",
-          "key_points": [
-            "The target is a center previously linked to the Lakers in trade talks.",
-            "Acquiring him would address the team's need for a durable, interior presence.",
-            "The strategy involves a significant trade\u2011deadline gamble, possibly involving high draft assets."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYmhoX0dSMHc0YkhiNjFFLUtBNGF5X25RSTVLdUhMMGxyZ0FYV3g5NDhQWUtXQ1AxLTRFbUk0a1Bza0pabTBHV2JUZk53U3lqLUpaQmVNU1RlNmdyOWcwczZrVHRGbl9RLVdnQ1FIZ2xISEdLZ0dhUy1BbGx4bTN2Z1hPVzVwbmprdVBNVDVjWEJqd0ZXbHRfSlpWX0FQdzVXTGw1VEd4TUllMHFTdVE?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-06-12T01:00:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "46de0913c2e8",
-          "title": "Bronny James Recalls Life\u2011Threatening Incident Requiring CPR",
-          "original_title": "Bronny James Recaps Past Terrifying Life-Threatening Situation That Required CPR - Sports Illustrated",
-          "summary": "Sports Illustrated reports that Bronny James shared details of a past medical emergency in which he required CPR after a severe health scare. The article highlights his recovery and the precautions taken before his NBA debut.",
-          "key_points": [
-            "Bronny experienced a critical incident that required immediate CPR.",
-            "He has fully recovered and is preparing for his NBA career with the Lakers.",
-            "The story underscores the importance of health monitoring for young athletes."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbTdlVkRvYlNmbktzX0tLenZsa0pRYklCdWlvZWRBMVdRdk1TSkJyTnVUSmh3ekZwckVRMXhoUWdGVnY0dkl3YTdRLUhqa1lWc09GNjVWaEJQOGRqWGFjbnJLc2JPQWRjZDY0VEh3RGRpcGptS2V3X0Z5Q3JXVkNFV0NMbFU1Tmw2X0NQTnd5MGsyMkpMakx2WEZ5WTMyZERMREEyUkZhNA?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-06-12T00:59:15+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "43c2f016665a",
-          "title": "That Bron reaction is hilarious \ud83d\ude02",
-          "original_title": "That Bron reaction is hilarious \ud83d\ude02",
-          "summary": "A Reddit post on r/lakers shares a humorous reaction to a recent LeBron James moment. The submission includes a link to the original content and invites discussion in the comments.",
-          "key_points": [
-            "Post originates from Reddit user /u/King_Vegito_52.",
-            "Content is a comedic reaction to LeBron James, likely a video clip or meme.",
-            "Engagement is driven by comments and community interaction."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1u3gufe/that_bron_reaction_is_hilarious/",
-          "source": "Reddit r/lakers",
-          "published": "2026-06-12T00:55:29+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "4bc1aa95c8f5",
-          "title": "The Knicks\u2019 title push should give the Lakers optimism",
-          "original_title": "The Knicks\u2019 title push should give the Lakers optimism",
-          "summary": "An article from Silver Screen and Roll argues that the New York Knicks\u2019 surprising run toward an NBA championship should inspire confidence for the Los Angeles Lakers. It notes that while the Knicks have pulled off an improbable Game 4 comeback, the Spurs have generally been the stronger team in the series.",
-          "key_points": [
-            "Knicks are on the brink of a title after a dramatic Game 4 comeback.",
-            "Despite the Knicks\u2019 momentum, the Spurs have been the better team overall.",
-            "The Lakers can view the Knicks\u2019 resilience as a positive sign for their own playoff prospects."
-          ],
-          "link": "https://www.silverscreenandroll.com/lakers-analysis/119105/knicks-spurs-2026-nba-finals-lakers-roster-nba-free-agency",
-          "source": "Silver Screen and Roll",
-          "published": "2026-06-11T23:55:16+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "65d63c3ee5ee",
-          "title": "The Knicks\u2019 title push should give the Lakers optimism",
-          "original_title": "The Knicks\u2019 title push should give the Lakers optimism - Yahoo Sports",
-          "summary": "Yahoo Sports republishes the same analysis that the Knicks\u2019 surge toward a championship should be encouraging for the Lakers. The piece highlights the Knicks\u2019 unexpected success and its implications for Los Angeles.",
-          "key_points": [
-            "Knicks\u2019 unexpected playoff performance is framed as a morale boost for the Lakers.",
-            "The article underscores the broader narrative of Western Conference competition.",
-            "It reinforces the idea that other teams\u2019 resilience can serve as a benchmark for the Lakers."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNEJ6ZjI5cjl5VkpHMFdydi1XMU95RHBQeFVGMmM1N2xtY1NPcEZKQk45Unh0RmtmN21mTjN2V0NuRGNpS0lSSHdCTTlqQXZEQ01TVUdXb3ZxZVZIdWNOOFpqcVhQbWZicmNJWU9xX2ZCcFF4MlJjNFFZbmE5NVBNb3U4NndhNjNqVnc?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-06-11T23:55:16+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "b0f2953ac741",
-          "title": "Lakers could revive a once-promising young sharpshooter at a bargain price",
-          "original_title": "Lakers could revive a once-promising young sharpshooter at a bargain price - Lake Show Life",
-          "summary": "Lake Show Life reports that the Los Angeles Lakers are exploring the possibility of signing a former high\u2011potential shooting guard who could be acquired for a low cost. The article suggests the move could add depth to the roster without significant financial commitment.",
-          "key_points": [
-            "Target is a young sharpshooter with prior NBA experience and upside.",
-            "Potential contract would be modest, fitting the Lakers\u2019 salary\u2011cap strategy.",
-            "Acquisition aims to improve perimeter shooting and bench scoring."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV0dsNU1sYUthVV8waENKRTg5MXdtTGxLTjlaaHpnSU5zSVhFYVBGeWxPRDIwSWNRUVVTN1JocFRVSUloYlJ0ZGd5Q0lnZ2syU2RmejkyNFA1Z1c2TEdmNTJUcDMzcFF0VU83NXNyY2FKSUI5LTJjVUJYazJCek1pVkhFd2hhTmFFWXpTU0lMVQ?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-06-11T22:48:48+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "27d669617bd3",
-          "title": "Lakers' Offseason Expectations May Be About to Meet a Harsh Reality",
-          "original_title": "Lakers' Offseason Expectations May Be About to Meet a Harsh Reality - Sports Illustrated",
-          "summary": "Sports Illustrated examines the gap between the Los Angeles Lakers\u2019 lofty offseason goals and the challenges they may face in achieving them. The piece outlines roster concerns, salary\u2011cap constraints, and competitive pressures that could temper expectations.",
-          "key_points": [
-            "High expectations are set for the Lakers after recent offseason moves.",
-            "Potential obstacles include injuries, roster depth, and financial limits.",
-            "The article warns that the team may need to adjust its goals as the season approaches."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ09tcU1EcHN0dzEyQ0FmOFVmZUZNZVZ5c0FlcFk5Vkt4aTJ5OXBxbnBpS0d1eXR0WDNzVWlCREVONXFGWEdNaFBxUEttRlJaODAtNTB2eGZKemphbnRoSllWTmZjdUJkdWhES21oRTNXQ3B1U09NOGtTM09BYW4xbEw1cnI?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-06-11T22:30:56+00:00",
+          "published": "2026-06-12T05:55:08+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -161,15 +86,33 @@
       "name": "NBA League News",
       "articles": [
         {
+          "id": "cfd5df9658c3",
+          "title": "Mariska Hargitay ran from her Broadway show to catch Knicks miracle: \u2018Greatest night of my life\u2019",
+          "original_title": "Mariska Hargitay ran from her Broadway show to catch Knicks miracle: \u2018Greatest night of my life\u2019",
+          "summary": "Right after starring in the one-person show &quot;Every Brilliant Thing,&quot; the actress ran about 10 blocks to make it to Game 5 of the NBA Finals on time.",
+          "key_points": [],
+          "link": "https://www.yahoo.com/entertainment/celebrity/articles/mariska-hargitay-ran-her-broadway-025412301.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-06-12T02:54:12+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "f7bc755d23df",
+          "title": "Anatomy of a Fall",
+          "original_title": "Anatomy of a Fall",
+          "summary": "When a writer tells a story from beginning to end, proceeding in order, it is called linear narrative or chronological narrative. More formally, it\u2019s referred to as ab ovo narration (Latin for \u201cfrom the egg\u201d), a term from Horace\u2019s Ars Poetica, meaning the story begins at the very origin of events and unfolds in sequence. Conversely, starting from the [\u2026]",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/anatomy-fall-024203393.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-06-12T02:42:03+00:00",
+          "topic": "NBA League News"
+        },
+        {
           "id": "c2b32bb44017",
           "title": "Knicks vs Spurs Prediction, Picks & Odds for NBA Finals Game 5",
           "original_title": "Knicks vs Spurs Prediction, Picks & Odds for NBA Finals Game 5",
-          "summary": "Yahoo Sports offers a preview of Game 5 of the NBA Finals between the New York Knicks and the San Antonio Spurs, highlighting key player performances. The article notes that Karl\u2011Anthony Towns is expected to increase his scoring output for the Spurs on June 13.",
-          "key_points": [
-            "Game 5 matchup: Knicks vs. Spurs in the NBA Finals.",
-            "Karl\u2011Anthony Towns projected to score more than his recent games.",
-            "Yahoo Sports provides betting odds and pick recommendations."
-          ],
+          "summary": "Karl-Anthony Towns scores more in our Knicks vs Spurs predictions and NBA picks for June 13.",
+          "key_points": [],
           "link": "https://sports.yahoo.com/articles/knicks-vs-spurs-prediction-picks-175600526.html",
           "source": "Yahoo Sports NBA",
           "published": "2026-06-12T02:40:00+00:00",
@@ -177,117 +120,24 @@
         },
         {
           "id": "ccb7f2f5dc5d",
-          "title": "Warriors Trade Targets With LeBron and Giannis Off the Table",
+          "title": "Warriors trade targets with LeBron James, Giannis Antetokounmpo seemingly off board",
           "original_title": "Warriors trade targets with LeBron James, Giannis Antetokounmpo seemingly off board",
-          "summary": "Yahoo Sports discusses potential trade options for the Golden State Warriors now that marquee names LeBron James and Giannis Antetokounmpo are not realistic targets. The piece suggests alternative players the Warriors could pursue to stay competitive.",
-          "key_points": [
-            "LeBron James and Giannis Antetokounmpo are effectively unavailable for trade.",
-            "Warriors need to explore other talent to bolster their roster.",
-            "The article lists several plausible trade candidates for Golden State."
-          ],
+          "summary": "Who should the Golden State Warriors go after to make a splash and keep their championship hopes alive?",
+          "key_points": [],
           "link": "https://sports.yahoo.com/articles/warriors-trade-targets-lebron-james-020558066.html",
           "source": "Yahoo Sports NBA",
           "published": "2026-06-12T02:05:58+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "c915c457326f",
-          "title": "10 Teams That Could Shape a Wild NBA Offseason",
-          "original_title": "Get ready for a wild NBA offseason: 10 teams to wa...",
-          "summary": "ESPN outlines ten franchises whose decisions will heavily influence the upcoming NBA offseason, especially given the uncertain futures of superstars LeBron James and Giannis Antetokounmpo. The analysis emphasizes how each team's moves could affect league-wide contender dynamics.",
-          "key_points": [
-            "LeBron James and Giannis Antetokounmpo\u2019s contract situations remain unclear.",
-            "Ten specific teams are identified as potential off\u2011season game\u2011changers.",
-            "Their roster moves will impact the broader landscape of NBA contention."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/49013444/nba-offseason-2026-lebron-lakers-giannis-bucks-heat-thunder-10-most-interesting-teams",
-          "source": "ESPN NBA",
-          "published": "2026-06-12T00:27:30+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "43b4094c2125",
-          "title": "NBA Insider Buzz: Yaxel Lendeborg Working Out for Warriors",
-          "original_title": "Latest NBA buzz: Everything we're hearing ahead of...",
-          "summary": "ESPN reports on the latest rumors circulating among NBA insiders, including a workout by Michigan forward Yaxel Lendeborg with the Golden State Warriors. The article compiles various whispers and updates ahead of the upcoming offseason.",
-          "key_points": [
-            "Warriors are reportedly evaluating Michigan prospect Yaxel Lendeborg.",
-            "The report aggregates multiple insider tips and rumors.",
-            "Insights are provided ahead of free\u2011agency and draft activities."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
-          "source": "ESPN NBA",
-          "published": "2026-06-12T00:27:30+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "c0ab7331a3f2",
-          "title": "Knicks Fans Hurl Egg and Jeers at Spurs' Victor Wembanyama",
-          "original_title": "Knicks fans target Wemby with egg, jeers at hotel",
-          "summary": "After a tough night on the court, Spurs rookie Victor Wembanyama faced further hostility at his hotel when New York Knicks fans threw boos and nearly struck him with a flying egg. ESPN details the incident and the hostile atmosphere surrounding the game.",
-          "key_points": [
-            "Victor Wembanyama was targeted with boos and an egg by Knicks fans.",
-            "The incident occurred after the game, at the player's hotel.",
-            "The episode highlights the intense fan reactions in New York."
-          ],
-          "link": "https://www.espn.com/nba/story/_/id/49031479/knicks-fans-direct-jeers-flying-egg-spurs-victor-wembanyama",
-          "source": "ESPN NBA",
-          "published": "2026-06-12T00:27:24+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "1d9efadc1e5f",
-          "title": "Wembanyama, Spurs still resolute after collapse",
-          "original_title": "Wembanyama, Spurs still resolute after collapse",
-          "summary": "The Spurs expressed belief Wednesday night after surrendering a 29-point lead to allow the Knicks to make the largest comeback in NBA Finals history.",
+          "id": "75e6c3fd04d8",
+          "title": "USMNT fans hope team can follow Knicks\u2019 footsteps and overcome being World Cup long shots",
+          "original_title": "USMNT fans hope team can follow Knicks\u2019 footsteps and overcome being World Cup long shots",
+          "summary": "The Knicks have stunned the sports world, on the brink of an upset championship.",
           "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/49026753/wembanyama-spurs-resolute-game-4-collapse-knicks",
-          "source": "ESPN NBA",
-          "published": "2026-06-12T00:27:24+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "2b5a5be1ef57",
-          "title": "LeBron on GOAT debate: Taking nobody over me",
-          "original_title": "LeBron on GOAT debate: Taking nobody over me",
-          "summary": "LeBron James, when asked for his take on the basketball GOAT debate, said: \"I'm not taking nobody over me.\"",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/49019758/lebron-james-goat-debate-not-taking-me",
-          "source": "ESPN NBA",
-          "published": "2026-06-12T00:27:24+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "b3c40f6c1ca4",
-          "title": "Knicks stage historic comeback, on brink of title",
-          "original_title": "Knicks stage historic comeback, on brink of title",
-          "summary": "OG Anunoby etched himself into Knicks lore by finishing off their record comeback from 29 points down against the Spurs in Game 4 of the NBA Finals.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/49025502/knicks-brink-title-historic-comeback-vs-spurs",
-          "source": "ESPN NBA",
-          "published": "2026-06-12T00:27:23+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "8e52a235b672",
-          "title": "Wemby one point from suspension after flagrant",
-          "original_title": "Wemby one point from suspension after flagrant",
-          "summary": "Spurs star Victor Wembanyama moved one step closer to an automatic suspension after logging his second flagrant foul of the postseason Wednesday.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/49025108/wembanyama-issued-flagrant-one-point-away-suspension",
-          "source": "ESPN NBA",
-          "published": "2026-06-12T00:27:23+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "377d4811dbb6",
-          "title": "Defendant in athlete burglaries gets 24 months",
-          "original_title": "Defendant in athlete burglaries gets 24 months",
-          "summary": "The first defendant to plead guilty to the 2024 string of burglaries at the homes of high-profile athletes was sentenced to 25 months in prison with credit for time served Thursday.",
-          "key_points": [],
-          "link": "https://www.espn.com/nba/story/_/id/49034120/defendant-athlete-burglaries-sentenced-24-months-prison",
-          "source": "ESPN NBA",
-          "published": "2026-06-12T00:27:23+00:00",
+          "link": "https://sports.yahoo.com/articles/usmnt-fans-hope-team-knicks-012517457.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-06-12T01:25:17+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -296,105 +146,99 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "c260d213f446",
-          "title": "Lakers Listed as One of Three Logical Fits for Klay Thompson",
-          "original_title": "Writer names Lakers as one of three 'logical fits' for Klay Thompson - LeBron Wire",
-          "summary": "A writer has identified the Los Angeles Lakers as one of three teams that could be a sensible destination for veteran guard Klay Thompson. The suggestion places the Lakers alongside two other unnamed franchises as potential landing spots if Thompson becomes available.",
-          "key_points": [
-            "Lakers are considered a viable trade or free\u2011agency option for Klay Thompson.",
-            "Thompson is one of three players highlighted as logical fits for the team.",
-            "No concrete trade details or timelines have been disclosed."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTDJBYm1mMF96LUNKV01EM0VXRG5VaFZvcW9mcWNDTk5lZGhRR2tyVkh2ejNIc2tHNW1oZ0hKc3JpWUZpZDJTSVZGLTVMd2hNblZDQmdKQ1JUaW9OZElsUmxLYno5aU9nM1dENmVSRzRTQUdUc2w0U3RXWVlOQ2lmQ25FRTFORTJNb3drNEpROV9sNFhQQ0pibHJMeGdIampaZy1oalh3aWNNZG43eGlfM25LQkYxanhhbU5yWVZseGl5elpoQWZxWUZBTmoybzlSMlBYOTJB?oc=5",
+          "id": "0954f62f7660",
+          "title": "Lakers predicted to poach soon-to-be NBA champion with New York Knicks to pair with Luka Doncic - sportingnews.com",
+          "original_title": "Lakers predicted to poach soon-to-be NBA champion with New York Knicks to pair with Luka Doncic - sportingnews.com",
+          "summary": "Lakers predicted to poach soon-to-be NBA champion with New York Knicks to pair with Luka Doncic&nbsp;&nbsp;sportingnews.com",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOWxDVFQtU2plWnBGWWgwX2hjT3dMN3lzUUJWclBCQXJhNGxZNVFxQ0lIc3A0bHVETDdiMEpOMTBSd29maExDSlpqWDhqR3NiTGVESDdfRjJOVTkxLXVabjdJVElUcW14QzFLdDBKdVkyRFdGYW1sSUNTZm9LSzJldVhCQXFYRG52THZUV09rZC1JSXc5YlVKb3o2RThFWXdkUllyNWJVbDNkM0pRb3RrTkgyanBCbzNvYWs0T0JINTB2Qk1lcHRkU3UzS2o1cHdMS052ZHJUdkVoaVdyeHc?oc=5",
           "source": "Google News - Luka",
-          "published": "2026-06-12T04:01:00+00:00",
+          "published": "2026-06-12T06:23:55+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "97719534abf6",
-          "title": "LeBron James Says Pursuing Greatness Cost Him Family Time",
-          "original_title": "\"I wanted to be the greatest that ever played this game\" - LeBron James admitted he had to give up a lot of family time because of his goals - Yahoo Sports",
-          "summary": "LeBron James reflected on his career, stating that his drive to become the greatest player ever required sacrificing significant family moments. The interview emphasizes the personal toll of his relentless pursuit of NBA success.",
-          "key_points": [
-            "James acknowledges missing family events to focus on basketball goals.",
-            "He describes his ambition to be the greatest as the primary reason for the sacrifices.",
-            "The comments were featured in a Yahoo Sports interview."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZlk5aHlVYnA0NTMtNXMwNlZFUm9JRmVPZVd6UHhtb1BmMkxpMDdpUFo1Z3JiRFFJLWZINGRVUVZVbkdNdnR4QXQwekhtMjNJZmFzT3dYeXBxcDhIbDV0dW5JSHc4UlZWZ1VSMk5IQWo2VVJUV013Ql9OMGY0WlN2dnBYVTVGM1dB?oc=5",
+          "id": "299b677fa58f",
+          "title": "We now know the level of interest LeBron James has in joining the Warriors - Yahoo Sports",
+          "original_title": "We now know the level of interest LeBron James has in joining the Warriors - Yahoo Sports",
+          "summary": "We now know the level of interest LeBron James has in joining the Warriors&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdHhJZGZ0MExmeGNnOHRQaGQtVkhfR2FnZG1nLXZvQmVJUmI5b1hVSGYtUzZjcGVPbDhuTkZjVS0tN0ltdF9IbXJHNjlZYmNUYVNjcjMwTWZldGt0T05OcmFVRERiRFFydWJBdHYwM04yYkJYMm8zZUVfbVluRm9vUTF0QS0wUQ?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-06-12T03:40:29+00:00",
+          "published": "2026-06-12T06:21:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "c3ea67d1dfe2",
+          "title": "Lakers\u2019 LeBron James sends NSFW message to Bronny James haters - Yahoo Sports",
+          "original_title": "Lakers\u2019 LeBron James sends NSFW message to Bronny James haters - Yahoo Sports",
+          "summary": "Lakers\u2019 LeBron James sends NSFW message to Bronny James haters&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeUYwazFuX3FxTXRnMnVoaEFGS28xemc2VHNyMC1ielVGclZtZ3QyWGhlb2tyS3pBWmt5MWdVVTg2R0JOUTBEeG5wdFduX0lhVlJNRUozWEtCSkxiRVA2Rm1aOFFDZmExclpOcGJMa0RlQnJSX1V1TjZMTURqME1hQTVSU1pTQQ?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-06-12T06:18:27+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "91f132462d26",
+          "title": "Warriors veterans could still veto team\u2019s pursuit of LeBron James - Blue Man Hoop",
+          "original_title": "Warriors veterans could still veto team\u2019s pursuit of LeBron James - Blue Man Hoop",
+          "summary": "Warriors veterans could still veto team\u2019s pursuit of LeBron James&nbsp;&nbsp;Blue Man Hoop",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wYmZ1R3NtUER5QXVMTzh2UEh0UEFlOEt3WDREcldhWEFWck9XQ0Z1NUg3VW1kYTdYdzQ3a1pQWFl3dzNfWlY5Yk5xbS10SGpqaHJhWmhoVENlTTJUQWhaZ3FRTVB2Q0pESlRiNS1Nd09fZllPOGc?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-06-12T03:00:00+00:00",
           "topic": "Lakers Players"
         },
         {
           "id": "bed255217204",
-          "title": "Warriors Trade Targets Shift as LeBron James and Giannis Antetokounmpo Exit Radar",
+          "title": "Warriors trade targets with LeBron James, Giannis Antetokounmpo seemingly off board - USA Today",
           "original_title": "Warriors trade targets with LeBron James, Giannis Antetokounmpo seemingly off board - USA Today",
-          "summary": "Recent reports indicate that the Golden State Warriors have moved past pursuing LeBron James and Giannis Antetokounmpo as trade options. The team is now focusing on alternative players to improve its roster.",
-          "key_points": [
-            "LeBron James and Giannis Antetokounmpo are no longer primary trade targets for Golden State.",
-            "Warriors are exploring other potential acquisitions.",
-            "The update comes from a USA Today source."
-          ],
+          "summary": "Warriors trade targets with LeBron James, Giannis Antetokounmpo seemingly off board&nbsp;&nbsp;USA Today",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaHN2NFUzakg0cmw2aWNOR19Ha3VYcWNoLVFEanJVZmNJYzN3Qnc3TnY0SDUwLTM0eU5BNmE3R1BrY244MjVfY3B3SU1MRl8tZW4tQlRYaXkwS3NVbnZIVlZDM0hTRDJod0xWRUlwN0YwNjR3RkVBM0VLYnJQODRjeGJPbWtObl9JelZtaTZUajZTbnY1YklkY1VlZ3MxaTlYN2VHeW96NjZfZWl2VWZ3?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-06-12T02:05:00+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "daa96aeebced",
-          "title": "Skip Bayless Turns New Critic\u2019s Spotlight Away from LeBron James",
-          "original_title": "Skip Bayless finds new target of criticism after LeBron James - The Big Lead",
-          "summary": "Sports commentator Skip Bayless has shifted his criticism to a new target after previously focusing on LeBron James. The article outlines Bayless\u2019s latest commentary direction without detailing the new subject.",
-          "key_points": [
-            "Bayless moves his critical focus away from LeBron James.",
-            "The change in target is highlighted by The Big Lead.",
-            "Specifics of the new criticism are not provided in the brief."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcG1CcXZTYUZjSEtoMlQwRnJwVVM3OWlkRFp0aTRhdFBQM3kzNEMxN3k3OHdoWXgtQzkzVzltYXFTVVhsU3NxY1NjZFRCTjRFY2ZERERIV2tBdlBmeWg0MXRzMExPbC1pQVc1WmJRekVSX1d0cXN4dURJSlhlMDI0WFc3OUs5RFhMckRz?oc=5",
+          "id": "01fcfb293e1d",
+          "title": "Skip Bayless finds new target of criticism after LeBron James - Yahoo Sports",
+          "original_title": "Skip Bayless finds new target of criticism after LeBron James - Yahoo Sports",
+          "summary": "Skip Bayless finds new target of criticism after LeBron James&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeklReDJmRmttUTE2QW9SaUktcDJEb0N5TnJCNVIzaERWYlZaTkFXa3pyUGlFUGRsdlI2dEE0X2FOSDMwMFJJcm1yb3kydnA0bzlBRTZvMU9HVTc3eV9Sbkd5S0YwNTh4TGtOOVJsdEkzbHNMRXRQM0pZV1lLcVV6T0w0bmZFYkFmdjhRRA?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-06-12T01:46:46+00:00",
+          "published": "2026-06-12T01:45:00+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "ab748aaf5f18",
-          "title": "LeBron James and Steph Curry\u2019s Potential Golden State Partnership Gains Momentum",
-          "original_title": "LeBron James and Steph Curry in Golden State continues to gain steam - Yahoo Sports",
-          "summary": "Discussions about LeBron James possibly joining Steph Curry on the Golden State Warriors are gaining traction. The speculation centers on how the two superstars could reshape the team's dynamics if a deal materializes.",
-          "key_points": [
-            "Rumors of a LeBron\u2011Curry partnership on the Warriors are intensifying.",
-            "Analysts consider the potential impact on Golden State\u2019s competitiveness.",
-            "The storyline is being followed by Yahoo Sports."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZTBua3czNEhub2RUUjZ5Zmd4NzdBRktWMkw0U3BGWW4tVDdyYloxTlNVekw1bklqVnYwZGRuMnVOd1FWQkkzM0tHc0RmTFlzNi15NmxLWlpCdUM2ZzJVSWtsUkw1UUFoOTRINm5NOW1SX09QWlF5MlptaFpMaDAwNWJyeXRhU28?oc=5",
+          "id": "3a7ebe0c24d9",
+          "title": "\"I wanted to be the greatest that ever played this game\" - LeBron James admitted he had to give up a lot of family time because of his goals - Basketball Network",
+          "original_title": "\"I wanted to be the greatest that ever played this game\" - LeBron James admitted he had to give up a lot of family time because of his goals - Basketball Network",
+          "summary": "\"I wanted to be the greatest that ever played this game\" - LeBron James admitted he had to give up a lot of family time because of his goals&nbsp;&nbsp;Basketball Network",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbzY1bXF2MVgwTVBHRDNCNHRZcVNtZFhrY054WmxLd2t4WDN4cmpyWldoYlhDYy1Fa3VTaTJlbkxHWDJxZnJPS1JjbmM1WjJLTVpZZERzWmtSZW1STllZUGtqY0ZCRHJreDR4UEExOXdua2dGZEs1RTNvMUtEQkh5a2w5UzVQeWdENG16dE1KOWhaaE9VSEVwQ2JhWU91NTZWem1BaDJBMHltMnB4R2lUaHJnVnVVSGQxb0N0Q0dTdlVuREpiTC03eQ?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-06-11T22:28:04+00:00",
+          "published": "2026-06-12T00:09:00+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "5695e2fb46a2",
-          "title": "Lakers Need a Defining Investment in Luka Doncic This Summer",
-          "original_title": "Lakers must make a defining investment in Luka Doncic's future this summer - Lake Show Life",
-          "summary": "Lake Show Life argues that the Lakers must prioritize a major commitment to Luka Doncic during the upcoming free\u2011agency period. The piece suggests that securing Doncic could reshape the franchise\u2019s competitive window and attract additional talent.",
-          "key_points": [
-            "The Lakers are urged to target Luka Doncic as a cornerstone for the next few years.",
-            "A long\u2011term, high\u2011value contract is portrayed as essential to signal the team\u2019s direction.",
-            "Acquiring Doncic could catalyze further roster upgrades and elevate championship prospects."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeWtXVUQwZlgwZVV6R3BzWVNNZzVKTktocG56YWNTeGQ2YTNZWUx5QUdMaGdjZzlPcG9hWHJNRWdvb0dGYWdQd3JHZl9idnhJYWpoU3o0ZVFiVUxfdzVXMmJJOXFVS2tFSU80REU2ejZZU3lITno3QklPTUZjN0pidWQ1WC1KWHRWc081NVBBbU4ycTE5dllLNXVVdw?oc=5",
+          "id": "548416d7cb4b",
+          "title": "Lakers may be priced out of Raptors breakout big in free agency pursuit - Lake Show Life",
+          "original_title": "Lakers may be priced out of Raptors breakout big in free agency pursuit - Lake Show Life",
+          "summary": "Lakers may be priced out of Raptors breakout big in free agency pursuit&nbsp;&nbsp;Lake Show Life",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMzZjMGhYNGJHeXRqS3h2ZmhTb3JZNDJWMlQtZVZPWHNTdnNhYXQ3YnhfcFVabzFCekd2ZE1BdFdMVkRjVVFfVFN1Z18zWEZLaGFSNzFBSWpBV3JJOHJMMXRqcHgxbktRQjFfajh4NGRLdnVKdkpXVC0wY3o4SWtSRkhpbllIaXNNZTlDRlJjYXZzQldXcTNlWDAwZWM?oc=5",
           "source": "Google News - Luka",
-          "published": "2026-06-11T21:00:01+00:00",
+          "published": "2026-06-12T00:00:00+00:00",
           "topic": "Lakers Players"
         },
         {
           "id": "302cc83ef2be",
-          "title": "Former Teammate Defends LeBron\u2019s Work Ethic",
+          "title": "LeBron\u2019s ex-teammate says people \u2018don\u2019t know\u2019 how hard he works: \u2018It\u2019s absurd\u2019 - Lakers Daily",
           "original_title": "LeBron\u2019s ex-teammate says people \u2018don\u2019t know\u2019 how hard he works: \u2018It\u2019s absurd\u2019 - Lakers Daily",
-          "summary": "A former teammate of LeBron James told Lakers Daily that many people underestimate how hard LeBron works, calling the criticism \"absurd.\" The interview highlights LeBron\u2019s preparation habits and leadership in the locker room.",
-          "key_points": [
-            "LeBron\u2019s dedication to conditioning, film study, and practice is emphasized.",
-            "The teammate claims media narratives often overlook his daily grind.",
-            "Comments reinforce LeBron\u2019s reputation as a demanding, high\u2011standard leader."
-          ],
+          "summary": "LeBron\u2019s ex-teammate says people \u2018don\u2019t know\u2019 how hard he works: \u2018It\u2019s absurd\u2019&nbsp;&nbsp;Lakers Daily",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWDJCaTgya2JXZUZPRHE4ZlFYUFBsb191QWdxaUQ0T1pUWmxJdG5PeFdBVEcxZTVSLTNJQ0Y4NzVQVlk0WlVTZnZRQm9ZbXd1WUNDeHFUY09ydC11bWFoeF9KMkVqNEJVQjU0S2xhdTN5ejR0T0RLbG9zR2hFVzZMU3RKdmpkcnhldW81bzI0TlJaamFjZHd2TDBCZw?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-06-11T19:01:52+00:00",
@@ -402,47 +246,13 @@
         },
         {
           "id": "a9bcd914d3c2",
-          "title": "Giannis Antetokounmpo Reacts to Recent LeBron James News",
+          "title": "Giannis Antetokounmpo Reacts to LeBron James News - Athlon Sports",
           "original_title": "Giannis Antetokounmpo Reacts to LeBron James News - Athlon Sports",
-          "summary": "Athlon Sports reports that Giannis Antetokounmpo shared his thoughts on recent headlines involving LeBron James, offering a respectful perspective on the veteran\u2019s situation. Giannis praised LeBron\u2019s impact on the league while staying neutral on any speculation.",
-          "key_points": [
-            "Giannis acknowledges LeBron\u2019s influence and longevity in the NBA.",
-            "He avoids speculation about trades or future moves, focusing on respect.",
-            "The reaction underscores mutual admiration among league superstars."
-          ],
+          "summary": "Giannis Antetokounmpo Reacts to LeBron James News&nbsp;&nbsp;Athlon Sports",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObHVzcVVVQl8xRUNWclRCZFM3RkFkMXp3alg1YXBjQlpVQkpzcURjaTJzaklZNVAzZW5ZeWllNnFzUFB2QVFGMDhIQnppbkJrZnpOZ1NpYjlKdHMwTVRNYUxJRF82VGtNc2RuaTc0S0wwcV91RzlSWW5TWDQ0RmJxdW4yRktJLTNLdF9KRWRtN3VicHdIVzcyNzVfM2t3Y1VJS3BZ?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-06-11T18:22:30+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "82c8e5cc95b7",
-          "title": "LeBron James Expresses Curiosity About Playing With One Fellow Superstar",
-          "original_title": "LeBron James reportedly has \u2018curiosity\u2019 about playing with 1 fellow superstar - Larry Brown Sports",
-          "summary": "Larry Brown Sports reports that LeBron James has indicated a curiosity about teaming up with a single other superstar, though he did not name the player. The comment fuels ongoing trade and free\u2011agency rumors surrounding the Lakers.",
-          "key_points": [
-            "LeBron is open to the idea of joining forces with another elite talent.",
-            "No specific player was identified, leaving speculation wide open.",
-            "The statement may influence future roster discussions for both the Lakers and potential suitors."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYkJwLS1WMG5qVm0xWW1tNEpOYzhYVXBZdjFKV3pDREpjd3lxLTZnU3pnRHhzSGZldHJuRXdqN1JUMmxJUlptY3lkdFZteGQ2bGUxVzB3MlF1NkVaN2JBY2E5UTdJWDNTdFl2R3NuQ3FFZnpvQk9LeUhBbXRNTXdCV2lXeFFNZkZ0dDM5Yks2T3pvTUZiSTNJ?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-06-11T18:14:21+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "bf15c40c2e37",
-          "title": "Bronny James Shares Photo of Heart Surgery Scar",
-          "original_title": "Bronny James shares picture of gnarly heart surgery scar - New York Post",
-          "summary": "The New York Post details how Bronny James posted an image showing the scar from his recent heart surgery, offering a personal update on his recovery. The post highlights his optimism and ongoing health monitoring as he prepares for a potential NBA future.",
-          "key_points": [
-            "Bronny publicly displayed the scar from his congenital heart defect surgery.",
-            "He expressed confidence in his health and readiness to pursue basketball goals.",
-            "The update reassures fans about his recovery progress ahead of the NBA draft."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR3Zjal83QkJSb0VFZHdGY2VfY1V0NDBhbFJaTWZ2R2VuemRSaThVamtpU1JJTXlveE9IRklzS0RRSFdvNFR6SkhUejZPaWtnTF9oV29rVlNPOEhlNlgxdGVDQ1JCMWNmVVNaanFVVXh5YUEzSmh6OURLME1jOERkcGJ0TmM1RnBjeTdiV2JmSU0?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-06-11T18:08:00+00:00",
           "topic": "Lakers Players"
         }
       ]
