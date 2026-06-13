@@ -1,34 +1,124 @@
 {
-  "generated_at": "2026-06-13T17:31:09.365580+00:00",
+  "generated_at": "2026-06-13T19:35:37.442751+00:00",
   "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
-          "id": "e6fa80cc2830",
-          "title": "Shaquille O\u2019Neal Confident He Could Beat Victor Wembanyama One\u2011on\u2011One",
-          "original_title": "Shaquille O\u2019Neal Confident In One-On-One Matchup Vs Victor Wembanyama",
-          "summary": "Shaquille O\u2019Neal believes he could hold his own against Spurs rookie Victor Wembanyama in a head\u2011to\u2011head matchup. He noted that while Wembanyama has already taken San Antonio to the NBA Finals in just his third season, the series against the New York Knicks (down 3\u20111) will serve as a valuable learning experience for the young star.",
+          "id": "15b590a7470b",
+          "title": "Draymond Green Gives Opinion On LeBron James\u2019 Next Move",
+          "original_title": "Draymond Green Gives Opinion On LeBron James\u2019 Next Move",
+          "summary": "Draymond Green weighed in on LeBron James' future, noting that teams are waiting to see if LeBron will play another season and whether he might consider a new destination. Green\u2019s comments reflect the broader speculation surrounding James' contract status and potential retirement timeline.",
           "key_points": [
-            "O\u2019Neal publicly expressed confidence in his ability to compete with Wembanyama.",
-            "Wembanyama\u2019s Spurs reached the Finals in his first postseason, now trailing the Knicks 3\u20111.",
-            "The series is viewed as a developmental milestone for Wembanyama\u2019s future as a league face."
+            "LeBron James' decision on playing another season remains uncertain.",
+            "Teams are monitoring any hints that James might switch franchises.",
+            "Green\u2019s remarks add to the ongoing discussion about James' contract and retirement plans."
+          ],
+          "link": "https://lakersnation.com/draymond-green-gives-opinion-on-lebron-james-next-move/",
+          "source": "Lakers Nation",
+          "published": "2026-06-13T18:50:49+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "50b6357bf934",
+          "title": "Lakers May Have a Huge Offer for Austin Reaves",
+          "original_title": "Lakers may have a huge offer for Austin Reaves - Yardbarker",
+          "summary": "Reports suggest the Los Angeles Lakers are preparing a substantial contract offer for guard Austin Reaves. The potential deal indicates the team\u2019s intent to retain the home\u2011grown player amid growing interest from other franchises.",
+          "key_points": [
+            "Lakers are reportedly structuring a large extension for Austin Reaves.",
+            "The offer aims to secure Reaves as a core piece for the roster's future.",
+            "Interest from other teams has prompted the Lakers to act quickly."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUFVyZy1hbkl0UmNQb19taW1uTWd3Xzk1SFBpSHhxcHFxbGJBbWNnckFSbVUxdWZURVEweWJRMm5pZEJYUGhSNVNQbEJ0RHlqbHhXNHlNR3UwSE1ZX3RaTmxFT2dyYWh5MmQ2aHk0T2JUV2NwdVBKQXp4ZnoydENWZFI4X0lBRVp3UGN5TTJjeXJjaHM0TnhWZWtHTmg1R1ZRNTZ6bmtXMA?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-06-13T17:44:49+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "e6fa80cc2830",
+          "title": "Shaquille O\u2019Neal Confident In One\u2011On\u2011One Matchup Vs Victor Wembanyama",
+          "original_title": "Shaquille O\u2019Neal Confident In One-On-One Matchup Vs Victor Wembanyama",
+          "summary": "Shaquille O\u2019Neal expressed confidence that he could hold his own in a one\u2011on\u2011one game against Spurs rookie Victor Wembanyama, despite the young star\u2019s rapid rise and the Spurs\u2019 deep playoff run. O\u2019Neal\u2019s comments highlight the generational contrast between the former dominant center and the league\u2019s newest phenom.",
+          "key_points": [
+            "Wembanyama led the Spurs to the NBA Finals in his third season.",
+            "Shaq claimed he could compete with Wembanyama in a head\u2011to\u2011head matchup.",
+            "The remarks underscore the excitement surrounding Wembanyama\u2019s early career."
           ],
           "link": "https://lakersnation.com/shaquille-oneal-confident-he-would-beat-victor-wembanyama-in-one-on-one/",
           "source": "Lakers Nation",
-          "published": "2026-06-13T16:45:57+00:00",
+          "published": "2026-06-13T17:40:57+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "40a7e30470be",
+          "title": "Reddit Poll Asks Fans to Choose LeBron\u2019s $25M Next\u2011Season Path",
+          "original_title": "Would you rather...",
+          "summary": "A Reddit poll on r/lakers invites fans to weigh in on a hypothetical scenario where LeBron James stays with the Lakers on a $25\u202fmillion contract for the next season. Participants are encouraged to discuss the implications of that financial figure for the team\u2019s roster and salary cap.",
+          "key_points": [
+            "The poll uses a $25\u202fmillion figure as a speculative salary for LeBron next season.",
+            "Fans discuss potential roster moves and cap flexibility under that scenario.",
+            "The thread reflects ongoing fan engagement with James\u2019 contract outlook."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1u4x2lv/would_you_rather/",
+          "source": "Reddit r/lakers",
+          "published": "2026-06-13T17:37:53+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "79c1a17cbebc",
+          "title": "Lakers Proposed to Land $151\u202fMillion Star Frontcourt Duo Around Luka Don\u010di\u0107",
+          "original_title": "Lakers Proposed to Land $151 Million Star Frontcourt Duo Around Luka Doncic - heavy.com",
+          "summary": "According to heavy.com, the Los Angeles Lakers have explored a proposal to acquire a high\u2011priced frontcourt pair totaling $151\u202fmillion in contracts, potentially to complement a future Luka Don\u010di\u0107 acquisition. The plan would dramatically reshape the team\u2019s salary structure and competitive outlook.",
+          "key_points": [
+            "Lakers are reportedly targeting a $151\u202fmillion frontcourt duo.",
+            "The move is envisioned as part of a larger strategy that could involve Luka Don\u010di\u0107.",
+            "Such a financial commitment would significantly impact the Lakers\u2019 cap flexibility."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMGhrd0JQQWtFR1Jwa3VGdlQ1TUF2WFNUX2owb1VMSnBSLUQ2bENvcXdQTDlWM29tRGJBWGZXQ3B2REU2SnJfNkYwMTV2TFQyZFBLdU5hd1YwNHJGMEpzaVcxcExMa00tZnBwMXo2YTE2VmtBRHYyd3RESFRob2g3VDVmUm5MTW5xMFYtdw?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-06-13T17:18:48+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "9c77adcd7487",
+          "title": "LeBron James Holds Free\u2011Agency Edge, Even Warriors Admit They Can\u2019t Match",
+          "original_title": "Lakers have LeBron James free-agency edge even Draymond Green knows Warriors can't match - Lake Show Life",
+          "summary": "The Los Angeles Lakers retain a clear advantage in re\u2011signing LeBron James, according to former Warriors star Draymond Green, who says the Golden State franchise lacks the financial flexibility to outbid Los Angeles. The comment underscores the Lakers\u2019 position as the premier destination for James in free agency.",
+          "key_points": [
+            "LeBron James is expected to stay with the Lakers, giving them a significant roster advantage.",
+            "Draymond Green publicly acknowledged the Warriors cannot match the Lakers' offer sheet.",
+            "The statement highlights the Lakers\u2019 financial commitment to retaining their star player."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcWxpV1FKRTJhZlowZWRkWUFLZmt5UkdMMkFSemx6RHpTTUtGODdEcEk4MlJhQnFUSmEzdW0wSGpnZHJpT2xmVG82bXloOENod0ZHRlE5SURRQUg4bGZmb2lXdlh5STRibDhLUzNGcTQ5QnQzejBlaXVRS2Yya01wZ1dVQl8xSnU3YW1lWDVMYzBpd1RaUnZBMVVTTFJpcW9yQVlzMFZKMG1yeW02NmsyRF9ZbUQ?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-06-13T17:00:01+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "a4d474259036",
+          "title": "Danny Green Explains the Type of Players Lakers Need Around Luka Don\u010di\u0107",
+          "original_title": "Danny Green Outlines Type Of Players Lakers Need To Surround Luka Doncic",
+          "summary": "Danny Green outlines the roster pieces the Los Angeles Lakers must acquire in free agency to complement Luka Don\u010di\u0107 and Austin Reaves, who carried much of the scoring load in March. He stresses the need for versatile wing defenders and reliable shooters to transform the team into a championship contender.",
+          "key_points": [
+            "Lakers must add wing players who can defend multiple positions and stretch the floor.",
+            "The team\u2019s recent success relied heavily on Don\u010di\u0107 and Reaves, exposing a lack of depth.",
+            "Free\u2011agency moves beginning June 30 are critical for the Lakers\u2019 title aspirations."
+          ],
+          "link": "https://lakersnation.com/danny-green-outlines-type-of-players-lakers-need-to-surround-luka-doncic/",
+          "source": "Lakers Nation",
+          "published": "2026-06-13T16:30:04+00:00",
           "topic": "Lakers News"
         },
         {
           "id": "06fca332be5e",
-          "title": "How Could the Hawks Steal Austin Reaves in Free Agency?",
+          "title": "How the Hawks Could Lure Austin Reaves Away From the Lakers",
           "original_title": "How could the Hawks pry Austin Reaves from the Lakers in free agency? - Sports Illustrated",
-          "summary": "Sports Illustrated examines the Atlanta Hawks\u2019 potential strategies to lure guard Austin Reaves away from the Los Angeles Lakers during free agency. The article outlines the Hawks\u2019 roster needs, cap flexibility, and possible incentives that could make a move attractive to Reaves.",
+          "summary": "Sports Illustrated examines the Atlanta Hawks\u2019 potential strategies to acquire Austin Reaves in free agency, including offering a larger contract, a defined role, and a competitive roster. The article evaluates the feasibility of the Hawks\u2019 pursuit given the Lakers\u2019 interest in retaining the versatile guard.",
           "key_points": [
-            "The Hawks have cap space and a need for a versatile wing defender and playmaker.",
-            "Reaves\u2019 contract status and his fit with the Lakers are discussed as factors influencing his decision.",
-            "Potential trade or sign\u2011and\u2011trade scenarios are explored as ways the Hawks could acquire him."
+            "The Hawks might target Reaves with a max\u2011level contract and a clear offensive role.",
+            "Los Angeles is expected to make a strong counter\u2011offer to keep Reaves.",
+            "Reaves\u2019 two\u2011way skill set makes him a valuable asset for any contender."
           ],
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdnNQSlZhN25FeVV5eFVBemYwejFGUk1MX01yVldhZlNFYVJKa0JZbS1Za20xM3hrZVZQOUIxWlBtU2R1Vk80WV9WTWdYSkFnaHBGNG8xVHVrRTFYN2k1WFZneUFqRDV2LTlyYkhCaXlNVWdHOFVkWjhDakJUNi1lbzQ1bklSWjhGVnUtUkk1enppT2d5ekx5X3lUc2UxQnNxbU1SdEVxUEdxa1c2QUZ6NnF0SHdRQQ?oc=5",
           "source": "Google News - Lakers",
@@ -37,13 +127,13 @@
         },
         {
           "id": "94f16906e115",
-          "title": "LeBron James\u2019 Return Depends on Lakers Overcoming Major Roadblock",
+          "title": "LeBron James\u2019 Return Depends on Lakers Overcoming a Major Roadblock",
           "original_title": "LeBron James return hinges on Lakers shattering massive roadblock - Hoops Habit",
-          "summary": "Hoops Habit reports that LeBron James\u2019 ability to return to the lineup hinges on the Lakers resolving a significant obstacle, likely related to health or roster composition. The piece emphasizes that clearing this hurdle is essential for the team\u2019s championship aspirations.",
+          "summary": "Hoops Habit reports that LeBron James\u2019 ability to play the upcoming season hinges on the Lakers resolving a significant salary\u2011cap obstacle, likely related to luxury\u2011tax penalties or a pending roster move. Clearing this issue is essential for the team to field a competitive lineup with James at the helm.",
           "key_points": [
-            "A specific issue\u2014such as an injury, roster limit, or salary\u2011cap constraint\u2014is identified as the roadblock.",
-            "LeBron\u2019s availability is portrayed as critical for the Lakers\u2019 postseason success.",
-            "The article calls for swift action from the front office to enable his return."
+            "A salary\u2011cap or luxury\u2011tax barrier must be cleared for James to suit up.",
+            "The Lakers are exploring trades or contract restructures to free up space.",
+            "James\u2019 health and readiness are less of a concern than the financial hurdle."
           ],
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQlQ4a3haWlhPcGVJdy1wS3lqSTR4OXhNLXo2VlFPdzhQNHZIdUQ4b05XMzVDODBRZXZzNnczeDNaRVpKbGRJOUVHWWI3TGJwb1IzTV9wVmcxRVBGVHVtZktqNms5dmpFVjUzUlI1SUZiU1ZmUmRoMEVkRHFHNm1fMDZYbC1BSlhEYTdkdC1B?oc=5",
           "source": "Google News - Lakers",
@@ -54,105 +144,15 @@
           "id": "567e762b79f6",
           "title": "Lakers Gain Trade Path to 25\u2011Year\u2011Old Rising Superstar After Major Report",
           "original_title": "Lakers Receive Trade Path to 25-Year-Old Rising Superstar After Major Report - heavy.com",
-          "summary": "Heavy.com details a new trade avenue that could allow the Los Angeles Lakers to acquire a 25\u2011year\u2011old emerging star, following a recent investigative report that highlighted the player\u2019s market value. The article outlines possible trade packages and the strategic fit for Los Angeles.",
+          "summary": "Heavy.com details a new trade avenue that could allow the Los Angeles Lakers to acquire a 25\u2011year\u2011old emerging star, following a recent investigative report that highlighted the player\u2019s market value. The potential deal involves assets the Lakers already possess and could reshape the team\u2019s future.",
           "key_points": [
-            "The identified superstar is a 25\u2011year\u2011old with proven scoring and defensive upside.",
-            "Potential trade assets from the Lakers include draft picks and role players.",
-            "Acquiring the player would address the Lakers\u2019 need for a younger, high\u2011impact contributor."
+            "A trade package has been identified that could bring a 25\u2011year\u2011old star to LA.",
+            "The opportunity emerged after a major report elevated the player\u2019s profile.",
+            "Executing the trade would require the Lakers to part with draft picks or role players."
           ],
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTWlQS3NmbFpsYU53MDl6LXh4aDNsMWZnMHUxOGEtRWlNQXRLQVB1MDQyVjNHckhMaF9xcExwNGRkWWw4M2JQTEZxYWg2Z1JvMVZQT3FaMDdOYTR2Y3ZzR1NrckFxQXJEbjVZNF80VHYtTFVORVM4WWdNUXhNaDBSV3AydVJCc3hhRnRsbEFfcUE3cVFQTEE?oc=5",
           "source": "Google News - Lakers",
           "published": "2026-06-13T15:48:23+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "a4d474259036",
-          "title": "Danny Green Explains Types of Players Lakers Need Around Luka Don\u010di\u0107",
-          "original_title": "Danny Green Outlines Type Of Players Lakers Need To Surround Luka Doncic",
-          "summary": "In a Lakers Nation piece, veteran sharpshooter Danny Green outlines the roster pieces the Los Angeles Lakers should target in free agency to complement star guard Luka Don\u010di\u0107. He stresses the importance of adding shooters, defenders, and complementary scorers to avoid over\u2011reliance on Don\u010di\u0107 and Austin Reaves.",
-          "key_points": [
-            "Free agency begins June\u202f30, and the Lakers must add multiple role players to become a true contender.",
-            "Green highlights the need for three\u2011point specialists and versatile defenders.",
-            "Reducing dependence on Don\u010di\u0107 and Reaves will create a more balanced offensive attack."
-          ],
-          "link": "https://lakersnation.com/danny-green-outlines-type-of-players-lakers-need-to-surround-luka-doncic/",
-          "source": "Lakers Nation",
-          "published": "2026-06-13T15:30:04+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "12dc73961fe7",
-          "title": "Boston Exploits Luka Don\u010di\u0107 in Pick\u2011and\u2011Roll, Targets Austin Reaves",
-          "original_title": "Magic: \u201cBoston looked up and said, \u2018Okay, I\u2019m going to put Luka in the pick-and-roll every time.\u2019 Then Tatum had him saying, \u2018Oh, you want me? Okay, I\u2019m just going to go past you or pull up for my jump shot,\u2019 because he knew he could beat him off the dribble. They did the same thing to Austin Reaves",
-          "summary": "Boston Celtics adjusted their defense to force Luka Don\u010di\u0107 into pick\u2011and\u2011roll situations, where Jayson\u202fTatum would either drive past him or pull up for a jump shot, exploiting Don\u010di\u0107\u2019s difficulty defending off the dribble. The Celtics employed a similar strategy against Austin Reaves, limiting his effectiveness in the game.",
-          "key_points": [
-            "Celtics deliberately put Don\u010di\u0107 in pick\u2011and\u2011rolls to create mismatches.",
-            "Jayson\u202fTatum used his dribble\u2011penetration and shooting to neutralize Don\u010di\u0107.",
-            "Austin Reaves faced the same defensive scheme, reducing his impact."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1u4sm6s/magic_boston_looked_up_and_said_okay_im_going_to/",
-          "source": "Reddit r/lakers",
-          "published": "2026-06-13T14:37:20+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "c86633407381",
-          "title": "LeBron James Says Golf Hobby Isn\u2019t a Retirement Signal",
-          "original_title": "Lakers News: LeBron James Dismisses Hobby As Sign Of Retirement Being Near",
-          "summary": "LeBron James has been posting frequent Instagram videos of himself playing golf since the Lakers' season ended on May\u202f11. He clarified that his growing interest in the sport is a leisure activity, not an indication that he is planning to retire soon.",
-          "key_points": [
-            "James has been active on the golf course during the offseason.",
-            "He publicly dismissed rumors that golfing means retirement is near.",
-            "The posts highlight his typical off\u2011season routine of staying active."
-          ],
-          "link": "https://lakersnation.com/lakers-news-lebron-james-dismisses-hobby-as-sign-of-retirement-being-near/",
-          "source": "Lakers Nation",
-          "published": "2026-06-13T14:20:31+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "6e1e1a236267",
-          "title": "Danny Green Discusses Ideal Player Types for a Luka\u2011Centered Lakers",
-          "original_title": "Danny Green Outlines Type Of Players Lakers Need To Surround Luka Doncic - Lakers Nation",
-          "summary": "Former NBA player and analyst Danny Green outlined the skill sets the Los Angeles Lakers should target to complement Luka Don\u010di\u0107 if he were to join the team. Green emphasized the need for shooters, versatile defenders, and high\u2011IQ playmakers to maximize Don\u010di\u0107\u2019s playmaking abilities.",
-          "key_points": [
-            "Lakers need reliable three\u2011point shooters to space the floor.",
-            "Defensive versatility and strong perimeter defense are crucial.",
-            "Playmakers who can read Don\u010di\u0107\u2019s vision will enhance offensive flow."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTGdNQ1o3aEtnZmtOR1VZci1fb3p0UHFvQ0hFODdnMnRjcUgwS18xekg3YVh5QS1QMEdIcUJJWVhRWDRjbE0taDdsb0dMS1dZREdmcGc0dzJ4Ui1UZG9PRUE5MUdVaFVFb2tIS2duNUtENHV2UThMcURCLTdpa1dXamI3R1RRR3RramdEMU9JZy0zU1pQQWxCeW80cTVkT0E?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-06-13T14:20:04+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "215b80ef0845",
-          "title": "2026 Draft Prospect Spotlight: Koa\u202fPeat",
-          "original_title": "2026 Lakers draft prospects: Koa Peat - Yahoo Sports",
-          "summary": "Yahoo Sports profiled high\u2011school standout Koa\u202fPeat as a top prospect for the 2026 NBA Draft, noting his size, athleticism, and developing post game. Peat is projected as a potential future frontcourt anchor who could fit the Lakers' long\u2011term rebuilding timeline.",
-          "key_points": [
-            "Peat possesses a rare combination of height, length, and mobility.",
-            "His offensive game includes a soft touch around the rim and emerging mid\u2011range shot.",
-            "Scouts project him as a possible first\u2011round pick with high upside for a rebuilding Lakers roster."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNnRlMXlCY1ZLWDJSQTlVSmlfUDFWN0tmNlJ0SG5TeWNxdWxkV1k1U0J0eGZUamxHdk92UzRKWGZqTFRjR29XM0ZDN3BHbHNicXBSY1FFSVhybW1rYTVCX1UzZFkxTnhlbDNSNHBTbHB4ekczNUxWUE93eUZOVmF2c2pKT2xnbGs?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-06-13T14:01:29+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "7fc280a47467",
-          "title": "Reddit Lakers Community Opens Offseason Discussion Thread",
-          "original_title": "Daily Lakers Offseason Discussion Thread",
-          "summary": "The r/lakers subreddit launched a new thread for fans to discuss the Los Angeles Lakers now that the season has concluded. Users are encouraged to talk about trades, free agency, draft prospects, and any other offseason topics.",
-          "key_points": [
-            "Thread serves as a hub for fan conversation after the season finale.",
-            "Topics include roster moves, draft analysis, and future outlook.",
-            "Moderators invite community engagement and speculation within NBA rules."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1u4rqs3/daily_lakers_offseason_discussion_thread/",
-          "source": "Reddit r/lakers",
-          "published": "2026-06-13T14:00:43+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -161,153 +161,133 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "0a344144209b",
-          "title": "Cavs Guard James Harden Arrested on Misdemeanor Charge",
-          "original_title": "Cavs guard James Harden arrested early Saturday morning",
-          "summary": "James Harden was taken into custody early Saturday morning and charged with a misdemeanor. The arrest occurred in Cleveland and no further details about the incident were released at the time.",
+          "id": "b080e1954868",
+          "title": "Cleveland's Harden Arrested on Gun Charge",
+          "original_title": "Cleveland's Harden arrested on gun charge",
+          "summary": "Cleveland Cavaliers guard James Harden was arrested in Houston on a misdemeanor gun violation early Saturday morning. He was released from jail after posting a $100 bond. The incident occurred while he was traveling for team duties.",
           "key_points": [
-            "Harden was arrested early Saturday and booked on a misdemeanor charge.",
-            "The incident took place in Cleveland; authorities have not disclosed the specific nature of the offense.",
-            "No comment from the Cavaliers organization or Harden's representatives was available."
+            "Arrest took place at 3:41\u202fa.m. in Houston on a misdemeanor charge of unlawful carrying of a weapon in a motor vehicle.",
+            "Harden posted a $100 bond and was released the same day.",
+            "The charge is a misdemeanor; no further legal action has been reported."
+          ],
+          "link": "https://sports.yahoo.com/articles/clevelands-harden-arrested-gun-charge-184426881.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-06-13T19:12:39+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "0a344144209b",
+          "title": "Cavs Guard James Harden Arrested Early Saturday Morning",
+          "original_title": "Cavs guard James Harden arrested early Saturday morning",
+          "summary": "James Harden, a guard for the Cleveland Cavaliers, was taken into custody on Saturday morning on a misdemeanor charge. The arrest was reported by multiple news outlets.",
+          "key_points": [
+            "Harden faced a misdemeanor charge related to a weapon violation.",
+            "The arrest occurred early Saturday, prior to any court proceedings.",
+            "Details beyond the charge were not disclosed in the report."
           ],
           "link": "https://sports.yahoo.com/articles/cavs-guard-james-harden-arrested-171131837.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-06-13T17:11:31+00:00",
+          "published": "2026-06-13T18:44:35+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "3121be6e27de",
-          "title": "NBA Finals Game 5 Returns to San Antonio Tonight",
-          "original_title": "What time is Knicks vs. Spurs tonight? NBA Finals Game 5 could be clincher",
-          "summary": "Game 5 of the 2026 NBA Finals between the New York Knicks and the San Antonio Spurs is scheduled for Saturday, June 13, in San Antonio. The matchup could decide the championship as the series stands tied.",
+          "id": "ce979c14953d",
+          "title": "Cavs Release Statement on James Harden\u2019s Arrest",
+          "original_title": "Cavs release statement on James Harden\u2019s arest",
+          "summary": "The Cleveland Cavaliers issued a statement confirming that James Harden was arrested in Texas on Saturday morning for a misdemeanor offense. The team\u2019s communication focused on the factual nature of the incident.",
           "key_points": [
-            "Game 5 kicks off Saturday night in San Antonio.",
-            "Series is tied, making the game a potential clincher for either team.",
-            "Broadcast details and start time were provided for fans."
+            "Harden\u2019s arrest was for a misdemeanor in Texas.",
+            "The Cavaliers publicly acknowledged the incident via an official statement.",
+            "No additional disciplinary action from the team was mentioned."
           ],
-          "link": "https://sports.yahoo.com/articles/time-knicks-vs-spurs-tonight-170732493.html",
+          "link": "https://sports.yahoo.com/articles/cavs-release-statement-james-harden-184254792.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-06-13T17:07:32+00:00",
+          "published": "2026-06-13T18:42:54+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "c794712d628d",
-          "title": "SportsLine Model Picks Knicks Over Spurs in NBA Finals Game 5",
-          "original_title": "Knicks vs. Spurs odds, prediction: 2026 NBA Finals picks, Game 5 best bets by model on 26-10 run",
-          "summary": "SportsLine\u2019s predictive model released its picks and odds for Game 5 of the 2026 NBA Finals, favoring the New York Knicks against the San Antonio Spurs. The model\u2019s recommended bets are based on a 26\u201110 run analysis.",
+          "id": "8b616c984d6b",
+          "title": "James Harden Arrested in Houston on Misdemeanor Weapon Charge",
+          "original_title": "James Harden is arrested in Houston on a misdemeanor charge of carrying a weapon in a motor vehicle",
+          "summary": "James Harden was arrested at 3:41\u202fa.m. in Houston on a misdemeanor charge of unlawful carrying of a weapon in a motor vehicle. He was booked before 5\u202fa.m., posted a $100 bond, and was subsequently released.",
           "key_points": [
-            "SportsLine\u2019s model projects a Knicks win in Game 5.",
-            "Odds and betting recommendations are derived from a 26\u201110 run statistical framework.",
-            "The analysis includes suggested wagers for the matchup."
+            "Charge: unlawful carrying of a weapon in a motor vehicle (misdemeanor).",
+            "Arrest time: 3:41\u202fa.m.; bond posted: $100; release followed shortly after booking.",
+            "The Harris County District Clerk\u2019s Office confirmed the details of the arrest."
           ],
-          "link": "https://www.cbssports.com/nba/news/knicks-spurs-odds-prediction-spread-time-2026-nba-finals-picks-game-5-best-bets/",
+          "link": "https://sports.yahoo.com/articles/james-harden-arrested-houston-misdemeanor-183451951.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-06-13T18:34:51+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "6afee61437b6",
+          "title": "Cavaliers' James Harden Arrested in Houston for Unlawful Carrying of a Weapon",
+          "original_title": "Cavaliers' James Harden arrested in Houston for unlawful carrying of a weapon",
+          "summary": "Police in Houston observed a handgun in plain view on the seat of James Harden\u2019s car, leading to his arrest on a misdemeanor charge of unlawful carrying of a weapon. The incident adds a legal issue to the Cavaliers\u2019 roster concerns.",
+          "key_points": [
+            "Officers saw a handgun on the car seat, not in a holster, prompting the arrest.",
+            "Harden was charged with a misdemeanor for unlawful carrying of a weapon in a vehicle.",
+            "The arrest was reported by CBS Sports and aligns with other reports of the same incident."
+          ],
+          "link": "https://www.cbssports.com/nba/news/james-harden-arrest-unlawful-carrying-of-a-weapon/",
           "source": "CBS Sports NBA",
-          "published": "2026-06-13T17:02:19+00:00",
+          "published": "2026-06-13T18:31:29+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "4528ceb69e73",
-          "title": "Luigi Suigo Withdraws from NBA Draft, Commits to Villanova",
-          "original_title": "Evvai! Luigi Suigo withdraws from NBA Draft, commits to Villanova",
-          "summary": "Seven\u2011foot\u2011three forward Luigi Suigo announced he is pulling out of the NBA Draft to honor a commitment to play college basketball at Villanova. The 2026 recruit is expected to be a transformative presence for the Wildcats.",
-          "key_points": [
-            "Suigo, a 7'3\" prospect, withdrew from the 2026 NBA Draft.",
-            "He confirmed his commitment to Villanova University.",
-            "Analysts project him as a game\u2011changing interior player for the Wildcats."
-          ],
-          "link": "https://sports.yahoo.com/articles/evvai-luigi-suigo-withdraws-nba-170103878.html",
+          "id": "7704a562dc81",
+          "title": "James Harden released from jail in Houston following arrest on misdemeanor gun charge",
+          "original_title": "James Harden released from jail in Houston following arrest on misdemeanor gun charge",
+          "summary": "He was arrested for having an open gun in the cupholder in his car during an interaction with police.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/james-harden-released-jail-houston-180946670.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-06-13T17:01:03+00:00",
+          "published": "2026-06-13T18:09:46+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "f74032635aa4",
-          "title": "Knicks vs. Spurs Game 5 Prediction Highlights Towns\u2019 Scoring Potential",
-          "original_title": "Knicks vs Spurs Prediction, Picks & Odds for Tonight's NBA Finals Game 5",
-          "summary": "Predictions and betting odds for NBA Finals Game 5 suggest a high\u2011scoring night for Karl\u2011Anthony Towns, despite his team being the Knicks. The analysis outlines the best bets and expected offensive output for the contest on June 13.",
-          "key_points": [
-            "Forecasts point to a prolific offensive performance from Karl\u2011Anthony Towns.",
-            "Betting lines and picks are provided for the Knicks\u2011Spurs Game 5 matchup.",
-            "The preview emphasizes scoring trends and potential game flow."
-          ],
-          "link": "https://sports.yahoo.com/articles/knicks-vs-spurs-prediction-picks-175600526.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-13T16:39:00+00:00",
+          "id": "58d715c29033",
+          "title": "Harden charged with unlawful carrying of weapon",
+          "original_title": "Harden charged with unlawful carrying of weapon",
+          "summary": "Cavaliers guard James Harden was arrested early Saturday morning in Houston and has been charged with a misdemeanor unlawful carrying of a weapon.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/49051311/cavaliers-harden-charged-unlawful-carrying-weapon",
+          "source": "ESPN NBA",
+          "published": "2026-06-13T18:04:03+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "bec04872103a",
-          "title": "NYC's Giant Knicks Watch Party Expands to Over 100 Citywide Kiosks",
-          "original_title": "NYC's giant Knicks watch party now includes kiosks around the city",
-          "summary": "Mayor Zohran Mamdani announced that more than a hundred kiosks will be set up across New York City, turning sidewalks into watch parties for Knicks games. The initiative aims to create a citywide celebration atmosphere for fans.",
-          "key_points": [
-            "Over 100 kiosks will be installed throughout NYC for live Knicks game viewing.",
-            "Mayor Mamdani highlighted the project as a way to turn streets into celebration spaces.",
-            "The kiosks are intended to enhance fan engagement and community spirit."
-          ],
-          "link": "https://sports.yahoo.com/articles/nycs-giant-knicks-watch-party-162606683.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-13T16:26:06+00:00",
+          "id": "da666708498e",
+          "title": "Spurs' Johnson believes in Fox ahead of Game 5",
+          "original_title": "Spurs' Johnson believes in Fox ahead of Game 5",
+          "summary": "Spurs coach Mitch Johnson emphasized his belief in De'Aaron Fox on the heels of his rough showing in Game 4.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/49042941/mitch-johnson-emphasizes-belief-deaaron-fox-ahead-game-5",
+          "source": "ESPN NBA",
+          "published": "2026-06-13T18:04:03+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "1045745d5dcf",
-          "title": "OG Anunoby\u2019s Journey Leads to Game\u2011Winning Tip\u2011In in NBA Finals",
-          "original_title": "OG Anunoby\u2019s whole life prepared him for this Knicks moment",
-          "summary": "OG Anunoby\u2019s decisive tip\u2011in in Game 4 of the NBA Finals was the culmination of years of preparation and experience. The article traces his development from early career moments to this pivotal play.",
-          "key_points": [
-            "Anunoby\u2019s game\u2011winning tip\u2011in secured a crucial win in Game 4 of the Finals.",
-            "His performance reflects a long\u2011term development path and prior high\u2011pressure experiences.",
-            "The play underscores Anunoby\u2019s growth into a clutch contributor."
-          ],
-          "link": "https://sports.yahoo.com/articles/og-anunoby-whole-life-prepared-162320092.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-13T16:23:20+00:00",
+          "id": "c0ab7331a3f2",
+          "title": "Knicks fans target Wemby with egg, jeers at hotel",
+          "original_title": "Knicks fans target Wemby with egg, jeers at hotel",
+          "summary": "A brutal night for the Spurs' Victor Wembanyama continued after he returned to his hotel, as he was pelted with boos from Knicks fans and nearly hit by a flying egg.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/49031479/knicks-fans-direct-jeers-flying-egg-spurs-victor-wembanyama",
+          "source": "ESPN NBA",
+          "published": "2026-06-13T18:04:03+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "1b443b5b90df",
-          "title": "Knicks\u2019 Jose Alvarado Shines on NBA Finals Stage",
-          "original_title": "Knicks' Jose Alvarado was built for this NBA Finals moment: 'He is New York'",
-          "summary": "Jose Alvarado, a native New Yorker, delivered a standout performance during the NBA Finals, embodying the city\u2019s spirit. His contributions highlighted his role as a hometown hero on basketball\u2019s biggest stage.",
-          "key_points": [
-            "Alvarado\u2019s performance was a key storyline for the Knicks in the Finals.",
-            "His New York roots were emphasized as part of his narrative.",
-            "He provided significant minutes and defensive intensity in the series."
-          ],
-          "link": "https://www.cbssports.com/nba/news/knicks-jose-alvarado-nba-finals-moment-new-york-spurs/",
-          "source": "CBS Sports NBA",
-          "published": "2026-06-13T16:23:05+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "403b604d9c4f",
-          "title": "James Harden Arrested in Houston for Carrying Unlawful Weapon",
-          "original_title": "James Harden arrested in Houston on Saturday for carrying an unlawful weapon",
-          "summary": "James Harden, a guard for the Cleveland Cavaliers, was arrested in Houston on charges of carrying an unlawful weapon in a motor vehicle. The incident occurred on Saturday and has prompted legal proceedings.",
-          "key_points": [
-            "Harden was detained by Houston police on a weapons charge.",
-            "The charge relates to possessing an unlawful weapon inside a vehicle.",
-            "The arrest may affect his availability for upcoming Cavaliers games."
-          ],
-          "link": "https://sports.yahoo.com/nba/breaking-news/article/james-harden-arrested-in-houston-on-saturday-for-carrying-an-unlawful-weapon-162016457.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-13T16:20:16+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "920d39eb72ac",
-          "title": "Victor Wembanyama Picks, Predictions & Best Bets for Knicks vs. Spurs Game 5",
-          "original_title": "Victor Wembanyama Picks, Predictions & Best Bets for Knicks vs Spurs Game 5 on June 13",
-          "summary": "Analysts provide predictions and betting advice for the Knicks\u2011Spurs Game 5 matchup, focusing on Victor Wembanyama\u2019s readiness and rest status. The preview outlines potential outcomes and wagering angles for the June 12/13 game.",
-          "key_points": [
-            "Wembanyama is reported to be fully rested and ready for Game 5.",
-            "The article offers picks and betting recommendations for the Knicks\u2011Spurs contest.",
-            "Key factors include matchups, recent performance trends, and injury updates."
-          ],
-          "link": "https://sports.yahoo.com/articles/victor-wembanyama-picks-predictions-best-160000116.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-13T16:00:00+00:00",
+          "id": "af580991b8bf",
+          "title": "Shoot your shot: Big3 to sell stock later this yea...",
+          "original_title": "Shoot your shot: Big3 to sell stock later this yea...",
+          "summary": "The Big3 basketball league, co-founded by rapper Ice Cube, is eyeing a $290 million valuation as it plans to go public later this year.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/49040407/big3-league-go-public-290-million-valuation",
+          "source": "ESPN NBA",
+          "published": "2026-06-13T18:04:03+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -316,45 +296,55 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "9c77adcd7487",
-          "title": "LeBron Gives Lakers Free\u2011Agency Edge, Says Draymond Green",
-          "original_title": "Lakers have LeBron James free-agency edge even Draymond Green knows Warriors can't match - Lake Show Life",
-          "summary": "According to Lake Show Life, the Los Angeles Lakers hold a clear advantage in free agency because of LeBron James. Even Warriors forward Draymond Green acknowledged that his team cannot match the Lakers' appeal to the superstar.",
-          "key_points": [
-            "LeBron James is considered the Lakers' biggest asset in upcoming free\u2011agency negotiations.",
-            "Warriors personnel, including Draymond Green, admit they cannot compete financially or competitively for James.",
-            "The perceived edge strengthens the Lakers' position to attract additional talent."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcWxpV1FKRTJhZlowZWRkWUFLZmt5UkdMMkFSemx6RHpTTUtGODdEcEk4MlJhQnFUSmEzdW0wSGpnZHJpT2xmVG82bXloOENod0ZHRlE5SURRQUg4bGZmb2lXdlh5STRibDhLUzNGcTQ5QnQzejBlaXVRS2Yya01wZ1dVQl8xSnU3YW1lWDVMYzBpd1RaUnZBMVVTTFJpcW9yQVlzMFZKMG1yeW02NmsyRF9ZbUQ?oc=5",
+          "id": "b69e7862c44a",
+          "title": "Draymond Green Gives Opinion On LeBron James\u2019 Next Move - Lakers Nation",
+          "original_title": "Draymond Green Gives Opinion On LeBron James\u2019 Next Move - Lakers Nation",
+          "summary": "Draymond Green Gives Opinion On LeBron James\u2019 Next Move&nbsp;&nbsp;Lakers Nation",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcTdzNE5CQ2JGbTQ0ZnlTQm5KV2J1SnpobkdEbmdLUXM0OTZvYXNXUnU0MTNhakgzbjY0R2tLUlhUcWZJN3VDa0s5alQyYVY3LUlybk5iaEhQYk96S1NvMUxyNVJYRWQtOWREb1pnRUhla2g0RHJMQ3ppWWNYTV94Z3lPWndraUE?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-06-13T17:00:01+00:00",
+          "published": "2026-06-13T18:20:49+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "8f1f06254e3a",
+          "title": "Lakers' enticing Rui Hachimura replacement might not be available - Lake Show Life",
+          "original_title": "Lakers' enticing Rui Hachimura replacement might not be available - Lake Show Life",
+          "summary": "Lakers' enticing Rui Hachimura replacement might not be available&nbsp;&nbsp;Lake Show Life",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT1ZjYTI5TXNnQ2NmWlJJdV91enZ5VE1sOUowaFZsTHJSbzdDdjRvazZ5TFNyTk5OazY4WkhDa053YnFVZnNmeC1BQnlZSkVJd2RDUVNOSWNBelg3LUtscC03b1UyUnRXWVJWd2NpVWE4bkNZeldQQWI5TGhOcUlHNE0tMDJ2MjdranNRbE5renF3NXM?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-06-13T18:00:01+00:00",
           "topic": "Lakers Players"
         },
         {
           "id": "dbd3f88fa4dc",
-          "title": "Lakers Linked to Intriguing Free\u2011Agency Target for Luka\u202fDoncic Era",
+          "title": "NBA Insider Links Lakers to Intriguing Free Agency Target for Luka Doncic Era - heavy.com",
           "original_title": "NBA Insider Links Lakers to Intriguing Free Agency Target for Luka Doncic Era - heavy.com",
-          "summary": "Heavy.com reports that NBA insiders are connecting the Los Angeles Lakers with a potential free\u2011agency acquisition aimed at countering the rise of Luka\u202fDoncic and his Dallas Mavericks. The target is described as a player who could complement the Lakers' core and help them stay competitive in the evolving Western Conference landscape.",
-          "key_points": [
-            "The Lakers are exploring options to bolster their roster in response to Luka\u202fDoncic\u2019s emergence.",
-            "Insiders suggest a specific free\u2011agent could fit the team's needs, though the identity is not disclosed.",
-            "Acquiring this player would aim to keep the Lakers in contention for the upcoming season."
-          ],
+          "summary": "NBA Insider Links Lakers to Intriguing Free Agency Target for Luka Doncic Era&nbsp;&nbsp;heavy.com",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTUhwSkhKXzR5T0NWNFRPRHU4VTk2S0l3QUNGY2c2V0NvLWQyQXlfNldQR3hiQUo0WUNwVkpnckR5ZHd3SzhkeTBDU2hOc0h0dFJFTGthbEdvakpndjNwVlNiS1pTWDlXYlFidkNuUHFlUWtXVlZMbms0N1BOVExBQzFsMkljaWNfUmx4eWxveUxMWFNMSWVBMUtR?oc=5",
           "source": "Google News - Luka",
           "published": "2026-06-13T16:47:57+00:00",
           "topic": "Lakers Players"
         },
         {
+          "id": "654e39bd26bd",
+          "title": "Shaquille O\u2019Neal Explains Why He\u2019d Draft LeBron James Over Kobe Bryant With A No. 1 Pick - Yahoo Sports",
+          "original_title": "Shaquille O\u2019Neal Explains Why He\u2019d Draft LeBron James Over Kobe Bryant With A No. 1 Pick - Yahoo Sports",
+          "summary": "Shaquille O\u2019Neal Explains Why He\u2019d Draft LeBron James Over Kobe Bryant With A No. 1 Pick&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVGhPWlc2WDZGMzU2UkxtRHNvcTFLaHk4ZjB0ZXEwUTVhTkZXZFY3Y25FbWFzdnNNODRMMVhVelRRQ2pxTlQyQlRYTm1qZDVGTmlCblVsaUI2SHQyYVpyMzNqQTBnV2NIUzRQcnYtQWkyRXBhVlBfRUU4WTF3VEhaenRHLUY?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-06-13T15:58:29+00:00",
+          "topic": "Lakers Players"
+        },
+        {
           "id": "04e7a92e2fa2",
-          "title": "Austin Reaves Should Be Lakers' Free\u2011Agency Priority, Says Bleacher Report",
+          "title": "Why Austin Reaves Needs to Be Lakers' Free Agency Priority Amid LeBron James, NBA Rumors - Bleacher Report",
           "original_title": "Why Austin Reaves Needs to Be Lakers' Free Agency Priority Amid LeBron James, NBA Rumors - Bleacher Report",
-          "summary": "Bleacher Report argues that the Lakers must prioritize retaining Austin Reaves amid ongoing rumors surrounding LeBron James and other free\u2011agency moves. Reaves is highlighted for his versatility, defensive effort, and growing offensive role, making him a valuable piece for the team's future.",
-          "key_points": [
-            "Reaves provides a rare combination of shooting, defense, and playmaking for the Lakers.",
-            "Losing him could weaken the roster, especially as the team navigates LeBron\u2011related contract decisions.",
-            "The article urges the front office to secure Reaves before other suitors emerge."
-          ],
+          "summary": "Why Austin Reaves Needs to Be Lakers' Free Agency Priority Amid LeBron James, NBA Rumors&nbsp;&nbsp;Bleacher Report",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa1JfcVJuRGhCeFY1SEw3MnJsbHg1Q0Etd3h2eWlfYzZZclBYOF9sekVJN1UwZWpDdVFZTDNsTGVrUF9BMlBKZTlKUG15bFFZbzhRMWJ0LWtfbnVqSW5sR1gtMW9VYkx5WmV6cUhLT093WTF6Tzh3VnZwRW1POXVfSS1UVGNLMngzX0Z1aEVCdkpCV3U3eEhiTWlEY3hzdXZrbkxYZ1JIUTgwVGtEMnVEaEowQjJISnRSSWJlNnEzRHJGbnJTX1Jv?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-06-13T15:15:23+00:00",
@@ -362,13 +352,13 @@
         },
         {
           "id": "5c04ef0da9c2",
-          "title": "Lakers Warned Not to Overpay Austin Reaves Amid Luka\u202fDoncic Rumors",
+          "title": "Lakers Warn Against Overpaying Austin Reaves Amid Luka Rumors",
           "original_title": "Lakers can't let rumored Luka Doncic concern lead to an Austin Reaves overpay - Lake Show Life",
-          "summary": "Lake Show Life cautions the Los Angeles Lakers against inflating Austin Reaves' contract in reaction to speculation about Luka\u202fDoncic joining the team. Overpaying could create salary\u2011cap issues and hinder roster flexibility, according to the analysis.",
+          "summary": "The article cautions the Los Angeles Lakers not to let speculation about a possible Luka\u202fDoncic trade drive them into an inflated contract for guard Austin Reaves. It argues that the team should maintain fiscal discipline and focus on roster balance rather than reacting to media hype.",
           "key_points": [
-            "Rumors linking the Lakers to Luka\u202fDoncic should not dictate Reaves' contract value.",
-            "An overvalued deal for Reaves could limit future free\u2011agency and trade options.",
-            "The article recommends a market\u2011based, financially prudent approach to Reaves' extension."
+            "Luka\u202fDoncic trade rumors are circulating, but no concrete interest has been reported.",
+            "Overpaying Reaves could hamper the Lakers' salary\u2011cap flexibility for future moves.",
+            "The piece urges the front office to prioritize value and roster fit over speculative panic."
           ],
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLTNkZ0tHVFFnajJQZ3FJdmJXVDVlTVczeW1nLWRiZTJzaHRQdHZXU3dZMGJhdThUMW84ZmJ3UEp0NDFoODI0cl91b1dtSkEwSk9oTDA0Nmt2c1BOSzlYRVUzbHp1c2RuNTdYLXM0a0JGUlFsWEYwQi1pN1RibHd2MU5tZ2VkM0xTSXpENkd0QQ?oc=5",
           "source": "Google News - Luka",
@@ -376,14 +366,29 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "50b86c342592",
-          "title": "Danny Green Predicts LeBron James Could End Up with Lakers or Cavaliers",
-          "original_title": "Danny Green Believes LeBron James Will Play for Lakers or Cavaliers Next Season - roundtable.io",
-          "summary": "Roundtable.io relays former NBA player Danny Green's speculation that LeBron James will sign with either the Los Angeles Lakers or the Cleveland Cavaliers for the next season. Green cites both franchises' championship aspirations and existing roster constructions as factors influencing James' decision.",
+          "id": "6f26e6dbbec2",
+          "title": "Agent Rich Paul Says 10\u201112 Teams Interested in LeBron James",
+          "original_title": "Rich Paul Says 10-12 Teams Have Interest In LeBron James - RealGM",
+          "summary": "Rich Paul, representing LeBron James, told reporters that roughly a dozen NBA franchises have expressed interest in the veteran star, though he has not had any direct discussions with LeBron about his future. The article notes that while the Warriors are often mentioned, a move there remains unlikely.",
           "key_points": [
-            "Green sees the Lakers and Cavaliers as the two most likely destinations for LeBron.",
-            "Both teams are positioned to contend for titles, making them attractive to James.",
-            "The prediction remains speculative, with no official confirmation from James or either club."
+            "No formal conversations have taken place between LeBron and any potential suitor.",
+            "Interest spans teams across the league, highlighting James' continued market value.",
+            "Speculation about a Warriors destination is deemed improbable by analysts."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObWFNbFdKWlp2S3JicWhLSjd5OURyZTNHU2RCZGlkcEd5NW5mOGpIQ0ViT3VCcXNKazYwQnpzZjd5Q1RqY1lHMXhfVzhqdzFjZ0cyWldJc282LXJTZV9fTElHT3B3bHFRT1ZZaXNXdGR4dV9McVB6ZlVseEdSdjRDaWdmaFVhSVNmYV9sUVNSeWQxdk9DcG1pbnYwdHY0emRZMy1V?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-06-13T14:05:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "50b86c342592",
+          "title": "Danny Green Predicts LeBron James Could Return to Lakers or Cavaliers",
+          "original_title": "Danny Green Believes LeBron James Will Play for Lakers or Cavaliers Next Season - roundtable.io",
+          "summary": "Former NBA player Danny Green shared his view that LeBron James will likely sign with either the Los Angeles Lakers or his former team, the Cleveland Cavaliers, for the 2024\u201125 season. Green based his assessment on James' ties to both markets and the competitive outlook of each franchise.",
+          "key_points": [
+            "LeBron\u2019s decision is expected to hinge on roster fit and championship prospects.",
+            "Both the Lakers and Cavaliers have expressed openness to adding James.",
+            "Green emphasizes that any move will be driven by the player\u2019s personal and professional goals."
           ],
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZGFGQzI0VXltNFAtWkpMd1p0ZWxhNXJXZ1Rxb05LZ2diVUhYcE1SNUE5blJoa1VuOXBFNFVnNDk2Z2FrRnRBUzJ1dWpyNjFIVUc4WmwxUkJ3QUUxT1R5M25kZW11TVlWbDJPbEZBMkdZZVoxenRURFh0QVA3NkVSUzN4b1phSlc4NDIzd29KcGg0Q08zLXRNQUhGQ3pxelNIOGczOGxmRmNWam54eGY5Q0toaHZNN0xaWkFfVGlDRWdvemxRZ2c?oc=5",
           "source": "Google News - LeBron",
@@ -392,13 +397,13 @@
         },
         {
           "id": "9a2d1273df51",
-          "title": "Lakers Explore Trade to Pair Luka\u202fDoncic with Former Mavs Center",
+          "title": "Lakers Explore Trade to Pair Luka Doncic with Former Mavs Rookie Center",
           "original_title": "Lakers Proposed to Reunite Luka Doncic With Former All-Rookie Mavs Center - heavy.com",
-          "summary": "Reports indicate the Los Angeles Lakers are considering a trade that would bring former Dallas Mavericks All\u2011Rookie center back to team up with Luka\u202fDoncic. The proposal aims to create a dynamic front\u2011court duo, though details on assets required have not been disclosed.",
+          "summary": "According to a report, the Los Angeles Lakers have considered a trade package that would bring Luka\u202fDoncic back together with the Dallas Mavericks\u2019 former All\u2011Rookie center, a move aimed at adding size and playmaking to the Lakers\u2019 frontcourt. The proposal remains speculative and no official negotiations have been confirmed.",
           "key_points": [
-            "Lakers are reportedly targeting a former Mavs center to join Luka\u202fDoncic.",
-            "The move is positioned as a way to strengthen the team's interior presence.",
-            "No specific trade package or timeline has been confirmed."
+            "The targeted center is a former Dallas rookie who previously played alongside Doncic.",
+            "The trade would require significant salary\u2011cap maneuvering and assets from both sides.",
+            "Lakers officials have not publicly commented on the feasibility of the deal."
           ],
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOG5mRzBaQWdTMEF1LTZ1LXlJTXNuN2FJLWR2VkRFN0hmNS1YNUdXdDJaNGJSZkdhem9VY01BdktEYUNCMk5EOTVTd1NtSThlSzRDeHdqOEFoOVlvYk5YQlJ2eFloTXNGWkFySkhYSDRqa3o3VEo3NjFmUzI2cTJLOHNWRXhrNUw1MUNCclhKcnk?oc=5",
           "source": "Google News - Luka",
@@ -406,63 +411,18 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "a30804d2d9d2",
-          "title": "Luke Kennard\u2019s Role on the Lakers Remains Unclear",
-          "original_title": "Lakers' polarizing Luke Kennard dilemma should be obvious by now - Lake Show Life",
-          "summary": "Analyst commentary highlights the ongoing uncertainty surrounding shooting guard Luke Kennard\u2019s fit with the Los Angeles Lakers. While his three\u2011point shooting offers value, questions persist about his defensive contributions and consistency.",
-          "key_points": [
-            "Kennard\u2019s shooting ability is praised, but defensive liabilities are a concern.",
-            "Coaching staff must decide whether to keep him in the rotation or explore alternatives.",
-            "The dilemma reflects broader roster\u2011construction challenges for the Lakers."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMkFRYkhfRzRiUkpNWW4zUXdtX3hETWZRbVNvMVBrR3RBSjhNUEpVYXJTNmduajJGSTFlMklFdFNQcmhBMHoxWlJDb0hTaF9zTkFVV1BZeU5JZkk2SVloUFhvYTBmZlM5QlMxSW9NcVhKdTY4OUczeGVBNnlqeE5JNkR2eUY?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-06-13T13:00:04+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "3f64887455e4",
-          "title": "Trade Talk Links 2020 Champion with Luka\u202fDoncic in Potential Lakers Deal",
-          "original_title": "Lakers Trade Pitch Reunites 2020 Champ, Pairs 3-Pt Sniper With Luka Doncic - heavy.com",
-          "summary": "Recent trade speculation suggests the Lakers could acquire a 2020 NBA champion to complement Luka\u202fDoncic, pairing a proven three\u2011point specialist with the star guard. The scenario is part of broader discussions about reshaping the roster for a deeper playoff run.",
-          "key_points": [
-            "A former 2020 champion is being linked to a possible Lakers trade.",
-            "The proposed deal would pair a veteran 3\u2011point shooter with Luka\u202fDoncic.",
-            "Details on the assets required for the trade remain speculative."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdG9nQ0hVSUdrbnQ5b2ZEN3pvZTNiOWxCQ2ZpM184TDVKUXBRRVJjaS1Ld1ZzZW9RTXJJNm9PV0FyTXVrcmJ0TUJLX0I3RTFINC1JWDJsYXNTR2N5V3F6QzUtcGp5TllObjFaMTBiNENlMkF3UUZ0SzNHd2k2dzJHSUlYNDl4cEhiRnV0b29hQWFqN2g3WHc?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-06-13T12:31:07+00:00",
-          "topic": "Lakers Players"
-        },
-        {
           "id": "801ac4aaf6cb",
-          "title": "LeBron James Remains the Lakers\u2019 Preferred Franchise Player",
+          "title": "Analyst Prefers LeBron James Over Other Free\u2011Agent Targets",
           "original_title": "\u201cI\u2019d probably go with [LeBron James] because Bron \u2014 \u2026 - HoopsHype",
-          "summary": "A recent interview excerpt emphasizes that, when asked about future direction, the speaker would choose LeBron James as the cornerstone for Los Angeles. The comment underscores James\u2019s continued importance to the team\u2019s identity and competitive outlook.",
+          "summary": "A HoopsHype interview features an NBA analyst stating they would likely choose LeBron James if given the option, citing his leadership, experience, and ability to elevate a roster. The comment underscores James' continued relevance in free\u2011agency discussions despite his age.",
           "key_points": [
-            "LeBron James is highlighted as the primary focal point for the Lakers\u2019 future.",
-            "The statement reflects confidence in James\u2019s ability to lead the franchise.",
-            "No immediate roster moves are detailed in the discussion."
+            "LeBron is praised for his on\u2011court impact and veteran presence.",
+            "The analyst\u2019s preference highlights the scarcity of comparable talent in the market.",
+            "No specific team affiliation is mentioned; the focus is on James\u2019 value as a free agent."
           ],
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNE1SRHNhVWI5MHlRVGUxRE81MWJGQzByVndSQTJkazhRMjdBRTVZVlhhWGxlYjZlSzhEZTJLS1lGUm5vZnIxOVRJOC1RbXBlWEQxVDBIWV90bVRld2t5cXg1VkZtUFJRZlctT0tmNmt5eHA3UExCV0N1SHFCUThnb09JYXV4Tl9Idjl6UmZkSVJxWml5OXF0YmNZa2w3YlBQRWhGWVN3aThkRGFJR09SRmxIaVQ2ODNPejJv?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-06-13T12:25:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "df3eaa07fb40",
-          "title": "Magic Johnson Outlines Critical Moves Lakers Must Make",
-          "original_title": "Magic Johnson Reveals What Lakers Must Do Before It\u2019s Too Late - Sports Illustrated",
-          "summary": "In a Sports Illustrated interview, former Lakers legend Magic Johnson outlines the key actions the organization needs to take to remain competitive, warning that delays could jeopardize the team\u2019s success. He stresses the importance of roster upgrades and strategic planning.",
-          "key_points": [
-            "Johnson urges the Lakers to act quickly on roster improvements.",
-            "He highlights specific areas such as depth, defense, and veteran leadership.",
-            "Failure to address these issues could lead to a decline in the franchise\u2019s performance."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb2xjUmNyZjhLX1cwdXR4ZjMxVU9kUUlWLUF0MFVySjBrQVR5VkQ1TnprbnFEMEpRQmtEX3VmMFVOd0Z4ZWFpUkpYYTBJVUg3SW5yZHktbXRfdG4zN0c0djltal80Vjg4cDZYczByWkdYQjAzb18zUmNuUS1SLW8yUjJB?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-06-12T23:09:41+00:00",
           "topic": "Lakers Players"
         }
       ]
