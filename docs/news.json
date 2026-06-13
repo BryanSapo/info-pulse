@@ -1,19 +1,64 @@
 {
-  "generated_at": "2026-06-13T07:54:41.072218+00:00",
-  "total_articles": 30,
+  "generated_at": "2026-06-13T10:42:49.242356+00:00",
+  "total_articles": 25,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
-          "id": "4d37ff65ef19",
-          "title": "In search of an Elden Campbell Lakers jersey!",
-          "original_title": "In search of an Elden Campbell Lakers jersey!",
-          "summary": "A Reddit user is looking for a Los Angeles Lakers #41 jersey to honor former center Elden Campbell. The poster cannot find any retail options and is asking the community for suggestions or sales leads.",
+          "id": "564205497520",
+          "title": "Lakers Lose Game 5 of 2010 Finals \u2013 A Celtics\u2011Centric Milestone",
+          "original_title": "Today in Boston Celtics history: Lakers defeated in G5 of '10 Finals; Saunders, Garfinkle born - Celtics Wire",
+          "summary": "The Los Angeles Lakers were defeated by the Boston Celtics in Game 5 of the 2010 NBA Finals, giving the Celtics a pivotal win in the series. The article also notes the birthdays of future Celtics contributors Saunders and Garfinkle.",
           "key_points": [
-            "Elden Campbell was a fan\u2011favorite Lakers center who wore #41.",
-            "No official Lakers #41 jersey appears to be available for purchase.",
-            "The user is seeking help from other fans to locate or custom\u2011make the jersey."
+            "Game 5 of the 2010 Finals ended with a Celtics victory over the Lakers.",
+            "The loss put the Lakers behind in the championship series.",
+            "Births of future Celtics personnel Saunders and Garfinkle are highlighted."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMHVNOEtDX19hZ05Rb1ViTGhEcVJOLUFENldhbzgyd2stdHRVVXdqOGlRVng1NWNOYVdaLTBqakxFSFRWYTZOSDNDMFRpQWR6dlRLcTNHQ051NlNBa0xxaWl1bWNZUlJjdjBzYTBMRkpSV2piMUxSQnpHNkdWR0NnWjEtSGJlbGdCRWVHMzV2WWJ4NGZZLWwwMmdxelFWUFBZa21CX2l4UEllZ0duNS1xTXBrR0kya3hKQlFfSDd0QllOb0ZKWHNGRzBnYWppVkVPWjFZU1pKaXFpMUJuNDVBdFhCdGU5bnBxTFJESw?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-06-13T10:00:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "331cabd787aa",
+          "title": "Lakers\u2019 Off\u2011Season Cap\u2011Space Scenarios Analyzed",
+          "original_title": "LA's options for this offseason is limited, and we can game out the likely scenarios",
+          "summary": "A Reddit discussion outlines how the Los Angeles Lakers could free up roughly $51\u202fmillion by moving key contracts, including LeBron James, Rui Hachimura, and Kentavious Caldwell\u2011Poole, while retaining core players like Smart, Ayton, and Jaxson\u202fKidd. The thread warns that this is the final season to create significant cap space without dismantling the roster.",
+          "key_points": [
+            "Potential $51\u202fM in cap space by trading or letting go of LeBron, Hachimura, Caldwell\u2011Poole and other minor free agents.",
+            "Core players (Smart, Ayton, Kidd) are expected to stay on comparable deals.",
+            "Future seasons will limit the Lakers\u2019 ability to generate large cap space without major roster changes."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1u4mrhk/las_options_for_this_offseason_is_limited_and_we/",
+          "source": "Reddit r/lakers",
+          "published": "2026-06-13T09:48:31+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "bb43d12e9247",
+          "title": "Austin Reaves Projected to Receive $178\u202fMillion Offer in Free Agency",
+          "original_title": "Austin Reaves Expected to Receive $178 Million Offer in Free Agency - lindyssports.com",
+          "summary": "Lindyssports reports that shooting guard/forward Austin Reaves is expected to attract a contract worth $178\u202fmillion in the upcoming free\u2011agency period. The figure reflects his rising value after a strong season with the Lakers.",
+          "key_points": [
+            "Reaves is projected to command a $178\u202fM contract offer.",
+            "The estimate is based on his recent performance and market trends.",
+            "No official offer has been confirmed at the time of reporting."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTl9hbndjbmo4YWlzZktCbG43Y3ZBVkhTeUxRZVIyWGRSd3dwOUZXdzhDQUNuOTNUMnhLMHhjVGxjMlZsWHNMR2pvUExZWnlDWW5UVFlfWmpLUXVSYURSNURGemZWN3FwR2F1MzYxU0cxX3I5cG51UmtyLUlVekxFQkhkMlVOc1JCSnFzSjlOVGtnR2UzZUNzY0VzMA?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-06-13T08:55:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "4d37ff65ef19",
+          "title": "Reddit User Seeks Elden Campbell #41 Lakers Jersey",
+          "original_title": "In search of an Elden Campbell Lakers jersey!",
+          "summary": "A Reddit post from r/lakers asks the community for help locating a Los Angeles Lakers jersey bearing number 41, worn by former center Elden Campbell. The user reports difficulty finding the jersey and is open to custom\u2011made options.",
+          "key_points": [
+            "Elden Campbell\u2019s #41 Lakers jersey is hard to locate in retail channels.",
+            "The poster is seeking suggestions or a possible seller.",
+            "Custom\u2011made jerseys are considered as an alternative."
           ],
           "link": "https://www.reddit.com/r/lakers/comments/1u4i2hs/in_search_of_an_elden_campbell_lakers_jersey/",
           "source": "Reddit r/lakers",
@@ -22,137 +67,17 @@
         },
         {
           "id": "ed2330cedb25",
-          "title": "Lakers Legends Series | Kobe Bryant",
+          "title": "Lakers Legends Series Highlights Kobe Bryant\u2019s Early #8 Era",
           "original_title": "Lakers Legends Series | Kobe Bryant",
-          "summary": "An artist posted a portrait celebrating Kobe Bryant\u2019s early \"#8 era,\" highlighting his afro, confidence, and emerging \"Mamba Mentality.\" The piece is part of a series honoring Lakers legends and references the iconic commercials from that period.",
+          "summary": "A Reddit post showcases an artwork honoring Kobe Bryant\u2019s early career, focusing on his #8 jersey, distinctive afro, and the emerging \u201cMamba Mentality.\u201d The creator expresses personal admiration for the piece and its representation of Bryant\u2019s development.",
           "key_points": [
-            "Focus on Kobe\u2019s early career (1996\u20112000) when he wore #8.",
-            "Artwork emphasizes his style and the beginnings of his famed work ethic.",
-            "The portrait is one of several in a fan\u2011created \"Lakers Legends Series.\""
+            "Artwork emphasizes Kobe\u2019s early #8 era and emerging confidence.",
+            "The piece is part of a \u201cLakers Legends Series\u201d tribute.",
+            "Creator highlights the visual representation of Bryant\u2019s growing \u201cMamba Mentality.\u201d"
           ],
           "link": "https://www.reddit.com/r/lakers/comments/1u4fnk2/lakers_legends_series_kobe_bryant/",
           "source": "Reddit r/lakers",
           "published": "2026-06-13T03:07:36+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "43f18225c92c",
-          "title": "Lakers would be tolerating obvious problem by re-signing LeBron James",
-          "original_title": "Lakers would be tolerating obvious problem by re-signing LeBron James - Lake Show Life",
-          "summary": "An opinion piece argues that re\u2011signing LeBron James would mean the Lakers are accepting a known issue, presumably related to his age, health, or contract impact. The article suggests the team should consider alternatives rather than extending James\u2019s tenure.",
-          "key_points": [
-            "The author views LeBron\u2019s potential re\u2011signing as a concession to a problem.",
-            "Concerns likely involve his advancing age and large contract demands.",
-            "The piece urges the Lakers to explore other roster options."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNGRHdEhiLUVmQWdZelVLU0Rub1JtSnplQWFwY1lIVEZSczNSaHhnNEdRSUliSWxlbzBGaTF4LW1wa2F2YXBVYk55ZFdDc3hiRnM5a1ZpT3ZReTBKSmh4Q3FMUjZMUU42ME5TZDV6MWVpWHA5LVJLei1HVGVHMzNxcUJXMEJKUFFJaV9CM0NnWjA3QXY5TEFOcFFB?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-06-13T02:00:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "e3366acd1940",
-          "title": "LeBron's Free Agency Primer",
-          "original_title": "LeBron's Free Agency Primer",
-          "summary": "A Reddit post outlines the free\u2011agency landscape for LeBron James, listing teams with cap space, likely destinations, and financial considerations. It notes the Lakers as probable re\u2011signers, while highlighting teams unlikely to sign him and possible contenders.",
-          "key_points": [
-            "Lakers have cap space and are the most likely team to re\u2011sign LeBron.",
-            "Teams like the Bulls and Nets have full mid\u2011level exceptions, limiting their ability to sign him.",
-            "Contending teams such as the Spurs and Clippers are mentioned as potential, though less probable, destinations."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1u4dskf/lebrons_free_agency_primer/",
-          "source": "Reddit r/lakers",
-          "published": "2026-06-13T01:36:08+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "4d2fa6daa775",
-          "title": "Lakers Receive Trade Path to 25\u2011Year\u2011Old Rising Superstar After Major Report",
-          "original_title": "Lakers Receive Trade Path to 25-Year-Old Rising Superstar After Major Report - heavy.com",
-          "summary": "Heavy.com reports that the Los Angeles Lakers have been presented with a trade opportunity involving a 25\u2011year\u2011old emerging star, following a significant scouting or analytics report. The article hints at a possible roster move but provides few details.",
-          "key_points": [
-            "A trade scenario targeting a 25\u2011year\u2011old rising talent has been identified for the Lakers.",
-            "The opportunity emerged after a major internal report or external analysis.",
-            "Specific player names and trade terms were not disclosed in the brief."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdkFrMkxJcXNqVXJsR1ZxajZrSVdBY2xDNWM4UlhGaG5OUFloT3RRUTg4TVVsZGxXTzRQY0JxZDkxcDVKMkxHWDdkLTByQ2lvT0tuZm5uWjUyblM3dGFtb0s4VzJTTHhlR2I5Nk0xZUhJZ0xzdGo3R2RUZWljLVBfV213UHpFQURoUzVoUg?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-06-13T01:19:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "bcdac4d4469a",
-          "title": "Lakers' Cap\u2011Space Misstatement Gains Wider Scrutiny",
-          "original_title": "Lakers' ugly cap space lie is beginning to gain mainstream attention - Lake Show Life",
-          "summary": "A recent report highlights that the Los Angeles Lakers have been presenting inaccurate information about their salary\u2011cap flexibility. The discrepancy is now attracting attention beyond niche fan sites, prompting questions about the franchise\u2019s financial transparency.",
-          "key_points": [
-            "The Lakers allegedly misrepresented the amount of cap space available for free\u2011agency moves.",
-            "The issue is being discussed in mainstream media, not just fan blogs.",
-            "Potential implications include reduced flexibility in acquiring or retaining players."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb1pNeGRoaERJY3NPSmJ4TWRORVlXemxvUXh0OWcwbVIySU9IRVhsS3d1QUVGekNfRUVKV29BdGtwRlN0di1XSkx0djBGbVNWbVJWZ19rVi1aS3JlNTRLcWlGRjJXd3ZJWmdrMjZySkdKc2tCT3dDWXd0TER1X0tJc0lSb09QakxfRzk3Um5VdDJvOTlNMnhR?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-06-13T01:00:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "09ecabbc66d8",
-          "title": "Lakers Completed Their Third Straight Title with Nets Sweep 24 Years Ago",
-          "original_title": "24 years ago today, Lakers sweep the Nets and win their 3rd straight NBA championship.",
-          "summary": "A Reddit post commemorates the anniversary of the Los Angeles Lakers' 2002 NBA Finals sweep of the New\u202fYork Nets, which secured the franchise\u2019s third consecutive championship. The reminder serves as a nostalgic look back at the early\u20112000s dynasty.",
-          "key_points": [
-            "The Lakers swept the Nets 4\u20110 in the 2002 NBA Finals.",
-            "The victory marked the team\u2019s third straight championship (2000\u20112002).",
-            "The post reflects fan pride and historical appreciation for that era."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1u4c0ix/24_years_ago_today_lakers_sweep_the_nets_and_win/",
-          "source": "Reddit r/lakers",
-          "published": "2026-06-13T00:10:18+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "ad53471f1412",
-          "title": "Lakers Benefit from Moving On From Kennard and Hachimura",
-          "original_title": "Lakers should feel great about ditching Luke Kennard and Rui Hachimura - Lake Show Life",
-          "summary": "Lake Show Life argues that the Los Angeles Lakers are better off after trading away shooting guard Luke\u202fKennard and forward Rui\u202fHachimura. The article suggests the roster moves free up cap space and open opportunities for more impactful acquisitions.",
-          "key_points": [
-            "Both Kennard and Hachimura were dealt in recent roster\u2011shaping moves.",
-            "The trades create additional salary\u2011cap flexibility for the Lakers.",
-            "Analysts view the departures as a positive step toward a more competitive lineup."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZHBVQnRyblVESUM3b290c3Q1cjhoZ0wzaHdmbmlraExxUm43c3FoaGZVLWVjQXhLQTJQajlkTXF5V1RBTEgzVWUyRm1jUWQtZVNwc3c2dTVvNHZ4SDVZTUtBbmtQU1c2NGViRnlacVVWTWV5NENyRlVOcmtKMjdESEk1SVhSNFF3em9XZjJiQ25mR2VmMzZZMnBvbw?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-06-13T00:00:01+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "f4a5ea9c4313",
-          "title": "Trade Links 2020 Champion with Luka\u202fDoncic in Three\u2011Point Shootout",
-          "original_title": "Lakers Trade Pitch Reunites 2020 Champ, Pairs 3-Pt Sniper With Luka Doncic - heavy.com",
-          "summary": "Heavy.com reports on a recent trade that reunites a member of the 2020 Lakers championship team with Dallas Mavericks star Luka\u202fDoncic, pairing a proven three\u2011point shooter with the young superstar. The move is positioned as a potential boost for Dallas while highlighting the Lakers\u2019 continued roster turnover.",
-          "key_points": [
-            "A former 2020 Lakers champion was traded to the Dallas Mavericks.",
-            "The player is known for his three\u2011point shooting ability and will join Luka\u202fDoncic.",
-            "The trade underscores the Lakers\u2019 ongoing strategy of moving veteran assets."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaUhCSlJqR19HSTVQOFpDcTdMNS1ZMWdfUWV5X2plRmFTT0NyMU83Q1RmSWRiVTNvd0VYeU9rXzZuN0N5VDRRbXJJYVRwZW85Y3pXb0hVVG0wdmtTcFZUVXlXVU5LNFk1LVU3S2ZyOWRYbEE1S3N6SlRFa0lENGswRURzV2NsWDhVQ3VaM1pjb3V0SWd2VEE?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-06-12T23:40:11+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "df3eaa07fb40",
-          "title": "Magic Johnson Outlines Urgent Steps for Lakers' Future",
-          "original_title": "Magic Johnson Reveals What Lakers Must Do Before It\u2019s Too Late - Sports Illustrated",
-          "summary": "In a Sports Illustrated interview, former Lakers legend Magic Johnson outlines the actions the franchise must take to remain competitive, emphasizing roster construction, cap management, and organizational stability. Johnson warns that delays could jeopardize the team\u2019s chances of returning to championship contention.",
-          "key_points": [
-            "Johnson stresses the need for smart free\u2011agency signings and draft development.",
-            "He highlights the importance of maintaining cap flexibility and avoiding long\u2011term contracts that hinder flexibility.",
-            "The former star warns that inaction could cause the Lakers to fall further behind Western Conference rivals."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb2xjUmNyZjhLX1cwdXR4ZjMxVU9kUUlWLUF0MFVySjBrQVR5VkQ1TnprbnFEMEpRQmtEX3VmMFVOd0Z4ZWFpUkpYYTBJVUg3SW5yZHktbXRfdG4zN0c0djltal80Vjg4cDZYczByWkdYQjAzb18zUmNuUS1SLW8yUjJB?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-06-12T23:09:41+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -161,14 +86,44 @@
       "name": "NBA League News",
       "articles": [
         {
+          "id": "fc8c7bf3af74",
+          "title": "Cavs Final Report Card: Nae\u2019Qwan Tomlin\u2019s Breakout Season",
+          "original_title": "Cavs final report card: Nae\u2019Qwan Tomlin",
+          "summary": "Nae\u2019Qwan Tomlin turned a two\u2011way contract into a full\u2011scale NBA deal, delivering a season that exceeded expectations. His growth on both ends of the floor earned him a standard contract and solidified his role with Cleveland.",
+          "key_points": [
+            "Started the year on a two\u2011way deal and earned a standard NBA contract.",
+            "Provided consistent scoring and defensive effort off the bench.",
+            "Recognized by the Cavs as a key piece for future roster planning."
+          ],
+          "link": "https://sports.yahoo.com/articles/cavs-final-report-card-nae-100000808.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-06-13T10:00:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "01a91c44bce6",
+          "title": "Game 5 Preview: Spurs Seek Redemption vs. Knicks",
+          "original_title": "Game Five Preview: San Antonio Spurs vs. New York Knicks",
+          "summary": "The San Antonio Spurs aim to bounce back from a crushing loss as they head into Game 5 against the New York Knicks, with their playoff survival hanging in the balance. The preview highlights the stakes and adjustments each team must make.",
+          "key_points": [
+            "Spurs are facing elimination and need a win to stay alive.",
+            "Knicks look to capitalize on home\u2011court advantage and momentum.",
+            "Coaches are expected to tweak lineups and defensive schemes after Game 4."
+          ],
+          "link": "https://sports.yahoo.com/articles/game-five-preview-san-antonio-070000175.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-06-13T07:00:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
           "id": "f67358fffa54",
-          "title": "Knicks Edge Closer to Title as NBA Finals Shift to Road Game 5",
+          "title": "Knicks Near Championship While Brazil Faces Morocco in World Cup",
           "original_title": "A dream day for New York fans with Knicks on the road to clinch and Brazil vs. Morocco in World Cup",
-          "summary": "The New York Knicks are on the brink of clinching the NBA championship as Game 5 of the Finals moves to the opponent\u2019s arena. The article notes the contrast between the excitement in New York and the concurrent World Cup match between Brazil and Morocco.",
+          "summary": "New York fans have a reason to celebrate as the Knicks edge toward an NBA Finals clinch, coinciding with Brazil's World Cup clash against Morocco. The article notes the excitement in the city despite the chaos expected on Saturday.",
           "key_points": [
             "Knicks are one win away from securing the NBA title.",
-            "Game 5 will be played on the road, giving the Knicks a chance to close out the series away from home.",
-            "The piece briefly mentions the Brazil\u2011Morocco World Cup match as a separate sports highlight."
+            "Brazil vs. Morocco is a high\u2011profile World Cup match taking place the same day.",
+            "The dual sporting events create a festive yet hectic atmosphere in New York."
           ],
           "link": "https://sports.yahoo.com/articles/dream-day-york-fans-knicks-040345550.html",
           "source": "Yahoo Sports NBA",
@@ -176,14 +131,44 @@
           "topic": "NBA League News"
         },
         {
+          "id": "20b807bc95b2",
+          "title": "Jalen Brunson Embraces the Pressure Ahead of Game 5",
+          "original_title": "Jalen Brunson isn\u2019t afraid of the massive Knicks moment that awaits him in Game 5",
+          "summary": "After orchestrating a 29\u2011point comeback in Game 4, Jalen Brunson remains confident heading into the decisive Game 5, acknowledging the massive moment awaiting him. He stresses focus and preparation rather than fear.",
+          "key_points": [
+            "Brunson delivered a record\u2011setting performance in Game 4.",
+            "He emphasizes mental readiness for the pivotal Game 5.",
+            "Knicks rely heavily on his leadership to close out the series."
+          ],
+          "link": "https://sports.yahoo.com/articles/jalen-brunson-isn-t-afraid-034606074.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-06-13T03:46:06+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "941cfe2dd897",
+          "title": "Jayson Tatum Talks How He Stays Engaged Watching Knicks in the Finals",
+          "original_title": "Jayson Tatum reveals how he\u2019s getting through watching Knicks in NBA Finals",
+          "summary": "Boston Celtics star Jayson Tatum reveals that he enjoys watching the Knicks' play during the NBA Finals, describing it as \u201cgood basketball\u201d that keeps him entertained during the offseason. He highlights the quality of the competition as a positive aspect.",
+          "key_points": [
+            "Tatum finds the Knicks' performance entertaining and educational.",
+            "He appreciates the high level of play in the Finals despite being a rival.",
+            "The experience adds value to his offseason routine."
+          ],
+          "link": "https://sports.yahoo.com/articles/jayson-tatum-reveals-getting-watching-033307736.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-06-13T03:33:07+00:00",
+          "topic": "NBA League News"
+        },
+        {
           "id": "8e14df7bcc75",
-          "title": "Mike Brown Faces Final Knicks Question with Title Within Reach",
+          "title": "Mike Brown Faces One More Knicks Question as Title Nears",
           "original_title": "Mike Brown has one more Knicks question to answer with title in reach",
-          "summary": "Head coach Mike Brown, who has not won a championship and last won a playoff series in 2012, is under pressure to answer one more lingering question as the Knicks approach the NBA Finals. The article emphasizes his limited postseason success despite the team's current run.",
+          "summary": "Mike Brown has never captured an NBA championship as a head coach, and his last playoff series win came in 2012. As his team approaches a potential title, the lingering question is whether he can finally break his postseason drought against the Knicks.",
           "key_points": [
             "Brown\u2019s coaching r\u00e9sum\u00e9 lacks a championship and a playoff series win since 2012.",
-            "The Knicks are now in a position to win the title, putting Brown\u2019s legacy on the line.",
-            "Media scrutiny focuses on whether Brown can deliver a championship with New York."
+            "The upcoming series against the Knicks could be his first chance to win a title.",
+            "Media focus is on whether Brown can finally deliver postseason success."
           ],
           "link": "https://sports.yahoo.com/articles/mike-brown-one-more-knicks-032001976.html",
           "source": "Yahoo Sports NBA",
@@ -192,13 +177,13 @@
         },
         {
           "id": "d47d6bbba42c",
-          "title": "Shaquille O\u2019Neal Says Victor Wembanyama Isn\u2019t the NBA\u2019s New Face Yet",
+          "title": "Shaquille O\u2019Neal Says Victor Wembanyama Isn\u2019t the NBA\u2019s New Face\u2014Yet",
           "original_title": "Shaquille O\u2019Neal tells The Post why Victor Wembanyama isn\u2019t the new face of the NBA \u2014 yet",
-          "summary": "Shaquille O\u2019Neal explained to The Post that while Victor Wembanyama is a remarkable talent, he is not yet the league\u2019s marquee player. The discussion touches on the hype surrounding Wembanyama and the criteria for becoming the NBA\u2019s leading figure.",
+          "summary": "Shaquille O\u2019Neal explained to The Post that while Victor Wembanyama generates buzz, he isn\u2019t ready to be the league\u2019s marquee player. The discussion highlights the gap between hype and the proven marketability of established stars.",
           "key_points": [
-            "O\u2019Neal acknowledges Wembanyama\u2019s skill but argues he hasn\u2019t earned the league\u2019s top spotlight.",
-            "The conversation highlights the gap between potential and proven impact on the NBA stage.",
-            "Media speculation about the next NBA face is still ongoing."
+            "Shaq argues Wembanyama has not yet earned the role of NBA\u2019s primary face.",
+            "The conversation reflects broader uncertainty about the league\u2019s next superstar.",
+            "Wembanyama\u2019s quiet stance on the topic fuels speculation about his future branding."
           ],
           "link": "https://sports.yahoo.com/articles/shaquille-o-neal-tells-post-022903958.html",
           "source": "Yahoo Sports NBA",
@@ -207,13 +192,13 @@
         },
         {
           "id": "073d4bb93675",
-          "title": "Wembanyama\u2019s Physical Condition Looms Over NBA Finals Game 5",
+          "title": "Physicality Concerns Loom Over Wembanyama in NBA Finals Game 5",
           "original_title": "Flagrants? Fatigue? Why Victor Wembanyama's physicality issue looms large over NBA Finals",
-          "summary": "The article examines concerns about Victor Wembanyama\u2019s ability to play with his usual physicality in Game 5 of the NBA Finals. His health and stamina are identified as the biggest variables that could affect the series outcome.",
+          "summary": "Victor Wembanyama\u2019s ability to play with his usual physical intensity is a major question heading into Game 5 of the NBA Finals. His health and stamina could heavily influence the series outcome.",
           "key_points": [
-            "Wembanyama\u2019s fatigue and possible injuries raise doubts about his performance level.",
-            "Game 5\u2019s result may hinge on whether he can compete at his typical intensity.",
-            "The issue is framed as a pivotal factor for both teams in the championship series."
+            "Wembanyama has shown signs of fatigue and possible injury issues.",
+            "Game 5 will test whether he can maintain his typical level of physical play.",
+            "The series may hinge on his availability and effectiveness on both ends of the court."
           ],
           "link": "https://sports.yahoo.com/nba/article/flagrants-fatigue-why-victor-wembanyamas-physicality-issue-looms-large-over-nba-finals-015813215.html",
           "source": "Yahoo Sports NBA",
@@ -222,13 +207,13 @@
         },
         {
           "id": "5451777805cb",
-          "title": "Spurs Aim to Force Game 6 and Prevent Knicks Coronation in San Antonio",
+          "title": "Spurs Aim to Bounce Back and Force Game 6, Staving Off Knicks Coronation",
           "original_title": "Will Spurs rebound to force Game 6, avoid a Knicks coronation in San Antonio?",
-          "summary": "The San Antonio Spurs, known for their resilience throughout the playoffs, face the challenge of bouncing back after a recent loss to keep the Knicks from clinching the title at home. The article underscores the difficulty of rebounding on such a big stage.",
+          "summary": "The San Antonio Spurs have displayed resilience throughout the playoffs, but overcoming a recent loss to the Knicks on such a big stage presents a new challenge. A win would push the series to Game 6 and prevent a Knicks celebration in San Antonio.",
           "key_points": [
-            "Spurs must win to extend the series and avoid a Knicks championship on their court.",
-            "Their playoff resilience is highlighted, but the stakes are higher than previous rounds.",
-            "A victory would set up a decisive Game 6 in San Antonio."
+            "Spurs have been one of the toughest teams in the postseason so far.",
+            "A victory would extend the series and deny the Knicks a home\u2011court coronation.",
+            "The matchup tests the Spurs\u2019 ability to respond under heightened pressure."
           ],
           "link": "https://sports.yahoo.com/articles/spurs-rebound-force-game-6-014320477.html",
           "source": "Yahoo Sports NBA",
@@ -237,77 +222,17 @@
         },
         {
           "id": "e55fa5ee0c7f",
-          "title": "Knicks Rely on Their Greatest Strength with Glory Just One Win Away",
+          "title": "Knicks Lean on Their Greatest Strength With Title Within Reach",
           "original_title": "Knicks relying on their greatest strength with glory just one win away",
-          "summary": "The New York Knicks are positioned just one victory from clinching the NBA championship, and the team believes its biggest asset\u2014its collective resilience and depth\u2014will carry them across the finish line. Coach and players emphasize staying focused on execution rather than the magnitude of the moment.",
+          "summary": "The New York Knicks are just one win away from a championship, and they are relying on their most reliable asset\u2014team cohesion and defensive grit. The narrative emphasizes that the title is within arm\u2019s reach if they maintain focus.",
           "key_points": [
-            "Knicks need one more win to secure the title.",
-            "Team confidence centers on depth, defense, and veteran leadership.",
-            "Coaching staff stresses disciplined play over hype."
+            "Knicks\u2019 primary advantage is their collective defensive identity.",
+            "They are positioned one victory away from securing the championship.",
+            "Maintaining intensity and execution is highlighted as the final hurdle."
           ],
           "link": "https://sports.yahoo.com/articles/knicks-relying-greatest-strength-glory-012922762.html",
           "source": "Yahoo Sports NBA",
           "published": "2026-06-13T01:29:22+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "3a1756fd50c9",
-          "title": "NBA Finals Incident: Content Creator\u2019s Provocation Leads to Teen\u2019s Coma After Game 4",
-          "original_title": "NBA Finals: Knicks argument allegedly leads to 17-year-old getting beaten into coma after Game 4; NYPD seeks suspect",
-          "summary": "Police allege that a social\u2011media content creator sparked a confrontation that escalated into a violent assault, leaving a 17\u2011year\u2011old in a coma following Game 4 of the NBA Finals. The NYPD is actively searching for the suspect involved in the incident.",
-          "key_points": [
-            "A content creator is accused of inciting a brawl after Game 4.",
-            "The altercation resulted in a 17\u2011year\u2011old being beaten and placed in a coma.",
-            "NYPD has opened an investigation and is seeking the alleged perpetrator."
-          ],
-          "link": "https://sports.yahoo.com/nba/article/nba-finals-knicks-argument-allegedly-leads-to-17-year-old-getting-beaten-into-coma-after-game-4-nypd-seeks-suspect-011416588.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-13T01:14:16+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "8aec000e708e",
-          "title": "OG Anunoby Celebrates Historic Knicks Moment Amid NBA Title Hopes",
-          "original_title": "OG Anunoby soaking in historic Knicks moment as NBA title chance awaits",
-          "summary": "Toronto Raptors forward OG Anunoby was inundated with congratulatory messages after the Knicks secured a pivotal win that keeps their championship aspirations alive. He reflected on the significance of the moment while monitoring the flood of texts on his phone.",
-          "key_points": [
-            "Anunoby received an overwhelming number of messages after the Knicks' win.",
-            "The victory maintains the Knicks' chances of competing for the NBA title.",
-            "Anunoby highlighted the historic nature of the team's achievement."
-          ],
-          "link": "https://sports.yahoo.com/articles/og-anunoby-soaking-historic-knicks-003315172.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-13T00:33:15+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "a30dbb1e7340",
-          "title": "Knicks\u2011Spurs Finals Surge to Highest Ratings Since 1998",
-          "original_title": "Knicks-Spurs Finals surge to ratings heights not seen since 1998",
-          "summary": "Viewership for the Knicks\u2011Spurs NBA Finals series peaked during Game Four, reaching ratings not seen since the 1998 Finals. The 107\u2011106 Knicks victory in Madison Square Garden contributed to the spike, reflecting renewed national interest in the matchup.",
-          "key_points": [
-            "Game Four drew the highest NBA Finals ratings since 1998.",
-            "Knicks edged the Spurs 107\u2011106 in a tightly contested game.",
-            "The surge indicates growing fan engagement with the 2026 Finals."
-          ],
-          "link": "https://sports.yahoo.com/articles/knicks-spurs-finals-surge-ratings-001605213.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-13T00:16:05+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "c2b32bb44017",
-          "title": "Knicks vs. Spurs Prediction, Picks & Odds for NBA Finals Game 5",
-          "original_title": "Knicks vs Spurs Prediction, Picks & Odds for NBA Finals Game 5",
-          "summary": "Analysts provide betting insights and predictions for Game 5 of the NBA Finals, highlighting Karl\u2011Anthony Towns as a key performer for the Knicks. The preview includes odds, potential outcomes, and strategic factors influencing the matchup on June 13.",
-          "key_points": [
-            "Predictions focus on Karl\u2011Anthony Towns' scoring impact for the Knicks.",
-            "Odds and picks are outlined for bettors ahead of Game 5 on June 13.",
-            "Analysis covers matchups and strategies that could decide the series."
-          ],
-          "link": "https://sports.yahoo.com/articles/knicks-vs-spurs-prediction-picks-175600526.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-13T00:01:00+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -317,89 +242,43 @@
       "articles": [
         {
           "id": "125684864fae",
-          "title": "Lakers Need to Decide on Austin Reaves as Free\u2011Agency Interest Grows",
+          "title": "Lakers\u2019 Plan for Austin Reaves Should Be Clear With Suitors Emerging Ahead of Free Agency - Sports Illustrated",
           "original_title": "Lakers\u2019 Plan for Austin Reaves Should Be Clear With Suitors Emerging Ahead of Free Agency - Sports Illustrated",
-          "summary": "Sports Illustrated reports that the Los Angeles Lakers must clarify their long\u2011term plan for guard Austin Reaves before the free\u2011agency market opens. Several teams are reportedly courting Reaves, putting pressure on the Lakers to either lock him up with a new contract or risk losing him in free agency.",
-          "key_points": [
-            "Reaves has emerged as a valuable two\u2011way player for the Lakers this season.",
-            "Multiple franchises are showing interest, indicating his market value is rising.",
-            "The Lakers are expected to make a decisive move on his contract before the free\u2011agency period begins."
-          ],
+          "summary": "Lakers\u2019 Plan for Austin Reaves Should Be Clear With Suitors Emerging Ahead of Free Agency&nbsp;&nbsp;Sports Illustrated",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUmNKUzJ1aVg2QTJTWXRYSmVwQVY0djdOSjVVdmwxM1dFX2M5RlFRWDk5ZXdodWxWdnVEX3ZQOGxraU5ndDFiclduUEhscjhUWlNzc2poUTUxMmdJQVhnMzhkczg2Q2pIS1RxNTFkX1lsdnFSVnFJM3N0UnJWUlJ2LWx5T2xkRVVaSmgxb1pRdVVIdHZX?oc=5",
           "source": "Google News - Luka",
           "published": "2026-06-13T03:48:34+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "7b0f410e45aa",
-          "title": "Isiah\u202fThomas Says Players Are \u2018Jealous\u2019 of LeBron James",
-          "original_title": "NBA legend Isiah Thomas calls out players for being \u2018jealous\u2019 of LeBron James - Yahoo Sports",
-          "summary": "Yahoo Sports relays former NBA star Isiah Thomas\u2019 comments that some players express jealousy toward LeBron James\u2019 sustained success and influence. Thomas argues the criticism leveled at James often stems from envy rather than legitimate on\u2011court concerns.",
-          "key_points": [
-            "Thomas attributes negative commentary about James to jealousy, not performance.",
-            "He highlights James\u2019 continued relevance and leadership in the league.",
-            "The remarks add to the ongoing debate about James\u2019 legacy and media scrutiny."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSjA0cGFNQnFYZ2NQQmNHY2k1WktvaC14RW1JZm1MV0R2bG1fZ0E2aTk4eWtqb2FTUUE1LXJPdEEybkdwU1h3OUNVaHZfRlRocDhjS2praWk5a3pUVzBBVlZJSFdsUk9PbTFaU0EtbThlOFZWUnZsWWtUcmh3VzQxZG1sRVU?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-06-13T03:30:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "76ce0d7a263b",
-          "title": "Lakers Fans Vocal About Wanting LeBron James to Return Next Season",
-          "original_title": "Lakers fans want LeBron James back next season - Silver Screen and Roll",
-          "summary": "Silver Screen and Roll notes a growing chorus of Lakers supporters urging the organization to keep LeBron James for the 2025\u201126 season. Fans cite his on\u2011court production, leadership, and marketability as reasons to retain the superstar.",
-          "key_points": [
-            "Fan sentiment is strongly in favor of extending James\u2019 tenure with the team.",
-            "Supporters point to his role in maintaining the Lakers\u2019 competitive profile.",
-            "The public pressure adds another factor for the front office as it evaluates roster moves."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbnFibWVYaUJtTzkzOFQ3bjB2YVZITERKSU12aklYcW5rLTdra0RJM3hpZTVyTUFQRHRac2ZOX2o3by1GMTdjSk9kZVJ0M19ZZm03WXBWWEhYdEFfNGVaVUt4X2lxYTF2emdycVBUWF9VZG9ETExzVlExY0NOOUlmSFNaTllrOXV3bkJBTUF4YldieGJKdC1jazNrRGFXRzVSX1JHVEtFUEI5bUptbGhLU3huSERJRFlTYzl0dGp1al9QZw?oc=5",
+          "id": "05bf19258c99",
+          "title": "Lakers fans want LeBron James back - Yahoo Sports",
+          "original_title": "Lakers fans want LeBron James back - Yahoo Sports",
+          "summary": "Lakers fans want LeBron James back&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbjdfeTNKNUh1M0JyZW5XRlZsMDYwNHFBQlpDVUM0SEpucUE2aE4xM3pOcG1zaDVrcWZpbjRuYXlaeUZncHFDb1RldkJnWDFORnVRWkRXdXFRbVY1SGJGUzVteGh6dl8yVTlVSThxVjNmTndRYkdhaU05a0JSMUx3NEU2MW0?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-06-12T22:02:56+00:00",
           "topic": "Lakers Players"
         },
         {
           "id": "ef8f6cb6c6a4",
-          "title": "Lakers Downplay Defensive Concerns Over Luka\u2011Doncic/Austin Reaves Backcourt",
+          "title": "Lakers Reportedly Believe Defensive Concerns Of Luka Doncic-Austin Reaves Backcourt Are 'Overstated' - Lakers Nation",
           "original_title": "Lakers Reportedly Believe Defensive Concerns Of Luka Doncic-Austin Reaves Backcourt Are 'Overstated' - Lakers Nation",
-          "summary": "Lakers Nation reports that the organization believes the defensive worries surrounding a potential Luka\u202fDoncic\u2011Austin\u202fReaves pairing are exaggerated. Internal assessments suggest the duo could be effective defensively with proper scheme adjustments.",
-          "key_points": [
-            "Coaches argue that Reaves\u2019 defensive versatility can complement Doncic\u2019s style.",
-            "The team\u2019s scouting department views the perceived liabilities as manageable.",
-            "Lakers are open to exploring the backcourt combo if it aligns with roster flexibility."
-          ],
+          "summary": "Lakers Reportedly Believe Defensive Concerns Of Luka Doncic-Austin Reaves Backcourt Are 'Overstated'&nbsp;&nbsp;Lakers Nation",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV2hQNzJNcFFrMUJGd2xheUR5MFI1b2IwdzJ1cU1nVkdWVGU2TDZwVzVWMGV5Qlo4cXZFWmlMMmZkYUxndjVBNWpnLWtpVHBpNDhKdGxtTHdscDFCbnNVVzZhWWJCT19oMnY2WFh5eWxRTGxtUEtNdzBLN0JDOXNRZ0tqbk1hQXVNUXBIV3hBdXZXYTVnQl9aX2xybWd0Sm5OcnVsTTJ6Mmp4U19kb2w4SjByeVVxUk1ITFEyX1V1V1dHQQ?oc=5",
           "source": "Google News - Luka",
           "published": "2026-06-12T20:45:32+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "5bfc52340667",
-          "title": "Rich Paul Refutes LeBron James Rumors",
-          "original_title": "Rich Paul addresses rumors about LeBron James - Larry Brown Sports",
-          "summary": "Larry Brown Sports covers agent Rich Paul\u2019s denial of circulating rumors about LeBron James\u2019 future with the Lakers. Paul emphasizes that no official discussions have taken place and that James remains focused on the current season.",
-          "key_points": [
-            "Paul categorically states that trade or free\u2011agency rumors are unfounded.",
-            "James is reportedly concentrating on his performance and team goals.",
-            "The clarification aims to quell speculation ahead of the upcoming offseason."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMmZ6UE1KTDEyVFFaZXlHU3FCcUhjalFHQU5aVldOQzZ6TWIzNTBxTl9pUjlOWjNES28zZ0tPODJLX1RGWlBhV3VhNXRtQkNULUdMYVBwaHhqeWYyZF9JN0hNNmQzblBIV0kyRGdNa1Nzc1cwQ001M1E1VTl2bFNNZVJqQlRMVXFOX1ZmbWJHWQ?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-06-12T20:28:51+00:00",
-          "topic": "Lakers Players"
-        },
-        {
           "id": "2f2952efc35a",
-          "title": "Luka Doncic Highlights Austin Reaves' Lakers Fit",
+          "title": "Luka Doncic makes Lakers' Austin Reaves decision even more obvious - Lake Show Life",
           "original_title": "Luka Doncic makes Lakers' Austin Reaves decision even more obvious - Lake Show Life",
-          "summary": "Luka Doncic's recent comments underscored how well Austin Reaves complements the Los Angeles Lakers' style of play. The discussion points to Reaves' defensive grit and playmaking ability as key reasons the Lakers should retain him.",
-          "key_points": [
-            "Doncic praised Reaves' defensive intensity and basketball IQ.",
-            "Reaves' skill set aligns with the Lakers' need for versatile wing players.",
-            "The remarks make the decision to keep Reaves appear straightforward for the franchise."
-          ],
+          "summary": "Luka Doncic makes Lakers' Austin Reaves decision even more obvious&nbsp;&nbsp;Lake Show Life",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVGNLXzhJbmc2dEUzcHZWMmVoaUFmSWFxUHR5NzN4N1FmaTUzenp5RWp5cDk3blFuVHJpODIxUzNJNDVFSXRSTUtHbi1meUVia21wMTVoYlhmcXZKN1I1THVEOUROYmpUb2pYdU9TU1hLSDlrRFg1ei1ZN21CRHFJN0QtX0VsZXEyMW5aM0xZVVRlUEpX?oc=5",
           "source": "Google News - Luka",
           "published": "2026-06-12T20:25:56+00:00",
@@ -407,14 +286,10 @@
         },
         {
           "id": "94742f18b344",
-          "title": "Isiah Thomas Criticizes Legends Who Exclude LeBron from Top\u20115 Lists",
+          "title": "\u201cGuys Are Jealous\u201d: Isiah Thomas Slams NBA Legends Who Leave LeBron James Out of Their Top 5 - Yahoo Sports",
           "original_title": "\u201cGuys Are Jealous\u201d: Isiah Thomas Slams NBA Legends Who Leave LeBron James Out of Their Top 5 - Yahoo Sports",
-          "summary": "Former NBA star and commentator Isiah Thomas accused several basketball legends of jealousy for omitting LeBron James from their all\u2011time top\u2011five selections. Thomas argued that LeBron's career achievements merit inclusion among the greatest players.",
-          "key_points": [
-            "Thomas called out the perceived bias of the legends.",
-            "He highlighted LeBron's statistical milestones and championship pedigree.",
-            "The remarks sparked debate about how modern players are evaluated against past greats."
-          ],
+          "summary": "\u201cGuys Are Jealous\u201d: Isiah Thomas Slams NBA Legends Who Leave LeBron James Out of Their Top 5&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdW5mR215cW1yVkNEZ19odXRvTWVZTW9SZklTQzY1djZFMGVURUMtZHRzNmxEU2s3M2M1VnB2MXctZUtOX0Z4bkxrVEtZMUYzT1l5dXFweGtmNmNvX1BKZE1Oa3NFTV9VMmVGSjFiQ1lyQVA5Qk1USWtKazRxU21MZWZZNFZjdFE?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-06-12T19:56:47+00:00",
@@ -422,13 +297,13 @@
         },
         {
           "id": "bcd9886ef2ce",
-          "title": "Rich Paul Has Not Discussed LeBron's Future with the Star",
+          "title": "Rich Paul Has Not Yet Discussed LeBron's Future with Him",
           "original_title": "Rich Paul Has Not Yet Had Conversation With LeBron James On Future - Lakers Nation",
-          "summary": "According to Lakers Nation, agent Rich Paul has not yet spoken with LeBron James about his long\u2011term plans with the Los Angeles Lakers. The lack of conversation leaves uncertainty surrounding James' contract status and potential free\u2011agency options.",
+          "summary": "Agent Rich Paul confirmed he has not spoken with LeBron James about the NBA star's long\u2011term plans. The comment comes amid widespread speculation about LeBron\u2019s contract status and potential suitors.",
           "key_points": [
-            "Paul confirmed no formal dialogue about James' future has occurred.",
-            "Speculation continues about possible roster moves and contract extensions.",
-            "The situation adds to the broader offseason uncertainty for the Lakers."
+            "Paul said no conversation about LeBron\u2019s future has taken place yet.",
+            "LeBron remains under contract with the Los Angeles Lakers through the 2024\u201125 season.",
+            "The lack of discussion fuels ongoing rumors about possible moves or extensions."
           ],
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU0tCWE93LTduTld0VVZwWGpKTUxnZUNtQkRMd0g2SXo4MmpWU0dzWDhReHZZaVA0eDE3cHpFXzNlelgybjNCajhfWFozQlF4N3RiLVNObjh6a00tYk10c3FRYmhQMTFoSmMydURiSGtINTFBSUR3WERaNDNadllTczdpeHl0NXN6aHZGaE9FQ3NkaWY3LS1j?oc=5",
           "source": "Google News - LeBron",
@@ -436,14 +311,44 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "ac0d1fec8c13",
-          "title": "10\u201312 Teams Have Expressed Interest in LeBron James, Says Rich Paul",
-          "original_title": "Rich Paul: 10 to 12 teams have called to show interest in LeBron James - USA Today",
-          "summary": "USA Today reports that Rich Paul disclosed 10 to 12 NBA franchises have reached out to gauge LeBron James' availability. The interest reflects James' continued marketability and on\u2011court impact despite his age.",
+          "id": "2bb8e573777f",
+          "title": "Analyst Says LeBron Won\u2019t Join Spurs, Finals Outlook Shifts",
+          "original_title": "\u2018LeBron James Is Not Walking Through That Door\u2019 \u2013 NBA Analyst Warns Spurs That NBA Finals vs. Knicks Are Over - PFSN",
+          "summary": "An NBA analyst warned the San Antonio Spurs that a potential LeBron James acquisition is unrealistic, suggesting the team's chances of reaching the NBA Finals against the New York Knicks are effectively over. The comment reflects the broader perception that LeBron is unlikely to change teams this season.",
           "key_points": [
-            "Multiple teams across the league are exploring trade or free\u2011agency scenarios.",
-            "Paul emphasized that no concrete offers have been made yet.",
-            "The outreach underscores James' value as a franchise cornerstone."
+            "Analyst asserts LeBron is not \u201cwalking through that door\u201d to join the Spurs.",
+            "Spurs' prospects of a Finals matchup with the Knicks are deemed unlikely.",
+            "The statement underscores the expectation that LeBron will stay with the Lakers."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN2VJM3VTRTJvdU5WdWVmVlBiRy1Mdy0xZHBiblE1amxtS0lsZGk3b2Uyem1MZ0tBbGxfQnFHLThEUEZVQ0JBQW01b0N4S192RWs2MGNUaHo1Rmw4enVvbXpCYl9UUHJlVUhCMGZjMERRTHhQOWFVR2lnMDlWdkt4TjE2akk2Vjh6Yl9jbWtENElEZ2piSmJsS2VtX3NtMW9LeG5YcVRhRDhpT1BRNW95QQ?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-06-12T18:43:27+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "e510752db48e",
+          "title": "Rich Paul Reveals LeBron\u2019s Free\u2011Agency Market Amid Lakers, Warriors Rumors",
+          "original_title": "LeBron James' NBA Free Agency Market Revealed by Rich Paul amid Lakers, Warriors Rumors - Bleacher Report",
+          "summary": "Rich Paul outlined the scope of interest in LeBron James, noting multiple teams have inquired about the veteran star as free agency approaches. While the Lakers and Warriors dominate headlines, Paul indicated a broader pool of potential destinations.",
+          "key_points": [
+            "Paul disclosed that 10\u201112 NBA teams have shown interest in LeBron.",
+            "Lakers and Warriors are the most frequently mentioned suitors.",
+            "No formal offers have been made; discussions remain exploratory."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQUx5Rkd1djlpWlBVTS1rUS1Ld3pERjhZU290UU5XdUltMEExNkp1eExSOUczYTM0ejVITE1zcjdXdjNHbjJCM3RFNVlobUI1c0pWdjFWV0RpQ0V0N2E2VDdaUUliUU9zUUtFdE9xczZCcC1aZGRueWhveWZNTmFKQkZTWjU2NUdUMl9PcEpBTmRtTmJxUVU2TDNCMjlhQXBqM2tQbXluckUtR1hvRy1jNzIzTllPTTlmRklPX0lRZGF6T0Fnd3c?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-06-12T18:28:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "ac0d1fec8c13",
+          "title": "10\u201112 Teams Have Contacted LeBron\u2019s Camp, Says Rich Paul",
+          "original_title": "Rich Paul: 10 to 12 teams have called to show interest in LeBron James - USA Today",
+          "summary": "In a USA Today interview, agent Rich Paul confirmed that between ten and twelve franchises have reached out to gauge LeBron James\u2019s interest. The outreach reflects LeBron\u2019s continued relevance as a marquee player despite his age.",
+          "key_points": [
+            "Paul quantified the level of league\u2011wide interest: 10\u201112 teams.",
+            "Calls have been primarily exploratory, with no commitments.",
+            "LeBron\u2019s contract with the Lakers runs through the 2024\u201125 season."
           ],
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOckZJWE9MeVpPX1M1YnZxdFowQVprQTMwbEM0X0ZKNEtJTlpLUEZzcXVRcjRDaVNKWkZqTUQ4NnVmOEh0VF8yREFlMnJKaV8wZzFrMmUySjdTZm90QVFERDBwTW5LRkRpcnlRTThzN1lBeFVkaHRyT2pHTVpIVk1RSWdCUk5INVZfRlVUTC0tX0ZsbXUtU2Nfem5WU0NQYlYxLTVTRUJicXlZQ3NWS2JEMFJzeXJiY3FpbWhINUFlcXlDdzdWbktoQXhSVVpBZUxL?oc=5",
           "source": "Google News - LeBron",
@@ -451,18 +356,18 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "5c1eb72e8f75",
-          "title": "Over Ten Teams Show Interest in LeBron James",
-          "original_title": "More than 10 teams interested in LeBron James - BasketNews.com",
-          "summary": "BasketNews.com confirms that more than ten NBA clubs have indicated interest in acquiring LeBron James. The reports align with earlier statements from his agent and suggest a potentially active offseason for the veteran forward.",
+          "id": "04e633665497",
+          "title": "Jokic\u2019s Friend Weighs In on Potential Lakers\u2011Luka Doncic Pairing",
+          "original_title": "Nikola Jokic Friend Addresses Chances of Lakers\u2019 Luka Doncic Team-Up - heavy.com",
+          "summary": "A close associate of Nikola Jokic commented on the speculative scenario of Luka Don\u010di\u0107 joining the Los Angeles Lakers. While acknowledging the intrigue, the source noted that numerous factors, including cap space and roster fit, make the partnership uncertain.",
           "key_points": [
-            "Interest spans both Western and Eastern Conference teams.",
-            "LeBron remains a high\u2011profile target despite nearing the end of his career.",
-            "No formal negotiations have been reported at this stage."
+            "The comment came from a friend of Jokic, not the player himself.",
+            "A Lakers\u2011Don\u010di\u0107 combo is considered unlikely due to salary\u2011cap constraints.",
+            "No concrete negotiations have been reported; the idea remains speculative."
           ],
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN2pmNkVkSG9GLXlUc0M2NFlSa1QwUWM3bTdtd3hjVC1BQmRPcEM4UXJaZWF2dGZlRzA3SlVHeUMtZ2dKcmQ4ZEhvWkdVOTNvTVNtVnpTejk5aVRvdGFnbWc2ajQtc3BITVBfRXg2aFg1QWhYRlJUNlU4elA2U0J3NzI2Nmx3TVFsYllVNS1n?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-06-12T17:32:27+00:00",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOEQwTmpvS2NVUFZMMjdsNlhkWURERWV3VFJpRWxCSm92WGxjLWsxWnZOQ0hNVEY1Y0JETGZoNFRkN3p1ckZ1MkRnd2NwZTRCQ2ZXRnJ1QW9nSHZIa3FfVl9OSjI4a0txa0xjRXZERkVLV2xPREZPdGxXb0lsUl9mQnBQenQ5Ym5YV1FCX2xfLTNMX3Jw?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-06-12T16:46:32+00:00",
           "topic": "Lakers Players"
         }
       ]
