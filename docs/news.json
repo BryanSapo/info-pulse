@@ -1,16 +1,95 @@
 {
-  "generated_at": "2026-06-14T12:07:24.349221+00:00",
+  "generated_at": "2026-06-14T14:30:29.236820+00:00",
   "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
+          "id": "345d433e82ef",
+          "title": "Isiah Thomas Calls LeBron James Haters \u2018Jealous\u2019",
+          "original_title": "Lakers News: Isiah Thomas Calls LeBron James Haters \u2018Jealous\u2019",
+          "summary": "LeBron James is reportedly still undecided about his future in the NBA. Should he choose to retire, he will leave the league as the most statistically accomplished player in history, with his name etched across the record books.",
+          "key_points": [
+            "LeBron James is weighing retirement versus continuing his career.",
+            "If he retires, he will hold numerous all\u2011time statistical records.",
+            "Former NBA star Isiah Thomas labeled critics of James as \"jealous.\""
+          ],
+          "link": "https://lakersnation.com/lakers-news-isiah-thomas-calls-lebron-james-haters-jealous/",
+          "source": "Lakers Nation",
+          "published": "2026-06-14T14:20:35+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "3a6b6900d31d",
+          "title": "Jamaal Wilkes: The Story Behind Lakers\u2019 No.\u202f52 Jersey",
+          "original_title": "Lakers jersey history No. 52 \u2014 Jamaal Wilkes - Yahoo Sports",
+          "summary": "Yahoo Sports provides a retrospective on former Laker forward Jamaal Wilkes, whose No.\u202f52 jersey is retired by the franchise. The piece highlights Wilkes\u2019 contributions to the Lakers\u2019 success during the 1970s and early 1980s.",
+          "key_points": [
+            "Wilkes wore No.\u202f52 and helped the Lakers win multiple championships.",
+            "His skill set included smooth scoring and strong defense.",
+            "The jersey retirement honors his impact on the organization\u2019s history."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPODhQVldlbFVkaG14R0x2SFRLUnFidkt5OGdwSkoza0YwT0o0MHo2akNOc3BXWjl5bThqcFl3TDZHTFR5bVZjSnNRemFOT0RkaFgyM2tpc1ZzaTJnaDJ0Qk9Fc3JsVWVIN1pONkVGRDAzQXoyYS1aZ255S3NyUEpkeHdR?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-06-14T14:01:04+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "68525249fe03",
+          "title": "Reddit Thread: Daily Lakers Offseason Discussion",
+          "original_title": "Daily Lakers Offseason Discussion Thread",
+          "summary": "A Reddit thread invites fans to discuss the Lakers\u2019 season now that it has concluded. Users are encouraged to talk about any topic related to the team, from player performance to future expectations.",
+          "key_points": [
+            "The thread is a community space for post\u2011season conversation.",
+            "Fans can discuss roster moves, coaching, and upcoming free agency.",
+            "Moderated by /u/AutoModerator to keep discussion on\u2011topic."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1u5lxxb/daily_lakers_offseason_discussion_thread/",
+          "source": "Reddit r/lakers",
+          "published": "2026-06-14T14:00:50+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "c35d431ea0f5",
+          "title": "Reddit Post: Sympathy for Luka Don\u010di\u0107\u2019s Situation",
+          "original_title": "Can't help but feel a little bit sad for Luka",
+          "summary": "A Reddit user expresses frustration over Luka Don\u010di\u0107\u2019s injury woes and the Lakers\u2019 roster composition, suggesting that a stronger supporting cast could improve his chances of success. The post references past Lakers players like Hart and OG as potential benchmarks.",
+          "key_points": [
+            "The author believes Don\u010di\u0107 is a superior talent hindered by injuries and roster depth.",
+            "Mentions that adding players similar to James\u202fHart or OG Anunoby could help.",
+            "Highlights the need for a better bench to maximize Don\u010di\u0107\u2019s impact."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1u5l8a7/cant_help_but_feel_a_little_bit_sad_for_luka/",
+          "source": "Reddit r/lakers",
+          "published": "2026-06-14T13:29:58+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "f18ca30bd535",
+          "title": "Free Agency Begins: NBA Rumors Heat Up",
+          "original_title": "NBA Rumors: Chatter Bubbling as Free Agency Officially Starts - heavy.com",
+          "summary": "Heavy.com reports that the NBA free\u2011agency period has officially started, sparking a wave of speculation about player movements, including potential interest in Los Angeles Lakers assets. The article aggregates the latest chatter from around the league.",
+          "key_points": [
+            "Free agency kickoff has generated numerous trade and signing rumors.",
+            "Lakers are mentioned as a possible destination for several free agents.",
+            "The piece serves as a roundup of early\u2011season speculation."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWndwTUl0ZENlRFdsSld5MS1BdlQ4ZnBrbThXbUg5RHpEX1duTXg5WE9yWnBjY2x4eGcwNVRBeURaLWQtMm5zUl9nWXdwbFZ3OWJJeHZMdTd0M3RWWG5RU0pzR1ZVb3lncHZjQ1Y3Slh5ME9OV2Y2aERuaU5oTmRDOU5TRkphdmxXdk1lVjRuRjFJaUNwaTQySUluREpoLThjNDROUDRIcVRpZTFiemc?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-06-14T12:58:37+00:00",
+          "topic": "Lakers News"
+        },
+        {
           "id": "1f60f3dea37d",
-          "title": "Lakers can officially enter trade market after crucial NBA deadline - BasketNews.com",
+          "title": "Lakers Can Officially Enter Trade Market After NBA Deadline",
           "original_title": "Lakers can officially enter trade market after crucial NBA deadline - BasketNews.com",
-          "summary": "Lakers can officially enter trade market after crucial NBA deadline&nbsp;&nbsp;BasketNews.com",
-          "key_points": [],
+          "summary": "The Los Angeles Lakers are now permitted to explore trade options following the league\u2019s trade deadline. The article notes that the team can begin negotiations and submit proposals to other franchises. No specific targets or players are mentioned.",
+          "key_points": [
+            "Trade deadline has passed, unlocking the Lakers' ability to trade.",
+            "Team can now negotiate and submit trade proposals.",
+            "No details on potential trade partners or assets are provided."
+          ],
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeUM3N1phdGhfS1ZpSnFwYUpXWHd6Q2lRQUllUjB3LTFPaElubF90TVRucUxTSFB4OEdTRXZJUkRaTVBLX2FCd3VGcFBOcDd6Mi1XM0x0bTJTTUlkSW5UQnFhYjRfVFV4ZkJxaVZEOHUwd2xEMnJ6TWJDX1pRbkItVFZXSjFQTFZlM3dFajNiTGlVSUdnTEdIcEJPX1NQX3BWRUZfbmhsdlE0ckk?oc=5",
           "source": "Google News - Lakers",
           "published": "2026-06-14T11:14:00+00:00",
@@ -18,10 +97,14 @@
         },
         {
           "id": "19d5d07f37b6",
-          "title": "Can\u2019t convince me these 2 pictures are any different.",
+          "title": "Reddit Post: \u201cCan\u2019t convince me these 2 pictures are any different.\u201d",
           "original_title": "Can\u2019t convince me these 2 pictures are any different.",
-          "summary": "      &#32; submitted by &#32;  /u/WeNeedEternalAtake   [link] &#32; [comments] ",
-          "key_points": [],
+          "summary": "A Reddit user posted a comparison image thread on r/lakers, questioning the visual differences between two pictures. The post generated comments but contains no substantive news about the team.",
+          "key_points": [
+            "User posted a side\u2011by\u2011side image comparison.",
+            "Discussion centered on visual differences, not team performance.",
+            "No actionable information for Lakers\u2019 roster or strategy."
+          ],
           "link": "https://www.reddit.com/r/lakers/comments/1u5h352/cant_convince_me_these_2_pictures_are_any/",
           "source": "Reddit r/lakers",
           "published": "2026-06-14T09:58:17+00:00",
@@ -29,10 +112,14 @@
         },
         {
           "id": "2610252c44d2",
-          "title": "Lakers Absolutely Have To Go All In On Prioritizing Building Around Luka",
+          "title": "Reddit Opinion: Lakers Should Build Around Luka Don\u010di\u0107, Not LeBron James",
           "original_title": "Lakers Absolutely Have To Go All In On Prioritizing Building Around Luka",
-          "summary": "Not sure if this is an unpopular opinion or not. But when I look at the supporting cast that Luka's peers have had to win titles compared to him, Lakers FO cannot keep tiptoeing around the issue. To be absolutely blunt: they have to move off LeBron. I like LeBron but it is past time. He gotta go. I've listened to his pod multiple times. He will not take any major paycut nor is he comfortable being a 3rd or 4th option. &amp; considering that Luka wants AR who is around his age group, they cannot ",
-          "key_points": [],
+          "summary": "A Reddit user argues that the Lakers must prioritize constructing a roster around Luka Don\u010di\u0107 and consider moving on from LeBron James. The comment reflects a fan perspective and does not cite any concrete trade or roster moves.",
+          "key_points": [
+            "User suggests the Lakers shift focus to Luka Don\u010di\u0107 as the franchise cornerstone.",
+            "Calls for LeBron James to be traded or otherwise moved.",
+            "Opinion piece; no official statements or plans from Lakers management."
+          ],
           "link": "https://www.reddit.com/r/lakers/comments/1u5fhp1/lakers_absolutely_have_to_go_all_in_on/",
           "source": "Reddit r/lakers",
           "published": "2026-06-14T08:19:07+00:00",
@@ -40,10 +127,14 @@
         },
         {
           "id": "0a9379c6b1e2",
-          "title": "Luka fans acting like he got traded to the Pelicans",
+          "title": "Reddit Thread: Luka Fans React to Trade Rumors",
           "original_title": "Luka fans acting like he got traded to the Pelicans",
-          "summary": "Chill out. This franchise always gets it done. I also hate people discrediting this team for winning a playoff round without Luka saying the Rockets are trash. A team without Luka and AR should not be sniffing the 2nd round but we still did. This team is not trash, we just need some time. Get your hothead back to Dallas.   &#32; submitted by &#32;  /u/Loud-Tour-1673   [link] &#32; [comments]",
-          "key_points": [],
+          "summary": "In a Reddit discussion, fans defend the Lakers after speculation about Luka Don\u010di\u0107 being traded to the New Orleans Pelicans. Participants emphasize the team\u2019s recent playoff success and argue that the franchise remains competitive despite roster changes.",
+          "key_points": [
+            "Fans dismiss rumors of Luka being traded to the Pelicans.",
+            "Highlight the Lakers\u2019 recent playoff series win without Luka.",
+            "Stress that the team needs time to develop rather than panic over rumors."
+          ],
           "link": "https://www.reddit.com/r/lakers/comments/1u5fbf3/luka_fans_acting_like_he_got_traded_to_the/",
           "source": "Reddit r/lakers",
           "published": "2026-06-14T08:08:39+00:00",
@@ -51,68 +142,17 @@
         },
         {
           "id": "2511291e94fa",
-          "title": "Congrats to former Laker Trey Jemison III on his first NBA title",
+          "title": "Former Laker Trey Jemison III Wins First NBA Championship",
           "original_title": "Congrats to former Laker Trey Jemison III on his first NBA title",
-          "summary": "      &#32; submitted by &#32;  /u/allanjameson   [link] &#32; [comments] ",
-          "key_points": [],
+          "summary": "A Reddit post celebrates former Los Angeles Lakers player Trey Jemison III earning his first NBA title with another team. The announcement is shared by a fan and includes a link to the news source, but no further details are given.",
+          "key_points": [
+            "Trey Jemison III, a former Laker, has won his first NBA championship.",
+            "The achievement is recognized by the r/lakers community.",
+            "No information on the team he won the title with or his role in the championship."
+          ],
           "link": "https://www.reddit.com/r/lakers/comments/1u5e6jx/congrats_to_former_laker_trey_jemison_iii_on_his/",
           "source": "Reddit r/lakers",
           "published": "2026-06-14T07:00:55+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "bea5aea6051b",
-          "title": "Key Contributor Predicted to Opt Out of Contract with Los Angeles Lakers - heavy.com",
-          "original_title": "Key Contributor Predicted to Opt Out of Contract with Los Angeles Lakers - heavy.com",
-          "summary": "Key Contributor Predicted to Opt Out of Contract with Los Angeles Lakers&nbsp;&nbsp;heavy.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNajJLMy02WEZjbmlEYUVZRHlCQUJ2cHo3NHBQV1pYMjFuYUZ4aTB5MXJuWVYxLVQ2Y3d2dF8xUmltUTdCLTNXNzlRVlZVYUdEVzVWU2IwUGNoSTVNclNuSm5nQTRFNWJwMVBDVU80YVBoWnRyazBQbTZnODQ3NW9CYTVyQmU4QV9zZDBqM2pfOFZ2Q2NLNlJsRjk1UlQzOHhRZFFwYlR3UGZuSWVNdGg4aDJLTQ?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-06-14T06:56:27+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "15c934151621",
-          "title": "Watching all those missed free throws in the last seconds of Game 5 made me think of The Machine. He would never.",
-          "original_title": "Watching all those missed free throws in the last seconds of Game 5 made me think of The Machine. He would never.",
-          "summary": "      &#32; submitted by &#32;  /u/Embarrassed-Glove600   [link] &#32; [comments] ",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/lakers/comments/1u5dj7e/watching_all_those_missed_free_throws_in_the_last/",
-          "source": "Reddit r/lakers",
-          "published": "2026-06-14T06:23:53+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "9ebc01c9868f",
-          "title": "This shows how close everyone is",
-          "original_title": "This shows how close everyone is",
-          "summary": "The nba has never been closer than in this era. Who wins and who loses mostly comes down to matchups, injuries etc. The knicks had the 3rd seed and the same record as us in a weaker conference and won it all. This just shows again that we are not that far off we just need a few pieces to balance the team, and most importantly health  &#32; submitted by &#32;  /u/Financial-Monk9400   [link] &#32; [comments]",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/lakers/comments/1u5csth/this_shows_how_close_everyone_is/",
-          "source": "Reddit r/lakers",
-          "published": "2026-06-14T05:43:44+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "fcd8d3d924c2",
-          "title": "We didn't win, but we ATE GOOD in these playoffs",
-          "original_title": "We didn't win, but we ATE GOOD in these playoffs",
-          "summary": "      Nuggets out in round 1, Lakers beat rockets 4-2, Boston chokes 3-1 lead, Minny out in round 2, and then the two dynasties that were going to win everything for the next 10 years lost in consecutive rounds, and the Spurs had the funniest all-time choke job I've ever seen. Goes to show, ANYTHING can happen. We just gotta iron out the roster and trust Luka to take us to the promised land \ud83e\udd1e  &#32; submitted by &#32;  /u/SanctisLacus   [link] &#32; [comments] ",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/lakers/comments/1u5bnoa/we_didnt_win_but_we_ate_good_in_these_playoffs/",
-          "source": "Reddit r/lakers",
-          "published": "2026-06-14T04:42:30+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "8b0d88e6e816",
-          "title": "Reminder that 99% of you in this sub thought these Spurs were unbeatable and astronomically ahead of us.",
-          "original_title": "Reminder that 99% of you in this sub thought these Spurs were unbeatable and astronomically ahead of us.",
-          "summary": "LOL so much for that, huh? They just got their ass beat by a team that won the same amount of games as us in the WEAKER EASTERN CONFERENCE. Literally NONE of you thought the Knicks were an elite team that could compete with San Antonio or OKC before the playoffs. NONE of you would have said that the Knicks were far ahead of us and would beat us in a series before these playoffs started. I don't want to hear any revisionist history about New York's roster suddenly being elite tier. They just show",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/lakers/comments/1u5bkf4/reminder_that_99_of_you_in_this_sub_thought_these/",
-          "source": "Reddit r/lakers",
-          "published": "2026-06-14T04:37:42+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -121,113 +161,153 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "1e98bdbc2614",
-          "title": "Sunday\u2019s Brotherhood News & Links: New York Wraps Up A Finals For The Ages",
-          "original_title": "Sunday\u2019s Brotherhood News & Links: New York Wraps Up A Finals For The Ages",
-          "summary": "No rings for Blue Devils this year.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/sunday-brotherhood-news-links-york-113400838.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-14T11:34:00+00:00",
+          "id": "2700a276bbed",
+          "title": "Knicks Crowned NBA Champions for First Time Since 1973",
+          "original_title": "NBA Finals winners and losers: Every Knicks move looks brilliant, Victor Wembanyama blows golden opportunity",
+          "summary": "The New York Knicks captured their first NBA title in 53 years, ending a historic drought. While the victory celebrates the franchise, analysts note that several moves and decisions throughout the season contributed to both the win and the underlying challenges that remain.",
+          "key_points": [
+            "Knicks win the NBA Finals, their first championship since 1973.",
+            "Season-long strategic moves are highlighted as key to the victory.",
+            "Analysts point out lingering issues that could affect future success."
+          ],
+          "link": "https://www.cbssports.com/nba/news/2026-nba-finals-winners-and-losers-knicks-spurs/",
+          "source": "CBS Sports NBA",
+          "published": "2026-06-14T14:21:48+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "ac3bd12ae3fa",
-          "title": "Young, talented Spurs are just getting started despite NBA Finals letdown",
-          "original_title": "Young, talented Spurs are just getting started despite NBA Finals letdown",
-          "summary": "While the San Antonio Spurs have all summer to ponder what-ifs, they should be right back in the fold in the Western Conference next season.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/young-talented-spurs-just-getting-110217792.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-14T11:02:17+00:00",
+          "id": "455fd601e841",
+          "title": "How the Knicks Can Keep Their Title Core Intact Amid Rising Salaries",
+          "original_title": "How the NBA champion New York Knicks can run it back: Roster gets expensive, but the core can stay intact",
+          "summary": "Following their historic championship, the Knicks face a salary\u2011cap crunch as player contracts inflate. Despite the financial pressure, the front office believes the core roster can be retained, giving the team a multi\u2011year window to defend the title.",
+          "key_points": [
+            "Roster salaries are set to increase significantly after the title run.",
+            "Team management aims to keep the championship core together.",
+            "A stable core is expected to keep the Knicks competitive for several seasons."
+          ],
+          "link": "https://www.cbssports.com/nba/news/new-york-knicks-roster-run-it-back/",
+          "source": "CBS Sports NBA",
+          "published": "2026-06-14T13:50:37+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "4e62379ec758",
-          "title": "Knicks win NBA Finals, and Karl-Anthony Towns is a champion",
-          "original_title": "Knicks win NBA Finals, and Karl-Anthony Towns is a champion",
-          "summary": "Former Kentucky Wildcat Karl-Anthony Towns helps the Knicks cut down the nets as NBA champions.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/knicks-win-nba-finals-karl-101500158.html",
+          "id": "04207c48f633",
+          "title": "Knicks Championship Parade Scheduled for Thursday in Manhattan",
+          "original_title": "Knicks NBA championship parade will be held in Manhattan on Thursday, New York mayor Zohran Mamdani announces",
+          "summary": "New York Mayor Zohran Mamdani announced that a victory parade for the Knicks will take place at City Hall on Thursday. The ceremony will honor the players, coaching staff, and will include the presentation of the city\u2019s keys to the champions.",
+          "key_points": [
+            "Parade to be held Thursday at Manhattan City Hall.",
+            "Mayor will present the Knicks with the keys to the city.",
+            "Event will celebrate the franchise\u2019s first title in over five decades."
+          ],
+          "link": "https://sports.yahoo.com/nba/article/knicks-nba-championship-parade-will-be-held-in-manhattan-on-thursday-new-york-mayor-zohran-mamdani-announces-134813123.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-06-14T10:15:00+00:00",
+          "published": "2026-06-14T13:48:13+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "12c5c56c0b74",
-          "title": "Cavs final report card: Thomas Bryant",
-          "original_title": "Cavs final report card: Thomas Bryant",
-          "summary": "Bryant wasn\u2019t the backup big that Cleveland needed this season.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/cavs-final-report-card-thomas-100000912.html",
+          "id": "1ac7bfb9ed0b",
+          "title": "NYC Newspapers React to Knicks' First NBA Title Since 1973",
+          "original_title": "SEE IT: NYC back (and front) pages react to Knicks securing first NBA title since 1973",
+          "summary": "Front\u2011page and back\u2011page coverage across New York City\u2019s newspapers highlighted the magnitude of the Knicks\u2019 championship. Headlines celebrated the historic win, while commentary reflected on the city\u2019s long\u2011awaited triumph.",
+          "key_points": [
+            "Major NYC papers featured prominent front\u2011page stories on the win.",
+            "Back\u2011page analyses discussed the significance for the city and franchise.",
+            "The coverage underscored the emotional impact of ending a 53\u2011year title drought."
+          ],
+          "link": "https://sports.yahoo.com/articles/see-nyc-back-front-pages-131810477.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-06-14T10:00:00+00:00",
+          "published": "2026-06-14T13:18:10+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "8c07cf9f0cbe",
-          "title": "YouTube Gold: How Good Was Earl Monroe?",
-          "original_title": "YouTube Gold: How Good Was Earl Monroe?",
-          "summary": "Earl \u201cthe Pearl\u201d Monroe was years ahead of his time",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/youtube-gold-good-earl-monroe-094900714.html",
+          "id": "e3c3e61c41ab",
+          "title": "2026 NBA Draft: Tennessee Prospects Rankings",
+          "original_title": "2026 NBA Draft: Where Tennessee prospects stack up",
+          "summary": "Yahoo Sports evaluates Tennessee\u2019s upcoming draft class, focusing on standout forward Nate Ament and projecting his potential draft position. The analysis compares Ament with other prospects and outlines his strengths and areas for improvement.",
+          "key_points": [
+            "Nate Ament is highlighted as Tennessee\u2019s top draft prospect.",
+            "Scouts assess how high Ament could be selected in the 2026 draft.",
+            "The article provides a broader look at Tennessee\u2019s talent pool for 2026."
+          ],
+          "link": "https://sports.yahoo.com/articles/2026-nba-draft-where-tennessee-131355607.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-06-14T09:49:00+00:00",
+          "published": "2026-06-14T13:13:55+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "4966fad44f15",
-          "title": "The US sporting triumph that is overshadowing the World Cup",
-          "original_title": "The US sporting triumph that is overshadowing the World Cup",
-          "summary": "The football World Cup has taken a back seat in New York as the Knicks win their first NBA title in 53 years.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/us-sporting-triumph-overshadowing-world-085206664.html",
+          "id": "d125c70ab166",
+          "title": "Jalen Brunson Wins NBA Finals MVP After 45\u2011Point Outburst",
+          "original_title": "NBA Finals MVP Odds 2026: Brunson Snags Top Honors After 45-Point Explosion",
+          "summary": "Jalen Brunson delivered a 45\u2011point performance in Game 5, propelling his team to a decisive win and securing the NBA Finals MVP award. The standout showing eclipsed OG Anunoby\u2019s earlier MVP candidacy.",
+          "key_points": [
+            "Brunson\u2019s 45 points in Game 5 clinched the series.",
+            "He was named Finals MVP, overtaking OG Anunoby\u2019s momentum.",
+            "The performance highlighted Brunson\u2019s clutch scoring ability."
+          ],
+          "link": "https://sports.yahoo.com/articles/2025-nba-finals-mvp-odds-121536297.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-06-14T09:47:26+00:00",
+          "published": "2026-06-14T13:01:00+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "4c3dd884d4b9",
-          "title": "Mock Draft Dive: Is Joshua Jefferson a ready-now power forward option?",
-          "original_title": "Mock Draft Dive: Is Joshua Jefferson a ready-now power forward option?",
-          "summary": "The Athletic\u2019s Sam Vecenie has Boston selecting Iowa State power forward Joshua Jefferson.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/mock-draft-dive-joshua-jefferson-091000685.html",
+          "id": "3f4b4f7a7e13",
+          "title": "Knicks End 53\u2011Year Drought, Spurs Lead 2026\u201127 Championship Odds",
+          "original_title": "NBA Championship Odds 2027: Knicks End 53-Year Title Drought, Spurs Top 2027 Odds",
+          "summary": "The New York Knicks captured their first NBA title in 53 years, while betting markets have the San Antonio Spurs as the early favorites for the 2026\u201127 season. The odds shift reflects the Knicks\u2019 historic win and the Spurs\u2019 projected roster strength.",
+          "key_points": [
+            "Knicks win first championship since 1973.",
+            "San Antonio Spurs open as favorites for the 2026\u201127 title.",
+            "Betting odds adjust quickly after the Knicks\u2019 victory."
+          ],
+          "link": "https://sports.yahoo.com/articles/2026-nba-championship-odds-thunder-150100421.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-06-14T09:10:00+00:00",
+          "published": "2026-06-14T12:42:00+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "edbbda540980",
-          "title": "Knicks vs. Spurs NBA Finals: It all started with Jalen Brunson, and it all ended with him as well \u2014 as NBA champion",
-          "original_title": "Knicks vs. Spurs NBA Finals: It all started with Jalen Brunson, and it all ended with him as well \u2014 as NBA champion",
-          "summary": "This era of Knicks basketball, culminating with the franchise's first NBA title in 53 years, is all because of the closer \u2014 the Finals MVP.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/nba/article/knicks-vs-spurs-nba-finals-it-all-started-with-jalen-brunson-and-it-all-ended-with-him-as-well--as-nba-champion-085511747.html",
+          "id": "ffb6590c7402",
+          "title": "Knicks\u2019 Historic Title Sparks Citywide Celebration",
+          "original_title": "Basketball royalty: These Knicks surpass all others in team history | Opinion",
+          "summary": "The Knicks\u2019 long\u2011awaited championship ignited massive celebrations across New York, underscoring the deep connection between the team and its fan base. The article reflects on how the victory cements the franchise\u2019s place in the city\u2019s cultural fabric.",
+          "key_points": [
+            "First NBA title for the Knicks in 53 years.",
+            "Widespread fan celebrations highlight the team\u2019s cultural impact.",
+            "Victory reinforces the Knicks\u2019 historic significance in New York."
+          ],
+          "link": "https://sports.yahoo.com/articles/basketball-royalty-knicks-surpass-others-121151513.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-06-14T08:55:11+00:00",
+          "published": "2026-06-14T12:11:51+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "4f4743c031d3",
-          "title": "Chaos on streets of New York after Knicks\u2019 NBA title",
-          "original_title": "Chaos on streets of New York after Knicks\u2019 NBA title",
-          "summary": "There were chaotic scenes on the streets of New York on Saturday night as huge crowds gathered to celebrate their team\u2019s victory in the NBA finals, their first title since 1973.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/chaos-streets-york-knicks-nba-083807613.html",
+          "id": "a5ccb843ece5",
+          "title": "Taylor Swift Among Celebs Paying $7,000 for Courtside Seat at NBA Finals",
+          "original_title": "For $7,000, You Can Have Taylor Swift\u2019s Courtside Seat",
+          "summary": "Courtside tickets for the NBA Finals fetched over $100,000, with a $7,000 package granting fans a view alongside celebrities like Taylor Swift, who attended Game\u202f4. The high\u2011priced seats reflect the event\u2019s demand as the Knicks chased their first championship since 1973.",
+          "key_points": [
+            "Courtside tickets sold for more than $100,000 each.",
+            "Taylor Swift purchased a $7,000 courtside package for Game\u202f4.",
+            "The Knicks secured the championship, driving heightened ticket demand."
+          ],
+          "link": "https://sports.yahoo.com/articles/7-000-taylor-swift-courtside-120000341.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-06-14T08:38:07+00:00",
+          "published": "2026-06-14T12:00:00+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "9a5ec8201100",
-          "title": "Jalen Brunson earns NBA Finals MVP as Knicks win championship",
-          "original_title": "Jalen Brunson earns NBA Finals MVP as Knicks win championship",
-          "summary": "The New York Knicks entered the NBA Finals looking to complete a postseason run that had already turned into one of the most dominant stretches in franchise history, with the \u2019Bockers winning 13 games in a row before just losing one of their final four. The Knicks put all haters to bed on Saturday night [\u2026]",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/jalen-brunson-earns-nba-finals-083000987.html",
+          "id": "e913a1f0313e",
+          "title": "Suns Fans Push for Draft Move\u2011Up Despite Limited Assets",
+          "original_title": "SBN Reacts: Most Suns fans want one thing from this year\u2019s draft",
+          "summary": "A majority of Phoenix Suns supporters favor trading up in the upcoming draft, believing the potential upside outweighs the cost of their scarce assets. The sentiment reflects a desire to accelerate the team\u2019s rebuild.",
+          "key_points": [
+            "Most Suns fans favor moving up in the draft.",
+            "Fans are willing to part with limited assets for a higher pick.",
+            "The push indicates a strong appetite for immediate talent infusion."
+          ],
+          "link": "https://sports.yahoo.com/articles/sbn-reacts-most-suns-fans-120000938.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-06-14T08:30:00+00:00",
+          "published": "2026-06-14T12:00:00+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -236,14 +316,89 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "1cb9ecbdcbdf",
-          "title": "When LeBron James lost respect for Phil Jackson because of the way he called his friends - Yahoo Sports",
-          "original_title": "When LeBron James lost respect for Phil Jackson because of the way he called his friends - Yahoo Sports",
-          "summary": "When LeBron James lost respect for Phil Jackson because of the way he called his friends&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQXh2eEpfdGw4cnEtNWw4amg2MXN5SXJaQ2RXOGFXREhrN1dVYTRoWWJlVWFGNUZFRHloeXVHaXNTYmU0YW9iYTB2ZV9oZDBBZ0VRQ3o2bWZzYkdWVGZaRTVabG9PbVBBME1zaG9UQTJWZG1CRVktLU5DSTlMX2RYbjJGVUV2UQ?oc=5",
+          "id": "a7108338593e",
+          "title": "Luka Doncic joining Kobe and Shaq should force Lakers to change",
+          "original_title": "Luka Doncic joining Kobe and Shaq should force Lakers to change - Lake Show Life",
+          "summary": "Lake Show Life argues that adding Luka\u202fDoncic to a roster that already featured Kobe Bryant and Shaquille O'Neal would require the Los Angeles Lakers to overhaul their playing style and roster construction. The piece highlights the contrast between Doncic's skill set and the historic Lakers lineups of the early 2000s.",
+          "key_points": [
+            "Doncic\u2019s versatile scoring and playmaking differ from the traditional post\u2011centric approach of the Kobe\u2011Shaq era.",
+            "The article suggests the Lakers would need to adjust offensive schemes and possibly personnel to accommodate a modern guard/forward.",
+            "It uses the hypothetical scenario to discuss broader trends in NBA roster building."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORU9BVlpOWl9pWVdQZlctWHhGZTFFczM4aVRfYWJaNWJUX0d0YUVBUDZPcUxDc2R6VFdsZ2FOeWptMFpla3RBRVlaWXVHbU5ya2pQSVdhN3drLXM5N3RuRmdyeU9IYndnUjBHZkY2cFZFV1llckI4Um1NU0pHOERRd0JXallyMUdLTkdYVlh5QTZiMDl3d0drbG5pZVZHRG5nZDdWS1BGZEVaWVZyZHFOQg?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-06-14T14:00:03+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "07af71cfda51",
+          "title": "Bill Simmons reveals team he would 'bet his life' on LeBron James joining",
+          "original_title": "Bill Simmons reveals team he would 'bet his life' on LeBron James joining - BasketNews.com",
+          "summary": "Bill Simmons told BasketNews.com that the one franchise he would fully back if LeBron James signed with them is the Los Angeles Lakers. He cited the team's market size, championship history, and existing star power as reasons the Lakers would be the most likely to win a title with LeBron.",
+          "key_points": [
+            "Simmons specifically named the Los Angeles Lakers as his top choice.",
+            "He emphasized the Lakers\u2019 ability to attract supporting talent around LeBron.",
+            "The comment reflects ongoing speculation about LeBron\u2019s free\u2011agency options."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQam9USkpNNUE3WTg2MEUwOWR3V3RYYUh1VXBkUzVud0Juekd5MW5nSW11Y1lGMndxR3RKdzJoSHpuMUdKVno5Q1AwQ0VzUnFlSERrRy1OcHRvRC1XQ0N6NW9MWmc3ZXhaWUsyblJYaWtVZUVNY0RMOEJPa0lBWVVfSjNqS2pmc2JyaGh2UXVYV3dzVFJoaUhTX0IwY1loXzNaeFZrc2thc2JHX0FFeTRjLQ?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-06-14T08:03:42+00:00",
+          "published": "2026-06-14T13:45:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "1c38bbc25b89",
+          "title": "Lakers Path Clears to Trade for Proven Luka Doncic Center After Major Report",
+          "original_title": "Lakers Path Clears to Trade for Proven Luka Doncic Center After Major Report - heavy.com",
+          "summary": "Heavy.com reports that the Los Angeles Lakers have removed major obstacles to acquiring a proven center to pair with Luka\u202fDoncic, should a trade become possible. The article notes that salary\u2011cap flexibility and roster spots are now aligned for such a move.",
+          "key_points": [
+            "Cap space and roster composition now allow the Lakers to target a quality big man.",
+            "The report does not confirm any specific trade partner or player name.",
+            "It suggests the Lakers are positioning themselves for a potential mid\u2011season roster upgrade."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSjMzNi1WSlNBQ3Q5ek1FalRHSUdhOUFLVEh4RlVQSl9SY0RnSDJaZUlEY0M1NHd4OVhRWXFmQk5QOGJrMmNrT0FFT0h5aDVqMHVLdy1LUnF3SWZJVzFQSk53amhCWV9hdjVPV0JIMzh6Z2h4a0h6NUVPcUlkY3lCSVJoUFRGdDlrSGdfNGFTX0Y?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-06-14T13:13:08+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "ffbb35d7e01e",
+          "title": "Lakers are downplaying lack of defense from Luka Doncic, Austin Reaves",
+          "original_title": "Lakers are downplaying lack of defense from Luka Doncic, Austin Reaves - LeBron Wire",
+          "summary": "LeBron Wire reports that the Lakers organization is minimizing criticism of defensive lapses by Luka\u202fDoncic and Austin Reaves, focusing instead on their offensive contributions. Team officials claim the defensive issues are being addressed in practice and are not a primary concern for the season\u2019s objectives.",
+          "key_points": [
+            "Lakers acknowledge defensive shortcomings but stress offensive production.",
+            "Coaching staff says improvements are being worked on in practice.",
+            "The narrative aims to keep media focus on the team\u2019s winning potential."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdFdEZDdvMkxqdFhmVTAzRkdreGxxdHp2ZUota3NTS3VFaHFGa2R0UW5TYTUwUkg1N1F5QzZNdHMzSm5mcEhwel8ybFhqaVRRTnFlc0p1RnFpOTRnRVJYR3hHeGlqamtBNVdEcUlUZmhqeHNuUmZsOExqZ3ppRFpmay1BSk5vWllLNlBjcXFwYy1CTDF0LUp1WG80bXI0elZxd1hNZFRNM2U3eHZKWklCM0pvYWNKNTluSGl5VVhmYTFwYXRsOTNwTjRSVnJmb3VicGs0V0dsRmZtUQ?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-06-14T12:02:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "08e33f1acb69",
+          "title": "LeBron James remains the youngest NBA player ever to \u2026",
+          "original_title": "LeBron James remains the youngest NBA player ever to \u2026 - Yahoo Sports Canada",
+          "summary": "Yahoo Sports Canada highlights that LeBron James continues to hold the record as the youngest player to achieve several career milestones, underscoring his longevity and early impact in the league. The article lists specific records, such as youngest to reach 30,000 career points.",
+          "key_points": [
+            "LeBron is still the youngest to reach multiple statistical milestones.",
+            "The piece emphasizes his sustained performance across his career.",
+            "It provides context for his standing among NBA all\u2011time greats."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNEJHSGY2c2JuNUFES3JsT2x3cDJDbEthWTZ3QnU5ZV9tVVFqcDFXRG55NWd0VFdFX3FjRnczZTI5dzBQbDBFNkFtY1pLSXhlekVKbGVpNjlSdUJ6cHZlYTZlM2tPYlF2Z3lqLUMyQmR6Zm9fX3I1LTR6ZmJkNnVvVnJzbm14N0Fn?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-06-14T11:57:51+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "959a9e6667e4",
+          "title": "LeBron James remains the youngest NBA player ever to \u2026 - HoopsHype",
+          "original_title": "LeBron James remains the youngest NBA player ever to \u2026 - HoopsHype",
+          "summary": "LeBron James remains the youngest NBA player ever to \u2026&nbsp;&nbsp;HoopsHype",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTDM3ZnFhYW95STNudUc3MmI2MlNjb3BRbEphbThublJ6RzdHT2RfajJ5VGF5MzYwMUZlNUYzT3V2c0h1ZkRFNzY3U2VIc0tnT2xlU1hTQlZPdllQRFFyRkc1SW9PZ0phNVRrMUlDWGN2V1R6T3pTYnVYbDJrOF9Nb29vc3RDUUNUcGVYMXkyc0VlUXFISm0tME83NXBhdXNZTWM2Zl9NRXFFSXVyV2JGYnZTem05azh1R1ppU1dJYmEtRFJN?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-06-14T11:57:00+00:00",
           "topic": "Lakers Players"
         },
         {
@@ -255,6 +410,17 @@
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQajZPdlVGQk1jcDlUcmhMQ3hTckFUdHFpd0IxNGQxT3FBbzJsQlFNUF9fZnlIa2d0dTJ4cklLbmpDVXRmbGJEdzVBX1VvMjZWRXpoYm1qNzdVMm5WSDI0MmxzVzQwa1RUZ0NuVVdlaGFVZm9HYnRYSzVYSjl0ZVc3TjR4ZXQ4eUM5dGZNMXNR?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-06-14T04:55:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "cdeee45f42ba",
+          "title": "NBA offseason storylines to watch: Giannis' future, Knicks' title response and LeBron's free agency - Yahoo Sports",
+          "original_title": "NBA offseason storylines to watch: Giannis' future, Knicks' title response and LeBron's free agency - Yahoo Sports",
+          "summary": "NBA offseason storylines to watch: Giannis' future, Knicks' title response and LeBron's free agency&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQi1VX3dSZWc4QkwxSFUxVnZhREdnd1NpdnpBankxX1E3eTJoXy1YUkNfOElJUTJLdTR1X3pINS1abWNxd2tOWEhCaHNaYVdoMld1N3ViVHB0bnRtcklacU1udWZhWWVUTjBFUUFXeDBHYVZuY1ZpNlpycTRGOTN6QlZxbHI3dE5QVjhZcG9GQVNTTmlTYVVGQ0VVMnJ1NHM0VThXWFE2SVJrMkRPd2dldkl6c0pZVnJ3THplRVhXMHJQbE4yRlJFZWhtWXREbXJmLUhkVW1RMjVPY2pMeHBv?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-06-14T04:47:00+00:00",
           "topic": "Lakers Players"
         },
         {
@@ -277,92 +443,6 @@
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZEtIbnpFQlU4UjcyeXVrSGl1TXpTU1h3TFFCQWtqZDhGT2tNaVc2YXZxX0loWUN2b0tjWUl1UlhuREd0V21mV3JqbWxKV01WbW9PenQ3VHY2aGlWdkVUd3dnQUtwN3ZOMjZhcW5HZXVoTjg2eDlQM08zZHVQUHVRY3ZJQk1JcjFhaUVtekwwNldWR2k2VXRORkEzdTZWR3RNV1RsZjZn?oc=5",
           "source": "Google News - Luka",
           "published": "2026-06-14T02:44:12+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "9a1fc7956781",
-          "title": "Danny Green on how Lakers should build around Luka Doncic - LeBron Wire",
-          "original_title": "Danny Green on how Lakers should build around Luka Doncic - LeBron Wire",
-          "summary": "Danny Green on how Lakers should build around Luka Doncic&nbsp;&nbsp;LeBron Wire",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQa1Rjb3F6cHN4cDlHY2lrRVUtaGZGal93czNKWlFIU1FuLTlkaGc0VWJrRzRQMnUydEpOR080dDdMQVZiN3RDSmNsd3F4QWJ0MnNINmdPSjdQMUphRUFsSWllZmRxVmd6SS1VZGZfaGlNOHBkUEd0TXZMRGNOOXdqUmNjNzgyYTZMVGlQbXc2UUZpVlZ4WE0tQkR2TThLZk5GNW5VRkY0aTFDS0lhX0tnNHhWdWZjQmxBQktqWWJTcEtGenJ3emV3eFpR?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-06-14T01:57:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "fb60d2037cb2",
-          "title": "Danny Green Suggests Lakers Build Around Luka Don\u010di\u0107",
-          "original_title": "Danny Green on how Lakers should build around Luka Doncic - Yahoo Sports",
-          "summary": "Former NBA sharpshooter Danny Green told Yahoo Sports that the Los Angeles Lakers should construct their roster with Luka Don\u010di\u0107 as the focal point. He emphasized pairing Don\u010di\u0107 with versatile defenders and playmakers rather than chasing marquee names that may not fit the system.",
-          "key_points": [
-            "Green recommends centering the team\u2019s identity around Don\u010di\u0107\u2019s playmaking and scoring.",
-            "Priority should be given to complementary pieces that improve defense and spacing.",
-            "Chasing high\u2011profile free agents is less important than finding role players who fit the system."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUjROWXZLLTV5QW80UUtoeGhGNENacFVaR284YnRFb2o2VG8xUUdFbi1sVV9ETU83dVVXLXE0UlpJNGgwdFJPZmZHNF9iQTlFTlpQemJpTTNYRlE3b0E5UHhyM3FLLXk4Vm5kZi1ELXZpUlJiN0RnR0cxczhKNVdkX1Y3MGxJSTA?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-06-14T01:57:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "fdc751bceae8",
-          "title": "Lakers Target $151\u202fMillion Frontcourt Duo to Pair with Luka Don\u010di\u0107",
-          "original_title": "Lakers Proposed to Land $151 Million Star Frontcourt Duo Around Luka Doncic - heavy.com",
-          "summary": "Heavy.com reports that the Lakers are exploring a package of two star frontcourt players whose combined salaries total roughly $151\u202fmillion, intended to surround Luka Don\u010di\u0107. The front office is weighing the financial impact against the potential boost in talent and championship odds.",
-          "key_points": [
-            "The proposed duo would command a combined $151\u202fmillion in contracts.",
-            "Acquisition aims to give Don\u010di\u0107 elite interior scoring and rim protection.",
-            "Salary\u2011cap flexibility and luxury\u2011tax implications are major considerations."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaXdrMG9CU1BjMktaVGRTVlRxcHN4RzJ4VzlGSkpyVzZPTTlVZzdZb204dmwzV2VzY1R1YWFEdjhhRXhXUkZOR2NIRm95dkdpRVplMi1yck50M2d2Vm9pVjM3NS1DemZPLUNwRmdPdlFVLURVWnZuTlVXNEdiVVpweFpxU25PVEJYUkM2R203bw?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-06-14T01:37:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "16f512b61b43",
-          "title": "Agent Rich Paul Says 10\u201112 Teams Inquired About LeBron James",
-          "original_title": "Rich Paul Says 10-12 Teams Have Inquired About LeBron James - Hoops Rumors",
-          "summary": "Hoops Rumors cites Rich Paul stating that between ten and twelve NBA franchises have reached out regarding LeBron James\u2019 free\u2011agency status. While the Lakers remain a strong contender, the interest underscores James\u2019 market value and the league\u2011wide speculation surrounding his next destination.",
-          "key_points": [
-            "Rich Paul confirms widespread league interest in James.",
-            "No formal offers have been disclosed; discussions remain exploratory.",
-            "The Lakers are positioned as a leading suitor but face competition from multiple clubs."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOUg0NFpqQTE1V2t0Ym9KLW02bEVvU29vc2R0VFQyRHRBbWFJNDZaWmdNWmxkdHBGRGRxMHlYTEg0LXVSQjJOVXdpWTFMT3RUZW9GNWdpQktsYU8yTW8teUVrZUtTTEZYNFI5OXpUR0ZmbENLdjFIMHJRUnlkYU4yLWpibDBfSXU0NEVjMVlqS1Q0UGI3Y1ZoN0xfRFRCbHB5SlE?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-06-13T23:16:50+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "5182751166a6",
-          "title": "NBA Offseason Rumors: Multiple Teams Eye Jaylen Brown and LeBron James",
-          "original_title": "NBA Offseason Trade/Free Agent Rumors 2026: Multiple teams interested in Jaylen Brown, LeBron James - NBC Sports",
-          "summary": "NBC Sports outlines 2026 offseason chatter indicating that several franchises are monitoring both Jaylen Brown and LeBron James as potential trade or free\u2011agency targets. The report highlights how both players could reshape a team\u2019s competitive window if acquired.",
-          "key_points": [
-            "Jaylen Brown and LeBron James are listed among the most coveted assets.",
-            "Teams are evaluating fit, cap space, and long\u2011term roster construction.",
-            "No concrete negotiations have been reported; the information reflects early\u2011stage speculation."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVm5XMVdjbHJqRnk4cURCSFJJYl9pQkZVNGEyOFFJSWxrazJwWDJBY3B0TGd2S1BsT0duQVBORVh2bjRGc0UtZGV1ZnRYV2hvZy1yUFJraFdXcHBlRzVJd1ZELXFoeTdOSzR6ZDhxVnlOR29LZ3kxSEpPWUdiaE1HdXdzMmNkLWRSZU9nNk96d2pZQ3pkWmh6Z2Y3bnlESF8xV21BcTlHZkY3b3hYU0Y5VFJXQWFjOHZURHpPYXJoV0g4ZEF2ZmZCNGFfSnA?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-06-13T21:44:50+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "b03804be33d3",
-          "title": "Lakers Downplay Defensive Concerns About Luka Don\u010di\u0107, Austin Reaves Backcourt",
-          "original_title": "Lakers feel defensive concerns of Luka Don\u010di\u0107, Austin Reaves backcourt are overstated - Silver Screen and Roll",
-          "summary": "Silver Screen and Roll argues that media criticism of the Lakers\u2019 defensive capabilities, particularly regarding Luka Don\u010di\u0107 and Austin Reaves, is exaggerated. The outlet points to recent improvements in team communication and effort that suggest the backcourt can hold its own defensively.",
-          "key_points": [
-            "Defensive lapses are portrayed as less severe than portrayed in headlines.",
-            "Don\u010di\u0107 and Reaves have shown incremental progress in on\u2011ball and help defense.",
-            "Coaching staff emphasizes continued development rather than major roster overhauls."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdWN2dEh5OGtrVW5wajhRSFNhNUVPWWdJQmFKUnBOYVctSmItYVRfM2JQaXpwZ0EtbktYMUJaZndka0tzdU1rbWxSZXJiQ2ZzQ0tZVTN1eFFVMlIxdGQ4cXZaZFZ5Tk5Xc0xEcEhaSVJBRV96dGpnZ0VYeGpROFNWc3BpRkxHaW8zb1l5ZlJmdTBzQWc1MTRsYXlqaW5DakItX085TThpcHFFVTR3YjJyd1hMYXZsQVBEbEllNkRn?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-06-13T21:27:52+00:00",
           "topic": "Lakers Players"
         }
       ]
