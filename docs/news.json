@@ -1,156 +1,138 @@
 {
-  "generated_at": "2026-06-15T18:32:43.731800+00:00",
-  "total_articles": 30,
+  "generated_at": "2026-06-15T22:36:23.127891+00:00",
+  "total_articles": 25,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
-          "id": "d238db88a3bd",
-          "title": "Lakers Rumors: Restricted Free Agency May Not Be Feasible",
-          "original_title": "Lakers Rumors: Restricted Free Agency May Not Be Feasible Option",
-          "summary": "The Lakers have ample cap space this offseason, but the pool of quality free agents is limited. The team\u2019s internal options, such as Austin Reaves and LeBron James, are among the most attractive prospects, reducing the need to pursue restricted free agents.",
+          "id": "84d902c5580a",
+          "title": "Walker Kessler at Odds with Jazz Front Office Over Extension and RFAs",
+          "original_title": "[Amick] Walker Kessler \"at odds\" with Jazz front office over lack of extension offer last summer and current handling of his restricted free agency,",
+          "summary": "Center Walker Kessler expressed frustration with the Utah Jazz, saying the team failed to extend a contract offer last summer and is mishandling his restricted free\u2011agency situation. The dispute highlights tension between Kessler\u2019s camp and the organization as the season progresses.",
           "key_points": [
-            "Lakers possess significant salary\u2011cap flexibility.",
-            "Available free\u2011agent talent is not deep.",
-            "Internal players like Reaves and James are top targets."
+            "Kessler claims the Jazz did not present a qualifying offer or extension last summer.",
+            "He feels the team\u2019s current approach to his restricted free agency is inadequate.",
+            "The disagreement could affect the Jazz\u2019s roster flexibility and Kessler\u2019s future with the club."
           ],
+          "link": "https://www.reddit.com/r/lakers/comments/1u6v412/amick_walker_kessler_at_odds_with_jazz_front/",
+          "source": "Reddit r/lakers",
+          "published": "2026-06-15T22:11:34+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "acc761e0eb11",
+          "title": "Lakers Fans Seek Update on Lawrence After Confirming Stu\u2019s Health",
+          "original_title": "I just saw that Stu is all good but do we have any update on Lawrence though? Cant have one without the other",
+          "summary": "A Reddit user noted that while news confirmed forward Stu\u2019s health status, fans are still awaiting information on teammate Lawrence. The post underscores ongoing concerns about roster depth and injury updates within the Lakers organization.",
+          "key_points": [
+            "Stu\u2019s health has been officially confirmed as good.",
+            "No recent update has been provided on forward Lawrence\u2019s condition.",
+            "Fans are emphasizing the need for timely injury reports to assess the team\u2019s lineup."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1u6ugab/i_just_saw_that_stu_is_all_good_but_do_we_have/",
+          "source": "Reddit r/lakers",
+          "published": "2026-06-15T21:45:56+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "aa360ac3bdae",
+          "title": "Lakers Prioritizing Two Free Agents to Complement Luka Don\u010di\u0107\u2011Centric Plan",
+          "original_title": "Lakers Reportedly Prioritizing Two Free Agents as Crucial Luka Doncic Plan Takes Shape - Sports Illustrated",
+          "summary": "According to Sports Illustrated, the Los Angeles Lakers are focusing on acquiring two specific free agents whose skill sets align with a strategic vision centered around Luka Don\u010di\u0107. The front office believes these additions will enhance the team\u2019s competitiveness in the upcoming season.",
+          "key_points": [
+            "The Lakers have identified two priority free agents to fit a Don\u010di\u0107\u2011focused system.",
+            "Acquisitions are intended to bolster playmaking, shooting, and defensive versatility.",
+            "The strategy reflects a shift toward building around a star guard rather than traditional center\u2011heavy lineups."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRjM1WkNzb1ZKTmwtclV5cUFUV1lpYkNEX2ZycHc1V1o3eFo1WUQ5ektUVGk2S096c3puNGpfUFZKdHBMbGJ0MlVrcTNlcXZ5VEp2WEZNMkdSclFUMVFRM2Zpa2lEclNaVmRmVjVxaHBHYXZEOFFyZmRzZk96ZExWNXpqVDRoVE54?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-06-15T21:08:08+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "92197f8b95d5",
+          "title": "Key Dates for the Lakers in the 2026 NBA Offseason",
+          "original_title": "Important Lakers & 2026 NBA Offseason Dates",
+          "summary": "Lakers Nation outlines the critical offseason calendar for the 2025\u201126 NBA season, noting that the Knicks won the championship and the league\u2019s calendar is now set. The timeline highlights important milestones that could shape the Lakers\u2019 future roster moves and organizational decisions.",
+          "key_points": [
+            "The 2025\u201126 season has concluded with the New York Knicks as champions.",
+            "A detailed offseason schedule lists free\u2011agency start dates, draft deadlines, and trade windows.",
+            "Understanding these dates is essential for the Lakers as they plan roster construction and potential coaching changes."
+          ],
+          "link": "https://lakersnation.com/important-lakers-2026-nba-offseason-dates/",
+          "source": "Lakers Nation",
+          "published": "2026-06-15T20:20:36+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "112ffc711f40",
+          "title": "Former Lakers Players and Coach Win NBA Title with Knicks",
+          "original_title": "Former Lakers Players, Coach Win NBA Title With Knicks - Yahoo Sports",
+          "summary": "Yahoo Sports reports that several former Los Angeles Lakers alumni, including players and a former coach, have earned an NBA championship as members of the New York Knicks. The victory adds to the legacy of those individuals who previously contributed to Lakers success.",
+          "key_points": [
+            "Ex\u2011Lakers personnel were part of the Knicks\u2019 championship roster.",
+            "The win highlights the continued impact of former Lakers on the league.",
+            "It underscores the interconnected nature of NBA coaching and player careers."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdXNNbXJqU3F5ZDlPUTd4S3I1X1NuT2V1aTFBZXdOUVNyVDcwS1hkNENUblh1S2pqTEtIa2U2a0VBanpPXzJSNzEzSDltVE1lcjVTM0tXWTFwTEkzYTVzNmo2MW4wd2tQVGtPaFZvRU5BRERUZUtOdXZxT2p6Yk85ZS1ZQUY1U1E?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-06-15T20:20:05+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "5785d48789d8",
+          "title": "Lakers free agency prediction is bad news for Luka Doncic - Yahoo Sports",
+          "original_title": "Lakers free agency prediction is bad news for Luka Doncic - Yahoo Sports",
+          "summary": "Lakers free agency prediction is bad news for Luka Doncic&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbkE5Rmd4NVFVNmFnTVlRb0pSeFVmVUYzRDEwaVlNQk4xVlhkQU50Z2Zod0pyOUFfUTdwWUJxMFl3V2pOb2RXNDFSUWpOSkFKNlh0QlUxRExXZm54X3dfdUZBcFZkekVIWi1TTGUyRGxfRTRmbnluZU5Rd3lzRVl5c1pWNWdDbXdwZUE?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-06-15T19:52:50+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "f93a75bed97c",
+          "title": "Any update on Stu?",
+          "original_title": "Any update on Stu?",
+          "summary": "I apologize if I\u2019m the only one who doesn\u2019t know something here but I haven\u2019t heard anything on him and he popped into my head today. Curious if we know anything? I\u2019ve been listening to that man teach me basketball for my whole life.   &#32; submitted by &#32;  /u/Unable_Diamond943   [link] &#32; [comments]",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/lakers/comments/1u6r5av/any_update_on_stu/",
+          "source": "Reddit r/lakers",
+          "published": "2026-06-15T19:45:10+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "d238db88a3bd",
+          "title": "Lakers Rumors: Restricted Free Agency May Not Be Feasible Option",
+          "original_title": "Lakers Rumors: Restricted Free Agency May Not Be Feasible Option",
+          "summary": "The Los Angeles Lakers have plenty of money to spend in free agency this offseason, but the pool of available players isn\u2019t necessarily the deepest with their own players like Austin Reaves and LeBron James being amongst the top available options. There are some very intriguing options in restricted free agency with the likes of [&#8230;]",
+          "key_points": [],
           "link": "https://lakersnation.com/lakers-rumors-restricted-free-agency-may-not-be-feasible-option/",
           "source": "Lakers Nation",
-          "published": "2026-06-15T18:26:12+00:00",
+          "published": "2026-06-15T19:00:12+00:00",
           "topic": "Lakers News"
         },
         {
           "id": "0a4ca95fa6bc",
           "title": "Luka in Madrid",
           "original_title": "Luka in Madrid",
-          "summary": "A Reddit post titled \u201cLuka in Madrid\u201d was shared by user gguntharr, but no substantive content or context is provided in the excerpt.",
-          "key_points": [
-            "Post originates from r/lakers on Reddit.",
-            "No detailed information available to summarize."
-          ],
+          "summary": "      &#32; submitted by &#32;  /u/gguntharr   [link] &#32; [comments] ",
+          "key_points": [],
           "link": "https://www.reddit.com/r/lakers/comments/1u6osl4/luka_in_madrid/",
           "source": "Reddit r/lakers",
           "published": "2026-06-15T18:23:41+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "22ec46c0a829",
-          "title": "Lakers Expected to Re\u2011Sign Austin Reaves, Giving LeBron James Time to Decide",
-          "original_title": "Los Angeles Lakers Expected To Re-Sign Austin Reaves, Giving LeBron James Space To Decide His Future - Dallas Hoops Journal",
-          "summary": "According to the Dallas Hoops Journal, the Lakers are likely to re\u2011sign guard Austin Reaves this offseason. Securing Reaves would allow LeBron James more flexibility to consider his own future with the franchise.",
-          "key_points": [
-            "Austin Reaves is projected to receive a new contract.",
-            "LeBron James\u2019 decision timeline could be extended.",
-            "Re\u2011signing Reaves is seen as a priority for roster continuity."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMkFaUnVEN0VKVmJqbjdpWnJOREhCd05rTUZhdkNneXIxR1JmZng3bElzWkNvanFJdW1tb2J0UE80dW5sY3NfanRtM1Z2dlgxVXd1RmgwUW5VMHZHVUhNSDhSTzBkVU11Mmp4c2hFVkVtOGZTak1vNDJzLVFpeWhlcmFtOXY5ekhmNUtja2lRZ1BnaFNQNFRyeFB3aG1SWklLYjJ0LQ?oc=5",
+          "id": "4ae39648adc0",
+          "title": "LeBron James-Lakers reunion looks bleaker after Rich Paul's latest reveal - Lake Show Life",
+          "original_title": "LeBron James-Lakers reunion looks bleaker after Rich Paul's latest reveal - Lake Show Life",
+          "summary": "LeBron James-Lakers reunion looks bleaker after Rich Paul's latest reveal&nbsp;&nbsp;Lake Show Life",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNVZXLUdKRjhJbmQ2YTdCWU02dE1wS3VPa3g3QkpPcm4yWjJyQUNRamJyNVBwaVh1b2lKMFZfaDQtYWFFbU1NSmZWUDBzVE5GMDZjQlFqc1N5cThveW5XQXFXSTlPTUl2ak8zZlg2bmR2NHdGQ3daYzVHZGFxeEdTekJSY21vM2ZqWTl5b2pWdDg3cDA1bVBHZU1kYU1SLWs?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-06-15T17:57:50+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "f1c5989265b1",
-          "title": "Lakers Prioritizing Retention of Two Key Free Agents",
-          "original_title": "Lakers Reportedly Prioritizing Retaining Two Free Agents",
-          "summary": "Lakers Nation reports that the team\u2019s offseason focus is on keeping two free agents who played significant roles last season, aiming to build around superstar Luka\u202fDoncic and contend for a championship. The front office views these players as essential pieces for roster stability.",
-          "key_points": [
-            "Two major free agents are targeted for retention.",
-            "Goal is to construct a championship\u2011contending roster around Luka\u202fDoncic.",
-            "Retaining these players is considered a priority for the front office."
-          ],
-          "link": "https://lakersnation.com/lakers-reportedly-prioritizing-retaining-two-free-agents/",
-          "source": "Lakers Nation",
-          "published": "2026-06-15T17:50:53+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "5f044948735a",
-          "title": "Lakers Reportedly Prioritizing Retaining Two Free Agents",
-          "original_title": "Lakers Reportedly Prioritizing Retaining Two Free Agents - Lakers Nation",
-          "summary": "A brief Google News snippet reiterates the Lakers Nation report that the franchise is focused on re\u2011signing two important free agents this offseason.",
-          "key_points": [
-            "Emphasis on keeping two key contributors.",
-            "Consistent with earlier Lakers Nation coverage."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRlpRUkxzVkNwVlNoM3p2M0dfdFlQdUx6a2ZaNVczMkk0ZnZHSEg1amZYakRpVkdUbVhCY3BWRDZBY29mdElXalJtYUtuaTUya2swVVZuNlItNFdoN21DcThsNTZKYkRUMzViOWlHUjUtZWZ1cHhMOEphNjFqMUozSkZ4azE1Q25FRXc?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-06-15T17:50:53+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "f9d64a36e7cd",
-          "title": "Mikal Bridges Goes Off on Instagram Live About AR",
-          "original_title": "Mikal Bridges drunk on IG live talking about AR \ud83e\udd23",
-          "summary": "Mikal Bridges appeared on an Instagram Live stream where he talked animatedly about augmented reality (AR), drawing humorous reactions from viewers. The clip was shared on the r/lakers subreddit, sparking a light\u2011hearted discussion among fans.",
-          "key_points": [
-            "Bridges discussed AR technology during a live Instagram broadcast.",
-            "The moment was posted on Reddit\u2019s r/lakers community.",
-            "Fans responded with jokes and memes, highlighting the informal nature of the clip."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1u6nkld/mikal_bridges_drunk_on_ig_live_talking_about_ar/",
-          "source": "Reddit r/lakers",
-          "published": "2026-06-15T17:40:52+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "7f836723c3bf",
-          "title": "Austin Reaves\u2019 Return to L.A. in Jeopardy Amid Trade Rumors",
-          "original_title": "Austin Reaves\u2019 return to Los Angeles in jeopardy as multiple teams expected to take big swings - New York Post",
-          "summary": "The New York Post reports that the Los Angeles Lakers\u2019 chances of retaining guard Austin Reaves are uncertain as multiple teams are reportedly preparing to make significant trade moves. The speculation centers on Reaves\u2019 value as a versatile scorer and defender.",
-          "key_points": [
-            "Reaves\u2019 future with the Lakers is unclear due to potential trade interest.",
-            "Several teams are said to be planning \u201cbig swings\u201d to acquire him.",
-            "The situation adds uncertainty to the Lakers\u2019 roster planning for the upcoming season."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc0xSbDk4UEtDVnFmeTBpeUdpazZLMndiN0p1bmd0eVg1UnUyRzgwVWF2OGM5QVpfNk1JSWpsUHZpcE9SNXdPMWxCUWZSOWc4ZXFKQmo0N2tycmVOTlBCcTNWd2NUZUNZc2NPbXFmV25UUnljWFRRamNjUXNfYjg3WlByQXZXUDF3WmdBeEtjZXJaMU9JSmJSSVY0MTY?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-06-15T17:11:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "9beb099879a8",
-          "title": "West Virginia Kid Fist\u2011Bumps LeBron James on His Birthday",
-          "original_title": "How a West Virginia Kid Got to Fist-Bump LeBron James on His Birthday at a Lakers Game - Black By God",
-          "summary": "A story from Black By God details how a young fan from West Virginia managed to meet LeBron James at a Lakers game and give him a birthday fist\u2011bump. The encounter was highlighted as a memorable moment for both the player and the fan.",
-          "key_points": [
-            "The fan secured a brief, personal interaction with LeBron James during a home game.",
-            "LeBron celebrated his birthday with the unexpected fist\u2011bump.",
-            "The incident was covered as a feel\u2011good human\u2011interest piece."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR2xzaWdZSV8zb0JpMTNDdUVEc09BY0FOaV93SENpeGNKQ190SUdPc3RuVzJfRHFOU2hBZWdnZG04c2YxLU1QZEliZ3RrUUNWTG1IV0hzSlVSMjJZc1VrNUgtUXhFQkI3ejVOdV9GLS0ycXZycFRLak9sd1NTMjdwWHFoTEd2dnBVMFFfNzNWQVFyQXhBRENCVTQzYkF4ZmZPTy1aeEVkbUo5NW5kNzI2Y3JrU1hGcU5UTDMwWi1fd3RnSzA?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-06-15T16:53:12+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "9d4b0d741339",
-          "title": "Dalton Knecht Hosts First Basketball Camp in Tennessee",
-          "original_title": "Dalton Knecht: \u2018Special\u2019 To Have First Basketball Camp In Tennessee",
-          "summary": "Lakers Nation reports that sophomore forward Dalton Knecht, still adjusting to the NBA after his college career, organized his inaugural basketball camp in Tennessee. The event aims to give young players a chance to learn from a professional athlete despite Knecht\u2019s limited playing time with the Lakers.",
-          "key_points": [
-            "Knecht, a second\u2011year forward, held a youth basketball camp in Tennessee.",
-            "The camp reflects his effort to give back while continuing his own development.",
-            "His NBA transition has been challenging, especially after a rescinded trade involving Mark Willia."
-          ],
-          "link": "https://lakersnation.com/dalton-knecht-special-to-have-first-basketball-camp-in-tennessee/",
-          "source": "Lakers Nation",
-          "published": "2026-06-15T16:30:50+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "4259b8ef0080",
-          "title": "Hawks and Bulls Touted as Likely Destinations for Lakers\u2019 $16M Center",
-          "original_title": "Hawks, Bulls named top landing spots for unplayable $16 million Lakers center - Yahoo Sports",
-          "summary": "Yahoo Sports notes that the Atlanta Hawks and Chicago Bulls are emerging as the top candidates to acquire the Los Angeles Lakers\u2019 $16\u202fmillion center, who is currently deemed \u201cunplayable\u201d due to performance concerns. Both teams are reportedly evaluating the financial and roster implications of a potential trade.",
-          "key_points": [
-            "The $16\u202fmillion center is considered expendable by the Lakers.",
-            "Atlanta Hawks and Chicago Bulls are leading rumors as possible landing spots.",
-            "Trade discussions focus on salary cap relief and roster fit for the receiving team."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcXdmaEtyX0x4Q0w1Sy0yRHU2YjRJUURWQW9RTDVuZUN0clRZS3ZYWXF5YWZKdnVhWGYzWlJOdDlyWV90U21LS1JfalBGQnl6M0VFT3czYkFfX0MzZHdreU5CUDNBdG55ang5Q2xjX3B2TFhwNG5Jc3RhODRibVA1V3pTTHU?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-06-15T15:30:01+00:00",
+          "published": "2026-06-15T18:00:02+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -159,153 +141,133 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "9e0afd42398d",
-          "title": "Wizards C Alex Sarr Undergoes Foot Surgery, Aims for 2026\u201127 Return",
-          "original_title": "Wizards C Alex Sarr reportedly has surgery on fractured right foot, but expected to be ready for 2026-27 season",
-          "summary": "Alex Sarr had surgery to repair a fractured right foot after a season hampered by hamstring and toe injuries that limited him to 48 games. He missed the Wizards' final nine games and is projected to be healthy for the 2026\u201127 season.",
+          "id": "ce1aa147a333",
+          "title": "Brunson, Knicks Celebrate Title While Criticizing Wembanyama",
+          "original_title": "Jalen Brunson, the Knicks and fans toast title and blast Wemby",
+          "summary": "Jalen Brunson, the NBA Finals MVP, raised a glass to the New York Knicks' championship and called out Victor Wembanyama for his aggressive play in the series, including a shove in Game 3, an undercut in Game 5, and refusing a post\u2011game handshake. The remarks highlighted lingering tension between the two teams despite the Knicks' victory.",
           "key_points": [
-            "Sarr's foot fracture required surgical intervention.",
-            "Injuries limited him to 48 games last season.",
-            "Recovery timeline points to readiness for the 2026\u201127 campaign."
+            "Brunson publicly praised the Knicks' title run and highlighted the team's success.",
+            "He criticized Spurs rookie Victor Wembanyama for on\u2011court incidents and a missed handshake.",
+            "The comments underscored the competitive and personal friction that existed during the Finals."
           ],
-          "link": "https://sports.yahoo.com/nba/article/wizards-c-alex-sarr-reportedly-has-surgery-on-fractured-right-foot-but-expected-to-be-ready-for-2026-27-season-182108859.html",
+          "link": "https://sports.yahoo.com/articles/jalen-brunson-knicks-fans-toast-205739436.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-06-15T18:21:08+00:00",
+          "published": "2026-06-15T20:57:39+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "5bd004f4f755",
-          "title": "Bulls Target Tiago Splitter as New Head Coach",
-          "original_title": "Bulls reportedly hiring Tiago Splitter as head coach as Chicago looks for fresh start",
-          "summary": "Chicago is reportedly in talks to hire former NBA player and last season's Portland Trail Blazers interim coach Tiago Splitter to lead the Bulls. The move is seen as a fresh start for a franchise seeking to improve its performance.",
+          "id": "289ebee96b4f",
+          "title": "Why the Spurs Shouldn't Overreact to Their Finals Loss",
+          "original_title": "Do the Spurs need to shake it up? Why San Antonio shouldn't overreact to NBA Finals disappointment",
+          "summary": "Despite an earlier-than-expected playoff run, the San Antonio Spurs fell short in the NBA Finals and now face pressure to make changes. The article argues the organization should focus on incremental improvements rather than drastic roster overhauls.",
           "key_points": [
-            "Splitter served as Portland's interim head coach in the 2023\u201124 season.",
-            "Chicago is exploring him as the next full\u2011time head coach.",
-            "The hire is intended to signal a new direction for the Bulls."
+            "The Spurs exceeded preseason expectations by reaching the Finals.",
+            "Management is cautioned against making knee\u2011jerk moves after the disappointment.",
+            "Long\u2011term growth should center on player development and strategic additions."
           ],
-          "link": "https://www.cbssports.com/nba/news/bulls-tiago-splitter-head-coach/",
-          "source": "CBS Sports NBA",
-          "published": "2026-06-15T18:00:04+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "56594c2a549e",
-          "title": "Free\u2011Agent Small Forward Market: What\u2019s Next for LeBron James?",
-          "original_title": "Top NBA free-agent small forwards: What will LeBron James do?",
-          "summary": "Yahoo Sports outlines the top small forwards available in this year\u2019s free\u2011agent pool and examines potential scenarios for LeBron James. The analysis compares James' options with other high\u2011profile wing players.",
-          "key_points": [
-            "LeBron James is a focal point of the small\u2011forward free\u2011agent discussion.",
-            "The article reviews other leading free\u2011agent small forwards.",
-            "It highlights contract expectations and possible team fits."
-          ],
-          "link": "https://sports.yahoo.com/nba/article/top-nba-free-agent-small-forwards-what-will-lebron-james-do-174222294.html",
+          "link": "https://sports.yahoo.com/nba/article/do-the-spurs-need-to-shake-it-up-why-san-antonio-shouldnt-overreact-to-nba-finals-disappointment-205054360.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-06-15T17:42:22+00:00",
+          "published": "2026-06-15T20:50:54+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "f0debee360c1",
-          "title": "Celtics Offer Giannis Antetokounmpo; Aaron Gordon Attracts Interest",
-          "original_title": "NBA rumors: Celtics have made an offer for Giannis Antetokounmpo; Aaron Gordon drawing interest",
-          "summary": "CBS Sports reports that Boston has extended an offer to Giannis Antetokounmpo, while Aaron Gordon is generating interest from multiple teams. The offseason is in full swing following the Knicks' recent championship win.",
+          "id": "dfaabc170b85",
+          "title": "FanDuel Names Spurs and Thunder Co\u2011Favorites for 2027 Title",
+          "original_title": "Spurs, Thunder Open as 2027 Title Cofavorites, Knicks Sit 4th",
+          "summary": "Betting platform FanDuel has listed the San Antonio Spurs and Oklahoma City Thunder as joint front\u2011runners for the 2027 NBA championship, each at +250 odds. In the Eastern Conference, the Boston Celtics (+600) and New York Knicks (+750) are the leading contenders.",
           "key_points": [
-            "Boston Celtics have reportedly made a formal offer to Giannis Antetokounmpo.",
-            "Aaron Gordon is being linked to several potential suitors.",
-            "The NBA offseason has officially begun after the Knicks secured the title."
+            "Spurs and Thunder share the top odds for a 2027 title, reflecting strong projected rosters.",
+            "Boston and New York are the highest\u2011priced Eastern Conference picks.",
+            "Odds indicate a competitive landscape with multiple teams viewed as viable future champions."
           ],
-          "link": "https://www.cbssports.com/nba/news/nba-trade-rumors-giannis-antetokounmpo-celtics-offer-nuggets-aaron-gordon/",
-          "source": "CBS Sports NBA",
-          "published": "2026-06-15T17:34:21+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "fa15d2000487",
-          "title": "Bulls Receive Instant Grade for Hiring Tiago Splitter as Head Coach",
-          "original_title": "Chicago Bulls instant grade for Tiago Splitter hire as franchise\u2019s next head coach",
-          "summary": "Yahoo Sports gives an immediate evaluation of the Chicago Bulls' decision to appoint Tiago Splitter as head coach. Splitter, who guided Portland to its first playoff appearance in five years as interim coach, is expected to usher in a new era for the franchise.",
-          "key_points": [
-            "Splitter led the Trail Blazers to a playoff berth, ending a five\u2011year drought.",
-            "Chicago hired him on Monday as the permanent head coach.",
-            "Analysts view the hire as a positive step toward rebuilding the Bulls."
-          ],
-          "link": "https://sports.yahoo.com/articles/chicago-bulls-instant-grade-tiago-173216181.html",
+          "link": "https://sports.yahoo.com/articles/spurs-thunder-open-2027-title-204500446.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-06-15T17:32:16+00:00",
+          "published": "2026-06-15T20:45:00+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "7164671fa032",
-          "title": "Knicks Crowned 2026 NBA Champions Amid WNBA Commissioner's Cup Update",
-          "original_title": "The Knicks are champions!\u00a0+ WNBA Commissioner's\u00a0Cup check-in",
-          "summary": "Nekias Duncan and Steve Jones recap the New York Knicks' historic run to the 2026 NBA title, highlighting key moments and roster moves that propelled the team. The piece also provides the latest standings for the WNBA Commissioner's Cup.",
+          "id": "b5e59180a023",
+          "title": "Bulls Near Deal to Hire Tiago Splitter as Head Coach",
+          "original_title": "Sources: Bulls finalizing hiring of Splitter as HC...",
+          "summary": "Chicago Bulls are in advanced talks to appoint Tiago Splitter as their new head coach, succeeding Billy Donovan. Splitter previously led the Portland Trail Blazers to a 42\u201120 record, making him a sought\u2011after candidate.",
           "key_points": [
-            "Knicks secured their first championship since 1973, ending a 53\u2011year title drought.",
-            "Coaching adjustments and mid\u2011season acquisitions were cited as turning points.",
-            "WNBA Commissioner's Cup leaderboard was updated, with the top three teams identified."
+            "Splitters' success with the Trail Blazers positions him as a top coaching prospect.",
+            "The Bulls aim to replace Billy Donovan with a fresh voice and modern approach.",
+            "Final contract details are pending, but sources confirm the deal is near completion."
           ],
-          "link": "https://sports.yahoo.com/nba/article/the-knicks-are-champions--wnba-commissioners-cup-check-in-173018430.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-15T17:30:18+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/49072541/sources-bulls-finalizing-hire-tiago-splitter-head-coach",
+          "source": "ESPN NBA",
+          "published": "2026-06-15T20:26:10+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "fc6269cfd60a",
-          "title": "Top Prospect Darryn Peterson Visits Wizards, Skips Other Teams",
-          "original_title": "NBA Draft prospect Darryn Peterson reportedly visits Wizards, but won't meet with other teams",
-          "summary": "NBA draft analyst Darryn Peterson toured Washington\u2019s facilities but reportedly declined meetings with other franchises. Once projected as a potential No.\u202f1 pick, health concerns and questions about his motivation have caused his stock to fall.",
+          "id": "d902a173bbd0",
+          "title": "Wizards Center Alex Sarr Undergoes Foot Surgery",
+          "original_title": "Sources: Wizard's Sarr fractures foot, has surgery...",
+          "summary": "Washington Wizards announced that center Alex Sarr had surgery to repair a fractured right foot. The team expects him to be fully recovered and ready for the start of the upcoming season.",
           "key_points": [
-            "Peterson\u2019s visit to the Wizards suggests mutual interest despite his slide on draft boards.",
-            "Recent injury history and perceived lack of drive have led scouts to reassess his ceiling.",
-            "Analysts now project him as a late\u2011first\u2011round or early\u2011second\u2011round selection."
+            "Sarr's fracture required surgical intervention.",
+            "Recovery timeline projects a return before the season opener.",
+            "The Wizards anticipate his health will bolster their front\u2011court depth."
           ],
-          "link": "https://sports.yahoo.com/nba/article/nba-draft-prospect-darryn-peterson-reportedly-visits-wizards-but-wont-meet-with-other-teams-172957650.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-15T17:29:57+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/49073891/sources-wizards-alex-sarr-surgery-fracturing-foot",
+          "source": "ESPN NBA",
+          "published": "2026-06-15T20:26:10+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "c456a8d9fd81",
-          "title": "Giannis Antetokounmpo Trade Destinations: Ranking the Top 12 Landing Spots",
-          "original_title": "Giannis Antetokounmpo trade destinations: Final ranking of 12 landing spots, from Heat to mystery teams",
-          "summary": "CBS Sports evaluates twelve NBA teams that could realistically acquire Giannis Antetokounmpo, weighing fit, salary\u2011cap flexibility, and championship outlook. While the Bucks have not confirmed a move, the ranking outlines the most plausible destinations.",
-          "key_points": [
-            "Miami Heat tops the list due to cap space and a complementary roster.",
-            "Los Angeles Lakers and Boston Celtics appear as strong contenders given market size and need for a superstar.",
-            "Several small\u2011market teams rank lower because of cap constraints or lack of surrounding talent."
-          ],
-          "link": "https://www.cbssports.com/nba/news/giannis-antetokounmpo-trade-destinations-final-landing-spots/",
-          "source": "CBS Sports NBA",
-          "published": "2026-06-15T17:23:03+00:00",
+          "id": "f299f54eea78",
+          "title": "Peterson visits Wizards, won't meet other teams",
+          "original_title": "Peterson visits Wizards, won't meet other teams",
+          "summary": "Top NBA draft prospect Darryn Peterson has visited the Wizards but does not plan to grant another team a meeting, sources told ESPN.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/49071272/sources-darryn-peterson-visits-wizards-meet-other-teams",
+          "source": "ESPN NBA",
+          "published": "2026-06-15T20:26:10+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "e31016890e38",
-          "title": "2026 Draft Scouting: Comparing the Four Premier Lead\u2011Guard Prospects",
-          "original_title": "2026 NBA Draft Scouting: The strengths, upside and risks of the draft's four premier lead guards",
-          "summary": "CBS Sports breaks down the skill sets, upside, and risk factors of Darius Acuff Jr., Keaton Wagler, Mikel Brown Jr., and Kingston Flemings, the four guard candidates most likely to become franchise cornerstones. The analysis highlights what separates each player at the top of the draft.",
-          "key_points": [
-            "Acuff Jr. offers elite playmaking and defensive versatility but has limited shooting consistency.",
-            "Wagler is a high\u2011volume scorer with a polished jump shot, yet his decision\u2011making under pressure raises concerns.",
-            "Brown Jr. combines size and athleticism, while Flemings stands out for his basketball IQ and leadership qualities."
-          ],
-          "link": "https://www.cbssports.com/nba/news/2026-nba-draft-darius-acuff-keaton-wagler-mikel-brown-kingston-flemings/",
-          "source": "CBS Sports NBA",
-          "published": "2026-06-15T17:18:20+00:00",
+          "id": "dade0a940688",
+          "title": "Knicks cap brilliant run with long-awaited NBA tit...",
+          "original_title": "Knicks cap brilliant run with long-awaited NBA tit...",
+          "summary": "During a postseason in which comeback victories had become their specialty, the Knicks completed one of the most dominant playoff runs in NBA history with a title-clinching 94-90 win over the Spurs.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/49056351/knicks-rally-again-vs-spurs-capture-first-nba-title-1973",
+          "source": "ESPN NBA",
+          "published": "2026-06-15T20:26:10+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "57064e70a33a",
-          "title": "What Other Teams Can Learn From the Knicks' Unusual Championship Roster",
-          "original_title": "What can other teams learn from the Knicks' championship? Why roster may be most anomalous in NBA history",
-          "summary": "CBS Sports examines why the 2026 New York Knicks' roster is considered one of the most atypical in NBA history, noting the lack of a traditional, once\u2011in\u2011a\u2011lifetime superstar. The article explores strategic lessons for other franchises.",
-          "key_points": [
-            "The Knicks succeeded through depth, defensive cohesion, and role-player development rather than a single marquee star.",
-            "Front office emphasized analytics\u2011driven acquisitions and flexible contracts.",
-            "Other teams may consider building around a balanced core instead of chasing a super\u2011star at all costs."
-          ],
-          "link": "https://www.cbssports.com/nba/news/knicks-champion-roster-building-anomaly/",
-          "source": "CBS Sports NBA",
-          "published": "2026-06-15T17:12:46+00:00",
+          "id": "212542b2a6b6",
+          "title": "Three teams ahead of Knicks in 2027 title odds",
+          "original_title": "Three teams ahead of Knicks in 2027 title odds",
+          "summary": "Three teams -- the Spurs, Thunder and Celtics -- have better odds to win the 2027 NBA championship than the Knicks at sportsbooks around the nation.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/49061191/three-teams-ahead-champion-knicks-2027-title-odds",
+          "source": "ESPN NBA",
+          "published": "2026-06-15T20:26:10+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "f8d457519f1f",
+          "title": "Euphoric fans celebrate Knicks' title across NYC",
+          "original_title": "Euphoric fans celebrate Knicks' title across NYC",
+          "summary": "It was bedlam on Broadway as the Knicks won their first NBA championship in 53 years.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/49059888/knicks-fans-celebrate-nyc-first-title-53-years",
+          "source": "ESPN NBA",
+          "published": "2026-06-15T20:26:10+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "751bda8774e7",
+          "title": "Wemby: Losing in Finals 'biggest lesson of my life...",
+          "original_title": "Wemby: Losing in Finals 'biggest lesson of my life...",
+          "summary": "Spurs star Victor Wembanyama says he is \"not running away\" from the pain of losing to the Knicks in the NBA Finals, calling the experience \"the biggest learning moment\" of his life.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/49058872/wemby-says-spurs-losing-finals-biggest-lesson-my-life",
+          "source": "ESPN NBA",
+          "published": "2026-06-15T20:26:10+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -314,44 +276,59 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "23ee049b02c6",
-          "title": "Shaq Weighs In: LeBron vs. Kobe",
-          "original_title": "Shaquille O'Neal on whether he would take LeBron James or Kobe Bryant - Yahoo Sports",
-          "summary": "Shaquille O'Neal discussed which superstar he would prefer to have on a team\u2014LeBron James or Kobe Bryant. He highlighted the distinct skill sets and personalities of both players, noting how each would fit differently within a roster.",
+          "id": "fd944c65f70b",
+          "title": "Luka Doncic Deserves More Credit for Lakers' Free\u2011Agent Signings Than Rob Pelinka",
+          "original_title": "Luka Doncic deserves more credit for Lakers' free agent signings than Rob Pelinka - Lake Show Life",
+          "summary": "The article argues that Dallas Mavericks star Luka\u202fDoncic played a larger role than general manager Rob Pelinka in influencing the Los Angeles Lakers' recent free\u2011agent acquisitions. It cites conversations and mutual respect between Doncic and Lakers executives that helped shape the roster moves.",
           "key_points": [
-            "Shaq compared LeBron\u2019s versatility and passing to Kobe\u2019s scoring and work ethic.",
-            "He suggested the choice would depend on team needs\u2014playmaking versus pure scoring.",
-            "Both legends were praised for their championship experience and leadership."
+            "Doncic reportedly communicated directly with Lakers staff about his preferences for potential teammates.",
+            "The piece suggests Pelinka\u2019s public credit may overlook the behind\u2011the\u2011scenes influence of star players.",
+            "Lakers\u2019 recent signings are framed as a collaborative effort rather than a solely front\u2011office decision."
           ],
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbVlZZHYtbjdnR0dpS0EtMk80TFVnVU02OEJMU3RkQl8tOUtTMWFpcDVHTE45TW5sV0xPQ0FLSzZrZDVkYjB1UzFxdDZ2bzNGQUh4bnZMU3RmSHhRMTJMZTdIMkpZOE9HN0hWSEtZc1lwWHVGN0ZrckZhbnBCdXFmZThPcXlNZWNRbVlpbEtR?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-06-15T18:00:21+00:00",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeHZuSjlfRDBEd2V5dnRURThLcUd6bWNYTWdnMzlqU3N0TnZ2bkw3Ty1ITnB6R25Na2N5SmpyT084cmNFNTh3YVB4QTZubk5OblZRVVhmcU5yd0ZpSkNiTWtoM0Z2RUoyelBZTzlkenJ0VThKZng2U1lPb19WbkhzaVpmUkhwUTBoR3pHQUhsV1c4RWdMQ3Jra1JYXzMtS3owWXJDOUQ1SGNjZ0Nj?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-06-15T21:00:02+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "4ae39648adc0",
-          "title": "LeBron\u2011Lakers Reunion Looks Bleaker After Rich Paul\u2019s Reveal",
-          "original_title": "LeBron James-Lakers reunion looks bleaker after Rich Paul's latest reveal - Lake Show Life",
-          "summary": "Agent Rich Paul disclosed new information that complicates LeBron James' potential return to the Los Angeles Lakers. The details suggest financial and roster constraints that could hinder any reunion.",
+          "id": "e43b4a053a6d",
+          "title": "Important Lakers & NBA Offseason Dates",
+          "original_title": "Important Lakers & NBA Offseason Dates - Lakers Nation",
+          "summary": "Lakers Nation compiled a calendar of key offseason milestones for the Los Angeles Lakers and the NBA, covering free\u2011agency start dates, trade deadlines, draft events, and contract deadlines. The guide helps fans track when roster moves and league activities will occur.",
           "key_points": [
-            "Paul hinted at salary\u2011cap challenges and existing contract commitments.",
-            "Lakers\u2019 front office reportedly needs to clear significant cap space before pursuing LeBron.",
-            "The revelation has dampened optimism among fans and analysts."
+            "Free\u2011agency period opens on July\u202f1, with the NBA\u2019s moratorium ending on July\u202f6.",
+            "Trade deadline is set for February\u202f9, 2025, and the NBA Draft takes place on June\u202f26\u201127, 2025.",
+            "Contract deadlines, qualifying offers, and player option dates are highlighted for Lakers personnel."
           ],
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNVZXLUdKRjhJbmQ2YTdCWU02dE1wS3VPa3g3QkpPcm4yWjJyQUNRamJyNVBwaVh1b2lKMFZfaDQtYWFFbU1NSmZWUDBzVE5GMDZjQlFqc1N5cThveW5XQXFXSTlPTUl2ak8zZlg2bmR2NHdGQ3daYzVHZGFxeEdTekJSY21vM2ZqWTl5b2pWdDg3cDA1bVBHZU1kYU1SLWs?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BQzk5anJYYy16RmZNdWZONmlBblJmbDVWUGZPQjhxU2xuZ1N4U2hmdVBWOWU2WWY2ek82WHBkSXNHOFg1bHhVWWtuVWdhRmlqWFJfZU5PS1IxaXY1d1JWU1J0Rkw5b3VPejZJNHlRdw?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-06-15T20:20:36+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "8c5f88bfbea9",
+          "title": "Shaquille O'Neal Weighs Choosing Between LeBron James and Kobe Bryant",
+          "original_title": "Shaquille O'Neal on whether he would take LeBron James or Kobe Bryant - LeBron Wire",
+          "summary": "Shaquille O'Neal discussed a hypothetical scenario in which he could select either LeBron James or Kobe Bryant for a team, explaining the distinct qualities each player brings. O'Neal highlighted Kobe\u2019s killer instinct and work ethic versus LeBron\u2019s versatility and playmaking.",
+          "key_points": [
+            "O'Neal praised Kobe for his competitive fire and scoring ability.",
+            "He noted LeBron\u2019s all\u2011around skill set, size, and ability to elevate teammates.",
+            "The conversation underscores the differing impact styles of the two NBA legends."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOekFCeHdyMHg1MDcwQnJpLWpkcWtJUjZKRC1Tdm5BUjZaLW1sTjRMOUN3WGZnSERaZTVmdG9KZU92SFpsbktMTVdQSXp1SGJ2NXJweldRamxjeGZwTmt6UWtrZ0tHdFZ2Z19kN1NlbkJST3ZlZ1ZRTWdPU0MxQzYzbVIyUlR4c01uTE5Jc09YQTlkZHdkakt0a0M5aWgyazR0OUplRnZ2ZkJOVXhxSVFpTUtxd1BhMHQ2WUZYVWpRUm04clZPUlNwd212cWEtdUlhWjRMX3RHbVA?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-06-15T18:00:02+00:00",
+          "published": "2026-06-15T18:00:00+00:00",
           "topic": "Lakers Players"
         },
         {
           "id": "1b62ad49f9dc",
-          "title": "Free\u2011Agent Small Forwards: What\u2019s Next for LeBron?",
+          "title": "Top NBA Free\u2011Agent Small Forwards: What Will LeBron James Do?",
           "original_title": "Top NBA free-agent small forwards: What will LeBron James do? - Yahoo Sports",
-          "summary": "Yahoo Sports evaluated the top free\u2011agent small forwards and examined how LeBron James\u2019 future decisions could impact the market. The article outlines which players could become targets for teams looking to build around or complement LeBron.",
+          "summary": "Yahoo Sports evaluated the market for elite free\u2011agent small forwards and examined how LeBron James fits into that landscape as his contract approaches expiration. The analysis considers team needs, salary cap implications, and James\u2019 potential role on a contending roster.",
           "key_points": [
-            "Analysis of players like Kevin Durant, Kawhi Leonard, and Paul George as potential fits.",
-            "Discussion of how LeBron\u2019s next contract could dictate roster construction for contenders.",
-            "Implications for salary\u2011cap flexibility and championship windows."
+            "LeBron is projected to command a max\u2011type contract despite his age, given his marketability and on\u2011court value.",
+            "Teams lacking a veteran leader may view James as a strategic acquisition.",
+            "The piece compares James to other high\u2011profile free\u2011agent forwards in terms of fit and financial impact."
           ],
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbVV5RF9qT1BkYXhXUWtyV3RKOTFkNWxNRC1Gd2ZKT3hURHhoTWlNUktoYUdFbVNZSVlnQWY4TW9uNWdnbm9EcE5vTWlQVkhRNm1zVFFCcUhDaGVaWXUyZmJDejJuZ0JmX2NOamI2OHRoOXhKUFpUTjJ3YVh6MW05bUh6bUpwU2xPS184aVd0V3ZXQ1FUYlQ1SGVmNWZ0R0YtcGtsbHRtcUd4RzNfUGZjSQ?oc=5",
           "source": "Google News - LeBron",
@@ -360,107 +337,17 @@
         },
         {
           "id": "7e9c3267fb27",
-          "title": "Warriors Get Insider Tip on LeBron\u2019s Upcoming Decision",
+          "title": "Warriors Receive Major Insider Message on LeBron James\u2019 Upcoming Decision",
           "original_title": "Warriors Receive Major Insider Message on LeBron James\u2019 Upcoming Decision - heavy.com",
-          "summary": "Heavy.com reported that the Golden State Warriors received a credible insider message regarding LeBron James\u2019 next move. The tip suggests the Warriors are being considered as a possible destination, though details remain unconfirmed.",
+          "summary": "Heavy.com reported that the Golden State Warriors obtained an insider tip regarding LeBron James\u2019 free\u2011agency intentions. The message suggests the Warriors are a serious contender for James, prompting early strategic planning.",
           "key_points": [
-            "Insider claims LeBron is evaluating teams with strong championship prospects.",
-            "Golden State\u2019s roster and cap situation make them a plausible option.",
-            "No official statements from LeBron, his camp, or the Warriors have been made."
+            "The insider claim indicates James is weighing a move to a team with championship potential.",
+            "Golden State\u2019s front office is reportedly preparing roster and cap scenarios to accommodate a possible signing.",
+            "No official confirmation from James or his representatives has been released."
           ],
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUy1UZ2ktS2Jnc1dEa3lKeFdIRW95TV91dkxLSmJObGdsS2xqbDFOSnBYYjBfMjAzeEhQejJRUUxuY2puOE9jZnBhMzNZYWgzdmdmeV9pZ3JZUzRWVlZIX3Q2M1RyWjFxZmFnYy1xSGJ3Qm1uUjdybW92UWdHak9qNTNSN2xLTlBwNGt2WmFrNGdaUUhFNzZVUnREZHQ?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-06-15T17:17:42+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "15d4440613ba",
-          "title": "LeBron James Puts J.\u202fCole\u2019s \u2018The Fall\u2011Off\u2019 on Heavy Rotation",
-          "original_title": "LeBron James Says J. Cole\u2019s 'The Fall-Off' Is on Heavy Rotation - Yahoo",
-          "summary": "LeBron James revealed that he\u2019s been listening to J.\u202fCole\u2019s track \u201cThe Fall\u2011Off\u201d frequently. He praised the song\u2019s lyrical depth and said it resonates with his mindset during the season.",
-          "key_points": [
-            "LeBron highlighted specific verses that motivate him on and off the court.",
-            "The endorsement adds to J.\u202fCole\u2019s cultural relevance within the NBA community.",
-            "No further commentary on music preferences or future playlists."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOEVlYzQ5ODdNdHBtRS1EZWlFUDFGenJMbG1tNzBBQnB3dGhSVWFIMHdRRDhWTkxzTGt0eWFBeUkzYkszaEMzMUYwMkc4SnNpcmdtdElYY3RWdmlPUnZwM3NYOXVBai01OS1rZ21MVkRLUm5BR1NaTHpjbXlMY3loSTF3bzFtVDlpX0JXME1CcVBJbXBY?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-06-15T17:11:08+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "202c4d9f17bd",
-          "title": "Knicks Championship Merchandise Sets Fanatics Record, Doubling Lakers Sales Since 2020",
-          "original_title": "Knicks NBA Championship Gear Sets Fanatics Record, Doubles LeBron James, Lakers Sales from 2020 - Bleacher Report",
-          "summary": "Fanatics reported that sales of New York Knicks NBA championship apparel have set a new company record. The surge in Knicks gear sales has also caused LeBron James and Los Angeles Lakers merchandise to double compared with 2020 levels.",
-          "key_points": [
-            "Knicks championship merchandise generated the highest sales ever for Fanatics.",
-            "Lakers and LeBron James apparel sales have risen 100% since 2020.",
-            "The growth reflects heightened fan interest following the Knicks' recent title run."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPU2pyY2xaRjlZT3ZfazlnaVpWQVhDVzl6Mmh5dThaVzR1VDNVcmhXRWQzS2J0RFVGYV9KRUpnZ3JTTGlMVjFKSkVQbjh5Z0FzY1pwc1FxVkM0a1EyYzg1MFhnSkpwN25xLWVZX0h3cTJ2UFJTdlFybkNoVTR3cnUzYlE0VDN4azNna2lFMmRkZ3RPSWVNMjFUaUFKWDVPNFp2V1JCWlktelNpNkRyQy1KY05RUk0zcVBhR2JWVVZjOHVRQnltNW16YzdPcHZoUQ?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-06-15T16:06:41+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "31740b7e3b2d",
-          "title": "Lakers Identified as Destination for Former Mavericks Teammate of Luka Don\u010di\u0107",
-          "original_title": "Lakers named landing spot for Luka Doncic's ex-$11 million fan-favorite Mavericks teammate - sportingnews.com",
-          "summary": "Sporting News reports that the Los Angeles Lakers have been named as the likely landing spot for the former Dallas Mavericks player who was a fan\u2011favorite on Luka Don\u010di\u0107\u2019s $11\u202fmillion contract. The move would add a veteran presence to the Lakers roster ahead of the upcoming season.",
-          "key_points": [
-            "The player previously earned $11\u202fmillion with the Mavericks alongside Don\u010di\u0107.",
-            "Lakers are positioned as his next team, pending contract negotiations.",
-            "The addition could provide depth and experience for Los Angeles."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTy1LQmVTbUt1cFZFOEFqR3k1VV9pUlV2Y1BOWjExbWlxSnlqTVQybGlBRU81cXh4aFE5dWtVUWI3QjRhcFJHbjJ4VVhaMXdnOFdta1pCMDBaajc0eHBJU1ZyV1J4aFBiTkRWUXpwQ3NnVmVlcndURUtkT0xmdEluVnpoRnJONmQ2RWFhV2VIa3pqMDFta1d0MkFEQXI5Y25RbHRETnFYNzRWTHNTUzhCU0lGVVhiMTUzdUpIUGtsZ0hIbmRNZTY2cG1xbzJ6c3Z3ZmhUekMxVWQxVWtTN1JMSEVWemtGdUI3Y1VJMFdiSW0?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-06-15T16:00:01+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "f088ea2abfd5",
-          "title": "'The Shop' Announces New Hosts to Replace LeBron James and Maverick Carter",
-          "original_title": "'The Shop' Finds New Hosts to Replace LeBron James and Maverick Carter - Variety",
-          "summary": "Variety reports that HBO\u2019s talk show 'The Shop' will bring in new hosts to take over from LeBron James and Maverick Carter. The network said the change is part of a broader effort to refresh the program\u2019s format and appeal.",
-          "key_points": [
-            "LeBron James and Maverick Carter will step down from hosting duties.",
-            "Two new personalities have been selected to lead the show.",
-            "The shift aims to keep the series relevant and attract a wider audience."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZVpseDdTaUJjenhNeGVNaHBtWTd4NDdRcnhDVnZoYTJKZ29TYXdDMzlwT3Vjb0Z3SnR4WVl3dUEtVWgzYWkweUdWSTFmeXJPcVpIYUd6TWpGU3JXUUx0M3FjN3JDVnl3Uk5vT1pOVm1SQVlDOU5sb3Qyc2kxbkFJSGx1R1V6RzZwWW83WFhScVBCUW10NFRqVE4zWGk1ZW5kZFE?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-06-15T16:00:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "38fe06f9899c",
-          "title": "Two\u2011Time Super Bowl Champion Criticizes Luka Don\u010di\u0107 While Praising Jalen Brunson\u2019s Title Run",
-          "original_title": "'He Don't Get It Done' -- 2-Time Super Bowl Champion Fires Stray at Luka Don\u010di\u0107 While Hailing Jalen Brunson's NBA Title Run - PFSN",
-          "summary": "PFSN highlights comments from a former NFL star who called Luka Don\u010di\u0107 \u201cnot getting it done\u201d and lauded Jalen Brunson\u2019s performance in the NBA title chase. The remarks reflect cross\u2011sport commentary on current NBA storylines.",
-          "key_points": [
-            "The ex\u2011Super Bowl champion expressed disappointment in Don\u010di\u0107\u2019s recent play.",
-            "He praised Brunson\u2019s leadership and contributions to his team\u2019s championship push.",
-            "The comments underscore growing interest from athletes in other leagues on NBA narratives."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ2piYW9TWWVXcXRpcmpGMjlnZVhkZTBWVHJ1SkU1VGxXQ3VpcUNVVjNaeEZFemlYNXItRS1SbktwYkJuUjhmamoyZDNEMjdXV1FRT21JWUl2Mm5MVHZ5NDZjbFp3OHNyWVE2RU9EMFpDYURUNzRmQ0NPNmFFRGQwX3N1OFNZUndaSmVVcWMwaTNsQkZBYWl3VDRWNUE2NFlHWGtaMA?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-06-15T15:59:02+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "aa970997987b",
-          "title": "Divorce Rumors About LeBron James and Savannah Unfounded, Reports Say",
-          "original_title": "Are LeBron James and Savannah getting a divorce? Rumors about NBA legend, wife don't have merit - Yahoo News Canada",
-          "summary": "Yahoo News Canada debunks circulating rumors that LeBron James and his wife Savannah are filing for divorce, stating there is no credible evidence to support the claim. The outlet emphasizes that the speculation lacks merit and appears to be based on speculation alone.",
-          "key_points": [
-            "No reliable sources confirm a divorce filing by LeBron and Savannah James.",
-            "The rumor appears to stem from unverified social\u2011media chatter.",
-            "Both the NBA star and his representatives have not addressed the claim publicly."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbDlINmRmQ2pnRk1LcjhHNjJqRHhyVXM3Y0QtQVFTNFQtbko5MnJ2d1pSd2hsVmVDbndnNEV4U0VyOERlSmhlbE5Ja0NCZmI5UGxIQXFJbjAzRVBjVkNLLVNEZ05hTThuSWE5VGlLbEVLbDg2Vk85ZEVjbG1Fdy02eDAzYmc?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-06-15T14:42:40+00:00",
           "topic": "Lakers Players"
         }
       ]
