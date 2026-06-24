@@ -1,85 +1,10 @@
 {
-  "generated_at": "2026-06-24T07:48:18.943511+00:00",
-  "total_articles": 25,
+  "generated_at": "2026-06-24T10:58:25.966909+00:00",
+  "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
-        {
-          "id": "7d38cab6756f",
-          "title": "Reddit User Finds Summer League Worth Watching",
-          "original_title": "First time in years I'm sorta interested in the Summer League.",
-          "summary": "A Reddit user posted that, for the first time in years, they are somewhat interested in the NBA Summer League. The comment reflects growing curiosity about the upcoming talent pool, especially as it relates to the Lakers' future prospects.",
-          "key_points": [
-            "User expresses renewed interest in Summer League after a long hiatus.",
-            "Implied that the Lakers' draft and development plans are generating buzz.",
-            "Post originates from the r/lakers community."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1ue6ae3/first_time_in_years_im_sorta_interested_in_the/",
-          "source": "Reddit r/lakers",
-          "published": "2026-06-24T07:04:23+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "69ae3e8d08a6",
-          "title": "Bleacher Report Grades Lakers Draft Pick an \u2018A\u2019, One of Only Four Top Grades",
-          "original_title": "Bleacher Report gives Lakers an A on our pick and only 4 others were A or Higher. The only others with A were picks 1-4",
-          "summary": "Bleacher Report awarded the Lakers' recent draft selection an \u2018A\u2019 grade, noting it as one of only four picks to receive such a high rating. The analysis suggests the player, Cameron\u202fCarr, was projected to be drafted ten spots higher, making the pick a potential steal and a good fit for the team.",
-          "key_points": [
-            "Bleacher Report gives the Lakers\u2019 pick an \u2018A\u2019, placing it among the top\u2011graded selections.",
-            "Analysts believe Carr fell about ten positions in the draft, indicating value.",
-            "The grade highlights Carr\u2019s perceived fit with the Lakers\u2019 roster needs."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1ue5fqu/bleacher_report_gives_lakers_an_a_on_our_pick_and/",
-          "source": "Reddit r/lakers",
-          "published": "2026-06-24T06:15:18+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "6482bd38576d",
-          "title": "Inside Lakers Draft Headquarters Discussion on Reddit",
-          "original_title": "Inside LakersDraft HQ",
-          "summary": "A Reddit post titled \u201cInside LakersDraft HQ\u201d was shared in the r/lakers community, likely providing fans with behind\u2011the\u2011scenes information or commentary about the Lakers\u2019 draft strategy and operations.",
-          "key_points": [
-            "Post invites fans into the Lakers\u2019 draft planning environment.",
-            "Serves as a hub for discussion and speculation among the subreddit\u2019s members.",
-            "No specific details are provided in the excerpt."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1ue51ul/inside_lakersdraft_hq/",
-          "source": "Reddit r/lakers",
-          "published": "2026-06-24T05:53:49+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "8284b0c55d64",
-          "title": "Lakers Trade Picks with Knicks, Select Wing Cameron Carr",
-          "original_title": "Lakers swap picks with Knicks, select wing Cameron Carr - Los Angeles Times",
-          "summary": "The Los Angeles Times reports that the Lakers completed a trade with the New York Knicks, swapping draft picks and using the acquired selection to draft wing player Cameron Carr. The move reflects the Lakers\u2019 effort to add athleticism and depth to their roster.",
-          "key_points": [
-            "Lakers exchanged draft assets with the Knicks.",
-            "Cameron Carr was chosen with the newly acquired pick.",
-            "The transaction aims to bolster the team\u2019s wing options."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbm5EZVFvY3JDWDA3RzZUWkRBV0JKWWhBQm9UZVVscFl4c2hET3VOWUhjOWtLVmlZc0xqOElwcmNGWlh2RGMtX1VvcUtkZEROYXdhSWl0NHVfN3ZUUDAzaDkxSDNoem9JbHgtMy03bFRlOE1UWEZQMVNtWkJreVpSQzhtc3QwX2ZjOFA1T2dmWEgyQ0tWSklqajlvRUlkX1pUV2tGd0FOWTFVMVp4Y0E?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-06-24T05:52:21+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "78596068a950",
-          "title": "Lakers Draft Pick Reveals Unexpected Kobe Bryant Connection",
-          "original_title": "Lakers Draft Pick Has Surprising Kobe Bryant Connection - Yahoo Sports",
-          "summary": "Yahoo Sports highlights a surprising link between the Lakers\u2019 recent draft pick and NBA legend Kobe Bryant. The article explores the nature of the connection, adding a human\u2011interest angle to the team\u2019s draft narrative.",
-          "key_points": [
-            "The newly drafted player has a notable association with Kobe Bryant.",
-            "The story adds a personal dimension to the Lakers\u2019 draft coverage.",
-            "Details of the connection are discussed in the Yahoo Sports piece."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc2Jfd0FnRkN2UGFZNVdFaFV4MDg0ZS1UV1B6Zkp6OHJTN09IZTNXQzFHY3hvSlV3bVcyS19pN3hqaTlfY1NqWVpTU3RsQXFEMTBWRHBUUkNOTVY3YUlBek83TmNXQjE0TnIwZ1ZQcFIwQmdkMlN4M2JwMGpYSnBBZzh0SEhXRDFKR2c?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-06-24T05:19:00+00:00",
-          "topic": "Lakers News"
-        },
         {
           "id": "9783d09ab08b",
           "title": "Los Angeles Lakers Star LeBron James Makes Heartfelt Post - heavy.com",
@@ -88,15 +13,93 @@
           "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdXFhSEZQYkNSTjZ1TWZ4ZlE2YVNUc0NsY1M2UWhHQzZBVkVUWThHbXN2cWNYWGJ5bkJrSVgwUVpuQ2FKWVRYaVMtRkl1aWVpTGNma2ptOVVXLTJkZThZVnhGaFU2NDR3eFNIeTdzUEk2eUczdEdBUHk0MkxmU2EzSzhMTXp0ZlZYNm9oUUJ6MGQ?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-06-24T05:12:16+00:00",
+          "published": "2026-06-24T07:23:51+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "7d38cab6756f",
+          "title": "First time in years I'm sorta interested in the Summer League.",
+          "original_title": "First time in years I'm sorta interested in the Summer League.",
+          "summary": "      &#32; submitted by &#32;  /u/Few_Prune_1436   [link] &#32; [comments] ",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/lakers/comments/1ue6ae3/first_time_in_years_im_sorta_interested_in_the/",
+          "source": "Reddit r/lakers",
+          "published": "2026-06-24T07:04:23+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "2cfb0316de03",
+          "title": "Meet Cameron Carr, Lakers rookie acquired in Knicks draft-day deal - USA Today",
+          "original_title": "Meet Cameron Carr, Lakers rookie acquired in Knicks draft-day deal - USA Today",
+          "summary": "Meet Cameron Carr, Lakers rookie acquired in Knicks draft-day deal&nbsp;&nbsp;USA Today",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPV2xmX01NakVKSHc2Nkh5WHFoV2drVHd3OFVzY3hVYzZZVEdfdjNtMmZSVnBCM09oQTE2ZVMyMjhPc0t5b25rQWtsZ2l4NU1lbkcxNzF5c0NGU3lJTUREOF84eVZHNEZPSUprckYxdmV4LXRTdmxNdUp6NUNneXZWeGJZampYeWNiRWFJeFFWN05XTFQyU0JacmRXblBsd1hjUlJLNXRVUTNhelRVYU5xSnJ1Q3RCODBYU20xcHl0MnhLNHJON09HQg?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-06-24T06:56:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "69ae3e8d08a6",
+          "title": "Bleacher Report gives Lakers an A on our pick and only 4 others were A or Higher. The only others with A were picks 1-4",
+          "original_title": "Bleacher Report gives Lakers an A on our pick and only 4 others were A or Higher. The only others with A were picks 1-4",
+          "summary": "      Seems to look like Bleacher report is giving lakers the steal of the draft expecting Carr to have gone 10 positions higher and also ranking him a good fit.   &#32; submitted by &#32;  /u/Deidarac5   [link] &#32; [comments] ",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/lakers/comments/1ue5fqu/bleacher_report_gives_lakers_an_a_on_our_pick_and/",
+          "source": "Reddit r/lakers",
+          "published": "2026-06-24T06:15:18+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "6482bd38576d",
+          "title": "Inside LakersDraft HQ",
+          "original_title": "Inside LakersDraft HQ",
+          "summary": "      &#32; submitted by &#32;  /u/Perfect_Loss_5156   [link] &#32; [comments] ",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/lakers/comments/1ue51ul/inside_lakersdraft_hq/",
+          "source": "Reddit r/lakers",
+          "published": "2026-06-24T05:53:49+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "8284b0c55d64",
+          "title": "Lakers Trade Up with Knicks to Select Wing Cameron Carr",
+          "original_title": "Lakers swap picks with Knicks, select wing Cameron Carr - Los Angeles Times",
+          "summary": "Los Angeles traded its 25th overall pick to New York for the Knicks' 24th pick, allowing the Lakers to move up one spot in the 2024 NBA Draft. With the selection, the team chose athletic wing Cameron Carr, a versatile forward from the University of Texas.",
+          "key_points": [
+            "The Lakers swapped picks with the Knicks, moving from #25 to #24.",
+            "Cameron Carr was selected with the newly acquired #24 pick.",
+            "The trade was a straight pick swap; no additional assets were exchanged."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbm5EZVFvY3JDWDA3RzZUWkRBV0JKWWhBQm9UZVVscFl4c2hET3VOWUhjOWtLVmlZc0xqOElwcmNGWlh2RGMtX1VvcUtkZEROYXdhSWl0NHVfN3ZUUDAzaDkxSDNoem9JbHgtMy03bFRlOE1UWEZQMVNtWkJreVpSQzhtc3QwX2ZjOFA1T2dmWEgyQ0tWSklqajlvRUlkX1pUV2tGd0FOWTFVMVp4Y0E?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-06-24T05:52:21+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "d1b443931e9f",
+          "title": "Reddit Recap: Knicks Trade 24 for 25, Lakers Move Up for Free",
+          "original_title": "Vecenie during his live draft show: \"The Knicks did trade 24 for 25 straight up. The Lakers just move up one spot for free. Charania said the Knicks are trying to trade 25 as well. So I think they probably ran out of time and [said to the Lakers], 'Do you guys want to go? We'll let you move up.'\"",
+          "summary": "A Reddit user quoted analyst Pete Vecenie explaining that the Knicks traded the 24th pick to the Lakers for the 25th pick, essentially letting the Lakers move up one spot at no cost. The discussion suggested the Knicks may have been looking to move the 25th pick elsewhere but ran out of time.",
+          "key_points": [
+            "The Knicks exchanged the 24th pick for the 25th pick with the Lakers.",
+            "The Lakers advanced one spot without giving up additional assets.",
+            "The trade appears to have been driven by timing constraints on the Knicks' side."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1ue4aje/vecenie_during_his_live_draft_show_the_knicks_did/",
+          "source": "Reddit r/lakers",
+          "published": "2026-06-24T05:11:44+00:00",
           "topic": "Lakers News"
         },
         {
           "id": "95731adb318f",
-          "title": "Lakers' surprise trade up for Cameron Carr in draft spells doom for Luke Kennard - Lake Show Life",
+          "title": "Lakers' Trade Up for Cameron Carr Puts Luke Kennard's Future in Doubt",
           "original_title": "Lakers' surprise trade up for Cameron Carr in draft spells doom for Luke Kennard - Lake Show Life",
-          "summary": "Lakers' surprise trade up for Cameron Carr in draft spells doom for Luke Kennard&nbsp;&nbsp;Lake Show Life",
-          "key_points": [],
+          "summary": "Lake Show Life reports that the Lakers' decision to trade up for Cameron Carr signals a shift in roster priorities, potentially reducing the role or future of shooting guard Luke Kennard. The move highlights the team's focus on adding athleticism and depth on the wing.",
+          "key_points": [
+            "Cameron Carr was acquired by moving up one draft spot.",
+            "The acquisition is viewed as a signal that the team may move on from Luke Kennard.",
+            "The trade underscores the Lakers' desire for more athletic wing players."
+          ],
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZDhTMXJUak5VbEkxek5sQU9PVjBDd3p1TFg3QVBlMmdWdmp5UXFGelRiVWlwRjhRS010dzJweGRvTlpqcmdMNW13MG1SMWtyZ0huMEtHZ1RoV2JhTVBmSzJaVHNpTE0xc2JyclNNZEpULUhsMzBFa1owLXB6SFh3WC04VHV6UmFOTTNyOHI3THB2LXlHOFFNTGV3TktDZ1hDX09XUlJFS3A?oc=5",
           "source": "Google News - Lakers",
           "published": "2026-06-24T05:02:15+00:00",
@@ -104,35 +107,32 @@
         },
         {
           "id": "c352bfd16c59",
-          "title": "Cameron Carr gives Lakers injection of athleticism",
+          "title": "Cameron Carr Brings Athleticism to the Lakers' Rebuilding Plans",
           "original_title": "Cameron Carr gives Lakers injection of athleticism",
-          "summary": "Before a draft pick was ever made, NBA commissioner Adam Silver laid out why this day was important for every franchise. \u201cEvery pick matters in the chase to become an NBA champion, and that pursuit begins tonight.\u201d For the Lakers, patience was key for this draft. After waiting hours, anticipation turned into action for the [&#8230;]",
-          "key_points": [],
+          "summary": "Silver Screen and Roll highlights the significance of the draft for every franchise, quoting NBA Commissioner Adam Silver on the importance of each pick. The Lakers, after a patient wait, selected Cameron Carr, emphasizing the need for added athleticism on their roster.",
+          "key_points": [
+            "Commissioner Adam Silver stressed that every draft pick matters for championship aspirations.",
+            "The Lakers selected Cameron Carr after a prolonged waiting period on draft night.",
+            "Carr is expected to provide the team with increased athleticism and versatility on the wing."
+          ],
           "link": "https://www.silverscreenandroll.com/lakers-analysis/119913/lakers-cameron-carr-baylor-2026-nba-draft-rob-pelinka",
           "source": "Silver Screen and Roll",
           "published": "2026-06-24T04:47:52+00:00",
           "topic": "Lakers News"
         },
         {
-          "id": "0f03f3418a4f",
-          "title": "Do you guys think Aduo and Carr can get real playing time in the rotation next year?",
-          "original_title": "Do you guys think Aduo and Carr can get real playing time in the rotation next year?",
-          "summary": "      If so, that\u2019s a need out of the way. We still need bench depth, and having two young players who can contribute off the bench would be huge. The Lakers also need a better starting center and a solid point of attack wing for the starting lineup so if these two can become legitimate bench pieces next year, it\u2019ll be much easier to address most of the team\u2019s needs in this one offseason.  &#32; submitted by &#32;  /u/sin2fly03   [link] &#32; [comments] ",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/lakers/comments/1ue3e2g/do_you_guys_think_aduo_and_carr_can_get_real/",
-          "source": "Reddit r/lakers",
-          "published": "2026-06-24T04:23:44+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "2cfb0316de03",
-          "title": "Meet Cameron Carr, Lakers rookie acquired in Knicks draft-day deal - USA Today",
-          "original_title": "Meet Cameron Carr, Lakers rookie acquired in Knicks draft-day deal - USA Today",
-          "summary": "Meet Cameron Carr, Lakers rookie acquired in Knicks draft-day deal&nbsp;&nbsp;USA TodayLakers trade up to No. 24 pick, select Cameron Carr&nbsp;&nbsp;Silver Screen and RollReports: Knicks swap picks with Lakers, Mavericks to add multiple assets&nbsp;&nbsp;NBA.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPV2xmX01NakVKSHc2Nkh5WHFoV2drVHd3OFVzY3hVYzZZVEdfdjNtMmZSVnBCM09oQTE2ZVMyMjhPc0t5b25rQWtsZ2l4NU1lbkcxNzF5c0NGU3lJTUREOF84eVZHNEZPSUprckYxdmV4LXRTdmxNdUp6NUNneXZWeGJZampYeWNiRWFJeFFWN05XTFQyU0JacmRXblBsd1hjUlJLNXRVUTNhelRVYU5xSnJ1Q3RCODBYU20xcHl0MnhLNHJON09HQg?oc=5",
+          "id": "63c43ee17d64",
+          "title": "Trade Rumors: Lakers Linked to Andrew Wiggins After Giannis Deal",
+          "original_title": "Lakers get concerning Andrew Wiggins trade news following Giannis Antetokounmpo Heat deal - sportingnews.com",
+          "summary": "Sporting News reports that following the Miami Heat's trade for Giannis Antetokounmpo, the Lakers have been mentioned in speculation about acquiring Andrew Wiggins. The article notes that the potential move is still unconfirmed and could have significant roster implications for Los Angeles.",
+          "key_points": [
+            "The Lakers are being discussed as a possible destination for Andrew Wiggins.",
+            "The speculation arises after the Heat's high\u2011profile trade involving Giannis Antetokounmpo.",
+            "No official trade details have been released; the report remains rumor\u2011based."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPYjVuYnZ5MzZraFN2NC1lb1UxUmUyeGptYzdSbUNkRVZXNGdBSVpJSFdKNlVqTXlRWmY3REl0Wjg0Yy1jME9NZDJvSkRsU1JvcnJvUVJHaFE5MjhkRW5rYjJiWUhWSGZoNEluUV9LNGpMRFVZTDA2QldMY0F1blYtZnlncnNiTFpUcERKTlRHWEtJWU5weTRtTTdoU2VCQVFQdGIzZThrX3NBSGZXRG12SDZnbURLTjUzUVhLWWd1THh0ZHIydnBZeFVaU3FLVmtJLXQ5amtNY05jaW56S3ZtZE5UcXRRWmZMLS05RGctVmtwLTAwbkc2WHlvNFA3MVdfU2NySg?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-06-24T04:17:00+00:00",
+          "published": "2026-06-24T04:40:41+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -141,14 +141,119 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "542b8b33c8f7",
-          "title": "2026 NBA Draft Grades: Most Teams Earn High Marks",
-          "original_title": "2026 NBA Draft grades for every team in the first round",
-          "summary": "Yahoo Sports evaluated every team's first\u2011round selections in the 2026 NBA Draft, noting that the lack of major surprises led to generally high grades across the board. The analysis highlights which clubs maximized value and which fell short of expectations.",
+          "id": "8f6d9002caa6",
+          "title": "NBA Draft Day 2: Where Otega Oweh Might Land",
+          "original_title": "Kentucky Wildcats News: NBA Draft Day 2",
+          "summary": "Yahoo Sports discusses potential destinations for Kentucky forward Otega Oweh on the second night of the NBA Draft. The piece invites fan input on which team would be the best fit for the prospect.",
           "key_points": [
-            "Grades are largely positive, reflecting a draft without major busts.",
-            "Teams that targeted fit and upside received the highest marks.",
-            "Few franchises made notable missteps, keeping overall scores elevated."
+            "Otega Oweh is a highly regarded Kentucky player entering the draft.",
+            "The article focuses on speculation about his landing spot rather than confirmed offers.",
+            "Fans are encouraged to share their preferred team for Oweh."
+          ],
+          "link": "https://sports.yahoo.com/articles/kentucky-wildcats-news-nba-draft-104500255.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-06-24T10:45:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "0e602da1d120",
+          "title": "Jayden Quaintance Faces Possible Six\u2011Month Recovery",
+          "original_title": "Jayden Quaintance could have procedure that sidelines him for 6 months",
+          "summary": "Yahoo Sports reports that Jayden Quaintance may need a medical procedure that could sideline him for up to six months. The situation remains challenging for the player and his team.",
+          "key_points": [
+            "A procedure is being considered for Quaintance, with a projected six\u2011month recovery timeline.",
+            "The injury adds uncertainty to his immediate playing future.",
+            "The article emphasizes the difficulty of the situation without speculating on long\u2011term impact."
+          ],
+          "link": "https://sports.yahoo.com/articles/jayden-quaintance-could-procedure-sidelines-101500468.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-06-24T10:15:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "1f29ee7aef9b",
+          "title": "Cavaliers\u2019 End\u2011of\u2011Season Report Card: Dean Wade",
+          "original_title": "Cavs final report card: Dean Wade",
+          "summary": "Yahoo Sports evaluates Dean Wade\u2019s season with the Cleveland Cavaliers, noting he fell short of the team\u2019s needs but still performed well enough to attract league\u2011wide interest. His contributions were solid, though not a perfect fit for Cleveland\u2019s system.",
+          "key_points": [
+            "Wade did not fully meet the Cavaliers\u2019 specific roster requirements.",
+            "He delivered respectable production that kept him on other teams\u2019 radars.",
+            "The report suggests Wade could find a better role with a different franchise."
+          ],
+          "link": "https://sports.yahoo.com/articles/cavs-final-report-card-dean-100000725.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-06-24T10:00:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "6b5651f39033",
+          "title": "2026 NBA Mock Draft: Round 2 Predictions",
+          "original_title": "2026 NBA mock draft Round 2: Predicting all 30 picks on Day 2 of draft",
+          "summary": "Yahoo Sports presents a complete mock of the second round of the 2026 NBA Draft, outlining all 30 picks after the first round concluded. The article highlights depth of talent still available on draft night.",
+          "key_points": [
+            "All 30 second\u2011round selections are projected, offering a full view of the draft board.",
+            "The mock emphasizes that quality prospects remain after the first round.",
+            "It serves as a reference for teams looking to add depth and potential upside."
+          ],
+          "link": "https://sports.yahoo.com/articles/2026-nba-mock-draft-round-090938346.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-06-24T09:09:38+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "55d7a3b07500",
+          "title": "Knicks Likely to Trade Additional Picks Before Draft\u2019s Second Round",
+          "original_title": "REPORT: Knicks expected to trade more picks before NBA Draft second round",
+          "summary": "Yahoo Sports reports that the New York Knicks are expected to continue trading draft assets, with multiple offers already on the table ahead of the second round. The maneuvering aims to maximize value from their draft position.",
+          "key_points": [
+            "The Knicks have several trade proposals pending before the second round begins.",
+            "Management is actively seeking to leverage picks for better roster fit or assets.",
+            "The article signals ongoing draft\u2011day strategy without confirming any specific deals."
+          ],
+          "link": "https://sports.yahoo.com/articles/report-knicks-expected-trade-more-080000492.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-06-24T08:00:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "2e6b728b10af",
+          "title": "Brad Stevens Discusses Relationship with Jaylen Brown Amid Trade Rumors",
+          "original_title": "Brad Stevens discusses relationship with Jaylen Brown amid trade rumors",
+          "summary": "Celtics general manager Brad Stevens addressed questions about the future of star guard Jaylen Brown during draft night. He emphasized the importance of their working relationship while acknowledging the speculation surrounding a possible trade.",
+          "key_points": [
+            "Stevens highlighted Brown's role in the Celtics' long\u2011term plans.",
+            "He did not confirm any trade discussions, but noted the media attention.",
+            "The conversation took place amid heightened draft\u2011night speculation."
+          ],
+          "link": "https://sports.yahoo.com/articles/brad-stevens-discusses-relationship-jaylen-070120650.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-06-24T07:01:20+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "912ca6886ccf",
+          "title": "What the Knicks\u2019 Draft\u2011Day Deal Means for Their Tenuous Cap Situation",
+          "original_title": "What the Knicks\u2019 draft-day dealing means for their tenuous cap situation",
+          "summary": "An analysis breaks down the New York Knicks' recent draft\u2011day transaction and its impact on the team's salary\u2011cap flexibility. The piece walks readers through the numbers to illustrate how the move affects the franchise's financial outlook.",
+          "key_points": [
+            "The deal involves moving draft assets to create cap space.",
+            "It helps the Knicks stay closer to the luxury\u2011tax threshold.",
+            "Detailed calculations show the short\u2011term and potential long\u2011term cap implications."
+          ],
+          "link": "https://sports.yahoo.com/articles/knicks-draft-day-dealing-means-062832141.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-06-24T06:28:32+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "542b8b33c8f7",
+          "title": "2026 NBA Draft Grades for Every Team in the First Round",
+          "original_title": "2026 NBA Draft grades for every team in the first round",
+          "summary": "Yahoo Sports assigns grades to each team's first\u2011round selections in the 2026 NBA Draft, noting that the overall draft lacked major surprises. Most teams received relatively high marks for their choices.",
+          "key_points": [
+            "Grades reflect how well each pick addresses team needs and talent value.",
+            "The draft was characterized as low\u2011surprise, leading to generally positive evaluations.",
+            "Only a few teams received lower grades due to perceived missed opportunities."
           ],
           "link": "https://sports.yahoo.com/articles/2026-nba-draft-grades-every-062236965.html",
           "source": "Yahoo Sports NBA",
@@ -157,13 +262,13 @@
         },
         {
           "id": "1bedc2c1a80f",
-          "title": "Knicks Trade 2026 First\u2011Round Pick to Stay Below Second Apron",
+          "title": "Knicks Navigating 2026 NBA Draft with Second Apron Restrictions in Mind",
           "original_title": "Knicks navigating 2026 NBA Draft with second apron restrictions in mind",
-          "summary": "The New York Knicks dealt their 2026 first\u2011round selection in a trade motivated by ownership\u2019s goal of remaining under the NBA\u2019s second\u2011apron luxury\u2011tax threshold. The move underscores the franchise\u2019s focus on financial flexibility ahead of the upcoming season.",
+          "summary": "The New York Knicks traded away their 2026 first\u2011round pick, a decision likely driven by owner James Dolan's desire to stay below the second apron salary\u2011cap threshold. The move reflects strategic cap management ahead of future free\u2011agency periods.",
           "key_points": [
-            "Knicks shipped their 2026 first\u2011round pick to comply with second\u2011apron limits.",
-            "The trade aligns with the owner\u2019s strategy to keep payroll manageable.",
-            "No major player assets were exchanged, emphasizing cap considerations."
+            "The trade removes a future first\u2011round asset from the Knicks' balance sheet.",
+            "Staying under the second apron helps avoid luxury\u2011tax penalties.",
+            "The decision aligns with the franchise's broader financial strategy."
           ],
           "link": "https://sports.yahoo.com/articles/knicks-navigating-2026-nba-draft-060403219.html",
           "source": "Yahoo Sports NBA",
@@ -172,102 +277,17 @@
         },
         {
           "id": "c0268952c8fc",
-          "title": "Experts React to 2026 NBA Draft First Round: Winners, Losers, Surprises",
+          "title": "NBA Draft First\u2011Round Reaction: Winners, Losers, Surprises, and Steals",
           "original_title": "NBA Draft first round reaction: Winners! Losers! Surprises! Steals!",
-          "summary": "Kevin O'Connor, King McClure, and Tom Haberstroh provide their post\u2011draft analysis, identifying which teams landed steals and which missed opportunities. Their commentary highlights standout picks and unexpected outcomes from the first round.",
+          "summary": "Analysts Kevin O'Connor, King McClure, and Tom Haberstroh share their immediate reactions to the outcomes of the 2026 NBA Draft's first round. They discuss which teams benefited, which missed out, and highlight unexpected selections.",
           "key_points": [
-            "Consensus on several teams pulling off value picks early in the round.",
-            "Criticism of a few franchises that passed on higher\u2011upside prospects.",
-            "Discussion of surprise selections that could reshape team rosters."
+            "Consensus on several teams making clear winners and losers.",
+            "Identification of surprise picks and potential draft steals.",
+            "Expert commentary on how the selections could shape upcoming seasons."
           ],
           "link": "https://sports.yahoo.com/nba/article/nba-draft-first-round-reaction-winners-losers-surprises-steals-060358289.html",
           "source": "Yahoo Sports NBA",
           "published": "2026-06-24T06:03:58+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "0cd58699f8d6",
-          "title": "Draft Grades Breakdown: AJ Dybantsa, Darryn Peterson, Cameron Boozer and All First\u2011Round Picks",
-          "original_title": "2026 NBA Draft Grades: Analysis for AJ Dybantsa, Darryn Peterson, Cameron Boozer, rest of first-round picks",
-          "summary": "CBS Sports\u2019 Adam Finkelstein delivers a detailed grade for each first\u2011rounder in what he calls one of the strongest recent drafts. The piece assesses talent, fit, and potential impact for every selected player.",
-          "key_points": [
-            "AJ Dybantsa, Darryn Peterson, and Cameron Boozer receive top\u2011tier grades.",
-            "Every pick is evaluated on talent, team fit, and projected upside.",
-            "Overall, the draft is praised for depth and quality across the board."
-          ],
-          "link": "https://www.cbssports.com/nba/news/2026-nba-draft-grades-pick-by-pick-analysis-round-1/",
-          "source": "CBS Sports NBA",
-          "published": "2026-06-24T05:43:12+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "c6be45ee4ebd",
-          "title": "Mavericks Miss the Mark with Morez Johnson Jr. at No.\u202f9",
-          "original_title": "2026 NBA Draft winners and losers: Mavericks fail to help Cooper Flagg with low-upside Morez Johnson Jr. pick",
-          "summary": "Dallas selected Michigan forward Morez Johnson Jr. with the ninth overall pick, a decision viewed as low\u2011upside after the team recently hired his former coach, Dusty May. Analysts label the move a missed opportunity for the Mavericks.",
-          "key_points": [
-            "Dallas chose Morez Johnson Jr., a player seen as having limited upside.",
-            "The pick follows the hiring of Dusty May, Johnson\u2019s former coach at Michigan.",
-            "Critics argue the Mavericks could have targeted a higher\u2011impact prospect."
-          ],
-          "link": "https://www.cbssports.com/nba/news/2026-nba-draft-winners-and-losers-mavericks-morez-johnson-aj-dybantsa-keaton-wagler-darius-acuff/",
-          "source": "CBS Sports NBA",
-          "published": "2026-06-24T05:39:13+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "ce339055800b",
-          "title": "NBA Draft winners and losers: Loads of talent, the promise of youth, and, oh, those Michigan men",
-          "original_title": "NBA Draft winners and losers: Loads of talent, the promise of youth, and, oh, those Michigan men",
-          "summary": "What follows is a stab at a first draft of history \u2014 a thumbnail sketch of who had a pretty good first night of the 2026 draft, and who might wind up looking back at the evening wistfully, and perhaps with some regret.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/nba/article/nba-draft-winners-and-losers-loads-of-talent-the-promise-of-youth-and-oh-those-michigan-men-053840832.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-24T05:38:40+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "a0af0b3a595e",
-          "title": "NBA Draft takeaways: Yes, you can say the Spurs and Thunder mean business",
-          "original_title": "NBA Draft takeaways: Yes, you can say the Spurs and Thunder mean business",
-          "summary": "Let\u2019s see what we can learn from what four (possible) contenders did in the first round Tuesday night.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/nba/article/nba-draft-takeaways-yes-you-can-say-the-spurs-and-thunder-mean-business-052611169.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-24T05:26:11+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "8a1971a32494",
-          "title": "2026 NBA Draft Round 2 sleepers: Duke's Isaiah Evans, UNC's Henri Veesaar among best players still available",
-          "original_title": "2026 NBA Draft Round 2 sleepers: Duke's Isaiah Evans, UNC's Henri Veesaar among best players still available",
-          "summary": "Several high-profile college players weren't selected in the first round of the 2026 NBA Draft",
-          "key_points": [],
-          "link": "https://www.cbssports.com/nba/news/2026-nba-draft-round-2-sleepers-isaiah-evans-henri-veesaar-best-available/",
-          "source": "CBS Sports NBA",
-          "published": "2026-06-24T05:12:32+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "de1b08399b07",
-          "title": "Mike Dunleavy Jr. dismisses Yaxel Lendeborg age concerns: \u2018He\u2019s not 38\u2019",
-          "original_title": "Mike Dunleavy Jr. dismisses Yaxel Lendeborg age concerns: \u2018He\u2019s not 38\u2019",
-          "summary": "Golden State\u2019s 1st-round pick might be old, but he\u2019s not that old.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/mike-dunleavy-jr-dismisses-yaxel-050129917.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-24T05:01:29+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "065a738b13cb",
-          "title": "2026 NBA Draft: Henri Veesaar, Bruce Thornton among best available after first round",
-          "original_title": "2026 NBA Draft: Henri Veesaar, Bruce Thornton among best available after first round",
-          "summary": "Henri Veesaar and Bruce Thornton are among the 10 best available players after the first round of the NBA Draft.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/2026-nba-draft-henri-veesaar-045313573.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-24T04:53:13+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -276,58 +296,153 @@
       "name": "Lakers Players",
       "articles": [
         {
+          "id": "62b28f7ab96f",
+          "title": "Patrick Beverley likens Giannis\u2011Bam duo to modern\u2011day Duncan\u2011Robinson",
+          "original_title": "\"Y'all bout to see Giannis look how LeBron looked\" - Patrick Beverley crowns Bam and Giannis' duo as the modern-day pairing of Duncan-Robinson - Yahoo Sports",
+          "summary": "Patrick Beverley praised the Milwaukee Bucks' frontcourt partnership of Giannis Antetokounmpo and Damian Lillard, comparing their impact to the historic pairing of Tim Duncan and David Robinson. He suggested that Giannis could soon reach the same level of dominance that LeBron James displayed in his prime.",
+          "key_points": [
+            "Beverley highlighted the Bucks' inside\u2011out combination as one of the league's most formidable duos.",
+            "He drew a parallel between Giannis' evolving game and LeBron's early\u2011career trajectory.",
+            "The comparison positions the duo as a modern counterpart to the legendary Spurs frontcourt."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQemFBem9QTDgwNzhRR1pNWXcxR05UeF9lMUpqY3h6dElGM2kybC0wZmZ2M0xhYkkzSktMY1dSMHFWZTZkQkNIWGNMbVI1ejMwdUVMOVlrODB4ckEyN0ZORG1QN19QcXhwX3VRb19SYlBjd1JwSTVxa1FOTVdyamZ0cA?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-06-24T10:16:54+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "8c126531e60c",
+          "title": "Uproxx pitches LeBron\u2019s Uninterrupted platform to advertisers",
+          "original_title": "How Uproxx is pitching its partnership with LeBron James\u2019 Uninterrupted to advertisers - Ad Age",
+          "summary": "Ad Age details how digital media company Uproxx is marketing its partnership with LeBron James\u2019 Uninterrupted content network to brands. The pitch emphasizes the platform\u2019s ability to reach engaged, culturally\u2011savvy audiences through authentic storytelling.",
+          "key_points": [
+            "Uproxx positions Uninterrupted as a premium inventory for advertisers seeking relevance with younger demographics.",
+            "LeBron\u2019s personal brand and creator\u2011first approach are highlighted as key value drivers.",
+            "The strategy includes integrated campaigns across video, social, and long\u2011form documentary formats."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUGhyMXh3dGh5Yk9COTlDaEJUdlNwZzN1V0JBWjhaa0gwYWZINllqc0kwU2hGZ2czRjlhMVc0c0tXTUtRQkVpMHB4X011SFIzSW1jdVdTbmlkNV9DS1R2LVMzVVJSNmtWaDVxbU1oYi1BazhpZ1ZTaVdYZExaNlNqWkJtNUl5Zw?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-06-24T09:15:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "3321b9a9c52c",
+          "title": "2026 No.\u202f1 pick AJ Dybantsa\u2019s rookie salary vs. LeBron\u2019s rookie deal",
+          "original_title": "How much will 2026 No. 1 pick AJ Dybantsa earn compared to LeBron James as a rookie - Yahoo Sports UK",
+          "summary": "Yahoo Sports UK compares the projected rookie contract for the 2026 NBA draft\u2019s top prospect AJ Dybantsa with the rookie scale that LeBron James earned in 2003. The analysis shows how the NBA\u2019s salary structure has grown over two decades.",
+          "key_points": [
+            "Dybantsa is expected to sign a max rookie contract worth roughly $5\u202fmillion in the first year.",
+            "LeBron\u2019s 2003 rookie deal was approximately $3.5\u202fmillion, reflecting a modest increase in rookie pay.",
+            "The article notes that while the figures differ, both players entered the league with high expectations and marketability."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00N2QtMHdWMVpFaFRISkV1alRZOUt2c1NHSmM1VlZZYmZsYmRyTHhLVzhFMklRbGRVTkpmZVJwSnFnMmdUV0hyTE5vWi1LaWRTUjUtUFdKbzA1WFhOQkdweS15UVhWWi1Qb2V4aGVTNzRiVjVwbFE?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-06-24T07:49:18+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "bde78d2e7ba7",
+          "title": "2026 No.\u202f1 pick AJ Dybantsa\u2019s rookie salary vs. LeBron\u2019s rookie deal",
+          "original_title": "How much will 2026 No. 1 pick AJ Dybantsa earn compared to LeBron James as a rookie - hitc.com",
+          "summary": "hitc.com provides a similar breakdown of AJ Dybantsa\u2019s anticipated rookie earnings compared with LeBron James\u2019 2003 rookie contract, highlighting inflation and the NBA\u2019s collective bargaining agreement changes.",
+          "key_points": [
+            "Projected earnings for Dybantsa exceed $5\u202fmillion in his first season under the current rookie scale.",
+            "LeBron\u2019s rookie contract was about $3.5\u202fmillion, illustrating a roughly 40% increase over 23 years.",
+            "The piece underscores how rising salary caps have boosted entry\u2011level compensation for top prospects."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNlNLRkZYQ2Z4ZGNPd2dtY290QjJBWDBlbHlYSGVQRk00aFY5RGk5TjNnV1pLYXZrNVFCc3BINl81QWJySEdTWTJpdXQ4dTZYc0FBeHN5aFEtV1ZlZVgydXJCMjdmSkdJQmxRa2hVaW0xWVZKYWpzVzhtYnFySldWMU9Ha0VGenJmWEUtWTkxRTZVemRsVDVOb2tjYklkMHd4ZHlWOGpyOA?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-06-24T07:19:18+00:00",
+          "topic": "Lakers Players"
+        },
+        {
           "id": "f2b4dafe90e0",
-          "title": "LeBron James moved to tears by his daughter\u2019s Father\u2019s Day gift - The Big Lead",
+          "title": "LeBron James moved to tears by daughter\u2019s Father\u2019s Day gift",
           "original_title": "LeBron James moved to tears by his daughter\u2019s Father\u2019s Day gift - The Big Lead",
-          "summary": "LeBron James moved to tears by his daughter\u2019s Father\u2019s Day gift&nbsp;&nbsp;The Big Lead",
-          "key_points": [],
+          "summary": "The Big Lead reports that LeBron James became emotional after receiving a heartfelt Father\u2019s Day present from his daughter. The gift, a personalized item, highlighted the personal side of the NBA star beyond his on\u2011court achievements.",
+          "key_points": [
+            "LeBron\u2019s reaction showed a rare, vulnerable moment for the superstar.",
+            "The gift emphasized the close bond between James and his family.",
+            "The story resonated with fans, illustrating the human side of a high\u2011profile athlete."
+          ],
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNlVCNE1iUEF0aUlfU0Z1T28ybi16a1cxMXd0U1VmVlpHYkt2ekJlVDM5b3I2RTVJeXhUNE1mNzFlUnB1b2NXV1BqckRWXzVFZDFoQk4xU1l3NmJmZUxtQ1JLWnRDekZxWHJQZGVsaEpFN0UtVVpXTGpXT2dRYUxxa1hDSXpNLTRTMWc?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-06-24T03:59:01+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "c5025d556acc",
-          "title": "LeBron James moved to tears by his daughter\u2019s Father\u2019s Day gift - Yahoo Sports",
-          "original_title": "LeBron James moved to tears by his daughter\u2019s Father\u2019s Day gift - Yahoo Sports",
-          "summary": "LeBron James moved to tears by his daughter\u2019s Father\u2019s Day gift&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYzFKampSN2lnWmExQ2NPbU5xQ0RhNjFnWExlTk82SG1HcWt0NUNYQXg1TmNJdUhDTG5BMFptaG1lWWItN0VhUEw4MnM3ZkVqemRiTWJwVWo1Q3YyRmVadVpwaWpnUVVoaDRweUJKU1pUVDhNYlJnRGtrRnhSRTdBU0oxM2VhZ2VZU2c?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-06-24T03:57:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
           "id": "cb65badfff67",
-          "title": "Bryce James' Top Potential Landing Spots in 2027 after 2026 NBA Draft - Bleacher Report",
+          "title": "Bryce James' Top Potential Landing Spots in 2027 after 2026 NBA Draft",
           "original_title": "Bryce James' Top Potential Landing Spots in 2027 after 2026 NBA Draft - Bleacher Report",
-          "summary": "Bryce James' Top Potential Landing Spots in 2027 after 2026 NBA Draft&nbsp;&nbsp;Bleacher Report",
-          "key_points": [],
+          "summary": "Bleacher Report outlines the most likely teams that could select Bryce James when he becomes eligible for the 2027 NBA Draft, following the 2026 draft class. The analysis weighs factors such as team needs, cap space, and the potential impact of LeBron James' legacy on his son's destination.",
+          "key_points": [
+            "Potential destinations include teams with high draft picks and rebuilding timelines, such as the Detroit Pistons, Orlando Magic, and the Los Angeles Lakers.",
+            "Cap flexibility and the ability to pair Bryce with a veteran mentor are highlighted as crucial considerations.",
+            "The article notes that LeBron James' influence could sway Bryce toward the Lakers if the franchise remains competitive."
+          ],
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLWVGS0RuSldONFRaX1ZxQlFNYkQ5WHF1Tm0wQVA3MWt4NkZOOXVrSDZHRms4eUJCN21zYk5pb29LZVBnc3FFb3JXdFJSanpwZ0Vmb1VKc0ExUkNFdUcySzZmSEN5cW15LWU4QW5LdU4tektlVXZ5NkN5VnNEUkxCRno2OTRMOWlaeVlRNklJaTRyd2Q3V3ZkXzQ5bGU0Y3FMNXgyV1FmSnYzSVZoLVM4?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-06-24T03:39:37+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "5d2010663c17",
-          "title": "Mavs just kicked door wide open for Lakers to reunite Luka with Daniel Gafford - Lake Show Life",
-          "original_title": "Mavs just kicked door wide open for Lakers to reunite Luka with Daniel Gafford - Lake Show Life",
-          "summary": "Mavs just kicked door wide open for Lakers to reunite Luka with Daniel Gafford&nbsp;&nbsp;Lake Show Life",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbXRreER0N09iSGs1R09xazAwamRJRmFrcWlXNWJUT1FVaFY4VVp1OGtiUU01a0NLUlc0aXctRmdaSjhJV1lxaDF6TzJFOHY3RHhzS1drLTQ4dmtncXpNZjA5WFZRSmJyMXl6d1oyQ1RGQmszUzFFTEFnNURNdmxyazE3ODI3TFNDR2tqMkc4TVp3a1FnR2c?oc=5",
+          "id": "90a8a6ec2dd9",
+          "title": "Lakers Trade Up for Cameron Carr at No. 24: What It Means",
+          "original_title": "Lakers Trade Up for Cameron Carr at No. 24: What It Means - Lakers Daily",
+          "summary": "Lakers Daily reports that Los Angeles moved up in the 2024 NBA Draft to select guard Cameron Carr with the 24th overall pick. The trade involved sending a future second\u2011round pick and cash considerations to the original owner of the slot.",
+          "key_points": [
+            "The move signals the Lakers' intent to add a versatile perimeter defender and playmaker to complement their veteran core.",
+            "Cameron Carr is praised for his defensive instincts and three\u2011point shooting potential.",
+            "The trade cost the Lakers a future second\u2011round pick, reflecting their willingness to invest in immediate depth."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNa3l2RFEtd2tiVTRUQWJVc2Z0WFo3TGdfX0RkQlg5VDZLTzdoZEVTNHExZFVxZkJYeEI5bjFySVdueW9NNG0wTjBtZi1xOGtmb2sybVVjbHgyUHRlcGhzZTVEUHB6cDhtVzVPaUhuU015aE56RlRoOFJRN2hCQ0lfbjJaSkpfLU0?oc=5",
           "source": "Google News - Luka",
-          "published": "2026-06-24T03:34:53+00:00",
+          "published": "2026-06-24T02:57:21+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "d8ed1b1f123e",
-          "title": "Lakers finally learn from NBA Draft misfires with perfect Cameron Carr pick - Lake Show Life",
-          "original_title": "Lakers finally learn from NBA Draft misfires with perfect Cameron Carr pick - Lake Show Life",
-          "summary": "Lakers finally learn from NBA Draft misfires with perfect Cameron Carr pick&nbsp;&nbsp;Lake Show Life",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWk5ia0F5blZPc18wS21obF93MEdLQW5vOWRSNzJzdkk0OEltWUY4aUdRQ05WWlotbW9fWXpGaWQ0YjNrdW5HNlNNb1dWWllGbzZzWFVkR1pRaWY3dm5KR2lJVktsTXNza2hmdWxHX19QTkhFYXNVcGRUQXRKaWNva1AzOTZGNFZ6d3NtQVBiM3NQWldf?oc=5",
+          "id": "ed4d8b53fe1a",
+          "title": "Lakers Pull Huge NBA Draft Trade with Knicks for Talented Explosive Guard",
+          "original_title": "Lakers pull huge NBA Draft trade with Knicks for talented explosive guard - BasketNews.com",
+          "summary": "BasketNews.com details a blockbuster draft-day deal in which the Lakers acquired an explosive guard from the New York Knicks, giving up multiple future picks and a veteran player. The guard is projected as a high\u2011energy scorer who can contribute off the bench immediately.",
+          "key_points": [
+            "The trade package included two future first\u2011round picks and a role player heading to New York.",
+            "The acquired guard is known for his athleticism, slashing ability, and defensive pressure.",
+            "Analysts view the deal as a win\u2011win: the Knicks gain assets for a rebuild, while the Lakers add youthful firepower."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdEVRMTFKaUlRS1dxYW44c3gxQVdRaEw2NlYtdk9tSDJuU3MwbW9aaW5nakRXUjhPcWJWS3JPNVVVUlJ3WXZOYmpid3V0YU5md0IwdV9jVGFsSkhORzlzUmpYdzRZa3hnVk43Sm5jNnNWWTAxdzIyZGZBOFRoQlpBc2dyUUZXb1ZTNmxDc0hQc29GX3NUUV9ncG5mRk96R0dEN2JqeUNiWGl4YUg5eGhKMk1kcw?oc=5",
           "source": "Google News - Luka",
-          "published": "2026-06-24T03:12:12+00:00",
+          "published": "2026-06-24T02:53:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "ef1d5d12723d",
+          "title": "Lakers Named Top Landing Spot for $53.8\u202fMillion, 23.3\u202fPPG Star",
+          "original_title": "Lakers named top landing spot for $53.8 million 23.3 PPG star - sportingnews.com",
+          "summary": "SportingNews.com reports that the Los Angeles Lakers are the leading destination for a free\u2011agent forward who averaged 23.3 points per game and commands a $53.8\u202fmillion contract. The article examines how the player fits into the Lakers' roster and salary\u2011cap structure.",
+          "key_points": [
+            "The player\u2019s scoring ability would bolster the Lakers\u2019 offensive options alongside LeBron James and Anthony Davis.",
+            "Financial analysis shows the contract is manageable under the NBA\u2019s luxury\u2011tax thresholds if the team reshuffles other deals.",
+            "The Lakers\u2019 front office is reportedly in advanced talks, with a decision expected before the free\u2011agency deadline."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVVdmMGktZG1HSzIyM1V6Vmx5VXY1RkNTaXpKdkdNNVpoS1JzVFlRZEVTRXQ1Wnc3clpDbXQ3TkdVcDZEb1NVZDhDSzNIUVpRXzdRcS1DN1RUVEw3RlRpcTREdU5fR2JXZGNiWE1OSkQtSXVyUkthU3RJYjhBaWZmTXowYUJQRVJrRi00Z1NNbnZiVlhQaDlEVlBncGxoT19waWxLUi00N0x6MUlsY1lXdno3Z0VyaVpUWF80amgyV01NS0tLLWtFYTNjZlR2dzljbHBJRi1n?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-06-24T01:56:41+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "9be2ee6fb5d5",
+          "title": "\u201cTries a Whole Lot More Than Luka\u201d: Lakers Legend Backs Austin Reaves\u2019 Return but on One Condition",
+          "original_title": "\u201cTries a Whole Lot More Than Luka\u201d: Lakers Legend Backs Austin Reaves\u2019 Return but on One Condition - Yahoo Sports",
+          "summary": "Yahoo Sports relays comments from a Lakers legend who praises Austin Reaves for his work ethic, comparing him favorably to Luka Don\u010di\u0107, but stresses that Reaves must stay healthy to secure his role. The veteran emphasizes the importance of consistency and defensive effort for Reaves moving forward.",
+          "key_points": [
+            "The legend highlights Reaves\u2019 improvement in playmaking and shooting during the previous season.",
+            "Health and durability are cited as the single condition for Reaves to become a regular starter.",
+            "The endorsement reflects the organization\u2019s confidence in Reaves as a key piece in the Lakers\u2019 rotation."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10ZHlETlBxeklxeW1zY29lQ2FGS25WUHlhM2Z0TTdIdnh5UDhtbUwtSGdMS0FlRERWRThhNER2YkdxNmlTOUF2bm83NmVKdERKcGV0TGFIT0dkZURsMk50ZFBSazJTUExqZklkWndPZ25LLTliOE4zYU9iUUMxS2c?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-06-24T01:15:00+00:00",
           "topic": "Lakers Players"
         }
       ]
