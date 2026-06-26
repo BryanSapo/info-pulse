@@ -1,19 +1,83 @@
 {
-  "generated_at": "2026-06-26T03:58:47.070594+00:00",
-  "total_articles": 20,
+  "generated_at": "2026-06-26T08:01:39.209946+00:00",
+  "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
-          "id": "90f5592652b8",
-          "title": "Insider on how Lakers catered to Austin Reaves during negotiations - Yahoo Sports",
-          "original_title": "Insider on how Lakers catered to Austin Reaves during negotiations - Yahoo Sports",
-          "summary": "Insider on how Lakers catered to Austin Reaves during negotiations&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZUFweGZwVGZFLUdMeFVDOW8tR19rcGdHLXl4Rklnc0FlRzNFVFhPd2VHcFB4V3YzODBPWUJBREpPVVNCbFVmVTB5TEFRWUNlQUhOb1daOFJWMGhhZkdiZm53NnRXRjRzelFiYklKaFlIMzRoZVZDaURvSFVuVXBhcnFEbTZzR2x2OUNQNV93?oc=5",
+          "id": "fb81b8d1b84e",
+          "title": "Could Detroit Have Offered Reaves a 4\u2011Year Max?",
+          "original_title": "Could Detroit have given Reaves a 4 year Max?",
+          "summary": "The discussion notes that Detroit only cleared about $30\u202fmillion in cap space after trading James\u202fHardy (nicknamed \u201cBeef Stew\u201d).{\u200b} The writer argues that the Lakers could have avoided re\u2011signing Reaves, let him test free agency, and potentially secure a more reasonable contract in the $150\u2011$160\u202fmillion range, rather than the deal they ultimately reached.",
+          "key_points": [
+            "Detroit cleared roughly $30\u202fM in cap space after the Hardy trade.",
+            "The author suggests the Lakers should have let Reaves hit free agency instead of re\u2011signing him.",
+            "A contract in the $150\u2011$160\u202fM range is presented as a more realistic expectation."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1ufz0ac/could_detroit_have_given_reaves_a_4_year_max/",
+          "source": "Reddit r/lakers",
+          "published": "2026-06-26T06:38:50+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "5a0b7e1ec3e3",
+          "title": "Suns Sign Former Lakers Trade Target to Three\u2011Year Deal",
+          "original_title": "Suns sign three-year deal with former Lakers trade target - BasketNews.com",
+          "summary": "Phoenix Suns have inked a three\u2011year contract with a player who was previously linked to a trade with the Los Angeles Lakers, according to BasketNews.com. The article provides no further details about the player's identity or contract terms.",
+          "key_points": [
+            "Suns completed a three\u2011year deal with a former Lakers trade target.",
+            "The signing was reported by BasketNews.com.",
+            "No additional information about the player or financial specifics was given."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa2Z6RjlEODJYejQ0WWtTeWZxRGVlVVpNS2VvNF9xWDlkMVJhVm92V05NOHNCSW1JUU01aVd5UThJSnF4WlU1d29GV3BnamQ0eEF0V0VEanpZTThMSkotTkZQa1R5Y3I4ZmxfN2lPSVpheW5jTjlrQ0wwVHRsVWkxOVBTMkwxV3ZQLTJyRWpGNDE0Wk03VjIyU3VNNVZsdw?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-06-26T03:37:00+00:00",
+          "published": "2026-06-26T05:56:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "c00dc3df6683",
+          "title": "Windhorst: Lakers Open to Sign\u2011and\u2011Trade LeBron for Jarrett Allen",
+          "original_title": "Windhorst: Lakers willing to sign-and-trade LeBron for Jarrett Allen - LeBron Wire",
+          "summary": "NBA insider Adrian Wojnar\u2011Windhorst reports that the Los Angeles Lakers are willing to explore a sign\u2011and\u2011trade that would send LeBron James to another team in exchange for Cleveland Cavaliers center Jarrett Allen. The report does not specify which team would receive LeBron or the details of the proposed trade.",
+          "key_points": [
+            "Lakers are reportedly open to a sign\u2011and\u2011trade involving LeBron James.",
+            "The potential return is center Jarrett Allen from the Cavaliers.",
+            "No concrete trade partner or contract details have been disclosed."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVG50aWtCVmpjN0s5NTFyOU41elljYnJxNExralVaWXluTXNBRlY0al9BZkY3NmtsNXdGRVNOZjY2b09VUlRDcFAxQnlqY2RGeGZsT0VNZjUwOHRuWjRSVWF6dmhDRTdtalZJZ3VMN3NvWHUtUVg3eFN3Uk1uOTZTNVBib1R3U3lNM2FPVkVRbURrbWE2X0w4WEd4Z25WcV9PUVJxS0prTmN6VVlpVFpjc2xpS3BZM2w4TXVjbFc2ZjlFWFN5Zl8xaEx2bXRCR2k2UkRlNWNsVQ?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-06-26T05:00:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "42240686e33d",
+          "title": "Speculation on LeBron Returning to Cleveland Resurfaces",
+          "original_title": "[Joshua Teplitz] The same person who called LeBron\u2019s return to Cleveland in 2014 is now implying he\u2019s returning to the Cavs again.",
+          "summary": "A Reddit post points out that the same analyst who predicted LeBron James' 2014 return to Cleveland is now suggesting he might go back again. The comment does not provide evidence or sources, merely highlighting the recurring speculation.",
+          "key_points": [
+            "Reddit user notes a repeat of past speculation about LeBron returning to Cleveland.",
+            "No new information or insider quotes are provided.",
+            "The post references an earlier 2014 prediction without further context."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1ufx03y/joshua_teplitz_the_same_person_who_called_lebrons/",
+          "source": "Reddit r/lakers",
+          "published": "2026-06-26T04:51:15+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "abb4f8b531c7",
+          "title": "Luka Don\u010di\u0107 Looks In Peak Physical Shape During Off\u2011Season",
+          "original_title": "Luka Off season",
+          "summary": "A Reddit user observes that Dallas Mavericks star Luka Don\u010di\u0107 appears exceptionally fit in the off\u2011season, comparing his condition to his performance during March Madness. The comment suggests that, contrary to common belief, injured players can maintain or improve their physical condition during recovery periods.",
+          "key_points": [
+            "Luka Don\u010di\u0107 is noted to be in top physical condition during the off\u2011season.",
+            "The user compares his current shape to his March Madness form.",
+            "The observation challenges the notion that injury leads to physical regression."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1ufv39t/luka_off_season/",
+          "source": "Reddit r/lakers",
+          "published": "2026-06-26T03:17:23+00:00",
           "topic": "Lakers News"
         },
         {
@@ -28,14 +92,14 @@
           "topic": "Lakers News"
         },
         {
-          "id": "3380a574e98e",
-          "title": "FSU\u2019s Robert McCray V has signed an Exhibit 10 contract with the Los Angeles Lakers - 247Sports",
-          "original_title": "FSU\u2019s Robert McCray V has signed an Exhibit 10 contract with the Los Angeles Lakers - 247Sports",
-          "summary": "FSU\u2019s Robert McCray V has signed an Exhibit 10 contract with the Los Angeles Lakers&nbsp;&nbsp;247Sports",
+          "id": "cd0962721b31",
+          "title": "Report: Former UVA Guard Jacari White joins Los Angeles Lakers on Summer League deal - Yahoo Sports",
+          "original_title": "Report: Former UVA Guard Jacari White joins Los Angeles Lakers on Summer League deal - Yahoo Sports",
+          "summary": "Report: Former UVA Guard Jacari White joins Los Angeles Lakers on Summer League deal&nbsp;&nbsp;Yahoo Sports",
           "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeTlUQmI3c2k0RWt2LWx6ME9FdElleUJqQnJoTDYtVURrdGFsei1ZMWc4SlRjUzVxRDZHbXFKellSRVZYeHdxTEN5NVNheEpqRm12QnpEQUVLSGpwLTgzQW11dmQyVFNrUlJ3Z18xZk1IeVRKbHNYd0VSWTZyMW4zOHBIWHdZOTBqLS13N2pWMmFGR0R1a2FNRnBwbllpTWgxVkZmclNLN2lydXNRUFRiQmhJVzlmdk9QczR3a0ZJdHc0Z0l3amtIbXBRRzMwdzJiSVBMQVlyd2x2LU1DTGc?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPckpfRW1WcElwUzJDaTdOanRkdnpRRWVMQ2JpT2QtTVBhTHMyVElYeEx3aHhZUExadkVsVUhWLUV0ck9YRXJ6d2hDZTlnYk4weTBKZjd0Tjczcjc4QUFuMGZjYjc5bFBESzRKdThkMUZOOUVKbFY1cmZqVDN2NVZWMjc3MmVHUQ?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-06-26T01:36:16+00:00",
+          "published": "2026-06-26T01:47:00+00:00",
           "topic": "Lakers News"
         },
         {
@@ -59,6 +123,17 @@
           "source": "Google News - Lakers",
           "published": "2026-06-26T01:15:21+00:00",
           "topic": "Lakers News"
+        },
+        {
+          "id": "2b262d9e6b88",
+          "title": "Sparks overwhelmed by Tempo in blowout loss",
+          "original_title": "Sparks overwhelmed by Tempo in blowout loss",
+          "summary": "The depleted Sparks were completely flat on all cylinders on Thursday, leading to a 125-97 loss to the Tempo.&#160; A slow start, plenty of fouls and poor defense led to disaster for LA. They couldn\u2019t contain Marina Mabrey, who ended with a career night, tying the WNBA single-game scoring record with 53 points. She went [&#8230;]",
+          "key_points": [],
+          "link": "https://www.silverscreenandroll.com/wnba-content/120327/sparks-vs-tempo-recap-box-score-stats-final-nneka-ogwumike-dearica-hamby",
+          "source": "Silver Screen and Roll",
+          "published": "2026-06-26T01:13:14+00:00",
+          "topic": "Lakers News"
         }
       ]
     },
@@ -66,133 +141,133 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "97af340b3c90",
-          "title": "Report: Arizona\u2019s Anthony Dell\u2019Orso to play for Kings in Summer League",
-          "original_title": "Report: Arizona\u2019s Anthony Dell\u2019Orso to play for Kings in Summer League",
-          "summary": "Former Arizona guard Anthony Dell\u2019Orso will get a shot at NBA Summer League next month. The Sacramento Kings have added Dell\u2019Orso to their Summer League roster, ESPN\u2019s Olgun Uluc reported Thursday. Dell\u2019Orso played his last two years of college basketball at Arizona, where as a senior he averaged 8.5 points on 40.6 percent shooting. Dell\u2019Orso [\u2026]",
+          "id": "4cb5c932c399",
+          "title": "NBA Offseason Trade/Free Agent Rumors 2026: Mitchell Robinson out in New York, Kawhi open to Toronto?",
+          "original_title": "NBA Offseason Trade/Free Agent Rumors 2026: Mitchell Robinson out in New York, Kawhi open to Toronto?",
+          "summary": "Also, the Lakers front office might love a LeBron for Jarrett Allen trade, but does anyone else?",
           "key_points": [],
+          "link": "https://sports.yahoo.com/articles/nba-offseason-trade-free-agent-053345363.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-06-26T05:33:45+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "5ae449511241",
+          "title": "Former Illinois forward Ben Humrichous signs contract with Nets",
+          "original_title": "Former Illinois forward Ben Humrichous signs contract with Nets",
+          "summary": "Heading to Brooklyn.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/former-illinois-forward-ben-humrichous-052421958.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-06-26T05:24:21+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "04a1cc350bca",
+          "title": "Where Darryn Peterson Would Rank Among The Best Jazz Prospects Ever",
+          "original_title": "Where Darryn Peterson Would Rank Among The Best Jazz Prospects Ever",
+          "summary": "Is Darryn Peterson the best prospect in Utah Jazz history?",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/where-darryn-peterson-rank-among-045437800.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-06-26T04:54:37+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "6e11572dfa98",
+          "title": "Clippers draft pick Narcisse Ngoy announces he will play at Auburn next year in unique draft-and-stash situation",
+          "original_title": "Clippers draft pick Narcisse Ngoy announces he will play at Auburn next year in unique draft-and-stash situation",
+          "summary": "Narcisse Ngoy will suit up for Auburn next year, and perhaps the Clippers in the future.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/nba/article/clippers-draft-pick-narcisse-ngoy-announces-he-will-play-at-auburn-next-year-in-unique-draft-and-stash-situation-044404637.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-06-26T04:44:04+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "083b49e94bd6",
+          "title": "Submit your questions for The Pindown: A Detroit Pistons Podcast",
+          "original_title": "Submit your questions for The Pindown: A Detroit Pistons Podcast",
+          "summary": "Send in your questions now for this week\u2019s episode of The Pindown: A Detroit Pistons Podcast to discuss everything Pistons. Submit your question to the comments section here or on X/Twitter to @TheRealWesD3 and/or @blakesilverman. Join us live on Saturday morning for the show where Tyler Metcalf from No Ceilings NBA will join the show to review the NBA draft. [\u2026]",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/submit-questions-pindown-detroit-pistons-031350769.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-06-26T03:13:50+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "97af340b3c90",
+          "title": "Arizona Guard Anthony Dell\u2019Orso Added to Sacramento Kings Summer League Roster",
+          "original_title": "Report: Arizona\u2019s Anthony Dell\u2019Orso to play for Kings in Summer League",
+          "summary": "Former Arizona guard Anthony Dell\u2019Orso has been signed by the Sacramento Kings for the upcoming NBA Summer League. Dell\u2019Orso, who finished his college career averaging 8 points per game as a senior, will get a chance to showcase his skills at the professional level next month.",
+          "key_points": [
+            "Dell\u2019Orso joins the Kings' Summer League roster as reported by ESPN.",
+            "He played his final two collegiate seasons at Arizona, averaging 8 points in his senior year.",
+            "The Summer League opportunity provides his first exposure to NBA competition."
+          ],
           "link": "https://sports.yahoo.com/articles/report-arizona-anthony-dell-orso-025147118.html",
           "source": "Yahoo Sports NBA",
           "published": "2026-06-26T02:51:47+00:00",
           "topic": "NBA League News"
         },
         {
+          "id": "ace3251075e0",
+          "title": "Kevin Porter Jr. Exercises Player Option for Next Season",
+          "original_title": "Kevin Porter Jr. picks up player option",
+          "summary": "Kevin Porter Jr. has elected to exercise his player option, ensuring he will remain with his current team for the upcoming season. The move keeps him on the roster and under contract for the next year.",
+          "key_points": [
+            "Porter Jr. activated his player option, guaranteeing his salary for the next season.",
+            "He will continue with the same team, maintaining roster continuity.",
+            "No trade or free\u2011agency movement is involved at this time."
+          ],
+          "link": "https://sports.yahoo.com/articles/kevin-porter-jr-picks-player-015938142.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-06-26T01:59:38+00:00",
+          "topic": "NBA League News"
+        },
+        {
           "id": "7eb0a7b3b63f",
-          "title": "2026 NBA Free Agency: Discussion Thread",
+          "title": "2026 NBA Free Agency Discussion Thread Launches",
           "original_title": "2026 NBA Free Agency: Discussion Thread",
-          "summary": "The NBA offseason is here and it is already hectic. How will the Mark Walter\u2019s era start?",
-          "key_points": [],
+          "summary": "A Yahoo Sports discussion thread has opened to debate the upcoming 2026 NBA free\u2011agency landscape. Participants are speculating on how the new ownership era under Mark Walter will shape team strategies and player movement.",
+          "key_points": [
+            "Thread invites fans to analyze potential free\u2011agency moves for 2026.",
+            "Discussion includes expectations for Mark Walter\u2019s influence on league dynamics.",
+            "No official transactions have been announced; the thread is purely speculative."
+          ],
           "link": "https://sports.yahoo.com/articles/2026-nba-free-agency-discussion-013300597.html",
           "source": "Yahoo Sports NBA",
           "published": "2026-06-26T01:33:00+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "14b0a58946b9",
-          "title": "Tyon Grant-Foster to Play With San Antonio Spurs in NBA Summer League",
-          "original_title": "Tyon Grant-Foster to Play With San Antonio Spurs in NBA Summer League",
-          "summary": "No word yet on where guard Adam Miller and wing Jalen Warley\u2019s professional journey will begin.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/tyon-grant-foster-play-san-011427920.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-26T01:14:27+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "f1d40b6b198e",
-          "title": "Suns finalizing deal to bring back Mark Williams on $38 million, 3-year deal, AP source says",
-          "original_title": "Suns finalizing deal to bring back Mark Williams on $38 million, 3-year deal, AP source says",
-          "summary": "The Phoenix Suns are finalizing a deal to bring back center Mark Williams on a $38 million, three-year deal, a person familiar with the negotiations said on Thursday.  The 24-year-old Williams was a restricted free agent after scoring 11.7 points and grabbing eight rebounds per game last season.  The 7-foot-1 big man played his first three seasons with the Charlotte Hornets before he was traded to the Suns in a draft day deal in 2025.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/suns-finalizing-deal-bring-back-003533342.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-26T00:35:33+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "788fbeb7d686",
-          "title": "NBA free agency: Suns C Mark Williams agrees to 3-year, $38 million deal to stay in Phoenix",
-          "original_title": "NBA free agency: Suns C Mark Williams agrees to 3-year, $38 million deal to stay in Phoenix",
-          "summary": "Mark Williams isn't going anywhere.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/nba/article/nba-free-agency-suns-c-mark-williams-agrees-to-3-year-38-million-deal-to-stay-in-phoenix-001207381.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-26T00:12:07+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "a39b9f8e44c2",
-          "title": "Phoenix Suns Re\u2011Sign Mark Williams to 3\u2011Year, $38\u202fMillion Deal",
-          "original_title": "Phoenix Suns Re-Sign Mark Williams to 3-Year, $38 Million Contract",
-          "summary": "The Phoenix Suns have retained forward/center Mark Williams by agreeing to a three\u2011year contract worth $38\u202fmillion. The extension keeps the 2022 first\u2011round pick in the Suns\u2019 frontcourt as they continue to build around Devin Booker and Kevin Durant.",
+          "id": "710db9e5ea64",
+          "title": "Mitchell Robinson Unlikely to Return to Knicks Amid Team\u2019s Salary Crunch",
+          "original_title": "Mitchell Robinson unlikely to return to Knicks as team faces second apron crunch",
+          "summary": "The New York Knicks are expected to move on from veteran center Mitchell Robinson as the franchise confronts a second salary\u2011cap crunch. Robinson, the longest\u2011tenured player on the roster, appears to have slim chances of staying for another title run.",
           "key_points": [
-            "Williams signs a three\u2011year, $38\u202fmillion contract.",
-            "The deal locks up a young, defensive\u2011oriented big man for the Suns\u2019 core rotation.",
-            "Phoenix aims to maintain roster continuity heading into the 2026\u201127 season."
+            "Knicks face a second cap crunch, prompting roster reevaluation.",
+            "Robinson is unlikely to be retained despite his tenure with the team.",
+            "The decision reflects the franchise\u2019s focus on financial flexibility and future planning."
           ],
-          "link": "https://sports.yahoo.com/articles/phoenix-suns-sign-mark-williams-001013696.html",
+          "link": "https://sports.yahoo.com/articles/mitchell-robinson-unlikely-return-knicks-013202305.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-06-26T00:10:13+00:00",
+          "published": "2026-06-26T01:32:02+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "af0258161d0c",
-          "title": "How the LaMelo\u202fBall Era in Charlotte Came to Its Sudden End",
-          "original_title": "How the LaMelo Ball era in Charlotte came to its sudden end",
-          "summary": "The Charlotte Hornets decided to move on from LaMelo\u202fBall, ending the franchise\u2019s most recent identity shift. Multiple factors\u2014including on\u2011court performance, roster construction, and financial considerations\u2014contributed to the decision.",
+          "id": "c6d1af8932d4",
+          "title": "Brooklyn Nets First\u2011Round Pick Confident He Belongs With the Team",
+          "original_title": "Nets\u2019 first-rounder believes Brooklyn is where he \u2018needs to be\u2019",
+          "summary": "A recent first\u2011round selection for the Brooklyn Nets expressed that he feels the organization is the right fit for his development. The player, an older prospect who missed the NCAA Tournament due to an ankle sprain, sees Brooklyn as the place to maximize his upside.",
           "key_points": [
-            "Hornets part ways with LaMelo\u202fBall, the former face of the franchise.",
-            "Key reasons cited: inconsistent production, salary\u2011cap constraints, and a desire to retool the roster.",
-            "The move signals a new direction for Charlotte\u2019s rebuilding timeline."
+            "The Nets drafted an older prospect who missed Iowa State\u2019s NCAA run because of an ankle injury.",
+            "He believes the Nets provide the optimal environment for his growth.",
+            "The pick is viewed as a low\u2011risk gamble with potential upside for Brooklyn."
           ],
-          "link": "https://sports.yahoo.com/nba/article/how-the-lamelo-ball-era-in-charlotte-came-to-its-sudden-end-000554287.html",
+          "link": "https://sports.yahoo.com/articles/nets-first-rounder-believes-brooklyn-012410038.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-06-26T00:05:54+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "e91705db94fb",
-          "title": "LeBron James, Lakers Go Quiet as Free Agency Nears: Status Update",
-          "original_title": "LeBron James, Lakers go quiet as free agency nears: Where things stand, what's next",
-          "summary": "LeBron James and the Los Angeles Lakers appear to be at an impasse as the free\u2011agency period approaches, but recent developments suggest potential positive outcomes for the franchise. While no major moves have been announced, the situation remains fluid.",
-          "key_points": [
-            "LeBron\u2019s contract status and future role with the Lakers remain undecided.",
-            "The front office is reportedly evaluating roster options and cap space ahead of free agency.",
-            "Fans can expect possible roster tweaks or extensions that could shape the 2026\u201127 outlook."
-          ],
-          "link": "https://sports.yahoo.com/articles/lebron-james-lakers-quiet-free-000459473.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-26T00:04:59+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "76c4a36960c0",
-          "title": "Lakers Sign Multiple Undrafted Free Agents After 2026 NBA Draft",
-          "original_title": "Lakers begin signing multiple undrafted free agents after NBA Draft",
-          "summary": "Following the 2026 NBA Draft, the Los Angeles Lakers added two undrafted players to their roster on Exhibit\u201110 contracts. The moves aim to bolster depth and create competition for roster spots during training camp.",
-          "key_points": [
-            "Two undrafted prospects signed to Exhibit\u201110 deals.",
-            "Contracts include bonuses if players are waived and join the Lakers\u2019 G\u2011League affiliate.",
-            "The signings reflect the Lakers\u2019 strategy of developing low\u2011cost talent alongside their veteran core."
-          ],
-          "link": "https://sports.yahoo.com/articles/lakers-begin-signing-multiple-undrafted-165940695.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-25T23:16:45+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "72912f865ced",
-          "title": "Luka\u202fDoncic Trade Winners and Losers: Timberwolves Acquire Star Playmaker for Anthony Edwards",
-          "original_title": "Lamelo Ball trade winners and losers: Minnesota Timberwolves get star running mate for Anthony Edwards",
-          "summary": "The Minnesota Timberwolves completed a blockbuster trade, sending Anthony Edwards to the Dallas Mavericks in exchange for Luka\u202fDoncic. Analysts debate whether Minnesota emerges as a winner or a loser from the deal.",
-          "key_points": [
-            "Timberwolves receive Luka\u202fDoncic, a perennial MVP candidate, for Anthony Edwards.",
-            "The trade reshapes both teams\u2019 offensive hierarchies and future cap flexibility.",
-            "Opinions vary on whether Minnesota gains a higher ceiling or sacrifices long\u2011term continuity."
-          ],
-          "link": "https://sports.yahoo.com/articles/lamelo-ball-trade-winners-losers-230755061.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-06-25T23:07:55+00:00",
+          "published": "2026-06-26T01:24:10+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -201,14 +276,104 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "fe768733a316",
-          "title": "Windhorst Says LeBron Should Stop Talking About Legacy",
-          "original_title": "Brian Windhorst believes LeBron James should \u2018stop talking about legacy\u2019 - Awful Announcing",
-          "summary": "NBA insider Brian\u202fWindhorst criticized LeBron James for repeatedly discussing his legacy, suggesting the focus should shift to on\u2011court performance and team results. The comment came amid ongoing speculation about James\u2019 future with the Lakers.",
+          "id": "223bedc0c5e0",
+          "title": "LeBron James Projected to Earn $50M After Austin Reaves Deal",
+          "original_title": "Lakers\u2019 LeBron James gets fresh $50M contract prediction after Austin Reaves deal - Yahoo Sports",
+          "summary": "Yahoo Sports reports that following the signing of guard Austin Reaves, analysts are predicting a new $50\u202fmillion contract for LeBron James. The projection reflects the Lakers' willingness to retain their star while managing salary\u2011cap implications.",
           "key_points": [
-            "Windhorst believes James\u2019 legacy talk distracts from current team goals.",
-            "He urges James to let his play speak for his lasting impact.",
-            "The remark adds to the broader conversation about James\u2019 role in Los\u202fAngeles."
+            "LeBron's next contract is estimated at $50\u202fmillion.",
+            "The forecast comes after the Lakers added Austin Reaves.",
+            "Analysts view the deal as part of the Lakers' broader roster strategy."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQb0pObC1aY3FmNXdhbkM3d0I3U0VjYk9wYWtZT05oNEZuODdEaFVjWkVKc1FYQ2FPNmpBM2ZYSVd5VFd4bUt4dG9tSjZJNGJGMnpPbXJZS2RxVF9YcU1kN1I4QW5DbHZOa25lTWdVZ1lkTHVvZkdBdkxXbUVFOWZrXzlyWkRGdw?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-06-26T06:50:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "a450d92be331",
+          "title": "Lakers Yet to Extend Formal Offer to LeBron James, Communication Limited",
+          "original_title": "Lakers have not made LeBron James an offer yet and communication has been limited - HoopsHype",
+          "summary": "HoopsHype notes that the Los Angeles Lakers have not presented an official contract offer to LeBron James and that dialogue between the front office and the player has been sparse. The lack of communication adds uncertainty to James' free\u2011agency outlook.",
+          "key_points": [
+            "No formal contract offer has been made to LeBron James.",
+            "Team\u2011player communications have been minimal.",
+            "The situation leaves James' future with the Lakers unclear."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRy1zWnh3VDlvUUZiSUVHcGFmY05wbFkzcTMybnZOQUxTQ3V4TVU3bzlxQlY2aDQyVGRWRHBSVHVCNTNncmp2Nkx3NUxXeGNlTzl0US1LMFRHRktMd3g1Z21xSWQ1SGwtYlAyNGZEdWp4UDZnWXo3TThiTC1EOUNqMjd3VzYxeDQ2WWctQ0hQb0dFSmVqR1Y0Ry03cHBhdU1UVzhWMDhFU0N2cGFtVklUTXVXQUVNbkFDS0FBTGxXeTNyOEk3dEZJUkhlWWZXZHZmcGVOSFBzemZ5b3JVQ05OYTg1OE1QT3lDRlhj?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-06-26T05:41:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "d3e0c29752e3",
+          "title": "Cavaliers Explore DeAndre Ayton Trade Option for LeBron James",
+          "original_title": "CAVS SQUAD SHOW: Would the Cleveland Cavaliers Take DeAndre Ayton to TRADE for LeBron James? - 11Alive.com",
+          "summary": "11Alive.com\u2019s \u201cCAVS Squad Show\u201d discusses a hypothetical scenario in which the Cleveland Cavaliers would consider acquiring center DeAndre Ayton from the Lakers in exchange for LeBron James. The segment examines the potential benefits and challenges of such a blockbuster trade.",
+          "key_points": [
+            "Speculative trade: Ayton for LeBron James.",
+            "Analyzes roster fit for both the Lakers and Cavaliers.",
+            "Highlights the rarity of moving a franchise cornerstone like James."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOUmpvbVdHQV91MHpFV0NiTS1pNVlqRlJXYjBjc1FKeS11clN6V2JLVjhtWXMySlByS0l0V1VRaXJwQ3NGd2FsMkZWNndEbG1pQWdrRTNTU0ZkMjRzc2ItaWgwSkk5aVhkQXp0YmZhLWNtUk5PTGZYdG1TM19oaFVSajE1TmQ0RzZqTG1acUhjVGJRWHJxb2xHSDRkem1fV2NlbWhMakxHTHdkS0xWaUsyTUdNTW05eTdGaTJpd1N3Ym0zaGxYamc2OXZSZUozdGxpTU55MEZPTUpnc3VpSDBJN0tHbGR6ai1IUGR2cGdFWHZuVjdhMHpWNlVFSlV0RXdaZHhLSllmb3hKWkZvc1MxVjhUdVh4Wkw1QTR6VkJBVURyc0VkR0F5MXNfMzZKOHc?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-06-26T03:12:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "d920f9ecbb3a",
+          "title": "Luka Don\u010di\u0107\u2019s Trade Demand Could Prompt Lakers to Move DeAndre Ayton",
+          "original_title": "Luka Doncic\u2019s Demand May Force DeAndre Ayton Lakers Trade - heavy.com",
+          "summary": "Heavy.com reports that Dallas Mavericks star Luka Don\u010di\u0107 is reportedly demanding a trade package that might include DeAndre Ayton, putting pressure on the Lakers to consider moving the young center. The article links Don\u010di\u0107\u2019s market value to potential roster reshuffling in Los Angeles.",
+          "key_points": [
+            "Don\u010di\u0107\u2019s trade request may involve DeAndre Ayton.",
+            "Lakers could be forced to negotiate a deal to satisfy Dallas.",
+            "Ayton becomes a possible trade asset amid broader roster considerations."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZTBMWllkX29IR1piV0xTU2hwQWFwVllhWlA4MWFEVlhFM21NTGFhTkpEdXA2TGtHR1V1UktNRWZuNC1iZmREOWMwa0RNMWtlX0tnblhfLTRpdTR0cjBwZnBYMHkzLTVIdnVRTmw3dUoxZU5sMHJqYWYzZXBZQi1XV05pWklia1FYMnZodURGV1U?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-06-26T02:00:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "67b2867011b4",
+          "title": "Luka Don\u010di\u0107\u2019s Preference for the Warriors Narrows LeBron James\u2019 Options",
+          "original_title": "Luka Doncic's Lakers wish pushes LeBron James closer to Warriors - Blue Man Hoop",
+          "summary": "Blue Man Hoop notes that Luka Don\u010di\u0107 has expressed a desire to join the Golden State Warriors, a development that could influence LeBron James\u2019 free\u2011agency decisions. With Don\u010di\u0107 leaning toward the Warriors, James may find the Warriors a more attractive destination.",
+          "key_points": [
+            "Don\u010di\u0107 reportedly wants to sign with the Warriors.",
+            "His preference could make the Warriors a more appealing landing spot for LeBron.",
+            "The shift adds a new dynamic to the upcoming free\u2011agency market."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObHByWi1EVEdFT01kcnp4YnRmT0pLdjlselowVFFNZGR6c1BKN05LaFlfZWtwNjl2bXgzM2RjSXpEa0p1aWZEUE9BTjFydXdjMmc1dnZJQTF2VnMtcUtwSHRSVTNBdkFoMGlhQVRRLU5FWnlwWUtzWHBJc0Q3UHp4QUJrTjZkZEVnb0w4?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-06-26T01:00:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "27a013c18c3c",
+          "title": "Luka Doncic Highlights Jordan Brand Tour Stops in Europe",
+          "original_title": "Luka Doncic Celebrated Throughout Jordan Brand Tour In Madrid, Ljubljana And Belgrade - Lakers Nation",
+          "summary": "Luka\u202fDoncic made appearances at the Jordan Brand Tour events in Madrid, Ljubljana, and Belgrade, showcasing his partnership with the brand. The stops featured on\u2011court demos, fan interactions, and promotional content that highlighted Doncic\u2019s global appeal.",
+          "key_points": [
+            "Doncic attended three European tour stops: Spain, Slovenia, and Serbia.",
+            "He participated in basketball drills, photo ops, and interviews for Jordan Brand.",
+            "The tour emphasized the league\u2019s international growth and Doncic\u2019s marketability."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR1I1TjVnSXhGM3AtNUVYRzRVMWVxOTdOU2p3bWs3alNxeENlTDVEd25WWmVvZFVRcnhoTDA4VXllTUhZYXBWb0oyRnFSbDA0UDB5X2tNRURNLU5feUhxWFZtUnA3UWJxVi12WHdVSDF0RUo3UUxGOUg5UUZHMVRIVEhhVWk4LW9PUG10VjFybjA2SjYwbnN3?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-06-25T23:20:08+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "fe768733a316",
+          "title": "Brian Windhorst Says LeBron James Should Stop Talking About Legacy",
+          "original_title": "Brian Windhorst believes LeBron James should \u2018stop talking about legacy\u2019 - Awful Announcing",
+          "summary": "NBA reporter Brian Windhorst commented that LeBron James ought to shift focus away from legacy discussions and concentrate on on\u2011court performance and team goals. Windhorst suggested the narrative could distract from the Lakers\u2019 immediate competitive objectives.",
+          "key_points": [
+            "Windhorst advises James to prioritize playing and winning over legacy talk.",
+            "He notes that media emphasis on legacy may create unnecessary pressure.",
+            "The comment comes amid ongoing speculation about James\u2019 future with the Lakers."
           ],
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPODlNX3hQSkdURDlKZm1OLVEzaGdLM1RhZ0E3TFlJNUVsZzlGaEhXaDh0dUg5bjlkeVBpVy1HM3dDRnV0Um14dG9wYVpxSHkzbXJRbmJWOVdBV0pZSVdLVFA0WWdscUVkX0ZiT0tlMjluY2dSUml3eWszT0tJTXpvM3dGSEpnV25reDN0Qkp3?oc=5",
           "source": "Google News - LeBron",
@@ -217,13 +382,13 @@
         },
         {
           "id": "0e7c53ee9367",
-          "title": "New Rumors Detail LeBron\u2019s Lakers Contract Talks Ahead of Free Agency",
+          "title": "LeBron James' Lakers Contract Talks Detailed in New NBA Rumors",
           "original_title": "LeBron James' Lakers Contract Talks Detailed in New NBA Rumors Ahead of Free Agency - Bleacher Report",
-          "summary": "Bleacher Report compiled recent NBA rumor reports outlining the status of LeBron James\u2019 contract negotiations with the Lakers as free agency approaches. Sources indicate both sides are weighing options, with salary cap considerations and roster flexibility at the forefront.",
+          "summary": "Recent NBA rumor reports outline the status of LeBron James\u2019 contract negotiations with the Los Angeles Lakers as free agency approaches. Sources indicate that discussions have stalled over salary structure and length, with both sides seeking a mutually agreeable deal.",
           "key_points": [
-            "Negotiations are reportedly at a stalemate with no firm offer on the table.",
-            "Cap space and the Lakers\u2019 roster composition are key factors.",
-            "James\u2019 decision could influence the team\u2019s free\u2011agency strategy."
+            "Negotiations are reportedly at an impasse regarding contract length and annual salary.",
+            "Lakers aim to balance James\u2019 compensation with roster flexibility.",
+            "James\u2019 decision will impact the team\u2019s salary\u2011cap strategy heading into free agency."
           ],
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbHFwR3ZJZWJZVS1WRm1iM3g2alRKZjhQSGo1NmZrLXB4dW5ncTZtVTVFaUdjZHFQMHllOVZ4YmdjaC15Q1RiQS16WWFoRkFkRmdCbW5Pa1YxekdpTFk1YUY0dzduLWYtZmVHT1p6cll3U001eFdoM0ljZnFmZFlOaVM3SExRWVdWSURHSDdmRlNPcjFCbjNUMVljTWlYNlhVRjBEZ211WnVpMTN1YXhNZHo3RGNHeENCbDVQNGlB?oc=5",
           "source": "Google News - LeBron",
@@ -232,13 +397,13 @@
         },
         {
           "id": "a874371364a6",
-          "title": "What\u2019s Next for the Lakers? \u2013 Alexander\u2019s Take",
+          "title": "What\u2019s Next for the Lakers? \u2013 Analysis by Alexander",
           "original_title": "Alexander: What now for the Lakers? - Orange County Register",
-          "summary": "In the Orange County Register, analyst Alex\u202fAlexander examined the Lakers\u2019 offseason outlook, focusing on roster moves, coaching decisions, and the franchise\u2019s direction after a disappointing season. He highlighted the need for strategic acquisitions and clarity around LeBron James\u2019 contract.",
+          "summary": "Sports columnist Alexander examines the Los Angeles Lakers\u2019 current roster composition, coaching situation, and upcoming offseason moves. The piece outlines potential scenarios for roster adjustments and strategic direction.",
           "key_points": [
-            "Lakers must address front\u2011court depth and defensive consistency.",
-            "LeBron\u2019s contract status will shape the team\u2019s salary\u2011cap flexibility.",
-            "Potential coaching adjustments could be required to maximize talent."
+            "Evaluation of the Lakers\u2019 roster strengths and weaknesses after the 2023\u201124 season.",
+            "Discussion of possible trades, free\u2011agent targets, and draft considerations.",
+            "Assessment of coaching staff stability and its impact on future performance."
           ],
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42T1NkZ2k2VmlXSHZSZHJ0UzFMUndNczN6bFp6QV9oRDYyS2RBM2J2RWRiMGVaaVlhaUtFdG1VcmRFZ19janVmd2VKNHFac1JZbEpaWU1zcUVGbExYaGtuSlNIeEt1d0JJLWpRX1k4cVU4eVpCbEpnZndrdUk?oc=5",
           "source": "Google News - Luka",
@@ -246,29 +411,14 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "1d2de12d5aa0",
-          "title": "Cameron Carr Credits Luka\u2019s Former Teammate for Lakers Blueprint",
-          "original_title": "Cameron Carr can thank Luka Doncic's ex-teammate for blueprint to Lakers success - Lake Show Life",
-          "summary": "Lake Show Life reports that analyst Cameron\u202fCarr attributes the Lakers\u2019 recent strategic approach to insights gained from a former Dallas Mavericks teammate of Luka Don\u010di\u0107. The blueprint emphasizes spacing, ball movement, and versatile wing play.",
-          "key_points": [
-            "The \u201cblueprint\u201d focuses on modern, position\u2011less basketball concepts.",
-            "Lakers aim to integrate these ideas to improve offensive efficiency.",
-            "Carr suggests the influence could accelerate the team\u2019s rebuild."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ2xXQmhCQnZ0ajNqWHFtWURwaDE1WlRQX1ZIVGFLMkRzN01xYkZVZ0lrbEJpNWI0QmFUTTFudWJDcm5WU0xlLUotX1dUaWNFS3VaTFBtaWIydGxURUJCc3FYdThxZVhobEhOUDU2eWdZVllNY1lKMlRFMXFWblZwZDd2bnNSX0pCTC10R0I1MjVWRmxkNzdJ?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-06-25T21:46:13+00:00",
-          "topic": "Lakers Players"
-        },
-        {
           "id": "1d52099d6857",
-          "title": "Negative Update on LeBron James\u2019 Contract Talks",
+          "title": "LeBron James Contract Talks Receive Major Negative Update",
           "original_title": "Lakers' LeBron James contract talks get major negative update - BasketNews.com",
-          "summary": "BasketNews.com relayed a \u201cmajor negative update\u201d regarding LeBron James\u2019 contract negotiations with the Lakers, indicating that talks have stalled and a resolution appears unlikely before the upcoming deadline. The report cites disagreements over salary structure and length.",
+          "summary": "BasketNews.com reports a significant setback in contract negotiations between LeBron James and the Los Angeles Lakers. The update suggests that the two parties could not reach agreement on key financial terms, raising uncertainty about James\u2019 future with the team.",
           "key_points": [
-            "Negotiations have hit a significant impasse.",
-            "Disputes center on salary demands and contract length.",
-            "The stalemate may force the Lakers to explore alternative roster plans."
+            "Negotiations have hit a major roadblock over salary and contract length.",
+            "Lakers face a decision on whether to pursue a new deal or explore alternative options.",
+            "James\u2019 free\u2011agency status remains uncertain as the deadline approaches."
           ],
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS1pMR2Ixa2JmRUw2MGRhMFJob2lyWGhPWXVrUWp5bExiUkZBZUtaU2h6ci03czBaWk5LRVloUzF0bUZDanQxNklleTdVS3RYR3pMMjdLbXgyOFZJR1l5UXZKaG01YnVlYU9mbHdCQWhqSVUybmszQUYwaGFUaWVTWkNjTG9PZ0N5dEtSTHBUQVBTdFZPZnItN05aS3BJREpSdWc?oc=5",
           "source": "Google News - LeBron",
