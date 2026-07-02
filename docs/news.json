@@ -1,16 +1,95 @@
 {
-  "generated_at": "2026-07-02T19:35:32.431690+00:00",
+  "generated_at": "2026-07-02T21:15:03.129371+00:00",
   "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
+          "id": "512dc5cae36f",
+          "title": "Potential Vet\u2011Minimum Target Discussed on r/Lakers",
+          "original_title": "Guy I know who we should get for a Vet Minimum",
+          "summary": "A Reddit user on r/Lakers suggested a specific player the team could acquire on a veteran minimum contract. The post generated discussion among fans about the fit and cost\u2011effectiveness of the suggestion.",
+          "key_points": [
+            "User proposes a vet\u2011minimum signing to add depth.",
+            "Discussion focuses on salary cap impact and roster needs.",
+            "No official confirmation from the Lakers organization."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1ulsy46/guy_i_know_who_we_should_get_for_a_vet_minimum/",
+          "source": "Reddit r/lakers",
+          "published": "2026-07-02T20:03:51+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "315c16ecaea5",
+          "title": "NBA Free\u2011Agency Winners and Losers After Blockbuster Week",
+          "original_title": "NBA free agency winners, losers after wild week of blockbuster trades - USA Today",
+          "summary": "USA Today outlines which teams benefited and which were hurt by the recent flurry of free\u2011agency moves and trades, highlighting the Lakers' activity. The article notes the Lakers' strategic choices and how they compare to other franchises.",
+          "key_points": [
+            "Lakers made several roster moves, including signings and trade considerations.",
+            "Analysts label the Lakers as either a winner or a loser based on cap flexibility and talent acquisition.",
+            "The piece places the Lakers' decisions in the broader context of league\u2011wide roster reshuffling."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbDRLVklvUGlSMkFBZ0hmdUM2a0pmTU5nenBHUnN0eG9DWkdneFRfMUVzZTZiNVkwMjVIeXZtTzdLY21RZkRudGNvZWlHc1ZxcUlMcU9mTHR2Zm9ERXpKNWczRndwSHZrb1RHQ3VOSjZrdERlNDlNODhKZHNMdWV5c29Obm1Xek1kSlhQMnZyMW9WdU9UUUswajNPZ05iS21jWnhlTU9VaWpGR1ZLNlhvM3Z6VnJyRXJkZXBId3NkeXhSRjg?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-07-02T19:58:16+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "eaa9313e2c5d",
+          "title": "Lakers Exploring Jonathan Kuminga Amid Financial Constraints",
+          "original_title": "[Stein] The Lakers obviously face financial constraints but league sources say they continue to explore the feasibility of adding Jonathan Kuminga to fill a wing need. Cleveland and Milwaukee have also expressed Kuminga interest and a return to Atlanta has not been ruled out.",
+          "summary": "According to league sources cited on Reddit, the Lakers are evaluating the feasibility of adding former Golden State forward Jonathan Kuminga to address a wing need, despite salary\u2011cap limitations. Other teams, including Cleveland, Milwaukee, and possibly Atlanta, have also shown interest.",
+          "key_points": [
+            "Kuminga is identified as a potential wing upgrade for Los Angeles.",
+            "Financial constraints are a major factor in any potential deal.",
+            "Multiple clubs are reportedly pursuing Kuminga, increasing competition."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1ulshd2/stein_the_lakers_obviously_face_financial/",
+          "source": "Reddit r/lakers",
+          "published": "2026-07-02T19:46:11+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "9f877ef0b549",
+          "title": "Stretch Big Sandro Mamukelashvili Excited to Join Lakers",
+          "original_title": "Sandro Mamukelashvili Expresses Excitement To Join Lakers",
+          "summary": "Lakers Nation reports that the team added four players in a rapid roster overhaul, one of whom is stretch\u2011big Sandro Mamukelashvili, acquired from Toronto. Mamukelashvili expressed enthusiasm about contributing to a roster built around Luka Don\u010di\u0107 and Austin Reaves.",
+          "key_points": [
+            "Mamukelashvili signs a multi\u2011year deal after being poached from the Raptors.",
+            "He is expected to provide floor\u2011spacing and versatility as a stretch big.",
+            "The signings are part of a broader strategy to complement Don\u010di\u0107 and Reaves."
+          ],
+          "link": "https://lakersnation.com/sandro-mamukelashvili-expresses-excitement-to-join-lakers/",
+          "source": "Lakers Nation",
+          "published": "2026-07-02T19:45:20+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "16795f62bf8a",
+          "title": "Walker Kessler Trade Rumors on r/Lakers",
+          "original_title": "Walker Kessler Ranger",
+          "summary": "A Reddit post by user StoneColdAM sparked conversation about the possibility of the Lakers acquiring Walker Kessler. The thread discusses how Kessler\u2019s skill set could fit Los Angeles' front\u2011court needs.",
+          "key_points": [
+            "Fans speculate on Kessler as a potential addition for rim protection.",
+            "Discussion includes salary\u2011cap implications and roster fit.",
+            "No official statements from the Lakers confirming interest."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1uls4h1/walker_kessler_ranger/",
+          "source": "Reddit r/lakers",
+          "published": "2026-07-02T19:32:30+00:00",
+          "topic": "Lakers News"
+        },
+        {
           "id": "4fa612641306",
-          "title": "The Lakers used their leverage to finally land Walker Kessler from Jazz",
+          "title": "Lakers Acquire Center Walker Kessler from Jazz",
           "original_title": "The Lakers used their leverage to finally land Walker Kessler from Jazz",
-          "summary": "The pressure was on Lakers President of Basketball Operations Rob Pelinka to land an A-list center this offseason. It was reported that Luka Don\u010di\u0107 wanted one. The fans clearly desired it, and with the carousel of starting centers, it was clear the front office had been searching for years. Pelinka got his guy, reportedly trading [&#8230;]",
-          "key_points": [],
+          "summary": "Los Angeles Lakers President of Basketball Operations Rob Pelinka completed a trade to bring Walker Kessler to the team, addressing a long\u2011standing need for a high\u2011level center. The move was reportedly influenced by external pressure, including interest from Luka Don\u010di\u0107 and fan demand for a stronger frontcourt.",
+          "key_points": [
+            "Walker Kessler was traded from the Utah Jazz to the Lakers.",
+            "Pelinka faced pressure from fans, league peers, and possibly other players to secure an elite center.",
+            "The acquisition aims to stabilize the Lakers' interior defense and rebounding after years of turnover at the position."
+          ],
           "link": "https://www.silverscreenandroll.com/nba-free-agency/121183/lakers-walker-kessler-nba-free-agency-rob-pelinka-jazz",
           "source": "Silver Screen and Roll",
           "published": "2026-07-02T19:24:16+00:00",
@@ -18,10 +97,14 @@
         },
         {
           "id": "2592aade3851",
-          "title": "Trevor Lane Appreciation post",
+          "title": "Reddit Appreciation Post for NBA Reporter Trevor Lane",
           "original_title": "Trevor Lane Appreciation post",
-          "summary": "      Gotta appreciate this dude for the work he does reporting on not only the lakers but the entire NBA. Hopefully rob dosent offer more player options or else he might have a heart attack lmao  &#32; submitted by &#32;  /u/fazbearglamrock   [link] &#32; [comments] ",
-          "key_points": [],
+          "summary": "A Reddit user posted a thank\u2011you message praising Trevor Lane for his comprehensive coverage of the Lakers and the broader NBA. The post humorously warned that offering too many player options could overwhelm Pelinka.",
+          "key_points": [
+            "Community members recognize Lane\u2019s reporting contributions.",
+            "The post includes a light\u2011hearted comment about Pelinka\u2019s workload.",
+            "No new factual information about team operations is presented."
+          ],
           "link": "https://www.reddit.com/r/lakers/comments/1ulr6xz/trevor_lane_appreciation_post/",
           "source": "Reddit r/lakers",
           "published": "2026-07-02T18:57:54+00:00",
@@ -29,10 +112,14 @@
         },
         {
           "id": "0b3756c560c8",
-          "title": "Marc Spears: New Lakers ownership has pushed Rob Pelinka to be \"more diligent and deeper\" in his decision making.",
+          "title": "New Lakers Ownership Pushes Pelinka Toward More Diligent Decision\u2011Making",
           "original_title": "Marc Spears: New Lakers ownership has pushed Rob Pelinka to be \"more diligent and deeper\" in his decision making.",
-          "summary": "      &#32; submitted by &#32;  /u/Hot_Pie1464   [link] &#32; [comments] ",
-          "key_points": [],
+          "summary": "According to a Reddit post, the Lakers' recent change in ownership has prompted Rob Pelinka to adopt a more thorough and analytical approach in his roster decisions. The comment reflects perceived shifts in the front office\u2019s evaluation process.",
+          "key_points": [
+            "Ownership change is influencing Pelinka\u2019s decision\u2011making style.",
+            "Emphasis placed on increased diligence and depth of analysis.",
+            "The observation originates from a fan discussion, not an official statement."
+          ],
           "link": "https://www.reddit.com/r/lakers/comments/1ulr6vn/marc_spears_new_lakers_ownership_has_pushed_rob/",
           "source": "Reddit r/lakers",
           "published": "2026-07-02T18:57:50+00:00",
@@ -40,10 +127,14 @@
         },
         {
           "id": "0ecb452a9d15",
-          "title": "LeBron James, Lakers front office had \u2018disconnect\u2019 after Russell Westbrook trade",
+          "title": "LeBron James and Front Office Experienced \u2018Disconnect\u2019 After Westbrook Trade",
           "original_title": "LeBron James, Lakers front office had \u2018disconnect\u2019 after Russell Westbrook trade",
-          "summary": "For those paying particularly close attention to the Lakers during the LeBron James era, there was a clear inflection point. Riding high after a title in 2020 and feeling hard done by due to injuries the following season, the Lakers front office and LeBron had a harmonious relationship. Looking for an offseason shakeup, the franchise [&#8230;]",
-          "key_points": [],
+          "summary": "Silver Screen and Roll reports that the relationship between LeBron James and the Lakers\u2019 front office soured following the trade that sent Russell Westbrook to the team. The disconnect marks a shift from the previously harmonious dynamic that existed after the 2020 championship.",
+          "key_points": [
+            "Trade for Russell Westbrook created tension between LeBron and management.",
+            "The discord contrasts with the earlier post\u2011title\u2011run harmony.",
+            "The article suggests the trade may have been a turning point in front\u2011office/player relations."
+          ],
           "link": "https://www.silverscreenandroll.com/lakers-rumors/121180/lebron-james-lakers-front-office-report-russell-westbrook-trade",
           "source": "Silver Screen and Roll",
           "published": "2026-07-02T18:40:47+00:00",
@@ -51,68 +142,17 @@
         },
         {
           "id": "8b4bc3c47ee8",
-          "title": "Finally arrived! Black Mamba Forever \ud83d\udda4\ud83e\udd79",
+          "title": "Reddit Post Celebrates \u2018Black Mamba Forever\u2019",
           "original_title": "Finally arrived! Black Mamba Forever \ud83d\udda4\ud83e\udd79",
-          "summary": "      &#32; submitted by &#32;  /u/YearEducational9435   [link] &#32; [comments] ",
-          "key_points": [],
+          "summary": "A Reddit user shared a tribute titled \u201cBlack Mamba Forever,\u201d expressing ongoing admiration for Kobe Bryant. The post includes a link and invites comments from the community.",
+          "key_points": [
+            "Fans continue to honor Kobe Bryant\u2019s legacy.",
+            "The post is a fan\u2011generated tribute, not a news report.",
+            "Engagement is driven by community comments and shared memories."
+          ],
           "link": "https://www.reddit.com/r/lakers/comments/1ulqh3k/finally_arrived_black_mamba_forever/",
           "source": "Reddit r/lakers",
           "published": "2026-07-02T18:31:53+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "2ef1ccf09dc4",
-          "title": "Quentin Grimes Posts Photo Of Younger Self Wearing Lakers Gear",
-          "original_title": "Quentin Grimes Posts Photo Of Younger Self Wearing Lakers Gear",
-          "summary": "Free agent center Walker Kessler was the acquisition made by the Los Angeles Lakers that will get the most attention, but the team also added multiple other players who will play a big role on the team next season. Chief among them is guard Quentin Grimes, who agreed to a four-year, $60 million deal to [&#8230;]",
-          "key_points": [],
-          "link": "https://lakersnation.com/quentin-grimes-posts-photo-of-younger-self-wearing-lakers-gear/",
-          "source": "Lakers Nation",
-          "published": "2026-07-02T18:30:52+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "a3ea4a68972a",
-          "title": "Lakers announce Summer League schedule, roster headlined by Adou Thiero, Cameron Carr - Yahoo Sports",
-          "original_title": "Lakers announce Summer League schedule, roster headlined by Adou Thiero, Cameron Carr - Yahoo Sports",
-          "summary": "Lakers announce Summer League schedule, roster headlined by Adou Thiero, Cameron Carr&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZXg3N00xRHJadlZjNC0xVU9TTEFYZmZmNFF1S0dTeTNoWlNIRjNKMm40ZWNwZ0hfallnN2JSc3JhMEZvMDdLc1FiZEJtazdRWFhENXc2Tmp0cE1jVk1XN2lBTENjREVvYWVrLVlLYnBXeGxWWE5KajVORlg0ZERKZjBlN0k0b084Wk9ReDRlMGg?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-07-02T17:32:22+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "5bcb17224bcd",
-          "title": "What LeBron James\u2019 Lakers Departure Could Mean For Bronny",
-          "original_title": "What LeBron James\u2019 Lakers Departure Could Mean For Bronny",
-          "summary": "The Los Angeles Lakers began their offseason with a much more modest move before their complete roster overhaul on July 1. They guaranteed the contract of third-year guard Bronny James on June 29, before LeBron James announced that he would be moving on from the Lakers on June 30. This left many wondering if the [&#8230;]",
-          "key_points": [],
-          "link": "https://lakersnation.com/what-does-lebron-james-lakers-departure-mean-for-bronny-james/",
-          "source": "Lakers Nation",
-          "published": "2026-07-02T17:25:45+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "ccc4d64cf43d",
-          "title": "Jonathan Kuminga expected to receive \u2018significant consideration\u2019 by Lakers",
-          "original_title": "Jonathan Kuminga expected to receive \u2018significant consideration\u2019 by Lakers",
-          "summary": "While the Lakers have addressed their strongest need by reportedly trading for Walker Kessler, they still have gaps to fill in their roster. Specifically, at the wing position. As currently constructed, the team lacks wings and needs more perimeter defense. Many players are already off the board, but there are still some quality wings on [&#8230;]",
-          "key_points": [],
-          "link": "https://www.silverscreenandroll.com/nba-free-agency/121151/lakers-rumors-jonathan-kuminga-nba-free-agency",
-          "source": "Silver Screen and Roll",
-          "published": "2026-07-02T17:15:06+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "5deb5ac12c93",
-          "title": "Fresh Lakers Rumors on Rui Hachimura Trade and Futures of Jarred Vanderbilt, Deandre Ayton - Bleacher Report",
-          "original_title": "Fresh Lakers Rumors on Rui Hachimura Trade and Futures of Jarred Vanderbilt, Deandre Ayton - Bleacher Report",
-          "summary": "Fresh Lakers Rumors on Rui Hachimura Trade and Futures of Jarred Vanderbilt, Deandre Ayton&nbsp;&nbsp;Bleacher Report",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPODJvRjd6cnIwU2hhR0ZNdnNJanExS3U0MmxJcGMzWXRqUHNKTXVLTEFOd2VlTXBteXZsd1BpZGJudXpEMGNIa0NRZUx2dHRtRVRqc0Y0VnNxTVFMakM5Q2Q0RHEzLTNhS2ZoY3Q2My1Ua1lSRU5PMFZPbllEZXR6RTVSZjdtZVB3SGZWT0puLUhIaGRWLWozbWg4NTBDbEFkMUtDSU1vUjFiZEJLSEVXcUdUTWhpRDJOX3F0MWJYT3B3MzFzZ1ZB?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-07-02T17:15:06+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -121,113 +161,113 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "528fb79d4c2a",
-          "title": "Jaylen Brown releases statement following shocking trade to Philadelphia",
-          "original_title": "Jaylen Brown releases statement following shocking trade to Philadelphia",
-          "summary": "Brown thanks the Boston fans and talks about earning the respect of 76ers fans.",
+          "id": "af2c5c601dae",
+          "title": "NBA futures: Sixers' championship odds shorten to ...",
+          "original_title": "NBA futures: Sixers' championship odds shorten to ...",
+          "summary": "An updated look at the odds to win the 2027 NBA Finals following a flurry of free agent signings and blockbuster trades.",
           "key_points": [],
-          "link": "https://sports.yahoo.com/articles/jaylen-brown-releases-statement-following-191957015.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-07-02T19:19:57+00:00",
+          "link": "https://www.espn.com/espn/betting/story/_/id/49062262/2027-nba-finals-odds-mvp-2026-27-championship-betting",
+          "source": "ESPN NBA",
+          "published": "2026-07-02T21:32:34+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "548135f1b3a5",
-          "title": "From Giannis Antetokounmpo to LeBron James to Jaylen Brown: A timeline of the NBA's major offseason moves",
-          "original_title": "From Giannis Antetokounmpo to LeBron James to Jaylen Brown: A timeline of the NBA's major offseason moves",
-          "summary": "In the span of 10 days, four Finals MVPs and a number of All-Stars changed teams.",
+          "id": "a54884d1be58",
+          "title": "Jay-Z, Kevin Durant, Tom Brady top attendees at Mi...",
+          "original_title": "Jay-Z, Kevin Durant, Tom Brady top attendees at Mi...",
+          "summary": "Some of the biggest names in the sports world partied with Fanatics CEO Michael Rubin at his annual \"White Party.\"",
           "key_points": [],
-          "link": "https://sports.yahoo.com/nba/article/from-giannis-antetokounmpo-to-lebron-james-to-jaylen-brown-a-timeline-of-the-nbas-major-offseason-moves-191943194.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-07-02T19:19:43+00:00",
+          "link": "https://www.espn.com/nfl/story/_/id/49244749/michael-rubin-white-party-2026-athletes-lil-wayne-karl-anthony-towns-tom-brady-kevin-durant",
+          "source": "ESPN NBA",
+          "published": "2026-07-02T21:08:58+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "1cc233e4ad68",
-          "title": "Tim Hardaway Sr. says son can't wear retired No. 10 with Heat: 'My legacy is my legacy'",
-          "original_title": "Tim Hardaway Sr. says son can't wear retired No. 10 with Heat: 'My legacy is my legacy'",
-          "summary": "Hardaway Sr. said he told his son his feelings on wearing No. 10 for the Heat five years ago when he previously nearly signed with Miami as a free agent.",
+          "id": "44f25fdabd60",
+          "title": "The Jaylen Brown trade is a gut punch to Celtics fans and a move the team can't justify",
+          "original_title": "The Jaylen Brown trade is a gut punch to Celtics fans and a move the team can't justify",
+          "summary": "As Brown put it in his statement released on Thursday after being traded to the 76ers, 'actions speak louder than words'",
           "key_points": [],
-          "link": "https://sports.yahoo.com/nba/article/tim-hardaway-sr-says-son-cant-wear-retired-no-10-with-heat-my-legacy-is-my-legacy-190659972.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-07-02T19:06:59+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "b91ca2b51b47",
-          "title": "ESPN analyst on Jaylen Brown trade: 'One of the dumbest trades in NBA history'",
-          "original_title": "ESPN analyst on Jaylen Brown trade: 'One of the dumbest trades in NBA history'",
-          "summary": "ESPN NBA analyst Kendrick Perkins had a harsh assessment of the Boston Celtics' decision to trade Jaylen Brown to the Philadelphia 76ers.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/espn-analyst-jaylen-brown-trade-184203864.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-07-02T18:42:03+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "7c075edcb15a",
-          "title": "2026 NBA free agency rankings, tracker: Resetting the market with most of top 40 signed",
-          "original_title": "2026 NBA free agency rankings, tracker: Resetting the market with most of top 40 signed",
-          "summary": "Most players have agreed to new deals, but big names -- like LeBron James and Jalen Duren -- remain on the market",
-          "key_points": [],
-          "link": "https://www.cbssports.com/nba/news/2026-nba-free-agency-rankings-tracker/",
+          "link": "https://www.cbssports.com/nba/news/celtics-cant-justify-jaylen-brown-trade-fans/",
           "source": "CBS Sports NBA",
-          "published": "2026-07-02T18:38:18+00:00",
+          "published": "2026-07-02T20:40:32+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "d78ef0ebf78e",
-          "title": "NBA free agency 2026: Early winners and losers, including LeBron James, the Celtics and unpredictable star guards",
-          "original_title": "NBA free agency 2026: Early winners and losers, including LeBron James, the Celtics and unpredictable star guards",
-          "summary": "Does the NBA offseason have your head spinning? We're here to sort it all out for you.",
+          "id": "44d72363259d",
+          "title": "Brown 'excited and disappointed' for 76ers trade",
+          "original_title": "Brown 'excited and disappointed' for 76ers trade",
+          "summary": "Former Celtics star Jaylen Brown says he is \"excited and disappointed\" over his trade to the 76ers.",
           "key_points": [],
-          "link": "https://sports.yahoo.com/nba/article/nba-free-agency-2026-early-winners-and-losers-including-lebron-james-the-celtics-and-unpredictable-star-guards-182704098.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-07-02T18:27:04+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/49250597/jaylen-brown-excited-disappointed-trade-76ers",
+          "source": "ESPN NBA",
+          "published": "2026-07-02T20:35:36+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "ae873fdb2be0",
-          "title": "Boston/Philly blockbuster, Toronto\u2019s upside & a Lakers shake-up. Plus, where's LeBron going?",
-          "original_title": "Boston/Philly blockbuster, Toronto\u2019s upside & a Lakers shake-up. Plus, where's LeBron going?",
-          "summary": "Kevin O'Connor and Tom Haberstroh recap the wild week of free agency, including the Jaylen Brown trade to the 76ers and potential suitors for LeBron James.",
+          "id": "a800840a6d05",
+          "title": "NBA testing one free throw rule in summer league",
+          "original_title": "NBA testing one free throw rule in summer league",
+          "summary": "The NBA summer league will test the one free throw rule that has been tested in the G League, as well as embedded sensors in basketballs during July's summer league series.",
           "key_points": [],
-          "link": "https://sports.yahoo.com/nba/article/bostonphilly-blockbuster-torontos-upside--a-lakers-shake-up-plus-wheres-lebron-going-182536717.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-07-02T18:25:36+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/49249828/one-free-throw-rule-embedded-ball-tech-test-set-summer-league",
+          "source": "ESPN NBA",
+          "published": "2026-07-02T20:35:36+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "c148127af0a3",
-          "title": "NBA to test new free throw rule, and it\u2019s WILD",
-          "original_title": "NBA to test new free throw rule, and it\u2019s WILD",
-          "summary": "This is a wild rule change.",
+          "id": "7dc21ffccd6a",
+          "title": "Sources: Simons agrees with revamped 76ers",
+          "original_title": "Sources: Simons agrees with revamped 76ers",
+          "summary": "Free agent guard Anfernee Simons has agreed to a two-year, $12.3 million deal with the Philadelphia 76ers, with a player option in the second season, sources told ESPN's Shams Charania.",
           "key_points": [],
-          "link": "https://sports.yahoo.com/articles/nba-test-free-throw-rule-180540049.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-07-02T18:05:40+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/49250070/sources-anfernee-simons-agrees-deal-revamped-76ers",
+          "source": "ESPN NBA",
+          "published": "2026-07-02T20:35:36+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "4f524c824e9b",
-          "title": "NBA free agency: The most notable July 4 transactions in league history as teams wait on LeBron James",
-          "original_title": "NBA free agency: The most notable July 4 transactions in league history as teams wait on LeBron James",
-          "summary": "One very significant historical NBA signing was announced July 4.",
+          "id": "2667477b5805",
+          "title": "Raptors coach gets new deal amid Kawhi return",
+          "original_title": "Raptors coach gets new deal amid Kawhi return",
+          "summary": "The Raptors have agreed to a multiyear contract extension with coach Darko Rajakovic, who will soon lead a team featuring Kawhi Leonard.",
           "key_points": [],
-          "link": "https://sports.yahoo.com/nba/article/nba-free-agency-the-most-notable-july-4-transactions-in-league-history-as-teams-wait-on-lebron-james-175414858.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-07-02T17:54:14+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/49250595/raptors-agree-multiyear-extension-coach-darko-rajakovic",
+          "source": "ESPN NBA",
+          "published": "2026-07-02T20:35:36+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "08fa68febf90",
-          "title": "AJ Dybantsa, Darius Acuff Jr. among the rookies to watch this summer",
-          "original_title": "AJ Dybantsa, Darius Acuff Jr. among the rookies to watch this summer",
-          "summary": "Summer League play begins this weekend in California and Utah before the entire NBA meets in Las Vegas next week.",
+          "id": "ebe34382edc7",
+          "title": "Hardaway Sr.: Son can't use retired 10 with Heat",
+          "original_title": "Hardaway Sr.: Son can't use retired 10 with Heat",
+          "summary": "Tim Hardaway Sr. said he isn't letting his retired No. 10 come back into circulation for the Heat, even for his newly signed son.",
           "key_points": [],
-          "link": "https://sports.yahoo.com/articles/aj-dybantsa-darius-acuff-jr-171644278.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-07-02T17:16:44+00:00",
+          "link": "https://www.espn.com/nba/story/_/id/49248333/tim-hardaway-sr-son-wear-retired-number-heat-deal",
+          "source": "ESPN NBA",
+          "published": "2026-07-02T20:35:36+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "4e7186d76138",
+          "title": "Sources: Robinson, Celtics agree on $47.4M deal",
+          "original_title": "Sources: Robinson, Celtics agree on $47.4M deal",
+          "summary": "Mitchell Robinson, fresh off winning an NBA title with the Knicks, has agreed to a three-year, $47.4 million deal to sign with the Celtics, sources tell ESPN's Shams Charania.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/49237335/sources-mitchell-robinson-celtics-agree-3-year-474m-deal",
+          "source": "ESPN NBA",
+          "published": "2026-07-02T20:35:36+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "723685d12ea7",
+          "title": "Sources: Lakers trade 2 first-rounders for Kessler...",
+          "original_title": "Sources: Lakers trade 2 first-rounders for Kessler...",
+          "summary": "The Lakers are acquiring Walker Kessler from the Jazz for unprotected first-round picks in 2031 and 2033 and first-round swaps in 2028 and 2030 and signing Sandro Mamukelashvili, Quentin Grimes and Collin Sexton, sources told ESPN.",
+          "key_points": [],
+          "link": "https://www.espn.com/nba/story/_/id/49237403/lakers-trading-jazz-center-walker-kessler-sources-say",
+          "source": "ESPN NBA",
+          "published": "2026-07-02T20:35:36+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -236,14 +276,59 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "1aee6f167f2b",
-          "title": "LeBron Says Lakers Front Office Had \u2018Disconnect\u2019 After Westbrook Trade",
-          "original_title": "LeBron James, Lakers front office had \u2018disconnect\u2019 after Russell Westbrook trade - Silver Screen and Roll",
-          "summary": "LeBron James indicated that the Los Angeles Lakers' front office was not aligned with the decision to trade Russell Westbrook. The former MVP suggested the move created a communication gap between players and management, affecting team chemistry heading into the season.",
+          "id": "fe4cb425b09a",
+          "title": "Lakers\u2019 Offseason Falls Short, Fans Left Disappointed",
+          "original_title": "So much for Lakers\u2019 big offseason \u2026 LA fans left with sinking feeling - New York Post",
+          "summary": "The New York Post argues that the Los Angeles Lakers\u2019 aggressive offseason moves failed to deliver the expected boost, leaving the fan base uneasy. Despite high\u2011profile signings, the team\u2019s roster still appears uneven and the outlook for the upcoming season is uncertain.",
           "key_points": [
-            "LeBron described a \u201cdisconnect\u201d between players and the front office after the Westbrook trade.",
-            "The trade was seen as a mis\u2011step that disrupted locker\u2011room cohesion.",
-            "James emphasized the need for clearer communication to avoid future roster turmoil."
+            "Lakers made several big acquisitions but have not resolved key roster gaps.",
+            "Fan sentiment is increasingly skeptical about the team\u2019s championship prospects.",
+            "Analysts question the front office\u2019s strategy and chemistry of new pieces."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWVY4cTQ3YVBPSzllWC1ZaVN3Ry1uX1RKaU9WaGZGR3l0TlhkaTgxSzdlMU10Z2Z1S2tOaGIzbk1QSm8yakNuZVctZlBfR211QkZKWXEyZjVGcUVpTGx5SWFNLThQRTB3MWVVMm40NlZJYUJ2aWhxci01amwxWDJFRERLQlVvclRYRXpQSXVXUTF3WXYtYmk4NGVpWkNBU25fMDBSTXpmWDczUQ?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-07-02T20:40:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "f17bc483c9a3",
+          "title": "Warriors Target LeBron James as Lakers Look to Move On",
+          "original_title": "Warriors' LeBron James Pursuit, Salary Cap Plans Updated in New NBA Rumors After Star's Lakers Exit - Bleacher Report",
+          "summary": "Bleacher Report details new rumors that the Golden State Warriors are interested in acquiring LeBron James, while also outlining possible salary\u2011cap maneuvers for the Lakers after James\u2019 anticipated departure. The report highlights how both franchises could reshape their rosters under the current cap constraints.",
+          "key_points": [
+            "Golden State is reportedly exploring trade scenarios that would bring LeBron to the Bay Area.",
+            "Lakers may need to clear cap space, potentially via buyouts or trades, to accommodate future moves.",
+            "Salary\u2011cap projections suggest both teams could be flexible but will face tough financial decisions."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcUdBMHd4NG5vWERST2ZqVXR1ajFXX3VnWmRHanFtRDVhT01VRjk0X0w1dmxxM0Z5ZnFCNER1UHRLYUFTNjh3cVRGX1ZsVnl2aE50Q2tRRGtwUUJWQTNxN2VnN0JmR08xMkdBWGNFZGI3WGtrOHpxeVpnTHZJdkFBRC1DZW1VSjJBaXVpY2JSNDdGeWx4SWRBV3FDUmtOMW9ESW9kTXdUbk5EMWdnWnpZWlYyT2ZNNVdiLUZoM1d0dXhtSTZITGtXbEkwVThsZjRpd3RWZQ?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-07-02T19:28:42+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "9eb742abef8a",
+          "title": "Lakers Release Updated Depth Chart Following Free\u2011Agency Activity",
+          "original_title": "Lakers Updated Depth Chart After Free Agency Barrage - Yahoo Sports",
+          "summary": "Yahoo Sports publishes the latest Lakers depth chart after a flurry of free\u2011agency signings and departures. The new chart shows where recent additions fit into the rotation and highlights remaining areas of uncertainty.",
+          "key_points": [
+            "New signings are slotted into starting and bench roles, shifting the hierarchy at guard and forward positions.",
+            "The chart reveals continued questions at the center spot and on defensive wing assignments.",
+            "Coaching staff will need to integrate newcomers quickly to establish chemistry before training camp."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT2pjakxrM05aYWpRQWxmTzJkLVdyN0VJb0lKRjNRTDRGd2pjV0I1ekNVRk9WaHpMbHVxX0xkZHB5NlFXWFRWd3BMR2tiN3BTSFViNGdSRlVoeWlrUklKczVwUm9ySGluRzBkVWdzcnBkX2Vsc1lUX0l0REFyY0h4YnpmajRBNHc?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-07-02T19:24:12+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "1aee6f167f2b",
+          "title": "LeBron and Lakers Front Office Experienced \u2018Disconnect\u2019 After Westbrook Trade",
+          "original_title": "LeBron James, Lakers front office had \u2018disconnect\u2019 after Russell Westbrook trade - Silver Screen and Roll",
+          "summary": "Silver Screen and Roll reports that LeBron James and the Lakers\u2019 management were not aligned on the rationale and execution of the Russell Westbrook trade. The miscommunication is cited as a factor that may affect team cohesion moving forward.",
+          "key_points": [
+            "LeBron reportedly felt the trade did not address the team\u2019s on\u2011court needs.",
+            "Front office officials admitted to a lack of clear communication with players during the deal.",
+            "The fallout could influence future roster decisions and player\u2011management relationships."
           ],
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcW9UVVR3VlNGM2tIbFlmX2hvS01lWGRmbjg4Y0J1WVJ2WllLdjU3UTc0Y1RCQldJWUNWTnhFRF9MQzZ0eHpxcGV0QWlMSFVybEhqSWdSdjZ3d2pGRjhseFppWWRBek5VMU5OU2JMTjAzZlhOd2NwRkx2REhQZmJXbjZhWndIR3RtMXEycFJEcmxXYmdwZVVMWUpxQ2xMSlc1NjFmTUpWMGNHWWNtc1RhcTFjeThHRk44QWc0Sw?oc=5",
           "source": "Google News - LeBron",
@@ -251,29 +336,14 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "07d586e118c7",
-          "title": "Rumors Surface Linking LeBron James to the Philadelphia 76ers After Brown Trade",
-          "original_title": "New LeBron James Rumors Reveal 76ers as Landing Spot After Blockbuster Jaylen Brown Trade - Bleacher Report",
-          "summary": "New speculation suggests LeBron James could join the Philadelphia 76ers if the recent blockbuster trade that sent Jaylen Brown to another team is finalized. The report notes the 76ers\u2019 interest in adding a veteran star to complement their core.",
-          "key_points": [
-            "LeBron is rumored to be a potential landing spot for the 76ers.",
-            "The speculation follows a major trade involving Jaylen Brown.",
-            "Philadelphia is reportedly looking to pair James with its existing roster."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSHhSSDlnaW5QdDNBTUNNS241VkFLMkswN3lhcTNfUEttQ2c1Vk11MTR1czcweWVvM0ZqY19QeFBCcFBIWmQ3bUxmcHpuS2lFcG5SckNNQXpqZFBiS0xyYW0yMlpzNENtQTB1NlFIVFhXWm5YVVNOS3drSE9VLUpqZ3dNbU1xcV9YM2VBLU9jWlBuSk8tVVAyeElKdVlVNFdkcGNKZWpaQ2ZmSWxwSmVsYThtSldpREdQNDBKcURXMTlNUEpvWHdMalNmSQ?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-07-02T18:32:12+00:00",
-          "topic": "Lakers Players"
-        },
-        {
           "id": "ae165cfc665a",
-          "title": "Why LeBron James Might Finish His Career With the New York Knicks",
+          "title": "Why LeBron James Might Finish His Career with the New York Knicks",
           "original_title": "Why LeBron James should end his career with the New York Knicks - Posting and Toasting",
-          "summary": "An opinion piece argues that ending his career with the New York Knicks would be a fitting narrative for LeBron James. The article cites New York\u2019s market size, historic franchise, and the chance for James to mentor a young roster as key reasons.",
+          "summary": "Posting and Toasting presents an argument that LeBron James should consider ending his NBA career with the New York Knicks, citing market size, legacy considerations, and the franchise\u2019s rebuilding trajectory. The piece is speculative but outlines potential benefits for both player and team.",
           "key_points": [
-            "The Knicks offer a massive media market and iconic brand.",
-            "Joining New York could provide a legacy\u2011building storyline for James.",
-            "His veteran presence could accelerate the development of the Knicks\u2019 young players."
+            "A Knicks landing would give LeBron a high\u2011profile market for his final seasons.",
+            "New York\u2019s media spotlight could enhance his off\u2011court business ventures.",
+            "The Knicks could leverage LeBron\u2019s experience to accelerate their rebuild and increase ticket sales."
           ],
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZkI0RXdVMC1XUzZJcnhpTkxiU0ZvMERJeF9mT1F4ZDdmbzRFejJEN2dycGxJVlJkU1JrVGJBUkJ2SjRPckFDemR0OWM0YTh2X1VIRzg2QVZoeUZKTTB1OGp2S3d2UFFMSXJYX0NKYi1jWVVMMXhVVWcybE9EWGdNVXdaaERkUDlOeHJOWHkxS2dKQzZXTnl1U2d1Zk5SdHNVcFVZSmhyOXJ5S2JBN1VQNVh6d1RrQkVQNGtzUWxfRktBWWJSdV9DZ28xVHZ3Ny10?oc=5",
           "source": "Google News - LeBron",
@@ -281,14 +351,44 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "a1dd5bdd8877",
-          "title": "Celtics\u2019 Jaylen Brown Trade Fallout Overshadows Luka Don\u010di\u0107 Misstep in Lakers Narrative",
-          "original_title": "Celtics' Jaylen Brown trade disaster took focus off Lakers' Luka Doncic fumble - Lake Show Life",
-          "summary": "The article contends that the chaos surrounding the Celtics\u2019 trade of Jaylen Brown diverted attention from a recent error made by Luka Don\u010di\u0107 involving the Lakers. It highlights how the trade dominated headlines, leaving less focus on the on\u2011court incident.",
+          "id": "c096015bcfd4",
+          "title": "California Taxes Slice Walker Kessler\u2019s $130M Lakers Contract",
+          "original_title": "Crucifying California taxes carve up Walker Kessler\u2019s $130M Lakers pay - New York Post",
+          "summary": "Walker Kessler\u2019s $130\u202fmillion contract with the Los Angeles Lakers will be heavily reduced after California\u2019s state income tax and other local levies are applied. The high tax burden means Kessler\u2019s take\u2011home pay will be significantly lower than the headline figure reported in the deal.",
           "key_points": [
-            "The Brown trade created a media frenzy that eclipsed Don\u010di\u0107\u2019s fumble.",
-            "Lakers\u2019 storyline was pushed to the background amid trade speculation.",
-            "The piece underscores how high\u2011profile trades can dominate NBA coverage."
+            "Kessler signed a five\u2011year, $130\u202fmillion deal with the Lakers.",
+            "California\u2019s state income tax (up to 13.3%) and additional local taxes cut his net earnings dramatically.",
+            "The tax impact highlights the financial considerations for players signing with high\u2011tax states."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbjJObFVfQ0VUNHFxaVNXMWdPWjZlTVRHNEdPc1N2XzNlWld6VkZLYXc0QXlvQnVCY09LdnJCVDNKWWxFd0ZvRjVTczM3Zm85WHJKeV9yQ3ZQOWpQWmdxZHRXdzg1MmR0U19QcUZIT2NXc3NLUmt4ZlNSSkFkUG9BYmtmQ2xZUEtfVmpuX21yS1RvYVFPMzJXckg3QQ?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-07-02T17:42:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "4da4ec4c9b6d",
+          "title": "LeBron James Free\u2011Agency Odds: Which Team Is Favored?",
+          "original_title": "LeBron James next team odds: Which team is favored to sign 4-time MVP? - USA Today",
+          "summary": "USA Today compiled betting odds for LeBron James\u2019s next destination, showing the Los Angeles Lakers, Miami Heat, and Boston Celtics among the top contenders. The odds reflect market expectations based on roster fit, salary\u2011cap space, and James\u2019s own preferences.",
+          "key_points": [
+            "Lakers lead the odds at roughly +200, followed by the Heat and Celtics.",
+            "Betting lines factor in each team\u2019s cap flexibility and championship window.",
+            "Odds are subject to change as James\u2019s negotiations progress."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUWpINk5TSkVIcDVZbk1FSWdUNEpwR1VLa0NuajB5amFKRGFQQ0dWQldXMll0dmRXNjVLb3FaM1BFY0l5UmxuWXd1XzhCbEJ2aGJXN3NxMmh4aFJrTmNya2pPbVlmVUJqdGhCSGRWaldLdVJKYVpHRllWYktVQVZ0M2haR3lyT0F2U3JtdU9ETzZxOUxoNHdqamlEQUdSb05KczVob3ZB?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-07-02T17:39:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "a1dd5bdd8877",
+          "title": "Celtics\u2019 Jaylen Brown Trade Fallout Overshadows Luka Don\u010di\u0107\u2011Lakers Gaffe",
+          "original_title": "Celtics' Jaylen Brown trade disaster took focus off Lakers' Luka Doncic fumble - Lake Show Life",
+          "summary": "A botched trade involving Celtics star Jaylen Brown diverted media attention from a recent on\u2011court mistake by Luka Don\u010di\u0107 during a Lakers game. The article argues that the trade drama eclipsed the Lakers\u2019 own error, affecting public discourse around both teams.",
+          "key_points": [
+            "Boston\u2019s attempted trade for Brown collapsed, creating a media firestorm.",
+            "Lakers\u2019 Luka Don\u010di\u0107 committed a turnover that drew criticism, but was largely overlooked.",
+            "The overlapping stories illustrate how high\u2011profile NBA news can dominate coverage."
           ],
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOODBUVThzNVRma285a1NJMmtoWmlSWEJESHlKR195N2lKdTRrNHRaX1c0ZFFfY2RVTFRhNkJKSkJod0huTkJZLTl6WWhleGVHTWJuWnVhaGc3alIxQlZCNEJqWDlhWVZnaXRTMW9ESWFzOG1xTklzQWgwaUNOQnRPTG56cFZraEFDblYxM1Uyd1Y4WS1oRUdIYjd3aWM5NTJKV2xN?oc=5",
           "source": "Google News - Luka",
@@ -296,93 +396,33 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "b31ae478273a",
-          "title": "Free\u2011Agency Outlook 2026: Brown to 76ers, Lakers Acquire Walker Kessler After LeBron\u2019s Exit",
-          "original_title": "NBA free agency news 2026: Jaylen Brown reportedly traded to 76ers for Paul George; Lakers land Walker Kessler after LeBron James' exit - Yahoo Sports",
-          "summary": "Yahoo Sports outlines a projected free\u2011agency scenario where Jaylen Brown is dealt to the Philadelphia 76ers for Paul George, and the Los Angeles Lakers sign center Walker Kessler following LeBron James\u2019 departure. The report details the potential roster shifts for both franchises.",
+          "id": "867d33d40fd9",
+          "title": "LeBron James, Mike Gansey, and the Sixers\u2019 Past Attempt to Sign Him",
+          "original_title": "LeBron James\u2019 connection to Mike Gansey, how the Sixers can afford him, and what happened the last time they tried to sign him - Inquirer.com",
+          "summary": "The Inquirer details the relationship between LeBron James and Sixers executive Mike Gansey, explaining how Philadelphia could theoretically afford a contract for James and recounting the franchise\u2019s earlier, unsuccessful pursuit of the star. Financial constraints and roster considerations were key obstacles then.",
           "key_points": [
-            "Jaylen Brown could be traded to the 76ers in exchange for Paul George.",
-            "The Lakers are positioned to add Walker Kessler after LeBron leaves the team.",
-            "These moves would significantly reshape the competitive landscape for both clubs."
+            "Gansey\u2019s long\u2011standing rapport with James could aid future negotiations.",
+            "Philadelphia\u2019s cap space and luxury\u2011tax calculations would allow a max\u2011type deal.",
+            "The Sixers previously explored signing James but were blocked by timing and roster fit."
           ],
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPanRRem1yc3NvUDM0cERXNzNkVFlxUU1BTW03WVFiTC1fQjlnc051aVBaOFg5WHJOQmVJVFNmNlFwV2hfak0tUm11NGNReURVUTAwZnI5YjhpelFRb2dFVVJzRlA1dTN1MmJDdW52ZHlmZFRiM2JFRDk4d1dfalIzX05obkNzVERyVkpFWC1xa2RFcGpZRmk4NHpYQnEtamhGZFduWThuel9xRHhIUVgxbUdzendtNE5ja0RfTzVJZnBSLUpMekpvc0ptdVIzYTlfMFd3QzlpOEVNOU56YzRhdF9CTmZGV21pV0E?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMTllU2JtTzg0Qkh2QXluSS1rR1dYaFkyeUpPaFZ5aGItSDd6ek5Dbm9tdUItc29wWnJTLTdDeFc3ZTd3NXJuMEZxUFV0MVEzVGtRQTZNTXdIdjVzLVFnT3NobHp2SzZmX25mX2FzQS1yQjZrcTBaek0xejA5bFdQLTdaaVowbFVURU5GeUl6dkJld054ZTFVel8ycGR2bVRpc3c?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-07-02T16:48:21+00:00",
+          "published": "2026-07-02T16:42:20+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "7afcd4d3398a",
-          "title": "LeBron James Pitch Rankings: How 29 Teams Market the Free\u2011Agency Legend",
-          "original_title": "The LeBron James pitch rankings: How 29 teams can sell themselves as NBA legend takes free agency meetings - CBS Sports",
-          "summary": "CBS Sports evaluated how 29 NBA franchises presented their proposals to LeBron James during his free\u2011agency meetings. The rankings consider factors such as roster fit, championship outlook, market appeal, and financial package. The piece highlights which teams are most likely to attract James based on their pitches.",
+          "id": "89d1ea5b1fc1",
+          "title": "LeBron James Seeks Happiness; Cavaliers Could Offer It",
+          "original_title": "LeBron James is looking for happiness \u2014 and the Cavs can provide it: Chris Fedor - Cleveland.com",
+          "summary": "Cleveland.com columnist Chris Fedor argues that LeBron James\u2019s next move may be driven more by personal fulfillment than purely competitive factors, and that the Cleveland Cavaliers present an environment that could satisfy those needs. The piece highlights Cleveland\u2019s culture, community ties, and potential role for James.",
           "key_points": [
-            "29 teams were analyzed for their ability to sell a championship\u2011contending vision to LeBron.",
-            "Factors like roster construction, salary cap flexibility, and market size drove the rankings.",
-            "Top\u2011ranked teams are those offering immediate title chances and strong supporting casts."
+            "James values lifestyle, family stability, and community impact in his decision.",
+            "The Cavaliers offer a supportive front office and a growing roster.",
+            "A move to Cleveland could align James\u2019s personal goals with a realistic championship window."
           ],
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVG1vOTN0S3pGNUtRSUZnOUIycnFtMFVDd2NUeEx2bmFXZFpSc2I1VWZfNW9IV0Q1WHRqYXpVdnB2Z3B5OGY4enlaUUNlWjhya0hQZHEteXdWZ2NjRnJ6dlBvMkZyVm9nZjhUWFFkXzRlanBSbllZeHR4Z1FFRDIxc1dzZE1CX0pGZHUzNQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ19zN2xBS1lZUTdYVXJoaG5HY2duQW5UbDNjaF9WQ2R0ZmhtRXgtRnRXT1BYeUlsNEEyTVZValFaWUxHTmhyODZoTnJJd05CYzVya3hpM2V4Q0Q4d25yMFppaTRpZ3BCSUJxdmxSVTFPblhhSWVUcG9UZFVnNDlDdTEzd2xoOHl4REJmZEJaQkhNVmVsb0ZIckFOckVSa1VnVVY4a1lLeXJNazBzTi1jeXFwMUkxdVJk?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-07-02T16:17:43+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "2effbd799948",
-          "title": "Dan Dakich Calls for LeBron James to Join the Indiana Pacers",
-          "original_title": "Dan wants LeBron James in Indy | Don't @ Me w/Dan Dakich - Yahoo",
-          "summary": "On Yahoo Sports, Dan Dakich urged the Pacers to pursue LeBron James, arguing that his presence would elevate the franchise. Dakich emphasized the marketability and on\u2011court impact James could bring to Indiana, while warning against dismissing the idea outright.",
-          "key_points": [
-            "Dakich believes James would instantly make the Pacers a contender.",
-            "He cites the star\u2019s leadership and global brand as benefits for Indiana\u2019s market.",
-            "The commentary is opinion\u2011based and does not reflect any confirmed interest from James or the Pacers."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM1VGd0RkeXoxdllwS2QzODR1aFZwbGY5Y0J0QXRoR3VQd1dqTC16NkZiRHZWMFNiU01TUVI5UXljOTdiM3pyVDE5ZFVtNXYyTmtuNk5ZVHRCeW1JTmJUY3dtYk9Vbm5Bbnk3aTd6SkhjMHZPdjJWUUNHMmVwUzIxX3Bn?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-07-02T16:10:15+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "7c94291e8819",
-          "title": "Lakers Trade Rumors: \u2018Sacrifice\u2019 Made as Dallas Targets Walker Kessler Over Luka Doncic",
-          "original_title": "Lakers Trade Rumors Reveal 'Sacrifice' LA Made as Luka Doncic 'Wanted' Walker Kessler 'Most of All' - Bleacher Report",
-          "summary": "Bleacher Report details circulating trade rumors suggesting the Lakers may have to give up assets to acquire Walker Kessler, a player reportedly coveted more than Luka\u202fDoncic by Dallas. The article outlines potential packages and the strategic reasoning behind a possible deal.",
-          "key_points": [
-            "Dallas is said to prioritize Walker Kessler, viewing him as a better fit than Luka Doncic.",
-            "The Lakers could need to include multiple players or picks to satisfy Dallas\u2019s demands.",
-            "The rumors remain unverified; no official{"
-          ],
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWjBjVjloaENnejNEb2ZickRGY3B6UDZOcy1LN2NHdTdrU0ZwZGx5LXVwSEFzemtUY2hxQUxqeXdXa09kYVBqLTljdk1Hd1JpSGFuLXJKWEo0VnJRaUU4WHlPaml1OThCZWJPN2hYRHNjZzdxRDVtbkJzVjRpeTZXLWNjaHdCaWg5cjZyMm5oTk5OTmFSa1JsTHR1VkJUbUtsUEkxUzdKZHZLRjBRZTFPLXRMVVVXVFVJaWxYcFdKcG9zZk1aVWduakluMEo?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-07-02T15:12:15+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "88f26a6320e2",
-          "title": "Lakers Fans Outraged by Latest Trade Twist",
-          "original_title": "Lakers fans have every reason to be outraged by latest trade twist - Hoops Habit",
-          "summary": "Hoops Habit reports growing frustration among Lakers supporters after a new trade development that appears to disadvantage the team. The piece outlines why fans feel the organization is compromising long\u2011term success for short\u2011term gains.",
-          "key_points": [
-            "Fans criticize the perceived lack of transparency and value received in the trade.",
-            "The article suggests the move could hinder the Lakers\u2019 championship window.",
-            "Social media backlash highlights the disconnect between ownership decisions and fan expectations."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY3dwWUFLWmdtU2RhdnktQVZLTVRqT0d2alRjTWpTUVQxRVNIMjg2OXZpM2JZRlR4S0ZaTEtMd2J5VnZ0Vl9sd0lFNDhaV0VpOFNjNEwtS3BKZW9HT2JnU2lyNGZiU2xyQk9ZRXBIWGlvcjNwbzVuM2lULUV0OHd3U0pIS1MySU0?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-07-02T15:00:03+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "889f8f1b01c5",
-          "title": "Anthony Davis Reacts Calmly to Rob Pelinka Criticism",
-          "original_title": "Anthony Davis has rare reaction to Rob Pelinka criticism - Lakers Nation",
-          "summary": "Lakers Nation covers Anthony Davis\u2019s measured response after General Manager Rob Pelinka faced criticism for recent roster moves. Davis emphasized focusing on the team\u2019s performance rather than engaging in public disputes.",
-          "key_points": [
-            "Davis avoided direct confrontation, stressing the need for unity.",
-            "He highlighted the importance of staying focused on on\u2011court goals.",
-            "The article notes the rarity of Davis speaking publicly on front\u2011office matters."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN050REJ2OXJxRWNmSDJJMDRzMGVhQjlvVnhhM1Q4b2gyYXh3b3FJSy04MzRfcE55MVh2c1JSaTJNVC1yU2dIbTdmck1hQUtrSmo4bGRQeHNCeHotSmNOUk90Uk50MjR4SzBYUVY1dVV1WEt5ajBuaWk5MmhzRk9JdFZTSnhaeHFtSXVuaERsTmNrQUE?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-07-02T14:10:57+00:00",
+          "published": "2026-07-02T16:35:00+00:00",
           "topic": "Lakers Players"
         }
       ]
