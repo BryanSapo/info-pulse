@@ -1,16 +1,140 @@
 {
-  "generated_at": "2026-07-05T03:37:39.346162+00:00",
+  "generated_at": "2026-07-05T07:31:15.811055+00:00",
   "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
+          "id": "e902fcd2c067",
+          "title": "Luka Doncic Makes His Preseason Debut",
+          "original_title": "Luka Doncic Makes His Preseason Debut(rookie season)",
+          "summary": "Luka Doncic appeared in his first preseason game, prompting debate among fans about his draft position and playing style. Some commenters questioned his speed and suitability as a guard, while others compared him unfavorably to former Laker guard Trae Young.",
+          "key_points": [
+            "Doncic's debut sparked discussion about why he fell to #2 behind Deandre Ayton in the 2018 draft.",
+            "Fans on r/lakers criticized his perceived lack of quickness for a guard.",
+            "Comparisons were made to former Laker point guard Trae Young, despite differing skill sets."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1unuryv/luka_doncic_makes_his_preseason_debutrookie_season/",
+          "source": "Reddit r/lakers",
+          "published": "2026-07-05T06:26:47+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "6758044d46ac",
+          "title": "Lakers Linked to 3\u2011Time NBA Champion in Free Agency",
+          "original_title": "Lakers are being linked to a 3-time NBA champion in free agency - Larry Brown Sports",
+          "summary": "Reports from Larry Brown Sports suggest the Los Angeles Lakers are exploring free\u2011agency options that could include a player who has won three NBA championships. No specific name was disclosed, and the report remains speculative.",
+          "key_points": [
+            "The rumor ties the Lakers to a veteran with three rings, indicating a potential push for experienced talent.",
+            "No official confirmation from the Lakers organization has been made.",
+            "The speculation reflects the team's ongoing efforts to improve its roster ahead of the upcoming season."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTHZGdUFpZ3g0bWlwT0wxU1M4dDlmdnJLNVlJNHd1Y0tXMFRYMllRWk9sbTJPTkhOSEtqdnA0eDlQZVFPSmREVGtsZFpMN1BGVWdOOXI0QlMxano5YWZBbkJBOU0zUUZ3R05fVTZ6eTg2aHVGZFR5Zzh3TGxrNnBYRjY3NGNwZm1BQlRLdkRoNGswN1dJaXV3dzVROGlWRTA?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-07-05T05:21:35+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "f6a0055e8018",
+          "title": "Kuminga: Potential Fit but Raises Red Flag Concerns",
+          "original_title": "Kuminga could work. But he\u2019s a red flag",
+          "summary": "A Reddit user analyzed Jonathan Kuminga's fit with the Lakers, noting his skill set could complement the roster but highlighting behavioral and consistency issues. The post argues that Kuminga's tendency to try to do too much and his past conflicts raise concerns for a team seeking stability.",
+          "key_points": [
+            "Kuminga possesses versatile skills that could benefit the Lakers' lineup.",
+            "His history of on\u2011court decision\u2011making and off\u2011court attitude is viewed as a red flag.",
+            "The analysis suggests that without a clear role, Kuminga may struggle to integrate with the team's existing stars."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1unt5i7/kuminga_could_work_but_hes_a_red_flag/",
+          "source": "Reddit r/lakers",
+          "published": "2026-07-05T04:53:28+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "27d7193a942a",
+          "title": "Assist Conversion Rate Leaders: Luka Doncic Ranks Third Behind Jalen Suggs and LeBron James",
+          "original_title": "\"Assist conversion rate\" in last season. AR tied at number one with Jalen Suggs as 64.7% of his potential assists turnes into points. Luka was third, and LeBron was fifth league wide.",
+          "summary": "A Reddit post highlighted assist conversion rates from the previous NBA season, showing Jalen Suggs leading at 64.7%, with Luka Doncic third and LeBron James fifth league\u2011wide. The metric measures how often a player's potential assists result in points.",
+          "key_points": [
+            "Jalen Suggs posted the highest assist conversion rate at 64.7% of potential assists turned into points.",
+            "Luka Doncic ranked third in the league, demonstrating efficient playmaking.",
+            "LeBron James placed fifth, indicating strong but slightly less efficient assist generation compared to the top performers."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1unsq5u/assist_conversion_rate_in_last_season_ar_tied_at/",
+          "source": "Reddit r/lakers",
+          "published": "2026-07-05T04:29:40+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "cc9a6827d2db",
+          "title": "Peyton Watson Still Awaiting Contract Extension",
+          "original_title": "Peyton Watson hasn\u2019t been extended yet",
+          "summary": "A Reddit user expressed surprise that the Denver Nuggets have not yet extended rookie forward Peyton Watson, labeling him a vital piece for the team. The commenter speculated that a trade or extension could be forthcoming, and voiced personal interest in seeing Watson join the Lakers.",
+          "key_points": [
+            "Watson has not received a contract extension from Denver despite being considered an important player.",
+            "The post suggests a possible future deal, either an extension or a trade.",
+            "The author personally hopes Watson could become a future Laker."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1unsp8g/peyton_watson_hasnt_been_extended_yet/",
+          "source": "Reddit r/lakers",
+          "published": "2026-07-05T04:28:13+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "a6e44cb6fde2",
+          "title": "Walker Kessler Posts 18\u201125\u20118 Line Against Opponent",
+          "original_title": "Walker Kessler - 18 points, 25 rebounds, 8 blocks on 3/7/25",
+          "summary": "Walker Kessler recorded 18 points, 25 rebounds and eight blocks in a recent game, showcasing the type of production he could deliver for the Los Angeles Lakers next season. The Reddit post argues that national media are undervaluing his upside.",
+          "key_points": [
+            "Kessler posted a dominant stat line of 18 points, 25 rebounds and eight blocks.",
+            "The performance is presented as a preview of his potential impact with the Lakers.",
+            "The author believes mainstream coverage is underestimating Kessler's future contributions."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1uns6d3/walker_kessler_18_points_25_rebounds_8_blocks_on/",
+          "source": "Reddit r/lakers",
+          "published": "2026-07-05T03:59:03+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "9f0cfbdb9c2a",
+          "title": "2026 Luka Don\u010di\u0107 Scoring Highlights Shared on r/lakers",
+          "original_title": "2026 Luka Scoring Highlights",
+          "summary": "A Reddit user posted a compilation of Luka Don\u010di\u0107's scoring highlights from the 2026 season. The post contains no additional commentary beyond the video link.",
+          "key_points": [
+            "The content is a highlight reel of Luka Don\u010di\u0107's 2026 scoring performances.",
+            "It was shared on the r/lakers subreddit without further analysis.",
+            "No contextual information or implications for the Lakers are provided."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1unruf8/2026_luka_scoring_highlights/",
+          "source": "Reddit r/lakers",
+          "published": "2026-07-05T03:40:28+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "b50b6b073314",
+          "title": "Bronny James\u2019 Potential Destination Clarified by New LeBron Rumors",
+          "original_title": "Bronny James' next team after the Lakers made clearer by latest LeBron James rumors - Lake Show Life",
+          "summary": "Lake Show Life reports that recent rumors surrounding LeBron James have shed light on where Bronny James might play after his stint with the Lakers. The article suggests the speculation points toward a specific team, though details are limited.",
+          "key_points": [
+            "New rumors about LeBron James indirectly indicate a possible next team for Bronny.",
+            "The article does not confirm any official trade or signing.",
+            "It remains speculative and based on rumor rather than confirmed sources."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbkhLbHA3X2owRHFoVUJ4SGxHdkFqNE5NZkQ1anZjbV8xclpEd2swR1dIaDBkbkhzdS1DZEtZZ1o1T0tvUXJsWEV2U0pMNldQc3kzV3lXbHdBX01zdG5EQmViMGlxWHB2cEMzYlZrTW90MDl1SDNaZ21zMDA4TjJ2eHM0UGpyb0lkWnpzMC05Q0dMTVlMcG96Y1Y4NmgyVTNZRldyZm8zQXJfZw?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-07-05T03:10:33+00:00",
+          "topic": "Lakers News"
+        },
+        {
           "id": "74787c01fc88",
-          "title": "Current Lakers assets 3 second round picks, 1 first swap, tradeable contract in Jaden hardy.",
+          "title": "Lakers\u2019 Trade Assets: Two Second\u2011Round Picks, One First\u2011Round Swap, Jaden Hardy Contract",
           "original_title": "Current Lakers assets 3 second round picks, 1 first swap, tradeable contract in Jaden hardy.",
-          "summary": "These are all the lakers assets and I guess bronny who the Cavs would want in a reunion with his dad. Jaden hardy I think we can potentially package him to a team with a player we want probably a rebuilding team. He\u2019s a neutral asset at worst probably can\u2019t salary dump him without attaching seconds but we could trade him in exchange of a player we want.  Then with the picks we can dump vando, Knecht and maybe even trade Laravia for player / players we want Laravia is probably neutral value too. ",
-          "key_points": [],
+          "summary": "A Reddit post lists the Los Angeles Lakers' current trade assets, including two second\u2011round picks, a first\u2011round swap option, and the contract of rookie Jaden Hardy, which could be used in a deal. The author mentions Bronny James as a potential target for Cleveland.",
+          "key_points": [
+            "Lakers hold two second\u2011round picks and a first\u2011round swap right.",
+            "Jaden Hardy\u2019s contract is described as a neutral, trade\u2011able asset.",
+            "The post speculates that Cleveland might pursue Bronny James in a reunion with his father."
+          ],
           "link": "https://www.reddit.com/r/lakers/comments/1unq890/current_lakers_assets_3_second_round_picks_1/",
           "source": "Reddit r/lakers",
           "published": "2026-07-05T02:10:19+00:00",
@@ -18,101 +142,17 @@
         },
         {
           "id": "6e39033c6a8f",
-          "title": "Potential Three Team Trade",
+          "title": "Proposed Three\u2011Team Trade Involving Bronny James, Cap Relief, and Draft Picks",
           "original_title": "Potential Three Team Trade",
-          "summary": "CLE Bronny James LAL Cap relief (clears roughly $14.7 million) - Hopefully enough to sign either Rui or Kuminga BRK Jarred Vanderbilt 2 SRP (from LAL) 1 SRP (from CLE for Bronny James) Everyone gets what they want.  Cleveland gets Bronny so he can be there with LeBron as he finishes his final season in the league. Brooklyn gets trade capital equivalent to what Charlotte got for taking on DFS. Lakers get to clear salary. Get off of Vando\u2019s bad contract. Flexibility when it comes to free agency an",
-          "key_points": [],
+          "summary": "A Reddit user outlines a three\u2011team trade scenario: Cleveland receives Bronny James and cap relief of roughly $14.7\u202fmillion; Brooklyn acquires Jarred Vanderbilt; and the Lakers send two second\u2011round picks to Cleveland and receive a first\u2011round swap. The proposal aims to satisfy each team\u2019s needs.",
+          "key_points": [
+            "Cleveland would gain Bronny James and about $14.7\u202fmillion in cap space.",
+            "Brooklyn would receive Jarred Vanderbilt in exchange for draft assets.",
+            "The Lakers would acquire a first\u2011round swap and retain two second\u2011round picks."
+          ],
           "link": "https://www.reddit.com/r/lakers/comments/1unp8py/potential_three_team_trade/",
           "source": "Reddit r/lakers",
           "published": "2026-07-05T01:15:04+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "81db958f7590",
-          "title": "Lakers Targeting Forward to Fill Massive Hole on Roster - Yahoo Sports",
-          "original_title": "Lakers Targeting Forward to Fill Massive Hole on Roster - Yahoo Sports",
-          "summary": "Lakers Targeting Forward to Fill Massive Hole on Roster&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbGVVUnBEeVNKVFdnUl9PckFueTBxajVrQmlULTgzTHNQZ3dyYW9wT2RTZmhhNVFkVlMtM3VhYWxNWnk0Zzhsc09FMWRZcFd4VDdEWkp1NVBfRDR2TURjMmRhTTRCTmhnSHRZenlCUEJ5TkFINk45LUVQTUJrYlljWlNkWFpHZTB1QzBxeEd4SQ?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-07-05T01:12:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "9d52e093fab1",
-          "title": "I followed lebron here in 2018 but became a LAKERS fan ... anyone else?",
-          "original_title": "I followed lebron here in 2018 but became a LAKERS fan ... anyone else?",
-          "summary": "Lifelong bronsexual, originally followed lebron to the Lakers in 2018, but during that season learned how fun it is to be a Lakers fan ... Fully dove into daily Lakers Twitter, Reddit, podcasts, etc. More than I ever paid attention to the Heat/Cavs during LeBron's stints. Eight years later, LeBron is leaving, and I'm staying. It's weird thinking that I'm about to root for a team LeBron's not on for the first time in my life (and if he stays in the west, root AGAINST him), but at the same time I'",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/lakers/comments/1unotgh/i_followed_lebron_here_in_2018_but_became_a/",
-          "source": "Reddit r/lakers",
-          "published": "2026-07-05T00:52:21+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "f8ecdcd4c584",
-          "title": "Lakers \u2018Prefer\u2019 to Cut Ties With 2 Veterans to Sign New Wing - heavy.com",
-          "original_title": "Lakers \u2018Prefer\u2019 to Cut Ties With 2 Veterans to Sign New Wing - heavy.com",
-          "summary": "Lakers \u2018Prefer\u2019 to Cut Ties With 2 Veterans to Sign New Wing&nbsp;&nbsp;heavy.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYkVheVA2b182ZFp1U3A4c21fZGM3ekRBSTVrWk43TUlrSFhtYmp4cGlzRGtLeEl6ZEsyNktUdG50V0ZUakZlWDZHSWNwM0NxcDdWbmpyUzRQdHdiY2RIc3FMSERkU0x0eGVKUXpLMVA1MUhiRVpmYWJHZ2RtLWtTTnFneUFScl9PUS1EN25qUHpkekE?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-07-05T00:50:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "fec3e7f7303e",
-          "title": "Cavs want Bronny to lure LeBron",
-          "original_title": "Cavs want Bronny to lure LeBron",
-          "summary": "      What would you guys want in return for Bronny to the Cavs? TheSteinLine reported that the Cavs were interesting in getting Bronny to try and bring LeBron back to the Cavs. It's makes sense since who wouldn't want their son with them during their final year when they're making a documentary.  &#32; submitted by &#32;  /u/WFDD9621   [link] &#32; [comments] ",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/lakers/comments/1unnas8/cavs_want_bronny_to_lure_lebron/",
-          "source": "Reddit r/lakers",
-          "published": "2026-07-04T23:36:45+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "69af4c79532c",
-          "title": "For a low price of 2 1sts and Jaylon Tyson",
-          "original_title": "For a low price of 2 1sts and Jaylon Tyson",
-          "summary": "      &#32; submitted by &#32;  /u/sin2fly03   [link] &#32; [comments] ",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/lakers/comments/1unn8yk/for_a_low_price_of_2_1sts_and_jaylon_tyson/",
-          "source": "Reddit r/lakers",
-          "published": "2026-07-04T23:34:20+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "547926905c01",
-          "title": "Lakers Eyeing New Rui Hachimura Contract After 2 Players Hit Trade Block - heavy.com",
-          "original_title": "Lakers Eyeing New Rui Hachimura Contract After 2 Players Hit Trade Block - heavy.com",
-          "summary": "Lakers Eyeing New Rui Hachimura Contract After 2 Players Hit Trade Block&nbsp;&nbsp;heavy.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTUdmYVhWMnliWkdZX29oQWpXWWw5UGdRYi1FYW51THZONDlxRlRPbXBQTnFkOE1SYjJmS09ISFpQT2hueFBmMi1LM3FaSEhFNllmTUxqc3ZGQ0RCRHVQRUU0dlV1WjRFdXZGeVBDa0lVR3lfUm1NYzRQQkJvNlg4QWZvbDhEcHg4T1E?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-07-04T23:30:41+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "b66f5f35e182",
-          "title": "What is your prediction on Lakers new C Walker Kessler\u2019s season stats for 2026-2027.",
-          "original_title": "What is your prediction on Lakers new C Walker Kessler\u2019s season stats for 2026-2027.",
-          "summary": "As it stated by Macmahon, Kessler wanted to play with Luka, the best pick n roll player in the NBA. Jazz didn\u2019t have that type of caliber player Like Luka &amp; they were actively trying to lose for draft picks. Last season, in just 5 games Walker Kessler avg 14.4 pts, 10.8 reb, 3 ast, 1.4 steal &amp; 1.8 blk ( 2.4 blk previous 3 yrs) before toring his labrum that ended his 2025-2026 season. Now, with Luka &amp; Reaves, two of the best playmaker in the NBA, I believe he\u2019ll make a leap on his off",
-          "key_points": [],
-          "link": "https://www.reddit.com/r/lakers/comments/1unl2s3/what_is_your_prediction_on_lakers_new_c_walker/",
-          "source": "Reddit r/lakers",
-          "published": "2026-07-04T21:52:29+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "5ec744509255",
-          "title": "Lakers' Pursuit of Jonathan Kuminga Takes Major Turn - Sports Illustrated",
-          "original_title": "Lakers' Pursuit of Jonathan Kuminga Takes Major Turn - Sports Illustrated",
-          "summary": "Lakers' Pursuit of Jonathan Kuminga Takes Major Turn&nbsp;&nbsp;Sports Illustrated",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tZXVMNmJjVGc4alZ1ZVZMcWJ3X050MnlPdE5vdEd0ajdxc2xrbFlHRF9BZTI5S1NOY3Ftd2NmSDNMdlNoU2tRQVJMalFMZ0VGQlQ2blp6cHE2N3V0ZHppTXJGbFFVSkV4bFMxR21WYzVtUUlyQkZFOA?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-07-04T21:35:53+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -120,6 +160,61 @@
     {
       "name": "NBA League News",
       "articles": [
+        {
+          "id": "b8ba586932b7",
+          "title": "It\u2019s times like these I miss Game of Zones\u2026can you imagine how they would cover this nba season and offseason ?",
+          "original_title": "It\u2019s times like these I miss Game of Zones\u2026can you imagine how they would cover this nba season and offseason ?",
+          "summary": "Man game of zones was so funny. I can only imagine how they would cover things like the Knicks winning a championship, Jaylen brown getting traded, kawhi\u2019s tree planting scandal, LeBron leaving the Lakers, the all white lakers squad (aka Snowtime Lakers aka Cream Team)  Which would you want game of zones to cover if it was still around in 2026? Feel free to mention any other stories I didn\u2019t list   &#32; submitted by &#32;  /u/limache   [link] &#32; [comments]",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/nba/comments/1unv307/its_times_like_these_i_miss_game_of_zonescan_you/",
+          "source": "Reddit r/nba",
+          "published": "2026-07-05T06:44:47+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "d77b1d5b0bbf",
+          "title": "Sacramento Kings reshape rebuild with Darius Acuff Jr. and key draft moves",
+          "original_title": "Sacramento Kings reshape rebuild with Darius Acuff Jr. and key draft moves",
+          "summary": "Sacramento Kings have plenty to build upon. The future looks bright as they compete during the NBA Summer League in the California Classic.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/sacramento-kings-reshape-rebuild-darius-055608201.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-07-05T05:56:08+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "8bed74016164",
+          "title": "Austin Reaves and Jalen Suggs led the league in \"Assist conversion rate\" in last season. 64.7% of his potential assists turnes into points",
+          "original_title": "Austin Reaves and Jalen Suggs led the league in \"Assist conversion rate\" in last season. 64.7% of his potential assists turnes into points",
+          "summary": "Austin Reaves averaged 8.5 PO-AST (Potential assists) in last season. 5.5 of his 8.5 PO-AST turned into points, making him tie to Jalen Suggs as &quot;Assist conversion rate&quot; leader. (25+ minutes averaged, 40+ games played, 8+ PO-AST list) Leaders are 1T. Austin Reaves : 8.5 PO-AST, 5.5 AST (64.7%) 1T. Jalen Suggs : 8.5 PO-AST, 5.5 AST (64.7%)  Luka Doncic : 13.5 PO-AST, 8.3 AST (61.5%) Dyson Daniels : 9.6 PO-AST, 5.9 AST (61.0%) LeBron James : 11.8 PO-AST, 7.2 AST (60.8%)  In contrast Devi",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/nba/comments/1unsm6b/austin_reaves_and_jalen_suggs_led_the_league_in/",
+          "source": "Reddit r/nba",
+          "published": "2026-07-05T04:23:31+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "920871d8784f",
+          "title": "Wizards hiring Knicks legend Patrick Ewing as assistant",
+          "original_title": "Wizards hiring Knicks legend Patrick Ewing as assistant",
+          "summary": "New York Knicks great Patrick Ewing is joining the Washington Wizards' coaching staff as an assistant.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/wizards-hiring-knicks-legend-patrick-042234619.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-07-05T04:22:34+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "e91506a6de94",
+          "title": "Nets lose to Kings, 79-76, without Mikel Brown Jr, but Egor Demin shines",
+          "original_title": "Nets lose to Kings, 79-76, without Mikel Brown Jr, but Egor Demin shines",
+          "summary": "On the opening night of Summer League, Nets lose but Egor Demin looks just fine.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/nets-lose-kings-79-76-041552432.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-07-05T04:15:52+00:00",
+          "topic": "NBA League News"
+        },
         {
           "id": "0ad1363b7246",
           "title": "LeBron James seen with Cavs front office member in Akron",
@@ -132,12 +227,23 @@
           "topic": "NBA League News"
         },
         {
-          "id": "8c441333b2d6",
-          "title": "Patrick Ewing reportedly joining Wizards' staff as assistant, with Steve Clifford coming aboard as coaching advisor",
-          "original_title": "Patrick Ewing reportedly joining Wizards' staff as assistant, with Steve Clifford coming aboard as coaching advisor",
+          "id": "f543d10bbbca",
+          "title": "Report: Wizards add NBA legend Patrick Ewing to coaching staff",
+          "original_title": "Report: Wizards add NBA legend Patrick Ewing to coaching staff",
+          "summary": "The Washington Wizards have hired NBA legend Patrick Ewing to a position on their coaching staff, ESPN\u2019s Shams Charania reported Saturday. SNY\u2019s Ian Begley first reported the talks between Ewing and Washington before multiple outlets confirmed the hiring on Saturday. Ewing spent the last two seasons as an advisor and basketball ambassador with the New [\u2026]",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/report-wizards-add-nba-legend-025242956.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-07-05T02:52:42+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "a99db73e9f48",
+          "title": "Patrick Ewing reportedly joining Wizards' staff as assistant, with Steve Clifford coming aboard as coaching adviser",
+          "original_title": "Patrick Ewing reportedly joining Wizards' staff as assistant, with Steve Clifford coming aboard as coaching adviser",
           "summary": "Ewing starred and coached at Georgetown. In between, he first served as a Wizards assistant during the 2002-03 season.",
           "key_points": [],
-          "link": "https://sports.yahoo.com/nba/article/patrick-ewing-reportedly-joining-wizards-staff-as-assistant-with-steve-clifford-coming-aboard-as-coaching-advisor-024347449.html",
+          "link": "https://sports.yahoo.com/nba/article/patrick-ewing-reportedly-joining-wizards-staff-as-assistant-with-steve-clifford-coming-aboard-as-coaching-adviser-024347449.html",
           "source": "Yahoo Sports NBA",
           "published": "2026-07-05T02:43:47+00:00",
           "topic": "NBA League News"
@@ -154,80 +260,14 @@
           "topic": "NBA League News"
         },
         {
-          "id": "6ea7ba79278f",
-          "title": "2026 LeBron James Next Team Odds: Latest Movement as 'The King' Eyes Championship Fit",
-          "original_title": "2026 LeBron James Next Team Odds: Latest Movement as 'The King' Eyes Championship Fit",
-          "summary": "LeBron James' next team odds show the Lakers favored, but Warriors' &quot;Big Four&quot; rumors are driving a major Kalshi market surge as The King announces plans.",
+          "id": "40b2ec3d5c50",
+          "title": "Mohamed Diawara\u2019s chance to prove himself a key storyline in Knicks\u2019 summer league",
+          "original_title": "Mohamed Diawara\u2019s chance to prove himself a key storyline in Knicks\u2019 summer league",
+          "summary": "The Post takes a look at things to watch for the Knicks' summer league team.",
           "key_points": [],
-          "link": "https://sports.yahoo.com/articles/2026-lebron-james-next-team-091700774.html",
+          "link": "https://sports.yahoo.com/articles/mohamed-diawara-chance-prove-himself-015530640.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-07-05T00:14:00+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "0c1179c5e741",
-          "title": "Flemings shines in overtime loss as Hawks lose 102-101 in Summer League debut",
-          "original_title": "Flemings shines in overtime loss as Hawks lose 102-101 in Summer League debut",
-          "summary": "A lot of fun takeaways in a loss.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/flemings-shines-overtime-loss-hawks-235327173.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-07-04T23:53:27+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "da47fe8bc542",
-          "title": "Darryn Peterson erupts for 28 points in NBA Summer League debut, helps Jazz eke out OT win against Hawks",
-          "original_title": "Darryn Peterson erupts for 28 points in NBA Summer League debut, helps Jazz eke out OT win against Hawks",
-          "summary": "Peterson knocked down a pair of clutch 3s down the stretch, bringing plenty of excitement to Salt Lake City.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/nba/article/darryn-peterson-erupts-for-28-points-in-nba-summer-league-debut-helps-jazz-eke-out-ot-win-against-hawks-232537500.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-07-04T23:25:37+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "98b2374f2bea",
-          "title": "Game Thread: Happy 4th of July!",
-          "original_title": "Game Thread: Happy 4th of July!",
-          "summary": "I\u2019m celebrating by eating 250 hot dogs and \u201cdumping\u201d in the Boston Harbor",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/game-thread-happy-4th-july-224500497.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-07-04T22:45:00+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "adb659838359",
-          "title": "Bucks Free Agency: Milwaukee signs former Marquette star guard to two-way contract",
-          "original_title": "Bucks Free Agency: Milwaukee signs former Marquette star guard to two-way contract",
-          "summary": "Jones returns to a familiar place after playing his college ball at Marquette.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/bucks-free-agency-milwaukee-signs-220712450.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-07-04T22:07:12+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "7474831f0a96",
-          "title": "Jayson Tatum opens up in emotional post after Jaylen Brown\u2019s shock Celtics exit",
-          "original_title": "Jayson Tatum opens up in emotional post after Jaylen Brown\u2019s shock Celtics exit",
-          "summary": "The &quot;Jays&quot; are no more.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/jayson-tatum-opens-emotional-post-213654643.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-07-04T21:36:54+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "6ff35dc156c7",
-          "title": "Cameron Boozer scores 15 points for Grizzlies in NBA Summer League debut",
-          "original_title": "Cameron Boozer scores 15 points for Grizzlies in NBA Summer League debut",
-          "summary": "Playing in Salt Lake City with father Carlos sitting courtside, the 2026 No. 3 overall pick scored Memphis' first basket of the game.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/nba/article/cameron-boozer-scores-15-points-for-grizzlies-in-nba-summer-league-debut-211816399.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-07-04T21:18:16+00:00",
+          "published": "2026-07-05T01:55:30+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -236,12 +276,34 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "f4450ce57641",
-          "title": "LeBron James seen with Cavs front office member in Akron - Yahoo Sports",
-          "original_title": "LeBron James seen with Cavs front office member in Akron - Yahoo Sports",
-          "summary": "LeBron James seen with Cavs front office member in Akron&nbsp;&nbsp;Yahoo Sports",
+          "id": "3be3cead23cf",
+          "title": "LeBron James Cleveland reunion takes another turn with Cavs assistant GM - BasketNews.com",
+          "original_title": "LeBron James Cleveland reunion takes another turn with Cavs assistant GM - BasketNews.com",
+          "summary": "LeBron James Cleveland reunion takes another turn with Cavs assistant GM&nbsp;&nbsp;BasketNews.com",
           "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYi0zcDZKeG92RnQ3bC0zempPOFpjYmpxdVI0RlAyR2xNT1h2cHBlYjgyUklBVjVtRVBMRV9JSFZwYURfc0w2cU9lQzlFWkc1aHJWLWR2MmFMNmw3NEVOTEFzeWZ3OGliMnhJajNnY1JrLTluenpUc3QyRnVPZjRxc3hVYw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRlc0ZzFQTjZrNlBENU1CN1VmS1k5ZnZjdFByalVCRThWb1lJS1FJaVF5MzlNcTFVcGdiOUdIU1FwTUVkUU4yMWpCcFpSR1oxMDlWaVlkTWxYRG9EWjZLV0Y3X1U1eEZkaXhTYl9HTUZVQk9tcTV5TlNTYnZ0eHdmQVlReVp2bXdpVVN3bWZLZzhuZ295REw3N2ZESUJDdzVBRDFtMnMzbDFnU2pIXzlJZGZn?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-07-05T04:37:46+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "38e3777f9383",
+          "title": "LeBron James joining Timberwolves could seal GOAT case vs Michael Jordan, per reporter - BasketNews.com",
+          "original_title": "LeBron James joining Timberwolves could seal GOAT case vs Michael Jordan, per reporter - BasketNews.com",
+          "summary": "LeBron James joining Timberwolves could seal GOAT case vs Michael Jordan, per reporter&nbsp;&nbsp;BasketNews.com",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV1dud3ZCRzVJd3psSkJmTUM5Z3ZXemE5RC1RT3p0ZG95aGlldkNiQTI3SVRtWGZCSkZkaEJ4Sks1X0JQWUIxSzhPb2NPYVZPS1hrR0Z1cjhqNm1BZWNxSTR2RDBIX1JUZjlpSmF1VkNYRU5kS3NwallaZ2NBZEpBVkx3Qlgxa3pPckx2UlZIeVcyYXRmeFZrRktra0ZIRnNDdFEtZXBibWhuN1NvbWhGdU0xZ0NWRjFkSFpJNjJNWnl3ZG8?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-07-05T03:29:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "963afd4d4231",
+          "title": "LeBron James seen with Cavs front office member in Akron - Fear The Sword",
+          "original_title": "LeBron James seen with Cavs front office member in Akron - Fear The Sword",
+          "summary": "LeBron James seen with Cavs front office member in Akron&nbsp;&nbsp;Fear The Sword",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOGtvY2IzLW44MEx1bmNtZmR6b3dELWE0WVhUMFdOOU5RX2phTzJPeWo4cFVicHJyeno1TmdhUjEwU3NmSEVla19wbVJENi1nazh2cEp0d3pHazBuT0hwT1NSTXNMN2JCZWZXSEIzY1BUc2R4bjNzNzJKOVMxNWlwWFZjMkdETmlzQW96OXp1MENxQVlBTGZhSjh0T0R5N1EyUHgwNlpuYUl1eTlEcmI5LUZ4cw?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-07-05T03:13:00+00:00",
           "topic": "Lakers Players"
@@ -258,11 +320,26 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "bd474d82d194",
-          "title": "An NBA Conversation Reinforced My LeBron James Theory - letsgowarriors.com",
-          "original_title": "An NBA Conversation Reinforced My LeBron James Theory - letsgowarriors.com",
-          "summary": "An NBA Conversation Reinforced My LeBron James Theory&nbsp;&nbsp;letsgowarriors.com",
+          "id": "188e1f444a31",
+          "title": "LeBron James Sweepstakes Puts Lakers\u2019 Final Big Move on Hold - heavy.com",
+          "original_title": "LeBron James Sweepstakes Puts Lakers\u2019 Final Big Move on Hold - heavy.com",
+          "summary": "LeBron James Sweepstakes Puts Lakers\u2019 Final Big Move on Hold&nbsp;&nbsp;heavy.com",
           "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVHRjeXo0N3Y5U1Z2emc2N2cxVHB0aU9XVTJSaUk5LUhSZjRpYkg1YnhPcENXSEhtSDJKN0NQdER6MzhFQVNpRzM4ZzRsQy1lcm5QSjhMbENxbmxldWhZOEFCZWg4eUloUVZTdDhtZ3dXMUtiTWFIN01hMEZNQmMyOQ?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-07-05T00:36:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "bd474d82d194",
+          "title": "NBA Conversation Reinforces LeBron James Theory",
+          "original_title": "An NBA Conversation Reinforced My LeBron James Theory - letsgowarriors.com",
+          "summary": "A recent discussion on an NBA forum revisited a long\u2011standing theory about LeBron James' career trajectory and future team options. The conversation highlighted patterns in LeBron\u2019s past moves and suggested possible implications for his next contract decision.",
+          "key_points": [
+            "Fans and analysts referenced LeBron\u2019s historical preferences for market size, championship potential, and roster construction.",
+            "The theory posits that LeBron may prioritize a team with a clear path to the NBA Finals over purely financial offers.",
+            "No new concrete information about LeBron\u2019s next destination was revealed."
+          ],
           "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObUl2dUx6LUQwWm1ubUpWV2N1cHY5MFJIbkRJU0xSLWRqMjlua3R2MS0xNkVCT0pqa0UtNDQ2R052N2lqUmd6V3IwdFl0bmFEaFNKTGMyYl83R0tqV1lNRjlaNmJTR3hVMkNYRVdPR1hqZTgtdTNaV25FWmt6dXZ2bjBMWk4xbnJWVEV6VEJxaHFLb1N1VU9oNFZzYnIwZjUyLUpJR1NYS09xMUp3VTRBZHhWS2ctNHd6THllRzJkRUZaaGRPRU9HNUdDUzdLM3lHZnV2bnJlWHhOMWRPaHZLLW52dTVuZTRCNmtPSA?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-07-05T00:06:20+00:00",
@@ -270,79 +347,62 @@
         },
         {
           "id": "1a68a36566fa",
-          "title": "New LeBron James Rumors Reveal 'Growing Belief' This Team Has 'Scenario to Beat' in Contract Talks - Bleacher Report",
+          "title": "New LeBron James Rumors Indicate Growing Belief in a Viable Contract Scenario",
           "original_title": "New LeBron James Rumors Reveal 'Growing Belief' This Team Has 'Scenario to Beat' in Contract Talks - Bleacher Report",
-          "summary": "New LeBron James Rumors Reveal 'Growing Belief' This Team Has 'Scenario to Beat' in Contract Talks&nbsp;&nbsp;Bleacher Report",
-          "key_points": [],
+          "summary": "Bleacher Report cites emerging rumors that at least one NBA franchise believes it has a realistic scenario to sign LeBron James. Sources suggest the team has identified a financial and roster structure that could satisfy both LeBron and the Lakers' salary\u2011cap considerations.",
+          "key_points": [
+            "The rumored team claims it can offer a competitive championship window while staying within cap limits.",
+            "LeBron\u2019s camp has not confirmed any discussions, and the Lakers remain officially in the mix.",
+            "The report emphasizes that negotiations are still speculative and no formal offer has been made."
+          ],
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQejlzZXNsY01PYXhjbUptbFhxcDNuQlpfTGwyLWE0eHdXMVJDcWVRN0J3MWdVbkN0V21UazRrcU5vM3lnRWVmZDFxXzIteTh6czhrM3dUazluSENLV0p6Q1VtMjV4R19sYVpWamVScFQ0aElYeDFHb1JkV3MyRm1LRlU3YjB1bzB3VlFtTUFESTVCVldmU2MtaU5YNnI4eTUxdnhOS1Y4cVZjTDVjMG1uWTJRT3phc214Vm44U1NsRjJ6UHE0dlR3?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-07-05T00:06:04+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "f05e36c0218a",
-          "title": "Philadelphia 76ers Get Major LeBron James Sweepstakes Update - heavy.com",
-          "original_title": "Philadelphia 76ers Get Major LeBron James Sweepstakes Update - heavy.com",
-          "summary": "Philadelphia 76ers Get Major LeBron James Sweepstakes Update&nbsp;&nbsp;heavy.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX0I4YjVjamZkNXR3Qm5zWTZvRTB2SERWWm1QX1daSmJydHY3Rm5xbmZ5MThyUWNaR0JpX1E5SldMbjlKeThDTFJlUnBpMDkyRHdfSWhydlpidUYxWGVpSzljVmNZLVd6TlZjOTZ5UFFycDB5NGs0a2EyOEswaFVoSE40ekFPd3c?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-07-04T23:50:02+00:00",
-          "topic": "Lakers Players"
-        },
-        {
           "id": "db0a2ce60183",
-          "title": "Cavaliers May Be Emerging As Favorites To Sign LeBron James - HoopsRumors.com",
+          "title": "Cavaliers Emerge as Potential Favorites to Sign LeBron James",
           "original_title": "Cavaliers May Be Emerging As Favorites To Sign LeBron James - HoopsRumors.com",
-          "summary": "Cavaliers May Be Emerging As Favorites To Sign LeBron James&nbsp;&nbsp;HoopsRumors.comLeBron James free agency: Which teams could make blockbuster moves to entice the all-time great?&nbsp;&nbsp;CBS SportsLeBron James not expected to make a decision 'anytime soon'&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
+          "summary": "HoopsRumors reports that the Cleveland Cavaliers are gaining traction as a leading candidate to land LeBron James in free agency. The article outlines Cleveland\u2019s recent roster upgrades and cap flexibility that could accommodate a star contract.",
+          "key_points": [
+            "Cleveland has added several young, versatile players and retained key pieces like Donovan Mitchell.",
+            "The franchise\u2019s salary\u2011cap situation reportedly allows room for a max\u2011type deal.",
+            "LeBron\u2019s agent, Rich Paul, has not confirmed any interest from the Cavaliers."
+          ],
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWmR2bTVCbWdMb2xsUDJKUGhGUVZTdUVCcExybW0tOFlGTy1Hd3A4YUszRlZRQTh5WUVKeWR0bWpETGJsc2E1bFltUEZtNzlUbkluV3YzeUxjWXh4SjdyYjNnWUJpSEsxaXM4bEJHZ3M3ay1qb29zRFZzNlVyajFUOEZPMjlha0hucXVHLTlqZTZuV2xPWGJxTk9IQjlTV1EzVFE?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-07-04T23:01:49+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "7cbd1ca61709",
-          "title": "$1,600,000,000 Former NBA Star Pays Heartfelt Tribute to LeBron James Following Lakers Departure - Yahoo Sports",
-          "original_title": "$1,600,000,000 Former NBA Star Pays Heartfelt Tribute to LeBron James Following Lakers Departure - Yahoo Sports",
-          "summary": "$1,600,000,000 Former NBA Star Pays Heartfelt Tribute to LeBron James Following Lakers Departure&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uZmZEZHVCQXlVQW01dk14UVdSalJiWXUxX3luT1NoUXloRDBlQW1wOFJvM21rRDBQNm9VMXo2ZUtSVTBOQnVoRmM1TDRhMTZBUUN0S3BQOVg4RGhVSFprQUtRbUZGbV9ualIyZFJBMW9jeEdzWWtuWA?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-07-04T22:07:23+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "d6c16a526830",
-          "title": "Cavaliers gain major LeBron James homecoming update, Bronny could follow - BasketNews.com",
-          "original_title": "Cavaliers gain major LeBron James homecoming update, Bronny could follow - BasketNews.com",
-          "summary": "Cavaliers gain major LeBron James homecoming update, Bronny could follow&nbsp;&nbsp;BasketNews.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcDk5QTBDVFVYNjJKNGMydDNRLTRkcUxrZUt0bVc2YVdaUU1pcTMzWmM4MkhEdFJ0T2ZXUzBoUktIX0FzcURRWGhOSHBSYTJmbW9oalU1REpOaGl4SnRjWGhUc2JPSlRaaTJQVVdJNlBELVpEX05LZzZtOEJjMFFnLW11REFjWm01Z3UzRnpaNWhLam1GdkJ3cmd3TGVKc2lBXzRXcjVxMGdVRVUySWhvag?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-07-04T21:29:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
           "id": "f1281e4eb7b2",
-          "title": "LeBron James\u2019 Latest Public Appearance Ignites Reunion Speculation Amid Heat, Cavaliers Rumors - Yahoo Sports",
+          "title": "LeBron James\u2019 Public Appearance Fuels Reunion Talk Amid Heat and Cavs Rumors",
           "original_title": "LeBron James\u2019 Latest Public Appearance Ignites Reunion Speculation Amid Heat, Cavaliers Rumors - Yahoo Sports",
-          "summary": "LeBron James\u2019 Latest Public Appearance Ignites Reunion Speculation Amid Heat, Cavaliers Rumors&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
+          "summary": "Yahoo Sports notes that LeBron James\u2019 recent public appearance sparked speculation about a possible reunion with the Miami Heat or a move to the Cleveland Cavaliers. Observers pointed to his interactions with former teammates and the timing of the event.",
+          "key_points": [
+            "LeBron was seen conversing with former Heat players, reigniting past championship narratives.",
+            "Simultaneously, the appearance coincided with heightened media chatter about Cleveland interest.",
+            "No official statements have been released by LeBron, his representatives, or any NBA team."
+          ],
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYmhiRHNUSzRSWC1la1BtYVlqTC1OR2pNNV9POThZTWxBUTFvQ0MyczlUNUV3cExfbzl3ZlFqQ1BhQWJFb0NzR3JWTUo5Qi1oRWJoQld1WnhXUkktb3dWclhMcEVRMURrZEw2MnRuOUpSOUpHRUFTRVNMbTlpblJ6b0w2QUpxOUV2RWxicjB5dw?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-07-04T21:16:54+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "3e9f499ceaf9",
-          "title": "Los Angeles Lakers\u2019 Rui Hachimura Plan Revealed - heavy.com",
-          "original_title": "Los Angeles Lakers\u2019 Rui Hachimura Plan Revealed - heavy.com",
-          "summary": "Los Angeles Lakers\u2019 Rui Hachimura Plan Revealed&nbsp;&nbsp;heavy.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zTWlydkZJaHlDZVNQRGlSbzZMdlFrVXQzQVdjSG8ydlRPX1E5MkQwYUU5LWtkWGZDTmNDTXNKS2Y0WFVNRnVRa3RyejdMR1o4TGlxYVJjWnJMWXotcURpWEE3MXBaNHVkdlZHVHBaa2FSakVoMEtlbG1oTnZxNEU?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-07-04T20:14:06+00:00",
+          "id": "51126c47a1fb",
+          "title": "Rich Paul Suggests LeBron Could Sign With Cleveland Cavaliers",
+          "original_title": "Rich Paul Says LeBron James Could Sign With Cleveland Cavaliers - Yahoo Sports",
+          "summary": "In a Yahoo Sports interview, LeBron James\u2019 agent Rich Paul indicated that a move to the Cleveland Cavaliers is a realistic possibility. Paul referenced the team\u2019s recent improvements and the mutual interest that has been reported in the media.",
+          "key_points": [
+            "Paul highlighted Cleveland\u2019s competitive roster and cap flexibility as attractive factors.",
+            "He stopped short of confirming any negotiations, describing the situation as \u201cstill in the early stages.\u201d",
+            "The Lakers have not publicly responded to the speculation."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNHVJWEVWRzA3QTQzMDh2czUxVHRYamJXb0gxRXhYVUpTQm5Ub0ZlTXlHWEVlczdjX2RCUF81NHlJeDJmVGFxRHoydjlGZ0FqcUFUb3JiUEtjZElyS1BBRlA2Q01TTjNZcjE2bW1qeVhLUC1DaElQSmdpUi1aZW9UNW1B?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-07-04T17:42:46+00:00",
           "topic": "Lakers Players"
         }
       ]
