@@ -1,34 +1,139 @@
 {
-  "generated_at": "2026-07-06T08:27:46.335016+00:00",
+  "generated_at": "2026-07-06T13:50:54.743083+00:00",
   "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
-          "id": "286c9fade632",
-          "title": "Jazz Beat Reporter Praises New Lakers Center Walker Kessler",
-          "original_title": "Jazz beat reporter's glowing assessment of new Lakers C Walker Kessler - Yahoo Sports",
-          "summary": "A Utah Jazz beat reporter highlighted the impact of Walker Kessler after his recent trade to the Los Angeles Lakers. The assessment emphasized Kessler\u2019s defensive instincts, rim\u2011protection ability, and fit within the Lakers\u2019 front\u2011court rotation.",
+          "id": "55ec44eaa2b5",
+          "title": "Quentin Grimes Discusses Training With JJ Redick",
+          "original_title": "Quentin Grimes Shares Story About Training With JJ Redick",
+          "summary": "The Lakers emphasized youth and athleticism in the offseason, adding four new players including guard Quentin Grimes. Grimes highlighted his experience training with former sharpshooter JJ Redick, noting how the sessions helped refine his shooting and off\u2011ball movement.",
           "key_points": [
-            "Kessler is praised for elite shot\u2011blocking and interior defense.",
-            "His skill set is seen as a strong complement to the Lakers\u2019 existing big men.",
-            "The reporter believes Kessler can help improve the Lakers\u2019 defensive efficiency."
+            "Lakers added four players to inject youth and athleticism, with Grimes as one of the new acquisitions.",
+            "Grimes described training sessions with JJ Redick, focusing on shooting mechanics and spacing.",
+            "The coaching staff views Grimes as a potential upgrade for the team's wing depth."
           ],
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOF8tZHBnUDlFTlV2ZUxMN3U0RUNnN2ZsVExJVVZ0TTIzYjFQeXhRTTFoVXdpSlFGWFliQVdMZ1hfemFPc1Bta2d6d3RKRE44UGFsZHVqSG1JRG9VR0p0Z2YxN2dYSVQ0RnZSR0lTRy11Ump5UVczM0tHaFZ5eEdpNmFhYVBoUGtGV2RDS21RSEQ?oc=5",
+          "link": "https://lakersnation.com/lakers-news-quentin-grimes-shares-story-about-training-with-jj-redick/",
+          "source": "Lakers Nation",
+          "published": "2026-07-06T13:00:17+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "7777b2321e9a",
+          "title": "Kobe Bryant Scores 31 in Game 2 of 2001 NBA Finals",
+          "original_title": "Lakers needing a response in Game 2 of the 2001 NBA Finals, Kobe had a 31 point performance along with 8 reb 6 ast 2 blk 2 stl. Played all but 33 seconds.",
+          "summary": "In Game\u202f2 of the 2001 NBA Finals, Kobe Bryant logged 31 points, eight rebounds, six assists, two blocks and two steals while playing almost the entire game. The performance was highlighted as a key response for the Lakers after a challenging start to the series.",
+          "key_points": [
+            "Kobe posted a 31\u2011point line with a well\u2011rounded stat line in Game\u202f2.",
+            "He was on the floor for all but 33 seconds, showing durability.",
+            "The effort helped the Lakers regain momentum in the series."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1uowa88/lakers_needing_a_response_in_game_2_of_the_2001/",
+          "source": "Reddit r/lakers",
+          "published": "2026-07-06T12:43:53+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "1b09efe2e2e0",
+          "title": "Rich Paul Claims LeBron Was \u201cA Thousand Percent\u201d Certain He\u2019d Leave Before Free Agency",
+          "original_title": "Shelbourne: One week before free agency, Rich Paul said LeBron James was \"a thousand percent\" certain he was moving on from the Lakers",
+          "summary": "According to agent Rich Paul, LeBron James told the Lakers he was completely certain he would move on from the team, framing the conversation as a courtesy to aid the organization\u2019s free\u2011agency planning. The comment was made roughly six hours before the free\u2011agency period began.",
+          "key_points": [
+            "Paul said LeBron gave the Lakers a clear heads\u2011up about his departure intentions.",
+            "The statement was positioned as a professional courtesy for the franchise\u2019s planning.",
+            "It was reported just before the free\u2011agency window opened."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1uow6ll/shelbourne_one_week_before_free_agency_rich_paul/",
+          "source": "Reddit r/lakers",
+          "published": "2026-07-06T12:39:28+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "fdedff627e0c",
+          "title": "ESPN Examines the End of the LeBron\u2011Lakers Era",
+          "original_title": "Inside the sterile dissolution of the LeBron-Lakers marriage - ESPN",
+          "summary": "An ESPN feature explores the factors contributing to the breakdown of the relationship between LeBron James and the Los Angeles Lakers, labeling it a \u201csterile dissolution.\u201d The piece also references related speculation about Bronny James\u2019 future and comments from other analysts on LeBron\u2019s possible exit.",
+          "key_points": [
+            "The article analyzes why the partnership between LeBron and the Lakers has unraveled.",
+            "It mentions potential pathways for Bronny James if LeBron joins the Cavaliers.",
+            "Other media outlets and analysts are cited discussing the broader implications for the franchise."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUEplM3lfRjZxRXMxVVp3WlNBRGpXLTdpM3I1ZnN0bElReVptUGhYQjdFMkV5UWtnLVF1VjlzTkU5OE8tZW56SE5OYm0yd0ZGZW1EYkNBOFhpZ1dfQ0VhTGdad1lnOWkxdjNOVFBWRkNSODB2WC1nSE1HdmJrNElfZnVja1hkNjlldi1qeGlUdGIxZVM2TWlRT2JUQUdONjZKcUdXd1M5LVMxWEdKTVBmUFRqaHNPUEQ0RkNzR2N0eC13dGFucjNBQ19pVkZvNkVlVERxWHZtUEVQX1E?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-07-06T06:46:00+00:00",
+          "published": "2026-07-06T11:00:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "4da4b439b936",
+          "title": "Marc Stein Reports Lakers Target Wing and Big Man, Hachimura Likely Gone",
+          "original_title": "Stein: Lakers want to add a wing and big man. They have \u201cno way to retain Rui Hachimura\u201d and \u201chave made a lot of attempts to pursue Kuminga\u201d",
+          "summary": "During the All NBA Podcast, Marc Stein said the Lakers are seeking to add both a wing player and a front\u2011court big man. He noted the team has \u201cno way to retain Rui Hachimura\u201d and that they have made numerous attempts to acquire Jonathan Kuminga.",
+          "key_points": [
+            "Lakers are actively pursuing a wing and a big man in the upcoming offseason.",
+            "Rui Hachimura is expected to leave; the team sees little chance of re\u2011signing him.",
+            "Multiple efforts have been made to trade for Jonathan Kuminga."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1uot5jq/stein_lakers_want_to_add_a_wing_and_big_man_they/",
+          "source": "Reddit r/lakers",
+          "published": "2026-07-06T10:11:47+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "74a5f6a50b5b",
+          "title": "Fans Celebrate Last Season's High Point",
+          "original_title": "Let's revisit one of the absolute high points of last season. Spread the good vibes Lakersfam.",
+          "summary": "A Reddit post from r/lakers expresses gratitude to LeBron James, Marcus Smart, Luke Kennard, and Rui Hachimura for a memorable performance from the previous season. The user shares a link to the highlight and invites discussion in the comments.",
+          "key_points": [
+            "Fans credit four key players for a standout moment from last season.",
+            "The post includes a link to the video clip and a comments thread.",
+            "The tone is celebratory, aiming to spread positive vibes among Lakers supporters."
+          ],
+          "link": "https://www.reddit.com/r/lakers/comments/1uos7vl/lets_revisit_one_of_the_absolute_high_points_of/",
+          "source": "Reddit r/lakers",
+          "published": "2026-07-06T09:18:16+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "89d3df6da097",
+          "title": "Lakers Draft Picks Show Upside in Summer League",
+          "original_title": "Lakers Draft Duo Flashing Serious Upside in Summer League - heavy.com",
+          "summary": "Heavy.com reports that the Los Angeles Lakers' recent draft selections impressed during the NBA Summer League, displaying significant potential on both ends of the floor. The article highlights specific skills and how the rookies could fit into the team's future plans.",
+          "key_points": [
+            "Both draft picks demonstrated strong scoring, defense, and basketball IQ.",
+            "Coaches noted their ability to adapt quickly to the NBA pace.",
+            "The performances suggest they could earn roster spots or valuable two-way contracts."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRUFqQ0F0eUhqTDFxNnVMdVp6aFJxeHlabmlRSEhxNkE2OFpVaGFlTms3TjhHRGdsZDJlaUZEN0Q5YVBpZnZqUmhTRkVJTzR3ZmNlbzVNUGI2bjdjeGQ4QWM0SE9mRGtVLVBBbnZFZDlFejM4TDBQOGNwZ0M2S3ZlVHhCQkdaWmgz?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-07-06T09:11:05+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "fa051274741d",
+          "title": "Former Lakers Player Remains a Free Agent",
+          "original_title": "Recent Los Angeles Lakers Player Is Still An NBA Free Agent - heavy.com",
+          "summary": "Heavy.com notes that a recent former Los Angeles Lakers player has not yet signed with another NBA team and remains a free agent. The article briefly outlines his recent contract status and potential market interest.",
+          "key_points": [
+            "The player is currently unsigned and available for teams seeking depth.",
+            "No official offers have been reported at the time of writing.",
+            "His free\u2011agent status could impact roster decisions for teams in the upcoming offseason."
+          ],
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdEUzWmtBZkMtNklfMnhQRUYxQ04wRVg5eHVyUVFuSGVvcGRmQi1jVmNmTXc2RTNhVkpEZkxmeGdSSVlZTW9uQ29lOFlaR0Rpc29Rczg3YVpoLWhVZVA0bmdHUEk2LVVhNEg4V2RDdHQzR0ZJRTd2Q25KNWJTcTk3eUxhaDdaRG1DSmpTdWdlU1V4cjZ3ZVZJellLYXRIU1RxNDFaS1FIZ1MwQnBL?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-07-06T06:53:07+00:00",
           "topic": "Lakers News"
         },
         {
           "id": "0d24c55a5dfc",
-          "title": "The Lakers Are Better Than Everyone Thinks. Here\u2019s Why.",
+          "title": "Why the Lakers May Be Better Than Perceived",
           "original_title": "The Lakers Are Better Than Everyone Thinks. Here's Why.",
-          "summary": "A Reddit discussion argues that the Lakers have built a roster tailored to Luka Don\u010di\u0107\u2019s strengths, rather than simply amassing talent. Walker Kessler is highlighted as a key addition whose rim protection, screening, and lob\u2011finishing abilities fit the new system.",
+          "summary": "A Reddit discussion argues that the Lakers are constructing a roster built around Luka Don\u010di\u0107\u2019s strengths, rather than merely accumulating talent. The thread highlights the addition of Jaden\u202fKessler as a key piece for rim protection and complementary play.",
           "key_points": [
-            "The team\u2019s strategy centers on maximizing Don\u010di\u0107\u2019s playmaking.",
-            "Kessler\u2019s defensive presence and ability to set screens are considered crucial.",
-            "Analysts claim the roster construction gives the Lakers a competitive edge that is often overlooked."
+            "The core strategy centers on maximizing Don\u010di\u0107\u2019s playmaking abilities.",
+            "Jaden\u202fKessler\u2019s defensive presence and screening are seen as vital to the new system.",
+            "The post suggests the team\u2019s depth and fit are undervalued by external observers."
           ],
           "link": "https://www.reddit.com/r/lakers/comments/1uopcck/the_lakers_are_better_than_everyone_thinks_heres/",
           "source": "Reddit r/lakers",
@@ -36,123 +141,18 @@
           "topic": "Lakers News"
         },
         {
-          "id": "fa051274741d",
-          "title": "Recent Los Angeles Lakers Player Remains an NBA Free Agent",
-          "original_title": "Recent Los Angeles Lakers Player Is Still An NBA Free Agent - heavy.com",
-          "summary": "Heavy.com reports that a player who most recently appeared on the Lakers\u2019 roster is still unsigned on the free\u2011agent market. No further details about the player\u2019s identity or potential destinations were provided.",
+          "id": "906446841151",
+          "title": "Report: Lakers Poised to Offer Luka Don\u010di\u0107 a \u2018Dallas 2.0\u2019 Deal",
+          "original_title": "Report: Los Angeles Lakers All Set To Give Luka Doncic \u2018Dallas 2.0\u2019 - heavy.com",
+          "summary": "Heavy.com reports that the Los Angeles Lakers are preparing a contract offer for Luka Don\u010di\u0107 that mirrors the lucrative extension he received with the Dallas Mavericks. The article indicates the Lakers are serious about acquiring the star and are working on a competitive financial package.",
           "key_points": [
-            "The player has not secured a contract with any NBA team.",
-            "His free\u2011agent status remains unchanged as of the article\u2019s publication.",
-            "The report does not specify which former Lakers player is involved."
+            "The proposed deal aims to match or exceed Don\u010di\u0107\u2019s current contract with Dallas.",
+            "Lakers executives are reportedly coordinating with the NBA\u2019s salary\u2011cap office.",
+            "If successful, the signing would dramatically reshape the Lakers\u2019 championship outlook."
           ],
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdEUzWmtBZkMtNklfMnhQRUYxQ04wRVg5eHVyUVFuSGVvcGRmQi1jVmNmTXc2RTNhVkpEZkxmeGdSSVlZTW9uQ29lOFlaR0Rpc29Rczg3YVpoLWhVZVA0bmdHUEk2LVVhNEg4V2RDdHQzR0ZJRTd2Q25KNWJTcTk3eUxhaDdaRG1DSmpTdWdlU1V4cjZ3ZVZJellLYXRIU1RxNDFaS1FIZ1MwQnBL?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONzM3elRRMjVWVUo0WUo1dmhVM09lMDdWcXFLdG5XRGxXVUpTUmNldTZSN0V1R0c1R01fTG9qOEhfcUtlSVEyTUhHNFJZdUFwSVdzVG50cTF3Z0VMSzhRMWFYcDQxdkhQUlREVTNMQldXMGtyRTl6TFZvVEZfMEhBX21EVThuN2I0Nzlmc1dudVBUcE10dXBxbUFn?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-07-06T06:24:22+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "a84072afd158",
-          "title": "NBA Legend Joe Johnson Reacts to Lakers\u2011Wizards Trade",
-          "original_title": "NBA Legend Joe Johnson Reacts To Lakers-Wizards Trade - heavy.com",
-          "summary": "Former NBA guard Joe Johnson shared his thoughts on a recent trade between the Los Angeles Lakers and Washington Wizards. Johnson\u2019s reaction focuses on the trade\u2019s implications for both teams\u2019 roster balance and future outlook.",
-          "key_points": [
-            "Johnson evaluates the assets exchanged by the Lakers and Wizards.",
-            "He comments on how the trade may affect the Lakers\u2019 depth and salary cap.",
-            "The analysis highlights potential strategic benefits for Washington."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWFhLaVhTTHVHam1CR1E1ZlNPUEUybnE4eUVOamJzQzJkM2JyLTg0MjBfMmtiZVR1M1Nid2V4OUFlSVk3dHgzOWtLT1RyS1NpMkhKU081MUlUeHVCNFhNZmNWWi1VaGY3NUpYNlJySDBJbVQwa21WR1ZLd3JtRm5oeE1aZm82ZVdvenVOcg?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-07-06T05:12:59+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "1dc1f49043fd",
-          "title": "Walker Kessler\u2019s Highlight Play: 3\u2011Point Shot, Block, and Fast\u2011Break Finish",
-          "original_title": "Walker hits a 3, gets the block, then sprints down and finishes at the other end",
-          "summary": "A Reddit post showcases a sequence where Walker Kessler hits a three\u2011pointer, records a block, and then scores on a fast break. The clip underscores Kessler\u2019s versatility and athleticism on both ends of the floor.",
-          "key_points": [
-            "Kessler demonstrates shooting range with a made three\u2011pointer.",
-            "He follows with a defensive block, showing rim\u2011protection skill.",
-            "He finishes the play with an aggressive fast\u2011break layup."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1uonzbv/walker_hits_a_3_gets_the_block_then_sprints_down/",
-          "source": "Reddit r/lakers",
-          "published": "2026-07-06T05:12:22+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "f2a8b4453615",
-          "title": "Walker Kessler Can\u2019t Wear 24 or 25 \u2013 Could He Switch to 23?",
-          "original_title": "Walker Kessler can\u2019t wear 24 or 25. Do we let him wear 23?",
-          "summary": "A Reddit post discusses the Los Angeles Lakers\u2019 jersey number dilemma for rookie center Walker Kessler, who is prohibited from wearing numbers 24 and 25. The thread debates whether the team should assign him the number 23 instead.",
-          "key_points": [
-            "NBA rules prevent Kessler from using numbers 24 or 25.",
-            "Fans and commenters suggest the number 23 as an alternative.",
-            "The discussion is purely speculative and does not confirm any official decision."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1uonlwd/walker_kessler_cant_wear_24_or_25_do_we_let_him/",
-          "source": "Reddit r/lakers",
-          "published": "2026-07-06T04:52:38+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "6aa16627afaa",
-          "title": "Lakers\u2019 Unusual Signing Gives Rui Hachimura a Chance for Warriors Revenge",
-          "original_title": "Lakers' bizarre signing gives Rui Hachimura perfect Warriors revenge chance - Blue Man Hoop",
-          "summary": "An article from Blue Man Hoop notes that a recent, unconventional roster move by the Los Angeles Lakers creates an opportunity for former Laker Rui Hachimura to face the Golden State Warriors with added motivation. The piece highlights the narrative of Hachimura seeking redemption against a team that previously eliminated the Lakers.",
-          "key_points": [
-            "The Lakers made a surprising signing that indirectly benefits Hachimura\u2019s upcoming matchup.",
-            "Hachimura, now with the Warriors, could view the game as personal revenge.",
-            "The article focuses on the storyline rather than detailed contract specifics."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ2lqaDJobEZHWVpWTF9WclY0bTBKTWRxVFZ0ZEJhX2d4MmVnM2dkRmFfWWdCWlFETDFPVC1vaENrQWxZcy1hOV9FMVN2bGNFWkZ6X3hvM0JhMXhodXpIYS0yTXpQUDhWbmthVy00U3czOGxRVFN3LWtJWDFiV1FpdjBvUUhSeXh4OFZLSzF3eXRwWTl3Z0dHRHdndXI3RlU?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-07-06T04:00:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "4e6ccf1a5e2f",
-          "title": "Lakers Exploring Options for a Starting\u2011Caliber Wing",
-          "original_title": "Lakers reportedly looking to make moves for starting-caliber wing - Yahoo Sports",
-          "summary": "Yahoo Sports reports that the Los Angeles Lakers are actively scouting trade and free\u2011agency options to acquire a wing player capable of starting on both ends of the floor. The front office is said to be evaluating several candidates to bolster a roster that lacks depth at the forward position.",
-          "key_points": [
-            "The team is targeting a versatile wing who can start immediately.",
-            "Potential moves include trades, sign\u2011and\u2011trade deals, or free\u2011agency signings.",
-            "No specific player names have been confirmed at this stage."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUlVQazdkQUswRDhmUWpDV1VnX2FLdHJmUkdydlVEbFdZaTJvWGZXNjhFVTA5b0NFdURFWE9jTTI1T2loVEFFUXpFN2RkNmtGbDNXd2xfRnIyZmVLTjlPVE9vRHpNdUpRVnBvQU1MTkpBVkpkdHVfdGw5ckQxMWlCcjUyazE1d1hjZHNiZU9Ya08yMTQ?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-07-06T03:30:00+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "c967058b9ba4",
-          "title": "Fans Mock Lakers\u2019 Frequent Trade Rumors",
-          "original_title": "This Just Hillarious",
-          "summary": "A Reddit user comments on the constant trade speculation surrounding the Lakers, calling it \u201chilarious.\u201d The post mentions that Victor Wembanyama (referred to as \u201cVando\u201d) is a top trade target, and some fans would welcome his departure.",
-          "key_points": [
-            "The thread highlights the volume of daily trade rumors involving the Lakers.",
-            "Victor Wembanyama is frequently cited as a potential trade piece.",
-            "The tone is humorous and reflects fan fatigue with ongoing speculation."
-          ],
-          "link": "https://www.reddit.com/r/lakers/comments/1uollod/this_just_hillarious/",
-          "source": "Reddit r/lakers",
-          "published": "2026-07-06T03:12:11+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "239ef8f9af73",
-          "title": "2026 NBA Summer League: Heat Defeat Lakers in Opening Game",
-          "original_title": "2026 NBA Summer League Gamethread: Miami Heat (1-0) v. Los Angeles Lakers (0-1) - Hot Hot Hoops",
-          "summary": "Hot Hot Hoops provides a live\u2011update thread for the 2026 NBA Summer League matchup where the Miami Heat beat the Los Angeles Lakers 1\u20110. The thread includes play\u2011by\u2011play commentary, player performances, and fan reactions.",
-          "key_points": [
-            "Miami Heat won the opening summer\u2011league game against the Lakers.",
-            "The thread offers real\u2011time stats and highlights for both teams.",
-            "It serves as a discussion hub for fans following the summer\u2011league season."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR1VUbU8xNEx5NTRwNXdESEhMUkpSWkFaZmwydkpqc05zTXpJYVZxb1YtalNYSmhlRkxwYUJNUmxtd1RDcGZSd0p2LXhOM0lqNmNlanZfQ0NUTzY0MFgwMGNENnl0TC0tRDliUnBHanFwTnVKWmNYRmRHbjlOSnpsYkEyS2wzZTlqMjBuZ205YTQ0UThmbmYwRHRPUUZ2NUlZ?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-07-06T03:02:29+00:00",
+          "published": "2026-07-06T06:29:02+00:00",
           "topic": "Lakers News"
         }
       ]
@@ -161,11 +161,85 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "3c1c5ecfe79a",
-          "title": "Ja Morant, Norman Powell and other offseason moves affecting fantasy basketball in 2026-27",
-          "original_title": "Ja Morant, Norman Powell and other offseason moves affecting fantasy basketball in 2026-27",
-          "summary": "Between trades and players deciding to stay put, there has not been as much star power in this summer's free agency window.",
+          "id": "6791f8b1f539",
+          "title": "Why LeBron James should sign with the Minnesota Timberwolves",
+          "original_title": "Why LeBron James should sign with the Minnesota Timberwolves",
+          "summary": "James is reportedly looking to play \"meaningful, competitive basketball,\" so why not try to bring a title to Minnesota?",
           "key_points": [],
+          "link": "https://www.cbssports.com/nba/news/lebron-james-free-agency-timberwolves-championship-anthony-edwards/",
+          "source": "CBS Sports NBA",
+          "published": "2026-07-06T13:12:43+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "7670bdd714b6",
+          "title": "The Jaylen Brown trade is a watershed moment for NBA analytics, and nothing will be the same after it",
+          "original_title": "The Jaylen Brown trade is a watershed moment for NBA analytics, and nothing will be the same after it",
+          "summary": "The Jaylen Brown trade is an inflection point for basketball analytics.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/jaylen-brown-trade-watershed-moment-120000356.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-07-06T12:00:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "1a6264c6e8cb",
+          "title": "Maliq Brown Snuffs One!",
+          "original_title": "Maliq Brown Snuffs One!",
+          "summary": "We didn't see this at Duke",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/maliq-brown-snuffs-one-114900835.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-07-06T11:49:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "381f69170b27",
+          "title": "Open Thread: Spurs Tony Parker and Patty Mills to reunite with ASVEL",
+          "original_title": "Open Thread: Spurs Tony Parker and Patty Mills to reunite with ASVEL",
+          "summary": "The 2014 champs will redefine their relationship as coach and player.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/open-thread-spurs-tony-parker-110000439.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-07-06T11:00:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "130ab1328fd5",
+          "title": "Monday Posted & Toasted Notes: Mitch reveals the truth, Melo ain\u2019t afraid",
+          "original_title": "Monday Posted & Toasted Notes: Mitch reveals the truth, Melo ain\u2019t afraid",
+          "summary": "Crazy slow start to Monday around these places, and on top of that, the muscles on my right leg don\u2019t feel willing to cooperate when I try to move around. Links and notes next, so I can forget about my pains. \u201c\u201cI would like to address the concerns regarding my finger, which was actually my [\u2026]",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/monday-posted-toasted-notes-mitch-100441002.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-07-06T10:04:41+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "ab13e5925e48",
+          "title": "Celtics Navigate Post\u2011Jaylen Brown Trade Landscape",
+          "original_title": "The five stages of the Jaylen Brown trade, and what's next for Celtics",
+          "summary": "Chris Forsberg examines the fallout from Boston\u2019s unexpected trade of Jaylen Brown to the Philadelphia 76ers. He outlines the five stages of the deal\u2019s aftermath and discusses the roster and strategic options the Celtics have moving forward.",
+          "key_points": [
+            "Boston sent All\u2011Star forward Jaylen Brown to the Sixers in a blockbuster deal.",
+            "Forsberg breaks the trade\u2019s impact into five phases, from immediate roster shuffling to long\u2011term identity rebuilding.",
+            "The Celtics must decide whether to pursue a new star, develop existing talent, or explore additional trades."
+          ],
+          "link": "https://sports.yahoo.com/articles/five-stages-jaylen-brown-trade-092650596.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-07-06T09:26:50+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "3c1c5ecfe79a",
+          "title": "Offseason Moves Shaping 2026\u201127 Fantasy Basketball",
+          "original_title": "Ja Morant, Norman Powell and other offseason moves affecting fantasy basketball in 2026-27",
+          "summary": "Yahoo Sports outlines the key transactions and free\u2011agency decisions that will influence fantasy basketball for the 2026\u201127 season. While the market lacked marquee free\u2011agent signings, several trades and contract extensions could reshape player values.",
+          "key_points": [
+            "Ja Morant\u2019s new contract situation and potential team fit are highlighted as a major fantasy factor.",
+            "Norman Powell\u2019s move to a contender adds depth to his fantasy upside.",
+            "Overall, the offseason featured fewer high\u2011profile free\u2011agent signings, placing greater emphasis on trade outcomes."
+          ],
           "link": "https://sports.yahoo.com/articles/ja-morant-norman-powell-other-172636588.html",
           "source": "Yahoo Sports NBA",
           "published": "2026-07-06T06:10:00+00:00",
@@ -173,121 +247,47 @@
         },
         {
           "id": "0368b37ff85c",
-          "title": "Utah Jazz vs Memphis Grizzlies: Summer League Preview, start time, how to watch",
+          "title": "Summer League Preview: Utah Jazz vs. Memphis Grizzlies",
           "original_title": "Utah Jazz vs Memphis Grizzlies: Summer League Preview, start time, how to watch",
-          "summary": "Who is ready for more Darryn Peterson?",
-          "key_points": [],
+          "summary": "The preview details the upcoming Summer League matchup between the Utah Jazz and Memphis Grizzlies, focusing on the emergence of rookie Darryn Peterson. The article provides start times, broadcast information, and what to watch for in the game.",
+          "key_points": [
+            "Darryn Peterson is expected to receive significant minutes and showcase his skill set.",
+            "Both teams will use the game to evaluate recent draft picks and undrafted free agents.",
+            "The contest airs on the NBA\u2019s official streaming platforms with a scheduled start time of 7:00\u202fPM PT."
+          ],
           "link": "https://sports.yahoo.com/articles/utah-jazz-vs-memphis-grizzlies-055014041.html",
           "source": "Yahoo Sports NBA",
           "published": "2026-07-06T05:50:14+00:00",
           "topic": "NBA League News"
         },
         {
+          "id": "f20ec387d51e",
+          "title": "Luka Don\u010di\u0107 Maximizes Offseason with Social Media Highlights",
+          "original_title": "Lakers\u2019 Luka Doncic making most of NBA offseason",
+          "summary": "Luka Don\u010di\u0107 shared a series of Instagram Story photos that capture his activities during the NBA offseason, ranging from training sessions to personal downtime. The post underscores his commitment to staying in shape and engaging with fans.",
+          "key_points": [
+            "Don\u010di\u0107 posted images of workouts, travel, and family moments, illustrating a balanced offseason routine.",
+            "The content signals his focus on maintaining elite performance levels ahead of the next season.",
+            "Fans received a glimpse of his personality beyond the court, strengthening his brand presence."
+          ],
+          "link": "https://sports.yahoo.com/articles/lakers-luka-doncic-making-most-041526632.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-07-06T04:15:26+00:00",
+          "topic": "NBA League News"
+        },
+        {
           "id": "2ae89b64592a",
-          "title": "Utah Jazz add depth with new signing of Creighton guard",
+          "title": "Jazz Bolster Bench Depth by Signing Creighton Guard",
           "original_title": "Utah Jazz add depth with new signing of Creighton guard",
-          "summary": "The Utah Jazz have made another interesting offseason signing",
-          "key_points": [],
+          "summary": "Utah adds a new piece to its roster by signing a guard from Creighton University, aiming to increase bench depth and defensive versatility. The move reflects the Jazz\u2019s strategy of blending veteran talent with promising young players.",
+          "key_points": [
+            "The guard, a recent Creighton standout, signs a two\u2011year contract with the Jazz.",
+            "Utah expects him to contribute immediately in a backup point\u2011guard role.",
+            "The signing aligns with the Jazz\u2019s broader plan to develop young talent while maintaining competitive depth."
+          ],
           "link": "https://sports.yahoo.com/articles/utah-jazz-add-depth-signing-041524263.html",
           "source": "Yahoo Sports NBA",
           "published": "2026-07-06T04:15:24+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "fe2c0b396dc9",
-          "title": "NBA insider rips LeBron James, says Lakers were done with him when they acquired Luka Doncic",
-          "original_title": "NBA insider rips LeBron James, says Lakers were done with him when they acquired Luka Doncic",
-          "summary": "It\u2019s been nearly a week since LeBron James informed the Lakers he wasn\u2019t going to play for them next season, but apparently, the Lakers were prepared for it. According to...",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/nba-insider-rips-lebron-james-035541080.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-07-06T03:55:41+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "4f6c621e737e",
-          "title": "To lure LeBron James, Cavaliers could try to trade for Bronny",
-          "original_title": "To lure LeBron James, Cavaliers could try to trade for Bronny",
-          "summary": "The Cavaliers reportedly are looking to bring a James family reunion back to Cleveland. According to NBA insider Jake Fischer, the Cavaliers are keeping an open roster spot for Bronny...",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/lure-lebron-james-cavaliers-could-033827682.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-07-06T03:38:27+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "a4eab0d7b0dd",
-          "title": "Undermanned Nets Blow Out Bucks in Defensive Masterclass",
-          "original_title": "Undermanned Nets blow out Bucks in big defensive win",
-          "summary": "Despite missing key players, the Brooklyn Nets secured a dominant victory over the Milwaukee Bucks by relying on aggressive defense. The win highlights the Nets' ability to generate stops and convert them into fast\u2011break points.",
-          "key_points": [
-            "Brooklyn fielded a depleted lineup but still held Milwaukee to low shooting percentages.",
-            "Turnovers forced by the Nets' defense led to easy transition baskets.",
-            "The performance underscores the adage that defense can win games, even in the Summer League."
-          ],
-          "link": "https://sports.yahoo.com/articles/undermanned-nets-blow-bucks-big-022141374.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-07-06T02:21:41+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "6ea7ba79278f",
-          "title": "2026 LeBron James Next\u2011Team Odds Spike as Lakers Remain Front\u2011Runner",
-          "original_title": "2026 LeBron James Next Team Odds: Latest Movement as 'The King' Eyes Championship Fit",
-          "summary": "Betting markets show the Los Angeles Lakers as the top favorite for LeBron James' next destination, while rumors linking him to a Warriors \u201cBig Four\u201d have driven a surge in Kalshi contracts. The odds reflect both James' desire for a championship window and the speculative chatter surrounding his free\u2011agency options.",
-          "key_points": [
-            "Lakers maintain the lowest odds to land LeBron for the 2026 season.",
-            "Warriors\u2011related rumors have created notable movement in the Kalshi prediction market.",
-            "James' public statements about seeking a title\u2011contending team are influencing bettor sentiment."
-          ],
-          "link": "https://sports.yahoo.com/articles/2026-lebron-james-next-team-091700774.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-07-05T23:41:00+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "7f056756101c",
-          "title": "NetsDaily Off\u2011Season Report \u2013 No. 12",
-          "original_title": "NetsDaily Off-Season Report \u2013 No. 12",
-          "summary": "The weekly NetsDaily roundup compiles the latest offseason moves, trade chatter, and roster rumors affecting Brooklyn. It serves as a quick reference for fans to stay updated on the team's rebuilding progress.",
-          "key_points": [
-            "Updates include potential free\u2011agent targets and draft considerations.",
-            "Gossip surrounding coaching staff changes and front\u2011office decisions is highlighted.",
-            "The report aims to prepare fans for upcoming roster developments."
-          ],
-          "link": "https://sports.yahoo.com/articles/netsdaily-off-season-report-no-234049819.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-07-05T23:40:49+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "3cfc61e4a235",
-          "title": "Lakers' Adou Thiero Embraces Leadership Role with Rookie Cameron Carr",
-          "original_title": "Lakers' Adou Thiero hoping to learn and lead with Cameron Carr this summer",
-          "summary": "During the NBA Summer League, forward Adou Thiero is taking on a mentorship and leadership position alongside rookie guard Cameron Carr. Thiero hopes the experience will both aid his own growth and accelerate Carr's development within the Lakers system.",
-          "key_points": [
-            "Thiero focuses on guiding Carr while sharpening his own game.",
-            "The duo's chemistry is being evaluated for potential future rotations.",
-            "Summer League serves as a learning platform for both players."
-          ],
-          "link": "https://sports.yahoo.com/articles/lakers-adou-thiero-hoping-learn-231106848.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-07-05T23:11:06+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "375af6edc875",
-          "title": "Lakers Rally for Overtime Victory at California Classic Behind Cameron Carr",
-          "original_title": "Lakers bounce back for overtime win at California Classic behind Cameron Carr",
-          "summary": "The Los Angeles Lakers overcame a late deficit to defeat the Miami Heat in a double\u2011overtime thriller at the California Classic. Cameron Carr led the comeback with key scoring bursts, helping the team secure the win.",
-          "key_points": [
-            "Carr contributed a career\u2011high scoring night, sparking the rally.",
-            "The Lakers erased a double\u2011digit gap in the final minutes of regulation.",
-            "Two overtime periods highlighted the team's resilience and depth."
-          ],
-          "link": "https://sports.yahoo.com/articles/lakers-bounce-back-overtime-win-224727886.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-07-05T22:47:27+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -296,133 +296,113 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "906446841151",
-          "title": "Report: Los Angeles Lakers All Set To Give Luka Doncic \u2018Dallas 2.0\u2019 - heavy.com",
-          "original_title": "Report: Los Angeles Lakers All Set To Give Luka Doncic \u2018Dallas 2.0\u2019 - heavy.com",
-          "summary": "Report: Los Angeles Lakers All Set To Give Luka Doncic \u2018Dallas 2.0\u2019&nbsp;&nbsp;heavy.com",
+          "id": "668d066fc384",
+          "title": "Why LeBron James should sign with the Minnesota Timberwolves - CBS Sports",
+          "original_title": "Why LeBron James should sign with the Minnesota Timberwolves - CBS Sports",
+          "summary": "Why LeBron James should sign with the Minnesota Timberwolves&nbsp;&nbsp;CBS Sports",
           "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONzM3elRRMjVWVUo0WUo1dmhVM09lMDdWcXFLdG5XRGxXVUpTUmNldTZSN0V1R0c1R01fTG9qOEhfcUtlSVEyTUhHNFJZdUFwSVdzVG50cTF3Z0VMSzhRMWFYcDQxdkhQUlREVTNMQldXMGtyRTl6TFZvVEZfMEhBX21EVThuN2I0Nzlmc1dudVBUcE10dXBxbUFn?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-07-06T06:29:02+00:00",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONjYtMmxLVlNOZWVOT050S1Yycms1NE1NVlNySFZMVXVURFZLRm5OcEROYmNhNlNSSmE4SjAwZ3FSekJqaWFNNm9mckJLY3JHdVFtYWRtVjZ0Yk5DcVFoZ1FsRy1HcmNRVHJYcTBCZ1lkT3hPM1RTUEFKNHlib29mTzl5VzVGaUthMUsxV1NpTnhZVTl3Nk9OcmZTck91ckpaWFBTcw?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-07-06T13:12:43+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "2f1864b9dc46",
-          "title": "NBA insider rips LeBron James, says Lakers were done with him when they acquired Luka Doncic - Yahoo Sports",
-          "original_title": "NBA insider rips LeBron James, says Lakers were done with him when they acquired Luka Doncic - Yahoo Sports",
-          "summary": "NBA insider rips LeBron James, says Lakers were done with him when they acquired Luka Doncic&nbsp;&nbsp;Yahoo Sports",
+          "id": "0098e09116eb",
+          "title": "New LeBron Rumors Reveal Teams 'in the Dark' as Cavs Eyed as Top Landing Spot After Lakers Exit - Bleacher Report",
+          "original_title": "New LeBron Rumors Reveal Teams 'in the Dark' as Cavs Eyed as Top Landing Spot After Lakers Exit - Bleacher Report",
+          "summary": "New LeBron Rumors Reveal Teams 'in the Dark' as Cavs Eyed as Top Landing Spot After Lakers Exit&nbsp;&nbsp;Bleacher Report",
           "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMGZVS0xEUlRTQVVoLXVoTWNTbFRLbTJpM0pkRGk0ZUdmc0R5YzgxUDJFS1kzczF0MVBrZkJ1NzFPcFhUYkJKVzZyUUpKdl9vTGVDbXE4dGVrU2FLOE1sQzRxU2Y4SEQwaDhOMi1ORHIxMm9KTlBzbHItNEFiRE9Tb2pXSGE?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc0RHVndhbnJtcWFLYUctek5tcHJtTHRUZV9lNC1XQnlfWk1wLVRmX1dkRGpYLWxrSGRsMjFMMFFGQWthTy1IeVExV0llSlMwd3RneHk1NWRkWHEydXBJcmlCYUtzOVZyV0NTbGJsa0lvVklTTUN1aDFUbHdKdFZxOUc0TjUtSGRtMEg1LTN3blpoRWNYeDdLRk9YS3VmdEE4LXZIbHo2S0dONlF1MG1hZS1YZGVNeXBoY25LclBfQWt1ZWc?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-07-06T03:55:00+00:00",
+          "published": "2026-07-06T13:10:06+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "c461e56683c9",
-          "title": "NBA insider rips LeBron James, says Lakers were done with him when they acquired Luka Doncic - New York Post",
-          "original_title": "NBA insider rips LeBron James, says Lakers were done with him when they acquired Luka Doncic - New York Post",
-          "summary": "NBA insider rips LeBron James, says Lakers were done with him when they acquired Luka Doncic&nbsp;&nbsp;New York Post",
+          "id": "6962d8647037",
+          "title": "Luka Doncic makes the Lakers' Walker Kessler trade look like an absolute steal - Lake Show Life",
+          "original_title": "Luka Doncic makes the Lakers' Walker Kessler trade look like an absolute steal - Lake Show Life",
+          "summary": "Luka Doncic makes the Lakers' Walker Kessler trade look like an absolute steal&nbsp;&nbsp;Lake Show Life",
           "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSFp2bEZxdFRUOGdSMXJ6aDFaNW9STGpOQTNlYk5IOGcwRXZlVTFZNUh0SlN0NHBoX3Q4NzAxU2hBXzFwallIUVU4ZXZ3NjYwaDlfajBaUVJtbGQ4bGNNbzRDdkVGX2I5R2lacUhuS2NqMUczaHVoalNnQ1VRT3doN0pmbUljOTVTeDZNeHlOQWpTWkhTZ0NNOXRmMXNzWTlLYnNuLVJMWVdqREVvUU1JdmFjc2lEbC1xVjJMaUhaTnRyMzhheEJN?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM1QtTXNhOTVRMVFodEZQNFFpN3pOUVY0endCMVNTOGVsb2RNSm1Gb09SaG5ERGUxem1NV0QtRXByUVQ2TlFOcG4tNGJacVlJcWlQLU9VZHJsYS1IN0FlbzFwR0tPVUNtV0xWMUVTTlZZM1NJNm9BeVpLdjYtcGJybzFKYW41ejVxZUpkOERTVlN6RngyVkoxZnRoWWcxRzgyUXhkRQ?oc=5",
           "source": "Google News - Luka",
-          "published": "2026-07-06T03:55:00+00:00",
+          "published": "2026-07-06T13:00:01+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "51de0ef20eb9",
-          "title": "To lure LeBron James, Cavaliers could try to trade for Bronny - New York Post",
-          "original_title": "To lure LeBron James, Cavaliers could try to trade for Bronny - New York Post",
-          "summary": "To lure LeBron James, Cavaliers could try to trade for Bronny&nbsp;&nbsp;New York Post",
+          "id": "23669cb6d19e",
+          "title": "Is LeBron Coming Home (Again)? - The Ringer",
+          "original_title": "Is LeBron Coming Home (Again)? - The Ringer",
+          "summary": "Is LeBron Coming Home (Again)?&nbsp;&nbsp;The Ringer",
           "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPanB6LWRVcnFlcjZfaWFpbmphZEhTZ0Z5SVJ4YkVvaURVWE9ud1lzNkJWT1pYaGNMa29oQlZCZlJBa3RTM2tvbjFEQjdxMHVKV0ZKcm9ERkJkbGVjX0pGamN5NTZKU0FJSTdLam92dmM0OWdHWUUwUUppanJ0Ynp6VElLMFZHdlBib0I4?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT19ac2hucFliNXBsdmd5VTdKbVNCYnZBX0JyMWJhcDRCVFhvVmhBTHJHX3RwNF92Xy1XQWd5TWRZQ3E3OHh0ZDlSa2VINk96MjdueXprYmg3QW40Q0VEQTNKcHZZOG5mYkxuODNnS2doTTQzXzNoMlBxSk9jRERSRjFma1RhaGUzWUpKUWJjbThkSjQxS1ZVQ1VDQVlCNFg1WGFCcmlTWFlzbEU?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-07-06T03:38:00+00:00",
+          "published": "2026-07-06T12:33:35+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "b175dec51000",
-          "title": "Draymond Green warns Luka Doncic, Austin Reaves amid LeBron James Lakers exit - BasketNews.com",
-          "original_title": "Draymond Green warns Luka Doncic, Austin Reaves amid LeBron James Lakers exit - BasketNews.com",
-          "summary": "Draymond Green warns Luka Doncic, Austin Reaves amid LeBron James Lakers exit&nbsp;&nbsp;BasketNews.com",
+          "id": "932828e35871",
+          "title": "Lakers Proposed to Trade Bronny James for Unique Return After LeBron Exit - heavy.com",
+          "original_title": "Lakers Proposed to Trade Bronny James for Unique Return After LeBron Exit - heavy.com",
+          "summary": "Lakers Proposed to Trade Bronny James for Unique Return After LeBron Exit&nbsp;&nbsp;heavy.com",
           "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT2Nhb2xEVHVkaU9KV1A0bUJMa1gzWUZQRHFEZFU4LUJvcl8xblhTSTctWFVCMUswZ2I0b1ZRYzBObU9ldWE5cVhBTnBIREluZ2x4akZPLUhXdmkwNnFYZHRpcTFsYXprZXNfQlVUUFEwbl9mNTVVRFZvM3VVZUJSVEhBTDNVU0hHOUc0NUVBNzRBRExRQkdEdjNMNWhJMnpDTGtVc3BzZzV5bmxZcTI2dE1ZU1p1WFk?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTkp4YUt0WHR6QWpaRGExa2ZaSEd1Z2NELWx0ZWtXYkRTVks5ZnhBbm02SFdqdHI3OERxVktDbHJHOUJmU0pNemZ0STI3R2xnZmZvbDlQM0U3cXJDMzZVSllpNTQwY3NXUFJ4T2lVZ19xbXZ4UjZzR1NpN3Z2WFJXbEQzX25tU0JsNFhDbU1sSQ?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-07-06T03:30:00+00:00",
+          "published": "2026-07-06T12:04:24+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "9a3af0f764cb",
-          "title": "Mario Chalmers Predicts LeBron James' Retirement Timeline",
-          "original_title": "Mario Chalmers Predicts When Ex-Heat teammate LeBron James Will Retire - heavy.com",
-          "summary": "Former Miami Heat teammate Mario Chalmers speculated on when LeBron James might retire, offering his personal estimate based on James' age and career trajectory. The commentary was shared in a brief interview and does not reflect any official statement from James or the Lakers organization.",
-          "key_points": [
-            "Chalmers suggested a retirement window for LeBron, citing his longevity and recent performance.",
-            "The prediction is purely opinion\u2011based and not confirmed by James or his representatives.",
-            "No impact on the Lakers' current roster or future plans was indicated."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVUVkb2FrVEJiVzJpbldYNUtQdUdpOWJOVVQyTDZmZExiRklhejQxUmpaWlhrYVIwR1doY3doQ2l1dy1ZUlhvSWV1MkZ0dmg0OE5aYUhkVjE5YjV6TndpQ3pqY24wLXVPdFNRNDJYOTRTbFEzdV9BZU9xYTFBc2hFNjFRR1laTE0?oc=5",
+          "id": "eb7bb20f6ea9",
+          "title": "Warriors need to go all in on LeBron James, Anthony Davis \u2014 it\u2019s only way - New York Post",
+          "original_title": "Warriors need to go all in on LeBron James, Anthony Davis \u2014 it\u2019s only way - New York Post",
+          "summary": "Warriors need to go all in on LeBron James, Anthony Davis \u2014 it\u2019s only way&nbsp;&nbsp;New York Post",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNazlkNklqT05HOGF2Z1hxekYyWklocnpmMDd5RGtkSUstQjI2VE9GdDNyU1M1MHp5WTVXbzhTUGV2U0QtX3hxeU5Ecm5SS2VWaWNOc0pXTkxQWE5SVXg4eEkxMFVTTnFzXzdXLWVQZHVpRjl2LVFOT09XZ3NBMGdWeUJwUW9fU18yUFVZdXBQX2pzVFV5SHotUGRkMDkzUzZFYTVneHVtc1NLcWRZTEE?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-07-06T03:29:00+00:00",
+          "published": "2026-07-06T12:00:00+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "60545704e971",
-          "title": "Lakers Complete Two\u2011Way Roster with Final Signing",
-          "original_title": "Lakers announce final signing to complete two-way slots - BasketNews.com",
-          "summary": "Los Angeles announced the signing of a player to fill their last two\u2011way contract slot, finalizing the roster composition for the upcoming season. The move gives the team additional depth and flexibility for call\u2011ups between the NBA and G League.",
-          "key_points": [
-            "The new two\u2011way contract completes the Lakers' allotted two\u2011way spots.",
-            "The player will split time between the Lakers and their G League affiliate.",
-            "The signing adds depth without affecting the team's salary\u2011cap situation."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbTM2ekp2S2N0N0lMTlZpa0p6UE00dF8wbTI2Y3hZcldjbUtucWtuNVVqenJIa2R0VmFpUzNyRVZvRVZpajQyWUp4ekpkMW1vMmVuemZBV2Q1dTRYcGNrYk9vc0Y1RVJvdG94TDM1Z1ZBQnU3THItajE5U2FqdndjakxNLXZ1RkYxWWtfaEN5U2NLcWVmYU5YZHB1SQ?oc=5",
+          "id": "ac8c9483d477",
+          "title": "Nuggets\u2019 Sudden Decision Turns Up Heat on Rob Pelinka to Pair Luka Doncic With Ideal Two-Way Superstar - Yardbarker",
+          "original_title": "Nuggets\u2019 Sudden Decision Turns Up Heat on Rob Pelinka to Pair Luka Doncic With Ideal Two-Way Superstar - Yardbarker",
+          "summary": "Nuggets\u2019 Sudden Decision Turns Up Heat on Rob Pelinka to Pair Luka Doncic With Ideal Two-Way Superstar&nbsp;&nbsp;Yardbarker",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYkxta1JpSnA0dzg5WDFvYUxtc21xcF9odFJGQXBYRjZIYUVlSUpvVDUyc1V2eVlzZlhnak45S0NkbldnS0c2ZHlEZ0I1Z0p6RXJTR0dEanZ1T1VCRlU3bktDQWMwZjhDM3BxYUs2QlhiQ0FUSDIwYkpFRWVCUFVIQUhZV3FXZ0RRaTlhUThQcWUzWnFJUGtpdkFXenpsa1pvMGt0SGlvYUkxbHh2VEVfNGVPVnhPNUcxMWd4Qmh0MUxGRngwYnFkSFlOQkVQWnJHYnY2QlV5bUJPQjMzUXZSNmFWQlprN0VkYkxhZ0NuSEw?oc=5",
           "source": "Google News - Luka",
-          "published": "2026-07-06T02:20:47+00:00",
+          "published": "2026-07-06T11:56:35+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "768b245d4fae",
-          "title": "Warriors\u2019 Pursuit of LeBron James Fades; Next Options Explored",
-          "original_title": "Warriors\u2019 dream of landing LeBron James seems to be fading. What\u2019s their next move? - San Francisco Chronicle",
-          "summary": "The San Francisco Chronicle reports that the Golden State Warriors' chances of acquiring LeBron James have diminished, prompting the franchise to consider alternative strategies. The article outlines potential roster moves and free\u2011agent targets the Warriors might pursue instead.",
-          "key_points": [
-            "LeBron's likelihood of joining the Warriors is now considered low.",
-            "Golden State is evaluating other trade and free\u2011agency options to stay competitive.",
-            "No concrete deals have been announced; discussions remain speculative."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb0lvX1RMVEhVUTRCSmR3TXhIT0N1eWRnX3ZxVnQ5aElUM1k4Zng5aDh6V2hobXhvc0J0UktHRldTV1lxU1dFSWtUU3BaWU5XRmNrb1NXUllJSThlVTdhYTFEYU8zb0RsalRaSFZVanAyRWVwaFBZVHVDbUcxR2pmUXVRTk1yOElqeGF0SGh2RXg0VDRqMjdBeHRyV0Q4ZEpoRk53VlVXQ040ZW81Vmc?oc=5",
+          "id": "7937f7df27ae",
+          "title": "NBA insider claims Lakers framed LeBron James's exit to preserve his dignity - Yahoo Sports",
+          "original_title": "NBA insider claims Lakers framed LeBron James's exit to preserve his dignity - Yahoo Sports",
+          "summary": "NBA insider claims Lakers framed LeBron James's exit to preserve his dignity&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONlFMNEJnZ2FhSHhLTm9XVmVkZTdoaEtwX0ZvMWZQMnRrSUw1bHU5ejhKSjVYN0s3S0s3VVRud1g5UWUtYnRDQnFsamFYZndyMVV5Rm5sVS02c3BwZnE0ZkxSR0ZwVzJwNUJEV2xDQTZNWnNGbjdhcENPZ0VfYWNlb3FUZmhGcEh4?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-07-06T11:43:58+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "f6e91ba11729",
+          "title": "Cleveland received the LeBron James update they have been longing for - King James Gospel",
+          "original_title": "Cleveland received the LeBron James update they have been longing for - King James Gospel",
+          "summary": "Cleveland received the LeBron James update they have been longing for&nbsp;&nbsp;King James Gospel",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQckZiOWY5dWg3cVVTZTlxSzYtYTZOcGFENmJyQzBhQmtsM1ZWdDlFZ29zXzR0amVWaVdBRi1RY0JucEgtMklCcllPTWhiQXZXalBVN0dDbDdaczlFd2lmVmdTZTFXU2g4MTVEU3BPQlM4My0tLWN1VHpMOXJTdWdCMnBXVnBxNjhoS1RCN2s2OU1vUUNSZGxqeg?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-07-06T01:30:54+00:00",
+          "published": "2026-07-06T10:38:59+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "8949d357d9d5",
-          "title": "Insider Details LeBron\u2019s Relationship with Luka Doncic After Leaving Lakers",
-          "original_title": "Insider Reveals LeBron\u2019s Real Relationship With Luka Doncic After Leaving Lakers - heavy.com",
-          "summary": "A source revealed the nature of LeBron James' rapport with Dallas Mavericks star Luka Doncic following James' departure from Los Angeles. The insider described mutual respect and competitive admiration but noted no formal partnership or on\u2011court collaboration.",
-          "key_points": [
-            "LeBron and Luka share professional respect despite being on different teams.",
-            "The relationship is described as friendly but limited to off\u2011court interactions.",
-            "No impact on future trades or player movement between the Lakers and Mavericks was indicated."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeGd2cU00WlkwaFRfRVE5ZUdyc0gyalVmekwxTE5EZEN4NjQ4Zks1NWwyZ3A2YndDanB1eGtxTzlLX200THNjN0JWRG9kNmhELWRZRFVOdXZtaldfSHo0enJNcVRlOENzMWV2bGRMZjJEbWdjM0dZOTcwMFdxdjUtWndqNk9qeGE3c2FERmI2N2xlbnRpSlNLeHVn?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-07-06T01:01:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "4e6878810a54",
-          "title": "Lakers Consider Sign\u2011and\u2011Trade for Nikola Jokic",
-          "original_title": "Lakers Proposed to Land Nikola Jokic in Major Sign-and-Trade Deal for Key Star - heavy.com",
-          "summary": "Heavy.com reports that the Lakers have explored a major sign\u2011and\u2011trade scenario that would bring Denver Nuggets star Nikola Jokic to Los Angeles, involving a key Lakers player heading to Denver. The proposal remains speculative and has not been confirmed by either organization.",
-          "key_points": [
-            "The rumored deal would send a prominent Lakers player to Denver in exchange for Jokic.",
-            "Such a trade would be one of the largest in recent NBA history.",
-            "Both teams have not officially commented; the scenario remains unverified."
-          ],
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaS1IZE5wYkx5QlpZSk94VEloNWdORGx6UU9CSUNTMHZMU2RGYzFTQnB4RDVwT0NpYjZjY2Z2NWRxZ2dHeUprZFNXd3hmbWZ0SjRBWDhQMjBIUzdPVFYtRENtZDBqSHcwS0J5dVBoZ2VXT1BlampCME96eVB0NUVfLW83VmZvZ0ZUaFVB?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-07-05T23:32:23+00:00",
+          "id": "5d64f6872d66",
+          "title": "The one reason you can\u2019t completely rule out the Sixers for LeBron James - Inquirer.com",
+          "original_title": "The one reason you can\u2019t completely rule out the Sixers for LeBron James - Inquirer.com",
+          "summary": "The one reason you can\u2019t completely rule out the Sixers for LeBron James&nbsp;&nbsp;Inquirer.com",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWHVWV1NRR3Fpd3BHY05iR2lXWm9vQVVLQW4ydmhUQ2toQ0FTdnhMc3JsZy1OaUFodmdpbUVkUHIyTUtENXhGZTRqMnhBU3lHOS12bGg4OUFfQmp4NDhVcDNEVHIzcFNGcm9RS2JLZG94UVFuRnJVaXNLbkduZ2pZNF83Y3Q4WmQ5SUVLY1VMT2tXT3QzeEprVFQ2cjZHT0RQbmxXRTFZV1o0bkZXX3RLWnM1TQ?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-07-06T09:01:01+00:00",
           "topic": "Lakers Players"
         }
       ]
