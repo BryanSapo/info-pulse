@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T09:51:49.487363+00:00",
+  "generated_at": "2026-07-19T11:08:39.125303+00:00",
   "total_articles": 30,
   "topics": [
     {
@@ -121,6 +121,17 @@
       "name": "NBA League News",
       "articles": [
         {
+          "id": "45d76dae0e65",
+          "title": "YouTube Gold: Patrick Ewing vs Hakeem Olajuwon In The 1984 NCAA Championship Game",
+          "original_title": "YouTube Gold: Patrick Ewing vs Hakeem Olajuwon In The 1984 NCAA Championship Game",
+          "summary": "There were giants in those days",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/youtube-gold-patrick-ewing-vs-101800362.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-07-19T10:18:00+00:00",
+          "topic": "NBA League News"
+        },
+        {
           "id": "affa20f54e9c",
           "title": "Game Recap: Summer Suns fall to Spurs in finale, 86-81",
           "original_title": "Game Recap: Summer Suns fall to Spurs in finale, 86-81",
@@ -218,23 +229,23 @@
           "source": "Yahoo Sports NBA",
           "published": "2026-07-19T02:00:00+00:00",
           "topic": "NBA League News"
-        },
-        {
-          "id": "68b83e4963f7",
-          "title": "Recap: Wizards beat Hawks to finish 2026 summer league",
-          "original_title": "Recap: Wizards beat Hawks to finish 2026 summer league",
-          "summary": "With both teams sitting their top prospects, the Wizards skeleton summer league squad beat the Hawks skeleton summer league squad, 91-83. Both teams had just eight players available. Both teams hope at least a few of those eight will help populate their G League teams this season. Both teams finish their Las Vegas adventure with [\u2026]",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/recap-wizards-beat-hawks-finish-013722657.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-07-19T01:37:22+00:00",
-          "topic": "NBA League News"
         }
       ]
     },
     {
       "name": "Lakers Players",
       "articles": [
+        {
+          "id": "91a139a6ff1a",
+          "title": "Luka Doncic excited for new Lakers season: \"We have a really good team\" - Eurohoops",
+          "original_title": "Luka Doncic excited for new Lakers season: \"We have a really good team\" - Eurohoops",
+          "summary": "Luka Doncic excited for new Lakers season: \"We have a really good team\"&nbsp;&nbsp;Eurohoops",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNm8yY0E5enlTaExRNjByMkljdEJvaFhESF9TbGw0N25Gc3lnZWROWlZTY1dUVDN5d21Da1k0aVBfd3JCRlB1TTVPZVl2bmNNWC1VQ3oybG9LSlRFSHo4dEpmMFdMQkdFSWpqTE5HaUI5YTQzR1NxRHZQLXFsdkJlbDRmSlQ3a1JjQVlXd0piSTBjLVhIajI2ZW5VUHQyTVJ6Qk9PZG1XOTlNX2d2V3ZocWs2aEdYZw?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-07-19T10:38:00+00:00",
+          "topic": "Lakers Players"
+        },
         {
           "id": "ee7e715518db",
           "title": "Luka Doncic on Lakers: 'We have a really good team' - HoopsHype",
@@ -288,17 +299,6 @@
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VajFYUFBfZkRKMUdfd3ExYlNlN1JmbTVVcTNldjlUeDlCM21jdkJMd1BOWk5VTEpKUFdVVHdObjh5c2ZQTFZDcVU4c3BpczA4X3M5b3YzQk1oeVHSAWBBVV95cUxQYUFiMDEzejFMM1FzbFVsUG00UlFzZGR3OVZzbm56cG51bkFMWGpvUXhpYzU1RkxRVXBXQjZuZXJiaWlJemFZdHhhZHU2SVVVQzY4RFhnTm8taGdibU02QzA?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-07-19T03:26:04+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "922bf129b285",
-          "title": "\"You have to learn your teammates\" - LeBron James details how he adapts his leadership style - Basketball Network",
-          "original_title": "\"You have to learn your teammates\" - LeBron James details how he adapts his leadership style - Basketball Network",
-          "summary": "\"You have to learn your teammates\" - LeBron James details how he adapts his leadership style&nbsp;&nbsp;Basketball Network",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTlVZTzdabXRuN29sYnV6Q0d6bWJZYmg5emhFSEZ4QW9ORV9ROHlyLVZIbWQ3T0JKdlZZYTJ0ajR4NW5STHZQV3RTam0zRGVyd2dkdWFobERGVUs4Wi12d1Q4dExhTzJuN042MUFRZGtaekVzdHluZ3lRbkFURVVob0Z3TkpZM3JwczJ3N05fa2hsdFIwRk01c3BXeFl2ek5zN0lYWnBR?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-07-19T02:50:00+00:00",
           "topic": "Lakers Players"
         },
         {
