@@ -1,30 +1,107 @@
 {
-  "generated_at": "2026-07-22T17:19:55.826094+00:00",
+  "generated_at": "2026-07-22T19:20:14.426038+00:00",
   "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
+          "id": "511cbc1b0320",
+          "title": "Arthur Kaluma is the prototypical forward the Lakers are looking for",
+          "original_title": "Arthur Kaluma is the prototypical forward the Lakers are looking for",
+          "summary": "After an undefeated start to the Las Vegas Summer League, the Lakers&#8217; run ended in the semifinals at the hands of the Warriors. Though there will be no hardware this year, or even any NBA All-Summer League recognition, the results were an unquestionable success for the franchise. \u00a0 LA\u2019s most recent draft picks, Cameron Carr [&#8230;]",
+          "key_points": [],
+          "link": "https://www.silverscreenandroll.com/lakers-analysis/123250/arthur-kaluma-lakers-film-breakdown-summer-league-two-way",
+          "source": "Silver Screen and Roll",
+          "published": "2026-07-22T19:03:17+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "0cca42d63b55",
+          "title": "Kyle Kuzma: 2017 Lakers Were Best Summer League Team Of All Time",
+          "original_title": "Kyle Kuzma: 2017 Lakers Were Best Summer League Team Of All Time",
+          "summary": "The Los Angeles Lakers summer league team had a strong showing in Las Vegas this year. Led by Cameron Carr, Adou Thiero and Arthur Kaluma, the Lakers went undefeated in the first four games in Las Vegas, but would fall to the Golden State Warriors in the semifinals of the playoffs. While it was certainly [&#8230;]",
+          "key_points": [],
+          "link": "https://lakersnation.com/kyle-kuzma-2017-lakers-were-best-summer-league-team-of-all-time/",
+          "source": "Lakers Nation",
+          "published": "2026-07-22T18:45:41+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "118f31110744",
+          "title": "LeBron James free agency decision live updates: Where will he play? Rumors and latest news - The New York Times",
+          "original_title": "LeBron James free agency decision live updates: Where will he play? Rumors and latest news - The New York Times",
+          "summary": "LeBron James free agency decision live updates: Where will he play? Rumors and latest news&nbsp;&nbsp;The New York Times",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRl9rTGJ3NjRDbms4MjFxcjJXY1ZUN01iazlWXzJjaUZEUjhpMDljUVExWjhQVHpKQ25OTGd0Ymk0T2FBS0lrX3llWk5fS0hGYTZCWHd5TFRTcnFyQUtET2RkUUJSdTZqZGxDUldvNFY1RVJtZU9fSDBWREJqcFV5SDlOWko5Wk41WURkNEExQ3dOM3lOSE94RGxWcXE0bWNI?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-07-22T18:00:12+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "420a0ffbae0c",
+          "title": "Lakers Taking \u2018Real\u2019 Firm Stance on Bronny James Trade - Yahoo Sports",
+          "original_title": "Lakers Taking \u2018Real\u2019 Firm Stance on Bronny James Trade - Yahoo Sports",
+          "summary": "Lakers Taking \u2018Real\u2019 Firm Stance on Bronny James Trade&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUVRhX3hFeFk3MTVQeXU1R3Y5XzNvQ3VVaVdnNEZzN2kzWjVCOHc0cWlVZExUZG9EVXBtSTJIWmtTa0cyY3V5SFBaVUl0cEh1blpuVktXcjQyZG90U2xQZWoyZ2ZVbWVPa0k4R2F2ZkJEYUVjZnp4WFpidDJZTEhtOE1Hb0xJQQ?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-07-22T17:49:31+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "cb23d6f702c9",
+          "title": "Lakers Reportedly Keeping Close Eye on One Position Despite Busy Offseason - Sports Illustrated",
+          "original_title": "Lakers Reportedly Keeping Close Eye on One Position Despite Busy Offseason - Sports Illustrated",
+          "summary": "Lakers Reportedly Keeping Close Eye on One Position Despite Busy Offseason&nbsp;&nbsp;Sports Illustrated",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRVZvQWZfTjZiU3JBYjQxWDI2bFZwRXFZaFg0WDh6VzVnMjJIUUpUd0dfY0NzYzliWUdIYXRER1pBREVBemRGazdqck1HTS1vR2RSMWh0UXVDc2JRWmlRV3dZRXpDZjJQLXh5S1RsVE51ODIzQ3NEYV94TDFVZXJwY3ZYb3VKcEpRVXdoc0U3dFpqaWtnTGdwWXJwTmkxZ3VTTUhyNC0zY3hLOW8xcUE?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-07-22T17:46:37+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "67784e05802c",
+          "title": "Lakers Reportedly Had Interest In Lu Dort Before Trade To Hawks",
+          "original_title": "Lakers Reportedly Had Interest In Lu Dort Before Trade To Hawks",
+          "summary": "Improving defensively on the perimeter was an important priority for the Los Angeles Lakers this offseason. One player linked as a possibility for the team to acquire was wing Lu Dort, who was a First Team All-Defense selection in 2025 for the Oklahoma City Thunder, but was known to be available via trade as they [&#8230;]",
+          "key_points": [],
+          "link": "https://lakersnation.com/lakers-reportedly-had-interest-in-lu-dort-before-trade-to-hawks/",
+          "source": "Lakers Nation",
+          "published": "2026-07-22T17:30:44+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "f731a30b650b",
+          "title": "Teen paid $3 for Wilt Chamberlain Lakers jacket at thrift store. It sold for almost $90,000 at auction - Los Angeles Times",
+          "original_title": "Teen paid $3 for Wilt Chamberlain Lakers jacket at thrift store. It sold for almost $90,000 at auction - Los Angeles Times",
+          "summary": "Teen paid $3 for Wilt Chamberlain Lakers jacket at thrift store. It sold for almost $90,000 at auction&nbsp;&nbsp;Los Angeles Times",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPczJiNmcxZFh5NXpTSmJ3X25IMVBYbTVLSHdiNXY4TGF4c09tS3o1NC1INTJ5Njk0MGcxMWtWSjdYVzVSeE5sME0yZFZPX3JQdVozTXFOaW9ROXBJMW5WdmhJMlB4M2I0Q0tJQ2RlTy1OQ0c1bS1vWVQwVm5UUHZFQks2T0xIVE1BWTlqR2dGcTl3dXNSZFZ3ek92aEljbmdjOXBqOVN2bmp5bkc1NlZhUw?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-07-22T17:01:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "d3b0918d4519",
+          "title": "Lakers reportedly in bidding war with Bucks, Clippers, Cavs for $46M ex-Warriors NBA champion - Yahoo Sports",
+          "original_title": "Lakers reportedly in bidding war with Bucks, Clippers, Cavs for $46M ex-Warriors NBA champion - Yahoo Sports",
+          "summary": "Lakers reportedly in bidding war with Bucks, Clippers, Cavs for $46M ex-Warriors NBA champion&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdXZGZTlXQkxyaUpDeUNiWkJyemptU1JIQ2VXT3BXX1ZBYkl3ZFZjazV3RDU2c19QMDBONnF6U1lfVTBTeV9CeFR4UnFpYUZqck9YQjZkaFVnc1pwU1NsZGlzMXkzOV8tSDNWMHBFY2lYMEdhV2VWdEdvVUk5XzRWdnQ4aURwZkhDaU1KNg?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-07-22T16:54:08+00:00",
+          "topic": "Lakers News"
+        },
+        {
           "id": "d18cc9a3c15f",
           "title": "New Jonathan Kuminga Trade Rumors on Potential Hawks Reunion amid Lakers Links - Bleacher Report",
           "original_title": "New Jonathan Kuminga Trade Rumors on Potential Hawks Reunion amid Lakers Links - Bleacher Report",
-          "summary": "New Jonathan Kuminga Trade Rumors on Potential Hawks Reunion amid Lakers Links&nbsp;&nbsp;Bleacher ReportReport: Lakers\u2019 Jonathan Kuminga Pursuit Receives Major Update&nbsp;&nbsp;heavy.comLakers reportedly in bidding war with Bucks, Clippers, Cavs for $46M ex-Warriors NBA champion&nbsp;&nbsp;Yahoo Sports",
+          "summary": "New Jonathan Kuminga Trade Rumors on Potential Hawks Reunion amid Lakers Links&nbsp;&nbsp;Bleacher Report",
           "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWUlGNmxScll5SUNHc1doVHJTU3VrNmxzNzZ6TURWLWRBRGNjeE5wYmxtbW9xTWJZSVJRaENUb0RzOUplTDRMLWlkTElTb1hUN25LeWVqTWVSaE9RN0syQzBCamlaSzJSbHZtMTBvc2tZLUxONWVGcW9WTV94X0VaTVhQaXNmcm1HT2d4Rmp2YmtIQWFNTC1rWE1zczNvQU1WVDRBZERxc0ctZUdHYUVDUXpMRG01bEpUMGE1ZA?oc=5",
           "source": "Google News - Lakers",
           "published": "2026-07-22T16:14:49+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "ccd8b2666f78",
-          "title": "Los Angeles Lakers Sign Forward Arthur Kaluma To Two-Way Contract - Culver City Observer",
-          "original_title": "Los Angeles Lakers Sign Forward Arthur Kaluma To Two-Way Contract - Culver City Observer",
-          "summary": "Los Angeles Lakers Sign Forward Arthur Kaluma To Two-Way Contract&nbsp;&nbsp;Culver City Observer",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcXI3N2xqVWZFVFlnWVdXOFpsZWFRZnJISnhjTTIzZlBrT3lVWFk2dHY5a3hnU0doQnlKRzZGa0tYU3JHcUVVdXFtY1VJNldmWDBBcGtPU0FfYjhIX2JHSU15RjFZTHJndHdMbDczZ09ha2lZVVZ4SE1lTVZ4RGhuNlVXMTg0VTB3cDhSbGxyMkpOazhHYUpkenRZSjhpLUhMS2FrZTRCTjYwNUlLYng5RHRVdGNwYU9nRmdlcGJRcUVBM3pHQmUySkU3WTVvdXpr?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-07-22T15:33:21+00:00",
           "topic": "Lakers News"
         },
         {
@@ -37,89 +114,34 @@
           "source": "Lakers Nation",
           "published": "2026-07-22T15:20:15+00:00",
           "topic": "Lakers News"
-        },
-        {
-          "id": "d685fd0d393b",
-          "title": "Will Collin Sexton Find New Life With the Los Angeles Lakers? - theleadsm.com",
-          "original_title": "Will Collin Sexton Find New Life With the Los Angeles Lakers? - theleadsm.com",
-          "summary": "Will Collin Sexton Find New Life With the Los Angeles Lakers?&nbsp;&nbsp;theleadsm.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVGJDalcwbi1rQjhGMU9iTjJEWnNXM2lEZlo0ZDhWZGZDdDJZR2lKRlBnTWRReTJZYlNyX1M0LXIxSWMxM1ZBR3FyZFNvZHhYeGRRYzZhenhYZW5qd19xZDRReGRTM3NEMzZSNFRhSzA1M2RNSTQ0UVZiNmxScXBwUF96ZTdpSGlyWXI4?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-07-22T15:03:47+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "806ae64cb6d1",
-          "title": "Lakers Taking \u2018Real\u2019 Firm Stance on Bronny James Trade - heavy.com",
-          "original_title": "Lakers Taking \u2018Real\u2019 Firm Stance on Bronny James Trade - heavy.com",
-          "summary": "Lakers Taking \u2018Real\u2019 Firm Stance on Bronny James Trade&nbsp;&nbsp;heavy.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSUwtV0M3dWFCQ1dFS1h4c2wtNWNDd25UdjQ0d0FlVGdkeDV6bjg0a3hjSE96ZUxFcFl2VkxZdm9EcC1hWlZfNUNSdE91akItTGpYT1V2RHJKcno4dXhGOXZxM09GcXhPV2VzdFBQM0RtdkpOSjVQMWN1M0ZBWjN0UTZNWQ?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-07-22T14:49:31+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "1ef83d754a84",
-          "title": "Collin Sexton Wants To Emulate Marcus Smart & Avery Bradley For Lakers",
-          "original_title": "Collin Sexton Wants To Emulate Marcus Smart & Avery Bradley For Lakers",
-          "summary": "The Los Angeles Lakers signed veteran guard Collin Sexton on a two-year contract worth around $19 million in free agency. They signed him using the room mid-level exception, meaning he was their final major addition in the flurry of signings that came on July 1. Sexton figures to be the backup point guard to both [&#8230;]",
-          "key_points": [],
-          "link": "https://lakersnation.com/collin-sexton-wants-to-emulate-marcus-smart-avery-bradley-for-lakers/",
-          "source": "Lakers Nation",
-          "published": "2026-07-22T14:10:18+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "9a50fc16d8ec",
-          "title": "Ranking Los Angeles Lakers' Best Offseason Moves So Far - Yahoo Sports",
-          "original_title": "Ranking Los Angeles Lakers' Best Offseason Moves So Far - Yahoo Sports",
-          "summary": "Ranking Los Angeles Lakers' Best Offseason Moves So Far&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcEtIRG9sNjVRZFotcEp0Rk1sbkJKOE5WMjNUUFpvM3Iyc2NKc3hrNk5CY3k1RWtMYl8zdUtoTWpuRlFtTkhlci1xMG00R3hUZnFEVWd6bkZsN2plTmU0MjlWSFMtZUtsU0piUzFRLURBRElPLWZGbXlwamZ2U0N0MXBuN0J6b0E?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-07-22T13:15:04+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "e30c11b4997f",
-          "title": "Lakers Rumors: Matisse Thybulle Spoke With JJ Redick & Luka Doncic Before Signing",
-          "original_title": "Lakers Rumors: Matisse Thybulle Spoke With JJ Redick & Luka Doncic Before Signing",
-          "summary": "The Los Angeles Lakers recently made another addition to their roster, agreeing to sign veteran defensive wing Matisse Thybulle to a one-year contract. The Lakers have made a lot of changes this offseason, and one thing that is for sure is superstar Luka Doncic is on board with it as he has been very involved [&#8230;]",
-          "key_points": [],
-          "link": "https://lakersnation.com/lakers-rumors-matisse-thybulle-spoke-with-jj-redick-luka-doncic-before-signing/",
-          "source": "Lakers Nation",
-          "published": "2026-07-22T13:00:10+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "f8b04dca7fb7",
-          "title": "Lakers predicted to part ways with $18M rejected former first-rounder to clear roster spot - sportingnews.com",
-          "original_title": "Lakers predicted to part ways with $18M rejected former first-rounder to clear roster spot - sportingnews.com",
-          "summary": "Lakers predicted to part ways with $18M rejected former first-rounder to clear roster spot&nbsp;&nbsp;sportingnews.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPYzdTbFpuMHBDeW9RcURjYkltSldnanlUZ0MzNjZYOHJUV2JDM3VzWUtLa3FIblhNU2lZNFNqVlpLaFhxbnJGeGpEVk1aa1pFQzk1ZEY0RDYzcWNNZW1FSjJxeDQybDV4Y0FVR2ViMnRtU3dFOGdmXzlIa3pVY2ZRWnY3LWJSQTQwTG95TXhNd2R2ZVJOdVN5ekc2YTBWMmdLV2VxUEtyRnN5Nmc3eUI0VjZETkd1Yk1vZWUyYmNKT1BfZ2UzVEVURXBpSGJibWp0V2NpYVhUeTVTYWtmT2FUcjVxaW01OU1OYjh2ZmtoWXNiQ19fc1E?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-07-22T12:35:50+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "9f44f73f51ac",
-          "title": "Commentary: LeBron James is taking his time team-hunting, but why are the Warriors an option? - Los Angeles Times",
-          "original_title": "Commentary: LeBron James is taking his time team-hunting, but why are the Warriors an option? - Los Angeles Times",
-          "summary": "Commentary: LeBron James is taking his time team-hunting, but why are the Warriors an option?&nbsp;&nbsp;Los Angeles Times",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOHE5NTdhYVdncDI4NENxYVd4RVZqS3pSaWZjVGtELTlBdVZ3dW43UnA2SnlidE8zY2xkd0pZcW9hbUZnQVJOMHBJV1FYd2VhQXRvRUZIOVNESmx2WEh0N1dHcVRLSTQ4VnRmblh1TFhQOEZ1MmlGcVNCSUhqaFFSM2JzSjh0SnljRi1NMmRaSHNVdjV6Z3Y2Vm96OGxjUkJiUGJlR1RRZTd5X1hST25SM2tBaW1LRzlseVF5eHZidw?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-07-22T11:00:00+00:00",
-          "topic": "Lakers News"
         }
       ]
     },
     {
       "name": "NBA League News",
       "articles": [
+        {
+          "id": "1daff7b37584",
+          "title": "Former Louisville star Montrezl Harrell pulls double duty in Big3, TBT as ex-Cardinals face Kentucky alumni",
+          "original_title": "Former Louisville star Montrezl Harrell pulls double duty in Big3, TBT as ex-Cardinals face Kentucky alumni",
+          "summary": "Harrell led The Ville against a team of ex-UK players in The Basketball Tournament before setting the Big3 single-game scoring record",
+          "key_points": [],
+          "link": "https://www.cbssports.com/college-basketball/news/montrezl-harrell-louisville-kentucky-tbt-big3-chicago-triplets-ville-la-familia/",
+          "source": "CBS Sports NBA",
+          "published": "2026-07-22T18:42:46+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "5e86f1f05b56",
+          "title": "Teen paid $3 for Wilt Chamberlain Lakers jacket at thrift store. It sold for almost $90,000 at auction",
+          "original_title": "Teen paid $3 for Wilt Chamberlain Lakers jacket at thrift store. It sold for almost $90,000 at auction",
+          "summary": "A Portland teenager paid $3.07 at Goodwill for a Wilt Chamberlain Lakers warmup jacket that sold for nearly $90,000 at auction. It is believed the NBA legend wore the garment during the 1972 Finals.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/teen-paid-3-wilt-chamberlain-170100500.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-07-22T17:01:00+00:00",
+          "topic": "NBA League News"
+        },
         {
           "id": "a7e31d3062a4",
           "title": "Victor Wembanyama explains decision to take less money from Spurs in $252 million extension",
@@ -129,6 +151,17 @@
           "link": "https://sports.yahoo.com/nba/article/victor-wembanyama-explains-decision-to-take-less-money-from-spurs-in-252-million-extension-164046566.html",
           "source": "Yahoo Sports NBA",
           "published": "2026-07-22T16:40:46+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "91a9b26e6cc2",
+          "title": "Celtics Reacts Survey: who could win Most Improved Player next season?",
+          "original_title": "Celtics Reacts Survey: who could win Most Improved Player next season?",
+          "summary": "The wings are the thing.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/celtics-reacts-survey-could-win-161743805.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-07-22T16:17:43+00:00",
           "topic": "NBA League News"
         },
         {
@@ -196,45 +229,67 @@
           "source": "CBS Sports NBA",
           "published": "2026-07-22T15:28:28+00:00",
           "topic": "NBA League News"
-        },
-        {
-          "id": "e50a88e17b4d",
-          "title": "Kalshi Takes Nearly $200M in Trades on LeBron's Next Team",
-          "original_title": "Kalshi Takes Nearly $200M in Trades on LeBron's Next Team",
-          "summary": "The Miami Heat have surged to the top of the market after the team's apparent YouTube mishap, while the Cleveland Cavaliers have fallen sharply.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/kalshi-takes-nearly-200m-trades-151600621.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-07-22T15:16:00+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "cedb2520c261",
-          "title": "Victor Wembanyama, Derrick Rose revealed as NBA 2K27 cover athletes",
-          "original_title": "Victor Wembanyama, Derrick Rose revealed as NBA 2K27 cover athletes",
-          "summary": "Victor Wembanyama, Caitlin Clark and Derrick Rose have been revealed as the &quot;NBA 2K27&quot; cover athletes.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/victor-wembanyama-derrick-rose-revealed-145003726.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-07-22T14:50:03+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "0a272fbe71f2",
-          "title": "Miami Heat say leaked link to LeBron James introductory press conference just a mistake",
-          "original_title": "Miami Heat say leaked link to LeBron James introductory press conference just a mistake",
-          "summary": "The Heat say their social media team was just preparing for the possibility LeBron chooses them. So we keep waiting.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/miami-heat-leaked-lebron-james-143959845.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-07-22T14:39:59+00:00",
-          "topic": "NBA League News"
         }
       ]
     },
     {
       "name": "Lakers Players",
       "articles": [
+        {
+          "id": "ce293b1de1cd",
+          "title": "Where is LeBron James playing next year? LeBron James next team odds - Delawareonline.com",
+          "original_title": "Where is LeBron James playing next year? LeBron James next team odds - Delawareonline.com",
+          "summary": "Where is LeBron James playing next year? LeBron James next team odds&nbsp;&nbsp;Delawareonline.com",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPSVNxaFNXMDl4eWtvZDRuY1JVX1RZbmltRjlUb1N6bWp0Q0NGREFTaVlKTVUwWEMwX1VtcGVrTVp5RlBMY254SXI0WXhqN3AxTHk3MFA5R2tyWENLZDdRTFZtOTJRVVUxalRLM0lrRWt6OXVsaWtiUUIwYnFmX2JhdldmUlhHRW9iMVVhNjFkd2FGSDRrY2dUSmdicmpFLS1ObHd4aE9EZnZtcTRZUTZyMGxndTBKSlBtbERkNks1TlV0eEF1NHRuLTM0LTVJLW1QLWZ3MFpJd0ZkY1lFaG9pOHFyVWxfcHZKTy1EUzIzUmtESEVIX3Q3Tms2QWJQTmVvcVFsM09JRQ?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-07-22T19:02:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "116eb1f56ad1",
+          "title": "As another LeBron decision looms, Heat says news conference video was mistake - The Washington Post",
+          "original_title": "As another LeBron decision looms, Heat says news conference video was mistake - The Washington Post",
+          "summary": "As another LeBron decision looms, Heat says news conference video was mistake&nbsp;&nbsp;The Washington Post",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeXl1LWhDc1ByUThadU42d193cnBPV2YtX1dKVjZialF1MHN2cTRTYmRWdFNZaF9ZSlVXTnFrSVNOR0RWY1dycElRRVBjdUtoYjRjVWdBOUZBdmd3dzF1UTlEa001cDV6YTUxc29TX2h6c2o5U1NZRTNZSjRGZ0tSUHVJV3YwWlFtUkVqTjdPeEtkT0xHQXlJa0VFV1R3MFh0UlZsUm1ZNmo1Vkx5ODJwT0tVajZpdw?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-07-22T18:36:26+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "67a6165707e5",
+          "title": "LeBron James Offered Golf Perks by Cleveland, Philadelphia Companies Amid Cavs, 76ers FA Rumors - Bleacher Report",
+          "original_title": "LeBron James Offered Golf Perks by Cleveland, Philadelphia Companies Amid Cavs, 76ers FA Rumors - Bleacher Report",
+          "summary": "LeBron James Offered Golf Perks by Cleveland, Philadelphia Companies Amid Cavs, 76ers FA Rumors&nbsp;&nbsp;Bleacher Report",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSDlzUndxOGtiOTBqc0QtREZ4SkVja1lXZnZucndxb2htNm04QlBFNExIU2VNWmttYTZHU25jYWZnUC1SdElVSm1RdEJLQzA3cHE1SGYzMXhDV3REX0JXTlRoc1c4WEw0d0xFWlNqdlk3RFNoaWFSYkpucklneUdocE9JT3AyZWJhR1pPS1dlUHJiRkQ4RTBEQXZiQXQtQWZ3bzlsLXRMeGF6OWloRElpeWZraWRQODlYQjBId3dYc01OVzVRWHMzQnRzZFU5Z0dm?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-07-22T18:25:46+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "92dae21f2091",
+          "title": "Latest LeBron James free agency news, rumors, updates on 'Decision' - USA Today",
+          "original_title": "Latest LeBron James free agency news, rumors, updates on 'Decision' - USA Today",
+          "summary": "Latest LeBron James free agency news, rumors, updates on 'Decision'&nbsp;&nbsp;USA Today",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOam1tSXBfTWdSZWE5M1FDbHRHc3hST3d3TlkwelNtR3ptdVAxdkpqaXhKTmp4ejdxQ0xFWE9CVmxiNHhOZndrS2dhOFliVGF6TU0wTWJualkyeHBZeHlTU3JqWGY4UGZ4YUtiMWlfWDhtZ2Frd2M5dS13eG5iTkRBaDFUdXVLeXJXQmt0MC1KS3dFMEt4amtnU014YjRac1c2YnVKMFd3Wlo5aDNnbm1hd092eDdrZXJseUpPRXdHUTFTdEU?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-07-22T18:18:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "adbc84a1ceac",
+          "title": "LeBron James watch has teams jumping the gun - Cleveland 19 News",
+          "original_title": "LeBron James watch has teams jumping the gun - Cleveland 19 News",
+          "summary": "LeBron James watch has teams jumping the gun&nbsp;&nbsp;Cleveland 19 News",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYXpiMVJycG90NUlveUlVM0lveFk1OXFMMi1CNHRocmxMYThRa1hiVFhrQlNYVy1oUklrWXZibGhmOUR3OEk2ZXR6WGQtTEV4Rm82YXFpWUh3QXdsWXZ5VjZJWlczc3I2WGo5RFAzR1ZxczBvN1JLVm1SMVJ6cXZ3SWZIOWZTTDDSAZsBQVVfeXFMUG1feTIyUVZVNmxndnNwU0VKZHIwQkpJT3c0MW9aNDVxWHQ4ZW5lVTRwOTQ2aS1pYTd0SmFwWDFxQ21zSHVhWnpXS0lFaUV1SFU5V1dPQTBEaGtsS0xhRWV3MDFQa0VuOHJRNS1fUlZzME1CemVncDhLY3ByQnVLZ2p5WWdDN1RqUE1vZ0IwMHhKUlRpalNSRnhQR28?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-07-22T17:45:00+00:00",
+          "topic": "Lakers Players"
+        },
         {
           "id": "2261f70c321f",
           "title": "Luka Doncic on what he learned most from playing with LeBron James - LeBron Wire",
@@ -244,17 +299,6 @@
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVGUtZTZaLXhacW1laG4xelBYZEp1b1pUWDNMOEEtOWdxODlPN2pwd2kwVlFQQjlMUnlqeEdHN0ZpU0xCN0dYZmF5dkY5MUpTSE9IOFM3RVJJY1lEWnVYb1NzUHVBZUdlR1ZpTjBOVk9aN3BtUTR6M0xFOEoxQWVodUt0Q1pWU0E1UjRycWlGWEhJZTBTbHFGNG44LXFodHBjR29CajltVm9Ob2Z0LXhPcDcybks1X1RvN3l2d0dsZmc4aFNfQy1JRVdDLWw2LUtkeEJWV21n?oc=5",
           "source": "Google News - Luka",
           "published": "2026-07-22T16:01:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "ce293b1de1cd",
-          "title": "Where is LeBron James playing next year? LeBron James next team odds - Delawareonline.com",
-          "original_title": "Where is LeBron James playing next year? LeBron James next team odds - Delawareonline.com",
-          "summary": "Where is LeBron James playing next year? LeBron James next team odds&nbsp;&nbsp;Delawareonline.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPSVNxaFNXMDl4eWtvZDRuY1JVX1RZbmltRjlUb1N6bWp0Q0NGREFTaVlKTVUwWEMwX1VtcGVrTVp5RlBMY254SXI0WXhqN3AxTHk3MFA5R2tyWENLZDdRTFZtOTJRVVUxalRLM0lrRWt6OXVsaWtiUUIwYnFmX2JhdldmUlhHRW9iMVVhNjFkd2FGSDRrY2dUSmdicmpFLS1ObHd4aE9EZnZtcTRZUTZyMGxndTBKSlBtbERkNks1TlV0eEF1NHRuLTM0LTVJLW1QLWZ3MFpJd0ZkY1lFaG9pOHFyVWxfcHZKTy1EUzIzUmtESEVIX3Q3Tms2QWJQTmVvcVFsM09JRQ?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-07-22T16:00:00+00:00",
           "topic": "Lakers Players"
         },
         {
@@ -299,50 +343,6 @@
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZFFrMkVhZGI1NnhST3NReE9Ca2twdkNMT2ZTUkttaEh4YjdiMGxoQW5YRnVwbDZINW5HZEpxNzhkajVvLWUzUGp6QjV3YjIteFdqUGZKRG9WM2RDTE92end3TWdSMkYzMG93aHpULVJoME91N21aeWY1OThWNFhLLVNUNjMxazQ?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-07-22T15:18:58+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "4bdb2d66178d",
-          "title": "Luka Doncic reportedly was 100% of the reason for the Lakers' $130M trade - Yahoo Sports",
-          "original_title": "Luka Doncic reportedly was 100% of the reason for the Lakers' $130M trade - Yahoo Sports",
-          "summary": "Luka Doncic reportedly was 100% of the reason for the Lakers' $130M trade&nbsp;&nbsp;Yahoo SportsLakers Proposed to Land PJ Washington Next to Luka Doncic in 3-Team Trade&nbsp;&nbsp;heavy.comLakers latest move suggests their plan for Bronny James is already decided&nbsp;&nbsp;Lake Show Life",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVFRjazUyRThOVllfdHpJdDJraWZaVVFYNTNYNjZZWm5CQUxqUUFCSGo2UWJMRXY0UTdsZ0VzbXluaS1DUEp2bkpveF9MLTJUUEhaeG9sXzBEUWwzV0hnU1NaNmtjcjRFUkxWOTJJY01rM3ZSMWpHdjlNclhYU3RYekpsSkJoY3JlcXc?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-07-22T15:15:02+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "a7b526e38371",
-          "title": "Luka Doncic reportedly was 100% of the reason for the Lakers' $130M trade - Yahoo Sports Canada",
-          "original_title": "Luka Doncic reportedly was 100% of the reason for the Lakers' $130M trade - Yahoo Sports Canada",
-          "summary": "Luka Doncic reportedly was 100% of the reason for the Lakers' $130M trade&nbsp;&nbsp;Yahoo Sports Canada",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNXJzSmRKZHZpTGVmUG96a0lGWS04a3g5UEdhcHZzdWxEOElIdTIxVHhvNTBMQ1I3X3dVVU5uQkxudWw3NnJjaDQwSWF2TDlMUzdSenVpRm1lSldWVlVwcnZvazhsdDNvRmNwZ2ZfbUNVX0NpeEJWUlZSSE5QUDNwbEFuc2xpTU5t?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-07-22T15:15:02+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "069dc1795b98",
-          "title": "Miami Heat explain leak of a LeBron James press conference - The Palm Beach Post",
-          "original_title": "Miami Heat explain leak of a LeBron James press conference - The Palm Beach Post",
-          "summary": "Miami Heat explain leak of a LeBron James press conference&nbsp;&nbsp;The Palm Beach Post",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMGVWMlBsU1RqVGcxNnpadjU3Snp0WXR6WUxXSHIyYnlXYkVQVTV1UWpHQVhpdHhySkF0Ry1lcGhwOUl3YUw2dzFFRGo5Z2wyQzhTRkFyQWhrdXBCelN3TlFXZ2hGWG5XbUxXYzFZX2xQMTk1U2QybWdCY1dXVDRRaXVrNVhmYTBvSFNwS0drdzJhdGJNNm5rcmRUa04tU3N3czdTWTgzQjY2OEdsMWlvcUVzcVZuMkh3WmI2U05vVQ?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-07-22T14:41:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "76bfb6973d40",
-          "title": "2 Moves Koby Altman Needs To Make To Entice LeBron James Back to the Cavaliers - Sports Illustrated",
-          "original_title": "2 Moves Koby Altman Needs To Make To Entice LeBron James Back to the Cavaliers - Sports Illustrated",
-          "summary": "2 Moves Koby Altman Needs To Make To Entice LeBron James Back to the Cavaliers&nbsp;&nbsp;Sports Illustrated",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc0RRSHhvd3p4YjZZeVprM3ptdjdZTDlJRjlheGtvQXZEbEZaRjZmTnZLMGJ1VGtlbVhEbi1qZ2Vadk5OWFNPNEFaYTQ5WElFcnA5LU1aS1ExNFc1SXJmRHRlWWkxUXoyTWZmVUwyTmRydzhQcnRXU2gyVXI5bkRXSlZWRmdNMkMxNzBrY1ZFZUJldEpHekhzeUlpNkpZRHdjQl9HRjR0dkw2TVA4RmxRQ0lWc0NzTWJlTmFPOTJCS2Q4ZnB5YXF6RA?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-07-22T14:30:00+00:00",
           "topic": "Lakers Players"
         }
       ]
