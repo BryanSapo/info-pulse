@@ -1,10 +1,21 @@
 {
-  "generated_at": "2026-08-05T19:34:46.245701+00:00",
+  "generated_at": "2026-08-05T21:09:01.261304+00:00",
   "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
+        {
+          "id": "22e893c6839a",
+          "title": "Lakers owner promises a championship return to Los Angeles - basketnews.com",
+          "original_title": "Lakers owner promises a championship return to Los Angeles - basketnews.com",
+          "summary": "Lakers owner promises a championship return to Los Angeles&nbsp;&nbsp;basketnews.com",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSzllSjhRMUNJei1tN1NGSDRCMGpsM0NnQkh5Y1V1V205WFhZZ0ptcm9UTnlJdzlobTVqZkZ2T1JaejI1RTRmNDkwQXYtd3Q3ejlrV2Fhekh0WEp2OWlQVGdxMEZBNjhrc0plWFgxTlFvUG9weFAzRlpCVVNsYzR1cDhRYjZOUDdnWWUyNlRwNTRUTTVTUUpwRVJFdDdDVUk?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-08-05T20:42:00+00:00",
+          "topic": "Lakers News"
+        },
         {
           "id": "172a51b3f51e",
           "title": "Rui Hachimura Explains Decision To Leave Lakers For Clippers",
@@ -25,17 +36,6 @@
           "link": "https://www.silverscreenandroll.com/los-angeles-sparks-wnba/124250/player-grades-sparks-box-score-stats-dearica-hamby-nneka-ogwumike-cameron-brink",
           "source": "Silver Screen and Roll",
           "published": "2026-08-05T19:28:26+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "a47c0a21ff99",
-          "title": "Lakers heavily linked with former Luka Doncic teammate from Dallas - BasketNews.com",
-          "original_title": "Lakers heavily linked with former Luka Doncic teammate from Dallas - BasketNews.com",
-          "summary": "Lakers heavily linked with former Luka Doncic teammate from Dallas&nbsp;&nbsp;BasketNews.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdXJYT2JXYnB6aHFPMmZ2V2RfRnFKVXBiOXNiYVdkb1dkVF9IaF9ORmNlaDVndm1IRGRJUlRvdExNTXMyWU9TaFJockFBbFh4V2FmSE9Vel9pU05VZld5bUFPeDZuaFo5R3RGSkljdjAwUUNodGNkaFdsVThWWjNwZFU5encyejVKV194ZnJfYnhvNWRWQlFReVVCOHFjWW9ucTBpM2lHbmZpZw?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-08-05T19:04:00+00:00",
           "topic": "Lakers News"
         },
         {
@@ -121,6 +121,39 @@
       "name": "NBA League News",
       "articles": [
         {
+          "id": "bc79685a3e32",
+          "title": "The Detroit Pistons\u2019 G-League team had public tryouts for $250",
+          "original_title": "The Detroit Pistons\u2019 G-League team had public tryouts for $250",
+          "summary": "      &#32; submitted by &#32;  /u/MrBuckBuck   [link] &#32; [comments] ",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/nba/comments/1vgjba8/the_detroit_pistons_gleague_team_had_public/",
+          "source": "Reddit r/nba",
+          "published": "2026-08-05T20:39:07+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "19ee40eb26e5",
+          "title": "NBPA opens new state-of-the-art facility in Los Angeles: 'We literally do not have to go anywhere else'",
+          "original_title": "NBPA opens new state-of-the-art facility in Los Angeles: 'We literally do not have to go anywhere else'",
+          "summary": "The training facility in Playa Vista features two full-sized courts, a premium weight room, on-site culinary options and more",
+          "key_points": [],
+          "link": "https://www.cbssports.com/nba/news/nbpa-opens-new-state-of-the-art-facility-in-los-angeles/",
+          "source": "CBS Sports NBA",
+          "published": "2026-08-05T20:15:04+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "eccb63dad86d",
+          "title": "[Wright Gazaway] Internal emails reveal Blazers debated responding to Portland's Moda Center questions",
+          "original_title": "[Wright Gazaway] Internal emails reveal Blazers debated responding to Portland's Moda Center questions",
+          "summary": "\u201cInternal emails obtained by KATU show Portland Trail Blazers leaders debated whether to respond to the City of Portland's questions for commitments on private investment, rent, labor agreements and other key pieces of a proposed Moda Center deal, with one executive saying the city's requests felt like &quot;a trap.&quot; \u2026 Blazers lawyer Zandira Conyers stating \u201c[W]e are not looking for a legal response but more so positioning, anticipating that our responses will be public. Which brings me to ",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/nba/comments/1vgi3se/wright_gazaway_internal_emails_reveal_blazers/",
+          "source": "Reddit r/nba",
+          "published": "2026-08-05T19:55:46+00:00",
+          "topic": "NBA League News"
+        },
+        {
           "id": "f364c89136b3",
           "title": "Vegas projections signal new NBA landscape + way too early over/under picks",
           "original_title": "Vegas projections signal new NBA landscape + way too early over/under picks",
@@ -129,6 +162,28 @@
           "link": "https://sports.yahoo.com/nba/article/vegas-projections-signal-new-nba-landscape--way-too-early-overunder-picks-192549778.html",
           "source": "Yahoo Sports NBA",
           "published": "2026-08-05T19:25:49+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "2c8808863b2d",
+          "title": "In 2017, Andrew Bogut played a total of 58 seconds for the Cleveland Cavaliers before fracturing his left tibia. He was waived shortly after",
+          "original_title": "In 2017, Andrew Bogut played a total of 58 seconds for the Cleveland Cavaliers before fracturing his left tibia. He was waived shortly after",
+          "summary": "      &#32; submitted by &#32;  /u/RobBuckets   [link] &#32; [comments] ",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/nba/comments/1vggjxr/in_2017_andrew_bogut_played_a_total_of_58_seconds/",
+          "source": "Reddit r/nba",
+          "published": "2026-08-05T19:00:30+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "9bf0fe78434d",
+          "title": "Andrew Bynum shoots an open three point shot in 2012, gets immediately benched by Mike Brown",
+          "original_title": "Andrew Bynum shoots an open three point shot in 2012, gets immediately benched by Mike Brown",
+          "summary": "      &#32; submitted by &#32;  /u/RyanTannegod   [link] &#32; [comments] ",
+          "key_points": [],
+          "link": "https://www.reddit.com/r/nba/comments/1vgfsfc/andrew_bynum_shoots_an_open_three_point_shot_in/",
+          "source": "Reddit r/nba",
+          "published": "2026-08-05T18:33:17+00:00",
           "topic": "NBA League News"
         },
         {
@@ -143,91 +198,36 @@
           "topic": "NBA League News"
         },
         {
-          "id": "32cdee5cd664",
-          "title": "P&T pop quiz: Hypothesizing if the Knicks had lost the Finals",
-          "original_title": "P&T pop quiz: Hypothesizing if the Knicks had lost the Finals",
-          "summary": "Get your #2 pencils ready",
+          "id": "ed5218227cbd",
+          "title": "The Raptors add an NCAA champion in latest signing",
+          "original_title": "The Raptors add an NCAA champion in latest signing",
+          "summary": "Andre Jackson Jr. throws his hat in the Raptors\u2019 ring",
           "key_points": [],
-          "link": "https://sports.yahoo.com/articles/p-t-pop-quiz-hypothesizing-163536976.html",
+          "link": "https://sports.yahoo.com/articles/raptors-add-ncaa-champion-latest-174852115.html",
           "source": "Yahoo Sports NBA",
-          "published": "2026-08-05T16:35:36+00:00",
+          "published": "2026-08-05T17:48:52+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "7e82f97b9417",
-          "title": "NBPA looks to future, starting with new training facility in Los Angeles",
-          "original_title": "NBPA looks to future, starting with new training facility in Los Angeles",
-          "summary": "Part of that future has the union's eyes focused on the next CBA negotiations.",
+          "id": "8262071ed5dd",
+          "title": "Nick Nurse confirms plan to have LeBron play point guard on offense: \"He is an offense creator. He is a guy that will bring the ball up the floor and create for himself and others. He is really good for others....Tyrese better be ready to catch and shoot those deep 3s.\"",
+          "original_title": "Nick Nurse confirms plan to have LeBron play point guard on offense: \"He is an offense creator. He is a guy that will bring the ball up the floor and create for himself and others. He is really good for others....Tyrese better be ready to catch and shoot those deep 3s.\"",
+          "summary": "      &#32; submitted by &#32;  /u/Pyromania1983   [link] &#32; [comments] ",
           "key_points": [],
-          "link": "https://sports.yahoo.com/articles/nbpa-looks-future-starting-training-161942606.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-08-05T16:19:42+00:00",
+          "link": "https://www.reddit.com/r/nba/comments/1vgdiwt/nick_nurse_confirms_plan_to_have_lebron_play/",
+          "source": "Reddit r/nba",
+          "published": "2026-08-05T17:13:04+00:00",
           "topic": "NBA League News"
         },
         {
-          "id": "4e699f428496",
-          "title": "Jim Lynam: Plenty of challenges ahead for Lebron-led Sixers",
-          "original_title": "Jim Lynam: Plenty of challenges ahead for Lebron-led Sixers",
-          "summary": "Jim Lynam has seen it all. While there\u2019s plenty of reason to be excited, the former coach and executive also knows the team needs to figure things out.",
+          "id": "c347e1d5ed44",
+          "title": "Paul George is having fun in the off-season",
+          "original_title": "Paul George is having fun in the off-season",
+          "summary": "      &#32; submitted by &#32;  /u/MrBuckBuck   [link] &#32; [comments] ",
           "key_points": [],
-          "link": "https://sports.yahoo.com/articles/jim-lynam-plenty-challenges-ahead-160000288.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-08-05T16:00:00+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "66dd18baef7c",
-          "title": "Detroit Pistons: A failed offseason by design",
-          "original_title": "Detroit Pistons: A failed offseason by design",
-          "summary": "In a loaded East, better might not be good enough for a Pistons team still waiting to take their big swing",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/detroit-pistons-failed-offseason-design-154039848.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-08-05T15:40:39+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "8276cfb62c59",
-          "title": "Kevin Durant fires Klay Thompson stray amid ridiculous Warriors-76ers comparison",
-          "original_title": "Kevin Durant fires Klay Thompson stray amid ridiculous Warriors-76ers comparison",
-          "summary": "Durant continues to believe that scoring means more than anything else on a basketball court",
-          "key_points": [],
-          "link": "https://www.cbssports.com/nba/news/kevin-durant-klay-thompson-stray-warriors-76ers-comparison/",
-          "source": "CBS Sports NBA",
-          "published": "2026-08-05T15:27:34+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "d33653765035",
-          "title": "JJ Redick will have a new challenge with the Lakers this season",
-          "original_title": "JJ Redick will have a new challenge with the Lakers this season",
-          "summary": "The Lakers have built a team in JJ Redick\u2019s vision. Now it\u2019s time for him to prove himself right.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/jj-redick-challenge-lakers-season-152400265.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-08-05T15:24:00+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "4edf1e5f472e",
-          "title": "What are the top 5 East teams this year? (Staff Roundtable)",
-          "original_title": "What are the top 5 East teams this year? (Staff Roundtable)",
-          "summary": "The staff power ranks the Eastern Conference contenders",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/top-5-east-teams-staff-150000957.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-08-05T15:00:00+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "d43d5b18b12e",
-          "title": "Is LeBron James chasing a ring? An all-time NBA great pushes back",
-          "original_title": "Is LeBron James chasing a ring? An all-time NBA great pushes back",
-          "summary": "After LeBron James signed with the Philadelphia 76ers, some fans derided him for ring chasing, or joining a stacked team in pursuit of a title.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/lebron-james-chasing-ring-time-145921909.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-08-05T14:59:21+00:00",
+          "link": "https://www.reddit.com/r/nba/comments/1vgd9th/paul_george_is_having_fun_in_the_offseason/",
+          "source": "Reddit r/nba",
+          "published": "2026-08-05T17:04:14+00:00",
           "topic": "NBA League News"
         }
       ]
@@ -236,6 +236,61 @@
       "name": "Lakers Players",
       "articles": [
         {
+          "id": "5ddd59383dc2",
+          "title": "Lakers' most important offseason objective may already be complete - Lake Show Life",
+          "original_title": "Lakers' most important offseason objective may already be complete - Lake Show Life",
+          "summary": "Lakers' most important offseason objective may already be complete&nbsp;&nbsp;Lake Show Life",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOel9nR2RBWFVRaVpDRjI5RTJkbklZbUs5ZUVMMFFKT0hSTWZuU3lDdXE5bTZCUHJBQ3RuOXExdkF5X3lBS0hOc0JyVk0tODluU01rQnM2RWlnYTVPbE5LdHVITmZ0UWYxdVNia3RfNE43MUNwM181OU9MM1lPRU9RUS1oa3JMUVVzTDF2dXEzeEt2SXlS?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-08-05T21:00:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "c4cbc7ceecde",
+          "title": "LeBron James Gets Special Treatment From Team USAB for 2028 Olympics: Reports - Yahoo Sports",
+          "original_title": "LeBron James Gets Special Treatment From Team USAB for 2028 Olympics: Reports - Yahoo Sports",
+          "summary": "LeBron James Gets Special Treatment From Team USAB for 2028 Olympics: Reports&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmxRanh4WTFwU09FSHY3Rk8zVmJPYmtCTU1sTDBkT0hFdnoxNHlpbi1CdWJCMzlhamREa09JUGdDY3hsbkloSVlZdlAtaUNQUVFZVWVDYlk5T2RjOWF5bXdsR2RCYjk5WjZfNndJa0NLVkhTZmIteFZNNGVmUDNuZnpmWGZ4V0pMeGpobQ?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-08-05T20:22:17+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "b0961fa59bb3",
+          "title": "Nick Nurse reveals his pitch to LeBron James before choosing Sixers - Sixers Wire",
+          "original_title": "Nick Nurse reveals his pitch to LeBron James before choosing Sixers - Sixers Wire",
+          "summary": "Nick Nurse reveals his pitch to LeBron James before choosing Sixers&nbsp;&nbsp;Sixers Wire",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONjd0T0tUS3R6eEtGZ0lFM0tSZDNiYi1BN0dUVVhHS0t5TC1oamRqM3RQUVV6MlFxRXQ1X0ttbTVKcGxzVjRCQThaa0NyRXBmQWNIR3UtdnpoWmpQeExuTkdrczdFV0djOGR6MXB3MGwyUTk5aFZEQ2g0WWU5TjdtYnlQLV9sbkpETlFEWHFmcDdQNVR4WmotZGw4T0xFM2NQaEhwZTNGTTJaZEYxNUxfSEdBLTF4LWE1OGRCOEFuRzcxUkR6dTg5TlQxbGdEenFqNWFNMnFyaEk5emtKMmg2cg?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-08-05T20:15:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "35addf598b94",
+          "title": "Luka Doncic Would Welcome Reunion With Mavericks Forward on Lakers - Sports Illustrated",
+          "original_title": "Luka Doncic Would Welcome Reunion With Mavericks Forward on Lakers - Sports Illustrated",
+          "summary": "Luka Doncic Would Welcome Reunion With Mavericks Forward on Lakers&nbsp;&nbsp;Sports Illustrated",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZHdFMGVjRWhFWVBub1FBZDJxUUo0NjNsOUtONm5fX2VGdUJoU0Nra00ybUVUdldYWXQ5ZlZldklheWlueVdIQXBvcFVkd2xWRjQybzBZWGxYaFFCMGhEM192S1hQSjdGN1JacW9MaGVBd2QweEFMb0tCUGo4OThuMHkwRDJ3OWNsS21aVG42LUtWaVcxZ04yR0VMQ2NlcFpEZzdwYWFvRjRjMVdZWkNzVFFvOHpWRjVWMjVFVGpBU20tVk9VVTVCdzhB?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-08-05T19:56:39+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "f6525ad4a1bc",
+          "title": "Report: Spot saved on 2028 Olympics roster if LeBron James wants it - WTVB",
+          "original_title": "Report: Spot saved on 2028 Olympics roster if LeBron James wants it - WTVB",
+          "summary": "Report: Spot saved on 2028 Olympics roster if LeBron James wants it&nbsp;&nbsp;WTVB",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaXFuZmh6bGVMc2hLS3oxYUdpX01MbnhmX3NkYmltZXJvSk5kdGF2QTkteUZmRnc1ZC1mYVhuTFk5Mm1rODVLaHFvX05ObGRtZkcyOVhTeUsxd1ZBM0xHUV84SXFTdW9yblE1SWNqLXZOb0IxNTVKQy0wMFpLR05GRl9ZQU5DQTRiUGg5WGFqZWZEdVUtUzZ2SE5pTlRzZw?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-08-05T19:55:41+00:00",
+          "topic": "Lakers Players"
+        },
+        {
           "id": "59f431a13585",
           "title": "LeBron James to take on playmaking role in Philly - NBC Sports",
           "original_title": "LeBron James to take on playmaking role in Philly - NBC Sports",
@@ -243,29 +298,18 @@
           "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQmRsSWhPOGpBQTFBRGFQSktmV3dFWnBnc0RPby1ZVVg2WVNWNjFLQzBwakc5U3AzRjZJSUVIcXpaMlBETFZlRTBjdG5rY1FQMlpRUGxJbzRqRi1MRU1aYVVSNGlHRjNNUkhfR21DeFViQTR2ODN1MFhGS29vQlhHWjM3SmxkVEV4Qm1QT0RpTzJ5ZkdSQjVEX0k1WTFnYmJ0cTN5RnlmaDFPdVdRUUtROWM4VDFwazJf?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-08-05T19:11:43+00:00",
+          "published": "2026-08-05T19:13:26+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "1d3f0539239f",
-          "title": "Luka Doncic tells fans he is \u2018100% healthy,\u2019 which is good news for revamped Lakers - NBC Sports",
-          "original_title": "Luka Doncic tells fans he is \u2018100% healthy,\u2019 which is good news for revamped Lakers - NBC Sports",
-          "summary": "Luka Doncic tells fans he is \u2018100% healthy,\u2019 which is good news for revamped Lakers&nbsp;&nbsp;NBC Sports",
+          "id": "f7db6ad405c4",
+          "title": "Lakers heavily linked with former Luka Doncic teammate from Dallas - basketnews.com",
+          "original_title": "Lakers heavily linked with former Luka Doncic teammate from Dallas - basketnews.com",
+          "summary": "Lakers heavily linked with former Luka Doncic teammate from Dallas&nbsp;&nbsp;basketnews.com",
           "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeGJYRjhJUjJnSG93N3hTRVJRWEFfdWNXeDhqUkhVZkc3TVctbXRnQnRNd1k4eTdpRk9DSDBtUEVpdjdMb0l4VVpSeVdTZFpZdTVwajItbHlRRHN6U3I1cGxrYm8tZklobzFiS05POFN3cHVDS195bjVWd1NURzlUN2tESjRZRkhBSDdxX2NERU9nYy1xUlhtTDZmX1JJUkxDbmNwcU1EcFI2NmRWU29weDZyZjU?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdXJYT2JXYnB6aHFPMmZ2V2RfRnFKVXBiOXNiYVdkb1dkVF9IaF9ORmNlaDVndm1IRGRJUlRvdExNTXMyWU9TaFJockFBbFh4V2FmSE9Vel9pU05VZld5bUFPeDZuaFo5R3RGSkljdjAwUUNodGNkaFdsVThWWjNwZFU5encyejVKV194ZnJfYnhvNWRWQlFReVVCOHFjWW9ucTBpM2lHbmZpZw?oc=5",
           "source": "Google News - Luka",
-          "published": "2026-08-05T18:30:05+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "34c2f992fb8e",
-          "title": "Luka Doncic tells fans he is '100% healthy,' which is good news for revamped Lakers - Yahoo Sports",
-          "original_title": "Luka Doncic tells fans he is '100% healthy,' which is good news for revamped Lakers - Yahoo Sports",
-          "summary": "Luka Doncic tells fans he is '100% healthy,' which is good news for revamped Lakers&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWUVXRTdBNlBXb3FvRFNwOXVkWDZfSzNRT3REeHZWRk1Lcko1VkY2MWw1dkVjWlM5ZUFHSFBmRVdiOUJ5dktySnRlVEZQZmpNanFUU3NaS0d2b2lCWURQdkk1MFV6OVlOeUdNLTdncUR3ZDdYcTktUUFOckNMRVExWA?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-08-05T18:10:39+00:00",
+          "published": "2026-08-05T19:04:00+00:00",
           "topic": "Lakers Players"
         },
         {
@@ -283,7 +327,7 @@
           "id": "c41831db70c7",
           "title": "LeBron James denies Jaylen Brown's skydiving idea if Sixers win title - ESPN",
           "original_title": "LeBron James denies Jaylen Brown's skydiving idea if Sixers win title - ESPN",
-          "summary": "LeBron James denies Jaylen Brown's skydiving idea if Sixers win title&nbsp;&nbsp;ESPNLeBron James Rejects Jaylen Brown\u2019s Philadelphia 76ers Invitation&nbsp;&nbsp;heavy.comMike Gansey explains how Sixers were able to land LeBron James&nbsp;&nbsp;Yahoo Sports",
+          "summary": "LeBron James denies Jaylen Brown's skydiving idea if Sixers win title&nbsp;&nbsp;ESPN",
           "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYkV1aU9sZlFZZXZfYlJxTmVCVndjbkNNdDIyYktPRk5mWGpzU1NWQnZkUmxyaGoyS1VvOGhKSG9yVjFpVlI5Ymd2bDNrSkVkZmtndVRydUg3WGxzWDNiNFVVTHpZaEdDUlJxeXpVd3NsNGlCTTl6enNHaUpYTjJITkNsMUluWS1PWjdONDhrVS1DUTU0ZWNuVHhBeHk1dmgw?oc=5",
           "source": "Google News - LeBron",
@@ -299,50 +343,6 @@
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU1g0SHBQeWNQYVRSdzEzNjNQRng4VDNxbF80cUJucFFKSXJYWWxSSnNBY1llRmxTd0FNMFAzVGI4ZmxVQW1vR3pqLXgzamYzSzcyTEJEeEZZUlRFYkU2ekljRGJqRjJSZGcxdjZLbXlDekJDVkx4bGM4VFA0M3BtaTlXaXE1US1j?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-08-05T17:20:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "228d594478f0",
-          "title": "What\u2019s Left of The King? - The Rights to Ricky Sanchez",
-          "original_title": "What\u2019s Left of The King? - The Rights to Ricky Sanchez",
-          "summary": "What\u2019s Left of The King?&nbsp;&nbsp;The Rights to Ricky Sanchez",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JamJkTnZJRGRQRlg4cDlKaXJWc0hhVjByY2pxaDNBWS04NVRzY1ZzTjVpUUNBOG5pckIzS3RqZE1jTWxtbi0taGp5Q0xuX3lGMkhuaDZIci02NUZESnpkTF9zZDJpNUdvbFJ3cVhR?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-08-05T15:43:02+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "b36804c37eeb",
-          "title": "Kevin Durant fires Klay Thompson stray amid ridiculous Warriors-76ers comparison - CBS Sports",
-          "original_title": "Kevin Durant fires Klay Thompson stray amid ridiculous Warriors-76ers comparison - CBS Sports",
-          "summary": "Kevin Durant fires Klay Thompson stray amid ridiculous Warriors-76ers comparison&nbsp;&nbsp;CBS Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNGpZdUhnSmRORlZKZmJkenYzWlV4eWNBaXZFdWRXS0gxSExVWk9fUDB3VlVMd21ZbkJzNVZNVUVXUGc5VFkwRXVwVzdORHVwRm5INkJjRDVoLV83UlVVZF90R0w5SDJJUEdEVGoyd1BsYWVsZGlEQ2NfdV9HRW9zMnlfV3NCaWFvVWVnQ3BOMjY3TDVzTWhlNWJn?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-08-05T15:27:34+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "6b55744131a6",
-          "title": "JJ Redick will have a new challenge with the Lakers this season - Silver Screen and Roll",
-          "original_title": "JJ Redick will have a new challenge with the Lakers this season - Silver Screen and Roll",
-          "summary": "JJ Redick will have a new challenge with the Lakers this season&nbsp;&nbsp;Silver Screen and Roll",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMUVJc0dzV3JKQnNidkdjTnY0bjdzVDVidFVocllHWW9peTlXQ2diMzZtSWlSZXd2elhhTmh2ZDh0ak1YTmM2SHhKZi1OakNSRUp2VWhhQWVXSnNKWTFVMUR3QnRfbjNEOHFjajdOb3I0VlVmYTNqVGZpa3R4anhrRVFiemZRbGw5b0NnUzdXWUxPckJxaVB1VjVidFRzY3VEZzY0OE8zTlltd2xJaXFtZ2dCRTU4WW1XWXkydENxZzhuUQ?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-08-05T15:24:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "38dfff83a033",
-          "title": "Is LeBron James chasing a ring? An all-time NBA great pushes back - USA Today",
-          "original_title": "Is LeBron James chasing a ring? An all-time NBA great pushes back - USA Today",
-          "summary": "Is LeBron James chasing a ring? An all-time NBA great pushes back&nbsp;&nbsp;USA Today",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZFVaT0kzS3Focjl3UUdPVmM4LUMyRTBpMm53RHpkaUpGZThqUFFzaGxNMERFZ25nblN3bGFWdmRhdXNYZjd0U0NfYTlJZDFuRkhsOE1mZzl1QzVRODVRZlM4T2xqcHV0eWp6aHhmQkxMaUFucWFkN24wQzB4dWJJRV83d1c2ZHJYWlB1a3hPREZYa05zdzZRME9sbEQ2T3kyZEh0cWNwTVBIYzJhSTczeWZhRQ?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-08-05T14:59:00+00:00",
           "topic": "Lakers Players"
         }
       ]
