@@ -1,19 +1,41 @@
 {
-  "generated_at": "2026-08-04T23:03:33.149510+00:00",
+  "generated_at": "2026-08-05T02:32:59.978635+00:00",
   "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
         {
-          "id": "9f0f355e40f4",
-          "title": "One Notable Absence Looms Over Luka Doncic\u2019s Lakers Minicamp - Sports Illustrated",
-          "original_title": "One Notable Absence Looms Over Luka Doncic\u2019s Lakers Minicamp - Sports Illustrated",
-          "summary": "One Notable Absence Looms Over Luka Doncic\u2019s Lakers Minicamp&nbsp;&nbsp;Sports Illustrated",
+          "id": "7bdf0f579abc",
+          "title": "Los Angeles Lakers Season Preview | It's Luka Time - WGRZ",
+          "original_title": "Los Angeles Lakers Season Preview | It's Luka Time - WGRZ",
+          "summary": "Los Angeles Lakers Season Preview | It's Luka Time&nbsp;&nbsp;WGRZ",
           "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTmVIY19HOFhRbVJoMXJCeDZmNUVxTjVyQU9GdkJvT3FKTTBwYmRiMkdyaV9jNGR6M0xRRE1HaVcwTmJ4UktMOEhxLVFwWlBGamNYTGtNYVB3TG1RanhjcnJyZkt6OF9mLXJFWEhldTZKb1lJUmFkWUhzV2xCQjV2MHk5Zl9panNFMlpVb1dqV25od0hCeEt2YQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOcTRVRFp1cjFzVFJ3anB6NE9UblViTmhlMEF4ck9vMk53cFMxTDZuaXRWbm01d2NucnVmZl9VdDRpVTFEUVZGbUxlaUppWHVxbzZyWWxUaXpKLXZESXl3ODVyZ1pzLW5GZEpRUjIzdDkySUxfN3JtUjlhZy1McjRPMEk1Rm5hMU04dFJYWEFDbkw3WkJNbUQ2T1ZiLXZTLWtXSFhSdDRqV0hjSXN4T2xPUGZMWU1DNzdkbExfdTlpVnhlTHlqcHRZQk1ILXNucU5BLTl1dTNaaVFHblBVUmVuZF90c1o0UTVMTWE2Q2p4NlE5VERfbDdEcW1WN3U?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-08-04T22:24:35+00:00",
+          "published": "2026-08-05T00:38:00+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "031a82a29649",
+          "title": "Lakers\u2019 P.J. Washington Trade Buzz Gets Telling Reality Check - Sports Illustrated",
+          "original_title": "Lakers\u2019 P.J. Washington Trade Buzz Gets Telling Reality Check - Sports Illustrated",
+          "summary": "Lakers\u2019 P.J. Washington Trade Buzz Gets Telling Reality Check&nbsp;&nbsp;Sports Illustrated",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT2tVM2tuZEFxQ2JFakRlUk5KOWgzOW1CM05Ua1lPR283TVFyYWVKNFlKdmx1MWI2LUZVMXgycGRFY1NYblJRd043dGVsVGhDcHdkcUNlc2d5VHNFeTR4Z1BqNC1IZWRxcVM1UXh3V1ZlaHk3N1VnUmpNQmpOZmR3akwxYk1uV041M2hpc3lJendTY1g5Uy1NbQ?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-08-04T23:49:31+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "f95c694bc30d",
+          "title": "Los Angeles Lakers have NOT been in pursuit of PJ \u2026 - HoopsHype",
+          "original_title": "Los Angeles Lakers have NOT been in pursuit of PJ \u2026 - HoopsHype",
+          "summary": "Los Angeles Lakers have NOT been in pursuit of PJ \u2026&nbsp;&nbsp;HoopsHype",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRE4ybm5iRU5IeFVLem5YMGFBb3JPOXRhVGZBaUU3RnhpR2dWNkNRb0xvcm5hYzNnVV9UTVRWNktXTEo0UzhOMFEzMHNMUElFOU54Xy11VVZCamh1SHlpbmtueTQ5NjF3Sk5iOU9uS0hKYW5nOGM2dm94TmtPYjhSb25ZVWh1YnJWdmlhdklNMzRGbEVlNExfSWJMY3pHU0QwcTEzWkduV0VMd0liT2cxY0V2d3N3dklUY3lBb05UR3g?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-08-04T23:00:00+00:00",
           "topic": "Lakers News"
         },
         {
@@ -24,7 +46,18 @@
           "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbE9yVVl6a2xQZDVaSTNETk53QWxTUW9kNTRrVmEwRW5EMFdGOWlyQU05dUxPTVRfLV9WaDhjN0dDV0kxa1drRGlKeUQwalNJb3NLZ2xBaWF3bnhrUV8zYjVtUzVJaTlTLS0xdlJtcGtFTlhoVV9TelFnb2YyakFObkhZdTl5YkhXc3FnRGtHengzTjBGRGxQak1pbTdrWnFmOGVvdDU1ellfcHk1czV0M3FURFBna25NbVJkdkFoQVJJc0JwRHlKaVdtWkU0Zw?oc=5",
           "source": "Google News - Lakers",
-          "published": "2026-08-04T22:18:45+00:00",
+          "published": "2026-08-04T22:21:19+00:00",
+          "topic": "Lakers News"
+        },
+        {
+          "id": "72836a6ae97d",
+          "title": "Luka Doncic\u2019s Lakers Slovenia trip leaves one key player behind - Yahoo Sports",
+          "original_title": "Luka Doncic\u2019s Lakers Slovenia trip leaves one key player behind - Yahoo Sports",
+          "summary": "Luka Doncic\u2019s Lakers Slovenia trip leaves one key player behind&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeDk4ekNlaEJEVU1PT1dpeDFFbFhVZ2lNdWJYNG03WkZEbmtkMERMb1NQekMzNDlPSE9XeFE2aTBESUJ3MFZRVU9jd3NUMlBERGZ2YmliVk84blBhVG5OM3NHUzFvN3NQLWZPREluMUJEMnlPMEFGWjdFc3M2alpPYy1wUTF1VDQw?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-08-04T22:04:03+00:00",
           "topic": "Lakers News"
         },
         {
@@ -50,17 +83,6 @@
           "topic": "Lakers News"
         },
         {
-          "id": "3f11f5f5d2e6",
-          "title": "Lakers Lose Out On $134M, 2x NBA Champ As Buyout Rumors End - heavy.com",
-          "original_title": "Lakers Lose Out On $134M, 2x NBA Champ As Buyout Rumors End - heavy.com",
-          "summary": "Lakers Lose Out On $134M, 2x NBA Champ As Buyout Rumors End&nbsp;&nbsp;heavy.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaF9rVXd6aHpzSmVFdXZPdm9MSndKLU10VW5CV2YzZnJsaFk2Q2Q4VFc4eGdab19RV1Y4Y2Y2aTc1XzJmZktHT19kdHFJWEs0M1FlbHFtQTdPNkdWMklEYTMtM3g5VVNhOWI1NWdvU1p5aEFqenRvQlpneTRucm8wREdKZExvQQ?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-08-04T21:31:24+00:00",
-          "topic": "Lakers News"
-        },
-        {
           "id": "bf08ee5f0a78",
           "title": "AJ Dybantsa Looking Forward To Defending Lakers Superstar Luka Doncic",
           "original_title": "AJ Dybantsa Looking Forward To Defending Lakers Superstar Luka Doncic",
@@ -69,17 +91,6 @@
           "link": "https://lakersnation.com/aj-dybantsa-looking-forward-to-defending-lakers-superstar-luka-doncic/",
           "source": "Lakers Nation",
           "published": "2026-08-04T20:50:54+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "28bff7b5d5f1",
-          "title": "Luka Doncic Shares Encouraging Injury Update Before Lakers\u2019 New Era Begins - Sports Illustrated",
-          "original_title": "Luka Doncic Shares Encouraging Injury Update Before Lakers\u2019 New Era Begins - Sports Illustrated",
-          "summary": "Luka Doncic Shares Encouraging Injury Update Before Lakers\u2019 New Era Begins&nbsp;&nbsp;Sports Illustrated",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTWVXb2RfTjZ6M3VjYTFSc19jY2puQV8yclBRQTNRUnBndzZmY3dkR3l4YllCS2VyR2Z4aE1rNE44RjBTLTN3YlVvYTN1RXNCSk5fbnZEOUlmdW10SXg5bERaU2s2S1hvUUY3UFBISE1tblRYaXM0VU9tQ1o3b0tzRUFBSzdxVmhvUVp3bEZRWkZFVTZYT1NaT1ZHQjUyczBoTWh6S3Z6UkI0ZTBG?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-08-04T20:45:38+00:00",
           "topic": "Lakers News"
         },
         {
@@ -103,23 +114,34 @@
           "source": "Google News - Lakers",
           "published": "2026-08-04T20:30:00+00:00",
           "topic": "Lakers News"
-        },
-        {
-          "id": "502ec093550e",
-          "title": "Lakers predicted to swap Jarred Vanderbilt for $298M 4-time NBA champion, elite All-Star shooter - Yahoo Sports",
-          "original_title": "Lakers predicted to swap Jarred Vanderbilt for $298M 4-time NBA champion, elite All-Star shooter - Yahoo Sports",
-          "summary": "Lakers predicted to swap Jarred Vanderbilt for $298M 4-time NBA champion, elite All-Star shooter&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNkFFWUtQanl2Z1lNMklMTU1WLVZpckg1QTBjU2xXdHNkbV82TVU0T0VlVUFlMDlodWJvWl80S3JtVnFsVmhKc1BaQ0wxVTZEaUlMc0Fyei1NVXhHcTRraUZrTWZrX3JHcmpDR0pscVh4RVV1dGttb0hhbVMtdVFkZnFKZ0I5UkRjTnVhNV91a1BGdw?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-08-04T20:25:08+00:00",
-          "topic": "Lakers News"
         }
       ]
     },
     {
       "name": "NBA League News",
       "articles": [
+        {
+          "id": "2cf1719cda87",
+          "title": "David Mirkovic injury update: Illinois star undergoes foot surgery, return undetermined",
+          "original_title": "David Mirkovic injury update: Illinois star undergoes foot surgery, return undetermined",
+          "summary": "Illinois star David Mirkovic underwent surgery after suffering a foot injury in practice on July 31, the program announced Aug. 4.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/david-mirkovic-injury-illinois-star-005657378.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-08-05T00:56:57+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "2683cce42725",
+          "title": "Luka Doncic\u2019s Lakers Slovenia trip leaves one key player behind",
+          "original_title": "Luka Doncic\u2019s Lakers Slovenia trip leaves one key player behind",
+          "summary": "Last week, news broke that Los Angeles Lakers superstar guard Luka Doncic would be hosting the entire Lakers roster in Slovenia for a four-day minicamp in August. The training camp...",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/luka-doncic-lakers-slovenia-trip-220403972.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-08-04T22:04:03+00:00",
+          "topic": "NBA League News"
+        },
         {
           "id": "2f318ba075c5",
           "title": "NBA Offseason Trade/Free Agent Rumors 2026: Russell Westbrook might rejoin Kings, no Jrue Holiday buyout",
@@ -132,9 +154,9 @@
           "topic": "NBA League News"
         },
         {
-          "id": "9ba31b384b31",
-          "title": "'Mutual agreement': Luke Doncic's ex-fianc\u00e9e asks L.A. court to withdraw child support request",
-          "original_title": "'Mutual agreement': Luke Doncic's ex-fianc\u00e9e asks L.A. court to withdraw child support request",
+          "id": "088ea4b3dd40",
+          "title": "'Mutual agreement': Luka Doncic's ex-fianc\u00e9e asks L.A. court to withdraw child support request",
+          "original_title": "'Mutual agreement': Luka Doncic's ex-fianc\u00e9e asks L.A. court to withdraw child support request",
           "summary": "Luka Doncic's ex-fianc\u00e9e, Anamaria Goltes, has asked a court to dismiss her L.A. child support petition, signaling a desire to settle their custody dispute amicably.",
           "key_points": [],
           "link": "https://sports.yahoo.com/articles/mutual-agreement-luke-doncics-ex-204203388.html",
@@ -151,6 +173,17 @@
           "link": "https://www.cbssports.com/nba/news/anthony-davis-contract-extension-wizards-trae-young/",
           "source": "CBS Sports NBA",
           "published": "2026-08-04T20:41:26+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "7a01d139d80b",
+          "title": "Jaylen Brown asking fans for romantic setups after Donovan Mitchell-Coco Jones wedding: \u2018Put em in the comments\u2019",
+          "original_title": "Jaylen Brown asking fans for romantic setups after Donovan Mitchell-Coco Jones wedding: \u2018Put em in the comments\u2019",
+          "summary": "So, he is taking matters into his own hands and letting fans know he is looking for his match.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/jaylen-brown-asking-fans-romantic-203336280.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-08-04T20:33:36+00:00",
           "topic": "NBA League News"
         },
         {
@@ -196,39 +229,6 @@
           "source": "Yahoo Sports NBA",
           "published": "2026-08-04T19:10:43+00:00",
           "topic": "NBA League News"
-        },
-        {
-          "id": "2e2aebb3c8d2",
-          "title": "Which Laker could make the jump this season?",
-          "original_title": "Which Laker could make the jump this season?",
-          "summary": "Cameron Carr is the second-youngest Laker, but he could be the one ready to take on rotation-level minutes.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/laker-could-jump-season-184315137.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-08-04T18:43:15+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "915425de2fc8",
-          "title": "Ron Harper Jr. talks new contract, giving Paul George his number, and more",
-          "original_title": "Ron Harper Jr. talks new contract, giving Paul George his number, and more",
-          "summary": "The Celtics guard addressed media for the first time since signing his 4-year, $14 million contract extension this offseason.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/ron-harper-jr-talks-contract-182139725.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-08-04T18:21:39+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "71ee17844fe6",
-          "title": "West non-playoff power rankings, Kelsey Plum's debut\u00a0+ Fever-Lynx takeaways",
-          "original_title": "West non-playoff power rankings, Kelsey Plum's debut\u00a0+ Fever-Lynx takeaways",
-          "summary": "Nekias Duncan and Steve Jones check in on the Dallas Mavericks after agreeing to an extension with Naji Marshall, power rank the non-playoff teams in the Western Conference and break down Kelsey Plum's Mercury debut.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/nba/article/west-non-playoff-power-rankings-kelsey-plums-debut--fever-lynx-takeaways-181551548.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-08-04T18:15:51+00:00",
-          "topic": "NBA League News"
         }
       ]
     },
@@ -236,25 +236,69 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "713d1dc89e4c",
-          "title": "Report: Lakers Target 2-Time All-NBA Forward as Luka Doncic Running Mate - heavy.com",
-          "original_title": "Report: Lakers Target 2-Time All-NBA Forward as Luka Doncic Running Mate - heavy.com",
-          "summary": "Report: Lakers Target 2-Time All-NBA Forward as Luka Doncic Running Mate&nbsp;&nbsp;heavy.com",
+          "id": "eddbc14cdb0d",
+          "title": "Luka Doncic's ex-fianc\u00e9e Anamaria Goltes reportedly withdraws child support petition - Dallas News",
+          "original_title": "Luka Doncic's ex-fianc\u00e9e Anamaria Goltes reportedly withdraws child support petition - Dallas News",
+          "summary": "Luka Doncic's ex-fianc\u00e9e Anamaria Goltes reportedly withdraws child support petition&nbsp;&nbsp;Dallas News",
           "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSVJWZFNmSXlDUG1UMFdWekFndmRnOVhrV1l2RW5wTUxBOWdZQWZqVlR1dHFxdFJpU0dQd2hQTFU5M083dE5SZ2xyVUtLcEk1aXBLZ3lSb1IzRW00VTRtTnk2RjFqajBsbXZkdjhwMW12Q0U1MVBoTzRrTzN2QkZid2lmZ0Z6d3kybWc?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaU1iV09rWlBvbEFTM0JkcFZRSThBY1NTYnBLdlVnUTNJOGYwajUxLVptNWFJNUR5VV90S0c3dlNlWlF3S2o1YXdxdEh2OHg2Y1VyMmotX3Y0LWdvRUF6ZHk0NHRSMnd3T1FueGR1TmhwaHNDQUZXM0pqdVVwUUFpYXdZOE1qU21pYjlxNkJjZE93MllWdklwZ1dLc3U4R0w1UVQ5MnpQVlI3U3dqV0NJ?oc=5",
           "source": "Google News - Luka",
-          "published": "2026-08-04T22:47:14+00:00",
+          "published": "2026-08-05T00:45:37+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "6f8791587036",
-          "title": "Lakers' Luka Doncic's Ex-Fianc\u00e9e Drops Child Support Case - tmz.com",
-          "original_title": "Lakers' Luka Doncic's Ex-Fianc\u00e9e Drops Child Support Case - tmz.com",
-          "summary": "Lakers' Luka Doncic's Ex-Fianc\u00e9e Drops Child Support Case&nbsp;&nbsp;tmz.com",
+          "id": "0be6b55e976b",
+          "title": "Sixers' LeBron James posts message regarding Tyrese Maxey on IG story - sixerswire.usatoday.com",
+          "original_title": "Sixers' LeBron James posts message regarding Tyrese Maxey on IG story - sixerswire.usatoday.com",
+          "summary": "Sixers' LeBron James posts message regarding Tyrese Maxey on IG story&nbsp;&nbsp;sixerswire.usatoday.com",
           "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeU1zSGVFR2syNVQzNE13d05zbWxvak14UUVEWHRpWHU2ZTh5WWc2UFBvNjBmV050SlVwbUtEYktNWldScGtRcF9WbDItV2FTdTNHQTBsOTdYM1p6VWFWU053X1d5ZVZzYmc2WmxzbElzYWhuWjV1NW9BR2wzOEdLQkhJZjg0NmFvc2hKeHZrcXk?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZEpLOW5sNV9mamlsS0E2TVo1OW9POVlKTmVHLXlhb0d6SjMzLWdEY043dHg0WnRVZ2llTVlRdXB4ZzhNSkgxWVlpVWM3THVObE9VeWJjNU1mU2V6cDFqWE55a1RIX3ZrZlM4QTRZRUlkbXJuUXBBTXpQYUxxdmY4VW9hM2R2NFZYU0pqLVhOYzNzUXFId3F4M3JIUDVlZUpodFRWNWZiWGI5Yi1iMnUzODZYZW9FQkZXNUlkZ3V6M1lmOGpTVlowM0ZyQmhxczBCd2dDRkVLZmtWbkYyWlRZX05n?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-08-05T00:31:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "1bb6808977f0",
+          "title": "Luka Don\u010di\u0107 Injury Update Should Ease Lakers Fans\u2019 Worries - roundtable.io",
+          "original_title": "Luka Don\u010di\u0107 Injury Update Should Ease Lakers Fans\u2019 Worries - roundtable.io",
+          "summary": "Luka Don\u010di\u0107 Injury Update Should Ease Lakers Fans\u2019 Worries&nbsp;&nbsp;roundtable.io",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSWdvck1WNDB2U1FGcVVDbEN2bkIyRTN3QnZTZHcxMFhaSXBCUWg4TXZXeUl4bG9XNFRwZ3c4dWQzblRMeHpLU1RlelQ2SUhoNFp5cWtWbHFVLTNFMC1rVVFJVTFhTWhiNWlScDZtQ1UxSjZoLWl6cUZ6SjVxNGlDaEdQUURxaWZTVTRaSE9ROFd0U1MxS1VuLUg3bGtkSXFkUzhpMA?oc=5",
           "source": "Google News - Luka",
-          "published": "2026-08-04T22:15:12+00:00",
+          "published": "2026-08-05T00:26:06+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "ccdf223c735c",
+          "title": "Tracy McGrady names Philly\u2019s X-Factor after LeBron James addition - Yahoo Sports",
+          "original_title": "Tracy McGrady names Philly\u2019s X-Factor after LeBron James addition - Yahoo Sports",
+          "summary": "Tracy McGrady names Philly\u2019s X-Factor after LeBron James addition&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTFZKX3JrZ055eWl6Wm1PUk5YcG1kd1RWenMtQ0NlXzdQbGRPWTJWRERWcTB4ZXhJS0hxTTRXMlp1ZGR4TWtnSmt6MmJLQ0hzUTR3WkVLRkdtNkFoOUJZbDZpMTk3dFY0OEdLOUhWclRpeFFPVVpfLW14X2dqaW1TeEZwNA?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-08-05T00:17:00+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "69efdb0b346a",
+          "title": "Luka Doncic Shares Health Update Directly With Fans After Missing Lakers\u2019 Crucial Playoff Run - basketballnews.com",
+          "original_title": "Luka Doncic Shares Health Update Directly With Fans After Missing Lakers\u2019 Crucial Playoff Run - basketballnews.com",
+          "summary": "Luka Doncic Shares Health Update Directly With Fans After Missing Lakers\u2019 Crucial Playoff Run&nbsp;&nbsp;basketballnews.com",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNnZOTmVYVmJZaW5QSy1ha3A1STJFV1dKWUpzeWxwZDFaUkVBMkQ2UWlvZWNxY2Facl9WM3piWEduWjJVSGdQV0NPb3k2dVVNcHRzNDYxeHY1Y0hTcUViZGZnYkRRUHNpRFdJQ3hBQ25zN0ZzcUJCV1IxVndrLWZRRTBpcWFoN01FMW1KcV9rZU1QQlVybUl5ZVRSaDFvOXNCVXJwdmJ4dFlJX1ZGSE84ZEllN1R6TFVQcG5HM2Y3MlpRN3NaWThjR0xHQ2lWX0JWZjQwOVhtN0ZCcFk5ZGhXN3hmX3h0Ull6NnZGVGNxMFFydw?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-08-05T00:06:53+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "9f0f355e40f4",
+          "title": "One Notable Absence Looms Over Luka Doncic\u2019s Lakers Minicamp - Sports Illustrated",
+          "original_title": "One Notable Absence Looms Over Luka Doncic\u2019s Lakers Minicamp - Sports Illustrated",
+          "summary": "One Notable Absence Looms Over Luka Doncic\u2019s Lakers Minicamp&nbsp;&nbsp;Sports Illustrated",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTmVIY19HOFhRbVJoMXJCeDZmNUVxTjVyQU9GdkJvT3FKTTBwYmRiMkdyaV9jNGR6M0xRRE1HaVcwTmJ4UktMOEhxLVFwWlBGamNYTGtNYVB3TG1RanhjcnJyZkt6OF9mLXJFWEhldTZKb1lJUmFkWUhzV2xCQjV2MHk5Zl9panNFMlpVb1dqV25od0hCeEt2YQ?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-08-04T22:24:35+00:00",
           "topic": "Lakers Players"
         },
         {
@@ -269,80 +313,36 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "8cb4567782c7",
-          "title": "LeBron James Hypes Meek Mill's New 'Nightmares to Dreams' Video After 76ers Contract - Bleacher Report",
-          "original_title": "LeBron James Hypes Meek Mill's New 'Nightmares to Dreams' Video After 76ers Contract - Bleacher Report",
-          "summary": "LeBron James Hypes Meek Mill's New 'Nightmares to Dreams' Video After 76ers Contract&nbsp;&nbsp;Bleacher Report",
+          "id": "ebd91599e6bf",
+          "title": "AJ Dybantsa Looking Forward To Defending Lakers Superstar Luka Doncic - Lakers Nation",
+          "original_title": "AJ Dybantsa Looking Forward To Defending Lakers Superstar Luka Doncic - Lakers Nation",
+          "summary": "AJ Dybantsa Looking Forward To Defending Lakers Superstar Luka Doncic&nbsp;&nbsp;Lakers Nation",
           "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLWtTaTU4UUo1dXk3M1NsaXNhUklhbFNraUw3YmxKekpwVFFhYnJzVGZ4NXNWM0tBWFZubW1Ld1JjQzB0dzQ1LW1mekRYOWNWS1ZQV09leEVUcXlqN3ZvVGZsRlUzOHMxSGFBYXNnM1JYbzEzY09RZVRRY1pudkxIYUNzLWdTZkoweE1yZ0lPdFhDbUhxNkY0c08wUW1mbXY0bS1yR2p3WVdTWmx3YTJrSWZsbUxvNU5sYzYwOFZFSDk?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-08-04T20:51:22+00:00",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVldNQTNuREJRblZ1ZGM2S0xnaUlGcjlwMGtzRGNWTThZV3Z0Ni16RFNHS2hRdjVZMTNqck5zN09ZcG1lRWhSX0tJUnVxYi13ZlNJTG9LV2ViT3FIRjRDWGc3WFd3ajlrNmt3VXlfajV4T2tNQzdFVFJtODZYal9lWVhodGxiRDR6a0pLWjhiajgtanVYb0ltazJRdw?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-08-04T20:50:54+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "c29d2e2ec15e",
+          "id": "d91247c8d253",
           "title": "How far can the Sixers go with LeBron James? - Metro Philadelphia",
           "original_title": "How far can the Sixers go with LeBron James? - Metro Philadelphia",
           "summary": "How far can the Sixers go with LeBron James?&nbsp;&nbsp;Metro Philadelphia",
           "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWHlZY1lVb3R2bXl5UkF3ekFzWGs4LVRTWHZoLUQ0eWdWVEoxVVVENVMxMVNqV2E0TzZ2bGxPSDJCREdaTmc0cHd1ZTh2aGtwSUNMSW9aU0QyRWNBRjUwU0ZtSmJRUjdnd3ZOSENWRzVHbmZITkJHZnJHTy10Y1NnWTVrZEk0MmcxQnMwWC01WW0wcW1LX29hc0Q0ODRNZ3V2UlQxTndEcXExSlR4V3QxcFAtZnZZZGJuRWdjS3hmYXk?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLWhTWVZOSURuaUFaMDUzVkpNRHpkcE1McWdoV2doSnJkNk5FallBRmlYMndoYi1RY251dk5UY3pHVktFeXZtYW9BWjhaUERFVmdkVGlVZVp6RUZHcmFDa2ZpazdpRnZTY1VrbkUxRzFIZ0tQeFlxUWpWS2pzNWViTUtoVG1vaGlHYXNkblM0ZjBsUQ?oc=5",
           "source": "Google News - LeBron",
           "published": "2026-08-04T20:46:18+00:00",
           "topic": "Lakers Players"
         },
         {
-          "id": "9df468a98e4f",
-          "title": "Kevin Durant makes bold claim about LeBron James' new 76ers superteam - Yahoo Sports",
-          "original_title": "Kevin Durant makes bold claim about LeBron James' new 76ers superteam - Yahoo Sports",
-          "summary": "Kevin Durant makes bold claim about LeBron James' new 76ers superteam&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSE81eE1IWWpiSEFTZ3hhTXQwWG5zYnVCSGotZFJ2c1dpRGxPcXlQM3dvVHJjYlNhMS11d0FvVDJMWWZxQnk1a2RBUjVkV2k1Y2stYng4Qkhxa05EaUE5VkdOSkpSNHg5Mm1uUVIzZDcydkF0YnNoNllicXBPOUlab1FMM1M?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-08-04T20:44:31+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "a8b0be94a46f",
-          "title": "'Mutual agreement': Luke Doncic's ex-fianc\u00e9e asks L.A. court to withdraw child support request - Los Angeles Times",
-          "original_title": "'Mutual agreement': Luke Doncic's ex-fianc\u00e9e asks L.A. court to withdraw child support request - Los Angeles Times",
-          "summary": "'Mutual agreement': Luke Doncic's ex-fianc\u00e9e asks L.A. court to withdraw child support request&nbsp;&nbsp;Los Angeles Times",
+          "id": "219c2c0b3028",
+          "title": "'Mutual agreement': Luka Doncic's ex-fianc\u00e9e asks L.A. court to withdraw child support request - Los Angeles Times",
+          "original_title": "'Mutual agreement': Luka Doncic's ex-fianc\u00e9e asks L.A. court to withdraw child support request - Los Angeles Times",
+          "summary": "'Mutual agreement': Luka Doncic's ex-fianc\u00e9e asks L.A. court to withdraw child support request&nbsp;&nbsp;Los Angeles Times",
           "key_points": [],
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSHVRTGFKU3ZQQUFPcVhCZ0owT0xQcUhCR0tOOVJOdVZLc0NTOVpOanp2STZydDBtOXY1MFltSldiSjJ0SGFTNlNsRHRhYnZ4R0o3aDRwYjY2a3h4RnZHQjUtd3lfS3dPUnFFNjVYVW5LNW1vcy1jTVFaanF1SGxvNENLQjE5RzdpYkpFa25hdC1UU3g3SldGakJ1b2tYVV9xMmNDbE9KMkZRSC1uRHA5ZXRIa05ad0NEd0xTck9Md19xUlhwSklGenZORQ?oc=5",
           "source": "Google News - Luka",
           "published": "2026-08-04T20:42:03+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "73e098e11bb7",
-          "title": "LeBron James has priceless response to Jaylen Brown's 76ers championship promise - Yahoo Sports",
-          "original_title": "LeBron James has priceless response to Jaylen Brown's 76ers championship promise - Yahoo Sports",
-          "summary": "LeBron James has priceless response to Jaylen Brown's 76ers championship promise&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU1BGUFpxUjdkc1JiWWEyWWtib18zTTgzVmIxM2VHb0pLVkxFX2RVM3FYQ1JJaFF0T1hEQ1hzV0hic3dHOHFEM1VaY1MxYkpkTjJlTkQzemlIeE95NllVOXFvbnlGZjBJbFQ5aUxGTkd4a3BpSUJYZ2tFQnp6QzJId0pqT19Tck10YjUzQjE3RTE?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-08-04T20:37:34+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "6679524b1a9a",
-          "title": "Cavs Offseason Feels on Hold Again Due to Jonathan Kuminga, Peyton Watson Trades - Sports Illustrated",
-          "original_title": "Cavs Offseason Feels on Hold Again Due to Jonathan Kuminga, Peyton Watson Trades - Sports Illustrated",
-          "summary": "Cavs Offseason Feels on Hold Again Due to Jonathan Kuminga, Peyton Watson Trades&nbsp;&nbsp;Sports Illustrated",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZTNzR2NVRjFiMF9pRDVFa2stNG15d3c5d0x1OHJhbV94aWdHZ0cwa1M5MWRjcE5rejlEMDdNYjZfckpXajRvejkwdllkNDNvcERPRmtqUVo5QlVYbFhhbElRTi1JcjJaUjRyMG9vSEdoUjlnclM5ODg3T1BRNjhqMDMxSS1EOU1lSzI0cmVHMVluY3V5YlpDN3VNaFhneFVuQXpITXBKS2hvbTVPTmVkaGQxWkdmWkhxMUktT3J2VGJSWXJ4NWwwRG93?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-08-04T20:10:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "83a2611789c7",
-          "title": "Report: 16 of 17 Lakers committed to attending Luka\u2019s minicamp in Slovenia - Lakers Daily",
-          "original_title": "Report: 16 of 17 Lakers committed to attending Luka\u2019s minicamp in Slovenia - Lakers Daily",
-          "summary": "Report: 16 of 17 Lakers committed to attending Luka\u2019s minicamp in Slovenia&nbsp;&nbsp;Lakers Daily",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTlR3eVdYT3JQcE1Ud3ZveHJDSTRBNEtvbzNUQkJ3Q045NWRaV0RZb1JRZW1QNjhCN3BSeTVDNTFnVWJLNDF5YUFDdk95NVJpNXp3OUZvUTl1N3RyWnZOaDF4OGQydmd3VVlNb1pvQ191RVRhWEFjc0VHNkZCelEzb0ZkY2ZMRTN5d0RsTHpoZHYtWjNIbVBQS2Z6QmxyZw?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-08-04T19:28:08+00:00",
           "topic": "Lakers Players"
         }
       ]
