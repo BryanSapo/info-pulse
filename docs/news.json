@@ -1,10 +1,21 @@
 {
-  "generated_at": "2026-08-20T18:38:54.170213+00:00",
+  "generated_at": "2026-08-20T20:27:58.157076+00:00",
   "total_articles": 30,
   "topics": [
     {
       "name": "Lakers News",
       "articles": [
+        {
+          "id": "2388cd4f6bc7",
+          "title": "Lakers\u2019 Luka Doncic Gets Warning From Bulls Star - Yahoo Sports",
+          "original_title": "Lakers\u2019 Luka Doncic Gets Warning From Bulls Star - Yahoo Sports",
+          "summary": "Lakers\u2019 Luka Doncic Gets Warning From Bulls Star&nbsp;&nbsp;Yahoo Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON0pDVEU1UjhGQTJJOFViUmN2eEFHZ215VTRLczc4YkMzZld3em5ibFBZa0szMTJ5WndvdVpHdzV6Q1Y5SjZSSWFOeHZ4bnVCemg2QW4zRkdabTNPN1hGSk5sMnZRVFc2cUdKbFFQcjNWdU9DcHVPb0NHX0Mtb1dOU0VscDR0RFk?oc=5",
+          "source": "Google News - Lakers",
+          "published": "2026-08-20T19:23:40+00:00",
+          "topic": "Lakers News"
+        },
         {
           "id": "a1b0f409a4cf",
           "title": "Top 100 Players Entering 2026-27 NBA Season: Nos. 31-40",
@@ -14,17 +25,6 @@
           "link": "https://lakersnation.com/top-100-players-entering-2026-27-nba-season-nos-31-40/",
           "source": "Lakers Nation",
           "published": "2026-08-20T18:20:57+00:00",
-          "topic": "Lakers News"
-        },
-        {
-          "id": "a28aabcf6ebb",
-          "title": "Lakers receive positive update for landing Nuggets' Nikola Jokic after Peyton Watson trade - Yahoo Sports Canada",
-          "original_title": "Lakers receive positive update for landing Nuggets' Nikola Jokic after Peyton Watson trade - Yahoo Sports Canada",
-          "summary": "Lakers receive positive update for landing Nuggets' Nikola Jokic after Peyton Watson trade&nbsp;&nbsp;Yahoo Sports Canada",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNDRMNG01Y1h3TDBJcUp0T0p2LTdfaUV2cmQtdUVYU3NNcTVJblc3MmVsTlBSeWVYaGpHYlhkeHVNblhwWGY2aWRQdDd2NXEyVlBWR1UwQ0tZdmlGRDc4TnptXzZubFE2V1h6UXZjdHRpVGdvZTQwS3JReWpVT2VRZTNzSEc5VTNYM1ZuelREdXo?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-08-20T18:20:49+00:00",
           "topic": "Lakers News"
         },
         {
@@ -83,17 +83,6 @@
           "topic": "Lakers News"
         },
         {
-          "id": "10fcfb300d91",
-          "title": "Ramona Shelburne debunks notion that LeBron James left L.A. Lakers because he knew they would get sold: \"That fate was sealed last August\" - Yahoo Sports",
-          "original_title": "Ramona Shelburne debunks notion that LeBron James left L.A. Lakers because he knew they would get sold: \"That fate was sealed last August\" - Yahoo Sports",
-          "summary": "Ramona Shelburne debunks notion that LeBron James left L.A. Lakers because he knew they would get sold: \"That fate was sealed last August\"&nbsp;&nbsp;Yahoo Sports",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYjk4dThoZkdZMjJuMVBoZlB1OWxLUWpiVEI0aE5Ma0FmUUlnelpVQ0dGendaazNaVXJQSVFmby1pYldBWGZhQl96d3locFdTOU5ZWHpmYVBiMGhVcEQ3ZXFjOHhXMGVUYllLTWR2OW8xWG1EN0UwZGl1T1d2dUNqdUQwbUFJT3QzMGR4YnE4TXk?oc=5",
-          "source": "Google News - Lakers",
-          "published": "2026-08-20T16:10:41+00:00",
-          "topic": "Lakers News"
-        },
-        {
           "id": "9ecd757574ec",
           "title": "Lakers have major momentum to sign $46M ex-Warriors NBA champion to pair with Luka Doncic - Yahoo Sports",
           "original_title": "Lakers have major momentum to sign $46M ex-Warriors NBA champion to pair with Luka Doncic - Yahoo Sports",
@@ -114,6 +103,17 @@
           "source": "Lakers Nation",
           "published": "2026-08-20T15:25:57+00:00",
           "topic": "Lakers News"
+        },
+        {
+          "id": "cc629b197e92",
+          "title": "The Lakers got out of the Mark Walter business right on time",
+          "original_title": "The Lakers got out of the Mark Walter business right on time",
+          "summary": "When it was reported that Mark Walter would buy the controlling stake in the Lakers at a $10 billion valuation in June 2025, many fans \u2014 me included \u2014 rejoiced. We rejoiced that the owner of the Dodgers \u2014 the same organization that had become the model franchise in all of Major League Baseball and [&#8230;]",
+          "key_points": [],
+          "link": "https://www.silverscreenandroll.com/lakers-analysis/125189/the-lakers-got-out-of-the-mark-walter-business-right-on-time",
+          "source": "Silver Screen and Roll",
+          "published": "2026-08-20T15:24:00+00:00",
+          "topic": "Lakers News"
         }
       ]
     },
@@ -121,9 +121,31 @@
       "name": "NBA League News",
       "articles": [
         {
-          "id": "8a41169b5ae1",
-          "title": "Denver loses big in Watson trade, Cavs\u2019 postseason potential + fantasy football draft tips with Justin Boone and Josh Norris",
-          "original_title": "Denver loses big in Watson trade, Cavs\u2019 postseason potential + fantasy football draft tips with Justin Boone and Josh Norris",
+          "id": "a7f01f00dfb5",
+          "title": "Cavs are doing all they can to keep up in the East, but is adding Peyton Watson enough?",
+          "original_title": "Cavs are doing all they can to keep up in the East, but is adding Peyton Watson enough?",
+          "summary": "James Harden is back in the mix, along with the rest of the core that was swept in the East finals. But the rest of the East is improved as well.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/nba/article/cavs-are-doing-all-they-can-to-keep-up-in-the-east-but-is-adding-peyton-watson-enough-192756079.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-08-20T19:27:56+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "6f1433d5de85",
+          "title": "James Harden returns to Cavaliers with new 3-year, $97 million deal",
+          "original_title": "James Harden returns to Cavaliers with new 3-year, $97 million deal",
+          "summary": "The Cleveland Cavaliers are bringing back James Harden, one of the key pieces that helped the team reach the NBA Eastern Conference finals.",
+          "key_points": [],
+          "link": "https://sports.yahoo.com/articles/james-harden-returns-cavaliers-3-190708198.html",
+          "source": "Yahoo Sports NBA",
+          "published": "2026-08-20T19:07:08+00:00",
+          "topic": "NBA League News"
+        },
+        {
+          "id": "ba8d49aa9fe6",
+          "title": "Denver loses big in Watson trade, Cavs' postseason potential + fantasy football draft tips with Justin Boone and Josh Norris",
+          "original_title": "Denver loses big in Watson trade, Cavs' postseason potential + fantasy football draft tips with Justin Boone and Josh Norris",
           "summary": "Kevin O'Connor reacts to Peyton Watson being traded to the Cavs and more NBA news with Tom Haberstroh.",
           "key_points": [],
           "link": "https://sports.yahoo.com/nba/article/denver-loses-big-in-watson-trade-cavs-postseason-potential--fantasy-football-draft-tips-with-justin-boone-and-josh-norris-181711293.html",
@@ -207,28 +229,6 @@
           "source": "Yahoo Sports NBA",
           "published": "2026-08-20T16:19:26+00:00",
           "topic": "NBA League News"
-        },
-        {
-          "id": "e3264a6a2314",
-          "title": "Tom Thibodeau\u2019s parting gift to the Knicks might go a long way towards a repeat",
-          "original_title": "Tom Thibodeau\u2019s parting gift to the Knicks might go a long way towards a repeat",
-          "summary": "Many champions are undone by fatigue, but the Knicks\u2019 old coach may have prepared them for this.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/tom-thibodeau-parting-gift-knicks-161135231.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-08-20T16:11:35+00:00",
-          "topic": "NBA League News"
-        },
-        {
-          "id": "422e755431e7",
-          "title": "The Lakers got out of the Mark Walter business right on time",
-          "original_title": "The Lakers got out of the Mark Walter business right on time",
-          "summary": "After feeling lucky to have Mark Walter buy the Lakers last year, the team is now better off that he has to sell them.",
-          "key_points": [],
-          "link": "https://sports.yahoo.com/articles/lakers-got-mark-walter-business-152400047.html",
-          "source": "Yahoo Sports NBA",
-          "published": "2026-08-20T15:24:00+00:00",
-          "topic": "NBA League News"
         }
       ]
     },
@@ -236,14 +236,69 @@
       "name": "Lakers Players",
       "articles": [
         {
-          "id": "59c1fbbe247c",
-          "title": "James Harden's new deal shows just how much 76ers won with LeBron James - The Sixer Sense",
-          "original_title": "James Harden's new deal shows just how much 76ers won with LeBron James - The Sixer Sense",
-          "summary": "James Harden's new deal shows just how much 76ers won with LeBron James&nbsp;&nbsp;The Sixer Sense",
+          "id": "45d2a28c60b4",
+          "title": "This Nike LeBron Sneaker Calls Back to the One Time James Was Snubbed for the NBA All-Star Game - WWD",
+          "original_title": "This Nike LeBron Sneaker Calls Back to the One Time James Was Snubbed for the NBA All-Star Game - WWD",
+          "summary": "This Nike LeBron Sneaker Calls Back to the One Time James Was Snubbed for the NBA All-Star Game&nbsp;&nbsp;WWD",
           "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUHdaWGVBY1lQODJfbl9iMkY2QjhzOG5ZTng0Y2U1ZHhEWDdGRlA2VzBLUkFWVHFGeXdNWmpRUzkxVzBPV3JBMWFTclltUno3aG84NWhORmJtdWZEWWhSUXNERjZ1RjJEaFVoU3MzTGFUWGg5UlNBbXlTMTBYanlqakZQblU1TkpoSWEwLUVxcEFNTTlnY3lIYTdoRQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaFY3TE5MVEhnVUJxS1lBNy1LeFFYemY5VkEtOFk2Tzh6NVJPLW1RVFR6Tml6SVlwOEdLTFY2S1BXSTR2NEZOM002czBtamZlalNPM3hWbDZtYWNHUlhGYVdJcFpPb2NLQmpTUUdxcFQ2Smp1NUQwbzZpdlhjSzI0R0huT2dEOEZxUkdudjFJaldKLXdVUmJybF9nT1hGTnFNTUFYc2UxbEhsMVA1?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-08-20T18:11:03+00:00",
+          "published": "2026-08-20T20:02:11+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "b985e1d60c1c",
+          "title": "LeBron James\u2019 Point Guard Role Could Unlock 76ers to New Heights - Philly Sports Reports",
+          "original_title": "LeBron James\u2019 Point Guard Role Could Unlock 76ers to New Heights - Philly Sports Reports",
+          "summary": "LeBron James\u2019 Point Guard Role Could Unlock 76ers to New Heights&nbsp;&nbsp;Philly Sports Reports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYm5ZZ2x1aWdrRks0dENIS2JaV1VWc2p6eUVEOXJ3MEN0emlHWXZRSjQ0VkVPemo1RDd2YUYzVW41eTNuSEN3TG9FdVZEX294aEI1cEFaQ1NBVFZVc01VV3FNdHZJenpDNmtVQ2xwOFZycXg0Y1ZtY2NWdzcyUHZQa2RkcGFBQ3Q4N3I4QnY1VnVCb0IycHpkQmhBd24xT0NFRHFwMlB1Ti1vQms?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-08-20T19:28:51+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "a4441c1a1e14",
+          "title": "James Harden Joins LeBron James, Steph Curry, KD in Elite NBA Earnings Club After $97M Cavs Contract - Bleacher Report",
+          "original_title": "James Harden Joins LeBron James, Steph Curry, KD in Elite NBA Earnings Club After $97M Cavs Contract - Bleacher Report",
+          "summary": "James Harden Joins LeBron James, Steph Curry, KD in Elite NBA Earnings Club After $97M Cavs Contract&nbsp;&nbsp;Bleacher Report",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRUwyZ2tncFRFYWtIOXRXanRqQ0NHSVFsNmZLUXJTZXlzM1BuLWJCYmtxYVR4TWRodG82ZFM5R3dnV2R0Mnh2UlpUWXBBakVrRkNheUV1TktQSUs5N0JNUmpsMXVQbThhdEZHV21UVHNlYnl3OG5uUlFZRjVrdTFGTktyM1BjLWZhby1Cd0o4MlFQWUVfZVJOd2h4Ui1TTFZsbXBWS3MtY0s2U2lTOENOUVVJVkZKR0lpQ09XWnR1U3BqcW5OZ2t5bzBxSEJyalV1X0JmZFFB?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-08-20T18:47:23+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "7845cce8fb12",
+          "title": "2026 LeBron James Odds: Will The King's Scoring Taper Off? - FOX Sports",
+          "original_title": "2026 LeBron James Odds: Will The King's Scoring Taper Off? - FOX Sports",
+          "summary": "2026 LeBron James Odds: Will The King's Scoring Taper Off?&nbsp;&nbsp;FOX Sports",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa0VYckk5cjk5RzlGVlVjZVdmenVDTHpvVnZRcmdzcVJaQnlveU5McGFMOFo1eXBSWXY2WTh2U2VpWXVod1NjUmhVTU9JUVZSNzl2QWUyMXlJN1Z3UzRnMnh3U1d0U0VFc0R2TzdxUk1kUUJ2NlhsSzlXWVdSVWtXWlZBYzFROG1EczZ3OG5TWTNwMDDSAZMBQVVfeXFMTzZzWTBEcnQ5TGk1dzZucEp0U01Hb1FrbDBCUml2dXdKaXZzT0pNSW44LTZDMTRxQnhQY2ZhWHdIb1psbHVJZDM1a0c3b2F4Y084OGJwQmlmNWpYcXdFWTF1Qnd3d1Iyc0dMdThPLTFIUkNnVGtKUUkwWjY2ZzRWZ2RVb3JYMXBDTTlVU05hSE5jTlI0?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-08-20T18:41:03+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "0b6a80eb4f38",
+          "title": "LeBron James Launches YouTube Golf Channel With 2016 Cavs Reunion Vlog - Yahoo",
+          "original_title": "LeBron James Launches YouTube Golf Channel With 2016 Cavs Reunion Vlog - Yahoo",
+          "summary": "LeBron James Launches YouTube Golf Channel With 2016 Cavs Reunion Vlog&nbsp;&nbsp;YahooPGA Star Sam Burns Thrilled LeBron James Diving Headfirst Into Golf&nbsp;&nbsp;TMZLeBron\u2019s New Channel Will Soon Become YouTube Golf\u2019s Biggest&nbsp;&nbsp;MyGolfSpy",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaHVocVpqdFZyUjlRUm5wV0pmUThBdGRFNFRKMTVXZWppV29XZUVwZS02akNIZ29NenBpeWJsYmlnQ1V2Wnk1dDZLcXY1MGVGNWxHQ045N2h1ZVoyM21jYVhBemRfMTIwQlFSWFNGcEZITUpEOHJmcGNrTlJJa0xUWW9xNEZORHB2MTNoR1NiOHF3TnRUR081Vk1FN0hSSHFFa2w1SU5YWQ?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-08-20T18:35:07+00:00",
+          "topic": "Lakers Players"
+        },
+        {
+          "id": "bc3e203b1a41",
+          "title": "James Harden makes expected decision after Cavaliers lose LeBron James sweepstakes to 76ers - Yardbarker",
+          "original_title": "James Harden makes expected decision after Cavaliers lose LeBron James sweepstakes to 76ers - Yardbarker",
+          "summary": "James Harden makes expected decision after Cavaliers lose LeBron James sweepstakes to 76ers&nbsp;&nbsp;Yardbarker",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOWd2NURHWEh4V0EwbHRsWll3cG9lVkRkR3pqSFhwWmFjd3g1V0VPVWlOMElrU1dha0RVeW81NU9PdnRUWEMtcE5kTTY3VUYxNFFCdk5xcjFLcWJjNUM3WXhFZUlrXzF2Rk9MbVU3Sm9ESnhneDFNZWRtRmM1UEdlekZ1dklWemY5M1FFWmNYQjV5dTZ5RnpKb0owdUgtMnRvOGxUTzV0Z3E3YWpLbklOY2lMTWJncVFzQ24yNkdCLVNDMUhRU0xMSnlqX0s3bEpZdE1MWExDaUZVa0l6aDM1OEVvSQ?oc=5",
+          "source": "Google News - LeBron",
+          "published": "2026-08-20T18:10:36+00:00",
           "topic": "Lakers Players"
         },
         {
@@ -258,6 +313,17 @@
           "topic": "Lakers Players"
         },
         {
+          "id": "ba7b8f7562e2",
+          "title": "Lakers $52 Million Signing Snubbed Multiple Rivals to Join Luka Doncic - heavy.com",
+          "original_title": "Lakers $52 Million Signing Snubbed Multiple Rivals to Join Luka Doncic - heavy.com",
+          "summary": "Lakers $52 Million Signing Snubbed Multiple Rivals to Join Luka Doncic&nbsp;&nbsp;heavy.com",
+          "key_points": [],
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQVJXeUNSb1lYM2o1OFNXMnRxTTBPYW1BSjhRZ2d4UjdrdFNBZTNWdjJveW0tZ1VSVXJIR2szM1djQmJqOUd1cjBzSF95V2JLcVQ2S05Vd1NnQVA4Z0g1bE54cE1nVVhzSmowVENVUW41NnBVaTQxeU1QTFZpNHlLZERzWTNoekZNNkZoQzl3?oc=5",
+          "source": "Google News - Luka",
+          "published": "2026-08-20T17:23:42+00:00",
+          "topic": "Lakers Players"
+        },
+        {
           "id": "c3ead1234f73",
           "title": "Lakers ownership drama not expected to have an impact on Luka Doncic - Yahoo Sports",
           "original_title": "Lakers ownership drama not expected to have an impact on Luka Doncic - Yahoo Sports",
@@ -269,80 +335,14 @@
           "topic": "Lakers Players"
         },
         {
-          "id": "a4441c1a1e14",
-          "title": "James Harden Joins LeBron James, Steph Curry, KD in Elite NBA Earnings Club After $97M Cavs Contract - Bleacher Report",
-          "original_title": "James Harden Joins LeBron James, Steph Curry, KD in Elite NBA Earnings Club After $97M Cavs Contract - Bleacher Report",
-          "summary": "James Harden Joins LeBron James, Steph Curry, KD in Elite NBA Earnings Club After $97M Cavs Contract&nbsp;&nbsp;Bleacher Report",
+          "id": "3799b9172d1f",
+          "title": "Shaquille O\u2019Neal puts major pressure on LeBron James and 76ers with blunt warning - Yahoo Sports",
+          "original_title": "Shaquille O\u2019Neal puts major pressure on LeBron James and 76ers with blunt warning - Yahoo Sports",
+          "summary": "Shaquille O\u2019Neal puts major pressure on LeBron James and 76ers with blunt warning&nbsp;&nbsp;Yahoo Sports",
           "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRUwyZ2tncFRFYWtIOXRXanRqQ0NHSVFsNmZLUXJTZXlzM1BuLWJCYmtxYVR4TWRodG82ZFM5R3dnV2R0Mnh2UlpUWXBBakVrRkNheUV1TktQSUs5N0JNUmpsMXVQbThhdEZHV21UVHNlYnl3OG5uUlFZRjVrdTFGTktyM1BjLWZhby1Cd0o4MlFQWUVfZVJOd2h4Ui1TTFZsbXBWS3MtY0s2U2lTOENOUVVJVkZKR0lpQ09XWnR1U3BqcW5OZ2t5bzBxSEJyalV1X0JmZFFB?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeUlYZHVFV0l1dWlBSjhZY0dMaWlOSkVRN0cwMk53TVBoUGNQeVhpajFSUU10NTNkbm1COFpIdWhhVFBzcFBzeGhSY255bmZJS3BEaVZISkljZXZEWEsyd0NqZHdQTENTUG9fYzlSa2FVTVRWbmpXbnNnTWhjN1o2RUx3?oc=5",
           "source": "Google News - LeBron",
-          "published": "2026-08-20T17:21:26+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "62a1893ff145",
-          "title": "James Harden and Cleveland Cavaliers agree to new contract - Akron Beacon Journal",
-          "original_title": "James Harden and Cleveland Cavaliers agree to new contract - Akron Beacon Journal",
-          "summary": "James Harden and Cleveland Cavaliers agree to new contract&nbsp;&nbsp;Akron Beacon Journal",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR0VlbXYyb1ZmbDZCMUFCMXBRTG9TX3dKaEZJbk43N3NucXVDOUV3eTZfMzNmN3JINmRXZmlnMEp3TnAwaC1lRGJIekhjTjV0UHBtd0lHTDkyU2l3Q0xlNTNMQTlCM1R1SjJYbFNZbHpIZlJocTE3endVUlhDelcwcXRpNmhUaHUzRHVsd1Z0MDZZMTB4ejhjT2wtRVJGMFhHdkU2V28ybHhwU2xFcldxdUo2MExCY0pQTExKcGhmdXNQQU82?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-08-20T17:17:00+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "0b7180873627",
-          "title": "Luka Doncic Lakers Trade Rumors Take Dark Turn: \u2018A Year Away\u2019 Amid Controversy - heavy.com",
-          "original_title": "Luka Doncic Lakers Trade Rumors Take Dark Turn: \u2018A Year Away\u2019 Amid Controversy - heavy.com",
-          "summary": "Luka Doncic Lakers Trade Rumors Take Dark Turn: \u2018A Year Away\u2019 Amid Controversy&nbsp;&nbsp;heavy.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa3IwNU16U0l3QUpySHB5Rlk3ajRXV2cwY2lQYVpydkU5VF9MQUdLVUZrRGdvdjFQd19WcUZTM1RDX0s3aTB6REw2eFYweFFqemZILVRzUmE4WUJhRllxdEplWEpPQUs3UVcwVnlpRTM5V01WWmJ3M1YzQTRBSXpKQXNJcE14NXRZRGZ0ejNEUzc?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-08-20T16:40:53+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "8e045f2e71bb",
-          "title": "Proposed NBA Trade Sees Lakers Land 7\u20192\u2033 Elite Shooter With Luka Doncic - heavy.com",
-          "original_title": "Proposed NBA Trade Sees Lakers Land 7\u20192\u2033 Elite Shooter With Luka Doncic - heavy.com",
-          "summary": "Proposed NBA Trade Sees Lakers Land 7\u20192\u2033 Elite Shooter With Luka Doncic&nbsp;&nbsp;heavy.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNDhpMTZhVHlqYjJhcUREX3V1RHpaMEFaaTN6cUtSUERjVlBGN1pvMmZMZGhCS3RUQ3dodnlmQ195c1pXYlU0YXdwX1BoSEd4UkZ5enFrT2h4WENYTndNel94OEFSeE9ZUVhkNFE5d1NJZV9UVzNlR2JmRmJmQkNwOTVpQUVQSkk?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-08-20T16:35:16+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "e9915b888105",
-          "title": "Lakers\u2019 Luka Doncic Gets Warning From Bulls Star - heavy.com",
-          "original_title": "Lakers\u2019 Luka Doncic Gets Warning From Bulls Star - heavy.com",
-          "summary": "Lakers\u2019 Luka Doncic Gets Warning From Bulls Star&nbsp;&nbsp;heavy.com",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRERfeGlLb1pDRWJmSzZNRlBNSk5mbHRpNUQtNUNwVEhsVE96cjRQSUtZcTJiWlJkbHczMDFhcFBvUWZiRFhQM045Z0pNZHBKeUZsZkd6WFE4ZXdoNFRfYWVaTDFob2ROcTFmb21vMFlwbXB0cTQ1UFJDSlBZZ1c1aDVLcmJnZ19i?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-08-20T16:23:40+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "e6dcff2f1162",
-          "title": "Jaylen Brown will be the most motivated player in the NBA - Liberty Ballers",
-          "original_title": "Jaylen Brown will be the most motivated player in the NBA - Liberty Ballers",
-          "summary": "Jaylen Brown will be the most motivated player in the NBA&nbsp;&nbsp;Liberty Ballers",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSlRqd3FDcWdZWFdNYTVmQWZMd1VIOE1MeWZ5U1BiMTVWQjhObWx6OWg5a3BfOGwxeTRJXzRkUUNGbkEtU1ktSkJyMjlyQzZXa1JCMlplcnFqN3RkRWdMOG55Si1PbjVZS3oxaDJISkRrYkt4cGhNX3I5eEpGeFBMQmJCbV9OTzVmalVhRWZvZ3lNNU5xbTVVVnl0R01PeWVHT3liU1dDUG00QWo3YnpHcTFKMWVfdUVFWGc?oc=5",
-          "source": "Google News - LeBron",
-          "published": "2026-08-20T16:19:26+00:00",
-          "topic": "Lakers Players"
-        },
-        {
-          "id": "1e995e779054",
-          "title": "Matas Buzelis Says Luka Doncic Dropped 'Nasty' Trash Talk During Bulls vs. Lakers Matchup - Bleacher Report",
-          "original_title": "Matas Buzelis Says Luka Doncic Dropped 'Nasty' Trash Talk During Bulls vs. Lakers Matchup - Bleacher Report",
-          "summary": "Matas Buzelis Says Luka Doncic Dropped 'Nasty' Trash Talk During Bulls vs. Lakers Matchup&nbsp;&nbsp;Bleacher Report",
-          "key_points": [],
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR0ZIbTA3WWlIaERZVGNnR1UycmNBY2tiNDN3ckMxYlo3enFrSG95SmtsM21SMzJJVkstb1VEellBOWp4b3EzSVY2c2E4VVp1dHdlVXUwcnB6SzA0U3pLWmxaYUhIU0l6cnNSLUs1SXBUbU1ZR2xfMURiN1VnVzdLdFBITS1PRDFYOVQxeTFjVHJ4WHVHTEFNdW9SSzEwUW9IbmhRSDBuSU9ZZVdzYUtKMHA1c0R5dUhKaTRfcVlPUUwwNFN1dmM4MGdNRQ?oc=5",
-          "source": "Google News - Luka",
-          "published": "2026-08-20T15:55:56+00:00",
+          "published": "2026-08-20T17:11:33+00:00",
           "topic": "Lakers Players"
         }
       ]
